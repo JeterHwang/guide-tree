@@ -1,0 +1,27 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 148  Type: P  December 21, 2021 20:29  Check: 2150  ..
+
+ Name: 1ycc_   Len:    148  Check: 9910  Weight: -1.00
+ Name: 1cno_A  Len:    148  Check: 9634  Weight: -1.00
+ Name: 1a56_   Len:    148  Check: 9070  Weight: -1.00
+ Name: 1h31_B  Len:    148  Check: 3536  Weight: -1.00
+
+//
+
+        1                                                   50
+1ycc_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~GSAKKG ....ATLFKT RCLQCHTVEK
+1cno_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~AG DIEAGKAKAA VCAACHGQNG
+1a56_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~DADLAKKN NCIACHQVET
+1h31_B  AEVAPGDVAI DGQGHVARPL TDAPGDPVEG RRLMTDRSVG NCIACHEVTE
+
+        51                                                 100
+1ycc_   GG....PHKV GPNLHGIFGR HSGQAE..GY SYTDANI..K KNVLWDENNM
+1cno_A  IS.......Q VPIYPNLAGQ KEQYLVAALK AYKAGQRQGG QAPVMQG...
+1a56_   KV.......V GPALKDIAAK YAD..KDDAA TYLAGKIKGG SSGVWGQIPM
+1h31_B  MADAQFPGTV GPSLDGVAAR YPEAMIRGIL V........N SKNVFPETVM
+
+        101                                              148
+1ycc_   SEYLTNPKKY IPGTKMAFGG .......LKK EKDRNDLITY LKKACE~~
+1cno_A  .QATA..... .......... ........LS DADIANLAAY YASNPAAA
+1a56_   PPNVN..... .......... ........VS DADAKALADW ILTLK~~~
+1h31_B  PAYYRVEGFN RPGIAFTSKP IEGEIRPLMT AGQIEDVVAY LMTLTQ~~

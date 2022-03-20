@@ -1,0 +1,65 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11002_kalign.msf  MSF: 272  Type: N  December 21, 2021 20:29  Check: 5910  ..
+
+ Name: 1abo_A  Len:    272  Check: 9069  Weight: 1.00
+ Name: 1ycs_B  Len:    272  Check: 8124  Weight: 1.00
+ Name: 1pht_   Len:    272  Check: 1821  Weight: 1.00
+ Name: 1ihv_A  Len:    272  Check: 5438  Weight: 1.00
+ Name: 1bb9_   Len:    272  Check: 2409  Weight: 1.00
+ Name: 1hjd_A  Len:    272  Check: 3188  Weight: 1.00
+ Name: 1ov3_A  Len:    272  Check: 7848  Weight: 1.00
+ Name: 1ue9_A  Len:    272  Check: 8013  Weight: 1.00
+
+//
+
+1abo_A     ------------------------------------------------------------
+1ycs_B     PLALLLDSSLEGEFDLVQRIIYEVDDPSLPNDEGITALHNAVCAGHTEIVKFLVQFGVNV
+1pht_      ------------------------------------------------------------
+1ihv_A     ------------------------------------------------------------
+1bb9_      ------------------------------------------------------------
+1hjd_A     ------------------------------------------------------------
+1ov3_A     ------------------------------------------------------------
+1ue9_A     ------------------------------------------------------------
+
+
+1abo_A     ------------------------------------------------------------
+1ycs_B     NAADSDGWTPLHCAASCNNVQVCKFLVESGAAVFAMTYSDMQTAADKCEEMEEGYTQCSQ
+1pht_      ------------------------------------------------------------
+1ihv_A     --------------------------------------------------------MIQN
+1bb9_      ------------------------------------------------------------
+1hjd_A     -----------------------------------------------------------A
+1ov3_A     ------------------------------------------------------------
+1ue9_A     ------------------------------------------------------------
+
+
+1abo_A     --------------NLFVALYDFVASGDNTLSITKGEKLRVLGYNHN-------GEW-CE
+1ycs_B     FLYGVQEKMGIMNKGVIYALWDYEPQNDDELPMKEGDCMTIIHREDE-------DEIEWW
+1pht_      ----------AEG-YQYRALYDYKKEREEDIDLHLGDILTVNKGSLV-------ALGFSD
+1ihv_A     FRVYYRDSRDPVWKGPAKLLWKGE----GAVVIQDNSDIKVVPRRKA-------KIIRD-
+1bb9_      --TTGRLDLPPGFMFKVQAQHDYTATDTDELQLKAGDVVLVIPFQNP-------EEQDEG
+1hjd_A     DRKLCADQECSHPISMAVALQDYMAPDCRFLTIHRGQVVYVFSKLKGRGRLFWGGSVQGD
+1ov3_A     -----LGSPEFIILQTYRAIADYEKTSGSEMALSTGDVVEVVEKSES-------GWWFCQ
+1ue9_A     ------GSSGSSG-EIAQVTSAYVASGSEQLSLAPGQLILILKKNTS-------GWWQGE
+
+
+1abo_A     AQT---KNGQGWVPSNYITP-VNS------------------------------------
+1ycs_B     WAR--LNDKEGYVPRNLL----GLYP----------------------------------
+1pht_      GQE-ARPEEIGWL-NGYNET-TGERGDFPGTYVEYIGRKKISPP----------------
+1ihv_A     ------------------------------------------------------------
+1bb9_      WLM--GVKESDWNQHKELEKCRGVFPENFTERVQ--------------------------
+1hjd_A     YYG-DLAARLGYFPSSIVREDQTLKPGKVDVKTDKWDFYCQ-------------------
+1ov3_A     MKA---K--RGWIPASFLEP-LDSPDETEDPEPNYAGEPYVAIKAYTAVEGDEVSLLEGE
+1ue9_A     LQARGKKRQKGWFPASHVKL-LGPSSE-RASGPS-SG-----------------------
+
+
+1abo_A     --------------------------------
+1ycs_B     --------------------------------
+1pht_      --------------------------------
+1ihv_A     --------------------------------
+1bb9_      --------------------------------
+1hjd_A     --------------------------------
+1ov3_A     AVEVIHKLLDGWWVIRKDDVTGYFPSMYLQKS
+1ue9_A     --------------------------------
+
+

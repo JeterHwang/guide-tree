@@ -1,0 +1,211 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 1235  Type: P  December 21, 2021 20:31  Check: 8694  ..
+
+ Name: 1d0e_A     Len:   1235  Check: 4653  Weight: -1.00
+ Name: 1bqm_A     Len:   1235  Check: 9284  Weight: -1.00
+ Name: POL_CAEVC  Len:   1235  Check:  191  Weight: -1.00
+ Name: POL_BIV06  Len:   1235  Check: 5879  Weight: -1.00
+ Name: POL_MPMV   Len:   1235  Check: 2090  Weight: -1.00
+ Name: POL_RSVP   Len:   1235  Check: 6597  Weight: -1.00
+
+//
+
+           1                                                   50
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  TRNHMSQLWK ERTYAKRMQR KERHKGK... .......TAG KREEGDTCGA
+POL_BIV06  ~TAKMLPLWQ TWPPSKKLQV KKREVLLCPL WAEEPTTEQF SPEQHEFCDP
+POL_MPMV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_RSVP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+           51                                                 100
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  V.RSSYGITS APPMVQVRIG SQQRNLLFDT GADRTI...V RWHEGSGNPA
+POL_BIV06  ICTPSYIRLD KQPFIKVFIG GRWVKGLVDT GADEVVLKNI HWDRIKGYPG
+POL_MPMV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_RSVP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+           101                                                150
+1d0e_A     ~~~~~~~~~~ ~GSHMTWLSD FPQAWAETG. GM........ ..........
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  GRIKLQGIGG IVEGEKWNNV ELEYKGETRK GTIVVLPQSP VEVLGRDNMA
+POL_BIV06  TPIKQIGVNG VNVAKRKTHV EWRFKDKTGI .IDVLFSDTP VNLFGRSLLR
+POL_MPMV   ~~~~~~~~~~ ~~~~~~~~~~ QKRFWKFLTA AI........ ..........
+POL_RSVP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+           151                                                200
+1d0e_A     .........G .LAVRQAPLI IPLKATSTPV SIKQYPMSQE ARLGIKPHIQ
+1bqm_A     ~~~~~~~~~~ ~PISPIETVP VKLKPGMDGP KVKQWPLTEE KIKALVEICT
+POL_CAEVC  RFGIKIIMAN LEEKRIPITK VKLKEGCTGP HVPQWPLTEE KLKGLTEIID
+POL_BIV06  SIVTCF...T LLVHTEKIEP LPVKVRGPGP KVPQWPLTKE KYQALKEIVK
+POL_MPMV   .........D ILAPQQCAEP ITWKSD.EPV WVDQWPLTND KLAAAQQLVQ
+POL_RSVP   ~~~~~~~~~~ ~TVALHLAIP LKWKPDHTPV WIDQWPLPEG KLVALTQLVE
+
+           201                                                250
+1d0e_A     RLLDQGILVP ..CQSPWNTP LLPVKKPGTN DYRPVQDLRE VNKRVEDI..
+1bqm_A     EMEKEGKISK IGPENPYNTP VFAIKKKDST KWRKLVDFRE LNKRTQDFWE
+POL_CAEVC  KLVEEGKLGK APPHWTCNTP IFCIKKK.SG KWRMLIDFRE LNKQTEDLTE
+POL_BIV06  DLLAEGKISE AAWDNPYNTP VFVIKKKGTG RWRMLMDFRE LNKITVKGQE
+POL_MPMV   EQLEAGHITE ..SSSPWNTP IFVIKKK.SG KWRLLQDLRA VNATMVLMGA
+POL_RSVP   KELQLGHIEP ..SLSCWNTP VFVIRKA.SG SYRLLHDLRA VNAKLVPFGA
+
+           251                                                300
+1d0e_A     .HPTVPNPYN LLSGLPPSHQ WYTVLDLKDA FFCLRLHPTS QPLFAFEWRD
+1bqm_A     VQLGIPHPAG LKKKK..... SVTVLDVGDA YFSVPLDEDF RKYTAFTIPS
+POL_CAEVC  AQLGLPHPGG LQKKK..... HVTILDIGDA YFTIPLYEPY REYTCFTLLS
+POL_BIV06  FSTGLPYPPG IKECE..... HLTAIDIKDA YFTIPLHEDF RPFTAFSVVP
+POL_MPMV   LQPGLPSPVA IPQGY..... LKIIIDLKDC FFSIPLHPSD QKRFAFSLPS
+POL_RSVP   VQQGAPVLSA LPRGW..... PLMVLDLKDC FFSIPLAEQD REAFAFTLPS
+
+           301                                                350
+1d0e_A     PEMG.ISGQL TWTRLPQGFK NSPTLFDEAL HRDLADFRIQ HPDLILLQYV
+1bqm_A     INNETPGIRY QYNVLPQGWK GSPAIFQSSM TKILEPFKKQ NPDIVIYQYM
+POL_CAEVC  PNNLGPCKRY YWKVLPQGWK LSPSVYQFTM QEILEDWIQQ HPEIQFGIYM
+POL_BIV06  VNREGPIERF QWNVLPQGWV CSPAIYQTTT QKIIENIKKS HPDVMLYQYM
+POL_MPMV   TNFKEPMQRF QWKVLPQGMA NSPTLCQKYV ATAIHKVRHA WKQMYIIHYM
+POL_RSVP   VNNQAPARRF QWKVLPQGMT CSPTICQLVV GQVLEPLRLK HPSLCMLHYM
+
+           351                                                400
+1d0e_A     DDLLLAATSE L.DCQQGTRA LLQTLGNLGY RASAKKAQIC QKQVKYLGYL
+1bqm_A     DDLYVGSDLE IGQHRTKIEE LRQHLLRWGL TTPDKKHQK. EPPFLWMGYE
+POL_CAEVC  DDIYIGSDLE IKKHREIVKD LANYIAQYGF TLPEEKRQK. GYPAKWLGFE
+POL_BIV06  DDLLIGSNRD ..DHKQIVQE IRDKLGSYGF KTPDEKVQE. E.RVKWIGFE
+POL_MPMV   DDILIAGKDG Q.QVLQCFDQ LKQELTAAGL HIAPEKVQL. QDPYTYLGFE
+POL_RSVP   DDLLLAASSH D.GLEAAGEE VISTLERAGF TISPDKVQR. EPGVQYLGYK
+
+           401                                                450
+1d0e_A     LKEGQR~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     LHPDKWTVQP IVLPEK..DS WTVNDIQKLV GKLNWASQIY PG..IKVRQL
+POL_CAEVC  LHPQTWKFQK HTLPELTKGT ITLNKLQKLV GELVWRQSII G...KSIPNI
+POL_BIV06  LTPKKWRFQP RQLKIK..NP LTVNELQQLV GNCVWVQPEV K...IPLYPL
+POL_MPMV   LNGPKITNQK AVIRKD..KL QTLNDFQKLL GDINWLRPYL KLTTGDLKPL
+POL_RSVP   LGSTYVA.PV GLVAEP..RI ATLWDVQKLV GSLQWLRPAL GIPPRLMGPF
+
+           451                                                500
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     SKLLRGTKAL TEVIPLTEEA ELELAENREI LKEPVHGVYY DPSKDLIAEI
+POL_CAEVC  LKLMEGDREL QSERKIEEVH VKEWEAC.RK KLEEMEGNYY NKDKDVYGQL
+POL_BIV06  TDLLRDKTNL QEKIQLTPEA IKCVEEFNLK LKDPEWKDRI REGAELVIKI
+POL_MPMV   FDTLKGDSDP NSHRSLSKEA LASLEKVETA I.AEQFVTHI NYSLPLIFLI
+POL_RSVP   YEQLRGSD.P NEAREWNLDM KMAWREIVRL S.TTAALERW DPALPLEGAV
+
+           501                                                550
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     QKQGQGQWT. ..YQIYQEPF KNLKTGKYAR MRGAHTNDVK QLTEAVQKIT
+POL_CAEVC  AW.GDKAIE. ..YIVYQEKG KPLWVNVVHN IKN..LSIPQ QVIKAAQKLT
+POL_BIV06  QMVPR.GIV. ..FDL.LQDG NPIWGGVK.G LNYDHSNKIK KILRTMNELN
+POL_MPMV   FN.....TAL TPTGLFWQDN PIMWIHLPAS PKKVLLPYYD AIADLIILGR
+POL_RSVP   ARCEQGAIGV LGQGLSTHPR PCLWLFST.Q PTKAFTAWLE VLTLLITKLR
+
+           551                                                600
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     TESIVIWGKT PKFKLPI... QKETWETWWT EYWQATW... .......IPE
+POL_CAEVC  QEVIIRTGKI PWILLPG... KEEDWRLEL. QLGNITW... .......MPK
+POL_BIV06  RTVVIMTGRE ASFLLPG... SSEDWEAALQ KEESLTQ... .......IFP
+POL_MPMV   DHSKKYFGIE PSTIIQPYSK SQIDWLMQNT EMWPIACASF VGILDNHYPP
+POL_RSVP   ASAVRTFGKE VDILLLPACF RED.L..PLP EGILLALKGF AGKIRSSDTP
+
+           601                                                650
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     WEF.VNTPPL VKLWYQ.LEK EPI.VGAETF YVDGAANRET KLGKAGYVT.
+POL_CAEVC  FWS.CYR..G HTRWRKRNII EEV.VEGPTY YTDGGK..KN KVGSLGFIV.
+POL_BIV06  VKF.YR...H SCRWTS..IC GPVRENLTTY YTDGGKKGKT AA..AVYW..
+POL_MPMV   NKLIQFCKLH TFVFPQIISK TPL.NNALLV FTDGSSTGM. ....AAYTLT
+POL_RSVP   SIFDIARPLH VS.LKVRVTD HPV.P.GPTV FTDASSSTH. ....KGVVVW
+
+           651                                                700
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     NKGRQKVV.. .PLTNTTNQK TELQAIYLAL QDSG.LEVNI VTDSQYALGI
+POL_CAEVC  STGEKF.R.. .KHEEGTNQQ LELRAIEEAL KQGP.QTMNL VTDSRYAFEF
+POL_BIV06  CEGRTK.S.. .KVFPGTNQQ AELKAICMAL LDGP.PKMNI ITDSRYAYEG
+POL_MPMV   DTTIKF.... QT.NLNSAQL VELQALIAVL SAFPNQPLNI YTDSAYLAHS
+POL_RSVP   REGPRWEIKE IADLGASVQQ LEARAVAMAL LLWPTTPTNV VTDSAFVAKM
+
+           701                                                750
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     IQAQPDK..S ESELVNQIIE QLIKKEKVYL AWVPAHKGIG GNEQVDKLVS
+POL_CAEVC  LLRNWDEEVI KNPIQARIME IAHKKDRIGV HWVPGHKGIP QNEEIDKYIS
+POL_BIV06  MREEPETW.A REGIWLEIAK ILPFKQYVGV GWVPAHKGIG GNTEADEGVK
+POL_MPMV   IPLLETVA.. .......... .......... ....QIKHIS ETA.......
+POL_RSVP   LLKMGQE... .......... .......... .......GVP STA.......
+
+           751                                                800
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     AGI~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  EIFLAKEGEG ILPKREEDAG YDLICPEEVT IEPGQVKCIP IELRLNLKKS
+POL_BIV06  KALEQMA... ..P....... ..CSPPEAIL LKPGEKQNLE TGIYMQGLRP
+POL_MPMV   KLFL...... .......... ...QCQQLIY .......NRS IPFYIGHVRA
+POL_RSVP   AAFI...... .......... ...L.EDALS .......QRS AMAAVLHVRS
+
+           801                                                850
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  QWAMIATKSS MAAKGVFTQG GIIDSGYQGQ IQVIMYNSNK IAVVIPQGRK
+POL_BIV06  QSFLPR.... .ADLPVAITG TMVDSELQLQ .......... ..........
+POL_MPMV   HSGLP..... ....GPIAQG NQR....... .......... ..........
+POL_RSVP   HSEVP..... ....GFFTEG NDV....... .......... ..........
+
+           851                                                900
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  FAQLILMDKK HGKLEPWGES RKTERGEKGF GSTGMYWIEN IPLAEEDHTK
+POL_BIV06  ...LLNIGTE HIRI...... ....QKD... EVFMTCFLEN IPSATEDHER
+POL_MPMV   .......... .......... .....ADLAT KIVASNINTN LESAQNAHTL
+POL_RSVP   .......... .......... .....ADSQA TFQAY....P LREAKDLHTA
+
+           901                                                950
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  WHQDARSLHL EFEIPRTAAE DIVNQCEICK EARTPAVIRG GNKRGVN...
+POL_BIV06  WHTSPDILVR QFHLPRRIAK EIVARCQECK RTT.ASPVRG TNPRGRF...
+POL_MPMV   HHLNAQTLRL MFNIPREQAR QIVKQCPICV TYL.PVPHLG VNPRGLFPNM
+POL_RSVP   LHIGPRALSK ACNISMQQAR EVVQTCPHCN S.A.PALEAG VNPRGLGPLQ
+
+           951                                               1000
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  HWQVDYTHYE NII....LLV WVETNSGLIY AEKVKGESGQ EFRIKVMHWY
+POL_BIV06  LWQMDNTHWN KTI....IWV AVETNSGLVE AQVIPEETAL QVALCILQLI
+POL_MPMV   IWQMDVTHYS EFGNLKYIHV SIDTFSGFLL ATLQTGETTK HVITHLLHCF
+POL_RSVP   IWQTDFTLEP RMAPRSWLAV TVDTASSAIV VTQHGRVTSV AVQHHWATAI
+
+           1001                                              1050
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  ALFG.PESLQ SDNGPAFAAE PTQLLMQYLG VKHTTGIPWN PQSQAIVERA
+POL_BIV06  QRYT.VLHLH SDNGPCFTAH RIENLCKYLG ITKTTGIPYN PQSQGVVERA
+POL_MPMV   SIIGLPKQIK TDNGPGYTSK NFQEFCSTLQ IKHITGIPYN PQGQGIVERA
+POL_RSVP   AVLGRPKAIK TDNGSCFTSK STREWLARWG IAHTTGIPGN SQGQAMVERA
+
+           1051                                              1100
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  HQLLKSTLKK FQPQF..... ...VAVESAI AAALVAINIK RKGGLGTSPM
+POL_BIV06  HRDLKDRLAA YQGDC..... ...ETVEAAL SLALVSLNKK RGGIGGHTPY
+POL_MPMV   HLSLKTTIEK IKKGEWYPRK G...TPRNIL NHALFILNFL NLDDQNKSAA
+POL_RSVP   NRLLKDRIRV LAEGDGFMKR IPTSKQGELL AKAMYALNHF ERGENTKTPI
+
+           1101                                              1150
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  DIFIYNKEQK RI...NNKYN KNSQKIQFCY YRIR...KRG HQESGKDQPR
+POL_BIV06  EIYLESEHTK YQDQLEQQFS K.QKIEKWCY VRNR...RKE WK..GPYKVL
+POL_MPMV   DRFWHN.... .......... ..NPKKQFAM VKWKDPLDNT WH..GPDPVL
+POL_RSVP   QKHWRP.... .......... ..TVLTEGPP VKIR.IETGE WE..KGWNVL
+
+           1151                                              1200
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POL_CAEVC  YCGKGKEPIV VKDIESEKYL VIPYKDAKFI PPPTKEKE~~ ~~~~~~~~~~
+POL_BIV06  WDGDGAAVI. ...EEEGKTA LYPHRHMRFI PPPDSDIQDG ..SS~~~~~~
+POL_MPMV   IWGRGSVCVY SQT..YDAAR WLPERLVRQV SNNNQSRE~~ ~~~~~~~~~~
+POL_RSVP   VWGRGYAAVK NRD..TDKVI WVPSRKVKPD ITQKDEVTKK DEASPLFAGI
+
+           1201                              1235
+1d0e_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
+1bqm_A     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
+POL_CAEVC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
+POL_BIV06  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
+POL_MPMV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
+POL_RSVP   SDWIPWEDEQ EGLQGETASN KQERPGEDTL AANES

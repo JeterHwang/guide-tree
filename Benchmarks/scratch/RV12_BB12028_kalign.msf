@@ -1,0 +1,105 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV12_BB12028_kalign.msf  MSF: 521  Type: N  December 21, 2021 20:30  Check: 2636  ..
+
+ Name: 1cpj_A      Len:    521  Check: 9250  Weight: 1.00
+ Name: TNAG_HUMAN  Len:    521  Check: 6804  Weight: 1.00
+ Name: 1jqp_A      Len:    521  Check: 5730  Weight: 1.00
+ Name: CAL2_GIALA  Len:    521  Check:  610  Weight: 1.00
+ Name: 1deu_A      Len:    521  Check: 1171  Weight: 1.00
+ Name: 1ppn_       Len:    521  Check: 8039  Weight: 1.00
+ Name: 1aim_       Len:    521  Check: 4966  Weight: 1.00
+ Name: CATO_HUMAN  Len:    521  Check: 6066  Weight: 1.00
+
+//
+
+1cpj_A         ------------------------------------------------------------
+TNAG_HUMAN     MWTGYKFSIFSYLTTEIWMEKQYLSQREVDLEAYFTRNHTVLQGTRFKRAIFQGQYCRNF
+1jqp_A         ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+1deu_A         ------------------------------------------------------------
+1ppn_          ------------------------------------------------------------
+1aim_          ------------------------------------------------------------
+CATO_HUMAN     ------------------------------------------------------------
+
+
+1cpj_A         ------------------------------------------------------------
+TNAG_HUMAN     GCCEDRDDGCVTEFYAANALCYCDKFCDRENSDCCPD------YKSFCREEKE-WPPHTQ
+1jqp_A         ---------------------------DTPANCTYPDLLGTWVFQVGPRHPRSHINCSVM
+CAL2_GIALA     ------------------------------------------------------------
+1deu_A         ------------------------------------------------------------
+1ppn_          ------------------------------------------------------------
+1aim_          ------------------------------------------------------------
+CATO_HUMAN     ------------------------------------------------------MDVRAL
+
+
+1cpj_A         ------------------------------------------------------------
+TNAG_HUMAN     PWYPEGCFKDGQHYEEGSVIKENCNSCTCSGQQWKCSQHVCLVRPELIEQVNKGDYGWTA
+1jqp_A         EPTEEKVVIHLKKLDTAYDEVGNSGYFTLIYNQ---GFEIVLNDYKWF-AFFKYEVK---
+CAL2_GIALA     ---------------------------MKLFLLAAAAFSAPALTVSELNHIKSLNPRWKA
+1deu_A         ------------------------------------------------------------
+1ppn_          ------------------------------------------------------------
+1aim_          ------------------------------------------------------------
+CATO_HUMAN     PWLPWLLWLLCRGGGDADSRAPFTPTWPRSREREAAAFRESLNRHRYLNSLFPSENSTAF
+
+
+1cpj_A         -----------------------------------------LPESFDAREQWSNCPTIAQ
+TNAG_HUMAN     QNYSQFWGMTLEDG----FKFRLGTLPPSPMLLSMNEMTASLPATTDLPEFFVAS-YKWP
+1jqp_A         -GSRAISYC--HETMTGWVHDVLGR--NWACFVGKKM--LSLPESWDWRNVRGIN-FVSP
+CAL2_GIALA     GIPKRFEGLTKDEISSLLMPVSFLKNAKGAAPRGTFTDKDDVPESFDFREEYPHC--IPE
+1deu_A         -----------------------------------------LPKSWDWRNVDGVN-YASI
+1ppn_          -----------------------------------------IPEYVDWRQKGAV----TP
+1aim_          -----------------------------------------APAAVDWRARGAV----TA
+CATO_HUMAN     YGINQFSYLFPEEFKAIYLRSKPSKFPRYSAEVHMSIPNVSLPLRFDWRDKQVV----TQ
+
+
+1cpj_A         -----IRDQ---GSCGSCWAFGAVEAMSDRICIHTNGR-VNVEVSAEDLLTCCGIQCGD-
+TNAG_HUMAN     GWTHGPLDQ---KNCAASWAFSTASVAADRIAIQSKGR-YTANLSPQNLISCC--AKNRH
+1jqp_A         -----VRNQ---ESCGSCYSFASLGMLEARIRILTNNS-QTPILSPQEVVSC---SPYAQ
+CAL2_GIALA     -----VVDQ---GGCGSCWAFSSVATFGDRRCVAGLDK-KPVKYSPQYVVSC---DHGDM
+1deu_A         -----TRNQHIPQYCGSCWAHASTSAMADRINIKRKGAWPSTLLSVQNVIDC---G-NAG
+1ppn_          -----VKNQ---GSCGSCWAFSAVVTIEGIIKIRTG---NLNEYSEQELLDC---DRRSY
+1aim_          -----VKDQ---GQCGSCWAFSAIGNVECQWFLAGH---PLTNLSEQMLVSC---DKTDS
+CATO_HUMAN     -----VRNQ---QMCGGCWAFSVVGAVESAYAIKGK---PLEDLSVQQVIDC---SYNNY
+
+
+1cpj_A         GCNGGYP-SGAWNFW--TRKGLVSGGVYNSHIGCLPYTIPPCEHHVNGARPPCTGEGDTP
+TNAG_HUMAN     GCNSGSI-DRAWWYL--RKRGLVSH-------ACYPLF-----KDQNATNNGCAMASRSD
+1jqp_A         GCDGGFPYLIAGKYA--QDFGVVEE-------NCFPYT---------ATDAPCKPKENCL
+CAL2_GIALA     ACNGGWL-PNVWKFL--TKTGTTTD-------ECVPYK--SGSTTLRGTCPTKCADGSS-
+1deu_A         SCEGGND-LSVWDYA--HQHGIPDE-------TCNNYQ---------AKDQECDKFNQCG
+1ppn_          GCNGGYP-WSALQLV--AQYGIHYR-------NTYPYE---------GVQRYCRS-REKG
+1aim_          GCSGGLM-NNAFEWI--VQEAVYTE-------DSYPYA---------GISPPCTT-SGHT
+CATO_HUMAN     GCNGGST-LNALNWLNKMQVKLVKD-------SEYPFK---------AQNGLCHYFSGSH
+
+
+1cpj_A         KCNKMCEAGYSTSYKEDKHYGY---TSYSVSDSEKEIMAEIYKNGPVEGAFTVF-SDFLT
+TNAG_HUMAN     GRGKRDATKPCPNNVEKSNRIYQCSPPYRVSSNETEIMKEIMQNGPVQAIMQVR-EDFFH
+1jqp_A         RYYS-----SEYYYVG---GFY---GGC----NEALMKLELVKHGPMAVAFEVH-DDFLH
+CAL2_GIALA     ---KVHLA-TATSYKD---YGL---DIPA-------MMKALSTSGPLQVAFLVH-SDFMY
+1deu_A         TCNEFKECHAIRNYTL---WRV---GDYGSLSGREKMMAEIYANGPISCGIMAT-ERLAN
+1ppn_          PYA------AKTDGVR---QVQ---PY-----NEGALLYSIA-NQPVSVVLEAAGKDFQL
+1aim_          VGA------TITGHVE-----L---PQ-----DEAQIAAWLAVNGPVAVAVDAS--SWMT
+CATO_HUMAN     SGF------SIKGYSA---YDF---SD-----QEDEMAKALLTFGPLVVIVDAV--SWQD
+
+
+1cpj_A         YKSGVYKHEAGDV-------MG-GHAIRILGWGIE-N-GVP-----YWLVANSWNADWGD
+TNAG_HUMAN     YKTGIYRHVTSTNKESEKYRKLQTHAVKLTGWGT--LRGAQGQKEKFWIAANFWGKSWGE
+1jqp_A         YHSGIYHHPFNPF-------ELTNHAVLLVGYGKDPVTGLD-----YWIVKNSWGSQWGE
+CAL2_GIALA     YESGVYQHTYGYM-------EG-GHAVEMVGYGTD-DDGVD-----YWIIKNSWGPDWGE
+1deu_A         YTGGIYAEYQDTT-------YI-NHVVSVAGWGI--SDGTE-----YWIVRNSWGEPWGE
+1ppn_          YRGGIFVGPCGN--------KV-DHAVAAVGY------GPN-----YILIKNSWGTGWGE
+1aim_          YTGGVMT-SCVS--------EL-DHGVLLVGY------NVP-----YWIIKNSWTTQWGE
+CATO_HUMAN     YLGGIIQHHCSSG-------EA-NHAVLITGFDK--TGSTP-----YWIVRNSWGSSWGV
+
+
+1cpj_A         NGFFKI-----LRGENH----CGIESEIVAGIPRT------
+TNAG_HUMAN     NGYFRI-----LRGVNE----SDIEKLVIAAWGQLTSSDEP
+1jqp_A         SGYFRI-----RRGTDE----CAIESIAMAAIPIPKL----
+CAL2_GIALA     DGYFRM-----IRGIND----CSIEEQAYAGFFDE------
+1deu_A         RGWLRIVTSTYKDGKGARYNLAIEEHCTFGDPIV-------
+1ppn_          NGYIRI-----KRGTGNSYGVCGLYTSSFYPVKN-------
+1aim_          EGYIRI-----AKGSNQ----CLVKEEASSAVVG-------
+CATO_HUMAN     DGYAHV-----KMGSN----VCGIADSVSSIFV--------
+
+

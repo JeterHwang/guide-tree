@@ -1,0 +1,87 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 620  Type: P  December 21, 2021 20:29  Check: 3504  ..
+
+ Name: 2pna_   Len:    620  Check: 5740  Weight: -1.00
+ Name: 1mw4_A  Len:    620  Check: 7683  Weight: -1.00
+ Name: 1uur_A  Len:    620  Check: 9394  Weight: -1.00
+ Name: 1bf5_A  Len:    620  Check:  687  Weight: -1.00
+
+//
+
+        1                                                   50
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1uur_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~SSPQPIL
+1bf5_A  LDKQKELDSK VRNVKDKVMC IEHEIKSLED LQDEYDFKCK TLQNREHLLL
+
+        51                                                 100
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1uur_A  DTIYKLLSEQ EQTLVQMIHE QSLLLNRLPP TLDENSLAPL KSLSQKQITL
+1bf5_A  KKMYLMLDNK RKEVVHKIIE LLNVTELTQN ALINDELVEW KR.RQQSACI
+
+        101                                                150
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1uur_A  SGQMNTEMSA LDAT....KK GMILEPTDLA KLFALKQDL. ..........
+1bf5_A  GGPPNACLDQ LQNWFTIVAE SLQQVRQQLK KLEELEQKYT YEHDPITKNK
+
+        151                                                200
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1uur_A  QIQF.KQLSL LHNEIQSILN P..QHS.APK PNVALVLKSQ PFPVVISKGK
+1bf5_A  QVLWDRTFSL FQQLIQSSFV VERQPCMPTH PQ........ .RPLVLKTGV
+
+        201                                                250
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1uur_A  QLGENQLVVL VLTGA..... .......... .......RSN FHINGPVKAT
+1bf5_A  QFTVKLRLLV KLQELNYNLK VKVLFDKDVN ERNTVKGFRK FNILGTHTKV
+
+        251                                                300
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1uur_A  MICDSHPPTT PLEMDSQPIY PATLTAHFPL KF.....LA. ..........
+1bf5_A  MNM....... ..EE....ST NGSLAAEFRH LQLKEQKNAG TRTNEGPLIV
+
+        301                                                350
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1uur_A  .........G TRKCSVNLKF GVNIRDLDNV TTTVESDASN PFVVITNECQ
+1bf5_A  TEELHSLSFE TQLCQPGLVI DLE....... ......TTSL PVVVISNVSQ
+
+        351                                                400
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1uur_A  WEGSAGVLLK .......... KDAFDGQLEI TWAQFINTLQ RHFLIATKQD
+1bf5_A  LPSGWASILW YNMLVAEPRN LSFFLTPPCA RWAQLSEVLS WQFSSVTK..
+
+        401                                                450
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  ~~~~~~~~~~ ~~~~~~~~~~ ~GS....... .......... ..........
+1uur_A  PVRPKRPLSS YDLKYIQTHF FGNRS....I .........I HQQDFDKFWV
+1bf5_A  .....RGLNV DQLNMLGEKL LGPNASPDGL IPWTRFCKEN INDKNFPFWL
+
+        451                                                500
+2pna_   ~~~~~~~~~~ ~~~~~~~LQD AEWYWGDISR EEVNEKLRDT ADGTFLVRDA
+1mw4_A  ..PASGTSLS AAIHRTQLWF HGRISREESQ RL..IGQQGL VDGLFLVRES
+1uur_A  WFGKSMQTLR YQRHISTLWQ EGIIYGYMGR QEVNDALQNQ DPGTFIIRFS
+1bf5_A  WIESILEL.. IKKHLLPLWN DGCIMGFISK ERERALLKDQ QPGTFLLRFS
+
+        501                                                550
+2pna_   STKMHGDYTL TLRKGGNNKL IKIFHRDGKY GFSDPLTFNS VVELINHYRN
+1mw4_A  QRNPQGF.VL S......... .......... .....LCH.. .LQKVKHYLI
+1uur_A  ERNPGQF.GI A......... .......... .....YIGVE MPARIKHYLV
+1bf5_A  ESSREGAITF TWVERSQNGG EPDFHAVEPY TKKE.LSAVT FPDIIRNYKV
+
+        551                                                600
+2pna_   ESLAQYNPKL DVKLLYPVSK Y~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  LPSEE....E GRL..YFSMD DGQTRFTDLL QLVEFHQLNR GILPCLLRHC
+1uur_A  QPNDT....A AAKKTFPDFL SEHSQFVNLL Q...WTKDTN GAPRFLKLHK
+1bf5_A  M.AAENIPEN PLKYLYPNID KD........ .......... ..........
+
+        601               620
+2pna_   ~~~~~~~~~~ ~~~~~~~~~~
+1mw4_A  CTRVAL~~~~ ~~~~~~~~~~
+1uur_A  DTALGSFAPK RTAPVPVGGX
+1bf5_A  .HAFGKYYSR GXIKTE~~~~

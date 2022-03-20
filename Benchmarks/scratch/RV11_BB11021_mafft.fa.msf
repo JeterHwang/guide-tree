@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11021_mafft.fa.msf  MSF: 176  Type: N  December 21, 2021 21:48  Check: 2959  ..
+
+ Name: 1aac_   Len:    176  Check: 6445  Weight: 1.00
+ Name: 1pmy_   Len:    176  Check: 4247  Weight: 1.00
+ Name: 1kdi_   Len:    176  Check: 3865  Weight: 1.00
+ Name: 1ov8_A  Len:    176  Check: 8402  Weight: 1.00
+
+//
+
+1aac_      DKA----TIPSESPFAAAEVADGAIVVDIAKMKYETPELHVKVGDTVTWINREAMP----
+1pmy_      DEV--AVKMLNSGP--------------GGMMVFDPALVRLKPGDSIKFLPTDKG-----
+1kdi_      ---------------AKVEVGD-----EVGNFKFYPDSITVSAGEAVEFTLVGETG----
+1ov8_A     ANAPGGSNVVNETPAQTVEVRAAPDA-----LAFAQTSLSLPANTVVRLDFVNQNNLGVQ
+
+
+1aac_      HNVHF--VAGVLGEAA--LKGPMM-------KKEQ------------------AYSLTFT
+1pmy_      HNVET--IKGMAPDGADYVKTTVGQ----------------------------EAVVKFD
+1kdi_      HNIVFDIPAGAPGTVASELKAASMDENDLLSEDEP------------------SFKAKVS
+1ov8_A     HNWVL--VNGGDDVAA-AVNTAAQNNADALFVPPPDTPNALAWTAMLNAGESGSVTFRTP
+
+
+1aac_      EAGTYDYHCT--PHPF--MRGKVVVE------------------------------
+1pmy_      KEGVYGFKCA--PHYMMGMVALVVVGDKRDNLEAAKSVQHNKLTQKRLDPLFAQIQ
+1kdi_      TPGTYTFYCT--PHKSANMKGTLTVK------------------------------
+1ov8_A     APGTYLYICTFPGHYLAGMKGTLTVT-----------------------------P
+
+

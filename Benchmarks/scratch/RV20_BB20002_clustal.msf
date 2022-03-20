@@ -1,0 +1,1081 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 2373  Type: P  December 21, 2021 20:22  Check: 139  ..
+
+ Name: 1awj_       Len:   2373  Check: 2560  Weight: -1.00
+ Name: STK_HYDAT   Len:   2373  Check: 5708  Weight: -1.00
+ Name: SRC1_XENLA  Len:   2373  Check: 3292  Weight: -1.00
+ Name: FGR_HUMAN   Len:   2373  Check: 3619  Weight: -1.00
+ Name: SR42_DROME  Len:   2373  Check: 3569  Weight: -1.00
+ Name: BTK_HUMAN   Len:   2373  Check: 5260  Weight: -1.00
+ Name: STAC_HUMAN  Len:   2373  Check: 4847  Weight: -1.00
+ Name: ABL_DROME   Len:   2373  Check: 2332  Weight: -1.00
+ Name: ABL1_CAEEL  Len:   2373  Check: 7572  Weight: -1.00
+ Name: PEXD_YEAST  Len:   2373  Check: 8596  Weight: -1.00
+ Name: PIG1_BOVIN  Len:   2373  Check: 7532  Weight: -1.00
+ Name: NPH1_CANFA  Len:   2373  Check: 8429  Weight: -1.00
+ Name: CC15_SCHPO  Len:   2373  Check: 9827  Weight: -1.00
+ Name: SS81_YEAST  Len:   2373  Check:  721  Weight: -1.00
+ Name: ARH6_HUMAN  Len:   2373  Check: 4591  Weight: -1.00
+ Name: OPHL_HUMAN  Len:   2373  Check: 6952  Weight: -1.00
+ Name: SNX9_MOUSE  Len:   2373  Check: 3109  Weight: -1.00
+ Name: 1ycs_B      Len:   2373  Check: 3414  Weight: -1.00
+ Name: 1hjd_A      Len:   2373  Check: 6782  Weight: -1.00
+ Name: 1ihv_A      Len:   2373  Check: 1427  Weight: -1.00
+
+//
+
+            1                                                   50
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ~MGA...... .......... .......... .......... ..........
+ABL1_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  MAGAASPCAN GCGPSAPSDA EVVHLCRSLE VGTVMTLFYS KKSQRPERKT
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MIP PS........
+ABL_DROME   ........QQ GKDRGAHSGG GG........ .......... ..........
+ABL1_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PEXD_YEAST  MSSTAVPRPK PWETSASLEE PQRNAQSLSA MMTSNQQDSR PTEESNNSNS
+PIG1_BOVIN  FQVKLETRQI TWSRGADKIE GAIDIRE... .....IKEIR PGKTSRDFDR
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MSISSKIR PTPR......
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~M....... ....AAV.IL .....ESIF. ..........
+STAC_HUMAN  ........SP RED.....G. ......VDGL P.KEAVGAEQ ...PPSPAST
+ABL_DROME   ........SG APV....... ....SCI.GL .....SSSPV A..SVSP...
+ABL1_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PEXD_YEAST  ASESAPEVLP RPAALNSSGT YGESNTIPGI YGNSNYGIPY DNNPYSMNSI
+PIG1_BOVIN  Y.QEDPAFRP DQS....... ....HCFVIL .....YGMEF RLKTLSLQAT
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  ........KP SRM..A.... ..TDHSFK.. .MKKFYADPF AISSISLAI.
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            151                                                200
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   .........L KR......SQ QKKKTSPLNF KKRLFLLTVH K.........
+STAC_HUMAN  SSQESKLQKL KRSLSFKTK. .......... .......... ..........
+ABL_DROME   ........HC IS......SS SGVSSAPLGG GSTLRGSRIK ..........
+ABL1_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PEXD_YEAST  .......... .......... YGNSIGRYGY G......... ..........
+PIG1_BOVIN  S..EDEVNMW IRGLTWLMED TLQAATPLQI E......RWL R.........
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  .......... ...VSWVIAI GGSISSAS.T NESFPRFTWW GIVYQFLIIC
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~MGPCCSKQT KA........ ..........
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~GATKSKPR EGGPRSR... ..........
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~MGCVFCKKL EPVATAK... ..........
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~MGNCLTTQK GE........ ..........
+BTK_HUMAN   ..LSYYEYD. .FER.GRRGS KKGS...... .......... ..........
+STAC_HUMAN  ...SLRSKSA DNFFQRTNSE D......... .......... ..........
+ABL_DROME   ..SSSSGVAS GSGS.GGGGG GSGSGLSQRS GGHKDAR... ..........
+ABL1_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~MGHSHSTGK EI........ ..........
+PEXD_YEAST  ..GSYYGNNY GSFYGGGYGA GAGYGMNNGS .......... ..........
+PIG1_BOVIN  ..KQFYSVDR NRED.RISAK DLKNMLSQVN YRVPNMRFLR ERLTDLEQRT
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  SLMLFYCFDL VDHY...... .......... .......... ..........
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   .......... .......... ......LN.. .......N.. ..........
+SRC1_XENLA  .......... .......... S..LDIVE.. .......G.. ..........
+FGR_HUMAN   .......... .......... E..DAGLE.. .......G.. ..........
+SR42_DROME  .......... .......... .......... .......... ..........
+BTK_HUMAN   .......... .......... ....IDVEKI TC...VETVV PEK...NPPP
+STAC_HUMAN  .......... .......... .......... .......... ..........
+ABL_DROME   .......... .......... CNPTVGLNIF TE...HNGT. ..........
+ABL1_CAEEL  .......... .......... ....NDNELF TC...EDPV. ..........
+PEXD_YEAST  .......... .......... .....GLGES T......... ..........
+PIG1_BOVIN  SDITYGQFAQ LYR..SLMYS AQKTMDLPFL EASALRAGER PELCRVSLPE
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  .....RIFIT TSIAVAFVYN TNSATNLVYA DGPKKAAASA ...GVILLSI
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MNPEE
+OPHL_HUMAN  ~~~~~~~~MG LP........ ........AL E......FSD ...CCLDSPH
+SNX9_MOUSE  ~~~~~~~~MA TKA..RVMYD FAAEPGNNEL T......VTE GEIITVTNPN
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   .......... .......... .......... .Q...PDKSK ..........
+SRC1_XENLA  .......... .......... .........S HQ...PFTSL S.........
+FGR_HUMAN   .......... .......... .......... .....DFRSY G.........
+SR42_DROME  .......... .......... .......... .......... ..........
+BTK_HUMAN   ERQ..IPRRG EE.SSEMEQI SI....IERF PY...PFQVV Y.........
+STAC_HUMAN  .......... .........M KLQAHMVAEI SPSSSPLPAP GSLTSTPARA
+ABL_DROME   .......... .......... .........K HS...SFRGH ..........
+ABL1_CAEEL  .......... .......... .........F DQ...PVASP K.........
+PEXD_YEAST  .......... .......... .......... ...KATFQLI ESLIGAV...
+PIG1_BOVIN  FQQFLLEYQG E..LWAVDRL QVQEFMLSFL RD...PLREI E....EPYF.
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  INLIWILYYG GDNA.....S PTNRWIDSFS IKGIRPSPLE NSLHRARRR.
+ARH6_HUMAN  QIVTWLISLG VLESPKKTIC DPEEFLKSSL KNGVVLCKLI N.........
+OPHL_HUMAN  FRETL....K SH.EAE..LD KTNKFIKELI KDGKSLISAL KNLSSAKRK.
+SNX9_MOUSE  VGGGWLEGKN NK.GEQ..GL VPTDYVEILP NDGKDPFSCG NS..VADQA.
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~PLALL ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                                400
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   .......... ........SK DV........ VL..KENTSP FSQNTNN...
+SRC1_XENLA  .......... AS...QTPNK SLD....... SH..RPPAQP FGGNCDL...
+FGR_HUMAN   .......... AA...DHYGP DP........ TK..ARPASS FAHIPNY...
+SR42_DROME  .......... .P...DKPAD RIK....... LD..DPPTIG VGVGVPQ...
+BTK_HUMAN   ........DE GPLYVFSPTE ELRKRWIHQL KNVIRYNSDL VQKYHPCFWI
+STAC_HUMAN  GLHPGGKAHA FQEYIFKK.. .......PTF CDVCNHMIVG TNAKHGLRCK
+ABL_DROME   .......... .P...GKYHM NLE.....AL LQSRPLPHIP AGSTRPLFWR
+ABL1_CAEEL  ........SE IS...SKLAE EIERSKSPLI LEVSPRTPDS VQMFRPTFDT
+PEXD_YEAST  .......... .......... .......... ........TG FAQMLESTYM
+PIG1_BOVIN  ......FLDE FVTFLFS... KENSIWNSQL DEVCP...DT MNNPLSHYWI
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  .......... .......... .......... ...GNRNTTP YQ...NNVYN
+ARH6_HUMAN  .......... .......... .......... ........RL MPGSVEKFCL
+OPHL_HUMAN  ......FADS LNEFKFQC.. .......... ........IG DAETDDEMCI
+SNX9_MOUSE  ......FLDS LTASTAQTNS SSAN...... ....SNNQVG GGNDPWTAWN
+1ycs_B      .......LDS SLEGEFDLV. ...QRIIYEV DDPSLPNDEG ITALHNAVCA
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~ADRKLCA
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            401                                                450
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   .......... .......... .......... .......... ..........
+SRC1_XENLA  .......... .......... .......... .......... ..........
+FGR_HUMAN   .......... .......... .......... .......... ..........
+SR42_DROME  .......... .......... .......... .......... ..........
+BTK_HUMAN   DGQ....... ..YLCC.... .....SQ... ......T... .........A
+STAC_HUMAN  AC......KM SIHHKCTDGL APQRCMGKLP KGFRRYYSSP L.......LI
+ABL_DROME   IAE....... ..LQQH.... .....QQ... .......... .........D
+ABL1_CAEEL  FR........ ....PP.... .....NS... .......... .........D
+PEXD_YEAST  A.THNSFFTM ISVAEQFGNL KEMLGSF... ..FGIFAIMK FLKKILYRAT
+PIG1_BOVIN  SSSHNTYLTG DQFSSE.... .....SS... ..LEAYA... .........R
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  D.....AIRD SGYATQFDGY PQQQPSH... ..T....... ..........
+ARH6_HUMAN  DPQTE..... ...ADC.... .......... .......... .....INNIN
+OPHL_HUMAN  AR......SL QEFATVLRNL EDERIRM... ..IENASEVL IT..PLEKFR
+SNX9_MOUSE  APKPGNWDSS DAWGSRTDGT SAQRNSS... ..ANNW.DTG FG..HPQAYQ
+1ycs_B      GH........ .......... .......... .....TEIVK FL.......V
+1hjd_A      D......... .......... ..QE...... .......... ..........
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            451                                                500
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ KK.P...... ..........
+STK_HYDAT   .......... .........I M.H.VSHN.. .......... ..........
+SRC1_XENLA  .......... .........T P.F.GGIN.. ...F...... ..........
+FGR_HUMAN   .......... .........S N.F.SSQA.. ...I...... ..........
+SR42_DROME  .......... .........I P.M.PSHA.. ...G...... ..........
+BTK_HUMAN   KNAMGCQILE .....NRNGS LKPGSSHRKT KK.P...... ..........
+STAC_HUMAN  HEQFGCIKEV .......... MPIACGNKVD .......... .........P
+ABL_DROME   SGGLGLQG.. .........S S.LGGGHSST TSVF...... ..........
+ABL1_CAEEL  .......S.. .........S T.FRGSQSRE DLVA...... ..........
+PEXD_YEAST  KGRLG..... .........I PPKNFAESEG SKNK...... ..........
+PIG1_BOVIN  CLRMGCRCIE LDCWDGPDGM PVIYHGHTLT TKIKFSDVLH TIKEHAFVAS
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  .......... .......... .......... .......... ..........
+ARH6_HUMAN  DFLKGCATLQ VEIFDPDDLY ....SGV... ...NFSKVLS TLLAVNKA..
+OPHL_HUMAN  KEQIGAAKEA KKKYDKET.. EKY.CG.... .......... ..........
+SNX9_MOUSE  GPATGDDDEW DEDWDDPKSS SPY.FK.... .......... ..........
+1ycs_B      QFGVNVNAAD SDGW...... TPLHCAASCN .......... ..........
+1hjd_A      .......... .......... ....CSH... .......... ..........
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            501                                                550
+1awj_       .......... .......... .......... .......... ..........
+STK_HYDAT   .......... .......... .......... .......... ..........
+SRC1_XENLA  .......... .......... .......... .......... ..........
+FGR_HUMAN   .......... .......... .......... .......... ..........
+SR42_DROME  .......... .......... .......... .......... ..........
+BTK_HUMAN   .......... .......... .......... .......... ..........
+STAC_HUMAN  VYET...LRF GTSLAQRTK. ....KGSSGS GS........ ..........
+ABL_DROME   .......... .......... .......... .......... ..........
+ABL1_CAEEL  .......... .......... .......... .......... ..........
+PEXD_YEAST  ......LIED FQKFND.... SGTINSNEKA TRRKISWKPL LFFL...MA.
+PIG1_BOVIN  EYPVILSIED HCSIAQQRNM AQYFK..KVL GDTL....LT KPVD...IA.
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  .......... ..NYVSSTAL AGFENTQPN. TSEAVNLHLN TLQQRINSAS
+ARH6_HUMAN  ..TEDQLSER PCGRSSSLSA ANTS...... .......... ..........
+OPHL_HUMAN  ....I..LEK HLNLSSKKKE SQLQEADS.. ...QVDLVRQ HFY.......
+SNX9_MOUSE  ....D..... ....SEPAEA GGIQRGNSRA GASSMKLPLN KFPG...FA.
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      .......... .......... .......... .......... ..........
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            551                                                600
+1awj_       ...LPPTPED NRR....... .......... .....SFQEP EETLVIALYD
+STK_HYDAT   ...QP..PNI NP.....P.. .......... .....MLGGP GVTIFVALYD
+SRC1_XENLA  ...S...DTI TS.....P.. ......QRT. .....GPLAG GVTTFVALYD
+FGR_HUMAN   ...NP..GFL DS.....G.. ......TIR. .....GVSGI GVTLFIALYD
+SR42_DROME  ...QP..PEQ IR.....PVP ....QIPES. .....ETAGA NAKIFVALYD
+BTK_HUMAN   ...LPPTPEE DQILKKPLPP ....EPAAA. .....PVSTS ELKKVVALYD
+STAC_HUMAN  .......DSP HRTSTSDLVE ......VPEE AN.GPGGGYD LRKRSNSVFT
+ABL_DROME   ...ES..AHR WT.....SKE ....NLLAP. .....GPEED DPQLFVALYD
+ABL1_CAEEL  ...CSSMNSV NN.....VHD ....MNTVS. .....SSSSS SAPLFVALYD
+PEXD_YEAST  ...VF..GFP YLLNKFITKL QTSGTIRASQ GNGSEPIDPS KLEFARALYD
+PIG1_BOVIN  ...ADGLPSP NQLKRKILIK ...HKKLAE. .....GSAYE EVPTS.....
+NPH1_CANFA  ~~~~~GEEED EE......EE ...EEEESEE GGGEEEESEE E.........
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MEVN. .......... ..........
+SS81_YEAST  NAKETNDNSN NQTNTNIGNT .....FDTDF ...SNGNTET TMGDTLGLY.
+ARH6_HUMAN  ........Q. .......TNP .........Q G..AVSSTVS GLQRQ.....
+OPHL_HUMAN  ...EVSL.E. YVFKVQEVQE ...RKM.... ....FEFVEP LLAFLQGLFT
+SNX9_MOUSE  ...KPGMEQ. YLLAKQLAKP ...KEKIAI. ...IVGDYGP MWVYPTSTFD
+1ycs_B      .........N VQVC...... ....KFLVES GAAVFAMTYS DMQTAADK..
+1hjd_A      .......... .......... .......... .......... ..........
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            601                                                650
+1awj_       YQ........ .TND...... .......... .......... ..........
+STK_HYDAT   YE........ .ARI...... .......... .......... ..........
+SRC1_XENLA  YE........ .SRT...... .......... .......... ..........
+FGR_HUMAN   YE........ .ART...... .......... .......... ..........
+SR42_DROME  YD........ .ART...... .......... .......... ..........
+BTK_HUMAN   YM........ .PMN...... .......... .......... ..........
+STAC_HUMAN  YP........ .ENGTDDFRD PAK....... ..NINHQGSL SKDPLQMNTY
+ABL_DROME   FQ........ .AGG...... .......... .......... ..........
+ABL1_CAEEL  FH........ .GVG...... .......... .......... ..........
+PEXD_YEAST  FVPEN..... .......... .......... .......... ..........
+PIG1_BOVIN  .V........ .MYS...... .......... .......... ..........
+NPH1_CANFA  .......... .......... .......... ..EEEKQENE SHHQATSKEY
+CC15_SCHPO  .......... .......... .......... .......... ..........
+SS81_YEAST  .......... .......... .......... ........SD IGDDNFIYKA
+ARH6_HUMAN  .......... .......... .......... ..SKTVEMTE NGSHQLIV..
+OPHL_HUMAN  FYHH....GY EL..AKDFGD FKTQLTISIQ NTRNRFEGTR SEVESLMKKM
+SNX9_MOUSE  CVVADPRKGS KMYGLKSYIE YQLTPTNTNR SVNHRYKHFD WLYERLLVKF
+1ycs_B      CE..EMEEGY TQCSQ...FL YGVQEKMGIM NKGVIY..AL WD........
+1hjd_A      .......... .......... .......... .......... .....PISMA
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            651                                                700
+1awj_       .......... PQELALRCDE EYYLLDS... ..SEIHWWRV QDKN......
+STK_HYDAT   .......... SEDLSFKKGE RLQIINT... ..ADGDWWYA RSLI......
+SRC1_XENLA  .......... ETDLSFKKGE RLQIVNN... ..TEGDWWLA RSLS......
+FGR_HUMAN   .......... EDDLTFTKGE KFHILNN... ..TEGDWWEA RSLS......
+SR42_DROME  .......... DEDLSFRKGE HLEILND... ..TQGDWWLA RSKK......
+BTK_HUMAN   .......... ANDLQLRKGD EYFILEE... ..SNLPWWRA RDKN......
+STAC_HUMAN  VALYKFVPQE NEDLEMRPGD IITLLED... ..SNEDWWKG KIQ.......
+ABL_DROME   .......... ENQLSLKKGE QVRILSY... ..NKSGEWCE AHSD......
+ABL1_CAEEL  .......... EEQLSLRKGD QVRILGY... ..NKNNEWCE ARLYSTRKND
+PEXD_YEAST  .........P EMEVALKKGD LMAILSKKDP LGRDSDWWKV RTKN......
+PIG1_BOVIN  .......... ENDISNSIKN GILYLED... ..PVNHEWYP HYFVLTSSKI
+NPH1_CANFA  IAVGDFTAQQ AGDLTFKKRE ILLIIEK... ..KPDGWWIA KNAK......
+CC15_SCHPO  .......... .......... .......... .......... ..........
+SS81_YEAST  KALYPYDADD DDAYEISFE. QNEILQVSD. ..IEGRWWKA RRAN......
+ARH6_HUMAN  KARFNFKQTN EDELSVCKGD IIYVTRV... ..EEGGWWEG TLN.......
+OPHL_HUMAN  K....ENPLE HKTISPYTME GYLYVQEKR. ..HFGTSWVK HYCTYQRDS.
+SNX9_MOUSE  GSAIPIPSLP DKQVTGRFEE EF..IKMRM. ..ERLQAWMT RMCRHPVVS.
+1ycs_B      .....YEPQN DDELPMKEGD CMTIIHRED. .EDEIEWWWA RLND......
+1hjd_A      VALQDYMAPD CRFLTIHRGQ VVYVFSKLK. .GRGRLFWGG SVQG.....D
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MIQ NFRVYYRDS.
+
+            701                                                750
+1awj_       .......... GHEGY.APSS YLVEKS~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   .........T NSEGY.IPST YVA.PEKSYE AEEW...... ...YFGDVKR
+SRC1_XENLA  .........S GQTGY.IPSN YVA.PSDSIQ AEEW...... ...YLGKITR
+FGR_HUMAN   .........S GKTGC.IPSN YVA.PVDSIQ AEEW...... ...YFGKIGR
+SR42_DROME  .........T RSEGY.IPSN YVA.KLKSIE AEPW...... ...YFRKIKR
+BTK_HUMAN   .......... GQEGY.IPSN YVTEAEDSIE MYEW...... ...YSKHMTR
+STAC_HUMAN  .......... DRIGF.FPAN FVQRLQQNEK IFRC...... ...VRTFIGC
+ABL_DROME   .........S GNVGW.VPSN YVT.PLNSLE KHSW...... ...YHGPISR
+ABL1_CAEEL  ASNQRR...L GEIGW.VPSN FIA.PYNSLD KYTW...... ...YHGKISR
+PEXD_YEAST  .......... GNIGY.IPYN YIEII.KRRK K......... .......IEH
+PIG1_BOVIN  YYSEETSSDQ GNEDEEEPKE .ASGSTELHS NEKW...... ...FHGKLGA
+NPH1_CANFA  .......... GNKGL.IPRT YVEPYNKEEG QDTSEEEDSE EDVEVGDQTA
+CC15_SCHPO  .......... GVSQS.EAAP YVTKSSVKFR DNFW...... ...GSE....
+SS81_YEAST  .......... GETGI.IPSN YVQLIDGPEE MHR~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  .......... GRTGW.FPSN YVREIKSSER .......... ..........
+OPHL_HUMAN  .......... KQI......T .MV...PFDQ K......... ....SGGKGG
+SNX9_MOUSE  .......... ESE......V .FQQFLNFRD EKEW...... ...KTGKRKA
+1ycs_B      .......... .KEGY.VPRN LL........ .......... ..........
+1hjd_A      YYGDL....A ARLGY.FPSS IVREDQTL.. .......... ...KPGKV..
+1ihv_A      .......... .......... .......... .......... ..........
+
+            751                                                800
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   AE.....AEK RL....MVRG LPSGTFLIRK AETAVGNFSL SVRD......
+SRC1_XENLA  RE.....AER LL....LSLE NPRGTFLVRE SETTKGAYCL SVSDY.DANR
+FGR_HUMAN   KD.....AER QL....LSPG NPQGAFLIRE SETTKGAYSL SIRDW.DQTR
+SR42_DROME  IE.....AEK KL....LLPE NEHGAFLIRD SESRHNDYSL SVRD......
+BTK_HUMAN   SQ.....AEQ LL.....KQE GKEGGFIVRD SS.KAGKYTV SVFAKSTGDP
+STAC_HUMAN  KEQGQI..TL KENQICVSSE EEQDGFIRVL SGKKKGLIPL DVLENI~~~~
+ABL_DROME   NA.....AEY LL......SS GINGSFLVRE SESSPGQRSI SLRY......
+ABL1_CAEEL  SD.....SEA IL......GS GITGSFLVRE SETSIGQYTI SVRH......
+PEXD_YEAST  VDDETRTH~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  GRDGRHIAER LLTEYCIETG APDGSFLVRE SETFVGDYTL SFWR......
+NPH1_CANFA  GGEE..VKQR TDSHWSAVQK AISEQINTVD VLTTMGAIPA GFRP......
+CC15_SCHPO  .......... .......... .......... .......... ........DA
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  .......... PL.....SPK AVKG.FE..T APLTKNYYTV VLQNILDTEK
+OPHL_HUMAN  EDES.....V IL........ .......... .......... ..........
+SNX9_MOUSE  EKDE...... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      .......... .......... .......... .......... ..........
+1ihv_A      .......... .......... .......... .......... ..........
+
+            801                                                850
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ......GDSV KHYRVRKLD. ..TGGY.FIT TRAPFNSLYE LVQHYTK...
+SRC1_XENLA  ......GLNV KHYKIRKLD. ..SGGF.YIT SRTQFISLQQ LVAYYSK...
+FGR_HUMAN   ......GDHV KHYKIRKLD. ..MGGY.YIT TRVQFNSVQE LVQHYME...
+SR42_DROME  ......GDTV KHYRIRQLD. ..EGGF.FIA RRTTFRTLQE LVEHYSK...
+BTK_HUMAN   ......QGVI RHYVVCSTP. ..QSQY.YLA EKHLFSTIPE LINYHQH...
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ......EGRV YHYRISEDP. ..DGKV.FVT QEAKFNTLAE LVHHHSV...
+ABL1_CAEEL  ......DGRV FHYRINVDN. ..TEKM.FIT QEVKFRTLGE LVHHHSV...
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ......NGKV QHCRIHSRQD AGTPKF.FLT DNLVFDSLYD LITHYQQ...
+NPH1_CANFA  .......... .......... ..STLFQLLE EGNQFRASYF LQPELTPSQL
+CC15_SCHPO  ......G... .......... ..MDAL.MSR TKSSLSVLES IDEFYAK...
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  EYAKELQSLL VTYLRP.LQS ..NNNLSTVE VTSLLGNFEE VCTFQQT...
+OPHL_HUMAN  .......... KSCTRR.... .......... .......... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      .......... .......... .......... .......... ..........
+1ihv_A      .......... .......... .......... .......... ..........
+
+            851                                                900
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   .......... ......D... ...ADGLVCA LTLPCPK.DK P.........
+SRC1_XENLA  .......... ......H... ...ADGLCHR LTTVCPT.AK P.........
+FGR_HUMAN   .......... ......V... ...NDGLCNL LIAPCTI.MK P.........
+SR42_DROME  .......... ......D... ...SDGLCVN LCKPCVQIEK P.........
+BTK_HUMAN   .......... ......N... ...SAGLISR LKYPVSQQNK N.........
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   .......... ......PHE. ...GHGLITP LLYPAPKQNK P.........
+ABL1_CAEEL  .......... ......H... ...ADGLICL LMYPASKKDK G.........
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  .......... ......VPLR ...CNEFEMR LSEPVPQTNA H.........
+NPH1_CANFA  AFRDLMWDAK TGTIRSRPSR VSFILTLWSC KMIPLPGTSI QVLSRHVRLC
+CC15_SCHPO  .......... ......RAS. .......I.E REYAS..... ..........
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  .......... ......L... ...CQALEEC SKFPENQHKV G.........
+OPHL_HUMAN  .......... .........K ...TDSIEKR FCFDVEAVDR P.........
+SNX9_MOUSE  .......... .......... ......L... .......... V.........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      .......... .......... .......... .......... ..........
+1ihv_A      .......... .......... .......... .......... ..........
+
+            901                                                950
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   .......... ...VTGGIA. ..KDAWEIPR ES.LRLN... ..........
+SRC1_XENLA  .......... ...QTQGLS. ..RDAWEIPR DS.LRLE... ..........
+FGR_HUMAN   .......... ...QTLGLA. ..KDAWEISR SS.ITLE... ..........
+SR42_DROME  .......... ...VTEGLSH RTRDQWEIDR TS.LKFV... ..........
+BTK_HUMAN   ....A..... ..PSTAGLG. ..YGSWEIDP KD.LTFL... ..........
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   .......... ...TVFPLSP .EPDEWEICR TD.IMMK... ..........
+ABL1_CAEEL  ....R..... ...GLFSLSP NAPDEWELDR SE.IIMH... ..........
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  .......... .......... .ESKEWYHAS LTRAQAE... .H.....MLM
+NPH1_CANFA  IFDGNKVLSN IHTVRATWQS KKPKTWTFSP QVTGILPCLL DGDCFIRSNS
+CC15_SCHPO  .......... ...KLQELA. ..ASSADIPE VG.STLN... .N.....ILS
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ...GC..... ...L.LSLMP .......... .......... ..........
+OPHL_HUMAN  ...GV..... ..ITMQALSE EDRRLWMEAM DGREPVY... .NSN...KDS
+SNX9_MOUSE  ...GV..... ..MIFSTMEP EAPDLDLIEI EQKCDAV... .GKF...TKA
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      .......... .........D VKTDKWDFYC Q~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... ..RDPVW... .KGP...A..
+
+            951                                               1000
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   RKLGAGQFGE VWAGVWNNT. TQVA...... ..VK.TLKPG ....TMSPAS
+SRC1_XENLA  LKLGQGCFGE VWMGTWNGT. TRVA...... ..IK.TLKPG ....TMSPEA
+FGR_HUMAN   RRLGTGCFGD VWLGTWNGS. TKVA...... ..VK.TLKPG ....TMSPKA
+SR42_DROME  RKLGSGQFGD VWEGLWNNT. TPVA...... ..IK.TLKSG ....TMDPKD
+BTK_HUMAN   KELGTGQFGV VKYGKWRGQ. YDVA...... ..IK.MIKEG ....SMSEDE
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   HKLGGGQYGE VYEAVWKRYG NTVA...... ..VK.TLKED ....TMALKD
+ABL1_CAEEL  NKLGGGQYGD VYEGYWKRHD CTIA...... ..VK.ALKED ....AMPLHE
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  RVPRDGAFLV RKR....NEP NSYA...... ..IS.FRAEG ....KIKHCR
+NPH1_CANFA  SSPDLGILFE LGISYIRNST GERGELSCGW VFLKLFDASG IPIPAKTYEL
+CC15_SCHPO  MRTETGSMAK AHEEVSQQI. .......... ......NTEL ....RNKIRE
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ......HFKS MYLAYCANH. .PSA...... ..VN.VLTQH ....SDELEQ
+OPHL_HUMAN  QSEGTAQLDS IGFSIIRKCI HAVE...... ..TR.....G ..........
+SNX9_MOUSE  MDDGVKELLT VGQEHWKRCT GPLP...... ..KE...... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1001                                              1050
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   FLDEAGV..M KKLRH..... .......... ........KH LVQLYAICSD
+SRC1_XENLA  FLQEAQV..M KKLRH..... .......... ........EK LVQLYAVVS.
+FGR_HUMAN   FLEEAQV..M KLLRH..... .......... ........DK LVQLYAVVS.
+SR42_DROME  FLAEAQI..M KKLRH..... .......... ........TK LIQLYAVCTV
+BTK_HUMAN   FIEEAKV..M MNLSH..... .......... ........EK LVQLYGVCTK
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   FLEEAAI..M KEMKH..... .......... ........PN LVQLIGVCTR
+ABL1_CAEEL  FLAEAAI..M KDLHH..... .......... ........KN LVRLLGVCTH
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  VQQEGQTVML GNSEF..... .......... ........DS LVDLISYYEK
+NPH1_CANFA  FLN.GGTPYE KGVEVDPSVS RRAYGSVFHQ MMTMRRQPQL LVKLRSLNRR
+CC15_SCHPO  YIDQTEQ..Q KVVAA..... .......... ........NA IEELYQKKTA
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  FMENQGASSP GILIL..... .......... .......... ....TTNLSK
+OPHL_HUMAN  .INEQGL..Y RIVGVN.... .......... ........SR VQKLLSVLMD
+SNX9_MOUSE  .........Y QKIG...... .......... ........KA LQSLAAVFSS
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1051                                              1100
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ......RE.. ..PIYIVT.. EYMSGGSLLD YLSK..GEGV NLQLPTLIDM
+SRC1_XENLA  ......EE.. ..PIYIVT.. EYISKGSLLD FLKG..EMGR YLRLPQLVDM
+FGR_HUMAN   ......EE.. ..PIYIVT.. EFMCHGSLLD FLKN..PEGQ DLRLPQLVDM
+SR42_DROME  ......EE.. ..PIYIIT.. ELMKHGSLLE YLQAIAGKGR SLKMQTLIDM
+BTK_HUMAN   ......QR.. ..PIFIIT.. EYMANGCLLN YLRE...MRH RFQTQQLLEM
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ......EP.. ..PFYIIT.. EFMSHGNLLD FLRS..AGRE TLDAVALLYM
+ABL1_CAEEL  ......EA.. ..PFYIIT.. EFMCNGNLLE YLRR..TDKS LLPPIILVQM
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ......H... ..PLYRKMKL RYPINEEALE KIGT...AEP DYG..ALY..
+NPH1_CANFA  .......SRD LLSLLPETLI GSMCTIHLLI FYRQILGDVL L.........
+CC15_SCHPO  ......LEID LSEKKDAY.. EYSCN.KLNS YMRQ...... ..........
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  .......... ..PFMRLE.. ......KYVT LLQE...... ..........
+OPHL_HUMAN  PKTASETETD ICAEWEIK.. ..TITSALKT YLRMLPGPLM MYQFQRSFIK
+SNX9_MOUSE  SGYQG..ETD L......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1101                                              1150
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   AAQVASGMAF L.EAQGYIHR DLAARNILVG ENYICKVADF GLARLIEDDE
+SRC1_XENLA  AAQIASGMAY V.ERMNYVHR DLRAANILVG ENLVCKVADF GLARLIEDNE
+FGR_HUMAN   AAQVAEGMAY M.ERMNYIHR DLRAANILVG ERLACKIADF GLARLIKDDE
+SR42_DROME  AAQIAAGMAY L.ESQNYIHR DLAARNVLVG DGNIVKIADF GLARLIKEDE
+BTK_HUMAN   CKDVCEAMEY L.ESKQFLHR DLAARNCLVN DQGVVKVSDF GLSRYVLDDE
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ATQIASGMSY L.ESRNYIHR DLAARNCLVG DNKLVKVADF GLARLMRDDT
+ABL1_CAEEL  ASQIASGMSY L.EARHFIHR DLAARNCLVS EHNIVKIADF GLARFMKEDT
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  .EG.RNPGFY V.EANP.... .MPTFKCAVK ALFD.....Y ...KAQREDE
+NPH1_CANFA  .......... .......... .........K .......... ......DRTS
+CC15_SCHPO  .......... ...TKKMTGR ELDK...... ..YNLKIRQA ALAVKKMDAE
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ...LERHMED THPDHQDILK AIVAFKTLMG QCQD.....L ...RKRKQLE
+OPHL_HUMAN  AAKLENQESR VSEIHSLVHR .LPEKNRQML QLLMNHLANV A..NNHKQNL
+SNX9_MOUSE  NDAITEAGKT YEEIASLVAE .QPKKDLHFL ...ME..... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1151                                              1200
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   Y......TAH EGAKFPIKWT APEA...... .......ALY NRFTIKS..D
+SRC1_XENLA  Y......TAR QGAKFPIKWT APEA...... .......ALY GRFTIKS..D
+FGR_HUMAN   Y......NPC QGSKFPIKWT APEA...... .......ALF GRFTIKS..D
+SR42_DROME  Y......EAR VGARFPIKWT APEA...... .......ANY SKFSIKS..D
+BTK_HUMAN   Y......TSS VGSKFPVRWS PPEV...... .......LMY SKFSSKS..D
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   Y......TAH AGAKFPIKWT APEG...... .......LAY NKFSTKS..D
+ABL1_CAEEL  Y......TAH AGAKFPIKWT APEG...... .......LAF NTFSSKS..D
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  L......TFT KSAII.QNVE KQEGG..... .......WWR GDYGGKK..Q
+NPH1_CANFA  MQSADLISNP VLATFPKLLE QPDMMD.... .......ALR SSWAEKE...
+CC15_SCHPO  YRETNELLLT VTREWIDRWT EVCDAF.... ....QHIEEY RLEFLKT..N
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  L........Q ILSEPIQAWE GEDIKNLGNV IFMSQVMVQY GACEEKEERY
+OPHL_HUMAN  M.....TVAN LGVVFGPTLL RPQEE..... .......TV. ...AAIM..D
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1201                                              1250
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   VWSFGILMAE IVTKGR.... IPYPGMTNA. .QTIAEVEKG Y.......RM
+SRC1_XENLA  VWSFGILLTE LTTKGR.... VPYPGMVNR. .EVLDQVERG Y.......RM
+FGR_HUMAN   VWSFGILLTE LITKGR.... IPYPGMNKR. .EVLEQVEQG Y.......HM
+SR42_DROME  VWSFGILLTE LVTYGR.... IPYPGMTNA. .EVLTQVEHG Y.......RM
+BTK_HUMAN   IWAFGVLMWE IYSLGK.... MPYERFTNS. .ETAEHIAQG L.......RL
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   VWAFGVLLWE IATYGM.... SPYPAIDLT. .DVYHKLDKG Y.......RM
+ABL1_CAEEL  VWAFGVLLWE IATYGM.... APYPGVELS. .NVYGLLENG F.......RM
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  LWFPSNYVEE MVSPAA.... LEPEREHLDE NSPLGDLLRG VLDVPACQIA
+NPH1_CANFA  ......STLK R.SEKRDKEF .......... .......LKA M.......FL
+CC15_SCHPO  MWAYANIIST ACVKDD.... ESCEKIRLT. .LENTNIDED ..........
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  LMLFSNVLIM LSASPRMSGF IYQGKIPIA. ....GTV... ..........
+OPHL_HUMAN  I.KFQNIVIE ILIENHEKIF NTVPDMPLT. .NAQLHLSR. .....KKSSD
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1251                                              1300
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   PIMPGCPEPL YNI...M..L QTWNKDPENR PTFDYLQ... ..........
+SRC1_XENLA  PCPPDCPESL HDL...M..F QCWRKDPEER PTFEYLQ... ..........
+FGR_HUMAN   PCPPGCPASL YEA...M..E QTWRLDPEER PTFEYLQ... ..........
+SR42_DROME  PQPPNCEPRL YEI...M..L ECWHKDPMRR PTFETLQ... ..........
+BTK_HUMAN   YRPHLASEKV YTI...M..Y SCWHEKADER PTFKILL... ..........
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ERPPGCPPEV YDL...M..R QCWQWDATDR PTFKSIH... ..........
+ABL1_CAEEL  DGPQGCPPSV YRL...M..L QCWNWSPSDR PRFRDIH... ..........
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  VRPEGKNNRL FVFSISMASV AHWSLDVAAD .....SQ... ..........
+NPH1_CANFA  LVYHDCVVPL LHS..TLLPP FRWAEEETEA ARWKVIADFL KQ...NQENG
+CC15_SCHPO  .......... ITQ...M..I QNEGT..... GTTIPPL... ..........
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  .......... .........V TRLDEIEGND CTFEITGNTV ERIVVHCNNN
+OPHL_HUMAN  SKPPSCSERP LTL...FHTV QSTEKQEQRN ...SIIN... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1301                                              1350
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   GVLEDYFVST .........E QGYRDLGEAN S~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  AFLEDYFTAT .........E PQYQPGDNL~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   SFLEDYFTSA .........E PQYQPGDQT~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  WKLEDFYTSD .........Q SDYKEAQAY~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   SNILDVMDEE .........S ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   HALEHMFQES .........S ITEAVEKQLN ANATSASSS. ..........
+ABL1_CAEEL  FNLENLISSN .........S LNDEVQKQLK KNNDKKLES. ..........
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  EELQDWVKKI ..REVAQTAD ARLTEGKMME RRKKIALELS ELVVYCRPVP
+NPH1_CANFA  GALQALLSPD GVHEPFDISE QTYDLLGEIR KNVA~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  PEFNDYFKEN .........G LNYDIDQLIS KAPSYPYSS. .....SRPSA
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  QDFQEWLEQL ..NR...... ........LI RGPASCSSL. ..........
+OPHL_HUMAN  SSLES..... .......... ........VS SNPNSILNS. ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1351                                              1400
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ......APST ......SGVA TGGGATTTTA ASGCASSSSA TASLSLTPQM
+ABL1_CAEEL  ......DKRR ......SNVR ERSDSKSRHS ..SHHDR..D RDRESLHSRN
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  FDEEKIGTER ACYRDMSSFP ETKAEKYVNK AKGKK..... ..FLQYNRLQ
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  SASLASSPTR ......SAFR PKTSETVSSE .......... .....V..VS
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ....SKTSSS SCSA.HSSF. .......... .......... ..........
+OPHL_HUMAN  .......... .....SSSLQ PNMN...... .......SSD PDL.....AV
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1401                                              1450
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   VKKGLPGGQA LTPNAHHN.. DPHQQQASTP MSETGSTSTK ..........
+ABL1_CAEEL  SNPEIPNRS. .......... .......... ...FIRTDDS ..........
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  LSRIYPKGQR LDSSNYD... .......PLP MWICGSQLVA ..........
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  SPPTSPLHSP VKPVSNEQVE QVTEVELSIP VPSIQEAESQ ..........
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  SSTGQPRG.. ..PLE..... .PPQIIKPWS LSCLRPAPPL RPSAALGYKE
+OPHL_HUMAN  VKPTRPNSLP PNPSPTSP.. ....LSPSWP MFSAPSSPMP ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1451                                              1500
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   .LS.TFSSQG KGNVQMRRTT NK.....QGK Q....APAP. .P.KRT...S
+ABL1_CAEEL  .VS.FFNPST TSKVT...SF RA.....QGP P....FPPP. .P.QQN...T
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  .LN.FQTPD. .KPMQMNQAL FL.....AGG HCGYVLQPS. .VMRDEA..F
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  .K.....PVL TGS.SMRR.. .........P S....VTSP. .T.FEVA..A
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  RMSYILKESS KSPKTMKKFL HKRKTERKPS EEEYVIRKST AALEEDAQ..
+OPHL_HUMAN  .TS.STSSD. SSPVR..... .........S VAGFVWFSVA AVVLSLARSS
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... ..KLLWKGEG AVVIQDNS.D
+
+            1501                                              1550
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ...LL..... .......SSS RDSTYREEDP ANARCNFIDD LSTNGLARDI
+ABL1_CAEEL  KPKLL..... .......KSV LNSNARH... .......... ..........
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  DPFDKSSLRG LEPCAICIEV LGARHLPKNG RGIVCPFVEI EV.AG..AEY
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  RPLTS..... .......MDV RSSHNAE... ..TEVQAI.. ....PAATDI
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ...IL...KV IE........ .......... ..AYCTSANF QQGHGSSTRK
+OPHL_HUMAN  LHAVFSLLVN FVPCHPNLHL LFDRPEEA.. .......... ..........
+SNX9_MOUSE  ...CNHEYKG FLGCFPDIIG AHKGAIEK.. .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      I......... .......... .......... .......... ..........
+
+            1551                                              1600
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   NSLTQRYDSE TDPAADPDTD ATGDSLEQSL SQVI....AA PVTNKMQHSL
+ABL1_CAEEL  .......... .......... .......... .......... ..........
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  DSIKQKTEFV VDNGLNPVWP AKPFHFQI.. ........SN PEFAFLRFVV
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  SPE....... VKEGKNSENA ITKDNDDIIL SSQLQPTATG SRSSRLSFSR
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  DSIP...... .......... .......... .QVLL..... PEEEKLIIEE
+OPHL_HUMAN  .......... VHE....... .......... .......... ..........
+SNX9_MOUSE  .......... VKE....... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1601                                              1650
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   HSGGGGGGIG PRSSQ.QHSS FKRPTGTPVM GNRGLETRQS KRSQLHSQAP
+ABL1_CAEEL  .......... ......ASEE FERN...... .......... ..........
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  YEED...... ....MFSDQN FLAQATFPVK GLKTG..... ......YR.A
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  HGHGSQTSLG SIKRKSIMER MGRP.TSPFM GSSFS..... ...NMGSRST
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  TRSN...... .......... .....GQTIM EEKSL..... ..........
+OPHL_HUMAN  .......... .......... .......... .......... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1651                                              1700
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   GPGPPSTQP. HHGNNGVVTS A..HPITVGA LDVMNVK.QV VNRYGTLP..
+ABL1_CAEEL  .......... ..EQD..... ......DVVP LAEKNVRKAV TRLGGTMP..
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  VPLK...... NNYSEGLELA SLLVKIDVFP ........AK QENGDLSPFG
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  SPTKEGFASN QHATGASVQS DELEDIDPRA NVVLNVGPNM LSV.GEAPVE
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  .......... .......... ..VD..TVYA L.KDEVRELK QEN.......
+OPHL_HUMAN  .......... .......... .......... .......... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1701                                              1750
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   .......... ...KGARIGA YLDSLEDSSE A......... ..........
+ABL1_CAEEL  .......... ...KGQRIDA YLDSMRRVDS W......... ..........
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  GA........ .......... ...SLRERS. ..CDAS.... ..........
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  STSKEEDKDV PDPIANAMAE LSSSMRRRQS TSVDDEAPVS LSKTSSSTRL
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  .......KR. ...MKQCLEE ELKSRRDLEK L......... ..........
+OPHL_HUMAN  .......... .......... .......... .......... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1751                                              1800
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ........AP ALPATAPSLP PANGHATPPA ARLNP..KAS PIPPQ....Q
+ABL1_CAEEL  ........KE STDADNEG.. ..AGSSSLSR TVSNDSLDTL PLPDSMNSST
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  .GPLFHGRA. .......... ...REG.... .......... ..........
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  NGLGYHSRNT SIASDIDGVP KKSTLGAPPA AH........ ......TSAQ
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  VRRLLKQTDE CI....RG.. ....ES.... .....SSKTS ILP~~~~~~~
+OPHL_HUMAN  .......... .......... .......... .......... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1801                                              1850
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   MIRSNSSG.. ......GV.T MQNNAAASLN K......... ...LQRHRTT
+ABL1_CAEEL  YVKMHPAS.. ......GENV FLRQIRS... K......... ...LKKRSET
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ......SFEA RYQQPFE... .......... .......... ..........
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  MQRMSNSFAS QTKQVFGEQR TENSARESLR HSRSNMSRSP SPMLSRRSST
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  .......... .......... .......... .......... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1851                                              1900
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   TEGTM....M TFSSFRAGGS SSSPKRSAS. GVASGVQPAL ANL.EFPPPP
+ABL1_CAEEL  PELD...... HIDSDTADET TK.SEKSPF. GSLN.....K SSI.KYPI..
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ...DFRISQE HLADHFDGRD ....RRTPRR TRVNGDNRL~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  LRPSFERSAS SLSVRQSDVV SPAPSTRARG QSVSGQQRPS SSMSLYGEYN
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  .......... .......... .......... .......... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1901                                              1950
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   LDLPPPPEEF E.GGPPPPPP APESAVQAIQ QHLHAQLPNN GNISNGNGTN
+ABL1_CAEEL  KNAPEFSENH SRVSPVPVPP SRNASVSV.R PDSKA..... ........ED
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  KSQPQLSM.Q RSVSPNPLGP NRRSSSVL.. QSQKSTSSNT SNRNNGGYSG
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  .......... .......... .......... .......... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            1951                                              2000
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ...NNDSSHN DVSNIAPSVE EASSRFGVSL RKREPSTDSC SSLGSPPEDL
+ABL1_CAEEL  ...SSDETTK DVGMWGPKHA V.TRKI..EI VKNDSYPNVE GELKAKIRNL
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  SRPSSEMGHR YGSMSGRSMR QVSQRS..TS RARSPEPTNR NSVQSKNVDP
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  .......... .......... .......... .......... ..........
+SNX9_MOUSE  .......... .......... .......... .......... ..........
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... .......... ..........
+
+            2001                                              2050
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   KEKLITEIKA AGKDTAPASH LANGSGIAV. VD.P...... VSLLVTELAE
+ABL1_CAEEL  RHVPKEESNT SSQEDLPLDA TDNTNDSII. VI.PRDEKAK VRQLVTQKVS
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  RAT....... .........F TAEGEPILGY VIALYDYQ.. .....AQIPE
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  .......... D......... .......... SSTPFRKAKA LYACKAEHDS
+SNX9_MOUSE  .......... SDK....LVA ........TS KITPQDKQTM V.....KRVG
+1ycs_B      .......... .......... .......... .......... ..........
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      .......... .......... .......... KVVPRRKAKI IRD~~~~~~~
+
+            2051                                              2100
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   SM......NL PKPPPQQQQK LTNGNSTGSG FKAQLKKVEP KKMSAPMPKR
+ABL1_CAEEL  PLQHHRPFSL QCPNNSTSSA ISHSEHADSS ETSSLSGVYE ERMKPELPRK
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  EISFQKGDTL MVLRT.QEDG WWDGEII..N VPNSKRGLFP SNFVQTV~~~
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ELSFTAGTVF DNVHPSQEPG WLEGTLN... ...GKTGLIP ENYVEFL~~~
+SNX9_MOUSE  TMSYALQAEM NHFHSNRIYD .....YN... ...SVIRLYL EQQVQFYETI
+1ycs_B      .......... .......... .......... ......GLYP ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            2101                                              2150
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   T...ANTIID FKAHLRRVDK EKEPATPAPA PATVAVANNA NCNTTGTLNR
+ABL1_CAEEL  R...SNGDTK VVPVTWIING EKEPNGMART .......... ........KS
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  AEKLRQALSR FPVM~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            2151                                              2200
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   KEDGSKKFSQ AMQKTEIKID VTNSNVEADA GAAGEGDLGK RRSTDDEEQS
+ABL1_CAEEL  LRDITSKFEQ LGTASTIESK IEEA...... VPYREHALEK KGT......S
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            2201                                              2250
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   HTEGLGSGGQ GSADMTQSLY EQKPQIQQKP AVPHKPTKLT IYATPIAKLT
+ABL1_CAEEL  KRFSM...LE GSNELKH... .......... VVPPRKNR.. ........NQ
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            2251                                              2300
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   EPASSASSTQ ISRESILELV GLLEGSLK.. .....HPVNA IAGSQWLQLS
+ABL1_CAEEL  DESGSIDEEP VSKDMIVSLL KVIQKEFVNL FNLASSEITD EKLQQFVIMA
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            2301                                              2350
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   DKLNILHNSC VIFAENGAMP PHSKFQFREL VTRVEAQSQH LRSAGSKNVQ
+ABL1_CAEEL  DNVQKLHSTC SVYAE..QIS PHSKFRFKEL LSQLEIYNRQ IKFSHNPRAK
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            2351                 2373
+1awj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+STK_HYDAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+SRC1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+FGR_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+SR42_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+BTK_HUMAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+STAC_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+ABL_DROME   .DNERLVAEV GQSLRQISNA LNR
+ABL1_CAEEL  PVDDKLKMAF QDCFDQIMRL VDR
+PEXD_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+PIG1_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+NPH1_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+CC15_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+SS81_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+ARH6_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+OPHL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+SNX9_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+1ycs_B      ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+1hjd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+1ihv_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~

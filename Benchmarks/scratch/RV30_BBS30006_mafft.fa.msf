@@ -1,0 +1,85 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV30_BBS30006_mafft.fa.msf  MSF: 156  Type: N  December 21, 2021 21:48  Check: 6952  ..
+
+ Name: 2pna_       Len:    156  Check: 3418  Weight: 1.00
+ Name: 1a81_A      Len:    156  Check: 3897  Weight: 1.00
+ Name: 1ab2_       Len:    156  Check: 5569  Weight: 1.00
+ Name: 1bm2_A      Len:    156  Check: 1870  Weight: 1.00
+ Name: SEM5_CAEEL  Len:    156  Check: 7229  Weight: 1.00
+ Name: 1d4t_A      Len:    156  Check:  854  Weight: 1.00
+ Name: 1i3z_A      Len:    156  Check: 6846  Weight: 1.00
+ Name: 1aya_A      Len:    156  Check: 6547  Weight: 1.00
+ Name: 2pld_A      Len:    156  Check: 9384  Weight: 1.00
+ Name: 1jwo_A      Len:    156  Check:  685  Weight: 1.00
+ Name: 1ju5_A      Len:    156  Check: 9332  Weight: 1.00
+ Name: 1lui_A      Len:    156  Check: 2781  Weight: 1.00
+ Name: 1mil_       Len:    156  Check: 7231  Weight: 1.00
+ Name: 1bf5_A      Len:    156  Check:  354  Weight: 1.00
+ Name: STA4_HUMAN  Len:    156  Check: 5744  Weight: 1.00
+ Name: STA3_HUMAN  Len:    156  Check: 5115  Weight: 1.00
+ Name: STA2_HUMAN  Len:    156  Check: 6042  Weight: 1.00
+ Name: STA2_MOUSE  Len:    156  Check: 4054  Weight: 1.00
+
+//
+
+2pna_          EWYWGDISREEVN--EKLRDTA--DGTFLVRDASTKMHGDYTLTLRKGGNN------KLI
+1a81_A         PWFHGKISREESEQIVLIGSKT--NGKFLIRARDNN--GSYALCLLHEGKV------LHY
+1ab2_          SWYHGPVSRNAAE--YLLSSGI--NGSFLVRESESS-PGQRSISLRYEGRV------YHY
+1bm2_A         PWFFGKIPRAKAE--EMLSKQR-HDGAFLIRESESA-PGDFSLSVKFGNDV------QHF
+SEM5_CAEEL     NWYLGKITRNDAE--VLLKKPTVRDGHFLVRQCESS-PGEFSISVRFQDSV------QHF
+1d4t_A         AVYHGKISRETGEK-LLLATGL--DGSYLLRDSESV-PGVYCLCVLYHGYI------YTY
+1i3z_A         PYYHGCLTKRECEA-LLLKGGV--DGNFLIRDSESV-PGALCLCVSFKKLV------YSY
+1aya_A         RWFHPNITGVEAEN-LLLTRGV--DGSFLARPSKSN-PGDFTLSVRRNGAV------THI
+2pld_A         EWYHASLTRAQAEH-MLMRVPR--DGAFLVRK-RNE-PNSYAISFRAEGKI------KHC
+1jwo_A         PWFHGKISGQEAV--QQLQPPE--DGLFLVRESARH-PGDYVLCVSFGRDV------IHY
+1ju5_A         SWYWGRLSRQEAV--ALLQGQR--HGVFLVRDSSTS-PGDYVLSVSENSRV------SHY
+1lui_A         EWYNKSISRDKAEK-LLLDTGK--EGAFMVRDSRT--PGTYTVSVFTKAIISENPCIKHY
+1mil_          PWFHGKLSRREAE--ALL--QL--NGDFLVRESTTT-PGQYVLTGLQSGQP------KHL
+1bf5_A         GCIMGFISKERER--ALLKDQQ--PGTFLLRFSESSREGAITFTWVERSQNG-----GEP
+STA4_HUMAN     GYVMGFVSKEKER--LLLKDKM--PGTFLLRFSESHL-GGITFTWVDHSES------GEV
+STA3_HUMAN     GYIMGFISKERER--AILSTKP--PGTFLLRFSESSKEGGVTFTWVEKDIS------GKT
+STA2_HUMAN     GRIMGFVSRSQER--RLLKKTM--SGTFLLRFSESS-EGGITCSWVEHQDD------DKV
+STA2_MOUSE     GRIMGFVSRNQER--RLLKKML--SGTFLLRFSETS-EGGITCSWVEHQDD------HKV
+
+
+2pna_          KIFH--------------RDGK----YGFSDP-----LTFNSVVELINHYR---------
+1a81_A         RIDKD-------------KTGK----LSIPEG-----KKFDTLWQLVEHYS---------
+1ab2_          RINTA-------------SDGK----LYVSSE-----SRFNTLAELVHHHS---------
+1bm2_A         KVLRD-------------GAGK----YFLWV------VKFNSLNELVDYHR---------
+SEM5_CAEEL     KVLRD-------------QNGK----YYLWA------VKFNSLNELVAYHR---------
+1d4t_A         RVSQT-------------ETGS----WSAETAPGVHKRYFRKIKNLISAFQ---------
+1i3z_A         RIFRE-------------KHGY----YRIETDAHTPRTIFPNLQELVSKYG---------
+1aya_A         KIQ-N-------------TGDY----YDLYGG-----EKFATLAELVQYYMEHHGQ----
+2pld_A         RVQ---------------QEGQ----TVMLGN-----SEFDSLVDLISYYE---------
+1jwo_A         RVL-H-------------RDGH----LTIDEA-----VFFCNLMDMVEHYS---------
+1ju5_A         IINSSGPRPPVPPSPAQPPPGVSPSRLRIGD------QEFDSLPALLEFYKIHYLD----
+1lui_A         HIKETND-----------SPKR----YYVAEK-----YVFDSIPLLIQYHQ---------
+1mil_          LLVD--------------PEGV----VRTKD------HRFESVSHLISYHMDNHLP----
+1bf5_A         DFHAVEPY----------TKKE---------------LSAVTFPDIIRNYKVMAAENIPE
+STA4_HUMAN     RFHSVEPY----------NKGR---------------LSALPFADILRDYKVIMAENIPE
+STA3_HUMAN     QIQSVEPY----------TKQQ---------------LNNMSFAEIIMGYKIMDATNILL
+STA2_HUMAN     LIYSVQPY----------TKEV---------------LQSLPLTEIIRHYQLLTEENIPE
+STA2_MOUSE     EIYSVQPY----------TKEV---------------LQSLPLTEIIRHYQVLAEENIPE
+
+
+2pna_          ------------NESLAQY--------------NPK
+1a81_A         ------------YKADG-------------------
+1ab2_          ------------TVADG-------------------
+1bm2_A         ------------STSVS-------------------
+SEM5_CAEEL     ------------TASVS-------------------
+1d4t_A         ------------KPDQG-------------------
+1i3z_A         ------------KPGQG-------------------
+1aya_A         -----------LKEKNG-------------------
+2pld_A         ------------KHPLY-------------------
+1jwo_A         ------------KDKGA-------------------
+1ju5_A         ------------------------------------
+1lui_A         ------------YNGGG-------------------
+1mil_          ------------IISAG-------------------
+1bf5_A         NPLKYLYPNIDKDHAFGKYYSRG-------------
+STA4_HUMAN     NPLKYLYPDIPKDKAFGKHYSSQPCEVSRPTERGDK
+STA3_HUMAN     SPLVYLYPDIPKEEAFGKYCRPESQEHPEADPGSAA
+STA2_HUMAN     NPLRFLYPRIPRDEAFGCYYQEKVNLQERR------
+STA2_MOUSE     NPLRFLYPRIPRDEAFGCYYQEKVNLEEQE------
+
+

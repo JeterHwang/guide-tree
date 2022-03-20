@@ -1,0 +1,365 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV30_BB30006_kalign.msf  MSF: 982  Type: N  December 21, 2021 20:17  Check: 7113  ..
+
+ Name: 2pna_       Len:    982  Check: 4314  Weight: 1.00
+ Name: 1a81_A      Len:    982  Check: 7686  Weight: 1.00
+ Name: 1ab2_       Len:    982  Check: 4705  Weight: 1.00
+ Name: 1bm2_A      Len:    982  Check: 1484  Weight: 1.00
+ Name: SEM5_CAEEL  Len:    982  Check: 7147  Weight: 1.00
+ Name: 1d4t_A      Len:    982  Check: 7462  Weight: 1.00
+ Name: 1i3z_A      Len:    982  Check:  998  Weight: 1.00
+ Name: 1aya_A      Len:    982  Check: 2943  Weight: 1.00
+ Name: 2pld_A      Len:    982  Check: 6542  Weight: 1.00
+ Name: 1jwo_A      Len:    982  Check: 9602  Weight: 1.00
+ Name: 1ju5_A      Len:    982  Check: 7376  Weight: 1.00
+ Name: 1lui_A      Len:    982  Check: 1015  Weight: 1.00
+ Name: 1mil_       Len:    982  Check: 4710  Weight: 1.00
+ Name: 1bf5_A      Len:    982  Check:  315  Weight: 1.00
+ Name: STA4_HUMAN  Len:    982  Check: 3349  Weight: 1.00
+ Name: STA3_HUMAN  Len:    982  Check: 6712  Weight: 1.00
+ Name: STA2_HUMAN  Len:    982  Check: 2214  Weight: 1.00
+ Name: STA2_MOUSE  Len:    982  Check: 8539  Weight: 1.00
+
+//
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         ------------------------------------------------------------
+STA4_HUMAN     MSQWNQVQQLEIKFLEQVDQFYDDNF-PMEIRHLLAQWIENQDWEAAS--NNETMATILL
+STA3_HUMAN     MAQWNQLQQLDTRYLEQLHQLYSDSF-PMELRQFLAPWIESQDWAYAA--SKESHATLVF
+STA2_HUMAN     MAQWEMLQNLDSPFQDQLHQLYSHSLLPVDIRQYLAVWIEDQNWQEAALGSDDSKATMLF
+STA2_MOUSE     MAQWEMLQNLDSPFLDQLHQVYSQSFLPMDFRQHLASWIEDQNWREAALESDDAKANMLY
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         ------------------------------------------------------------
+STA4_HUMAN     QNLLIQLDEQLGRVSKEKNLLLIHNLKRIRKVLQGKFHGNPMHVAVVISNCLREERRIL-
+STA3_HUMAN     HNLLGEIDQQYSRFLQESNVLYQHNLRRIKQFLQSRYLEKPMEIARIVARCLWEESRLLQ
+STA2_HUMAN     FHFLDQLNYECGRCSQDPESLLLQHNLRKFCRDIQPFSQDPTQLAEMIFNLLLEEKRILI
+STA2_MOUSE     FSILDQLN-QWDHYSSDPKSLLLQHNLRKFSRDIQPFPNGPSQLAEMIFNLLLEEQRILI
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         --------------------LDKQKELDSKVRNVKDKVMCIEHEIKSLEDLQDEYDFKCK
+STA4_HUMAN     AAANMPVQGPLEKSLQSSSVSERQRNVEHKVAAIKNSVQMTEQDTKYLEDLQDEFDYRYK
+STA3_HUMAN     TAATAAQQGGQANHPTAAVVTEKQQMLEQHLQDVRKRVQDLEQKMKVVENLQDDFDFNYK
+STA2_HUMAN     QAQRA--QLEQGEPVLETPVESQQHEIESRILDLRAMMEKLVKSISQLKDQQDVFCFRYK
+STA2_MOUSE     QAQRA--QEVQPPPAPEAVVESQQLEIENRIQGLHVDIEFLVRSIRQLKDEQDVFSFRYT
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         TLQN---------------REHL-LLKKMYLMLDNKRKEVVHKIIELLNVTELTQNALIN
+STA4_HUMAN     TIQTM-DQSD---KNSAMVNQEVLTLQEMLNSLDFKRKEALSKMTQIIHETDLLMNTMLI
+STA3_HUMAN     TLKSQGDMQDLNGNNQSVTRQKMQQLEQMLTALDQMRRSIVSELAGLLSAMEYVQKTLTD
+STA2_HUMAN     -IQAKGKTPSL----DPHQTKEQKILQETLNELDKRRKEVLDASKALLGRLTTLIE-LLL
+STA2_MOUSE     -VFSLKKTSSS----DPHQSQQAHVVQATANKVDRMRKEVLDISKGLVGRLTTLVD-LLL
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         DELVEWKRRQQSACIGGP--PNACLDQLQNWFTIVAESLQQVRQQLKKLEELEQKYTYEH
+STA4_HUMAN     EELQDWKRRQQIACIGGP--LHNGLDQLQNCFTLLAESLFQLRRQLEKLEEQSTKMTYEG
+STA3_HUMAN     EELADWKRRQQIACIGGP--PNICLDRLENWITSLAESQLQTRQQIKKLEELHQKVSYKG
+STA2_HUMAN     PKLEEWKAQQQKACIRAP--IDHGLEQLETWFTAGAKLLFHLRQLLKELKGLSCLVSYQD
+STA2_MOUSE     PKLDEWKVQQQKSCIGAPPPVKSAAEQLEQWLTAGAKFLFHLRQLLKQLKEMSCL-RYQG
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         DPITKNKQVLWDRTFSLFQQLIQSSFVVERQPCMPTHPQRPLVLKTGVQFTVKLRLLVKL
+STA4_HUMAN     DPIPMQRTHMLERVTFLIYNLFKNSFVVERQPCMPTHPQRPLVLKTLIQFTVKLRLLIKL
+STA3_HUMAN     DPIVQHRPMLEERIVELFRNLMKSAFVVERQPCMPMHPDRPLVIKTGVQFTTKVRLLVKF
+STA2_HUMAN     DPLTKGVDLRNAQVTELLQRLLHRAFVVETQPCMPQTPHRPLILKTGSKFTVRTRLLVRL
+STA2_MOUSE     DMFAKGVDLRNAQVMELLQRLLQRSFVVETQPCMPQTLHRPLILKTGNKFTVRTRLLVRL
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         QELNYNLKVKVLFDKDVNERNTVKGFRKFNILGTHTKVMNMEESTNGSLAAEFRHLQLKE
+STA4_HUMAN     PELNYQVKVKASIDKNVSTLSN----RRFVLCGTNVKAMSIEESSNGSLSVEFRHLQPKE
+STA3_HUMAN     PELNYQLKIKVCIDKDSGDVAALRGSRKFNILGTNTKVMNMEESNNGSLSAEFKHLTLRE
+STA2_HUMAN     QEGNESLTVEVSIDRNPPQLQ---GFRKFNILTSNQKTLTPEKGQSQGLIWDFGYLTLVE
+STA2_MOUSE     QEGSESLKAEVSVDRNS-DLP---GFRKFNILTSNQKTLTPEKGQRQGLIWDFGFLTLVE
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------SANHLPFFFGNITREEAEDYLVQGGMSDGLYLLRQSRNYLGG
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         QK--NAGTRTNEGPLIVTEELHSLSFETQLCQPGLVIDLETTSLP--VVVISNVSQLPSG
+STA4_HUMAN     MK-SSAGGKGNEGCHMVTEELHSITFETQICLYGLTIDLETSSLP--VVMISNVSQLPNA
+STA3_HUMAN     QRCGNGGRANCDASLIVTEELHLITFETEVYHQGLKIDLETHSLS--VVVISNICQMPNA
+STA2_HUMAN     QRSGGSGKGSNKGPLGVTEELHIISFTVKYTYQGLKQELKTDTLP--VVIISNMNQLSIA
+STA2_MOUSE     QRAVGAGKGNNKGPLAVTEELHVISFVVEYTYQGLKMKLQTDTLP--VVIISNMNQLSFA
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         FALSVAHGRKAHHYTIERELNGTYAIAGGRTHASPADLCHYHSQESDGLVCLLKKPFNRP
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ----------------------------------------------------------ME
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         WA-SILWYNMLVAEPRNLSFFLTPPC-ARWAQLSEVLSWQFSSVTKRGLNV-----DQLN
+STA4_HUMAN     WA-SIIWYNVSTNDSQNLVFFNNPPP-ATLSQLLEVMSWQFSSYVGRGLNS-----DQLH
+STA3_HUMAN     WA-SILWYNMLTNNPKNVNFFTKPPI-GTWDQVAEVLSWQFSSTTKRGLSI-----EQLT
+STA2_HUMAN     WA-SVLWFNLLSPNLQNQQFFSNPPK-APWSLLGPALSWQFSSYVGRGLNS-----DQLS
+STA2_MOUSE     WA-SILWFNMLSPNPKNQQFFCQAPK-APWSLLGPVLSWQFSSYVARGLDS-----EQLG
+
+
+2pna_          ----------------------------------------------------LQDAEWYW
+1a81_A         QGVQPKTGPFEDLKENLIREYVKQTWNLQGQALEQAIISQKPQLEKLIATTAHEKMPWFH
+1ab2_          -----------------------------------------------GSGNSLEKHSWYH
+1bm2_A         ----------------------------------------------------MKPHPWFF
+SEM5_CAEEL     AVAEHDFQAGSPDELSFKRGNTLKVLNKDEDPHWYKAELDGNEGFIPSNYIRMTECNWYL
+1d4t_A         ----------------------------------------------------MDAVAVYH
+1i3z_A         ----------------------------------------------------MD-LPYYH
+1aya_A         ------------------------------------------------------MRRWFH
+2pld_A         -----------------------------------------------GSPGIHESKEWYH
+1jwo_A         ----------------------------------------------------LSLMPWFH
+1ju5_A         --------------------------------------------------------SWYW
+1lui_A         --------------------------------------------------NNLETYEWYN
+1mil_          -------------------------------------------------GSQLRGEPWFH
+1bf5_A         MLGEKLLGPNASPDG-LIPWTRFCKENINDKNFPFWLWIESILELIKKHLLPLWNDGCIM
+STA4_HUMAN     MLAEKLTVQSSYSDG-HLTWAKFCKEHLPGKSFTFWTWLEAILDLIKKHILPLWIDGYVM
+STA3_HUMAN     TLAEKLLGPGVNYSGCQITWANFCKENMAGKGFSYWVWLDNIIDLVKKYILALWNEGYIM
+STA2_HUMAN     MLRNKLFGQNCRTEDPLLSWADFTKRESPPGKLPFWTWLDKILELVHDHLKDLWNDGRIM
+STA2_MOUSE     MLRTKLFGKSCKMEDALLSWVDFCKRESPPGKIPFWTWLDKILELVHDHLKDLWKDGRIM
+
+
+2pna_          GDISREEVNE--KLRDT-ADGTFLVRDASTKMHGDYTLTLRKGGNN--------KLIKI-
+1a81_A         GKISREESEQIVLIGSK-TNGKFLIR-AR-DNNGSYALCLLHEGKV--------LHYRID
+1ab2_          GPVSRNAAEYL-LSSGI--NGSFLVRESE-SSPGQRSISLRYEGRV--------YHYRIN
+1bm2_A         GKIPRAKAEEM-LSKQR-HDGAFLIRESE-SAPGDFSLSVKFGNDV--------QHFKVL
+SEM5_CAEEL     GKITRNDAEVL-LKKPTVRDGHFLVRQCE-SSPGEFSISVRFQDSV--------QHFKVL
+1d4t_A         GKISRETGEKL-LLATG-LDGSYLLRDSE-SVPGVYCLCVLYHGYI--------YTYRVS
+1i3z_A         GCLTKRECEAL-LLKGG-VDGNFLIRDSE-SVPGALCLCVSFKKLV--------YSYRIF
+1aya_A         PNITGVEAENL-LLTRG-VDGSFLARPSK-SNPGDFTLSVRRNGAV--------THIKI-
+2pld_A         ASLTRAQAEHM-LMRVP-RDGAFLVR-KR-NEPNSYAISFRAEGKI--------KHCRV-
+1jwo_A         GKISGQEAVQ--QLQPP-EDGLFLVRESA-RHPGDYVLCVSFGRDV--------IHYRV-
+1ju5_A         GRLSRQEAVA--LLQGQ-RHGVFLVRDSS-TSPGDYVLSVSENSRV--------SHYIIN
+1lui_A         KSISRDKAEKL-LLDTG-KEGAFMVRDSR-T-PGTYTVSVFTKAIISENPCIKHYHIKET
+1mil_          GKLSRREAEA--LL--Q-LNGDFLVREST-TTPGQYVLTGLQSGQP--------KHLLLV
+1bf5_A         GFISKERERA--LLKDQ-QPGTFLLRFSESSREGAITFTWVERSQNG-------GEPDF-
+STA4_HUMAN     GFVSKEKERL--LLKDK-MPGTFLLRFSE-SHLGGITFTWVDHSES--------GEVRF-
+STA3_HUMAN     GFISKERERA--ILSTK-PPGTFLLRFSESSKEGGVTFTWVEKDIS--------GKTQI-
+STA2_HUMAN     GFVSRSQERR--LLKKT-MSGTFLLRFSE-SSEGGITCSWVEHQDD--------DKVLI-
+STA2_MOUSE     GFVSRNQERR--LLKKM-LSGTFLLRFSE-TSEGGITCSWVEHQDD--------HKVEI-
+
+
+2pna_          FH-------------RDGKYGFSD-----PLTFNSVVELINHYRNESLAQYNPKLD-VKL
+1a81_A         KD-------------KTGKLSIPE-----GKKFDTLWQLVEHYSYKADG-----LL-RVL
+1ab2_          TA-------------SDGKLYVSS-----ESRFNTLAELVHHHSTVADGLI------TTL
+1bm2_A         RD-------------GAGKYFLWV------VKFNSLNELVDYHRSTSVSRN------QQI
+SEM5_CAEEL     RD-------------QNGKYYLWA------VKFNSLNELVAYHRTASVSRT------HTI
+1d4t_A         QT-------------ETGSWSAETAPGVHKRYFRKIKNLISAFQKPDQGIV------IPL
+1i3z_A         RE-------------KHGYYRIETDAHTPRTIFPNLQELVSKYGKPGQGLV------VHL
+1aya_A         QN-------------TGDYYDLYG-----GEKFATLAELVQYYMEHHGQLKEKNGDVIEL
+2pld_A         QQ-------------EGQTV-MLG-----NSEFDSLVDLISYYEKH--PLYRK----MKL
+1jwo_A         LH-------------RDGHLTIDE-----AVFFCNLMDMVEHYSKDKGA-----IC-TKL
+1ju5_A         SSGPRPPVPPSPAQPPPGVSPSRLR--IGDQEFDSLPALLEFYKIHYLDTTT-------L
+1lui_A         ND-------------SPKRYYVAE-----KYVFDSIPLLIQYHQYNGGGLV------TRL
+1mil_          D--------------PEGV----VR--TKDHRFESVSHLISYHMDNHLPIISAGSE-LCL
+1bf5_A         ---------------HAVEPYTKK-----ELSAVTFPDIIRNYKVMAAENIPENPL-KYL
+STA4_HUMAN     ---------------HSVEPYNKG-----RLSALPFADILRDYKVIMAENIPENPL-KYL
+STA3_HUMAN     ---------------QSVEPYTKQ-----QLNNMSFAEIIMGYKIMDATNILLSPL-VYL
+STA2_HUMAN     ---------------YSVQPYTKE-----VLQSLPLTEIIRHYQLLTEENIPENPL-RFL
+STA2_MOUSE     ---------------YSVQPYTKE-----VLQSLPLTEIIRHYQVLAEENIPENPL-RFL
+
+
+2pna_          LYPVSKY-----------------------------------------------------
+1a81_A         TVPCQKI-----------------------------------------------------
+1ab2_          HYPAPKRGIHRD------------------------------------------------
+1bm2_A         FLRDIE------------------------------------------------------
+SEM5_CAEEL     LLSDMNVETKFVQALFDFNPQESGELAFKRGDVITLINKDDPNWWEGQLNNRRGIFPSNY
+1d4t_A         QYPVEK------------------------------------------------------
+1i3z_A         SNPIMR------------------------------------------------------
+1aya_A         KYPLN-------------------------------------------------------
+2pld_A         RYPINEENSS--------------------------------------------------
+1jwo_A         VRPKRK------------------------------------------------------
+1ju5_A         IEPVSR------------------------------------------------------
+1lui_A         RYPVCG------------------------------------------------------
+1mil_          QQPVERKL----------------------------------------------------
+1bf5_A         YPNIDKDHAFGKY--------------YSRGXIKTELISVS-------------------
+STA4_HUMAN     YPDIPKDKAFGKHYSSQPCEVSRPTERGDKGYVPSVFIPISTIRSDSTEPHSPSDLLPMS
+STA3_HUMAN     YPDIPKEEAFGKYCRPESQEHPEADPGSAAPYLKTKFICVTPTTCSNTIDLPMSPRALDS
+STA2_HUMAN     YPRIPRDEAFGCYYQEKVNLQER-RKYLKHRLIVVSNRQVDELQQPLELKPEPE-LE---
+STA2_MOUSE     YPRIPRDEAFGCYYQEKVNLEEQ-EEYLKHKLIVISNRQVDELQQPLELKQDSESLEVNA
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     VCPYNSNKSNSNVAPGFNFGN---------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         ------------------------------------------------------------
+STA4_HUMAN     PSVYAVLRENLSPTTIETAMKSPYSAE---------------------------------
+STA3_HUMAN     LMQFGNNGEGAEPSAGGQFESLTFDMELTSECATSPM-----------------------
+STA2_HUMAN     ----------SLELELGLVPEPELSLD------------------LEPLLKAGLDLGPE-
+STA2_MOUSE     ELLLAHDQELPLMMQTGLVLGTELKVDPILSTAPQVLLEPAPQVLLEPAPQVLLEPAPQV
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         ------------------------------------------------------------
+STA4_HUMAN     ------------------------------------------------------------
+STA3_HUMAN     ------------------------------------------------------------
+STA2_HUMAN     -LESVLESTLEP----VIEPTLCMVSQTVPEPDQGPVSQ------------PVP------
+STA2_MOUSE     LLEPAPQVLLEPAPQVLLEPAPQVLLEPAPQVQLEPAPQVLLELAPQVLLEPAPQVLLEL
+
+
+2pna_          ------------------------------------------------------------
+1a81_A         ------------------------------------------------------------
+1ab2_          ------------------------------------------------------------
+1bm2_A         ------------------------------------------------------------
+SEM5_CAEEL     ------------------------------------------------------------
+1d4t_A         ------------------------------------------------------------
+1i3z_A         ------------------------------------------------------------
+1aya_A         ------------------------------------------------------------
+2pld_A         ------------------------------------------------------------
+1jwo_A         ------------------------------------------------------------
+1ju5_A         ------------------------------------------------------------
+1lui_A         ------------------------------------------------------------
+1mil_          ------------------------------------------------------------
+1bf5_A         ------------------------------------------------------------
+STA4_HUMAN     ------------------------------------------------------------
+STA3_HUMAN     ------------------------------------------------------------
+STA2_HUMAN     ------EP----------DLPCDLRHLNTEPMEIFRNCVKIEEIMPNGDPLLAGQNTVDE
+STA2_MOUSE     APQVQLEPAHLLQQPSESDLPEDLQQISVEDLKKLSN-PSTEYITTNENPMLAGESSGDE
+
+
+2pna_          ----------------------
+1a81_A         ----------------------
+1ab2_          ----------------------
+1bm2_A         ----------------------
+SEM5_CAEEL     ----------------------
+1d4t_A         ----------------------
+1i3z_A         ----------------------
+1aya_A         ----------------------
+2pld_A         ----------------------
+1jwo_A         ----------------------
+1ju5_A         ----------------------
+1lui_A         ----------------------
+1mil_          ----------------------
+1bf5_A         ----------------------
+STA4_HUMAN     ----------------------
+STA3_HUMAN     ----------------------
+STA2_HUMAN     VYVSRPSHFYTDGPLMPS--DF
+STA2_MOUSE     TSIPYHSHFDADGLLGWTLDTF
+
+

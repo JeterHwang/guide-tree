@@ -1,0 +1,485 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV50_BB50009_mafft.fa.msf  MSF: 852  Type: N  December 21, 2021 21:48  Check: 6883  ..
+
+ Name: 1b70_A      Len:    852  Check: 5726  Weight: 1.00
+ Name: 1pys_A      Len:    852  Check: 8285  Weight: 1.00
+ Name: SYFA_DEIRA  Len:    852  Check: 7244  Weight: 1.00
+ Name: SYFA_MYCBO  Len:    852  Check: 1272  Weight: 1.00
+ Name: SYFA_COREF  Len:    852  Check: 1814  Weight: 1.00
+ Name: SYFA_BIFLO  Len:    852  Check: 6754  Weight: 1.00
+ Name: SYFA_THETN  Len:    852  Check: 8086  Weight: 1.00
+ Name: SYFA_SYNY3  Len:    852  Check: 6487  Weight: 1.00
+ Name: SYFA_SYNEL  Len:    852  Check: 7151  Weight: 1.00
+ Name: SYFA_ARATH  Len:    852  Check: 1260  Weight: 1.00
+ Name: SYFA_HALN1  Len:    852  Check:  548  Weight: 1.00
+ Name: SYFA_PYRAB  Len:    852  Check: 3959  Weight: 1.00
+ Name: SYFA_PYRAE  Len:    852  Check: 9689  Weight: 1.00
+ Name: SYFA_THEVO  Len:    852  Check: 6902  Weight: 1.00
+ Name: SYFA_THEAC  Len:    852  Check: 2897  Weight: 1.00
+ Name: SYFA_AERPE  Len:    852  Check: 2194  Weight: 1.00
+ Name: SYFA_METJA  Len:    852  Check: 1242  Weight: 1.00
+ Name: SYFA_METAC  Len:    852  Check: 8881  Weight: 1.00
+ Name: SYFA_SULTO  Len:    852  Check: 4952  Weight: 1.00
+ Name: SYFA_SULSO  Len:    852  Check:  599  Weight: 1.00
+ Name: SYFA_METKA  Len:    852  Check:  929  Weight: 1.00
+ Name: SYFA_ARCFU  Len:    852  Check:  965  Weight: 1.00
+ Name: SYFA_METTH  Len:    852  Check: 3732  Weight: 1.00
+ Name: SYFA_TREPA  Len:    852  Check: 5019  Weight: 1.00
+ Name: SYFA_BORBU  Len:    852  Check: 5022  Weight: 1.00
+ Name: 1asz_B      Len:    852  Check: 9081  Weight: 1.00
+ Name: 1adj_A      Len:    852  Check: 7602  Weight: 1.00
+ Name: 1lyl_A      Len:    852  Check: 8591  Weight: 1.00
+
+//
+
+1b70_A         ------------------------------------------------------------
+1pys_A         -M----------------------------------------------------------
+SYFA_DEIRA     -M----------------------------------------------------------
+SYFA_MYCBO     -M----------------------------------------------------------
+SYFA_COREF     -M----------------------------------------------------------
+SYFA_BIFLO     -MA-------------------------------------EQM-----------------
+SYFA_THETN     -M----------------------------------------------------------
+SYFA_SYNY3     -MT-------------------------------------I-------------------
+SYFA_SYNEL     -MT-------------------------------------SP------------------
+SYFA_ARATH     -MA------------------EEAILGFLQNN--------EQITDSGQFSAEFN---IDH
+SYFA_HALN1     -MQ--------------LPTQQVAVLDAASTD--------DPQ-RIEALAADTD---YPP
+SYFA_PYRAB     -MT--------------LGYNEKLVLLTIAKL--------EKA-SVEEIVKETR---LDQ
+SYFA_PYRAE     -ML-------------VLPLPLYEIIRHAPEWK-----------PLEEVARELG---SSV
+SYFA_THEVO     --------------MSEISKNEALILKYLASK--------NQE-IEESNIEIKG---LSR
+SYFA_THEAC     -MHIPI-------PMVQISEAEYRVLRAIQSR--------GAT-AIESELSVEG---LSD
+SYFA_AERPE     -ME------------VTLSQGEYRLLKLMAERG------FREG-TLEEASKILG---VDK
+SYFA_METJA     -ME--------------LHIDEKRLLKIFQDN--------NR--DEFNLNELEK--FMPK
+SYFA_METAC     -MSAQ----------DNLTINEKKVLLALEEL--------GSA-APDKLEEKSG---LQV
+SYFA_SULTO     ----------------MLSENEIKILEYLSKK--------REA-SAEDISKQLN---IPI
+SYFA_SULSO     -MI------------SMLSENEAKILFFLKDL--------KKT-NSVELAIKMG---IPE
+SYFA_METKA     -MDPRE-------LAERLTERDLRILIHLAES--------GEA-TPEELAESLD---VDL
+SYFA_ARCFU     -MLSK----------IELML-----LRSLETG--------KTY-TPEEAAELSG---LSK
+SYFA_METTH     MMDLDR-------IIDQLHIYEKKVLKAFEGS--------DKPLKPEEIAESQK---IDI
+SYFA_TREPA     MMPRMTGKADLNTLVHKLHPLEIKVLKNCAMD--------EIL-STSLLISRLG---FKE
+SYFA_BORBU     -MKVIFMKADLN-LIKTLHPLEIKVIVNNEEE--------DDI-SASIIIEKLG---FNE
+1asz_B         ---------------EDTAKDNYGKLPLIQS---------RDSDRTGQKRVKF--VDLDE
+1adj_A         -MT---------------------------------------------------------
+1lyl_A         -SEQETRGANEAIDFNDELRNRREKLAALRQQGVAFPNDFRRDHTSDQLHEEFDAKDNQE
+
+
+1b70_A         ------------------------------------------------------------
+1pys_A         ------------------------------------------------------------
+SYFA_DEIRA     ------------------------------------------------------------
+SYFA_MYCBO     ------------------------------------------------------------
+SYFA_COREF     ------------------------------------------------------------
+SYFA_BIFLO     ------------------------------------------------------------
+SYFA_THETN     ------------------------------------------------------------
+SYFA_SYNY3     ------------------------------------------------------------
+SYFA_SYNEL     ------------------------------------------------------------
+SYFA_ARATH     NELVNVIKSLHGFRYID-VQDIKKETWILTDEGKK----YAAEGSPEVQLFLAVPEE--G
+SYFA_HALN1     ETIAGAALALEAEGLVA-VTETTTTTVSLTDEGHA----YATDGLPEVRLYRAALDAGAD
+SYFA_PYRAB     VAVMRAILTLEKEGLIK-LHERKEKIIVLTDIGKE----YSKIGLPEIRALRVLREK--K
+SYFA_PYRAE     DSLMRYVEEGRAKGVLR-VERKVIEFYELTEEGRQ----RAAEGLPEYKLLKSAVCR---
+SYFA_THEVO     QDIASATSWLQVKGLID-VKTREEVAYVLTDEGKR----YAENGLPELRAYSILKRK--G
+SYFA_THEAC     REIASAISWLEVKGLLD-VERREIKTYALSSEGKR----YLREGLPELVLYRKLKER--G
+SYFA_AERPE     SSLASLSNLLAEKGVVE-VEERVEEHYVLTERGRD----ALERGLPEEKLVLFLAGR-GG
+SYFA_METJA     EKILRVSLWLKGKNLVE-TEEKVKKIIKLIKE----------EEFPERKIANYLKQHNIK
+SYFA_METAC     DAAMQAAFMLQEKGLAS-VSEKVLERYSLTKEGEE----YTKTGLPERQIIDALK----A
+SYFA_SULTO     ESVFSISQLLKEKGYIE-VEEKKVIKYELTDEGKR----RLKEGFPEEKLVKLLDGK---
+SYFA_SULSO     SSVLSLIELLREKGYVK-TEVKSEKHYVLTEEGRK----RKESGLPEDILINTLNGQ---
+SYFA_METKA     GPVMRSLYWLEERGLIE-SEEETHEVYELGDEGKE----YAEEGLPELRIVEVLRKI-GG
+SYFA_ARCFU     DAVLKAAYMLQERGYVR-VIENVRTHYSLTEEGER----YLKEGLPEEKLYSLVK----S
+SYFA_METTH     KSVMSASGALESRGFVR-VMKDADEVVSLTEDGES----CAREGLPERRLIEALK----G
+SYFA_TREPA     GHANQAFSWLRAKRIIEEHQREQMRSFELTPCGYA----AASDGTAEERMLTFLSSPP--
+SYFA_BORBU     GQANKTIEWLNSKGIIEEIYRKLNVFYKATERGLG----ALRDGFVEEKIINLVSQKA--
+1asz_B         AKDSDKEVLFRARVHNTRQQGATLAFLTLRQQASLIQGLVKANK--EGTISKNMVKWA-G
+1adj_A         ------------------------------------------------------------
+1lyl_A         LESLNIEVSVAGRMMTRRIMGKA-SFVTLQDVGGRIQLYVARDSLPEGVYNDQFKKW---
+
+
+1b70_A         ------------------------------------------------------------
+1pys_A         ------------------------------------------------LEEALAAIQN--
+SYFA_DEIRA     ------------------------------------------------QDTAIQEIQG--
+SYFA_MYCBO     ----LS-----------------------------------PEALTTAVDAAQQAIAL--
+SYFA_COREF     -----T-----------------------------------EASLNEAATAAITAFDG--
+SYFA_BIFLO     ---VFD-----------------------------------ADQVTAEVAEGIEKIQN--
+SYFA_THETN     -----------------------------------------EELLKELSKRAEEEILK--
+SYFA_SYNY3     ---------------------------------------SLEADLKSLQQSAQAAISG--
+SYFA_SYNEL     ---ILDR-------------------------------DRLSQQLQDLQAKALQAIAT--
+SYFA_ARATH     SI-SKD----------------------ELQKKLA--PAVFKIGCSQAGKNKWVEMGK--
+SYFA_HALN1     DA-PVEM--------------------GSVIGAAGLDGPQVDIALSNYARKGYGTIDS--
+SYFA_PYRAB     KA-YLD----------------------ELKDVLR--EDELKAIVGILRREGLANVRKDE
+SYFA_PYRAE     EG-RCT---------------------AHLSQH-----PEAQIALANLAKLG-VKPRG--
+SYFA_THEVO     KL-SLR----------------------DLQEAMP---DEYKIVLAQLAKFGITPKN---
+SYFA_THEAC     EM-TMD----------------------EIRDLMP---DTYRIALAQLAKFGITPKE---
+SYFA_AERPE     EA-SVE----------------------EVRRALG---EEAGIALGQAARKGLVVIAG--
+SYFA_METJA     EI-EIK----------------------NLKDI--LPKEEINAALGAIKRKGIARIEK--
+SYFA_METAC     PA-PLE----------------------ELRSRFS--PKTVGIATGWLIKKGWAKVEN--
+SYFA_SULTO     EK-KIH----------------------ELKDKLG---RDFEISIGWAKRKGLVKIDG--
+SYFA_SULSO     EK-DLN----------------------EIKNILN---KDFNIAISWAKRKGLIDIKE--
+SYFA_METKA     EG-RLE----------------------EVLDRAGVPRKLAGPVLGWLRRKGLAEIKRE-
+SYFA_ARCFU     GVNSMD----------------------ELRKRMG---REFQIALGWLRRKGAVEVEG--
+SYFA_METTH     EE-ELEM--------------------SELSRRAGLDKKEAGIGIGWLMRKGWGRISQ--
+SYFA_TREPA     ---SLTAIADAAEHLHPRPPLCNGLSLPELAHALTLAPKDVGSAFGILAQEGILRMDGE-
+SYFA_BORBU     ---VLAS---------------------NLALELDIDVKEVRKAFGNLLKEGILSLDLD-
+1asz_B         SL-NLE----------------------SIVLVRG-------------------------
+1adj_A         ------------------------------------------------------------
+1lyl_A         ---DLG----------------------DIIGARG-------------------------
+
+
+1b70_A         ------------------------------------------------------------
+1pys_A         ---------------------------------------------ARDLEELK-------
+SYFA_DEIRA     ---------------------------------------------AETLEALQ-------
+SYFA_MYCBO     ---------------------------------------------ADTLDVLA-------
+SYFA_COREF     ---------------------------------------------ADNLEELA-------
+SYFA_BIFLO     ---------------------------------------------ASNLEELK-------
+SYFA_THETN     ---------------------------------------------AKSLQEIE-------
+SYFA_SYNY3     ---------------------------------------------CDDLDGLD-------
+SYFA_SYNEL     ---------------------------------------------ASTLDALE-------
+SYFA_ARATH     --QV---SRKVKD-----------VEDKVKGQ-------------LLQIQQGK---EFD-
+SYFA_HALN1     -GALA-ADPDADPENDPEAD----ALATLTDG-----------------------DSVD-
+SYFA_PYRAB     KGLV---LEITEKGEKLGERPIDIALKLLSEK------------GEVSVDEISRI-----
+SYFA_PYRAE     -NVV---ELDEETYKK--------IVAMLEEK-------------QKALAAPH---SAP-
+SYFA_THEVO     -GVL---EYSDGH-----------IEAEISRR-------------QRFLSDLN---TDD-
+SYFA_THEAC     -GKL---IYRNSG-----------IEAAIEER-------------QRFLQSMD---PKN-
+SYFA_AERPE     -GVV---RLAVDQAEALKTIT--PL--------------------KKLLENVA---SGS-
+SYFA_METJA     -GKI---IFDNLDYKDVEEQ----LLQKIKE--------------NKYLDDFS-------
+SYFA_METAC     -GVM---VPSGNAPAGRDEE----VLAAFAGK-------------AKTLEELA----AD-
+SYFA_SULTO     -DTV---IPLVKDYEAKEEK--------------------------EALINPE---KAN-
+SYFA_SULSO     -GKV---IPKVKTYMSSEYL---------------------------ALSNLE---RAD-
+SYFA_METKA     DGETS-LVLLEEEPEDVDQS----VLEALAAE------------GSASVEELARKLEMDE
+SYFA_ARCFU     -DKV---VPK-REPSFDERA----ALQAIK-------------------EGRG----VD-
+SYFA_METTH     -GMVS-AVSDETPERGADER----LLELLLER------------GSVRIRELP-------
+SYFA_TREPA     -KRIHIVSPHVSD-RMSLTRT---LLQRAAARVASPSEASDTPPGTLFESELS-------
+SYFA_BORBU     -KQIIINCLDGTETNYQKVRV---LLERA--------KNSD-----LLRESLT-------
+1asz_B         ------------------------IVKKVDEPI-----------KSATVQNLE-------
+1adj_A         ---------------------------------------------ARAVRGTK-------
+1lyl_A         ------------------------TLFKTQ------------------TGELS-------
+
+
+1b70_A         ------------------------------------------------------------
+1pys_A         ---A-----LKARYLGKKGLLTQ-----EMKGLSALPLEERRKRGQELNAIKAALEAA--
+SYFA_DEIRA     ---A-----VKTKYVGKSGLVTK-----ELGSLGKLPPEERKACGAEINVVRAAIQAA--
+SYFA_MYCBO     ---R-----VKTEHLGDRSPLAL-----ARQALAVLPKEQRAEAGKRVNAARNAAQRS--
+SYFA_COREF     ---A-----LRRDHLGDNAPIPQ-----ARRSLGTIPKDQRKDAGRFVNMALGRVEKH--
+SYFA_BIFLO     ---A-----IKTTYAGADSAMTK-----ASKAIGSLPADQKKEAGKLMGKLRADFGRA--
+SYFA_THETN     ---S-----LRVKYLGKKGELTQ-----ILRGMGSLSPEERPVIGQLANDVREKIENM--
+SYFA_SYNY3     ---K-----LRVQYLGKKGELSL-----ILKGMGKLSAEERPKFGAIANEVKEALQHD--
+SYFA_SYNEL     ---Q-----LRVAYLGKKGELSQ-----ILALMGKLPAGDRPTIGTLANTLKEKLLQE--
+SYFA_ARATH     ---K-----ESINSLKARKLIVP-----QIWKGYSVK---------KGPNYAPERKKV--
+SYFA_HALN1     ---D----DAVVDQLASRDLVTV-----SERTVRSVTLTEAG---VTELMAGVEATDE--
+SYFA_PYRAB     ---------IDVKDLKRRKIARE-----DERVERTVEITEKG---KKLVSKGIELKRE--
+SYFA_PYRAE     ---P-----EVLKEFIKRKLVRK-----IEKTQVYVKAAV-P---LELVK-PAEV-----
+SYFA_THEVO     ---Q-----EMIEHFKRRKNVIE----EKKRSVRIVSINSKG---LEQLN-NFDQFEA--
+SYFA_THEAC     ---T-----AMIDHFRHRSGVID----EKIRTERIVRLNDSA---YEAIA-EFGGEGL--
+SYFA_AERPE     ---KPTVGDELLREALSRGLIRR-----EARRSIVLRLKVNP---AEALA---RARVE--
+SYFA_METJA     EEEK-----KIIDILKKRGYVDF-----DEEKEIKIKLTEKG---KEFIKNPIEIEEE--
+SYFA_METAC     ---E-----GTVKELLKRKLVIK-----HEEKSRTVSVTGAG---SALAAEGIVLEEE--
+SYFA_SULTO     ---K-----DILQQLLNRKLLIK-----KEEKILNIRLIREP---LE-------IKPA--
+SYFA_SULSO     ---S-----NTINLLKKRGLIEE-----KERKIVSVELIKEP---KE-------SEIG--
+SYFA_METKA     EEVE-----KALKRLSERGDVLR----AREETVKKVRLTERG---EEVAEHAPEVLERDW
+SYFA_ARCFU     ---E-----GTLKTLMKRKLVTK-----SETKQVYIEV---------MKKPEIELEDI--
+SYFA_METTH     DELR-----GALKDLKGRKGIVD----IRKIKRHTIELTTEG---RKLLERGIEIVEE--
+SYFA_TREPA     DDER-----RVMERIAKKRGASDSLFKVSVRERVTFTFTPTARAVQEALHTAGLTGNE--
+SYFA_BORBU     TEEL-----LLISNFAKKKGADSVFFKIIEKLDLKFRLSSFGLEVKNFLMKSKLTGDE--
+1asz_B         ---------------------------IHITKIYTISETPEA------------------
+1adj_A         ---D--------------------------------------------------------
+1lyl_A         ---------------------------IHCTELRLLTKALRP------------------
+
+
+1b70_A         ---------------------VDVSLPGAS-------------LFSGGLHPITLMERELV
+1pys_A         LEAREKALEEAALKEALERERVDVSLPGAS-------------LFSGGLHPITLMERELV
+SYFA_DEIRA     LDEKESALKRAALDAKLASEAIDVTLPGLP-------------LPAGGLHPISRVLDDLI
+SYFA_MYCBO     YDERLATLRAERDAAVLVAEGIDVTLPSTR-------------VPAGARHPIIMLAEHVA
+SYFA_COREF     FAQVKAQLEEKRNREVLEQERVDVTVPTTR-------------TQVGALHPITILNEQIA
+SYFA_BIFLO     YGPKEVELKEAAEKAALAAETVDMTLPVSR-------------KPLGARHPLPKLMEDVE
+SYFA_THETN     ILERREKIAKEEKERKIKEEYIDITMPGKP-------------YKYGHKHPITLVMDEIK
+SYFA_SYNY3     LESRKANLQNAAIEAQLAAETLDVTMAGSY-------------RPQGRRHPLNSTVDRVL
+SYFA_SYNEL     LEARRATLQAEKIAAQLAAESLDVTMPGVY-------------RPQGHIHPLHSTIDRIL
+SYFA_ARATH     ATDLTRENLQN--WKELEFKEYNFKAKGAP-------------VDAGHLHALLKVRKQFK
+SYFA_HALN1     VGELTPELLASGEWADVEFADYNVAADAAD-------------HTPGKTHVLRQAAERVT
+SYFA_PYRAB     VTRLTPELIASGKWREVELKPFNIKAPVKR-------------IYPGKKQPYRVFLDKIR
+SYFA_PYRAE     KTVITSEDIATGRWRNYTLKPFDLNIEPPE-------------YPAPVPHFFNEFLDYVR
+SYFA_THEVO     IGEIDSGIITSQAWKTAPFRKYDLDAPVSP-------------TKSYAKHPLVYFINEIR
+SYFA_THEAC     IGSLDPSIIASGEWKTKNFRKYDLNSPSSV-------------IRSSLKHPMTYLIEEIR
+SYFA_AERPE     AAVLTRDMLKSGEWRRLRFKPYNVKAEPPR-------------VLPARRHFLAEFIERLR
+SYFA_METJA     ITQLTRDIIISGKWKKAYIRPYDVKVPTKP-------------IYPAKVHPLTRIIREVK
+SYFA_METAC     IAQLTPELLKSGAWKGKKFRPYRLDIAPNP-------------LYGVKIHPYRRLIEQMR
+SYFA_SULTO     LIFLTPELLASGEWKKYALREYNVEAYPPF-------------YPIGKKHFFKEFLERLR
+SYFA_SULSO     ISNLNRELIISGEWKKYKLKKYNVEAFPPY-------------YTISKKHYFREFLEKVK
+SYFA_METKA     ITELKPEHLREGTWKEKEFKPYDVKAPTSP-------------TFPGKRHPLKEVINEIR
+SYFA_ARCFU     ITDLTPEMLLEGTWRGKQFLKYDITIPAKE-------------IYGGKIHPYERIIEECR
+SYFA_METTH     ATQVTHEHLKSGAWRKLHYRGYNIDAEYPL-------------VYPGKMHPLRRIIDEIR
+SYFA_TREPA     IGALTVECLKSGAWKTQHLRRYNVHIPPAR-------------IIPGRSNAYADFLEHIK
+SYFA_BORBU     LTKLTPEILKNKTYENKKFRAYNIHIPSAK-------------TFIGRANSYLDYISKIK
+1asz_B         ----LPILLEDASRSEAEAEAAGLPVVNLDTRLDYRVIDLRTVTNQAIFRIQAGVCELFR
+1adj_A         -------------------------------------------LFGKELRMHQRIVATAR
+1lyl_A         ----LPDKFHGLQDQEVRYRQRYLDLIAND-------------KSRQTFVVRSKILAAIR
+
+
+1b70_A         EIFRALGYQAVE-GPEVESEFFNFDALNIPEHHPARDMWDTFWLTGEGFRLE--------
+1pys_A         EIFRALGYQAVE-GPEVESEFFNFDALNIPEHHPARDMWDTFWLTGEGFRLE--------
+SYFA_DEIRA     GIYRQMGYAVIE-GPEVEEEHYNFEALNVPWYHPARDLQDTFWLE---------------
+SYFA_MYCBO     DTFIAMGWELAE-GPEVETEQFNFDALNFPADHPARGEQDTFYI----------------
+SYFA_COREF     DIFVGMGWEVAE-GPEVEAEYFNFDALNFLPDHPARTLQDTFHI----------------
+SYFA_BIFLO     DFFISMGWQISS-GPEIEAEWYNFDSLNFGPDHPARQMQDTFYVKGNQAKDAA-------
+SYFA_THETN     RIFLGLGFSIAE-GPEVELAYYNFEALNTPEDHPARDLQDTFYIT---------------
+SYFA_SYNY3     DIFVGLGYTVAT-GPQVETDYYNFEALNIPADHPARDMQDTFFLK---------------
+SYFA_SYNEL     DIFVGLGYTVAN-GPEMETEYYNFEALNTPADHPARDMQDTFYLP---------------
+SYFA_ARATH     DIFVQMGFEEMPTNNYVESSFWNFDALFQPQQHPARDSHDTFFLKVPSTTRTLP-EDYVE
+SYFA_HALN1     DVLVGMGFQEMA-GPHVDADFYINDCLFMPQDHPARNHWDRFALSNPARIDELP-DALVE
+SYFA_PYRAB     RRLIEMGFIEMTVDSLIETQFWNFDALFQPQNHPAREWTDTYQLKYPEKGYLPD-ESLVS
+SYFA_PYRAE     EVMIGLGFEEVR-GPVLEVEFWNFDALFQAQDHPAREVHDTFYVQWSGPLETPP-EHLME
+SYFA_THEVO     RIFLDMGFTEMS-GHYIESALWDMDALFIPQDHPARDMQDTFYVKDS-NFTIEH-PEIEK
+SYFA_THEAC     EIFLNMGFTEMG-GHYIESTLWDMDSLFIPQDHPARDMQDTFYVEAD-SFDIDH-PEISK
+SYFA_AERPE     DILRELGFREVR-GPLVELELFNFDVLFQAQDHPAREIHDSLWIKSPRRGDLSGYSDLVE
+SYFA_METJA     EILLAMGFKEVK-SPIVETEFWNFDMLFEPQDHPAREMQDTFFLKYPNEGDIP--EDLLS
+SYFA_METAC     QIFLEMGFTEIK-GGIIQSSFWNFDALFQPQDHPARDMQDTFHLGS--ICQLP--AEYSD
+SYFA_SULTO     DLMRDLGFKEVY-SDYVEIEFYNFDLLFQAQDHPAREIHDSFAISG--KGKLTD-EKLIQ
+SYFA_SULSO     DIMISLGFKEIN-TGYIEMEFYNFDLLFQPQDHPAREIHDSFSVEG--SGKIED-KDLLN
+SYFA_METKA     RIFLEMGFVEVS-GPLVESSFWNFDALFQPQDHAAREMQDTFYLKEPAEAELPD-EEVVE
+SYFA_ARCFU     KVFLEMGFTEIK-GHYVQPAFWNFDALFQPQDHPARDMQDTFYLDR--YIDLE--GEIVE
+SYFA_METTH     SIFLKLGFTESR-GPIVESAFWNFDCLFQPQDHAAREMQDTFYVKNPAVTDLPC-EDLVR
+SYFA_TREPA     DRLVALGFQEFD-GPLVETDFWNADALFMPQFHPARDIHDVYYLKHPTHAPTIP-EPFLS
+SYFA_BORBU     DKLVGLGFQEFD-GPLVETEFFNNDALFMPQFHPSRDIKDVYYISDPSMQESLP-EPYFS
+1asz_B         EYLATKKFTEVH-TPKLLG---------APSEGGSSVFEVTYFKG---------------
+1adj_A         KVLEAAGALELV-TPIFEET-----QVFEKGVGAATDI----------------------
+1lyl_A         QFMVARGFMEVE-TPMMQV---------IPGGASARPF-ITHHNAL--------------
+
+
+1b70_A         ------------GPLG------EEVEGRLLLRTHTSPMQVRYMV-----AHTPPFRIVVP
+1pys_A         ------------GPLG------EEVEGRLLLRTHTSPMQVRYMV-----AHTPPFRIVVP
+SYFA_DEIRA     -------------------------DGR-LLRTHTSPMQIRYMV-----DHEPPFKIVVR
+SYFA_MYCBO     ------------AP----------EDSRQLLRTHTSPVQIRTLL-----ARELPVYIISI
+SYFA_COREF     ------------GP----------EGSRQVLRTHTSPVQIRSML-----DREVPIYIACP
+SYFA_BIFLO     ------------GF----------VGSNMVVRTQTSSDQVRALL-----TRGVPLYIASP
+SYFA_THETN     -------------------------SDI-LLRTQTSPVQVRTME-----KTKPPIRVISP
+SYFA_SYNY3     -------------------------DGR-LLRTHTSPVQIRYME-----KHDPPIRIVAP
+SYFA_SYNEL     -------------------------DGN-LLRTHTSSVQIRYME-----LYEPPIRIVAP
+SYFA_ARATH     RVKRVHESGGY-GSRGYNYDWKREEANKNLLRTHTTAVSSRMLYALA-QKPFVPKKYFSI
+SYFA_HALN1     RVERAHREGAGDDGDGYHSPWDEDFARALALRGHTTSLTARHLAGLADADVEAPARYFSV
+SYFA_PYRAB     RVKEAHER-GLAGSRGWGYVWSPERAMLLMPRAHATALSARQLA----KGIEIPGKYFTI
+SYFA_PYRAE     SVGRVHE-------EKWRYKWDRKKALNPVLRTQTTATTIRALA----ERGDGEYKVFTI
+SYFA_THEVO     RIKRIHERGFD-GYSGWGYRWSSDDGKKLILRTHTTVTTARYLY----EHNTYPQAIFSV
+SYFA_THEAC     KIRKIHEKGFD-GYSGWGYRWSDAEARKLVLRTHTTVSTARYLY----ENNEPPQAIFSV
+SYFA_AERPE     RVASVHE-------RGWKYRWSPEVASRYILRSQTTAVSARILA----TRPNPPARFFTV
+SYFA_METJA     KVKEVHE-------RCWKYKFDENVSRRLILRTHTTASSIRYLASLSDEEKNKPHKVFCI
+SYFA_METAC     KVAAMHESGGDIDSCGWGGIWDRELARRNVLRTHTTSVTIKYLA----DNPEPPVKAFCI
+SYFA_SULTO     RVKQIHE-------RGWKYNWDVNISMRLMLRSQTTATTARVLA----SRPKPPIRVFTI
+SYFA_SULSO     NVKEIHE-------KFWKYEWKQDITLRLMLRSQTTATTARVLA----SRPKAPQKVFTL
+SYFA_METKA     KVRAVHEDGGDTGSRGWGYEWDEGVARKTVLRTHTTAVSVRKLY----EVEGPPLKAFSI
+SYFA_ARCFU     RVKATHENGWITGSTGWGGEWSLEKARQLVLRTHTTAITIHYLA----ENPEPPQKAFCI
+SYFA_METTH     AVQDAHETGGSTGSEGWQYEWDRDVARQSVLRTHTTCVSARFLS----ENE-PPLKMFSV
+SYFA_TREPA     RVAATHERGADSGSLGWRYSFDRDFTRRLLLRSQGTALSARHLP-----TAHIPGKYFGI
+SYFA_BORBU     NVKLAHETGYATGSRGWRYSFSEDLSKRLVLRTHGTVLSAKQLI-----NAKNPSRYFGV
+1asz_B         ---------------------------KAYLAQSPQFNKQQLIVADF-------ERVYEI
+1adj_A         -------------VRKEMFTFQDRGGRSLTLRPEGTAAMVRAYLEHGMKVWPQPVRLWMA
+1lyl_A         -------------------------DLDMYLRIAPELYLKRLVVGGF-------ERVFEI
+
+
+1b70_A         GRVFRFEQTDA-THEAVFHQL--EGLVVGEGIAMAHLKGAIYELAQAL-----------F
+1pys_A         GRVFRFEQTDA-THEAVFHQL--EGLVVGEGIAMAHLKGAIYELAQAL-----------F
+SYFA_DEIRA     GKVYRYEATDA-THEAMFHQL--EGLVVGDGISMSDLKGTIAEMARGL-----------Y
+SYFA_MYCBO     GRTFRTDELDA-THTPIFHQV--EGLAVDRGLSMAHLRGTLDAFARAE-----------F
+SYFA_COREF     GRVFRTDELDA-THTPVFHQI--EGLAVDKGLTMAHLRGTLDHLAREL-----------F
+SYFA_BIFLO     GRVFRTDELDA-THTPVFHQC--EALAVDKHLTMADLKGVLDKLAVAM-----------F
+SYFA_THETN     GRVYRSDDIDA-THSPVFHQM--EGLVVDEGITMGDLKGVLNVFAKKF-----------F
+SYFA_SYNY3     GRVYRRDTVDA-THSAVFHQV--ELLAIDKGLAFTHLKGTIQAFIKQM-----------F
+SYFA_SYNEL     GRCYRRDTEDA-THAAVFHQI--EILAVDEGLTFTDLKGTVTTFLAEL-----------F
+SYFA_ARATH     DRVFRNEAVDR-THLAEFHQI--EGLICDRGLTLGDLIGVLEDFFSRL------------
+SYFA_HALN1     EKAYRNDTLDA-THLLEFFQI--EGWVLADDLSVRDLMGTFREFYSQF------------
+SYFA_PYRAB     QRVFRPDVLDR-THLIEFNQI--DGFVAGEDLTFRHLLGILKRFAIEI-----------A
+SYFA_PYRAE     GRVFRPEKLDP-KHSMEFHQL--DGIVVGPGLTFKHLLGQLEEIAKAL------------
+SYFA_THEVO     EKVFRHESVDW-KHLAEFYQI--EGAVYDKNVSVATLKWILRTFYGKL------------
+SYFA_THEAC     EKVFRHESVDW-KHLAEFYQI--EGAVYSKDVSVSTLKWILRDFYAKL------------
+SYFA_AERPE     GKVFRSDAVGP-TRLPEFHQL--DGIEGDEGYTFRDLLGRLDEIASML------------
+SYFA_METJA     DRVFRNEAIDY-KHLPEFYQC--EGIIMDDNVNFNNLIGVLKEFLNRL------------
+SYFA_METAC     DRAYRRETIDP-THTPEFEQL--EGVVMDKDMSFADLLGLLAEFYHRM------------
+SYFA_SULTO     GKVFRPDSIDA-THLIEFHQL--DGLVIEDNFTFRDLLGTLKEIFNGI------------
+SYFA_SULSO     GKVFRPDAIDA-THLIEFHQL--DGVIIDNNFTFKELLGVLKEIFYRL------------
+SYFA_METKA     GRVYRRETVDY-KHLPEFHQC--EGIVLAKDVSFRDLLGILEEFYRRM------------
+SYFA_ARCFU     DRVYRRETIDA-THLPEFDQL--EGVVLDRDVGFKHLLGLLKEFFTKM------------
+SYFA_METTH     GRVFRRETITY-KHLPEFHQV--EGIVAGDEVNFRNLLGILREFYRKL------------
+SYFA_TREPA     ARCFRHDQVDA-THLADFYQT--EGIVLGTDVNVCTLLGMLKILATEI-----------A
+SYFA_BORBU     IRCFRYDQVDA-THGVDFYQT--EGIVIEDGVSIKTLLGLLEIFAKEL-----------A
+1asz_B         GPVFRAENSNTHRHMTEFTGL--DMEMAFEE-HYHEVLDTLSELFVFIFSELPKRFAHEI
+1adj_A         GPMFRAERPQK-GRYRQFHQVNYEALGSENPILDAEAVVLLYECLKEL------------
+1lyl_A         NRNFRNEGISV-RHNPEFTMM--ELYMAYAD--YHDLIELTESLFRTLAQEV-------L
+
+
+1b70_A         GPDSKVRFQPVYFPFVE--------------PGAQFAVW---------------------
+1pys_A         GPDSKVRFQPVYFPFVE--------------PGAQFAVW---------------------
+SYFA_DEIRA     GASAKARFQPSYYPFVE--------------PGADFAVY---------------------
+SYFA_MYCBO     GPSARTRIRPHFFPFTE--------------PSAEVDVW---------------------
+SYFA_COREF     GPETKTRMRSNYFPFTE--------------PSAEVDVW---------------------
+SYFA_BIFLO     GPEAKTRLRPSYFPFTE--------------PSAELDLW---------------------
+SYFA_THETN     GEQTKTKFRPHFFPFTE--------------PSAEMDVSC--------------------
+SYFA_SYNY3     GEALPIRFRASYFPFTE--------------PSAEVDVQ---------------------
+SYFA_SYNEL     GD-VPIRFRASYFPFTE--------------PSAEVDVQ---------------------
+SYFA_ARATH     GM-SKLRFKPAYNPYTE--------------PSMEIFSY---------------------
+SYFA_HALN1     GI-HDLQFKPTYNPYTE--------------PSFELFGR---------------------
+SYFA_PYRAB     GA-KKVKFFPDYYPFTE--------------PSVQLSAY---------------------
+SYFA_PYRAE     GM-TKVKFRPAYFPFTS--------------PSVEVYAQ---------------------
+SYFA_THEVO     GF-EKIRLVPSYYPYTE--------------PSLDVVVE---------------------
+SYFA_THEAC     GF-NDIKLIPSYYPYTE--------------PSLDVVVR---------------------
+SYFA_AERPE     GL-K-LKFKPAYFPFTE--------------PSVEGYVK---------------------
+SYFA_METJA     GF-EKVRFRPAYFPFTE--------------PSLEAEVY---------------------
+SYFA_METAC     GF-EEVRFRPGYFPYTE--------------PSVEPEVY---------------------
+SYFA_SULTO     GI-KEIRFKPAYFPFTE--------------PSVEVYGK---------------------
+SYFA_SULSO     GI-KEVKFKPAYFPFTE--------------PSVEAYGY---------------------
+SYFA_METKA     GF-EEVRFRPAYFPYTV--------------LSVEPEVY---------------------
+SYFA_ARCFU     GF-EDVRFRPGYFPYTE--------------PSVEPEVY---------------------
+SYFA_METTH     GF--EVRFRPAYFPYTY--------------LSTECEIY---------------------
+SYFA_TREPA     GA-QEVRYVGGYFPFTE--------------PSIELHAL---------------------
+SYFA_BORBU     GA-TEIKYVPAYFPFTE--------------PSIEIHVK---------------------
+1asz_B         EL-VRKQYPVEEFKLPKD------------GKMVRLTYKEGIEMLRA------------A
+1adj_A         GL-RRLKVKLSSVGDPEDRARYNAYLREVLSPHREALSE-DSKERLEENPMRILDSKSER
+1lyl_A         GT-TKVTYGEHVFDFGK--------------PFEKLTMREAIKKYRPETDMADLDN-FDA
+
+
+1b70_A         -----------W--PEG-GK---------WLELGGAGM----------------------
+1pys_A         -----------W--PEG-GK---------WLELGGAGM----------------------
+SYFA_DEIRA     -----------WENPRGESK---------WLELGGCGM----------------------
+SYFA_MYCBO     -----------FANKIGGAD---------WVEWGGCGM----------------------
+SYFA_COREF     -----------FPNKKGGAG---------WIEWGGCGM----------------------
+SYFA_BIFLO     -----------FPDKKGGPG---------WLEWGGCGM----------------------
+SYFA_THETN     ---------FACG-----GKGCRVCGYTGWIEILGAGM----------------------
+SYFA_SYNY3     -----------WQ-----GK---------WLEVMGCGM----------------------
+SYFA_SYNEL     -----------WQ-----GR---------WLEVMGCGM----------------------
+SYFA_ARATH     -----------HEGL---GK---------WVEIGNSGM----------------------
+SYFA_HALN1     -----------HPET---GE---------LIEIGNSGI----------------------
+SYFA_PYRAB     -----------HPEL---G----------WVEFGGAGV----------------------
+SYFA_PYRAE     -----------HPKL---G----------WVEFGGAGI----------------------
+SYFA_THEVO     -----------VDGK--------------EMELGGSGI----------------------
+SYFA_THEAC     -----------VNGK--------------EVELGGSGL----------------------
+SYFA_AERPE     -----------LPNG---R----------WLELFGAGM----------------------
+SYFA_METJA     -----------LEGK---G----------WLEILGAGI----------------------
+SYFA_METAC     -----------VDGL---G----------WVELGGAGV----------------------
+SYFA_SULTO     -----------IEGL---G----------WVEMAGAGL----------------------
+SYFA_SULSO     -----------LEKL---G----------WVEMCGAGL----------------------
+SYFA_METKA     -----------FEEK---GD---------WVELGGAGI----------------------
+SYFA_ARCFU     -----------VEGL---G----------WVELGGAGV----------------------
+SYFA_METTH     -----------LPEK---KS---------WIELGGAGM----------------------
+SYFA_TREPA     -----------HPAL---G----------WFELGGAGL----------------------
+SYFA_BORBU     -----------HPVL---G----------WFELGGSGI----------------------
+1asz_B         GKEIGDFEDLSTENEKFLGKLVRDK----YD-------TDFYILDKFPLEIRPFYTMPDP
+1adj_A         DQAL-------LKEL---G--VRPMLDF-LGEEARAHL------KEVERHLERLSVPYE-
+1lyl_A         AKALAESIGITVEKSWGLGRIVTEI----FDEVAEAHLIQPTFITEYPAEVSPLARRND-
+
+
+1b70_A         VHPKVFQAVDAY---------RE-RLGLPPA----------------------------Y
+1pys_A         VHPKVFQAVDAY---------RE-RLGLPPA----------------------------Y
+SYFA_DEIRA     VHPNVFKAVDDL---------RE-AAGKDRV----------------------------Y
+SYFA_MYCBO     VHPNVLRAT-----------------GIDP------------------------------
+SYFA_COREF     VNPNVLRAV-----------------GIDP------------------------------
+SYFA_BIFLO     VNPNVLKSA-----------------GIDP------------------------------
+SYFA_THETN     VHPNVLRMS-----------------GIDP------------------------------
+SYFA_SYNY3     VDPNVMEAV-----------------GYDP------------------------------
+SYFA_SYNEL     VDPAVLKNV-----------------GYDP------------------------------
+SYFA_ARATH     FRPEMLLPM-----------------GLPE------------------------------
+SYFA_HALN1     FRPEMLDPL-----------------DVDG------------------------------
+SYFA_PYRAB     FREEMTEAL-----------------GIKV------------------------------
+SYFA_PYRAE     FRPEVTEPL-----------------GVKK------------------------------
+SYFA_THEVO     FRPEVGKIL-----------------GLKA------------------------------
+SYFA_THEAC     FRPEVLKIL-----------------GLKA------------------------------
+SYFA_AERPE     FRPEVLEAV-----------------GVDY------------------------------
+SYFA_METJA     FRPEVLEPI-----------------GIEK------------------------------
+SYFA_METAC     FRKEVTEPF-----------------GIKE------------------------------
+SYFA_SULTO     LRPEILEAV-----------------EISS------------------------------
+SYFA_SULSO     LRPEILSSV-----------------GIDS------------------------------
+SYFA_METKA     FRPEVLQPL-----------------GFDP------------------------------
+SYFA_ARCFU     FRKEVTEPL-----------------GIRG------------------------------
+SYFA_METTH     FRPEVLEPL-----------------GVET------------------------------
+SYFA_TREPA     LRPEVTDPL-----------------GVHV------------------------------
+SYFA_BORBU     FRPEVTKPL-----------------GIDL------------------------------
+1asz_B         ANPKYSNSYDFFMR------GEEILSGAQRIHD----HALLQERMKAHGLSPEDPGL--K
+1adj_A         LEPALVRGLDYYVRTAFEVHHEEI--GAQS---------ALGGGGRYDGLSELLGG----
+1lyl_A         VNPEITDRFEFFIG------GREIGNGFSELNDAEDQAERFQEQVNAKAAGDDEAMFYDE
+
+
+1b70_A         RGVTGF--------AFGLGVERLAMLR----YGIPDIRY--FFGG---------------
+1pys_A         RGVTGF--------AFGLGVERLAMLR----YGIPDIRY--FFGG---------------
+SYFA_DEIRA     EGKTGF--------AFGLGLERIAMLK----YGIPDIRY--FYAN---------------
+SYFA_MYCBO     DLYSGF--------AFGMGLERTLQFR----NGIPDMRD--MVEG---------------
+SYFA_COREF     EEYSGF--------AFGMGIERTLQFR----NGLSDMRD--MVEG---------------
+SYFA_BIFLO     DVYTGF--------AFGVGMERTLLLR----SDINDMHD--LVEG---------------
+SYFA_THETN     EKYTGF--------AFGLGIDRIAMLK----YGIEDLRL--LFEN---------------
+SYFA_SYNY3     EVYTGF--------AAGFGVERFAMVL----HQIDDIRR--LYNS---------------
+SYFA_SYNEL     EVYTGF--------AAGFGVERFAMVL----HQIDDIRR--FYTS---------------
+SYFA_ARATH     DV-RVI--------AWGLSLERPTMIL----YGIDNIRD--LFGHK--------------
+SYFA_HALN1     D---VM--------AWGLALERLLMLM----TGFEDIRD--VHGTL--------------
+SYFA_PYRAB     P---VI--------AWGIGIDRLAMFK----LGIDDIRY--LFSY---------------
+SYFA_PYRAE     S--RVL--------AWGWGLDRIAMIL----LGIDDIRE--LFTK---------------
+SYFA_THEVO     P---VM--------AWGMGLERLAMLY----YGLTDVRD--LYNT---------------
+SYFA_THEAC     P---VM--------AWGMGLERLAMMY----YGLTDVRD--LYNT---------------
+SYFA_AERPE     P---VG--------AWGFGIERLAMAF----YGVSDIRK--LYTR---------------
+SYFA_METJA     P---VL--------AWGIGFSRLAMLR----YGLTDIRD--LHKN---------------
+SYFA_METAC     P---VL--------AWGLGVSRLAMLK----LGLKDLRL--LYQS---------------
+SYFA_SULTO     S---AG--------AWGLGIDRLAMLL----LGLKDIRL--LYAT---------------
+SYFA_SULSO     T---AG--------AWGIGIERLAMSF----LNISDIRL--LYSN---------------
+SYFA_METKA     D---VVC------LAWGLGVERLAMLK----LGIDDIRD--LYMS---------------
+SYFA_ARCFU     K---VL--------AWGLGIGRLAMLK----IGLKDLRR--LYLP---------------
+SYFA_METTH     P---VA--------AFGLGIERLAMIR----FDIKDIRM--LYQS---------------
+SYFA_TREPA     P---VM--------AWGLGVDRMALLA----LGISDVRE--LFSP---------------
+SYFA_BORBU     P---VI--------AWGIGIDRMALMH----LGLNDLRD--LFTY---------------
+1asz_B         DYCDGFSYGCPPHAGGGIGLERVVMFY----LDLKNIRRASLFPR---------------
+1adj_A         PRVPGV--------GFAFGVERVALALEAEGFGLPEEKGPDLYLIPLTEEAVAEAFYLAE
+1lyl_A         DYVTALEYGLPPTAGLGIGIDRMIMLF----TNSHTIRDVILFP----------------
+
+
+1b70_A         -----------------------------------RLKFLEQFKGVL-------------
+1pys_A         -----------------------------------RLKFLEQFKGVL-------------
+SYFA_DEIRA     -----------------------------------DPRVIGQFRGEL-------------
+SYFA_MYCBO     -----------------------------------DVRFSLPFGVGA-------------
+SYFA_COREF     -----------------------------------DVRFTLPFGIQA-------------
+SYFA_BIFLO     -----------------------------------DVRFAEQFVMGE-------------
+SYFA_THETN     -----------------------------------DMRFIEQF-----------------
+SYFA_SYNY3     -----------------------------------DLRFLRQF-----------------
+SYFA_SYNEL     -----------------------------------DLRFLRQF-----------------
+SYFA_ARATH     ----------------------------------VDLDLIKRNPIC--------------
+SYFA_HALN1     ----------------------------------CDVGFLRNAEVVY-------------
+SYFA_PYRAB     -----------------------------------DLRWLREAKLIW-------------
+SYFA_PYRAE     -----------------------------------DLEKLKEYYARWARY---------K
+SYFA_THEVO     -----------------------------------DFSFLEGYKIKY-------------
+SYFA_THEAC     -----------------------------------DFEFLSSFRFNISR-----------
+SYFA_AERPE     -----------------------------------NVDEVREMRVRWL------------
+SYFA_METJA     -----------------------------------DLDWLK-------------------
+SYFA_METAC     -----------------------------------DIDWLRKSEVC--------------
+SYFA_SULTO     -----------------------------------DIEYLRNRKVEIN------------
+SYFA_SULSO     -----------------------------------NIEYIRDTKVKIE------------
+SYFA_METKA     -----------------------------------DLKTLLELP-TAR------------
+SYFA_ARCFU     -----------------------------------DLGWLRSMPVA--------------
+SYFA_METTH     -----------------------------------DLGWLRGLPVTGD------------
+SYFA_TREPA     -----------------------------------DIESVRLRV----------------
+SYFA_BORBU     -----------------------------------DIGDVILRRGKIDA-----------
+1asz_B         -----------------------------------DPKRLRP------------------
+1adj_A         ALRPRLRAEYALAPRKPAKGLEEALKRGAAFAGFLGEDELRAGEVTLKRLATGEQVRLSR
+1lyl_A         ------------------------------------AMRPQK------------------
+
+
+1b70_A         ------------
+1pys_A         ------------
+SYFA_DEIRA     -----------G
+SYFA_MYCBO     ------------
+SYFA_COREF     ------------
+SYFA_BIFLO     ------------
+SYFA_THETN     ------------
+SYFA_SYNY3     ------------
+SYFA_SYNEL     ------------
+SYFA_ARATH     --------RIGI
+SYFA_HALN1     ------------
+SYFA_PYRAB     ------------
+SYFA_PYRAE     ASVGAVGTLFTL
+SYFA_THEVO     ------------
+SYFA_THEAC     ---NGRNNYGKA
+SYFA_AERPE     ------------
+SYFA_METJA     ----------RV
+SYFA_METAC     ----------RI
+SYFA_SULTO     ---------ADN
+SYFA_SULSO     ------------
+SYFA_METKA     ---------ARR
+SYFA_ARCFU     ----------RK
+SYFA_METTH     ---------LEL
+SYFA_TREPA     ------------
+SYFA_BORBU     -------KVRNL
+1asz_B         ------------
+1adj_A         EEVPGYLLQALG
+1lyl_A         ------------
+
+

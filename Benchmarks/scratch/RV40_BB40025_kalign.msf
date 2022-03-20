@@ -1,0 +1,197 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40025_kalign.msf  MSF: 615  Type: N  December 21, 2021 20:32  Check: 8173  ..
+
+ Name: 1mrj_       Len:    615  Check: 4637  Weight: 1.00
+ Name: 1apg_A      Len:    615  Check: 6809  Weight: 1.00
+ Name: MLA1_VISAL  Len:    615  Check: 7258  Weight: 1.00
+ Name: ABRB_ABRPR  Len:    615  Check:  399  Weight: 1.00
+ Name: 1hwm_A      Len:    615  Check: 4012  Weight: 1.00
+ Name: RIP2_BRYDI  Len:    615  Check: 5401  Weight: 1.00
+ Name: RIP2_MOMBA  Len:    615  Check: 4599  Weight: 1.00
+ Name: RIPG_GELMU  Len:    615  Check: 6601  Weight: 1.00
+ Name: RIPS_PHYAM  Len:    615  Check: 7876  Weight: 1.00
+ Name: RIP2_PHYAM  Len:    615  Check: 5866  Weight: 1.00
+ Name: 1qi7_A      Len:    615  Check: 7397  Weight: 1.00
+ Name: RIPP_MIRJA  Len:    615  Check: 7007  Weight: 1.00
+ Name: 1apa_       Len:    615  Check: 1546  Weight: 1.00
+ Name: RIP1_PHYAM  Len:    615  Check: 8765  Weight: 1.00
+
+//
+
+1mrj_          -------------------------------------------------DV----SFRLS
+1apg_A         ------------------------------------------IFPKQYPII----NFTTA
+MLA1_VISAL     ---------------------------------------------YERLRL----RVTHQ
+ABRB_ABRPR     ---------------------------------------------QDQ-VI----KFTTE
+1hwm_A         ---------------------------------------------IDYPSV----SFNLA
+RIP2_BRYDI     --------------------------MRSIGFYSVLALYVGAHV-TEDVDI----NFSLI
+RIP2_MOMBA     --------------------------MVKCLLLSFLIIAIFIGVPTAKGDV----NFDLS
+RIPG_GELMU     MKGNMKVYWIKIAVATWFCCTTIVLGSTARIFSLPTNDEEETSKTLGLDTV----SFSTK
+RIPS_PHYAM     -----------------------------------------------INTI----TFDAG
+RIP2_PHYAM     ---------------------MKMKVLEVVGLAISIWLMLTP---PASSNI----VFDVE
+1qi7_A         -----------------------------------------------VTSI----TLDLV
+RIPP_MIRJA     -------------------MLTTTKVFFLLLTTWITWYAIVNPQSRAAPTLETIASLDLN
+1apa_          -----------------------------------------------INTI----TFDVG
+RIP1_PHYAM     -------------------------MKSMLVVTISIWLILAPTSTWAVNTI----IYNVG
+
+
+1mrj_          GATSSSYGVFISNLRKALPN-ERKLYDIPL-L--RS-SLPGSQRYALIHLTNYADETISV
+1apg_A         GATVQSYTNFIRAVRGRLTTGADVRHEIPV-LPNRV-GLPINQRFILVELSNHAELSVTL
+MLA1_VISAL     -TTGEEYFRFITLLRDYVSSGSF-SNEIPL-LRQSTIPVSDAQRFVLVELTNQGQDSVTA
+ABRB_ABRPR     GATSQSYKQFIEALRQRLTGGL--IHGIPV-LPDPT-TLQERNRYISVELSNSDTESIEA
+1hwm_A         GAKSTTYRDFLKNLRDRVATGTYEVNGLPV-LRRES-EVQVKNRFVLVRLTNYNGDTVTS
+RIP2_BRYDI     GATGATYKTFIRNLRTKLTVGTPRVYDIPV-L--RN-AAAGLARFQLVTLTNYNGESVTV
+RIP2_MOMBA     TATAKTYTKFIEDFRATLPF-SHKVYDIPL-L--YS-TISDSRRFILLDLTSYAYETISV
+RIPG_GELMU     GATYITYVNFLNELRVKLKP-EGNSHGIPL-LRKKC--DDPGKCFVLVALSNDNGQLAEI
+RIPS_PHYAM     NATINKYATFMESLRNEAKDPSLKCYGIPM-LP----NTNSTIKYLLVKLQGASLKTITL
+RIP2_PHYAM     NATPETYSNFLTSLREAVKDKKLTCHGMIM-AT----TLTEQPKYVLVDLKFGS-GTFTL
+1qi7_A         NPTAGQYSSFVDKIRNNVKDPNLKYGGTDIAVI----GPPSKEKFLRINFQ-SSRGTVSL
+RIPP_MIRJA     NPT--TYLSFITNIRTKVADKTEQCT-IQK-IS----KTFTQ-RYSYIDLIVSSTQKITL
+1apa_          NATINKYATFMKSIHNQAKDPTLKCYGIPM-LP----NTNLTPKYLLVTLQDSSLKTITL
+RIP1_PHYAM     STTISKYATFLNDLRNEAKDPSLKCYGIPM-LP----NTNTNPKYVLVELQGSNKKTITL
+
+
+1mrj_          AIDVTNVYIMGYR-----AGDTSYFF--NE----ASATEAA-KYVFKDAMRKV----TLP
+1apg_A         ALDVTNAYVVGYR-----AGNSAYFFHPDN----QEDAEAI-THLFTDVQNRY----TFA
+MLA1_VISAL     AIDVTNAYVVAYQ-----AGDQSYFL--RD-----APRGAE-THLFTGT-TRS----SLP
+ABRB_ABRPR     GIDVSNAYVVAYR-----AGNRSYFL--RD-----APTSAS-RYLFTGT-QQY----SLR
+1hwm_A         AVDVTNLYLVAFS-----ANGNSYFF--KD-----ATELQK-SNLFLGT-TQH----TLS
+RIP2_BRYDI     ALDVVNVYVVAYR-----AGNTAYFL--AD-----ASTEAN-NVLFAGI-NHV----RLP
+RIP2_MOMBA     AIDVTNVYVVAYR-----TRDVSYFF--KE-----SPPEAY-NILFKGT-RKI----TLP
+RIPG_GELMU     AIDVTSVYVVGYQ-----VRNRSYFF--KD-----APDAAY-EGLFKNT-IKT----RLH
+RIPS_PHYAM     MLRRNNLYVMGYSDPYD-NKCRYHIF--NDIKG-TEYSDVE-NTLCPSSNPRVAK--PIN
+RIP2_PHYAM     AIRRGNLYLEGYSDIYN-GKCRYRIF--KD----SE-SDAQ-ETVCPGDKSKPGTQNNIP
+1qi7_A         GLKRDNLYVVAYLAMDNTNVNRAYYF--K-----SEITSAELTALFPEATTANQK--ALE
+RIPP_MIRJA     AIDMADLYVLGYSDIAN-NKGRAFFF--KDV---TE--AVA-NNFFPGATGTNRI--KLT
+1apa_          MLKRNNLYVMGYADTYN-GKCRYHIF--KDISNTTERNDVM-TTLCPNPSSRVGK--NIN
+RIP1_PHYAM     MLRRNNLYVMGYSDPFETNKCRYHIF--NDISG-TERQDVE-TTLCPNANSRVSK--NIN
+
+
+1mrj_          YSGNYERLQTAA----GKI-RENIPLGLPALDSAITTLFYYN-A------NSAASALMVL
+1apg_A         FGGNYDRLEQLA----GNL-RENIELGNGPLEEAISALYYYSTGGTQL--PTLARSFIIC
+MLA1_VISAL     FNGSYPDLERYA----G-H-RDQIPLGIDQLIQSVTALRFPGGST-----RTQARSILIL
+ABRB_ABRPR     FNGSYIDLERLA----RQT-RQQIPLGLQALRHAISFLQ-SGTDD-----QEIARTLIVI
+1hwm_A         FTGNYDNLETAA----GTR-RESIELGPNPLDGAITSL----WYD-----GGVARSLLVL
+RIP2_BRYDI     YGGNYDGLETAA----GRISRENIELGFSEISSAIGNMFRHNPG------TSVPRAFIVI
+RIP2_MOMBA     YTGNYENLQTAA----HKI-RENIDLGLPALSSAITTLFYYN-A------QSAPSALLVL
+RIPG_GELMU     FGGSYPSLEGEK----AY--RETTDLGIEPLRIGIKKLDENAIDNYKP--TEIASSLLVV
+RIPS_PHYAM     YNGLYPTLEKKA----GVTSRNEVQLGIQILSSDIGKISGQGSFTEKI----EAKFLLVA
+RIP2_PHYAM     YEKSYKGMESKG----G--ARTKLGLGKITLKSRMGKIYGKDATDQKQYQKNEAEFLLIA
+1qi7_A         YTEDYQSIEKNAQITQGDKSRKELGLGIDLLLTFMEAVNKKARVVKN-----EARFLLIA
+RIPP_MIRJA     FTGSYGDLEKNG----G--LRKDNPLGIFRLENSIVNIYGKAGDVKK-----QAKFFLLA
+1apa_          YDSSYPALEKKV----G-RPRSQVQLGIQILNSGIGKIYGVDSFTEKT----EAEFLLVA
+RIP1_PHYAM     FDSRYPTLESKA----GVKSRSQVQLGIQILDSNIGKISGVMSFTEKT----EAEFLLVA
+
+
+1mrj_          IQSTSEAARYKFIEQQIGKRV--DKTFLPSLAIISLENSWSALSKQIQIA-STNNGQFES
+1apg_A         IQMISEAARFQYIEGEMRTRIRYNRRSAPDPSVITLENSWGRLSTAIQ---ESNQGAFAS
+MLA1_VISAL     IQMISEAARFNPILWRYRQYINSGASFLPDVYMLELETSWGQQSTQVQHS-TDGV--FNN
+ABRB_ABRPR     IQMASEAARYRFISYRVGVSIRTNTAFQPDAAMISLENNWDNLSGGVQQS-VQDT--FPN
+1hwm_A         IQMVPEAARFRYIEQEVRRSLQQLTSFTPNALMLSMENNWSSMSLEVQLS-GDNVSPFSG
+RIP2_BRYDI     IQTVSEAARFKYIEQRVSENV--GTKFKPDPAFLSLQNAWGSLSEQIQIA-QTRGGEFAR
+RIP2_MOMBA     IQTTAEAARFKYIERHVAKYV--ATNFKPNLAIISLENQWSALSKQIFLA-QNQGGKFRN
+RIPG_GELMU     IQMVSEAARFTFIENQIRNNF--QQRIRPANNTISLENKWGKLSFQIRTS-GANG-MFSE
+RIPS_PHYAM     IQMVSEAARFKYIENQVKTNFNRD--FSPNDKVLDLEENWGKISTAIHN---SKNGALPK
+RIP2_PHYAM     VQMVTEASRFKYIENKVKAKFDDANGYQPDPKAISLEKNWDSVSKVIAKVGTSGDSTVTL
+1qi7_A         IQMTAEVARFRYIQNLVTKNFPNK--FDSDNKVIQFEVSWRKISTAIYG--DAKNGVFNK
+RIPP_MIRJA     IQMVSEAARFKYISDKIPSEKYEE--VTVDEYMTALENNWAKLSTAVYNSKPSTTTATKC
+1apa_          IQMVSEAARFKYIENQVKTNFNRA--FYPNAKVLNLEESWGKISTAIHN---AKNGALTS
+RIP1_PHYAM     IQMVSEAARFKYIENQVKTNFNRA--FNPNPKVLNLQETWGKISTAIHD---AKNGVLPK
+
+
+1mrj_          PVVLINAQNQRVTITNVDAGVVTSNI-ALLLN-RNNMA----------------------
+1apg_A         PIQLQRRNGSKFSVYDVS--ILIPII-ALMVYRCAPPPSSQF------------------
+MLA1_VISAL     PIRLAIPPGNFVTLTNVR--DVIASL-AIMLFVCGERPSSS-------------------
+ABRB_ABRPR     AVTLRSVNNQPVIVDSLTH-QSVAVL-ALMLFVCNPPNANQSPLLIRSIVEKSKICSSRY
+1hwm_A         TVQLQNYDHTPRLVDNFEELYKITGI-AILLFRCVA------------------------
+RIP2_BRYDI     PVELRTVSNTPTFVTNVNSPVVKG-I-ALLLYFRVNVGTDN-VFAMSLSTY---------
+RIP2_MOMBA     PVDLIKPTGERFQVTNVDSDVVKGNI-KLLLNSRASTADENFITTMTLLGESVVN-----
+RIPG_GELMU     AVELERANGKKYYVTAVD--QVKPKI-ALLKFVDKDPKTSLAAELIIQNYESLVGFD---
+RIPS_PHYAM     PLELKNADGTKWIVLRVD--EIKPDV-GLLNYVNGTCQAT--------------------
+RIP2_PHYAM     PGDLKDENNKPWTTATMN--DLKNDIMALLTHV--TCKVK---SSMFPEIMSYYYRTSIS
+1qi7_A         DYDFG--------FGKVR--QVKDLQMGLLMYLG---KPK--------------------
+RIPP_MIRJA     QLATSPVTISPWIFKTVE--EIKLVM-GLLKSS---------------------------
+1apa_          PLELKNANGSKWIVLRVD--DIEPDV-GLLKYVNGTCQAT--------------------
+RIP1_PHYAM     PLELVDASGAKWIVLRVD--EIKPDV-ALLNYVGGSCQTTYNQNAMFPQLIMSTYYNYMV
+
+
+1mrj_          ------------------------------------------------------------
+1apg_A         ------------------------------------------------------------
+MLA1_VISAL     ------------------------------------------------------------
+ABRB_ABRPR     EPTVRIGGRNGMCVDVYDDGYHNGNRIIAWKCKDRLEENQLWTLKSDKTIRSNGKCLTTE
+1hwm_A         ------------------------------------------------------------
+RIP2_BRYDI     ------------------------------------------------------------
+RIP2_MOMBA     ------------------------------------------------------------
+RIPG_GELMU     ------------------------------------------------------------
+RIPS_PHYAM     ------------------------------------------------------------
+RIP2_PHYAM     NLGE-FE-----------------------------------------------------
+1qi7_A         ------------------------------------------------------------
+RIPP_MIRJA     ------------------------------------------------------------
+1apa_          ------------------------------------------------------------
+RIP1_PHYAM     NLGDLFEGF---------------------------------------------------
+
+
+1mrj_          ------------------------------------------------------------
+1apg_A         ------------------------------------------------------------
+MLA1_VISAL     ------------------------------------------------------------
+ABRB_ABRPR     GYAPGNYVMIYDCTSAVAEATYWEIWDNGTIINPKSALVLSAESSSMGGTLTVQTNEYLM
+1hwm_A         ------------------------------------------------------------
+RIP2_BRYDI     ------------------------------------------------------------
+RIP2_MOMBA     ------------------------------------------------------------
+RIPG_GELMU     ------------------------------------------------------------
+RIPS_PHYAM     ------------------------------------------------------------
+RIP2_PHYAM     ------------------------------------------------------------
+1qi7_A         ------------------------------------------------------------
+RIPP_MIRJA     ------------------------------------------------------------
+1apa_          ------------------------------------------------------------
+RIP1_PHYAM     ------------------------------------------------------------
+
+
+1mrj_          ------------------------------------------------------------
+1apg_A         ------------------------------------------------------------
+MLA1_VISAL     ------------------------------------------------------------
+ABRB_ABRPR     RQGWRTGNNTSPFVTSISGYSDLCMQAQGSNVWLAYCDNNKKEQQWALYTDGSIRSVQNT
+1hwm_A         ------------------------------------------------------------
+RIP2_BRYDI     ------------------------------------------------------------
+RIP2_MOMBA     ------------------------------------------------------------
+RIPG_GELMU     ------------------------------------------------------------
+RIPS_PHYAM     ------------------------------------------------------------
+RIP2_PHYAM     ------------------------------------------------------------
+1qi7_A         ------------------------------------------------------------
+RIPP_MIRJA     ------------------------------------------------------------
+1apa_          ------------------------------------------------------------
+RIP1_PHYAM     ------------------------------------------------------------
+
+
+1mrj_          ------------------------------------------------------------
+1apg_A         ------------------------------------------------------------
+MLA1_VISAL     ------------------------------------------------------------
+ABRB_ABRPR     NNCLTSKDHKQGSPIVLMACSNGWASQRWLFRNDGSIYNLHDDMVMDVKRSDPSLKEIIL
+1hwm_A         ------------------------------------------------------------
+RIP2_BRYDI     ------------------------------------------------------------
+RIP2_MOMBA     ------------------------------------------------------------
+RIPG_GELMU     ------------------------------------------------------------
+RIPS_PHYAM     ------------------------------------------------------------
+RIP2_PHYAM     ------------------------------------------------------------
+1qi7_A         ------------------------------------------------------------
+RIPP_MIRJA     ------------------------------------------------------------
+1apa_          ------------------------------------------------------------
+RIP1_PHYAM     ------------------------------------------------------------
+
+
+1mrj_          ---------------
+1apg_A         ---------------
+MLA1_VISAL     ---------------
+ABRB_ABRPR     HPYHGKPNQIWLTLF
+1hwm_A         ---------------
+RIP2_BRYDI     ---------------
+RIP2_MOMBA     ---------------
+RIPG_GELMU     ---------------
+RIPS_PHYAM     ---------------
+RIP2_PHYAM     ---------------
+1qi7_A         ---------------
+RIPP_MIRJA     ---------------
+1apa_          ---------------
+RIP1_PHYAM     ---------------
+
+

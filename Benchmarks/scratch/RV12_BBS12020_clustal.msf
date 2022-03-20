@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 193  Type: P  December 21, 2021 20:31  Check: 8876  ..
+
+ Name: 1vvc_   Len:    193  Check: 9269  Weight: -1.00
+ Name: 1ghq_B  Len:    193  Check: 3646  Weight: -1.00
+ Name: 1ckl_A  Len:    193  Check: 6115  Weight: -1.00
+ Name: 1nwv_A  Len:    193  Check: 9846  Weight: -1.00
+
+//
+
+        1                                                   50
+1vvc_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ghq_B  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ckl_A  CEEPPTFEAM ELI..GKPKP YYEIGERVDY KCKKGYFYIP PLATHTICDR
+1nwv_A  CEVPTRLNSA SLKQPYITQN YFPVGTVVEY ECRPGYRREP SLSPKLTCLQ
+
+        51                                                 100
+1vvc_   ~~~~~~~~~~ ~~~~~~CQSP PSISNGRHNG YEDFYTDGSV VTYSCNSGYS
+1ghq_B  ~~~~~~~~~~ ~~~~~~CGSP PPILNGRISY YSTPIAVGTV IRYSCSGTFR
+1ckl_A  NHTWLPVSDD ACYRETCPYI RDPLNGQAVP ANGTYEFGYQ MHFICNEGYY
+1nwv_A  NLKWSTA.VE FCKKKSCPNP GEIRNGQI.D VPGGILFGAT ISFSCNTGYK
+
+        101                                                150
+1vvc_   LIGNSGVLCS G.....GEWS DPP.TCQ... .IVKCPHPTI SNGYLSSGFK
+1ghq_B  LIGEKSLLCI TKDKVDGTWD KPAPKCEYFN KYSSCPEPIV PGGYKIRGS.
+1ckl_A  LIGEEILYCE LKGSV.AIWS GKPPICEK~~ ~~~~~~~~~~ ~~~~~~~~~~
+1nwv_A  LFGSTSSFCL ISGSS.VQWS DPLPECRE~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+        151                                         193
+1vvc_   RSYSYNDNVD FKCKYGYKLS GSSSSTCSPG NTWKPE.LPK CVR
+1ghq_B  TPYRHGDSVT FACKTNFSMN GNKSVWCQAN NMWGPTRLPT CVS
+1ckl_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~
+1nwv_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~

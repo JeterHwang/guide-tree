@@ -1,0 +1,255 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 827  Type: P  December 21, 2021 20:34  Check: 5552  ..
+
+ Name: Q8jzn5  Len:    827  Check: 9687  Weight: -1.00
+ Name: P76200  Len:    827  Check: 1994  Weight: -1.00
+ Name: 1buc_A  Len:    827  Check: 8274  Weight: -1.00
+ Name: 1ivh_A  Len:    827  Check: 7579  Weight: -1.00
+ Name: Q9vsa3  Len:    827  Check: 6165  Weight: -1.00
+ Name: Q8hxy7  Len:    827  Check: 5845  Weight: -1.00
+ Name: Q9kje8  Len:    827  Check: 7964  Weight: -1.00
+ Name: P45954  Len:    827  Check: 8325  Weight: -1.00
+ Name: Q20772  Len:    827  Check: 3487  Weight: -1.00
+ Name: 1rx0_A  Len:    827  Check:  847  Weight: -1.00
+ Name: P05335  Len:    827  Check: 4341  Weight: -1.00
+ Name: 1is2_A  Len:    827  Check: 1044  Weight: -1.00
+
+//
+
+        1                                                   50
+Q8jzn5  ~~~~~~~~MS GCVLLSRG.. .......... .......... ..ATAAAAAA
+P76200  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1buc_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ivh_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q9vsa3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q8hxy7  MQAARIAPSL GRQLLRFGGG SSRPTALLGQ PWPGPARRPY AGGAAQLALD
+Q9kje8  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P45954  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~ME....... ..GL.AVRLL
+Q20772  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1rx0_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P05335  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1is2_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+        51                                                 100
+Q8jzn5  RASRVLR.EF TARR.RPLHT SLQSCSFAKE LFLGNIKQKG .VFPFPEVSQ
+P76200  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MDF.......
+1buc_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MDFN......
+1ivh_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~VDDA....I
+Q9vsa3  ~~~~~~~MAF LNKLAAPALR QLVSQSRAYA AVS.HVSPNG TSFA......
+Q8hxy7  KSDSHLS.DA LNKA...KPA KAESKSFAVA MFKGQLTTDQ .VFPYPSVLN
+Q9kje8  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MDF.......
+P45954  RGSRLLRRNF LTCLSSWKIP PHVSKSSQSE ALL.NITNNG IHFAP....L
+Q20772  ~~~~MLTRGF TSIG...... KIASRGLSST .......... .FYQDAFQLS
+1rx0_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~TS .CID....PS
+P05335  ~~~~TFTKKN VSVSQGPDPR TSIQTERANS KFD....PVT MNYF.....L
+1is2_A  ~~~~~~~~~~ ~~~~~~~~MN PDLRKERASA TFN....PEL ITHI.....L
+
+        101                                                150
+Q8jzn5  HELSE.INQF VGPLEKFFTE EVD.SRK..I DQEGKIPV.. ..........
+P76200  .SLTEEQELL LASIRELITT NFPEEYFRTC DQNGTYPR.. ..........
+1buc_A  ..LTDIQQDF LKLAHDFGEK KLA.PTVTER DHKGIYDK.. ..........
+1ivh_A  NGLSEEQRQL RQTMAKFLQE HLA.PKAQEI DRSNEFKN.. .........L
+Q9vsa3  ..LTEDQLQL QELARKFTRE EII.PVAAQY DKSGEYPW.. ..........
+Q8hxy7  QEQTEFLKEL VEPVSRFFEE VND.PAK..N DTLEMVEE.. ..........
+Q9kje8  .SLSEEQTML KEVARRFTAN ELM.PLEKVL LEREMRMWTD GYTLLPEADH
+P45954  QTFTDEEMMI KSSVKKFAQE QIA.PLVSTM DENSKMEK.. ..........
+Q20772  DQLTEDERSL MLSAREYCQE RLL.PRVTEA YRTEKFDP.. ..........
+1rx0_A  MGLNEEQKEF QKVAFDFAAR EMA.PNMAEW DQKELFPV.. ..........
+P05335  .EGSKERSEL MKSLAQQIER D...PIL... FTDG...... SYYDLTKDQQ
+1is2_A  .DGSPENTRR RREIENLILN D...PDF... .QHE...... DYNFLTRSQR
+
+        151                                                200
+Q8jzn5  .........D TLEKLKSLGL FGIQVPEEYG GLG...LSNT MYARLGEIIS
+P76200  .........E FMRALADNGI SMLGVPEEFG GIP...ADYV TQMLALMEVS
+1buc_A  .........E LIDELLSLGI TGAYFEEKYG GSGDDGGDVL SYILAVEELA
+1ivh_A  ........RE FWKQLGNLGV LGITAPVQYG GSG...LGYL EHVLVMEEIS
+Q9vsa3  .........P IIKKAWELGL MNNHIPADIG GLD...LDVF TTCLSAEELA
+Q8hxy7  .........T TLQGLKELGA FGLQVPSELG GVG...LCNT QYARLVEIVG
+Q9kje8  ........AR LMKITQEMGF WGIEVDEKLG GQG...LGMF AKTLVVEEMS
+P45954  .........S VIQGLFQQGL MGIEVDPEYG GTG...ASFL STVLVIEELA
+Q20772  .........S LIPEMGSMGL LGAP....YQ GYGCAGTSTV GYGLIAREVE
+1rx0_A  .........D VMRKAAQLGF GGVYIQTDVG GSG...LSRL DTSVIFEALA
+P05335  RELTVLKIN. ...RLS.... .......RYR EGD....SVD TFNKRLSIMG
+1is2_A  YEVAVKKSAT MVKKMR.... .......EYG ISD....PEE ....IMWFKN
+
+        201                                                250
+Q8jzn5  LD.ASITVT. .LAAHQAIGL KGIILVGNDE QKAKYL.PKL ..SSGEHIAA
+P76200  KCGA...PA. .FLITNGQCI HSMRRFGSAE QLRKTAESTL ..ETGDPAYA
+1buc_A  KYDAGVAIT. .LSATVSLCA NPIWQFGTEA QKEKFL.VPL ..VEGTKLGA
+1ivh_A  RASGAVGLS. .YGAHSNLCI NQLVRNGNEA QKEKYL.PKL ..ISGEYIGA
+Q9vsa3  YGCTGIMTA. .LE.ASGLGQ TPVILSGNKE QKKKYL.GRL ..LEEPLVAA
+Q8hxy7  MHDLAVGIT. .LGAHQSIGF KGILLFGTKA QKEKYL.PKL ..ASGETLAA
+Q9kje8  KSLIGFSHHG FTLPPDAPNL YYLEECGSPA QRDKYV.RRY ..CRGEIDSA
+P45954  KVDASVAVF. .CEIQNTLIN TLIRKHGTEE QKATYL..PQ ..LTTEKVGS
+Q20772  RVDSGYRST. .MSVQTSLVI GPIYNYGSED QKQKYI.PDL ..ASGKKIGC
+1rx0_A  TGCTSTTAY. .ISI.HNMCA WMIDSFGNEE QRHKFC.PPL ..CTMEKFAS
+P05335  VVDPQVATR. .IGVNLGLFL SCISGNGTAE QFKYWAIDKG THNIQGLYGC
+1is2_A  SVHRGHPEP. .LDLHLGMFL PTLLHQATAE QQERFFMPAW NL...EITGT
+
+        251                                                300
+Q8jzn5  FCLTEPASGS DAASIQTRAT LSEDKKYFIL NG.....SKV WITNGGL.AN
+P76200  LALTEPGAGS DNNSATTTYT ..RKNGKVYI NG.....QKT FITGAKE.YP
+1buc_A  FGLTEPNAGT DASGQQTIAT K.NDDGTYTL NG.....SKI FITNGGA.AD
+1ivh_A  LAMSEPNAGS DVVSMKLKAE ..KKGNHYIL NG.....NKF WITNGPD.AD
+Q9vsa3  YCVTEPGAGS DVSGIKTRAE ..KKGDEWVI NG.....QKM WITNGGV.AN
+Q8hxy7  FCLTEPSSGS DAASIRTSAV PSPCGKYYTL NG.....SKL WISNGGL.AD
+Q9kje8  MMATEPGAGS DISGLTTTAV ..RENGQWVI NG.....SKI FISKCDK.DE
+P45954  FCLSEAGAGS DSFALKTRAD ..KEGDYYVL NG.....SKM WISSAEH.AG
+Q20772  FGLTEPNHGS NPGGMETKAT WDETTKTYKL NG.....SKT WISNSPV.SD
+1rx0_A  YCLTEPGSGS DAASLLTSAK ..KQGDHYIL NG.....SKA FISGAGE.SD
+P05335  FGMTELGHGS NVAGVETTAT FDKETDEFVI NTPHIGATKW WIGGAAHSAT
+1is2_A  YAQTEMGHGT HLRGLETTAT YDPKTQEFIL NSPTVTSIKW WPGGLGKTSN
+
+        301                                                350
+Q8jzn5  IFTVFAKTEV VDS.DGSKTD KMTAFIV... ....ERDFGG ITNGKPEDKL
+P76200  YMLVLARDPQ PK..DP..KK AFTLWWV... ....DSSKPG IKIN.PLHKI
+1buc_A  IYIVFAMTDK SK...G..NH GITAFIL... ....EDGTPG FTYGKKEDKM
+1ivh_A  VLIVYAKTDL AA.VPA..SR GITAFIV... ....EKGMPG FSTSKKLDKL
+Q9vsa3  WYFVLARTNP DPKCPP..SK AFTGFIV... ....ERDSPG LTPGRKELNM
+Q8hxy7  IFTVFAKTPV TDPATGAVKE KITAFVV... ....ERGFGG VTHGPPEKKM
+Q9kje8  LFFICIAVTD KE.APT..KR RFTAFIL... ....DKDTPG LRIGAEIPVI
+P45954  LFLVMANVDP TI...G..YK GITSFLV... ....DRDTPG LHIGKPENKL
+Q20772  VMVVWARSAR H.......NN KIKGFIL... ....ERGMKG LTTPKIEGKL
+1rx0_A  IYVVMCRTGG PG......PK GISCIVV... ....EKGTPG LSFGKKEKKV
+P05335  HCSVYARLVV DGKDYG.... .VKTFVVPLR DS.NHDLMPG VTVGDIGAKM
+1is2_A  HAIVLAQLIT QGECYG.... .LHAFVVPIR EIGTHKPLPG ITVGDIGPKF
+
+        351                                                400
+Q8jzn5  GIRGSNTCEV HFENTRVPVE NVLGEV.... ..GGGFK... ..VAMNILNS
+P76200  GWHMLSTCEV YLDNVEVEES DMVGEE.... ..GMGFL... ..NVMYNFEM
+1buc_A  GIHTSQTMEL VFQDVKVPAE NMLGEE.... ..GKGFK... ..IAMMTLDG
+1ivh_A  GMRGSNTCEL IFEDCKIPAA NILGHE.... ..NKGVY... ..VLMSGLDL
+Q9vsa3  GQRASDTRGI TFEDVRVPKE NVLIGE.... ..GAGFK... ..IAMGTFDK
+Q8hxy7  GIKASNTAEV LFDGVRVPSE NVLGEV.... ..GSGFK... ..VAMHILNN
+Q9kje8  G..AMPTWSV YLDNVRVGDE AVLGEV.... ..GDAFI... ..PLQNRFGV
+P45954  GLRASSTCPL TFENVKVPEA NILGQI.... ..GHGYK... ..YAIGSLNE
+Q20772  SLRASITGQI AMDDVPVPEE NLLPN..... ..AEGLQ... ..GPFGCLNN
+1rx0_A  GWNSQPTRAV IFEDCAVPVA NRIGSE.... ..GQGFL... ..IAVRGLNG
+P05335  GRDGIDNGWI QFSNVRIPRF FMLQKFCKVS AEGEVVLPPL EQLSYSALLG
+1is2_A  GYEEMDNGYL KMDNYRIPRE NMLMKYAQVK PDGTYVK... .KLTYGTMVF
+
+        401                                                450
+Q8jzn5  GRFSMGSAVA GMLKKLIELT AEYACTRKQF NR........ .....NLSEF
+P76200  ERLINAARST GFAECAFEDA ARYANQRIAF GK........ .....PIGHN
+1buc_A  GRIGVAAQAL GIAEAALADA VEYSKQRVQF GK........ .....PLCKF
+1ivh_A  ERLVLAGGPL GLMQAVLDHT IPYLHVREAF GQ........ .....KIGHF
+Q9vsa3  TRPPVAAGAV GLAQRCLDEA LKYALERKTF GV........ .....PIAYH
+Q8hxy7  GRFGMAAALA GTMRGIITKA VDYATNRIQF GE........ .....KIHNF
+Q9kje8  RRIELAAHCT GMAERLIQMM IDQANLRKTF GV........ .....ALADR
+P45954  GRIGIAAQML GLAQGCFDYT IPYIKERIQF GK........ .....RLFDF
+Q20772  ARLGIAWGAL GAAEECFHLA RQYTLDRQQF GR........ .....PLAQN
+1rx0_A  GRINIASCSL GAAHASVILT RDHLNVRKQF GE........ .....PLASN
+P05335  GRVMMVLDSY RMLARVSTIA LRYAIGRRQF KGDNVDQNDP NALETQLIDY
+1is2_A  VRSFLVGNAA QSLSKACTIA IRYSAVRRQS EI...KQ... SEPEPQILDF
+
+        451                                                500
+Q8jzn5  GLIQEKFALM AQKAYVMESM AYLTSG.... .......... .......MLD
+P76200  QMIQEKLALM AIKIDNMRNM VLKVAW.... .......... .......QAD
+1buc_A  QSISFKLADM KMQIEAARNL VYKAAC.... .......... .......KKQ
+1ivh_A  QLMQGKMADM YTRLMACRQY VYNVAK.... .......... .......ACD
+Q9vsa3  QAVQFMLADM AIGVETSRLA WRLSAW.... .......... .......EID
+Q8hxy7  GLIQEKLARM VMLQYVTESM AYMVSA.... .......... .......NMD
+Q9kje8  QTVQNWIADS TIELEQVRLQ LYFTAW.... .......... .......KSD
+P45954  QGLQHQVAHV ATQLEAARLL TYNAAR.... .......... .......LLE
+Q20772  QLMQLKMADM LTEISLGLQG CLRVSR.... .......... .......LKD
+1rx0_A  QYLQFTLADM ATRLVAARLM VRNAAV.... .......... .......ALQ
+P05335  PLHQKRLFPY LAAAYVVSTG ALKVEHTIQS TLATLDAAVE NNDTTAIFKS
+1is2_A  QTQQYKLFPL LATAYAFHFV GRYMKE.... TYLRINESIG Q.......GD
+
+        501                                                550
+Q8jzn5  QPGFPDCSIE AAMVKVFSSE AAWQCVSEAL QILGGSGYMK DYPYERMLRD
+P76200  Q.H.QSLRTS AALAKLYCAR TAMEVIDDAI QIMGGLGYTD EARVSRFWRD
+1buc_A  E.G.KPFTVD AAIAKRVASD VAMRVTTEAV QIFGGYGYSE EYPVARHMRD
+1ivh_A  E.G.HCTAKD CAGVILYSAE CATQVALDGI QCFGGNGYIN DFPMGRFLRD
+Q9vsa3  Q.G.RRNSYY ASIAKCHAAD MANKIASDAV QIFGGNGFNS EYPVEKLMRD
+Q8hxy7  Q.GSTDFQIE AAISKIFGSE AAWKVTDECI QIMGGMGFMK EPGVERVLRD
+Q9kje8  Q.GHKDLRLE AASLKIAATE MLTRVADRAI QLHGGLGLSR EMGIEYVARM
+P45954  A.G.KPFIKE ASMAKYYASE IAGQTTSKCI EWMGGVGYTK DYPVEKYFRD
+Q20772  E.G.KVQSEQ ISIIKRNSCG KALEVARKAR DMLGGNGIVD EYHIMRHMVN
+1rx0_A  E.ERKDAVAL CSMAKLFATD ECFAICNQAL QMHGGYGYLK DYAVQQYVRD
+P05335  IDDMKSLFID SGSLKATTTW LAAEAIDQCR QACGGHGYSS YNGFAKAFND
+1is2_A  LSELPELHAL TAGLKAFTTW TANAGIEECR MACGGHGYSH SSGIPNIYVT
+
+        551                                                600
+Q8jzn5  ARILLIFEGT NEILRLFIAL TGLQHAG... ...RILTSRI K...ELK..S
+P76200  VRCERIGGGT DEIMIYVAGR QILKDYQ... ...NK~~~~~ ~~~~~~~~~~
+1buc_A  AKITQIYEGT NEVQLMVTGG ALLR~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ivh_A  AKLYEIGAGT SEVRRLVIGR AFNAD~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q9vsa3  AKIYQIYEGT SQIQRLIISR NMYEAAK... ...GQA~~~~ ~~~~~~~~~~
+Q8hxy7  LRIFRIFEGT NDILRLFVAL QGCMDKG... ...KELSGLG S...ALKNPF
+Q9kje8  VRIWRVVEGA SEIHRMSIAK KLLTDGR... ...TYSPFVA ....A~~~~~
+P45954  AKIGTIYEGA SNIQLNTIAK HIDAEY~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q20772  LETVNTYEGT HDVHALILGR AITGLNG... ...FC~~~~~ ~~~~~~~~~~
+1rx0_A  SRVHQILEGS NEVMRILISR SLLQE~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P05335  WVVQCTWEGD NNVLSLSVGK PIIKQIIGIE DNGKTVRGST AFLNQVKDFT
+1is2_A  FTPACTFEGE NTVMMLQTAR FLMK.IYDQV RSGKLVGGMV SYLNDLPSVD
+
+        601                                                650
+Q8jzn5  GNVT...... ..TVMETIGR KLRDSLGRTV DLGLTGDLGV VHPS......
+P76200  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1buc_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ivh_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q9vsa3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q8hxy7  GNAG...... ..LLLGEAGK QLRRRAGLGS GLSL...SGI VHPE......
+Q9kje8  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P45954  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q20772  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1rx0_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P05335  GSNASKVVLN NTSDLNDINK VIK.....SI EVAI...IRL AH.EAAISVR
+1is2_A  INS....... .LEGLTEAYK LRA...ARLV EIAA...KNL QTHVSHRKSK
+
+        651                                                700
+Q8jzn5  ...LGDSANK LEENV....H Y.FGRTVETL LLRFGKNIVE EQLVLKRVAN
+P76200  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1buc_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ivh_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q9vsa3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q8hxy7  ...LSRSGEL AVQAL....E Q.FATVVEAK LIKHKKGIVN EQFLLQRLAD
+Q9kje8  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P45954  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q20772  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1rx0_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P05335  KESLDFAGAE LVQISKLKAH HYLLTEFVKR VGEF...... EHKELVPFLN
+1is2_A  EVAWNLTSVD LVRASEAHCH YVVVKVFSDK LPKI...... QDKAVQAVLR
+
+        701                                                750
+Q8jzn5  ILINLYGMTA VLSRASRSIR IGLRN.HDHE VLLANMFCVE AYFQNLFSLS
+P76200  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1buc_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ivh_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q9vsa3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q8hxy7  GAIDLYAMVV VLSRASRSLS EGHHT.AQHE KMLCDTWCIE AAARIREGMA
+Q9kje8  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P45954  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q20772  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1rx0_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P05335  TIGRLYSATV VLDKFAGVFL TFNVASPQAI TDLASTQIPK LCAEVRPNVV
+1is2_A  NLCLLYSLYG IS.QKGGDFL EGSIITGAQL .SQVNARILE LLTLIRPNAV
+
+        751                                                800
+Q8jzn5  QLDK...... .......NA. PENLDEQIKK VSRQILEKRA Y....ICAHP
+P76200  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1buc_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ivh_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q9vsa3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q8hxy7  ALQS...... .......DPR QHELYRNFKS ISKALVERGG V....VTNNP
+Q9kje8  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P45954  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+Q20772  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1rx0_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+P05335  AYTDSFQQSD MVINSAIGKY DGDVYENYFD LVKQLNPPKN T.KAPYTAAL
+1is2_A  ALVDAFDFKD MTLGSVLGRY DGNVYENLFE WAKKSPLNKT EVHESYHKHL
+
+        801                       827
+Q8jzn5  LD...RAS~~ ~~~~~~~~~~ ~~~~~~~
+P76200  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+1buc_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+1ivh_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+Q9vsa3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+Q8hxy7  LG...F~~~~ ~~~~~~~~~~ ~~~~~~~
+Q9kje8  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+P45954  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+Q20772  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+1rx0_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+P05335  EGMLNRPSLE ARERYEKSDE TAAILSK
+1is2_A  K~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~

@@ -1,0 +1,446 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40009_kalign.msf  MSF: 1196  Type: N  December 21, 2021 20:38  Check: 3310  ..
+
+ Name: NOR2_CYLTO  Len:   1196  Check: 5995  Weight: 1.00
+ Name: 1cl6_A      Len:   1196  Check: 2122  Weight: 1.00
+ Name: C141_MYCTU  Len:   1196  Check: 9647  Weight: 1.00
+ Name: CPXP_BRAJA  Len:   1196  Check: 1959  Weight: 1.00
+ Name: 1oxa_       Len:   1196  Check:  629  Weight: 1.00
+ Name: 1cpt_       Len:   1196  Check: 4010  Weight: 1.00
+ Name: Y4VG_RHISN  Len:   1196  Check: 8237  Weight: 1.00
+ Name: 1phd_       Len:   1196  Check: 1972  Weight: 1.00
+ Name: 1lgf_A      Len:   1196  Check: 3258  Weight: 1.00
+ Name: YJIB_BACSU  Len:   1196  Check: 5785  Weight: 1.00
+ Name: 1f4t_A      Len:   1196  Check:  799  Weight: 1.00
+ Name: 1pkf_A      Len:   1196  Check: 7845  Weight: 1.00
+ Name: CYPE_BACSU  Len:   1196  Check: 3800  Weight: 1.00
+ Name: C505_FUSOX  Len:   1196  Check: 6332  Weight: 1.00
+ Name: 1e9x_A      Len:   1196  Check: 8691  Weight: 1.00
+ Name: CP51_SORBI  Len:   1196  Check: 5600  Weight: 1.00
+ Name: CP51_SCHPO  Len:   1196  Check: 5698  Weight: 1.00
+ Name: CP51_HUMAN  Len:   1196  Check: 2326  Weight: 1.00
+ Name: CPD6_HUMAN  Len:   1196  Check: 8605  Weight: 1.00
+
+//
+
+NOR2_CYLTO     -------------------------------------------------------MHATE
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     -----------------------------------------------------------M
+CPXP_BRAJA     -----------------------------------------------------------M
+1oxa_          ------------------------------------------------------------
+1cpt_          -----------------------------------------------------MDARATI
+Y4VG_RHISN     -------------------------------------MSDLRRKRVKTNPIPDHVPPALV
+1phd_          -------------------------------------------------------NLAPL
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ---------------------------------------------------MNVLNRRQA
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ----------------------------------------------------------AF
+CYPE_BACSU     -----------------------------------------------------MKQASAI
+C505_FUSOX     -----------------------------------------------------MAESVPI
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     -----------------MD-LADIPQQQRLMAGLALVVA------------TVIFLKLLL
+CP51_SCHPO     --------------------------MAFSLVSILLSIA------------LAWYVGYII
+CP51_HUMAN     MLLLGLLQAGGSVLGQAMEKVTGGNLLSMLLIACAFTLS------------LVYLIRLAA
+CPD6_HUMAN     ---------------------MGLEALVPLAVIVAIFLL-----------LVDLMHRRQR
+
+
+NOR2_CYLTO     DETTTIPR--FPFQRASAFEPPAEF-ARLRAN-EPISQV--ELFDGSLAW----LVVKHE
+1cl6_A         -----APS--FPFSRASGPEPPAEF-AKLRAT-NPVSQV--KLFDGSLAW----LVTKHK
+C141_MYCTU     TSTS-IPT--FPFDRPVPTEPSPML-SELRNS-CPVAPI--ELPSGHTAW----LVTRFD
+CPXP_BRAJA     SEQQPLPT--LPMWRVDHIEPSPEM-LALRAN-GPIHRV--RFPSGHEGW----WVTGYD
+1oxa_          ---ATVPD--L-ESDSFH-VDWYSTYAELRET-APVTPV--RFLGQD-AW----LVTGYD
+1cpt_          PEHIARTV--ILPQGYADDEVIYPAFKWLRDE-QPLAMA--HIEGYDPMW----IATKHA
+Y4VG_RHISN     RHFSLFTS--PGMAPTPNGDPHAAVACVHDDG-PPIFYSPSNTRDGRGTW----VITRAR
+1phd_          PPHVPEHL--VF-----DFDMYNPSNLSAGVQ-EAWAVL--Q-ESNVPDL----VWTRCN
+1lgf_A         -----DPR--PLHIRRQG----LDPADELLAA-GALTR-----VTAETHW----MATAHA
+YJIB_BACSU     LQRALLNG--KNKQDAYHPFPWYES---MRKD-APVSFD--E--ENQ-VW----SVFLYD
+1f4t_A         ---------------------MYDWFSEMRKK-DPVYY------DGN-IW----QVFSYR
+1pkf_A         DFKPFAPG--Y-AEDP---FPAIER---LREA-TPIFYW--D--EGR-SW----VLTRYH
+CYPE_BACSU     PQPKTYGP--LKNLPHLEKEQLSQSLWRIADELGPIFRF--DF-PGVSSV----FVSGHN
+C505_FUSOX     PEPPGYPL--IGNLGEFTSNPLSD-LNRLADTYGPIFRL--RL-GAKAPI----FVSSNS
+1e9x_A         -----MSA--VALPRVSGGHDEHGHLEEFRTDPIGLMQRVRDECGDVGTF----QLAGKQ
+CP51_SORBI     SFRSGGGK--KRLPPTIPGAPVVGGLVKFMRGPIPMIREQYAALGSVFTV----PIITRR
+CP51_SCHPO     NQLTSRNS--KRPPIVFHWIPFVGSAVAYGMDPYVFFRECRAKYGDVFTF----VCMGRK
+CP51_HUMAN     GHLVQLPAGVKSPPYIFSPIPFLGHAIAFGKSPIEFLENAYEKYGPVFSF----TMVGKT
+CPD6_HUMAN     WAARYPPG--PLPLPGLGNLLHVDFQNTPYCF-DQLRRRFGDVFSLQLAWTPVVVLNGLA
+
+
+NOR2_CYLTO     DVCRVATD-ERLS---KERT---RLGFPELSAGGKAAAK-NKPT-FVDMDAPAHMNQRSM
+1cl6_A         DVCFVATS-EKLS---KVRT---RQGFPELSASGKQAAK-AKPT-FVDMDPPEHMHQRSM
+C141_MYCTU     DVKGVLSD-KRFSCR--------AAAHPSSPPFVP--FVQLCPS-LLSIDGPQHTAARRL
+CPXP_BRAJA     EAKAVLSD-AAF--R--------PAGMPPA-AFTPDSVILGSPGWLVSHEGREHARLRAI
+1oxa_          EAKAALSD-LRLSSDPKKKYPGVEVEFPAYLGFPEDVRNYFATN-MGTSDPPTHTRLRKL
+1cpt_          DVMQIGKQPGLFSNAEGSEILYDQNNEAFMRSISGGCPH-VIDS-LTSMDPPTHTAYRGL
+Y4VG_RHISN     DQRRVLEDTETFSSH--------RSIFASALGEHWPVIP-------LELDPPAHGVFRAL
+1phd_          GGHWIATRGQLIREAY-EDYRHFSSECPFIPREAGEAYD-FIP---TSMDPPEQRQFRAL
+1lgf_A         VVRQVMGDHQQFSTR------RRWDPRDEIGGKGIFRPRELVGN-LMDYDPPEHTRLRRK
+YJIB_BACSU     DVKKVVGD-KEL--------------FSSCM--PQQTSS-IGNS-IINMDPPKHTKIRSV
+1f4t_A         YTKEVLNNFSKFSSD-LTGY---HERLEDLRNGKIRFDIPTRYT-MLTSDPPLHDELRSM
+1pkf_A         DVSAVFRD-ERFAVS-REEWES-SAEYSSAI--PELSDM-KKYG-LFGLPPEDHARVRKL
+CYPE_BACSU     LVAEVCDE-KRFDKN-------LGKGLQKVREFGGDGLF------TSWTHEPNWQKAHRI
+C505_FUSOX     LINEVCDE-KRFKKT-------LKSVLSQVREGVHDGLF------TAFEDEPNWGKAHRI
+1e9x_A         VVLLSGSHANEFFFR------AGDDDLDQAKAY-PFMTPIFGEGVVFDASPERRKEMLH-
+CP51_SORBI     ITFLIGPEVSAHFFK------GNEAEMSQQEVY-RFNVPTFGPGVVFDVDYSVRQEQFRF
+CP51_SCHPO     MTAFLGVQGNDFLFN------GKLADLNAEEAYSHLTTPVFGKDVVYDIPNHVFMEHKKF
+CP51_HUMAN     FTYLLGSDAAALLFN------SKNEDLNAEDVYSRLTTPVFGKGVAYDVPNPVFLEQKKM
+CPD6_HUMAN     AVREALVTHGEDTAD------RPPVPITQILG---FGPRSQGVF-LARYGPA--WREQRR
+
+
+NOR2_CYLTO     VEPFFTEDHVENLRPYIKETVQGLL----NDMVANG-CEE-PVDLIEKFA-LPVPSYIIY
+1cl6_A         VEPTFTPEAVKNLQPYIQRTVDDLL----EQMKQKG-CANGPVDLVKEFA-LPVPSYIIY
+C141_MYCTU     LAQGLNPGFIARMRPVVQQIVDNAL----DDLAAAE-P---PVDFQEIVS-VPIGEQLMA
+CPXP_BRAJA     VAPAFSDRRVKLLVQQVEAIAAHLF----ETLAAQP-Q---PADLRRHLS-FPLPAMVIS
+1oxa_          VSQEFTVRRVEAMRPRVEQITAELL----DEVGDSG-----VVDIVDRFA-HPLPIKVIC
+1cpt_          TLNWFQPASIRKLEENIRRIAQASV----QRLLDFD-G---ECDFMTDCA-LYYPLHVVM
+Y4VG_RHISN     LNPLFSSRRVLALEPTIHARAGALI----DCIAKEK-T---SCDVMKDFA-LPFTFSVFL
+1phd_          ANQVVGMPVVDKLENRIQELACSLI----ESLRP-Q-G---QCNFTEDYA-EPFPIRIFM
+1lgf_A         LTPGFTLRKMQRMAPYIEQIVNDRL--------DEMERAGSPADLIAFVA-DKVPGAVLC
+YJIB_BACSU     VNKAFTPRVMKQWEPRIQEITDELI----QKFQGRS-----EFDLVHDFS-YPLPVIVIS
+1f4t_A         SADIFSPQKLQTLETFIRETTRSLL----DSIDPR------EDDIVKKLA-VPLPIIVIS
+1pkf_A         VNPSFTSRAIDLLRAEIQRTVDQLL----DARSGQE-----EFDVVRDYA-EGIPMRAIS
+CYPE_BACSU     LLPSFSQKAMKGYHSMMLDIATQLI----QKWSRLN-PNE-EIDVADDMTRLTLDTIGLC
+C505_FUSOX     LVPAFGPLSIRGMFPEMHDIATQLC----MKFARHG-PRT-PIDTSDNFTRLALDTLALC
+1e9x_A         -NAALRGEQMKGHAATIEDQVRRMI----ADW-----GEAGEIDLLDFFAELTIYTSSAC
+CP51_SORBI     FTEALRANKLRSYVDQMVAEAEEYF----SKW-----GESGTVDLKYELEHLIILTASRC
+CP51_SCHPO     IKSGLGFSQFRSYVPLILNEMDAFL----STSPDFGPGKEGVADLLKTMPVMTIYTASRT
+CP51_HUMAN     LKSGLNIAHFKQHVSIIEKETKEYF----ESW-----GESGEKNVFEALSELIILTASHC
+CPD6_HUMAN     FSVS-TLRNLGLGKKSLEQWVTEEAACLCAAFANHSGRPFRPNGLLDKAV-SNVIASLTC
+
+
+NOR2_CYLTO     TI-LGVPFEDLEYLTE--QNAIRSNG------SGTA----QEAAAANQ--Q--------L
+1cl6_A         TL-LGVPFNDLEYLTQ--QNAIRTNG------SSTA----REASAANQ--E--------L
+C141_MYCTU     KL-LGVEPKTVHELAAHVDAAMS---------VCEIG--DEEVSR-RW-SA--------L
+CPXP_BRAJA     AL-MGVLYEDHAFFAGLSDEVMTH--------QHESG--PRSASRLAW-EE--------L
+1oxa_          EL-LGVDEAARGAFGRWSSEILVMDP-------ERA----EQRGQAAR--E--------V
+1cpt_          TA-LGVPEDDEPLMLKLTQDFFGV----------------EAARRFHETIA-------TF
+Y4VG_RHISN     SF-LGLSQRRSEVLVGWVSDLL----------HGNA----EKRRAAAR--S--------V
+1phd_          LL-AGLPEEDIPHLKYLTDQMTRP----------------DGSMTFAEAKE-------AL
+1lgf_A         ELVGVPRDDRDM-FMKLCHGHLDASLSQKRRA-----------ALGDKFSR-YLL---AM
+YJIB_BACSU     EL-LGVPSAHMEQFKAW-SDLLVSTPKDKSEEAEKAF--LEERDKCEE--E--------L
+1f4t_A         KI-LGLPIEDKEKFKEWSDLVAFRLGK-----PGEI----FELGKKYL--E--------L
+1pkf_A         AL-LKVPAECDEKFRRFGSATARALGVGL---VPRVD--EETKTLVASVTE--------G
+CYPE_BACSU     GFNYRFNSFYRDSQHPFITSMLRALKEAMN-QSKRLG--LQDKMMVKTKLQ-FQKDIEVM
+C505_FUSOX     AMDFRFYSYYKEELHPFIEAMGDFLTESGN-RNRRPP--FAPNFLYRAANEKFYGDIALM
+1e9x_A         LIGKKFRDQLDGRFAKLYHELERGTDPLAYVDP-YLP--IESFRRRDEARN-------GL
+CP51_SORBI     LLGREVREKLFDDVSALFHDLDNGIQPISVLFP-YLP--IPAHKRRDKARA-------RL
+CP51_SCHPO     LQGAEVRKGFDAGFADLYHDLDQGFSPVNFVFP-WLP--LPRNRRRDRAHK-------IM
+CP51_HUMAN     LHGKEIRSQLNEKVAQLYADLDGGFSHAAWLLPGWLP--LPSFRRRDRAHR-------EI
+CPD6_HUMAN     GRRFEYDDPRFLRLLDLAQEGLKEESGFLREVLNAVPVLLHIPALAGKVLR-FQK---AF
+
+
+NOR2_CYLTO     LKYLAKLVDQRLQE--P-KD--DLIGRLVDQ-QLVPG-HIE---KSDAVQIAFLLLVAGN
+1cl6_A         LDYLAILVEQRLVE--P-KD--DIISKLCTE-QVKPG-NID---KSDAVQIAFLLLVAGN
+C141_MYCTU     CTMVIDILHRKLAE--P-GD--DLLSTIAQA-NRQQS-TMT---DEQVVGMLLTVVIGGV
+CPXP_BRAJA     RAYIRGKMRDKRQD--P-DD--NLLTDLLAA--VDQG-KAS---EEEAVGLAAGMLVAGH
+1oxa_          VNFILDLVERRRTE--P-GD--DLLSALISV-QDDDDGRLS---ADELTSIALVLLLAGF
+1cpt_          YDYFNGFTVDRRSC--P-KD--DVMSLLANS-KLDGN-YID---DKYINAYYVAIATAGH
+Y4VG_RHISN     VAFIDEMAAMRRKS--P-AV--DFMTFVVQA-KIEGR-SLT---EEEVRGIGVLFLVAGL
+1phd_          YDYLIPIIEQRRQK--P-GT--DAISIVANG-QVNGR-PIT---SDEAKRMCGLLLVGGL
+1lgf_A         IAR------ERK------EPGEGMIGAVVAEY----GDDAT---DEELRGFCVQVMLAGD
+YJIB_BACSU     AAFFAGIIEEKRNK--P-EQ--DIISILVEA-EETGE-KLS---GEELIPFCTLLLVAGN
+1f4t_A         IGYVKDHLNS--------GT--EVVSRVVNS-------NLS---DIEKLGYIILLLIAGN
+1pkf_A         LALLHGVLDERRRN--PLEN--DVLTMLLQA-EADGS-RLS---TKELVALVGAIIAAGT
+CYPE_BACSU     NSLVDRMIAERKAN--PDENIKDLLSLMLYAKDPVTGETLD---DENIRYQIITFLIAGH
+C505_FUSOX     KSVADEVVAARKAS--PSDR-KDLLAAMLNGVDPQTGEKLS---DENITNQLITFLIAGH
+1e9x_A         VALVADIMNGRIANPPTDKSDRDMLDVLIAVKAETGTPRFS---ADEITGMFISMMFAGH
+CP51_SORBI     AEIFATIIKSRKAS--GQSEE-DMLQCFIDSKYKNGRP-TT---EGEVTGLLIAALFAGQ
+CP51_SCHPO     QKTYLKIIKDRRSS--TENPGTDMIWTLMSCKYRDGRP-LK---EHEIAGMMIALLMAGQ
+CP51_HUMAN     KDIFYKAIQKRRQS--QEKID-DILQTLLDATYKDGRP-LT---DDEVAGMLIGLLLAGQ
+CPD6_HUMAN     LTQLDELLTEHRMTWDPAQPPRDLTEAFLAEMEKAKGNPESSFNDENLRIVVADLFSAGM
+
+
+NOR2_CYLTO     ATMVNMIALGVVTLMQNPSQLEELKADPTLV-------------------PGFVEELCRY
+1cl6_A         ATMVNMIALGVATLAQHPDQLAQLKANPSLA-------------------PQFVEELCRY
+C141_MYCTU     DTPIAVITNGLASLLHHRDQYERLVEDPGRV-------------------ARAVEEIVRF
+CPXP_BRAJA     ESTVAQIEFGLLAMFRHPQQRERLVGDPSLV-------------------DKAVEEILRM
+1oxa_          EASVSLIGIGTYLLLTHPDQLALVRADPSAL-------------------PNAVEEILRY
+1cpt_          DTTSSSSGGAIIGLSRNPEQLALAKSDPALI-------------------PRLVDEAVRW
+Y4VG_RHISN     DTVAAAIGFDMAYLARNPKHQELLRNEPARL-------------------GLAAEELLR-
+1phd_          DTVVNFLSFSMEFLAKSPEHRQELIERPERI-------------------PAACEELLRR
+1lgf_A         DNISGMIGLGVLAMLRHP-------EQIDAFRGDEQS-AQRAVDELIRYLT---------
+YJIB_BACSU     ETTTNLISNAMYSILETPGVYEELRSHPELM-------------------PQAVEEALRF
+1f4t_A         ETTTNLISNSVIDFTRF-NLWQRIR-EENLY-------------------LKAIEEALRY
+1pkf_A         DTTIYLIAFAVLNLLRSPEALELVKAEPGLM-------------------RNALDEVLRF
+CYPE_BACSU     ETTSGLLSFAIYCLLTHPEKLKKAQEEADRVLTDDT--PEYKQIQQLKYIRMVLNETLRL
+C505_FUSOX     ETTSGTLSFAMYQLLKNPEAYSKVQKEVDEVVGRGP--VLVEHLTKLPYISAVLRETLRL
+1e9x_A         HTSSGTASWTLIELMRHRDAYAAVIDELDELYGDGRS-VSFHALRQIPQLENVLKETLRL
+CP51_SORBI     HTSSITSTWTGAYMLRFKQYFAEAVEEQKDVMKRHGDKIDHDILAEMDVLYRCIKEALRL
+CP51_SCHPO     HTSAATIVWVLALLGSKPEIIEMLWEEQKRVVGENLE-LKFDQYKDMPLLNYVIQETLRL
+CP51_HUMAN     HTSSTTSAWMGFFLARDKTLQKKCYLEQKTVCGENLPPLTYDQLKDLNLLDRCIKETLRL
+CPD6_HUMAN     VTTSTTLAWGLLLMILHPDVQRRVQQEIDDVIGQVRR-PEMGDQAHMPYTTAVIHEVQRF
+
+
+NOR2_CYLTO     HT--GSSMAMKRVAKEDMELG---G-K-LIRAGEGIIASNQSANRDEDVF-PNPDVFDMH
+1cl6_A         HT--ASALAIKRTAKEDVMIG---D-K-LVRANEGIIASNQSANRDEEVF-ENPDEFNMN
+C141_MYCTU     NP--ATEIEHLRVVTEDVVIA---G-T-ALSAGSPAFTSITSANRDSDQF-LDPDEFDVE
+CPXP_BRAJA     YPPGAGWDGIMRYPRTDVTIA---G-E-HIPAESKVLVGLPATSFDPHHF-DDPEIFDIE
+1oxa_          IA--PPET-TTRFAAEEVEIG---G-V-AIPQYSTVLVANGAANRDPSQF-PDPHRFDVT
+1cpt_          T---APVKSFMRTALADTEVR---G-Q-NIKRGDRIMLSYPSANRDEEVF-SNPDEFDIT
+Y4VG_RHISN     -A--YSTVQIIRVATKDIEFE---G-V-PIREGDYVSCPAMIANRDPSEF-KCPNTIDLA
+1phd_          F---SLVAD-GRILTSDYEFH---G-V-QLKKGDQILLPQMLSGLDEREN-ACPMHVDFS
+1lgf_A         ----VPYSPTPRIAREDLTLA---G-Q-EIKKGDSVICSLPAANRDPALA-PDVDR----
+YJIB_BACSU     RA--PAPV-LRRIAKRDTEIG---G-H-LIKEGDMVLAFVASANRDEAKF-DRPHMFDIR
+1f4t_A         -S--PPVMRTVRKTKERVKLG---D-Q-TIEEGEYVRVWIASANRDEEVF-HDGEKFIPD
+1pkf_A         EN--ILRIGTVRFARQDLEYC---G-A-SIKKGEMVFLLIPSALRDGTVF-SRPDVFDVR
+CYPE_BACSU     Y---PTAPAFSLYAKEDTVLG---G-EYPISKGQPVTVLIPKLHRDQNAWGPDAEDFRPE
+C505_FUSOX     N---SPITAFGLEAIDDTFLG---G-KYLVKKGEIVTALLSRGHVDPVVYGNDADKFIPE
+1e9x_A         H---PPLIILMRVAKGEFEVQ---G--HRIHEGDLVAASPAISNRIPEDF-PDPHDFVPA
+CP51_SORBI     H---PPLIMLLRQSHSDFTVTTKEGKEYDIPKGHIVATSPSFANRLPHIY-KNPDSYDPD
+CP51_SCHPO     H---PPIHSHMRKVKRDLPVP---GSKIVIPANNYLLAAPGLTATEEEYF-THATDFDPK
+CP51_HUMAN     R---PPIMIMMRMARTPQTVA---G--YTIPPGHQVCVSPTVNQRLKDSW-VERLDFNP-
+CPD6_HUMAN     GDI-VPLGMTHMTSR-DIEVQ---G-F-RIPKGTTLITNLSSVLKDEAVW-EKPFRFHPE
+
+
+NOR2_CYLTO     R---DFDSRDG--------------------LGFGFGPHRCIAELLAKAELEIVFETLFA
+1cl6_A         R---KWPPQDP--------------------LGFGFGDHRCIAEHLAKAELTTVFSTLYQ
+C141_MYCTU     R---N--PNEH--------------------IAFGYGPHACPASAYSRMCLTTFFTSLTQ
+CPXP_BRAJA     R---Q--EKPH--------------------LAFSYGPHACIGVALARLELKVVFGSIFQ
+1oxa_          R---D--TRGH--------------------LSFGQGIHFCMGRPLAKLEGEVALRALFG
+1cpt_          RF-----PNRH--------------------LGFGWGAHMCLGQHLAKLEMKIFFEELLP
+Y4VG_RHISN     R---Q--DNQH--------------------TAFGYGPHLCHGAHLARREIVIGLREWLA
+1phd_          RQ-----KVSH--------------------TTFGHGSHLCLGQHLARREIIVTLKEWLT
+1lgf_A         ---LD--VTR----------------EPIPHVAFGHGVHHCLGAALARLELRTVFTELWR
+YJIB_BACSU     R---H--PNPH--------------------IAFGHGIHFCLGAPLARLEANIALTSLIS
+1f4t_A         R---N--PNPH--------------------LSFGSGIHLCLGAPLARLEARIAIEEFSK
+1pkf_A         R---D--TSAS--------------------LAYGRGPHVCPGVSLARLEAEIAVGTIFR
+CYPE_BACSU     RF-EDPSSIPHHA-------------Y----KPFGNGQRACIGMQFALQEATMVLGLVLK
+C505_FUSOX     RMLDDEFARLNKE-------------YPNCWKPFGNGKRACIGRPFAWQESLLAMVVLFQ
+1e9x_A         RY-EQPRQEDLLN--------------RWTWIPFGAGRHRCVGAAFAIMQIKAIFSVLLR
+CP51_SORBI     RF-GPGREEDKAA-------------GAFSYISFGGGRHGCLGEPFAYLQIKAIWTHLLR
+CP51_SCHPO     RW-NDRVNEDENAEQIDYGYGLVTKGAASPYLPFGAGRHRCIGEQFAYMHLSTIISKFVH
+CP51_HUMAN     ----DRYLQDNPA-----------SGEKFAYVPFGAGRHRCIGENFAYVQIKTIWSTMLR
+CPD6_HUMAN     HF-LD--AQGHFV-------------KPEAFLPFSAGRRACLGEPLARMELFLFFTSLLQ
+
+
+NOR2_CYLTO     TLP-DLRVSIPLDEIECT-PRHKDVGIVRLPVKW--------------------------
+1cl6_A         KFP-DLKVAVPLGKINYT-PLNRDVGIVDLPVIF--------------------------
+C141_MYCTU     RFP-QLQLARPFEDLERRGKGLHSVGIKELLVTWPT------------------------
+CPXP_BRAJA     RLP-ALRLAVAPEQLKLR-KEIITGGFEQFPVLW--------------------------
+1oxa_          RFP-ALSLGIDADDVVWR-RSLLLRGIDHLPVRLDG------------------------
+1cpt_          KLK-SVELS-GPPRLV---ATNFVGGPKNVPIRFTKA-----------------------
+Y4VG_RHISN     RIP-AFRI--KEGTAPIT-HGGHVFGISNIILTWA-------------------------
+1phd_          RIP-DFSIAPGAQIQH---KSGIVSGVQALPLVWDPATTKAV------------------
+1lgf_A         RFP-ALRLADPAQDTE----FRLTTPAYGLTELMVAW-----------------------
+YJIB_BACSU     AFP-HM----ECVSITPI-ENSVIYGLKSFRVKM--------------------------
+1f4t_A         RFR-HI----EILDTEKV-PNEVLNGYKRLVVRLKSN-----------------------
+1pkf_A         RFP-EMKL---KETPVFG-YHPAFRNIESLNVILKPS-----------------------
+CYPE_BACSU     HF--EL-INHTGYELKIKEALTIKPDDFKITVKPRK----------TAAINVQRKEQADI
+C505_FUSOX     NF--NFTMTDPNYALEIKQTLTIKPDHFYINATLRHGMTPTELEHVLAGNGATSSSTHNI
+1e9x_A         EY--EFEMAQPPESYRNDHSKMVVQLAQPACVRYRRRT----------------------
+CP51_SORBI     NF--EFELV-SPFP-ENDWNAMVVGIKGEVMVNYKRRKLVVDN-----------------
+CP51_SCHPO     DY--TWTLI-GKVP-NVDYSSMVALPLGPVKIAWKRRN----------------------
+CP51_HUMAN     LY--EFDLIDGYFP-TVNYTTMIHTPENPV-IRYKRRSK---------------------
+CPD6_HUMAN     HFSFSVPTGQPRPSHHGVFAFLVSPSPYELC--AVPR-----------------------
+
+
+NOR2_CYLTO     ------------------------------------------------------------
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     ------------------------------------------------------------
+CPXP_BRAJA     ------------------------------------------------------------
+1oxa_          ------------------------------------------------------------
+1cpt_          ------------------------------------------------------------
+Y4VG_RHISN     ------------------------------------------------------------
+1phd_          ------------------------------------------------------------
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ------------------------------------------------------------
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ------------------------------------------------------------
+CYPE_BACSU     KAETKPKETKPKHGTPLLVLFGSNLGTAEGIAGELAAQGRQMGFTAET-APLDDYIGKLP
+C505_FUSOX     KAAAN-LDAKAGSGKPMAIFYGSNSGTCEALANRLASDAPSHGFSATTVGPLDQAKQNLP
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     ------------------------------------------------------------
+CP51_SCHPO     ------------------------------------------------------------
+CP51_HUMAN     ------------------------------------------------------------
+CPD6_HUMAN     ------------------------------------------------------------
+
+
+NOR2_CYLTO     ------------------------------------------------------------
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     ------------------------------------------------------------
+CPXP_BRAJA     ------------------------------------------------------------
+1oxa_          ------------------------------------------------------------
+1cpt_          ------------------------------------------------------------
+Y4VG_RHISN     ------------------------------------------------------------
+1phd_          ------------------------------------------------------------
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ------------------------------------------------------------
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ------------------------------------------------------------
+CYPE_BACSU     EEGAVVIVTASYNGAPPDNAAGFVEWLKELEEGQLKGVSYAVFGCGNRSWASTYQRIPRL
+C505_FUSOX     EDRPVVIVTASYEGQPPSNAAHFIKWMEDLDGNDMEKVSYAVFACGHHDWVETFHRIPKL
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     ------------------------------------------------------------
+CP51_SCHPO     ------------------------------------------------------------
+CP51_HUMAN     ------------------------------------------------------------
+CPD6_HUMAN     ------------------------------------------------------------
+
+
+NOR2_CYLTO     ------------------------------------------------------------
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     ------------------------------------------------------------
+CPXP_BRAJA     ------------------------------------------------------------
+1oxa_          ------------------------------------------------------------
+1cpt_          ------------------------------------------------------------
+Y4VG_RHISN     ------------------------------------------------------------
+1phd_          ------------------------------------------------------------
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ------------------------------------------------------------
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ------------------------------------------------------------
+CYPE_BACSU     IDDMMKAKGASRLTAIGEGDAA-DDFESHRESWEN-RFWKETMDAFDINEIAQKEDRPSL
+C505_FUSOX     VDSTLEKRGGTRLVPMGSADAATSDMFSDFEAWEDIVLWPGLKEKYKISD----EESGGQ
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     ------------------------------------------------------------
+CP51_SCHPO     ------------------------------------------------------------
+CP51_HUMAN     ------------------------------------------------------------
+CPD6_HUMAN     ------------------------------------------------------------
+
+
+NOR2_CYLTO     ------------------------------------------------------------
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     ------------------------------------------------------------
+CPXP_BRAJA     ------------------------------------------------------------
+1oxa_          ------------------------------------------------------------
+1cpt_          ------------------------------------------------------------
+Y4VG_RHISN     ------------------------------------------------------------
+1phd_          ------------------------------------------------------------
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ------------------------------------------------------------
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ------------------------------------------------------------
+CYPE_BACSU     SITFLSEATETPVAKAYGAFEGIVLENRELQTAASTRSTRHIELEIPAGKTYKEGDHIGI
+C505_FUSOX     KGLLVEVSTPRKTSLRQDVEEALVVAEKTLTKSGPAK--KHIEIQLPSAMTYKAGDYLAI
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     ------------------------------------------------------------
+CP51_SCHPO     ------------------------------------------------------------
+CP51_HUMAN     ------------------------------------------------------------
+CPD6_HUMAN     ------------------------------------------------------------
+
+
+NOR2_CYLTO     ------------------------------------------------------------
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     ------------------------------------------------------------
+CPXP_BRAJA     ------------------------------------------------------------
+1oxa_          ------------------------------------------------------------
+1cpt_          ------------------------------------------------------------
+Y4VG_RHISN     ------------------------------------------------------------
+1phd_          ------------------------------------------------------------
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ------------------------------------------------------------
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ------------------------------------------------------------
+CYPE_BACSU     LPKNSRELVQRVLSRFGLQSNHVIKVSGSAHMAHLPMDRPIKVVDLLSSYVELQEPASRL
+C505_FUSOX     LPLNPKSTVARVFRRFSLAWDSFLKIQ-SEGPTTLPTNVAISAFDVFSAYVELSQPATKR
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     ------------------------------------------------------------
+CP51_SCHPO     ------------------------------------------------------------
+CP51_HUMAN     ------------------------------------------------------------
+CPD6_HUMAN     ------------------------------------------------------------
+
+
+NOR2_CYLTO     ------------------------------------------------------------
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     ------------------------------------------------------------
+CPXP_BRAJA     ------------------------------------------------------------
+1oxa_          ------------------------------------------------------------
+1cpt_          ------------------------------------------------------------
+Y4VG_RHISN     ------------------------------------------------------------
+1phd_          ------------------------------------------------------------
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ------------------------------------------------------------
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ------------------------------------------------------------
+CYPE_BACSU     QLRELASYTVCPPHQKELEQLVSDDGIYKEQVLAKRLTMLDFLEDYPACEMPFERFLALL
+C505_FUSOX     NILALAEATEDKDTIQELERLAGD--AYQAEISPKRVSVLDLLEKFPAVALPISSYLAML
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     ------------------------------------------------------------
+CP51_SCHPO     ------------------------------------------------------------
+CP51_HUMAN     ------------------------------------------------------------
+CPD6_HUMAN     ------------------------------------------------------------
+
+
+NOR2_CYLTO     ------------------------------------------------------------
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     ------------------------------------------------------------
+CPXP_BRAJA     ------------------------------------------------------------
+1oxa_          ------------------------------------------------------------
+1cpt_          ------------------------------------------------------------
+Y4VG_RHISN     ------------------------------------------------------------
+1phd_          ------------------------------------------------------------
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ------------------------------------------------------------
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ------------------------------------------------------------
+CYPE_BACSU     PSLKPRYYSISSSPKVHANIVSMTVGVVKASAWSGRGEYRGVASNYLAELNTGDAAACFI
+C505_FUSOX     PPMRVRQYSISSSPFADPSKLTLTYSLLDAPSLSGQGRHVGVATNFLSHLTAGDKLHVSV
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     ------------------------------------------------------------
+CP51_SCHPO     ------------------------------------------------------------
+CP51_HUMAN     ------------------------------------------------------------
+CPD6_HUMAN     ------------------------------------------------------------
+
+
+NOR2_CYLTO     ------------------------------------------------------------
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     ------------------------------------------------------------
+CPXP_BRAJA     ------------------------------------------------------------
+1oxa_          ------------------------------------------------------------
+1cpt_          ------------------------------------------------------------
+Y4VG_RHISN     ------------------------------------------------------------
+1phd_          ------------------------------------------------------------
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ------------------------------------------------------------
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ------------------------------------------------------------
+CYPE_BACSU     RTPQSGFQMPNDPE-TPMIMVGPGTGIAPFRGFIQARSVLKKEGSTLGEALLYFGCRRPD
+C505_FUSOX     RASSEAFHLPSDAEKTPIICVAAGTGLAPLRGFIQERAAMLAAGRTLAPALLFFGCRNPE
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     ------------------------------------------------------------
+CP51_SCHPO     ------------------------------------------------------------
+CP51_HUMAN     ------------------------------------------------------------
+CPD6_HUMAN     ------------------------------------------------------------
+
+
+NOR2_CYLTO     ------------------------------------------------------------
+1cl6_A         ------------------------------------------------------------
+C141_MYCTU     ------------------------------------------------------------
+CPXP_BRAJA     ------------------------------------------------------------
+1oxa_          ------------------------------------------------------------
+1cpt_          ------------------------------------------------------------
+Y4VG_RHISN     ------------------------------------------------------------
+1phd_          ------------------------------------------------------------
+1lgf_A         ------------------------------------------------------------
+YJIB_BACSU     ------------------------------------------------------------
+1f4t_A         ------------------------------------------------------------
+1pkf_A         ------------------------------------------------------------
+CYPE_BACSU     HDDLYREELDQAEQDGLVTIRRCYSRVENEPKG--YVQHLLKQDTQKLMTLIEKGAHIYV
+C505_FUSOX     IDDLYAEEFERWEKMGAVDVRRAYSRATDKSEGCKYVQDRVYHDRADVFKVWDQGAKVFI
+1e9x_A         ------------------------------------------------------------
+CP51_SORBI     ------------------------------------------------------------
+CP51_SCHPO     ------------------------------------------------------------
+CP51_HUMAN     ------------------------------------------------------------
+CPD6_HUMAN     ------------------------------------------------------------
+
+
+NOR2_CYLTO     --------------------------------------------------------
+1cl6_A         --------------------------------------------------------
+C141_MYCTU     --------------------------------------------------------
+CPXP_BRAJA     --------------------------------------------------------
+1oxa_          --------------------------------------------------------
+1cpt_          --------------------------------------------------------
+Y4VG_RHISN     --------------------------------------------------------
+1phd_          --------------------------------------------------------
+1lgf_A         --------------------------------------------------------
+YJIB_BACSU     --------------------------------------------------------
+1f4t_A         --------------------------------------------------------
+1pkf_A         --------------------------------------------------------
+CYPE_BACSU     CGDGSQMAPDVERT-LRLAYE-AE---KAASQEESAVWLQKLQDQRRYVKDVWTGM
+C505_FUSOX     CGS-REIGKAVEDVCVRLAIEKAQQNGRDVTEEMARAWFERSRNE-RFATDVFD--
+1e9x_A         --------------------------------------------------------
+CP51_SORBI     --------------------------------------------------------
+CP51_SCHPO     --------------------------------------------------------
+CP51_HUMAN     --------------------------------------------------------
+CPD6_HUMAN     --------------------------------------------------------
+
+

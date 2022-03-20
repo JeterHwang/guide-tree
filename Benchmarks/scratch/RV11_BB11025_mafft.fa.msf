@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11025_mafft.fa.msf  MSF: 132  Type: N  December 21, 2021 21:49  Check: 4382  ..
+
+ Name: 1tvx_A  Len:    132  Check: 6481  Weight: 1.00
+ Name: 1prt_F  Len:    132  Check: 8937  Weight: 1.00
+ Name: 1sap_   Len:    132  Check: 8469  Weight: 1.00
+ Name: 1lt5_D  Len:    132  Check:  495  Weight: 1.00
+
+//
+
+1tvx_A     LRCLCIKTTSGIHPKNIQSLEVIGKGTHCNQV----------------EVIATLK-DGRK
+1prt_F     LPTHLYKNF------TVQELALKLKGKN------------------QEFCLTAFM-SGRS
+1sap_      ------------------------------------------------MVKVKFKYKGEE
+1lt5_D     A------------PQTITELCSEYRNTQIYTINDKILSYTESMAGKREMVIITFK-SGET
+
+
+1tvx_A     I---CLDPDAPRIKKIVQKKLA--------------------------------------
+1prt_F     LVRACLS-DA-------GHEHDTW-FDTMLGFAISAYALKSRIALTVEDSPYPGTPGDLL
+1sap_      -----KEVDT-------SKIKKVWRVGKMVSFTYDDNGKTGRGAVSEKDA-----PKELL
+1lt5_D     -----FQVEVPGSQHIDSQKKAIERMKDTLRITYLTETKIDKLCVWNNKT-----PNSI-
+
+
+1tvx_A     ----------GD
+1prt_F     ELQICPLNGYCE
+1sap_      DM-LARAEREKK
+1lt5_D     -----AAISMKN
+
+

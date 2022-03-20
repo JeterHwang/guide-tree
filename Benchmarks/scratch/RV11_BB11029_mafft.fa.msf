@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11029_mafft.fa.msf  MSF: 157  Type: N  December 21, 2021 21:49  Check: 2215  ..
+
+ Name: 1ycc_   Len:    157  Check: 6555  Weight: 1.00
+ Name: 1cno_A  Len:    157  Check: 6003  Weight: 1.00
+ Name: 1a56_   Len:    157  Check: 6052  Weight: 1.00
+ Name: 1h31_B  Len:    157  Check: 3605  Weight: 1.00
+
+//
+
+1ycc_      ------------------------GSAKKGATLF-------KTRCLQCHTVEKGG----P
+1cno_A     A-----------------------GDIEAGK--------AKAAVCAACHGQNGI--SQVP
+1a56_      -----------------------------------DADLAKKNNCIACHQVETK------
+1h31_B     AEVAPGDVAIDGQGHVARPLTDAPGDPVEGRRLMTDRSVG---NCIACHEVTEMADAQFP
+
+
+1ycc_      HKVGPNLHGIFGRHSGQAEGYSYTDANIK--KNVLW---------------DENNMSE--
+1cno_A     --IYPNLAGQKEQYLVA-ALKAYKAGQRQGGQAPVMQGQA-----TALSDADIANLAAY-
+1a56_      -VVGPALKDIAAKYADKDDAATYLAGKIKGGSSGVW-GQIPMPPNVNVSDADAKALADWI
+1h31_B     GTVGPSLDGVAARYPEA------MIRGILVNSKNVF-PETVMPAYYRVEGFNRPGIA---
+
+
+1ycc_      YLTNPKKYIPGTKMAFGGLKKEKDRNDLITYLKKACE
+1cno_A     YASNPAAA-----------------------------
+1a56_      LTLK---------------------------------
+1h31_B     FTSKPIEGEIRPLMTAGQI------EDVVAYLMTLTQ
+
+

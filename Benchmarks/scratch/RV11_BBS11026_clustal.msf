@@ -1,0 +1,39 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 103  Type: P  December 21, 2021 20:29  Check: 524  ..
+
+ Name: 1ubi_   Len:    103  Check: 3447  Weight: -1.00
+ Name: 1gua_B  Len:    103  Check: 9175  Weight: -1.00
+ Name: 1dgj_A  Len:    103  Check: 1125  Weight: -1.00
+ Name: 1awd_   Len:    103  Check: 2723  Weight: -1.00
+ Name: 1i7h_A  Len:    103  Check: 1728  Weight: -1.00
+ Name: 1jq4_A  Len:    103  Check: 1224  Weight: -1.00
+ Name: 2pia_   Len:    103  Check: 1102  Weight: -1.00
+
+//
+
+        1                                                   50
+1ubi_   ~~~MQIFVKT LTGKTITLEV EPSDTIENVK AKIQDK.EGI PPD.......
+1gua_B  ~~~NTIRVFL PNKQRTVVNV RNGMS.LHDC LMKALKVRGL QPECCA....
+1dgj_A  ~~~~~TKTLI VNGMARRLLV SPN.DLLVDV LRSQLQLTSV KVGCGK.GQC
+1awd_   ~~~~YKVTLK TPSGEETIEC PEDTYILDAA EEAGLD...L PYSCRA.GAC
+1i7h_A  PKIVILPHQD LCPDGAVLEA NSGETILDAA LRNGIE...I EHACEKSCAC
+1jq4_A  ~~~HTITAVT EDGESLRFEC RSDEDVITAA LRQNIF...L MSSCRE.GGC
+2pia_   ~~~~TPFTVR LSRSGTSFEI PANRSILEVL RDANVR...V PSSCES.GTC
+
+        51                                                 100
+1ubi_   .......... ...QQRLIFA GKQ....... LEDGRTLSDY NIQKESTLHL
+1gua_B  ..VFRLLHEH K......... .GKKARLDWN TDAASLIG.. .....EELQV
+1dgj_A  GACTVILDGK VVRA..CIIK MSRVAE.... .......... .....NASVT
+1awd_   SSCAGKVESG EVDQSDQSF. .LDDAQM... .GKGFVLTCV AYPTSDVTIL
+1i7h_A  TTCHCIVREG FDSLPESSEQ EDDMLDKAWG LEPESRLSCQ ARVTDEDLVV
+1jq4_A  ATCKALCSEG DYDLKGCSVQ ALPPEEE... .EEGLVLLCR TYPKTDLEIE
+2pia_   GSCKTALCSG EADHRDMVL. .RDDEKG... .T..QIMVCV SRAKSAELVL
+
+        101   
+1ubi_   VL~
+1gua_B  DF~
+1dgj_A  TLE
+1awd_   T~~
+1i7h_A  EI~
+1jq4_A  L~~
+2pia_   DL~

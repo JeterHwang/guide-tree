@@ -1,0 +1,33 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11035_kalign.msf  MSF: 152  Type: N  December 21, 2021 20:30  Check: 8546  ..
+
+ Name: 1dvh_   Len:    152  Check: 2152  Weight: 1.00
+ Name: 1cno_A  Len:    152  Check: 4118  Weight: 1.00
+ Name: 1fj0_A  Len:    152  Check:   38  Weight: 1.00
+ Name: 1b7v_A  Len:    152  Check: 8633  Weight: 1.00
+ Name: 1h31_B  Len:    152  Check: 3605  Weight: 1.00
+
+//
+
+1dvh_      ------------------------ADG-A--ALYK-----SCIGCHGADGSKAA--MGSA
+1cno_A     -----------------------AGDIEAGKAKAA-----VCAACHGQNGIS------QV
+1fj0_A     ------------------------XDAKAGEAVFK-----QCMTCHRADKNMVG--PALA
+1b7v_A     ------------------------VDAEA--VVQQ-----KCISCHGGDLTGA-----SA
+1h31_B     AEVAPGDVAIDGQGHVARPLTDAPGDPVEGRRLMTDRSVGNCIACHEVTEMADAQFPGTV
+
+
+1dvh_      KPV-KGQGA----EELYKKMKGYADGSY-GGERKA-------MMTNA-VKKYSDEELKAL
+1cno_A     PIYPNLAGQK--EQYLVAALKAYKAGQRQGGQAPV-------MQGQA-TALSDADIANLA
+1fj0_A     GVVGRKAGT---AAGFTYSPLNHNSGEA-GLVWTADNIVPYLADPNAFLKKFLTEKGK--
+1b7v_A     PAI-DKAGANYSEEEILDIILNGQGGMP-GGIAKG-------AEAEA-VAAWLAEKK---
+1h31_B     GPSLDGVAARYPEAMIRGILVNSKNVFP-ETVMPA-----Y-YRVEGFNRPGIAFTSKPI
+
+
+1dvh_      ADYMSKL-------------------------
+1cno_A     AYYASNPAA-----------------------
+1fj0_A     ADQAVGVTKMTFKLANEQQRKDVVAYLATLK-
+1b7v_A     --------------------------------
+1h31_B     EGEIRPLMTAG-------QIEDVVAYLMTLTQ
+
+

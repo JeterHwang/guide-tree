@@ -1,0 +1,59 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11009_mafft.fa.msf  MSF: 450  Type: N  December 21, 2021 21:48  Check: 4924  ..
+
+ Name: 1a70_   Len:    450  Check: 5980  Weight: 1.00
+ Name: 1i7h_A  Len:    450  Check: 5909  Weight: 1.00
+ Name: 1krh_A  Len:    450  Check: 3124  Weight: 1.00
+ Name: 2pia_   Len:    450  Check: 9911  Weight: 1.00
+
+//
+
+1a70_      AAYKVTLVTPTGNVEFQCPD-------DVYIL-DAAEEEGIDLPYSC-RAGSCSSCAGKL
+1i7h_A     PK---IVILPHQDL---CPDGAVLEANSGETILDAALRNGIEIEHACEKSCACTTCHCIV
+1krh_A     SNHQVALQFEDGVTRFICIA-------QGETLSDAAYRQQINIPMDC-REGECGTCRAFC
+2pia_      TT----------------------------------------------------------
+
+
+1a70_      KTGSLNQDDQSFLDD----DQIDEGW------VLTCAAYPVSDVTIETHKKEELTA----
+1i7h_A     REGFDSLPESSEQED----DMLDKAWGLEPESRLSCQARVTDEDLV--------------
+1krh_A     ESGNYDMPEDNYIEDALTPEEAQQGY------VLACQCRPTSDAVFQIQASSEVCKTKIH
+2pia_      ---------------------------------------PQEDGFLRLKIASK-------
+
+
+1a70_      ------------------------------------------------------------
+1i7h_A     ---------------------------------------VEIP-----------------
+1krh_A     HFEGTLARVENLSDSTITFDIQLDDGQPDIHFLAGQYVNVTLP-GTTETRSYSFSSQPGN
+2pia_      ---------EKIARDIWSFELTDPQGAPLPPFEAGANLTVAVPNGSRRTYSLCNDSQERN
+
+
+1a70_      ------------------------------------------------------------
+1i7h_A     RYTI--------------------------------------------------------
+1krh_A     RLTGFVVRNVPQGKMSEYLSVQAKAGDKMSFTGPFGSFYLRDVKRPVLMLAGGTGIAPFL
+2pia_      RYVIAVKRDSNGRGGSISFIDDTSEGDAVEVSLPRNEFPLDKRAKSFILVAGGIGITPML
+
+
+1a70_      ------------------------------------------------------------
+1i7h_A     ------------------------------------------------------------
+1krh_A     SMLQVLEQKGSEHPVRLVFGVTQDCDLVALEQLDALQQKLPWFEYRTVVAHAESQHERKG
+2pia_      SMARQLRAEGLR-SFRLYY-LTRDPEGTAF--FDELTSD----EWRSDV----KIHHDHG
+
+
+1a70_      ------------------------------------------------------------
+1i7h_A     ----------------------------------------------------------NH
+1krh_A     YVTGHIEYDWL----NGGEVDVYLCGPVPMVEAVRSWLDTQGIQPANFL-FEKFSA----
+2pia_      DPTKAFDF-WSVFEKSKPAQHVYCCGPQALMDTVR---DMTGHWPSGTVHFESFGATNTN
+
+
+1a70_      ------------------------------------------------------------
+1i7h_A     ARE---------------------------------------------------------
+1krh_A     ------------------------------------------------------------
+2pia_      ARENTPFTVRLSRSGTSFEIPANRSILEVLRDANVRVPSSCESGTCGSCKTALCSGEADH
+
+
+1a70_      ------------------------------
+1i7h_A     ------------------------------
+1krh_A     -----------------------------N
+2pia_      RDMVLRDDEKGTQIMVCVSRAKSAELVLDL
+
+

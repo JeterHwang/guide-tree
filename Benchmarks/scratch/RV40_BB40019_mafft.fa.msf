@@ -1,0 +1,425 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40019_mafft.fa.msf  MSF: 1989  Type: N  December 21, 2021 21:48  Check: 4149  ..
+
+ Name: 1cbg_       Len:   1989  Check: 2055  Weight: 1.00
+ Name: 1bga_A      Len:   1989  Check: 8885  Weight: 1.00
+ Name: 1pbg_A      Len:   1989  Check: 6117  Weight: 1.00
+ Name: BG1_ARATH   Len:   1989  Check:  499  Weight: 1.00
+ Name: BGLC_MAIZE  Len:   1989  Check: 7942  Weight: 1.00
+ Name: MYRO_ARATH  Len:   1989  Check: 4739  Weight: 1.00
+ Name: BGLB_MICBI  Len:   1989  Check: 2948  Weight: 1.00
+ Name: LPH_HUMAN   Len:   1989  Check: 5075  Weight: 1.00
+ Name: BGL2_BACSU  Len:   1989  Check: 5687  Weight: 1.00
+ Name: BGL1_BACSU  Len:   1989  Check:  202  Weight: 1.00
+
+//
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         M-----------------------------------------------------------
+BG1_ARATH      MV----------------------------------------------------------
+BGLC_MAIZE     MAPLLAAAMNHAAAHPGLRSHLVGPNN---------------------------------
+MYRO_ARATH     MKLLMLAFVFLLALATCKGDEFVCEEN---------------------------------
+BGLB_MICBI     MTE---------------------------------------------------------
+LPH_HUMAN      MELSWHVVFIALLSFSCWGSDWESDRNFISTAGPLTNDLLHNLSGLLGDQSSNFVAGDKD
+BGL2_BACSU     MI----------------------------------------------------------
+BGL1_BACSU     M-----------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      --------------RFEKVH----------------LVLG--------------------
+BGLC_MAIZE     -------------ESFSRHH----------------LPSSSPQ-----------------
+MYRO_ARATH     -------------EPFT-------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      MYVCHQPLPTFLPEYFSSLHASQITHYKVFLSWAQLLPAGSTQNPDEKTVQCYRRLLKAL
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      KTARLQPMVILHHQTLPASTLRRTEAFADLFADYATFAFHSFGDLVGIWFTFSDLEEVIK
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      ELPHQESRASQLQTLSDAHRKAYEIYHESYAFQGGKLSVVLRAEDIPELLLEPPISALAQ
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      DTVDFLSLDLSYECQNEASLRQKLSKLQTIEPKVKVFIFNLKLPDCPSTMKNPASLLFSL
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      -------------------------------LALVLT-----------------------
+BGLC_MAIZE     ------------------------SSKR--RCNLSFT-----------------------
+MYRO_ARATH     -------------------------------CNQT-------------------------
+BGLB_MICBI     -------------------------------SAMT-------------------------
+LPH_HUMAN      FEAINKDQVLTIGFDINEFLSCSSSSKKSMSCSLTGSLALQPDQQQDHETTDSSPASAYQ
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ---------SRAGR------------------------------GRG-------------
+LPH_HUMAN      RVWEAFANQSRAERDAFLQDTFPEGFLWGASTGAFNVEGGWAEGGRGVSIWDPRRPLNTT
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      EGQATLEVASDSYHKVASDVALLCGLRAQVYKFSISWSRIFPMGHGSSPSLPGVAYYNKL
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      IDRLQDAGIEPMATLFHWDLPQALQDHGGWQNESVVDAFLDYAAFCFSTFGDRVKLWVTF
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      HEPWVMSYAGYGTGQHPPGISDPGVASFKVAHLVLKAHARTWHHYNSHHRPQQQGHVGIV
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      LNSDWAEPLSPERPEDLRASERFLHFMLGWFAHPVFVDGDYPATLRTQIQQMNRQCSHPV
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      AQLPEFTEAEKQLLKGSADFLGLSHYTSRLISNAPQNTCIPSYDTIGGFSQHVNHVWPQT
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      SSSWIRVVPWGIRRLLQFVSLEYTRGKVPIYLAGNGMPIGESENLFDDSLRVDYFNQYIN
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      EVLKAIKEDSVDVRSYIARSLIDGFEGPSGYSQRFGLHHVNFSDSSKSRTPRKSAYFFTS
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      IIEKNGFLTKGAKRLLPPNTVNLPSKVRAFTFPSEVPSKAKVVWEKFSSQPKFERDLFYH
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      GTFRDDFLWGVSSSAYQIEGAWDADGKGPSIWDNFTHTPGSNVKDNATGDIACDSYHQLD
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      ADLNMLRALKVKAYRFSISWSRIFPTGRNSSINSHGVDYYNRLINGLVASNIFPMVTLFH
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      WDLPQALQDIGGWENPALIDLFDSYADFCFQTFGDRVKFWMTFNEPMYLAWLGYGSGEFP
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      PGVKDPGWAPYRIAHTVIKAHARVYHTYDEKYRQEQKGVISLSLSTHWAEPKSPGVPRDV
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      EAADRMLQFSLGWFAHPIFRNGDYPDTMKWKVGNRSELQHLATSRLPSFTEEEKRFIRAT
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     AD----------------------------------------------------------
+LPH_HUMAN      ADVFCLNTYYSRIVQHKTPRLNPPSYEDDQEMAEEEDPSWPSTAMNRAAPWGTRRLLNWI
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ------------------------------------------------------------
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ------------------------------------------------------------
+BGLC_MAIZE     ------------------------------------------------------------
+MYRO_ARATH     ------------------------------------------------------------
+BGLB_MICBI     ------------------------------------------------------------
+LPH_HUMAN      KEEYGDIPIYITENGVGLTNPNTEDTDRIFYHKTYINEALKAYRLDGIDLRGYVAWSLMD
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ----------------------------------------FKPLPISFDDFSDLNRSCFA
+1bga_A         ------------------------------------------------------TIFQFP
+1pbg_A         -------------------------------------------------------TKTLP
+BG1_ARATH      --------------------------LVGAPTKAQGPVC-GAGLP------DKFSRLNFP
+BGLC_MAIZE     --------------------------TRSARVGSQNGVQMLSPSEIP-------QRDWFP
+MYRO_ARATH     ---------------------------------------------------KLFNSGNFE
+BGLB_MICBI     --------------------------LVAAVVQGHAAAS------------DAAGDLSFP
+LPH_HUMAN      NFEWLNGYTVKFGLYHVDFNNTNRPRTARASARYYTEVITNNGMPLARE--DEFLYGRFP
+BGL2_BACSU     ----------------------------------------------------HQHPESFP
+BGL1_BACSU     ----------------------------------------------------SSNEKRFP
+
+
+1cbg_          PGFVFGTASSAFQYEGAAFEDGKGPSIWDTFTHKYPEK-IKDRTNGDV-----AIDEYHR
+1bga_A         QDFMWGTATAAYQIEGAYQEDGRGLSIWDTFAHT-PGK-VFNGDNGNV-----ACDSYHR
+1pbg_A         KDFIFGGATAAYQAEGATHTDGKGPVAWDKYLED------NYWYTAEP-----ASDFYHK
+BG1_ARATH      EGFIWGTATAAFQVEGAVNEGCRGPSMWDTFTKKFPHR--CENHNADV-----AVDFYHR
+BGLC_MAIZE     SDFTFGAATSAYQIEGAWNEDGKGESNWDHFCHNHPER-ILDGSNSDI-----GANSYHM
+MYRO_ARATH     KGFIFGVASSAYQVEGGR---GRGLNVWDSFTHRFPEKGGADLGNGDT-----TCDSYTL
+BGLB_MICBI     DGFIWGAATAAYQIEGAWREDGRGL--WDVFSHT-PGK-VASGHTGDI-----ACDHYHR
+LPH_HUMAN      EGFIWSAASAAYQIEGAWRADGKGLSIWDTFSHT-PLR-VENDAIGDV-----ACDSYHK
+BGL2_BACSU     KHFLWGSASAAYQIEGAWNEDGKGPSVWDVFTKI-PGK-TFKGTNGEI-----AVDHYHR
+BGL1_BACSU     EGFLWGGAVAANQVEGAYNEGGKGLSTADVSPNG-IMS-PFDESMTSLNLYHNGIDFYHR
+
+
+1cbg_          YKEDIGIMKDMNLDAYRFSISWPRVLPKGKLSGGVNREGINYYNNLINEVLANGMQPYVT
+1bga_A         YEEDIRLMKELGIRTYRFSVSWPRIFPNG--DGEVNQEGLDYYHRVVDLLNDNGIEPFCT
+1pbg_A         YPVDLELAEEYGVNGIRISIAWSRIFPTG--YGEVNEKGVEFYHKLFAECHKRHVEPFVT
+BG1_ARATH      YKEDIQLMKDLNTDAFRLSIAWPRIFPHGRMSKGINKVGVQFYHDLIDELLKNNIIPLVT
+BGLC_MAIZE     YKTDVRLLKEMGMDAYRFSISWPRILPKGTKEGGINPDGIKYYRNLINLLLENGIEPYVT
+MYRO_ARATH     WQKDIDVMDELNSTGYRFSIAWSRLLPKGKRSRGVNPGAIKYYNGLIDGLVAKNMTPFVT
+BGLB_MICBI     YADDVRLMAGLGDRVYRFSVAWPRIVPDG--SGPVNPAGLDFYDRLVDELLGHGITPYPT
+LPH_HUMAN      IAEDLVTLQNLGVSHYRFSISWSRILPDGT-TRYINEAGLNYYVRLIDTLLAASIQPQVT
+BGL2_BACSU     FKEDVALMAEMGLKAYRFSVSWPRVFPKG--KGEINEAGLAFYDSLIDELLSHHIEPVLT
+BGL1_BACSU     YKEDIALFAEMGFKAFRTSIAWTRIFPNGD-EEEPNEEGLRFYDDLFDELLKHHIEPVVT
+
+
+1cbg_          LFHWDVPQALEDEYRGFLG---RNIVDDFRDYAELCFKEFGDRVKHWITLNEPWGVSMNA
+1bga_A         LYHWDLPQALQDA-GGWGN---RRTIQAFVQFAETMFREFHGKIQHWLTFNEPWCIAFLS
+1pbg_A         LHHFDTPEALHSN-GDFLN---RENIEHFIDYAAFCFEEFPE-VNYWTTFNEIGPIGDGQ
+BG1_ARATH      VFHWDTPQDLEDEYGGFLS---GRIVQDFTEYANFTFHEYGHKVKHWITFNEPWVFSRAG
+BGLC_MAIZE     IFHWDVPQALEEKYGGFLDKSHKSIVEDYTYFAKVCFDNFGDKVKNWLTFNEPQTFTSFS
+MYRO_ARATH     LFHWDLPQTLQDEYNGFLN---KTIVDDFKDYADLCFELFGDRVKNWITINQLYTVPTRG
+BGLB_MICBI     LYHWDLPQTLEDR-GGWAA---RDTAYRFAEYALAVHRRLGDRVRCWITLNEPWVAAFLA
+LPH_HUMAN      IYHWDLPQTLQD-VGGWEN---ETIVQRFKEYADVLFQRLGDKVKFWITLNEPFVIAYQG
+BGL2_BACSU     LYHWDLPQALMDEYGGFES---RNIIEDFNHYCITLYKRFGDRVKYWVTLNEQNYNFNHG
+BGL1_BACSU     ISHYEMPLGLVKNYGGWKN---RKVIEFYERYAKTVFKRYQHKVKYWMTFNEINVVLHAP
+
+
+1cbg_          YAYG--TFAPGRCSDWL---KLNCTGGDSGREPYLAAHYQLLAHAAAARLYKTKYQASQN
+1bga_A         NMLG--VHAPGL---------------TNLQTAIDVGHHLLVAHGLSVRRFRELGT---S
+1pbg_A         YLVG--KFPPGIK--------------YDLAKVFQSHHNMMVSHARAVKLYKDKGY---K
+BG1_ARATH      YDNG--KKAPGRCSPYIPGYGQHCQDGRSGYEAYQVSHNLLLSHAYAVDAFRNCKQCA-G
+BGLC_MAIZE     YGTG--VFAPGRCSPGL---DCAYPTGNSLVEPYTAGHNILLAHAEAVDLYNKHYKRDDT
+MYRO_ARATH     YALG--TDAPGRCSPKI---DVRCPGGNSSTEPYIVAHNQLLAHAAAVDVYRTKYKDDQK
+BGLB_MICBI     THRG----APGA---------------ADVPRFRAV-HHLLLGHGLGL-RLRSAG----A
+LPH_HUMAN      YGYG--TAAPG-------------VSNRPGTAPYIVGHNLIKAHAEAWHLYNDVYRASQG
+BGL2_BACSU     FITA--MHPPGV---------------KDRKRFYEANHIAFLANAKAIESFREYVP---E
+BGL1_BACSU     FTGGGLVFEEGE---------------NKLNAMYQAAHHQFVASALAVKAGHDIIP---D
+
+
+1cbg_          GIIGITLVSHWFEPASKE-KADVDAAKRGLDFMLGWFMHPLTK-GRYPESMRYLVR----
+1bga_A         GQIGIAPNVSWAVPYSTS-EEDKAACARTISLHSDWFLQPIYQ-GSYPQFLVDWFAEQ--
+1pbg_A         GEIGVVHALPTKYPYDPENPADVRAAELEDIIHNKFILDATYL-GHYSDKTMEGVNHI-L
+BG1_ARATH      GKIGIAHSPAWFEPQDLE-HVG-GSIERVLDFILGWHLAPTTY-GDYPQSMKDRVG----
+BGLC_MAIZE     R-IGLAFDVMGRVPYGTS-FLDKQAEERSWDINLGWFLEPVVR-GDYPFSMRSLAR----
+MYRO_ARATH     GMIGPVMITRWFLPFDHS-QESKDATERAKIFFHGWFMGPLTE-GKYPDIMREYVG----
+BGLB_MICBI     GQLGLTLSLSPVI--EAR-PGVRGGGRRVDALANRQFLDPALR-GRYPEEVLKIMAGH--
+LPH_HUMAN      GVISITISSDWAEPRDPSNQEDVEAARRYVQFMGGWFAHPIFKNGDYNEVMKTRIRDRSL
+BGL2_BACSU     GKIGPSFAYSPAYPLSSH-PEDILAFENAEEFTNNWWLDMYCW-GTYPQIPFRCLEKQ--
+BGL1_BACSU     SKIGCMIAATTTYPMTSK-PEDVFAAMENERKT-LFFSDVQAR-GAYPGYMKRYLAEN--
+
+
+1cbg_          ------KRLPKFSTEESKELTG---SFDFLGLNYYSSY--YAAKAPRI-PNA--RPAIQT
+1bga_A         ------GATVPIQDGDMDIIGE---PIDMIGINYYSMS--VNRFNP--------EAGFLQ
+1pbg_A         AEN---GGELDLRDEDFQALDAAKDLNDFLGINYYMSD--WMQAFDGE------------
+BG1_ARATH      ------HRLPKFTEAEKKLLKG---STDYVGMNYYTSV--FAKEISPD-PKS---PSWTT
+BGLC_MAIZE     ------ERLPFFKDEQKEKLAG---SYNMLGLNYYTSR--FSKNIDIS-PNY--SPVLNT
+MYRO_ARATH     ------DRLPEFSETEAALVKG---SYDFLGLNYYVTQ--YAQNNQTIVPSD--VHTALM
+BGLB_MICBI     -------ARLGHPGRDLETIHQ---PVDLLGVNYYSHVRLAAEGEP--------ANRLPG
+LPH_HUMAN      AAGLNKSRLPEFTESEKRRING---TYDFFGFNHYTTV--LAYNLNY--ATA--ISSFDA
+BGL2_BACSU     ------GWAPTIEAGDMDLLAK--GKPDFVGVNYYQTI--TYERNPLD-GVSEGKMNTTG
+BGL1_BACSU     ------NIEIEMAEGDEELLKE--HTVDYIGFSYYMSM--AASTDP----------EELA
+
+
+1cbg_          DSLINATFEHN-----GKPLGPMAASSWLCIYP-QGIRKLLLYVKNHYNN-PVIYITENG
+1bga_A         SEEINMG--------------LPVTDIGWPVES-RGLYEVLHYLQK-YGN-IDIYITENG
+1pbg_A         TEIIKYQIKGV-----GRRV-APDYVPRWIIYP-EGLYDQIMRVKNDYPNYKKIYITENG
+BG1_ARATH      DSLVDWDSKSV----DGYKIGSKPFNGKLDVYS-KGLRYLLKYIKDNYGD-PEVIIAENG
+BGLC_MAIZE     DDAY-ASQEVNG--PDGKPIGPPMGNPWIYMYP-EGLKDLLMIMKNKYGN-PPIYITENG
+MYRO_ARATH     DSRTTLTSKNA----TGHAPGPPF-NAASYYYP-KGIYYVMDYFKTTYGD-PLIYVTENG
+BGLB_MICBI     SEGIRFE--------------RPTAVTAWPGDRPDGLRTLLLRLSRDYPG-VGLIITENG
+LPH_HUMAN      DRGVASIADRS---------WPDSGSFWLKMTP-FGFRRILNWLKEEYND-PPIYVTENG
+BGL2_BACSU     QKGTNQETGIPGVFKTKKNPHLTTSNWDWTIDP-IGLRIGLRRITSRY-Q-LPVFITENG
+BGL1_BACSU     KSGGNLLGGV-------KNPYLKSSEWGWQIDP-KGLRITLNTLYDRY-Q-KPLFIVENG
+
+
+1cbg_          RNEFN--DPTLSLQESLLDTPRIDYYYRHLYYVLTAIGD-GVNVKGYFAWSLFDNMEWDS
+1bga_A         ACIND--EV---VNGKVQDDRRISYMQQHLVQVHRTIHD-GLHVKGYMAWSLLDNFEWAE
+1pbg_A         LGYKD--EF---VDNTVYDDGRIDYVKQHLEVLSDAIAD-GANVKGYFIWSLMDVFSWSN
+BG1_ARATH      YGEDL-GEKHNDVNFGTQDHNRKYYIQRHLLSMHDAICKDKVNVTGYFVWSLMDNFEWQD
+BGLC_MAIZE     IGDVDTKETPLPMEAALNDYKRLDYIQRHIATLKESIDL-GSNVQGYFAWSLLDNFEWFA
+MYRO_ARATH     FSTPG--DE--DFEKATADYKRIDYLCSHLCFLSKVIKEKNVNVKGYFAWSLGDNYEFCN
+BGLB_MICBI     AAFDD--RA---DGDRVHDPERIRYLTATLRAVHDAIMA-GADLRGYFVWSVLDNFEWAY
+LPH_HUMAN      VSQRE--ET--DLN----DTARIYYLRTYINEALKAVQD-KVDLRGYTVWSAMDNFEWAT
+BGL2_BACSU     LGEFD--KV---EDGTVQDDYRIDYLRSHLEQCRQAISD-GVDLIGYCSWSFTDLLSWLN
+BGL1_BACSU     LGAVD--KV--EEDGTIQDDYRINYLRDHLIEAREAIAD-GVELIGYTSWGPIDLVSAST
+
+
+1cbg_          G-YTVRFGLVFVDFKN----NLKRHPKLSAHWFKSFLKK---------------------
+1bga_A         G-YNMRFGMIHVDFR-----TQVRTPKESYYWYRNVVSNNW-------------------
+1pbg_A         G-YEKRYGLFYVDFD-----TQERYPKKSAHWYKKLAETQVIE-----------------
+BG1_ARATH      G-YKARFGLYYIDFQN----NLTRHQKVSGKWYSEFLKP---------------------
+BGLC_MAIZE     G-FTERYGIVYVDRNN----NCTRYMKESAKWLKEFNTA---------------------
+MYRO_ARATH     G-FTVRFGLSYVDFANI---TGDRDLKASGKWFQKFINVT--------------------
+BGLB_MICBI     G-YHKR-GIVYVDYT-----TMRRIPRESALWYRDVVRRNG-------------------
+LPH_HUMAN      G-FSERFGLHFVNYSDP---SLPRIPKASAKFYASVVRCNGFPDPATGPHACLHQPDAGP
+BGL2_BACSU     G-YQKRYGFVYVNRDEESTSDLKRLKKKSFYWYQDVIKTNG-------------------
+BGL1_BACSU     AEMKKRYGFIYVDRDNEGNGTFNRIKKKSFNWYQQVIATNG-------------------
+
+
+1cbg_          ------------------------------------------------------------
+1bga_A         ----------------------------------------------------------LE
+1pbg_A         ------------------------------------------------------------
+BG1_ARATH      ----------------------------------------------------QFPTSKLR
+BGLC_MAIZE     ----------------------------------------------------KKPSKKIL
+MYRO_ARATH     -------------------DEDSTNQDLLRSSV-----------------SSKNRDRKSL
+BGLB_MICBI     ----------------------------------------------------------LR
+LPH_HUMAN      TISPVRQEEVQFLGLMLGTTEAQTALYVLFSLVLLGVCGLAFLSYKYCKRSKQGKTQRSQ
+BGL2_BACSU     ------------------------------------------------------------
+BGL1_BACSU     ------------------------------------------------------------
+
+
+1cbg_          ---------
+1bga_A         TRR------
+1pbg_A         ---------
+BG1_ARATH      EEL------
+BGLC_MAIZE     TPA------
+MYRO_ARATH     ADA------
+BGLB_MICBI     NGE------
+LPH_HUMAN      QELSPVSSF
+BGL2_BACSU     ESL------
+BGL1_BACSU     ESL------
+
+

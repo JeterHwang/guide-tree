@@ -1,0 +1,863 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40042_mafft.fa.msf  MSF: 1448  Type: N  December 21, 2021 21:48  Check: 6305  ..
+
+ Name: Y432_LISMO  Len:   1448  Check: 6066  Weight: 1.00
+ Name: FOX2_CANTR  Len:   1448  Check: 3700  Weight: 1.00
+ Name: LVR_LEIAQ   Len:   1448  Check: 8325  Weight: 1.00
+ Name: 2hsd_A      Len:   1448  Check: 7023  Weight: 1.00
+ Name: FABG_CUPLA  Len:   1448  Check: 5339  Weight: 1.00
+ Name: FABG_ARATH  Len:   1448  Check:  586  Weight: 1.00
+ Name: Y325_THEMA  Len:   1448  Check: 8559  Weight: 1.00
+ Name: LIMC_RHOER  Len:   1448  Check: 5121  Weight: 1.00
+ Name: YUSZ_BACSU  Len:   1448  Check: 8324  Weight: 1.00
+ Name: 1fds_       Len:   1448  Check: 4570  Weight: 1.00
+ Name: FABG_HAEIN  Len:   1448  Check: 4159  Weight: 1.00
+ Name: HCDR_XANP2  Len:   1448  Check:   23  Weight: 1.00
+ Name: DHS1_MOUSE  Len:   1448  Check: 2359  Weight: 1.00
+ Name: 1cyd_A      Len:   1448  Check: 4407  Weight: 1.00
+ Name: FABG_AQUAE  Len:   1448  Check:  338  Weight: 1.00
+ Name: 1o5i_A      Len:   1448  Check: 4566  Weight: 1.00
+ Name: 1ae1_A      Len:   1448  Check:  767  Weight: 1.00
+ Name: BDHA_ALCEU  Len:   1448  Check:  692  Weight: 1.00
+ Name: 1h5q_A      Len:   1448  Check: 4660  Weight: 1.00
+ Name: FABG_MYCAV  Len:   1448  Check: 4406  Weight: 1.00
+ Name: PHAB_ACISP  Len:   1448  Check: 8740  Weight: 1.00
+ Name: DHB8_HUMAN  Len:   1448  Check: 3482  Weight: 1.00
+ Name: 1doh_A      Len:   1448  Check: 9374  Weight: 1.00
+ Name: Y4VI_RHISN  Len:   1448  Check:   46  Weight: 1.00
+ Name: 1a4u_A      Len:   1448  Check: 8331  Weight: 1.00
+ Name: ADHR_DROAM  Len:   1448  Check: 1627  Weight: 1.00
+ Name: 1gz6_A      Len:   1448  Check: 8533  Weight: 1.00
+ Name: BDHA_RHIME  Len:   1448  Check: 7485  Weight: 1.00
+ Name: YUXG_BACSU  Len:   1448  Check: 8818  Weight: 1.00
+ Name: 1eny_       Len:   1448  Check: 8822  Weight: 1.00
+ Name: FABI_BUCAP  Len:   1448  Check: 7057  Weight: 1.00
+
+//
+
+Y432_LISMO     M-----------------------------------------------------------
+FOX2_CANTR     M-----------------------------------------------------------
+LVR_LEIAQ      MTA---------------------------------------------------------
+2hsd_A         N-----------------------------------------------------------
+FABG_CUPLA     MATAT-----AAG-CSGAVAL---------------------------KSLGGRR-----
+FABG_ARATH     MAAAV-----AAPRLISLKAV---------------------------AKLGFRE-----
+Y325_THEMA     MN----------------------------------------------------------
+LIMC_RHOER     M-----------------------------------------------------------
+YUSZ_BACSU     M-----------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     M-----------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     M-----------------------------------------------------------
+1cyd_A         L-----------------------------------------------------------
+FABG_AQUAE     M-----------------------------------------------------------
+1o5i_A         G-----------------------------------------------------------
+1ae1_A         R-----------------------------------------------------------
+BDHA_ALCEU     ML----------------------------------------------------------
+1h5q_A         PGF---------------------------------------------------------
+FABG_MYCAV     M-----------------------------------------------------------
+PHAB_ACISP     M-----------------------------------------------------------
+DHB8_HUMAN     M-----------------------------------------------------------
+1doh_A         SKY---------------------------------------------------------
+Y4VI_RHISN     MDD---------------------------------------------------------
+1a4u_A         M-----------------------------------------------------------
+ADHR_DROAM     M-----------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     MT----------------------------------------------------------
+YUXG_BACSU     MVKHIWDSERAAQLPKGVEELVYRSNLIGSDRTVCNWGGGNTSMKTTEKDFRGREIEVMW
+1eny_          A-----------------------------------------------------------
+FABI_BUCAP     M-----------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     ------------------------------------------------------------
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ------------------------------------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     VKGSGSDLATMKAHNFSGLKLDDIRPLIKRDQMPDEEMVDYLSHCMIDSKHPRPSIETLL
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     ------------------------------------------------------------
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ------------------------------------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     HAFLPYKHVDHTHPDAIISICCADNGKQIAEDIYGNRFVWVPYVRPGFTLSKMIAEGVAN
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     ------------------------------------------------------------
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ----------------------------LCIPQQL-------------------------
+FABG_ARATH     ----------------------------ISQIRQL-------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ------------------------------------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     NPHAELVLMEKHGLVTWGETSETCYQKTISIIQEAEQYINDRINQHEVFGGKRYQPLPED
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     ------------------------------------------------------------
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     -----------------------------------------SPVLAGFGS----------
+FABG_ARATH     -----------------------------------------APLHS--------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ------------------------------------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     KRKQILAGIMPVIRGAVSEEKKMILSYDDHDDVLEFVNSVQAPALSQIGAACPDHLVHTK
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     ------------------------------------------------------------
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------HAAKSF
+FABG_ARATH     -------------------------------------------------------AIPHF
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ------------------------------------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     RVPLYIDWNPETQDVHKLADLIKSGVETFTSEYQAYFTRNQQDGDQIFESAPRVILIPGI
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     ------------------------------------------------------------
+LVR_LEIAQ      -----------------------------------------------------------T
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     PILSTRS---IATSGIRAQ---------------------------------VATAEKVS
+FABG_ARATH     GMLRCRSRQPFSTSVVKAQ---------------------------------ATATEQSP
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     --------------TDTAT---------------------------------ENTTESAA
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     -----------------------------------------------------------A
+1doh_A         -----------------------------------------------------DAIPGPL
+Y4VI_RHISN     ------------------------------------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     GMVNTGKS--YAMSKVSGALYRRAIAVMKGATALGQFVSLHENESYHVEYWPLELYKLTL
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     -----TIKNKVIIITG--ASSGIGKATALLLAE---KGAKLVLAARR-----------VE
+FOX2_CANTR     --SPVDFKDKVVIITG--AGGGLGKYYSLEFAK---LGAKVVVNDLGGALNGQG---GNS
+LVR_LEIAQ      SSPTTRFTDRVVLITG--GGSGLGRATAVRLAA---EGAKLSLVDVS-----------SE
+2hsd_A         -----DLSGKTVIITG--GARGLGAEAARQAVA---AGARVVLADVL-----------DE
+FABG_CUPLA     AGAGQSVESPVVIVTG--ASRGIGKAIALSLGK---AGCKVLVNYAR-----------SS
+FABG_ARATH     GEVVQKVESPVVVITG--ASRGIGKAIALALGK---AGCKVLVNYAR-----------SA
+Y325_THEMA     ------FQGKVVLITG--AGSGIGKKAAVMFAE---RGAKVAINDIS-----------EE
+LIMC_RHOER     ----ARVEGQVALITG--AARGQGRSHAIKLAE---EGADVILVDVPNDVVDIGYPLGTA
+YUSZ_BACSU     -------NKKIAIVTG--ASSGFGLLAAVKLA----RSFFVIATSRQ---------PEKA
+1fds_          -------ARTVVLITG--CSSGIGLHLAVRLASDPSQSFKVYATLRD---------LKTQ
+FABG_HAEIN     -------QGKIALVTG--STRGIGRAIAEELSS---KGAFVIGT-AT-----------SE
+HCDR_XANP2     --------SRVAIVTG--ASSGNGLAIATRFLA---RGDRVAALDLS-----------AE
+DHS1_MOUSE     ---VAPMKGQVCVVTG--ASRGIGRGIALQLCK---AGATVYITGRH-----------LD
+1cyd_A         -----NFSGLRALVTG--AGKGIGRDTVKALHA---SGAKVVAVTRT-----------NS
+FABG_AQUAE     ---EIKLQGKVSLVTG--STRGIGRAIAEKLAS---AGSTVIIT-GT-----------SG
+1o5i_A         ------IRDKGVLVLA--ASRGIGRAVADVLSQ---EGAEVTICARN-----------EE
+1ae1_A         ----WSLKGTTALVTG--GSKGIGYAIVEELAG---LGARVYTCSRN-----------EK
+BDHA_ALCEU     -------NGKTALVTG--STSGIGLGIAKALAA---QGANIIVNGFG-----------DA
+1h5q_A         ---TISFVNKTIIVTG--GNRGIGLAFTRAVAA---AGANVAVIYRS-----------AA
+FABG_MYCAV     DYGRPAFVSRSVLVTG--GNRGIGLAIAQRLAA---EAHKVAVTH---------------
+PHAB_ACISP     ------SEQKVALVTG--ALGGIGSEICRQLVT---AGYKIIATVVP-----------RE
+DHB8_HUMAN     SQLQNRLRSALALVTG--AGSGIGRAVSVRLAG---EGATVAACDLD-----------RA
+1doh_A         GPQSASLEGKVALVTG--AGRGIGREMAMELGR---RGCKVIVNYAN-----------ST
+Y4VI_RHISN     ---RQVQPGRVIVVTG--AAGGIGRALVDIFAA---NGDVVVAVDLP-----------DS
+1a4u_A         -----DLTNKNVIFVA--ALGGIGLDTSRELVK---RNLKNFVILDR-----------VE
+ADHR_DROAM     ----YDLAGKHVCYVA--DCGGIALETSKVLMT---KNIAKLAILQS-----------VE
+1gz6_A         --SPLRFDGRVVLVTG--AGGGLGRAYALAFAE---RGALVVVNDLGGDFKGVG---KGS
+BDHA_RHIME     ---------KTAVITG--STSGIGLAIARTLAK---AGANIVLNGFG-----------AP
+YUXG_BACSU     APPEAEFSRKVALITG--GAGGIGSAACRRFAA---EGGHVIVADLN-----------IE
+1eny_          ----GLLDGKRILVSGIITDSSIAFHIARVAQE---QGAQLVLTGFD-----------RL
+FABI_BUCAP     ----GILKGKKILITGILNEKSIAFGIAKSMYK---QEAELIFVCQN-----------K-
+
+
+Y432_LISMO     KLEKIV-QTI-KANSG-E-AI----------FAK--TDVT-KREDNKKLVELA-IE---R
+FOX2_CANTR     KAADVVVDEI-VKNGG-V-AV---------------ADYN-NVLDGDKIVETA-VK---N
+LVR_LEIAQ      GLEASKAAVL-ETAPDAE-VL----------TTV--ADVS-DEAQVEAYVTAT-TE---R
+2hsd_A         EGAATA-----RELGD-A-AR----------YQH--LDVT-IEEDWQRVVAYA-RE---E
+FABG_CUPLA     KEAEEVSKEI-EAFGG-Q-AL----------TFG--GDVS-KEEDVEAMIKTA-VD---A
+FABG_ARATH     KEAEEVAKQI-EEYGG-Q-AI----------TFG--GDVS-KATDVDAMMKTA-LD---K
+Y325_THEMA     KGKETVEL-I-KSMGG-E-AA----------FIF--GDVA-K--DAEQIVKKT-VE---T
+LIMC_RHOER     DELDQTAKDV-ENLGR-K-AI----------VIH--ADVR-DLESLTAEVDRA-VS---T
+YUSZ_BACSU     EQLRELAAAH-NV-SD-S-IH----------ITA--LDVT-DEQSIVSFGKAV-SA----
+1fds_          GRLWEAARAL-ACPPG-S-LE----------TLQ--LDVR-DSKSVAAARERV-TE----
+FABG_HAEIN     KGAEAISAYL----GD-K-GK----------GLV--LNVT-DKESIETLLEQI-KN---D
+HCDR_XANP2     TLEETARTHW-HAYAD-K-VL----------RVR--ADVA-DEGDVNAAIAAT-ME---Q
+DHS1_MOUSE     TLRATA-QEA-QSLGG-R-CV----------PVV--CDSS-QESEVKSLFEQVDRE---Q
+1cyd_A         DLVSLA-----KECPGIE-------------PVC--VDLG-DWDATEKAL-----G---G
+FABG_AQUAE     ERAKAVAEEIANKYGV-K-AH----------GVE--MNLL-SEESINKAFEEI-YN---L
+1o5i_A         LL---------KRSGH-R-------------YVV--CDLR-KD------LDLL-FE---K
+1ae1_A         ELDECL--EIWREKGL-N-VE----------GSV--CDLL-SRTERDKLMQTV-AH---V
+BDHA_ALCEU     DAAKA---EI-AQAGQGIRVG----------YHG--ADMS-KAAEIEDMMRYA-QS---D
+1h5q_A         DAVEVT-EKVGKEFGV-K-TK----------AYQ--CDVS-NTDIVTKTIQQI-DA---D
+FABG_MYCAV     -----------RGSGA-P-DG----------LFGVECDVT-DNDAVDRAFTEV-EE---H
+PHAB_ACISP     EDREKQWLQS-EGFQD-S-DV----------RFV-LTDLN-NHEAATAAIQEA-IA---A
+DHB8_HUMAN     AAQETV-----RLLGG-P-GSKEGPPRGNHAAFQ--ADVS-EARAARCLLEQV-QA---C
+1doh_A         ESAEEVVAAI-KKNGS-D-AA----------CVK--ANVG-VVEDIVRMFEEA-VK---I
+Y4VI_RHISN     GVIELG-----QNLGE-P-HL----------GLE--VDVS-REDDVVALRALL-EK---R
+1a4u_A         NPTALA--EL-KAINP-K-VN--------ITFHT--YDVTVPVAESKKLLKKI-FD---Q
+ADHR_DROAM     NQPAIA--QL-QSIKH-S-TQ--------IFFWT--FDVTMAREEMKKYFDEV-MV---Q
+1gz6_A         SAADKVVEEI-RRRGG-K-AV---------------ANYD-SVEAGEKLVKTA-LD---T
+BDHA_RHIME     DEIRTVTDEV-AGLSSGT-VL----------HHP--ADMT-KPSEIADMMAMV-AD---R
+YUXG_BACSU     GAQKIA-GEINDAYGKGR-AM----------AVK--MDVT-KEEDVQSAFERA-AL---A
+1eny_          RLIQRITDRL-PA--K---AP----------LLE--LDVQ-NEEHLASLAGRV-TEAIGA
+FABI_BUCAP     KIINKIKYLI-KSINY---NT----------IFF--CDVS-HDENIKELFFNI-KK---V
+
+
+Y432_LISMO     YG-KVDAIFLNA--GIM-----PNSPLS-ALKEDEWEQMIDINIKGVLNGIAAVLPSFIA
+FOX2_CANTR     FG-TVHVIINNA--GIL-----RDASMK-KMTEKDYKLVIDVHLNGAFAVTKAAWPYFQK
+LVR_LEIAQ      FG-RIDGFFNNA--GIEG--KQNPTESF-TAA--EFDKVVSINLRGVFLGLEKVLKIMRE
+2hsd_A         FG-SVDGLVNNA--GIS-----TGMFLE-TESVERFRKVVEINLTGVFIGMKTVIPAMKD
+FABG_CUPLA     WG-TVDILVNNA--GIT-----RDGLLM-RMKKSQWQEVIDLNLTGVFLCTQAAAKIMMK
+FABG_ARATH     WG-TIDVVVNNA--GIT-----RDTLLI-RMKQSQWDEVIALNLTGVFLCTQAAVKIMMK
+Y325_THEMA     FG-RLDILVNNA--GIV-----PYGNIE-ETSEEDFDKTMAVNVKGPFLLSKYAVEQMKK
+LIMC_RHOER     LG-RLDIVSANA--GIA-----SVPFLSHDIPDNTWRQMIDINLTGVWHTAKVAVPHILA
+YUSZ_BACSU     YA-PIDLLVNNA--GTA-----YGGFIE-DVPMEHFRQQFETNVFGVIHVTKTVLPYIRK
+1fds_          -G-RVDVLVCNA--GLG-----LLGPLE-ALGEDAVASVLDVNVVGTVRMLQAFLPDMKR
+FABG_HAEIN     FG-DIDILVNNA--GIT-----RDNLLM-RMKDEEWFDIMQTNLTSVYHLSKAMLRSMMK
+HCDR_XANP2     FG-AIDVLVNNA--GITG--NSEAGVLH-TTPVEQFDKVMAVNVRGIFLGCRAVLPHMLL
+DHS1_MOUSE     KG-RLDVLVNNAYAGVQAILNTTNKSFW-EVPASIWDDINNVGLRGHYLCSVYGARLMVP
+1cyd_A         IG-PVDLLVNNA--ALV-----IMQPFL-EVTKEAFDRSFSVNLRSVFQVSQMVARDMIN
+FABG_AQUAE     VD-GIDILVNNA--GIT-----RDKLFL-RMSLLDWEEVLKVNLTGTFLVTQNSLRKMIK
+1o5i_A         VK-EVDILVLNA--GGP-----KAGFFD-ELTNEDFKEAIDSLFLNMIKIVRNYLPAMKE
+1ae1_A         FDGKLNILVNNA--GVV-----IHKEAK-DFTEKDYNIIMGTNFEAAYHLSQIAYPLLKA
+BDHA_ALCEU     FG-GADILVNNA--GIQ-----HVAAIE-DFPPERWDAIIAINLTSAFHTTRLALPGMKQ
+1h5q_A         LG-PISGLIANA--GVS-----VVKPAT-ELTHEDFAFVYDVNVFGVFNTCRAVAKLWLQ
+FABG_MYCAV     QG-PVEVLVSNA--GIS-----KDAFLI-RMTEERFTEVINANLTGAFRVTQRAARSMQK
+PHAB_ACISP     EG-RVDVLVNNA--GIT-----RDATFK-KMSYEQWSQVIDTNLKTLFTVTQPVFNKMLE
+DHB8_HUMAN     FSRPPSVVVSCA--GIT-----QDEFLL-HMSEDDWDKVIAVNLKGTFLVTQAAAQALVS
+1doh_A         FG-KLDIVCSNS--GVV-----SFGHVK-DVTPEEFDRVFTINTRGQFFVAREAYKHLEI
+Y4VI_RHISN     FS-RIEVLVNNA--GIGP----TMAATA-DTALEDFQRALAINLVGAYSVACETAKLMKP
+1a4u_A         LK-TVDILINGA--GIL--------------DDHQIERTIAINFTGLVNTTTAILDFWDK
+ADHR_DROAM     MD-YIDVLINGA--TLC--------------DERNIDATINTNLTGMMNTVATVLPYMDR
+1gz6_A         FG-RIDVVVNNA--GIL-----RDRSFS-RISDEDWDIIQRVHLRGSFQVTRAAWDHXKK
+BDHA_RHIME     FG-GADILVNNA--GVQ-----FVEKIE-DFPVEQWDRIIAVNLSSSFHTIRGAIPPMKK
+YUXG_BACSU     YG-GIDIVVNNA--GLA-----TSSPFD-ETSLKEWNLNMNVLGTGYFLVAREAFKQMKH
+1eny_          GN-KLDGVVHSI--GFMPQTGMGINPFF-DAPYADVSKGIHISAYSYASMAKALLPIMNP
+FABI_BUCAP     WN-NFDGLVHSI--AYCPKKQMHEDFVE-SSSRKSFNICHEISSYSFLSMARECKNMLNK
+
+
+Y432_LISMO     QK---SGHIIATSSVAG-------LKAYPGGAVYGATKWAVRDLMEVLRMESAQ----EG
+FOX2_CANTR     QK---YGRIVNTSSPAG-------LYGNFGQANYASAKSALLGFAETLAKEGAK----YN
+LVR_LEIAQ      QG---SGMVVNTASVGG-------IRGIGNQSGYAAAKHGVVGLTRNSAVEYGR----YG
+2hsd_A         AG---GGSIVNISSAAG-------LMGLALTSSYGASKWGVRGLSKLAAVELGT----DR
+FABG_CUPLA     KK---KGRIINIASVVG-------LVGNAGQANYSAAKAGVIGFTKTVAREYAS----RN
+FABG_ARATH     KK---RGRIINISSVVG-------LIGNIGQANYAAAKGGVISFSKTAAREGAS----RN
+Y325_THEMA     QG---GGVIVNVSSEAG-------LIGIPRRCVYSVSKAALLGLTRSLAVDYVD----YG
+LIMC_RHOER     GE--RGGSIVLTSSAAG-------LKGYAQISHYSAAKHGVVGLMRSLALELAP----HR
+YUSZ_BACSU     HG---GAKIINVSSISG-------LTGFPALSPYVSSKHALEGFSESLRIELLP----FG
+1fds_          RG---SGRVLVTGSVGG-------LMGLPFNDVYCASKFALEGLCESLAVLLLP----FG
+FABG_HAEIN     KR---FGRIINIGSVVG-------STGNPGQTNYCAAKAGVVGFSKSLAKEVAA----RG
+HCDR_XANP2     QG---AGVIVNIASVAS-------LVAFPGRSAYTTSKGAVLQLTKSVAVDYAG----SG
+DHS1_MOUSE     AG---KGLIVIVSSPGG-------LQHMFN-VPYGVGKAACDRLAADCAHELRR----HG
+1cyd_A         RG--VPGSIVNVSSMVA-------HVTFPNLITYSSTKGAMTMLTKAMAMELGP----HK
+FABG_AQUAE     QR---WGRIVNISSVVG-------FTGNVGQVNYSTTKAGLIGFTKSLAKELAP----RN
+1o5i_A         KG---WGRIVAITSFSV-------ISPIENLYTSNSARMALTGFLKTLSFEVAP----YG
+1ae1_A         SQ---NGNVIFLSSIAG-------FSALPSVSLYSASKGAINQMTKSLACEWAK----DN
+BDHA_ALCEU     KD---WGRIINVASTHG-------LVASAQKSAYVAAKHGIVGFTKVTALETAQ----TG
+1h5q_A         KQ--QKGSIVVTSSMSSQIINQSSLNGSLTQVFYNSSKAACSNLVKGLAAEWAS----AG
+FABG_MYCAV     KR---FGRIIYIGSVSG-------MWGIGNQANYAAAKAGLIGMARSISRELSK----AG
+PHAB_ACISP     QK---SGRIVNISSVNG-------LKGQFGQANYSASKAGIIGFTKALAQEGAR----SN
+DHB8_HUMAN     NG--CRGSIINISSIVG-------KVGNVGQTNYAASKAGVIGLTQTAARELGR----HG
+1doh_A         -----GGRLILMGSITGQ------AKAVPKHAVYSGSKGAIETFARCMAIDMAD----KK
+Y4VI_RHISN     -----GAAIVNVASLAG-------LLGNPKRSAYAASKAGLISITKSLACRWAS----RG
+1a4u_A         RKGGPGGIIANICSVTG-------FNAIHQVPVYSASKAAVVSFTNSLAKLAPI----TG
+ADHR_DROAM     KMGGSGGLIVNVTSVIG-------LDPSPVFCAYSASKFGVIGFTRSLAD--PLYYNQNG
+1gz6_A         QN---YGRIIXTASASG-------IYGNFGQANYSAAKLGLLGLANTLVIEGRK----NN
+BDHA_RHIME     KG---WGRIINIASAHG-------LVASPFKSAYVAAKHGIMGLTKTVALEVAE----SG
+YUXG_BACSU     QN--RGGSMVFVGSKNS-------VYAGKNASAYSSVKALETHLARCIAAEGGE----FG
+1eny_          -----GGSIVGMDFDPS-------RAMPA-YNWMTVAKSALESVNRFVAREAGK----YG
+FABI_BUCAP     -----FSSLVTLSYLGS-------QKIVSNYNMMGLAKSSLEANVRYMANSLGK----NN
+
+
+Y432_LISMO     TNIRTVTIYPAAINTELLET----------------ITDKETEQGMTSLYK--------Q
+FOX2_CANTR     --IKANAIAPLARSRMTESI----------------LPPPMLEKL---------------
+LVR_LEIAQ      --IRINAIAPGAIWTPMVENSMKQ------LDPE--NPRKAAEEFIQVNPS--------K
+2hsd_A         --IRVNSVHPGMTYTPMTAE----------------TGIRQGEGNYPNTPM--------G
+FABG_CUPLA     --INVNAVAPGFISSDMTSK----------------LGDDINKKILETIPL--------G
+FABG_ARATH     --INVNVVCPGFIASDMTAE----------------LGEDMEKKILGTIPL--------G
+Y325_THEMA     --IRVNAVCPGTTQSEGLMARVK---------AS-PNPEELLKKMTSRIPM--------K
+LIMC_RHOER     --VRVNSLHPTQVNTPMIQNEGTYRIFSPDLENPTREDFEIASTTTNALPI--------P
+YUSZ_BACSU     --IETALIEPGSYKTSIWSTSLSNFMS-VPADDS--AYHQYYKKILSYVQKN------GE
+1fds_          --VHLSLIECGPVHTVLGSPEE---VL-DRTDIH--TFHRFYQYLAHSKQVF------RE
+FABG_HAEIN     --ITVNVVAPGFIATDMTEV----------------LTDEQKAGILSNVPA--------G
+HCDR_XANP2     --IRCNAVCPGMIETPMTQWRL--------------DQPELRDQVLARIPQ--------K
+DHS1_MOUSE     --VSYVSLWPGLVQTEMVKEFM-------------------AKEDTPEDPLFKKMKPDFS
+1cyd_A         --IRVNSVNPTVVLTDMGKKVS--------------ADPEFARKLKERHPL--------R
+FABG_AQUAE     --VLVNAVAPGFIETDMTAV----------------LSEEIKQKYKEQIPL--------G
+1o5i_A         --ITVNCVAPGWTETERVKEL---------------LSEEKKKQVESQIPM--------R
+1ae1_A         --IRVNSVAPGVI-----------------------LQKEEIDNFIVKTPM--------G
+BDHA_ALCEU     --VTANAICPGWVLTPLVQKQVEAR---AQKEGI-PVEQAKRELVLEKQPS--------G
+1h5q_A         --IRVNALSPGYVNTDQTAH----------------MDKKIRDHQASNIPL--------N
+FABG_MYCAV     --VTANVVAPGYIDTEMTRA----------------LDERIQAGALEFIPA--------K
+PHAB_ACISP     --ICVNVVAPGYTATPMVTA----------------MREDVIKSIEAQIPL--------Q
+DHB8_HUMAN     --IRCNSVLPGFIATPMTQK----------------VPQKVVDKITEMIPM--------G
+1doh_A         --ITVNVVAPGGIKTDMYHAVCREYI--PNGENL-SNEEVDEYAAVQWSPL--------R
+Y4VI_RHISN     --IRVTAVAPGHVRTPMVAELER-------------AGKLDVSAIRRRVPL--------G
+1a4u_A         --VTAYSINPGITRTPLVHTFN--------------SWLDVEPRVAELLLS--------H
+ADHR_DROAM     --VAVMAVCCGPTKVFVDRELN--------------AFLEYGQTFADRLRL--------A
+1gz6_A         --IHCNTIAPNAGSRXTETV----------------XPEDLVEAL---------------
+BDHA_RHIME     --VTVNSICPGYVLTPLVEKQIPDQ---ARTRGI-TEEQVINEVMLKGQPT--------K
+YUXG_BACSU     --IRVNSVLPDAVLQGSAIWGSSWREERAAAYGI--EPDQLEEHYRKRTAL--------L
+1eny_          --VRSNLVAAGPIRTLAMSAIVGGA---LGEEAG-AQIQLLEEGWDQRAPI-------GW
+FABI_BUCAP     --IRVNAISSGPIKTTSSYQI----------KNF-NKIQKIHKLFS----L-------TK
+
+
+Y432_LISMO     YGITPDRIASIVAYAI--DQPEDVNVNEFT------------VGPTSQP-----------
+FOX2_CANTR     ---GPEKVAPLVLYLS--SAENELTGQFFE------------VAAGFYAQIRWERS-GGV
+LVR_LEIAQ      RYGEAPEIAAVVAFLL-SDDASYVNATVVP------------IDGGQSAA----------
+2hsd_A         RVGEPGEIAGAVVKLL-SDTSSYVTGAELA------------VDGGWTTGP---------
+FABG_CUPLA     RYGQPEEVAGLVEFLAINPASSYVTGQVFT------------IDGGMTM-----------
+FABG_ARATH     RYGKAEEVAGLVEFLALSPAASYITGQAFT------------IDGGIAI-----------
+Y325_THEMA     RLGKEEEIAFAILFAA-CDEAGFMTGSIIN------------IDGGSTAV----------
+LIMC_RHOER     WV-ESVDVSNALLFLV-SEDARYITGAAIP------------VDAGTTLK----------
+YUSZ_BACSU     ESGDPQEVADLIYQLA---TKQHIKNLRYP------------IGKGIKLTLLFRSL----
+1fds_          AAQNPEEVAE-VFLTA---LRAPKPTLRYF------------TTERFLPLLRMRLD----
+FABG_HAEIN     RLGEAKDIAKAVAFLA-SDDAGYITGTTLH------------VNGGLYL-----------
+HCDR_XANP2     EIGTAAQVADAVMFLA-GEDATYVNGAALV------------MDGAYTAI----------
+DHS1_MOUSE     SAESPEMSGKCVVALATDPNILNLSGKVLPSCDLARRYGLKDIDGRPVKD----------
+1cyd_A         KFAEVEDVVNSILFLL-SDRSASTSGGGIL------------VDAGYLAS----------
+FABG_AQUAE     RFGSPEEVANVVLFLC-SELASYITGEVIH------------VNGGMF------------
+1o5i_A         RMAKPEEIASVVAFLC-SEKASYLTGQTIV------------VDGGLSKFP---------
+1ae1_A         RAGKPQEVSALIAFLC-FPAASYITGQIIW------------ADGGFTANG---------
+BDHA_ALCEU     QFVTPDELGALAVFQS-SEAARQVRGAIWN------------MDGGWVAQ----------
+1h5q_A         RFAQPEEMTGQAILLL-SDHATYMTGGEYF------------IDGGQLI-----------
+FABG_MYCAV     RVGTAAEVPGAVSFLA-SEDASYIAGAVIP------------VDGGMGMG----------
+PHAB_ACISP     RLAAPAEIAAAVMYLV-SEHGAYVTGETLS------------INGGLYM-----------
+DHB8_HUMAN     HLGDPEDVADVVAFLA-SEDSGYITGTSVE------------VTGGLFM-----------
+1doh_A         RVGLPIDIARVVCFLA-SNDGGWVTGKVIG------------IDGGACM-----------
+Y4VI_RHISN     RIARPDEIARAVRFLA-SAQASYITGSTLV------------VDGGWMSVNQP----GGA
+1a4u_A         PTQTSEQCGQNFV----KAIEANKNGAIWK------------LDLGTLEAIEW-------
+ADHR_DROAM     PCQSTAVCGQNIV----NAIERSQNGQIWI------------ADKGGLELV---------
+1gz6_A         ---KPEYVAPLVLWLC--HESCEENGGLFE------------VGAGWIGKLRWERTLGAI
+BDHA_RHIME     KFITVEQVASLALYLA-GDDAAQITGTHVS------------MDGGWTAQ----------
+YUXG_BACSU     VNIYPEDIAEAIAFFA-SSKAEKTTGCMIT------------VDGGVPAA----------
+1eny_          NMKDATPVAKTVCALL-SDWLPATTGDIIY------------ADGGAH------------
+FABI_BUCAP     NHVSSEEIGNVAAFLC-SDLSIGITGSIIN------------VDHGFNLNG---------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     LFKPDQSFTAEVVAKRFSEILDYDDSRKPEYLKNQYPFMLNDYATLTNEARKLPANDASG
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------YFS---------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     HQAQDRTPGAE-----FMRPVEDTDAR---------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         VRKRNQPXTPEAVRDNWVKICDFSNASKPKSIQES-------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     APTVSLKDKVVLITGAGAGLGKEYAKWFAKYGAKVVVNDFKDATKTVDEIKAAGGEAWPD
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     -------------------LGYALSQ----------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ---------TVIVMGGATGVGAAIARRFAENGDTVVIAD-GDGEEAVKLAGLLGDKHLSR
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         -------------TG---------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     QHDVAKDSE--AIIKNVIDKYGTIDILVNNAGILRDRSFAKMSKQEWDSVQQVHLIGTFN
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ----TVK-----------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     -----------------VSSLGWLNSFL--------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     RVDRTVETEVVSLFEELRERFGHLDVFVNGMNEILVPN-TEESPEVLKRILDVNLTGAFT
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ---------------------GIIEVL---------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     LSRLAWPYFVEKQFGRIINITSTSGIYGNFGQANYSSSKAGILGLSKTMAIEGAKNNIKV
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     CVREA--AISMRSGSVILNLGASLSLSPLAPSHAYGAYNAGIDMLTRCTAAELGPLGIRT
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     NIVAP-----------HAETAMTLTIFREQDK--NLYHADQVAPLLVYLGTDDV-PVTGE
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         -------------------------------------------------------YV---
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ----PGFLR---------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ATVAPGYIRTCAANRLAAVAGMDSASLRQRIPLGRVGDAEEVAEAAYFLASFDASYINGS
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     TFEIGGGWIGNTRWQRAKGAVSHDEHTTVEFIKEHLNEITDFTTDTENPKSTTESSMAIL
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ILHVDGGLISS----REAG-----------------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     SAVGGDDDDDDEDEEEDEGDEEEDEEDEEEDDPVWRFDDRDVILYNIALGATTKQLKYVY
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     -------------------------------FP-WS------------------------
+1fds_          -------------------------------DPSGS------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     -------------------------------VP---------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ------------------------------------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     ENDSDFQVIPTFGHLITFNSGKSQNSFAKLLRNFNPMLLLHGEHYLKVHSWPPPTEGEIK
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     -------------------------------------------------AWESILKKKL-
+1fds_          -------------------------------------------------NYVTAMHREV-
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     -------------------------------------------------KWVVTLYNSK-
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     --------------------------------------------------WGSEVDGAI-
+1a4u_A         -----------------------------------------------TKHWDSHI-----
+ADHR_DROAM     -----------------------------------------------TLHWYWHMADQF-
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          --------------------------------------------------------TQL-
+FABI_BUCAP     -------------------------------------------------------INSI-
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     TTFEPIATTPKGTNVVIVHGSKSVDNKSGELIYSNEATYFIRNCQADNKVYADRPAFATN
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ---------------------------SAE------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     -----------------ISYMQSTDDEDQECFLS--------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     QFLAPKRAPDYQVDVPVSEDLAALYRLSGDRNPLHIDPNFAKGAKFPKPILHGMCTYGLS
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     ------------------------------------------------------------
+1fds_          ------------------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     --MRPQRRP------------AARWRL---------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ---------------------AA-------------------------------------
+1gz6_A         ------------------------------------------------------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     ------------------------------------------------------------
+FOX2_CANTR     AKALIDKFGMFNEIKARFTGIVFPGETLRVLAWKESDDTIVFQTHVVDRGTIAINNAAIK
+LVR_LEIAQ      ------------------------------------------------------------
+2hsd_A         ------------------------------------------------------------
+FABG_CUPLA     ------------------------------------------------------------
+FABG_ARATH     ------------------------------------------------------------
+Y325_THEMA     ------------------------------------------------------------
+LIMC_RHOER     ------------------------------------------------------------
+YUSZ_BACSU     -------FS---------------------------------------------------
+1fds_          -------FGD--------------------------------------------------
+FABG_HAEIN     ------------------------------------------------------------
+HCDR_XANP2     ------------------------------------------------------------
+DHS1_MOUSE     ------------------------------------------------------------
+1cyd_A         ------------------------------------------------------------
+FABG_AQUAE     ------------------------------------------------------------
+1o5i_A         ------------------------------------------------------------
+1ae1_A         ------------------------------------------------------------
+BDHA_ALCEU     ------------------------------------------------------------
+1h5q_A         ------------------------------------------------------------
+FABG_MYCAV     ------------------------------------------------------------
+PHAB_ACISP     ------------------------------------------------------------
+DHB8_HUMAN     ------------------------------------------------------------
+1doh_A         ------------------------------------------------------------
+Y4VI_RHISN     ------------------------------------------------------------
+1a4u_A         ------------------------------------------------------------
+ADHR_DROAM     ------------------------------------------------------------
+1gz6_A         --------------------------------------------HKID------------
+BDHA_RHIME     ------------------------------------------------------------
+YUXG_BACSU     ------------------------------------------------------------
+1eny_          ------------------------------------------------------------
+FABI_BUCAP     ------------------------------------------------------------
+
+
+Y432_LISMO     -------W
+FOX2_CANTR     LVGDKAKI
+LVR_LEIAQ      -------Y
+2hsd_A         -----MGQ
+FABG_CUPLA     --------
+FABG_ARATH     --------
+Y325_THEMA     --------
+LIMC_RHOER     --------
+YUSZ_BACSU     --------
+1fds_          -------V
+FABG_HAEIN     -------S
+HCDR_XANP2     --------
+DHS1_MOUSE     -------F
+1cyd_A         --------
+FABG_AQUAE     --------
+1o5i_A         -------L
+1ae1_A         ------GF
+BDHA_ALCEU     --------
+1h5q_A         -------W
+FABG_MYCAV     -------H
+PHAB_ACISP     -------H
+DHB8_HUMAN     --------
+1doh_A         --------
+Y4VI_RHISN     -----LSP
+1a4u_A         --------
+ADHR_DROAM     -----YRK
+1gz6_A         --------
+BDHA_RHIME     --------
+YUXG_BACSU     -----FTR
+1eny_          -------L
+FABI_BUCAP     -------I
+
+

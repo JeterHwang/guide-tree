@@ -1,0 +1,39 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 247  Type: P  December 21, 2021 20:30  Check: 8816  ..
+
+ Name: 1jgt_A  Len:    247  Check: 1015  Weight: -1.00
+ Name: 1ct9_A  Len:    247  Check: 2170  Weight: -1.00
+ Name: 1q19_A  Len:    247  Check: 1420  Weight: -1.00
+ Name: 1ecf_A  Len:    247  Check: 4211  Weight: -1.00
+
+//
+
+        1                                                   50
+1jgt_A  ~~~~~~~~~~ ~~~~~~~~GE RSLAATLVHA PS.VAPDRAV ARSLTG..A.
+1ct9_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~NAILAHE RLSIVDVNAG AQPLYNQQK.
+1q19_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~NGYLF.. ....IEQNGH YQ..KCEME.
+1ecf_A  ANGLVSDVFE ARHMQRLQGN MGIGHVRY.. PTAGSSSASE AQPFYVNSPY
+
+        51                                                 100
+1jgt_A  PTTAVLAGEI YNRDELLSV. LPAGP...AP EGDAELVLRL LERYDLHA..
+1ct9_A  THVLAVNGEI YNHQALRAE. YGDRY.QFQT GSDCEVILAL YQEKGPEF..
+1q19_A  RGTAYLIGSL YNRTFLIGL. AGVWEGEAYL ANDAELLALL FTRLGANA..
+1ecf_A  GITLAHNGNL TNAHELRKKL FEEKRRHINT TSDSEILLNI FASELDNFRH
+
+        101                                                150
+1jgt_A  .......... .....FRLVN GRFAT..VVR TGDRVLLATD HAGSVPLYTC
+1ct9_A  .......... .....LDDLQ GMFAFALYDS EKDAYLIGRD HLGIIPLYMG
+1q19_A  .......... .....LALAE GDFCFFIDEP NGELTVI.TE SRGFSPVHVV
+1ecf_A  YPLEADNIFA AIAATNRLIR GAYACVAM.I IGHGMVAFRD PNGIRPLVLG
+
+        151                                                200
+1jgt_A  V......... .......... .......... .AP.GEVRAS TEAKALAAHP
+1ct9_A  Y......... .......... .......... .DEHGQLYVA SEMKALVPVC
+1q19_A  QGKK.....A WMT....... ..NSLKLVTA AEGEGALWFE EEA....LVC
+1ecf_A  KRDIDENRTE YMVASESVAL DTLGFDFLRD VAPGEAIYIT EEGQLFTRQC
+
+        201                                             247
+1jgt_A  KGFPLADARR VAGLTGVYQV PAGAVM.DID LGSGTAVT.H RTWTPG~
+1ct9_A  R......... .....TIKEF PAGSYL.WSQ DGEIRSYY.H RD~~~~~
+1q19_A  QSLMRADTY. .TPVKNAQRL KPGAVHVLTH DSEGYSFVES RTLTTPA
+1ecf_A  ADNPVSNPCL FEY...VYFA RP~~~~~~~~ ~~~~~~~~~~ ~~~~~~~

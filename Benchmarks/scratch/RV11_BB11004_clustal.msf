@@ -1,0 +1,87 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 634  Type: P  December 21, 2021 20:29  Check: 5829  ..
+
+ Name: 1qe0_A  Len:    634  Check: 1206  Weight: -1.00
+ Name: 1evk_A  Len:    634  Check: 4565  Weight: -1.00
+ Name: 1ati_A  Len:    634  Check: 6615  Weight: -1.00
+ Name: 1nj8_A  Len:    634  Check: 3443  Weight: -1.00
+
+//
+
+        1                                                   50
+1qe0_A  ~~~~~~~~~~ ~MIKIPRGTQ DILPEDSKKW RY...IENQL DELMTFYNYK
+1evk_A  RDHRKIGKQL DLYHMQEEAP GMVFWHNDGW TIFRELEVFV RSKLKEYQYQ
+1ati_A  ~~~~~AASSL DELVALCKRR GFIFQSSEIY .......... GGLQGVYDYG
+1nj8_A  ~~~~~~~~~~ ~~~~~~~~ML EFSEWYSDIL EK.......A EIYDVRYPIK
+
+        51                                                 100
+1qe0_A  EI........ .......... .......... ..RTPIFEST .DLFAR....
+1evk_A  EV........ .......... .......... ..KGPFMMDR .VLWEKTGHW
+1ati_A  PLGVELKNNL KQAWWR.... RNVYERDDME GLDASVLTHR .LVLHYSGHE
+1nj8_A  GCGVYLPYGF KIRRYTFEII RNLLDESGHD EALFPMLIPE DLLAKEAEHI
+
+        101                                                150
+1qe0_A  .....EM... .......... YTFK....DK GDRSITLRPE GTAAVVRSYI
+1evk_A  DNYKDAM... .......... FTTS.....S ENREYCIKPM NCPGHVQIFN
+1ati_A  ATFADPMVDN WTPPRYFNMM FQDLRGPRGG RGLLAYLRPE TAQGIFVNFK
+1nj8_A  KGFEDEV... .......... YWVTHGGKTQ LDVKLALRPT SETPIYYMMK
+
+        151                                                200
+1qe0_A  EHKMQGNPNQ PIKLYYNGPM FRY....... ....YRQFNQ FGVEAI..GA
+1evk_A  .QGLKSYRDL PLRMAEFGSC HRNEPSGSLH GLMRVRGFTQ DDAHIF..CT
+1ati_A  NVLDATSRKL GFGIAQIGKA FRNEITP.RN FIFRVREFEQ MEIEYF..V.
+1nj8_A  .LWVKVHTDL PIKIYQIVNT FRYETKHTRP .LIRLREIMT FKEAHTAHST
+
+        201                                                250
+1qe0_A  EN..PSVDAE VLAMVMHIYQ SFGLKHLKLV INSVGDMASR KEYNEALVKH
+1evk_A  EEQIRDEVNG CIRLVYDMYS TFGFEKIVVK LSTRP..... ..........
+1ati_A  .......... .......... .......... .......... ..........
+1nj8_A  KEEAENQVKE AISIYKKFF. .......... .......... ..........
+
+        251                                                300
+1qe0_A  FEPVIHEFCS DCQSRLHTDP MRILTAPRIT DFLNEESKAY YEQVKAYLDD
+1evk_A  .......... ..EKRIGSDE MWDRAEAD.. .......... ...LAVALEE
+1ati_A  .......... ....RPGEDE YWHRYWV... ....EERLKW WQEMG.LSRE
+1nj8_A  .......... .......... .......... .......... ........DT
+
+        301                                                350
+1qe0_A  LGIPYTEDPN LV........ ......RGLD YYTHTA.... ..........
+1evk_A  NNIPFEYQ.. LG........ ......EGAF YGPKIE.... ..........
+1ati_A  NLVPYQQPPE SS......AH YAKATVDILY RFPHGSL... ...ELEGIAQ
+1nj8_A  LGIPYLISKR PEWDKFPGAE YTMA...FDT IFPDGRTMQI ATVHNLGQNF
+
+        351                                                400
+1qe0_A  ...FELMMDN PNYDGA.ITT L.....CGGG RYN....... ..........
+1evk_A  ...FTL.... ..YDCLDRAW Q.....CGTV QLDFSLPSR. .LSASYV...
+1ati_A  RTDFDLGSHT KDQEALGITA RVLRNEHSTQ RLAYRDPETG KWFVPYVIEP
+1nj8_A  SKTFEIIFET P......... ......TGDK DYAY...... ........QT
+
+        401                                                450
+1qe0_A  ......GLLE LLDGPSETGI GFALSIERLL LALE..EEGI ELDIEENLDL
+1evk_A  ......GEDN ERKVPVMIHR AILGSMERFI GILTEEFAGF FPTWLAPVQV
+1ati_A  SAGVDRGVLA LLA.EAFTRE ELPNGEERIV LKLKPQ.... ....LAPIKV
+1nj8_A  CYGISDRV.. .......... .....IASII AIHGDEKGLI LPPIVAPIQV
+
+        451                                                500
+1qe0_A  FIV...TMGD QAD..RYAVK LLNHLRHNGI KADKDYLQRK IKGQMKQADR
+1evk_A  VIM...NITD SQS..EYVNE LTQKLSNAGI RVKADLRNEK IGFKIREHTL
+1ati_A  AVIPLVKNRP EIT..EYAKR LKARLLALGL GRVLYEDTGN IGKAYRRHDE
+1nj8_A  VIVPLIFKGK EDIVMEKAKE IYEKL.KGKF RVHIDDRDIR PGRKFNDWEI
+
+        501                                                550
+1qe0_A  LGAKFTIVIG DQELENNK.. .......IDV KNMTTGESET IELDALVEYF
+1evk_A  RRVPYMLVCG DKEVESGK.. .......VAV RTRRGKDLGS MDVNEVIEKL
+1ati_A  VGTPFAVTVD YDTIGQSKDG TTRLKDTVTV RDRDTMEQIR LHVDELEGFL
+1nj8_A  KGVPLRIEVG PKDIENKK.. .......ITL FRRDTMEKFQ VDETQLMEVV
+
+        551                                                600
+1qe0_A  KK~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1evk_A  QQEIR..... ..SRSLKQLE E~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ati_A  RERLR..... ..W~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1nj8_A  EKTLNNIMEN IKNRAWEKFE NFITILEDIN PDEIKNILSE KRGVILVPFK
+
+        601                               634
+1qe0_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+1evk_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+1ati_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+1nj8_A  EEIYNEELEE KVEATILGET EYKGNKYIAI AKTY

@@ -1,0 +1,29 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ ins_ref.msf  MSF: 74  Type: N  November 09, 2021 21:21  Check: 476  ..
+
+ Name: 2ins  Len:     74  Check: 7110  Weight: 1.00
+ Name: 4ins  Len:     74  Check: 1185  Weight: 1.00
+ Name: 2gf1  Len:     74  Check: 2357  Weight: 1.00
+ Name: 1igl  Len:     74  Check: 8740  Weight: 1.00
+ Name: 1bom  Len:     74  Check: 5321  Weight: 1.00
+ Name: 6rlx  Len:     74  Check: 5763  Weight: 1.00
+
+//
+
+2ins     ----VNQHLCGSHLVEALYLVCGERGFFYTPKA------------GIVEQCCASVCSLYQ
+4ins     ---FVNQHLCGSHLVEALYLVCGERGFFYTPKA------------GIVEQCCTSICSLYQ
+2gf1     ----GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRR
+1igl     -AYRPSETLCGGELVDTLQFVCGDRGFYFSRPAS--RVSRRS--RGIVEECCFRSCDLAL
+1bom     -QPQAVHTYCGRHLARTLADLCWEAGVD-----------------GIVDECCLRPCSVDV
+6rlx     SWMEEVIKLCGRELVRAQIAICGMSTW---------------LYSALANKCCHVGCTKRS
+
+
+2ins     LENYCN--------
+4ins     LENYCN--------
+2gf1     LEMYCAPLKPAKSA
+1igl     LETYCA--TPAKSE
+1bom     LLSYC---------
+6rlx     LARFC---------
+
+

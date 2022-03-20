@@ -1,0 +1,80 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 500  Type: P  December 21, 2021 20:31  Check: 9501  ..
+
+ Name: 1a0h_A      Len:    500  Check: 8994  Weight: -1.00
+ Name: 1b2i_A      Len:    500  Check:  780  Weight: -1.00
+ Name: 1kdu_       Len:    500  Check:   76  Weight: -1.00
+ Name: KRM2_HUMAN  Len:    500  Check: 1801  Weight: -1.00
+ Name: KRM1_HUMAN  Len:    500  Check: 7850  Weight: -1.00
+
+//
+
+            1                                                   50
+1a0h_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~SPLLETCV PDRGREYRGR
+1b2i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~CM HGSGENYDGK
+1kdu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~CY EGNGHFYRGK
+KRM2_HUMAN  MGTQALQGFL FLLFLPLLQP RGASAGSLHS PG...LSECF QVNGADYRGH
+KRM1_HUMAN  MAPPAAR..L ALLSAAALT. ..LAARPAPS PGLGPGPECF TANGADYRGT
+
+            51                                                 100
+1a0h_A      LAVT...THG SRCLAWSSEQ AKALSKDQDF NPAVPLA.EN FCRNPDGDEE
+1b2i_A      ISKT...MSG LECQAWDSQS PHAHGYIPSK FPNKNLK.KN YCRNPDRE.L
+1kdu_       ASTD...TMG RPCLPWNSAT VLQQTYHA.H RSDAGLG.KN YCRNPDNR.R
+KRM2_HUMAN  QNRTGPRGAG RPCLFWDQTQ QHSYSSASDP HGRWGLGAHN FCRNPDGD.V
+KRM1_HUMAN  QNWTALQ.GG KPCLFWNETF QHPYNTLKYP NGEGGLGEHN YCRNPDGD.V
+
+            101                                                150
+1a0h_A      GAWCYVADQP ..GDFEYCDL NYCEEPVDGD LGDRLGEDPD AAIEGRTSED
+1b2i_A      RPWCFTTDPN ..KRWELCDI PRCT~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdu_       RPWCYVQGLK ..PLVQECMV HDCAD~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KRM2_HUMAN  QPWCYVAETE EGIYWRYCDI PSCHMPGYLG CFVDSGAPPA LSGPSGTSTK
+KRM1_HUMAN  SPWCYVAEHE DGVYWKYCEI PACQMPGNLG CYKDHGNPPP LTGTSKTSNK
+
+            151                                                200
+1a0h_A      ....HFQPFF NEKTFGAGE. .....ADCGL RPLFEKKQVQ DQTEK.....
+1b2i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KRM2_HUMAN  LTVQVCLRFC RMKGYQLAGV EAGYACFCGS ESDLARGRLA PATDCDQICF
+KRM1_HUMAN  LTIQTCISFC RSQRFKFAGM ESGYACFCGN NPDYWKYGEA ASTECNSVCF
+
+            201                                                250
+1a0h_A      .......... ...ELFESYI .......... .......... ....EGR~~~
+1b2i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KRM2_HUMAN  GHPGQLCGGD GRLGVYEVSV GSCQGNWTAP QGVIYSPDFP DEYGPDRNCS
+KRM1_HUMAN  GDHTQPCGGD GRIILFDTLV GACGGNYSAM SSVVYSPDFP DTYATGRVCY
+
+            251                                                300
+1a0h_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b2i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KRM2_HUMAN  WALGPPGAA. LELTFRLFEL ADPRDRLELR DAASGSLLRA FDGARPPPSG
+KRM1_HUMAN  WTIRVPGASH IHFSFPLFDI RDSADMVELL DGYTHRVLAR FHGRSRPPLS
+
+            301                                                350
+1a0h_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b2i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KRM2_HUMAN  PLRLGTAALL LTFRSDARGH AQGFALTYRG LQDAAEDPEA PEGSAQTPAA
+KRM1_HUMAN  .FNVSLDFVI LYFFSDRINQ AQGFAVLYQA VKEELPQERP AVN..QTVAE
+
+            351                                                400
+1a0h_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b2i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KRM2_HUMAN  .PLDGANVSC .......... ..SPRPG... .........A PPAAIGARVF
+KRM1_HUMAN  VITEQANLSV SAARSSKVLY VITTSPSHPP QTVPGSNSWA PPMGAGSHRV
+
+            401                                                450
+1a0h_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b2i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KRM2_HUMAN  STVTAVSVLL LLLL...GLL RP....LRRR SCLLAPGKGP .PALGASRGP
+KRM1_HUMAN  EGWTVYGLAT LLILTVTAIV AKILLHVTFK SHR.VPASGD LRDCHQPGTS
+
+            451                                                500
+1a0h_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b2i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KRM2_HUMAN  RRSWAVWYQQ PRGVALPCSP GDPQAEGSAA GYRPLSASSQ SSLRSLISAL
+KRM1_HUMAN  GEIWSIFYKP STSISIFKKK LKGQS..QQD DRNPLVS... ........D~

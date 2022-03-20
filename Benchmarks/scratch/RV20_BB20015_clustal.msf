@@ -1,0 +1,354 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 394  Type: P  December 21, 2021 20:26  Check: 9248  ..
+
+ Name: 1hst_A      Len:    394  Check: 4759  Weight: -1.00
+ Name: H5A_XENLA   Len:    394  Check: 2240  Weight: -1.00
+ Name: H1D_STRPU   Len:    394  Check: 9591  Weight: -1.00
+ Name: H1_TIGCA    Len:    394  Check: 1672  Weight: -1.00
+ Name: H1_DROHY    Len:    394  Check: 7945  Weight: -1.00
+ Name: H11_DROVI   Len:    394  Check:  581  Weight: -1.00
+ Name: H1_DROME    Len:    394  Check: 7754  Weight: -1.00
+ Name: H1G_STRPU   Len:    394  Check: 7341  Weight: -1.00
+ Name: H1B_STRPU   Len:    394  Check: 2106  Weight: -1.00
+ Name: H1E_CHIPA   Len:    394  Check: 7838  Weight: -1.00
+ Name: H12_GLYBA   Len:    394  Check: 1072  Weight: -1.00
+ Name: H11_GLYBA   Len:    394  Check: 3921  Weight: -1.00
+ Name: H1A_PLADU   Len:    394  Check: 2537  Weight: -1.00
+ Name: H1E_STRPU   Len:    394  Check:  992  Weight: -1.00
+ Name: H1_PARAN    Len:    394  Check: 2358  Weight: -1.00
+ Name: H1_ECHCR    Len:    394  Check: 7135  Weight: -1.00
+ Name: H12_CAEEL   Len:    394  Check: 7607  Weight: -1.00
+ Name: H11_CAEEL   Len:    394  Check: 2946  Weight: -1.00
+ Name: H11_BOVIN   Len:    394  Check: 1971  Weight: -1.00
+ Name: H11_MOUSE   Len:    394  Check: 2288  Weight: -1.00
+ Name: H11_HUMAN   Len:    394  Check:  917  Weight: -1.00
+ Name: H101_CHICK  Len:    394  Check: 4825  Weight: -1.00
+ Name: H1_ONCMY    Len:    394  Check: 6563  Weight: -1.00
+ Name: H1B_XENLA   Len:    394  Check: 2946  Weight: -1.00
+ Name: H1A_XENLA   Len:    394  Check: 1211  Weight: -1.00
+ Name: H1T_PIG     Len:    394  Check: 3143  Weight: -1.00
+ Name: H1T_HUMAN   Len:    394  Check: 4737  Weight: -1.00
+ Name: H1T_MOUSE   Len:    394  Check: 3095  Weight: -1.00
+ Name: H1L_MYTCA   Len:    394  Check:  491  Weight: -1.00
+ Name: H1_WHEAT    Len:    394  Check:  740  Weight: -1.00
+ Name: H1_DICDI    Len:    394  Check: 1929  Weight: -1.00
+ Name: H11_ARATH   Len:    394  Check: 8109  Weight: -1.00
+ Name: H1_NEUCR    Len:    394  Check: 5169  Weight: -1.00
+ Name: H1_EMENI    Len:    394  Check: 4549  Weight: -1.00
+ Name: 1aoy_       Len:    394  Check: 8750  Weight: -1.00
+ Name: 1jhg_A      Len:    394  Check: 8814  Weight: -1.00
+ Name: 1idy_       Len:    394  Check: 8606  Weight: -1.00
+
+//
+
+            1                                                   50
+1hst_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H5A_XENLA   ~~~~~~~MA. .......... .......... ENSA.ATPAA ..........
+H1D_STRPU   ~~~~~~~MA. .......... .......... DTDA.APAAP A.PST..P..
+H1_TIGCA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M
+H1_DROHY    ~~MSDSVVA. .........V SA....SPV. ....TPQTAS A.EKK..VAA
+H11_DROVI   ~~MSDSAVA. .........T SA....SPV. ....IAQAAS G.EKK..VST
+H1_DROME    ~~MSDSAVA. .........T SA....SPV. ....AAPPAT V.EKK..VVQ
+H1G_STRPU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H1B_STRPU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H1E_CHIPA   ~~MSDPAQE. .........V EAPVEAAPV. ....ASSPKG K.KE.KAPKA
+H12_GLYBA   ~~MSDPAPE. .........V AP...AAPV. ....ASP... .......AKA
+H11_GLYBA   ~~MSDSAPE. .........I ETPVEEAPK. ....AASPAK S.PAKSPGRA
+H1A_PLADU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H1E_STRPU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M
+H1_PARAN    ~~~~~~~~~~ ~~~~~~~~~~ ~~PGSPQKR. ....AASPRK S.PRKSPKKS
+H1_ECHCR    ~~~~~~~~~~ ~~~~~~~~~~ ~~AASPQKR. ....AASPRK S.PKKSPRKS
+H12_CAEEL   ~~~SDVTVA. .......... .......... ETPAVKTPTK A.PKA..PK.
+H11_CAEEL   ~~~SDSA... .......... .......... ....VVAAAV E.PKV..PKA
+H11_BOVIN   ~~~SETA... .......... ..PAA..PA. ....AAP..P A...EKTPVK
+H11_MOUSE   ~~~SETA... .......... ..PVA..QA. ....AST.AT E...KPAAAK
+H11_HUMAN   ~~~SETV... .......... ..PPA..PA. ....ASA.AP E...KPLAGK
+H101_CHICK  ~~~SETA... .......... ..PAA..AP. ....DAP.AP G...AKAAAK
+H1_ONCMY    ~~~AEVA... .......... ..PA...... .........P A...AAAPAK
+H1B_XENLA   TATTETA... .......... ..PVA..PP. ....AEP.AA A...KKTKKQ
+H1A_XENLA   AEAAESA... .......... ..PAP..PP. ....AEP.AA K...KK..KQ
+H1T_PIG     ~~~AETA... .......... ..PAA..PA. ....DSVPAS V...EKPPAK
+H1T_HUMAN   ~~~SETV... .......... ..PAA..SA. ....SAGVAA M...EKLPTK
+H1T_MOUSE   ~~~SETA... .......... ..PAA..SS. ....TLVPAP V...EKPSSK
+H1L_MYTCA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~PSPSR RSRSRSRS.. ..RSKSPKRS
+H1_WHEAT    ~~MSTDVAA. .........A DIPVPQVEVA ADAAVDTPAA K.PAKAPKAA
+H1_DICDI    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~GPK.....A
+H11_ARATH   ~~MSEVEIEN AATIEGNTAA DAPVTDAAV. ....EKKPAA KGRKTKNVKE
+H1_NEUCR    ~~MPPKKTE. ......TKAA DA........ ..SAAAAPA. ..P.......
+H1_EMENI    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MP. ..P.......
+1aoy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jhg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1idy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1hst_A      ~~~~~~~~~~ ~~~~~~~~SH PTYSEMIAAA IRAE...... ..........
+H5A_XENLA   ......KPKR SKALKKSTDH PKYSDMILAA VQAE...... ..........
+H1D_STRPU   ...KKAAKKK ASKPKTPASH PKYSDMIASA LESL...... ..........
+H1_TIGCA    TETTSAKPKK VSKPKAKPTH PPTSVMVMAA IKAL...... ..........
+H1_DROHY    KKPASASASK AKKTTAPPTH PPTQQMVDAS IQNL...... ..........
+H11_DROVI   KKGSSTP.ES KKSTAAPPSH PPTQQMVDAS IKNL...... ..........
+H1_DROME    KKASGSAGTK AKKASATPSH PPTQQMVDAS IKNL...... ..........
+H1G_STRPU   ~~MSAAKPKV AKKARVAPAH PPSSQMVVAA VTAL...... ..........
+H1B_STRPU   ~~MAAEQKKV AKKPRAKPAH PSSSEMVLAA ITAL...... ..........
+H1E_CHIPA   PKAEKPKSDK PKKPKAAPTH PPVSEMVVNA ITTL...... ..........
+H12_GLYBA   KKEKKPKSDK PKKPKAPRTH PPVSEMVVNA IKTL...... ..........
+H11_GLYBA   KKAKKDGSDK PKKPKAIPTH PPVSEMVVNA LKTL...... ..........
+H1A_PLADU   ~~~~~~~~~A RRRKTAAAAH PPVATMVVTA ILGL...... ..........
+H1E_STRPU   AEK...NSSK KVTTKKPAAH PPAAEMVATA ITEL...... ..........
+H1_PARAN    PRKASASPRR KAKRARASTH PPVLEMVQAA ITAM...... ..........
+H1_ECHCR    PKKKSPR... .KRKARSAAH PPVIDMITAA IAAQ...... ..........
+H12_CAEEL   .....SKTTT EPSSKVAAAH PPFINMIKEA IKQL...... ..........
+H11_CAEEL   KAAKAAKPTK VAKAKAPVAH PPYINTIKEA IKQL...... ..........
+H11_BOVIN   K..K..AAKK PAGARRKASG PPVSELITKA VAAS...... ..........
+H11_MOUSE   KTKK..PAKA A.APRKKPAG PSVSELIVQA VSSS...... ..........
+H11_HUMAN   KAKK..PAKA AAASKKKPAG PSVSELIVQA ASSS...... ..........
+H101_CHICK  K..P..KKAA GGAKARKPAG PSVTELITKA VSAS...... ..........
+H1_ONCMY    ......APKK KAAAKPKKAG PSVGELIVKA VSAS...... ..........
+H1B_XENLA   QPKKVA...G GAK.AKKPSG PSASELIVKA VSSS...... ..........
+H1A_XENLA   QPKKAAAARG AAKSKKPSSG PSVSEQIVTA VSAS...... ..........
+H1T_PIG     KRGK..KPVG LTGTSRKAPS ASVSKLITEA LSVS...... ..........
+H1T_HUMAN   KRGR..KPAG LISASRKVPN LSVSKLITEA LSVS...... ..........
+H1T_MOUSE   RRGK..KPGL ..APARKPRG FSVSKLIPEA LSTS...... ..........
+H1L_MYTCA   PAKKARKTPK KRRATGGAKK PSTLSMIVAA IQAM...... ..........
+H1_WHEAT    KA..KKSTPG PKKPRVTPAH PSYAEMVSEA IAAL...... ..........
+H1_DICDI    PTT.PTKKAA ATKSKPKPNH PTYQVMISTA IAHY...... ..........
+H11_ARATH   VKE.KKTVAA APKKRTVSSH PTYEEMIKDA IVTL...... ..........
+H1_NEUCR    ....AAAPTS APKTKSPSTH ASYLDMITDA IVAL...... ..........
+H1_EMENI    ....KKAPTT AKKAASGPTH TSYRDMIKDA ILNL...... ..........
+1aoy_       ~~~~~~~~~~ ~~~~~~MRSS AKQEELVKAF KALL...... ..........
+1jhg_A      ~~~~~~~~~~ ~SAAMAEQRH QEWLRFVDLL KNAYQNDLHL PLLNLMLTPD
+1idy_       ~~~~~~~~~~ ~~~~~MEVKK TSWTEEEDRI LYQA...... ..........
+
+            101                                                150
+1hst_A      .KSRGGSSRQ SIQKYIKS.H YKVGHNA... DLQIKLSIRR .LLAAGVLKQ
+H5A_XENLA   .KSRSGSSRQ SIQKYIKN.H YKVGENA... DSQIKLSIKR .LVTSGALKQ
+H1D_STRPU   .KEKKGSSRQ AILKYVKA.N FTVGDNA... NVHIKQALKR .GVTSGQLRH
+H1_TIGCA    .KERNGSSLP AIKKYIAA.N YKVDVVK..N AHFIKKALKS .LVEKKKLVQ
+H1_DROHY    .KERGGSSLL AIKKYISA.T YKCDAQK..L APFIKKYLKN .SVANGKLIQ
+H11_DROVI   .KERGGSSLL AIKKYIGA.T YKCDAQK..L APFIKKYLKN .AVANGNVIQ
+H1_DROME    .KERGGSSLL AIKKYITA.T YKCDAQK..L APFIKKYLKS .AVVNGKLIQ
+H1G_STRPU   .KERGGSSTQ AIKKYIAA.N YTVDMTK..Q GPFIRRALVK .GVASGALVQ
+H1B_STRPU   .KERGGSSAQ AIRKYIEK.N YTVDIKK..Q AIFIKRALIT .GVEKGTLVQ
+H1E_CHIPA   .KERGGSSLI AIKKFVAA.Q YKVDVEK..L VPFIKKFLKA .SVAKGTLLQ
+H12_GLYBA   .KERGGSSLQ AIKKFLVA.Q YKVDVEK..L APFIKKYLKG GAVVKGELLQ
+H11_GLYBA   .NEKGGSSVI AIKKFLVA.T YKVEIEK..L LPFIKKFLKG .AVLKGEVLQ
+H1A_PLADU   .KERKGSSMV AIKKYIAA.N YRVDVAR..L APFIRKFIRK ......AVKQ
+H1E_STRPU   .KDRNGSSLQ AIKKYIAT.N FDVQMDR..Q LLFIKRALKS .GVEKGKLVQ
+H1_PARAN    .KERKGSSAA KIKSYMAA.N YRVDMNV..L APHVRRALRN .GVASGALKQ
+H1_ECHCR    .KERRGSSVA KIQSYIAA.K YRCDINA..L NPHIRRALKN .QVKSGALKQ
+H12_CAEEL   .KERKGSSKI AILKYITA.N YKVGDQLTRI NSRLRAALNK .GVASKALVQ
+H11_CAEEL   .KDRKGASKQ AILKFISQ.N YKLGDNVIQI NAHHRQALKR .GVTSKALVQ
+H11_BOVIN   .KERSGVSLA ALKKALAAAG YDVE..K..N NSRIKLGLKS .LVSKGTLVQ
+H11_MOUSE   .KERSGVSLA ALKKSLAAAG YDVE..K..N NSRIKLGLKS .LVNKGTLVQ
+H11_HUMAN   .KERGGVSLA ALKKALAAAG YDVE..K..N NSRIKLGIKS .LVSKGTLVQ
+H101_CHICK  .KERKGLSLA ALKKALAAGG YDVE..K..N NSRIKLGLKS .LVSKGTLVQ
+H1_ONCMY    .KERSGVSLA ALKKSLAAGG YDVE..K..N NSRVKIAVKS .LVTKGTLVQ
+H1B_XENLA   .KERSGVSLA ALKKALAAGG YDVD..K..N NSRLKLALKA .LVTKGTLTQ
+H1A_XENLA   .KERSGVSLA ALKKTLAAGG YDVD..K..N NSRLKLALK. ..VTKETLLQ
+H1T_PIG     .QERAGMSLA ALKKALAAAG YDVE..K..N NSRIKLGLKS .LVGKGILVQ
+H1T_HUMAN   .QERVGMSLV ALKKALAAAG YDVE..K..N NSRIKLSLKS .LVNKGILVQ
+H1T_MOUSE   .QERAGMSLA ALKKALAAAG YDVE..K..N NSRIKLALKR .LVNKGVLVQ
+H1L_MYTCA   .KNRKGSSVQ AIRKYILA.N NKG.INTSRL GSAMKLAFAK .GLKSGVLVR
+H1_WHEAT    .KERSGSSTI AIGKFIED.K HKAHLPA..N FRKILLTQIK KLVAAGKLTK
+H1_DICDI    .KDRTGSSQP AIIKYIEA.N YNVAPDT..F KTQLKLALKR .LVAKGTLTM
+H11_ARATH   .KERTGSSQY AIQKFIEE.K RKELPPT..F RKLLLLNLKR .LVASGKLVK
+H1_NEUCR    .KDRAGSSRQ ALKKYVRANN TLGNVTDNMF DSLFNKALKN .GVDKGVFEQ
+H1_EMENI    .KERNGSSRQ SIKKYVLANN KLAPASQNAF DSQFNKAIKA .GVEKGDFIQ
+1aoy_       .KEEKFSSQG EIVAALQEQG FDNIN..... QSKVSRMLTK ....FGA.VR
+1jhg_A      EREALGTRVR IIEELLRG.E M......... ...SQRELKN .ELGAGIATI
+1idy_       .HKRLGNRWA EIAKLLPG.R TDNAI.KNHW NSTMRRKV~~ ~~~~~~~~~~
+
+            151                                                200
+1hst_A      T....KGVGA SGSFRLAK~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H5A_XENLA   T....KGVGA SGSFRLAKAD EGKKPAKKP. .......... ..........
+H1D_STRPU   V....KGSGA SGSFLLAEKT KTPKKAAAK. .......... ..........
+H1_TIGCA    T....KGAGA SGSFKLAAAA KAEKPKAV.. AKPKKAK.TP ......KK..
+H1_DROHY    T....KGKGA SGSFKLSASS KKEPKPKVSS VEKKS.K.KV TSSAAAAKK.
+H11_DROVI   T....KGKGA SGSFKLSASA NKDAKPKASA VEKKT.K.KV NASAARATKS
+H1_DROME    T....KGKGA SGSFKLSASA KKEKDPKAKS KVLSAEK.KV QSKKVASK..
+H1G_STRPU   T....KGKGA SGSFKLGKKK EGKSDAQKAR IAAKKAK.LA ......AKKK
+H1B_STRPU   V....KGKGA SGSFKLGKKK EGKSDAQKAP DAAKKAK.LA ......AKKK
+H1E_CHIPA   A....KGKGA SGSFKLPPAA KKVDKPKKA. ...PAAP.KP KST...NK.R
+H12_GLYBA   T....KGKGA SGSFKLPAAA KKEKVAKKPM .KATGEK.KP KAA...AKPK
+H11_GLYBA   V....KGTGA SGSFKMPPPA KKVDRPESAP .KKKATK.T. .......KTR
+H1A_PLADU   T....KGTGA SGSFRVNKTA VPKKKKAAKK PKAKKVK.KP KSA...AKKK
+H1E_STRPU   T....KGKGA SGSFKVNVQA AKAQASEKAK KEKEKAK.LL AQR...EKAK
+H1_PARAN    V....TGTGA SGRFRVGAVA KPKKAKKTSA AAKA..K.KA KAA.AAKKAR
+H1_ECHCR    V....SGVGA TGRFRVGAVK RSAASANKLK AT......RE KAR.ARAKAK
+H12_CAEEL   S....VGNGA SGRFRVPEKA AATKKPVAK. ........KP VAK.....KA
+H11_CAEEL   A....RGSGA NGRFRVPEKA AAAKKPAAAK KPAAA.K.KP AAA.....KK
+H11_BOVIN   T....KGTGA SGSF~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H11_MOUSE   T....KGTGA AGSFKLNKKA ESKAIT...T KVSV...... .......KA.
+H11_HUMAN   T....KGTGA SGSFKLNKKA SSVETKPGAS KVAT...... .......KT.
+H101_CHICK  T....KGTGA SGSFRLNKKP GEVKEKAPRK RATA..A... .......KPK
+H1_ONCMY    T....KGTGA SGSFKLNKKA VEAKKP..AK KAAA..P... .......KAK
+H1B_XENLA   V....KGSGA SGSFKLNKKQ LETKDKAAKK K..PAAP... .......KAK
+H1A_XENLA   V....KGSGA SGSFKLNKKQ LQSKDKAAAK KKAPLAA... .......EAK
+H1T_PIG     T....RGTGA SGSFKLSKKA APEPRKGKVK KPAA..A... .......KTK
+H1T_HUMAN   T....RGTGA SGSFKLSKKV IPKSTRSKAK KSVS..A... .......KTK
+H1T_MOUSE   T....KGTGA SGSFKLSKKA ASGNDKGKGK KSAS..A... .......KAK
+H1L_MYTCA   PKTSAGASGA TGSFRVGKAP SSPKKKAKKA KS..PKK.KS .S.....KKS
+H1_WHEAT    V....K.... .GSYKLAKAP AAVKPKTATK .K.KPAA.KP KAKAP.AKKT
+H1_DICDI    V....K.... .ASYKLSEEG KKEHQATLG. ....PVAKKP KAKTT.ATST
+H11_ARATH   V....K.... .ASFKLPSAS AKASSPKAAA EKSAPAKKKP ATVAV.TKAK
+H1_NEUCR    P....K..GP SGGTKLAKKV AKPAPKKAAP KKETKEK.KP AAA....KK.
+H1_EMENI    P....K..GT SGPVKLAKKQ APAKPAPKKP ATTTKTA.AP KKT....AT.
+1aoy_       T....RNAKM EMVYCLPAEL GVPTT~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jhg_A      T....RGS.. .NSLKAAPVE LRQWLEEVLL KSD~~~~~~~ ~~~~~~~~~~
+1idy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1hst_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H5A_XENLA   .......... .......... ......K... .......... .......KEI
+H1D_STRPU   .......... .......... ......K... .......... .......ATP
+H1_TIGCA    .......... .K..AAA... .......... .......... .........T
+H1_DROHY    .KTISATKKP KGVADK..KL SKAVVTKKSV DKKKAEKAKA KDAKKVGTIK
+H11_DROVI   KSSTSTTKKA AGAADK..KL SKSAAAKKNV EKKKADKEKA KDAKKTGTIK
+H1_DROME    KIGVSSKKTA VGAADKKPKA KKAVATKKTA ENKKTEKAKA KDAKKTGIIK
+H1G_STRPU   EQ..R....E KK..ALKTKA RKEKVAAKKA AKKA...... ...TKKTKKV
+H1B_STRPU   EA..K....E KK..AARSKA KKEKLAAKKA SKKT...... ...T...KKV
+H1E_CHIPA   VTGEK..KVV KKPAAKKPEA KK........ ...A...... .......TKA
+H12_GLYBA   KAGEK..... KKSIAKKPKA AT........ ...A...... .......TKV
+H11_GLYBA   V...E..RKE KKVVAKKPKP AV........ ...E...... .......KKA
+H1A_PLADU   TN..R....A RK..PKTKKN RN~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H1E_STRPU   EKGCS....E EGETAEGSRP KKVKAAPKKA KK........ ........PV
+H1_PARAN    KAKAAAK..R KAALAKK... .KAAAAKRKA AAKA...... K.......KA
+H1_ECHCR    KAKAAAR..R KAAAAKR... .KAAAAKRRA AKKA...... R.......KA
+H12_CAEEL   ATGEKK...A KKTTVA.... ...KKTG... .......... .......DKV
+H11_CAEEL   ATGEKK...A KKPAAAKPK. .KAATGD... .......... .......KKV
+H11_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H11_MOUSE   .........K ASGAAKKPK. .KTAGAA... ...A...... KKTVKTPKKP
+H11_HUMAN   .........K ATGASKKLK. .KAT.GA... ...S...... KKSVKTPKKA
+H101_CHICK  KPA..AK..K PAAAAKKPK. .KAA...... .......... .AVKKSPKKA
+H1_ONCMY    KVA..AK..K P.AAAKKPK. .KVAAKK... ...A...... VAAKKSPKKA
+H1B_XENLA   KTAAGAK..K APKSPKKPK. .KVS...... .......... .AAAKSPKKV
+H1A_XENLA   KPAAAAK..K TAKSPKKPK. .KVS...... .......... .AAAKSPKKL
+H1T_PIG     KLVLS..... ..RDSKSP.. .......... .......... .KSAKANKRA
+H1T_HUMAN   KLVLS..... ..RDSKSP.. .......... .......... .KTAKTNKRA
+H1T_MOUSE   KMGLP..... ..RASRSP.. .......... .......... .KSSKTKAVK
+H1L_MYTCA   .SNKS....N N~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H1_WHEAT    AAK.S....P AKKAAAKPKA KAPAK..... ...A...... .......KAV
+H1_DICDI    .........E T.TAAPPATP TKKAAPKKPA AKAASTSTKT AA........
+H11_ARATH   .........R KVAAASKAKK TIAVKPKTAA AKKVTAKAKA KP......VP
+H1_NEUCR    .EGAAK...K ETKEKKAPAA KKAAAPK... .......... ........KA
+H1_EMENI    .KKADK...A EKAE..KPKT KKTNAG.... .......... .........V
+1aoy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jhg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1idy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1hst_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H5A_XENLA   KKAVSPK... ......KV.. AKPK..KAAK SPAK...... .AKKPKVAEK
+H1D_STRPU   KKKPAAK... ......KT.. KKPAAKKATK KPA....... ..KKPAAKKK
+H1_TIGCA    KKPTGEK... ......KA.. KTPKKKPAAK KPAA...... ..........
+H1_DROHY    AKPTTAK... .......... ....AKSSAA KPKT...... ..........
+H11_DROVI   AKPTTAK... .......... ....AKSSAT KPKT...... ..........
+H1_DROME    SKPAATK... .......... ....AKVTAA KPKA...... ..........
+H1G_STRPU   KKPA.AK... ......KA.. KKPAAKK... .PAA...... ..........
+H1B_STRPU   KKPA.AK... ......KA.. KKPAAKKAAK KPAA...... ..........
+H1E_CHIPA   AKPAAKK... ......VA.. AKPAAKKAAA ....PKP... .KPA......
+H12_GLYBA   KKPVAKSTKK Q.....AA.. VKPAAK.KAA ....PKP... .KAVPKPKA.
+H11_GLYBA   AKPAAKK... ......AA.. AKPAAKKAAA KPAAKKP..A AKASPKKAA.
+H1A_PLADU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H1E_STRPU   KKT.TEK... ......KE.. KKKTPKKAPK KPAAKKS..T PKKTPKKAAA
+H1_PARAN    KKP....... .......... .KKKAAKKAK KPAKKSP... .....K....
+H1_ECHCR    KAK....... .......... .......... .P~~~~~~~~ ~~~~~~~~~~
+H12_CAEEL   KKAKSPK... ......KI.. AKPAAKKVAK SPAK...... .KAAPKK...
+H11_CAEEL   KKAKSPK... ......KV.. AKPAAKKVAK SPAK...... .KAAPKK...
+H11_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H11_MOUSE   KKPAV..SKK TSKSPK.KPK V.VKAKKVAK SP........ .....AK.AK
+H11_HUMAN   KKPAA..TRK SSKNPK.KPK T.VKPKKVAK SP........ .....AK.AK
+H101_CHICK  KKPAAAATKK AAKSPKKAAK A.GRPKKAAK SP........ .....AK.AK
+H1_ONCMY    KKPAT..PKK AAKSPKKVKK PAAAAKKAAK SP........ .....KK.A.
+H1B_XENLA   KKLAK..... AAKSPKK..P KAVKAKKVAK SPAKKATKPK TAKSPAK.AK
+H1A_XENLA   KKPAK..... AAKSPAK..K TAVKPKVAAK SP........ .....AK.AK
+H1T_PIG     KKSRTTAAQK AARSGRKT.. KEAKVKQ... .......... QRKSPAK.AR
+H1T_HUMAN   KKPRATT.PK TVRSGRKA.. KGAKGKQ... .......... QQKSPVK.AR
+H1T_MOUSE   .KPKA.TPTK ASGSRRKT.. KGAKGVQ... .......... QRKSPAK.AR
+H1L_MYTCA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H1_WHEAT    AKPKAAA... .......... .KP...KAAA KPKA...... .....KAAAK
+H1_DICDI    AKKNSAKVTK A.....VS.. KKPAAKKAPS K......... ..........
+H11_ARATH   RATAAATKRK A.....VD.. AKPKAKARPA K......... ..........
+H1_NEUCR    AAPKKE.... .......... ..VKEKKAA. AP........ .....K....
+H1_EMENI    KKPAGR.... .......... ..PKANTAK. PR........ .....K....
+1aoy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jhg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1idy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+1hst_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H5A_XENLA   KVKKVAKKKP APSPKKAKKT KTVKAKPVRA S......... ..........
+H1D_STRPU   VAKPAAKKAA KPVAKK.... .......... .......... ..........
+H1_TIGCA    .AKPKKAK.. TP........ .KKKAAPAKK TP.VKKVKKT SPKKKAAPKK
+H1_DROHY    ......PKPK TT........ ...SAKP... ...KKVVAAA SPKK.....A
+H11_DROVI   ......PKPK TT........ ...SAKP... ...KKVVSAT TPKK.....T
+H1_DROME    ......VVAK AS........ ...KAKPAVS AKPKKTVKKA SV.S.....A
+H1G_STRPU   .KKPAAKKAK KPA....... .KKVAKPAKK AA.AK..... PAKKAAKPAK
+H1B_STRPU   .KKPAAKKAA A......... ...KPAPAKK AA.KK..... PAAKKAAK.K
+H1E_CHIPA   ......AKPK K......... ...EVKPKE. .......... ....EAKPKK
+H12_GLYBA   ......AKPK K......... ...EAKPKK. .......... ....AAAPKA
+H11_GLYBA   ......AKPK A......... ...KPTPKKS T......... ....PAKPKA
+H1A_PLADU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H1E_STRPU   .KKPKTAKPK KPA....... .XKKAAKSK~ ~~~~~~~~~~ ~~~~~~~~~~
+H1_PARAN    .......KAK K......... ......PAKK SP.KKKKAKR SPKK......
+H1_ECHCR    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H12_CAEEL   APAKK...AA APKA~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H11_CAEEL   IAKPAAKKAA KPAAKA~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H11_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H11_MOUSE   AVKPKASKAK VTKPKTPA.. ......K... .......... ..........
+H11_HUMAN   AVKPKAAKAR VTKPKTA... ......K... .......... ..........
+H101_CHICK  AVKPKAAKPK ATKPKAAK.. ......A... .......... ..........
+H1_ONCMY    ...TKAAKPK AAKPKAAK.. ......A... .......... ..........
+H1B_XENLA   VAKPKAAKAK KP........ .......... .......... ..........
+H1A_XENLA   AAKPKVAKAK KA........ .......... .......... ..........
+H1T_PIG     AAKPKAGNPK LTQQKTNP.. ......R... .......... ..........
+H1T_HUMAN   ASKSKLTQHH ....EVNV.. ......R... .......... ..........
+H1T_MOUSE   AANPNSGKAK MVMQKTDL.. ......R... .......... ..........
+H1L_MYTCA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+H1_WHEAT    .KAPAAATPK KPA...ARKP PTKRATPVKK .......... ..........
+H1_DICDI    .......... .......... ...K...... .......... ..........
+H11_ARATH   .......... .......... ...AAKTAKV TSPAKKAVAA T........K
+H1_NEUCR    ........KK .......... ...AAAPAVA DKETVLTKTK S.........
+H1_EMENI    ........AS .......... ...TAAPAVV DKPKVVSVTK S.........
+1aoy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jhg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1idy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                          394
+1hst_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H5A_XENLA   .....KVKKA ....KPSKPK AKASPKKSGR KK~~~~~~~~ ~~~~
+H1D_STRPU   .........A ....TPKKKV VKKAAKGKGK KK~~~~~~~~ ~~~~
+H1_TIGCA    K~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1_DROHY    AAKKPKAKTA SATKK~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H11_DROVI   AVKKPKAKTA SATKK~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1_DROME    TAKKPKAKTT AAKK~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1G_STRPU   KAAKPAKKAA KPAKK~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1B_STRPU   VAKKPAAKK. .AAKK~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1E_CHIPA   AAAKPAKPAA KPAKKPAAKK AK~~~~~~~~ ~~~~~~~~~~ ~~~~
+H12_GLYBA   .AKKPAQKKP KATKKPAAKK A~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H11_GLYBA   AARKPAKKSK ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1A_PLADU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1E_STRPU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1_PARAN    ......AKKA AGKRKPAAKK ARRSPRKAGK RRSPKKARK~ ~~~~
+H1_ECHCR    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H12_CAEEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H11_CAEEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H11_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H11_MOUSE   ......PKKA APKKK~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H11_HUMAN   ......PKKA APKKK~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H101_CHICK  ......KKTA AKKK~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1_ONCMY    ......K.KA APKKK~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1B_XENLA   .......... APKK~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1A_XENLA   .......... APKKK~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1T_PIG     ........KA TNRK~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1T_HUMAN   ........KA TSKK~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1T_MOUSE   ........KA AGRK~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1L_MYTCA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H1_WHEAT    .........A APAKKPAAKK AKK~~~~~~~ ~~~~~~~~~~ ~~~~
+H1_DICDI    .......... .....VAAKK ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+H11_ARATH   KVATVATKKK TPVKKVVKPK TVKSPAKRAS SRVKK~~~~~ ~~~~
+H1_NEUCR    ......GRVA KSTAKPAAAK KAAAPKKAAA SKKAEKAEPA AEKA
+H1_EMENI    ......GRKT TTTAKPTEKA TKKTAK.... NKKA~~~~~~ ~~~~
+1aoy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+1jhg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~
+1idy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~

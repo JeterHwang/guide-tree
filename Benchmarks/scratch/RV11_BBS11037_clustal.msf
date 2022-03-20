@@ -1,0 +1,87 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 505  Type: P  December 21, 2021 20:29  Check: 1151  ..
+
+ Name: put3_yeast  Len:    505  Check: 7905  Weight: -1.00
+ Name: yhx8_yeast  Len:    505  Check: 4643  Weight: -1.00
+ Name: cat8_yeast  Len:    505  Check: 5994  Weight: -1.00
+ Name: YB00_YEAST  Len:    505  Check: 7893  Weight: -1.00
+ Name: s50366      Len:    505  Check: 4716  Weight: -1.00
+
+//
+
+            1                                                   50
+put3_yeast  ~~~~~~~~~~ ~~~~~~~~~~ SSGQEEVIQF QLPSYNYTKL LIDCF.....
+yhx8_yeast  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+cat8_yeast  ~~~~~~~~~~ ~~~~~~~EKP ANDQDDE.LL S...LTEIKE LLHLFF.KFW
+YB00_YEAST  TFKYSILQTK LVLDFSFRSA SSPSSDNILY PLPRLAIAKR LLKNIKCPSL
+s50366      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~KKEFLM YDPI...... ..........
+
+            51                                                 100
+put3_yeast  .....INYND GCFYFFNEGL VKCGINKLYL ENKWLY.... ....YD...N
+yhx8_yeast  ~~~TSWVRED GSFKSIDRSL LDRFIAAYFK HNHRLFPMID KIAFLN...D
+cat8_yeast  SNQVPILNND HFLIY..... .......... .......... ....FN...N
+YB00_YEAST  ASLLHIVDVD QCLQFADVH. .......... .......... ....FD...P
+s50366      .......... ...FELNEKL SRSFLDTFFT RLQFKYPILD EQEIYTFYDH
+
+            101                                                150
+put3_yeast  T......... ....KK.ALD NENDPILQAV W....FCKIL LILAVGEMYL
+yhx8_yeast  AATIT..... .DF.ER.LYD NKN...YPDS F....VFKVY MIMAIGCTTL
+cat8_yeast  FVEVVKHLST ENL.ETNNTT KSTVTTNHEI F....ALKLL MMLQMGLLVK
+YB00_YEAST  A......... ....KG.RLT SS.QAFLLNI C....LC... ....LGATVT
+s50366      YLHNKILIPP SSPATSSAAP PSNSHSYSEI EFHFLSGRMW LVFSISAYLL
+
+            151                                                200
+put3_yeast  GSINNEMLKN YSNQPKL..P GSKFFQMGSK .IFNCLFSSE RLEN.VT...
+yhx8_yeast  QRAGM...VS ..QDEECLSE HLAFLAMKKF ...RSV.... ...IILQ...
+cat8_yeast  IKMEKIKYTV PKNPKAK... .......... .YARLMAYYH QLSLIIPKNP
+YB00_YEAST  NFEEKQELVD EDNHETYYFE KFELWRLRSF TFLNSVYYYH KLSVARA...
+s50366      MTTGK..YKG ..FPPHR... ...YFSTAIR HITKCG.... ..........
+
+            201                                                250
+put3_yeast  ........KK GGIEVLLLYA FFLQVADYTL A.SYFYFGQA LRTCLILGLH
+yhx8_yeast  ........DI ETVRCLLLLG IYSFFEPKGS S.SWTISGII MRLTIGLGLN
+cat8_yeast  YFLNMSTTSL PSLQLLSLAS FYYLNVGDIS A.IYGVRGRI VSMAQQLRLH
+YB00_YEAST  ........DM TALKALLLLA KFAQQKISAS S.AVKVLSVA IKVALDLRLN
+s50366      ....LHLNYV QQIELLTLLV LYIIRTDRDS LILYDIIKDV MGIS.KKKLH
+
+            251                                                300
+put3_yeast  VDSQS....D ...TLSRYEI EHHRRLWWTV YMFERMLSSK AGLPLSFTDY
+yhx8_yeast  RELTA....K KLKSMSALEA EARYRVFWSA YCFERLVCTS LGRISGIDDE
+cat8_yeast  RCPSAVLSVH SNPVLQKFEQ SERRLLFWAI YYVDVFASLQ LGVPRLLKDF
+YB00_YEAST  LHSTY....E ...DLELDEI IKRRRLWCYC FSTDKFFSVV LSRPPFLKEE
+s50366      LNQWY..... ....PNDPFA NKKLRLFWCV YLLERMICVA VGKPYTIKES
+
+            301                                                350
+put3_yeast  TIS....TAL PADIDDETIE EKNSHYVFRK AELI...... .SNCVTIVKI
+yhx8_yeast  DITVPLPRAL YVDERDDL.. .......... .EMT...... .KLMISLRKM
+cat8_yeast  DIECALPISD VEYKDQLSME NEKADKKAKK IQLQGQVSSF SLQIIRFAKI
+YB00_YEAST  NTDVLTDESY VELFRDKILP NLSIKYDDSK LEGV...... .KDIVSVVNL
+s50366      EINLPLFNND SFYTKGVHAA AP..STNDHG VQFI...... .NQSLKLRRI
+
+            351                                                400
+put3_yeast  NAQI...... .....LSK.. .....LYQRQ ..PETNIIIT LKVVIKQLLE
+yhx8_yeast  GGR....... .......... .....IYKQV HSVSAG...R QKLTIEQ...
+cat8_yeast  LGNILD.... .......... ....SIFKRG M.....M..D ERITSEVALV
+YB00_YEAST  LANHLEYVPY IQSYFLSRLS LIESQIYYSC FSIRTTLDDT LDEIIENVLE
+s50366      ESQFVETLQ. .......... LLKN....DS RSVKQSI..D QLPL...VRK
+
+            401                                                450
+put3_yeast  W.......RN NLSDSLQV.. .........D FTQKDED... ..F...KISR
+yhx8_yeast  KQEIISGLRK ELDEIYSRES ERRKLKKS.Q MDQVERENNS TTN...VISF
+cat8_yeast  HENALDNWRN QLPEMYYFQI TVNGTVNLDE IRATNQRNTE TKFDKKDIIL
+YB00_YEAST  NQKALDRMRD DLPTILSLEN YKENMRIL.S LDSSKLD... ..F...EVSC
+s50366      FFEDLEVWRK SYSTL..... .......... .......... ......DVKN
+
+            451                                                500
+put3_yeast  LSTNMFT..E YFQGINLAVR PLLFHFASIQ LKRFKTS.NT FVNLQN~~~~
+yhx8_yeast  HSSEIWLAMR YSQLQILLYR PSALM.PKPP ID....SLST LGEF~~~~~~
+cat8_yeast  FEKKILL.LF YFLAKSMIHL PVIAT...KP LPK......N VDNATKKKQS
+YB00_YEAST  CTTILLHLRW YHQKITLSLF ..VISIIGDN LDQRESSRHD IAEIIRRSRL
+s50366      FENETLK.LY YYRSVRLLIQ PYLEFFAPED R.LFRECQAA AGQI~~~~~~
+
+            501   
+put3_yeast  ~~~~~
+yhx8_yeast  ~~~~~
+cat8_yeast  MFNN~
+YB00_YEAST  DFKRN
+s50366      ~~~~~

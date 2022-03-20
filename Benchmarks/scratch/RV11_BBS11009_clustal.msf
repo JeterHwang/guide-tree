@@ -1,0 +1,27 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 105  Type: P  December 21, 2021 20:29  Check: 3561  ..
+
+ Name: 1a70_   Len:    105  Check: 3582  Weight: -1.00
+ Name: 1i7h_A  Len:    105  Check: 7331  Weight: -1.00
+ Name: 1krh_A  Len:    105  Check: 7527  Weight: -1.00
+ Name: 2pia_   Len:    105  Check: 5121  Weight: -1.00
+
+//
+
+        1                                                   50
+1a70_   ~~~~~YKVTL VTPTGNVEFQ CPDD.VYILD AAEEEGIDLP YSCRA.GSCS
+1i7h_A  PKIVILPHQD LCPDGA..VL EANSGETILD AALRNGIEIE HACEKSCACT
+1krh_A  ~~~~~HQVAL QFEDGVTRFI CIAQGETLSD AAYRQQINIP MDCRE.GECG
+2pia_   ~~~~~TPFTV RLSRSGTSFE IPAN.RSILE VLRDANVRVP SSCES.GTCG
+
+        51                                                 100
+1a70_   SCAGKLKTGS LNQDDQSFLD D....DQIDE GW......VL TCAAYPVSD.
+1i7h_A  TCHCIVREGF DSLPESSEQE D....DMLDK AWGLEPESRL SCQARVTDED
+1krh_A  TCRAFCESGN YDMPEDNYIE DALTPEEAQQ GY......VL ACQCRPTSDA
+2pia_   SCKTALCSGE ADHRDMVLRD D....EKGT. .Q......IM VCVSRAKSAE
+
+        101   
+1a70_   VTIET
+1i7h_A  LVVEI
+1krh_A  VFQI~
+2pia_   LVLDL

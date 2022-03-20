@@ -1,0 +1,38 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 161  Type: P  December 21, 2021 20:30  Check: 7279  ..
+
+ Name: 1dvh_   Len:    161  Check: 1570  Weight: -1.00
+ Name: 1cno_A  Len:    161  Check: 5865  Weight: -1.00
+ Name: 1fj0_A  Len:    161  Check: 6433  Weight: -1.00
+ Name: 1b7v_A  Len:    161  Check: 2379  Weight: -1.00
+ Name: 1h31_B  Len:    161  Check: 1032  Weight: -1.00
+
+//
+
+        1                                                   50
+1dvh_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~A.. ...DGAALYK SCIGCHGADG
+1cno_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~AGDIE.. ...AGKAKAA VCAACHGQNG
+1fj0_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~XDAK.. ...AGEAVFK QCMTCHRADK
+1b7v_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~VD.. ...AEAVVQQ KCISCHGGDL
+1h31_B  AEVAPGDVAI DGQGHVARPL TDAPGDPVEG RRLMTDRSVG NCIACHEVTE
+
+        51                                                 100
+1dvh_   SKAAMG..SA KPVKG.QGAE ....ELYKKM KGYADGSYGG ERKAMMTNAV
+1cno_A  ISQV....PI YPNLAGQKEQ ....YLVAAL KAYKAGQRQG GQAPVMQGQA
+1fj0_A  NMVGPALAGV VGRKAGTAAG ....FTYSPL NH.N...... .....SGEAG
+1b7v_A  TGASAP..AI DKAGANYSEE ....EILDII LNGQGGMPGG IAKGAEAEAV
+1h31_B  MADAQFPGTV GPSLDGVAAR YPEAMIRGIL VNSK...... ..........
+
+        101                                                150
+1dvh_   KKYSDEELK. .......... .......... .......... .........A
+1cno_A  TALSDADIA. .......... .......... .......... .........N
+1fj0_A  LVWTADNIVP YLADPNAFLK KFLTEKGKAD QAVGVTKMTF KLANEQQRKD
+1b7v_A  AAWLAEKK~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1h31_B  NVFPE.TVMP AYYRVEGF.. ...NRPGIAF TSKPIEGEIR PLMTAGQIED
+
+        151      161
+1dvh_   LADYMSKL~~ ~
+1cno_A  LAAYYASNPA A
+1fj0_A  VVAYLATLK~ ~
+1b7v_A  ~~~~~~~~~~ ~
+1h31_B  VVAYLMTLTQ ~

@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ hom_ref.msf  MSF: 98  Type: N  November 09, 2021 21:21  Check: 4026  ..
+
+ Name: 1ftz   Len:     98  Check: 4583  Weight: 1.00
+ Name: 1hom   Len:     98  Check: 2326  Weight: 1.00
+ Name: 2hdda  Len:     98  Check: 7356  Weight: 1.00
+ Name: 1ftt   Len:     98  Check: 3391  Weight: 1.00
+ Name: 1nk3p  Len:     98  Check: 1087  Weight: 1.00
+ Name: 1akha  Len:     98  Check: 4929  Weight: 1.00
+ Name: 1b8ib  Len:     98  Check: 8000  Weight: 1.00
+ Name: 1lfb   Len:     98  Check: 2354  Weight: 1.00
+
+//
+
+1ftz      MDSKRTRQTYTRYQTLELEKEFHFN---RYITRRRRIDIANALS----------------
+1hom      M-RKRGRQTYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALC----------------
+2hdda     ------RTAFSSEQLARLKREFNEN---RYLTERRRQQLSSELG----------------
+1ftt      MRRKR-RVLFSQAQVYELERRFKQQ---KYLSAPEREHLASMIH----------------
+1nk3p     KKRKR-RVLFTKAQTYELERRFRQQ---RYLSAPEREHLASLIR----------------
+1akha     ---------ISPQARAFLEEVFRRK---QSLNSKEKEEVAKKCG----------------
+1b8ib     ------RRNFSKQASEILNEYFYSHLSNPYPSEEAKEELARKCG----------------
+1lfb      ------RFKWGPASQQILFQAYERQ---KNPSKEERETLVEECNRAECIQRGVSPSQAQG
+
+
+1ftz      -----LSERQIKIWFQNRRMKSKKDR----TLDSSPEH
+1hom      -----LTERQIKIWFQNRRMKWKKENKTKGEPG-----
+2hdda     -----LNEAQIKIWFKNKRAKIKKS-------------
+1ftt      -----LTPTQVKIWFQNHRYKMKRQAKDKAAQQ-----
+1nk3p     -----LTPTQVKIWFQNHRYKTKRAQNE----------
+1akha     -----ITPLQVRVWFINKRMRS----------------
+1b8ib     -----ITVSQVSNWFGNKRIRYKKN-------------
+1lfb      LGSNLVTEVRVYNWFANRRKEEAFRH------------
+
+

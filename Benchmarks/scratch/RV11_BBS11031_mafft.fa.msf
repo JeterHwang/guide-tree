@@ -1,0 +1,148 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BBS11031_mafft.fa.msf  MSF: 597  Type: N  December 21, 2021 21:48  Check: 1751  ..
+
+ Name: 1gow_A  Len:    597  Check: 7769  Weight: 1.00
+ Name: 1vjz_A  Len:    597  Check: 8468  Weight: 1.00
+ Name: 1bqc_A  Len:    597  Check: 5518  Weight: 1.00
+ Name: 1qno_A  Len:    597  Check: 5360  Weight: 1.00
+ Name: 1c0d_A  Len:    597  Check: 4793  Weight: 1.00
+ Name: 1cz1_A  Len:    597  Check:  879  Weight: 1.00
+ Name: 1edg_   Len:    597  Check: 3703  Weight: 1.00
+ Name: 1ceo_   Len:    597  Check: 9403  Weight: 1.00
+ Name: 1gzj_A  Len:    597  Check: 8866  Weight: 1.00
+ Name: 1a3h_   Len:    597  Check: 1732  Weight: 1.00
+ Name: 1bhg_A  Len:    597  Check: 5260  Weight: 1.00
+
+//
+
+1gow_A     NSFRFGWS--QAGF--QSEMGTPGSE--------------------------------DP
+1vjz_A     IPRWRGFN--L-----LEAFSIKS----------------------------------TG
+1bqc_A     EFIIRGV---------------------------------------------------SH
+1qno_A     VGYFAGTNCYWCSFL-TNHADVDSTF--------------------------------SH
+1c0d_A     PVRIAGIN--WFGFE-TCNYVVHGLW--------------------------------SR
+1cz1_A     NNVIRGVN--LGGWFVLEPYMTPSLFEPFQNGNDQSGVPVDEYHWTQTLGKEAALRILQK
+1edg_      KGLRLGWN--LGNT--FDAF----------NGTNITN---------------------EL
+1ceo_      VSFKAGIN--LGGW--ISQYQVFS----------------------------------KE
+1gzj_A     VFQWFGSN--ESGAE-FGSQNLPGVE--------------------------------GK
+1a3h_      QVQLKGMS--------------------------------------------------SH
+1bhg_A     PFYFHGVNK-------HEDADIR-----------------------------------GK
+
+
+1gow_A     NTDWYKWVHDPENMAAGLVSGDLPENGPGYWGNYKTFHDNAQKM-------GLKIARLNS
+1vjz_A     NF-------------------------------KEEDFLWXAQW-------DFNFVRIPX
+1bqc_A     PHNWY--------------------------PQHTQAFADIKSH-------GANTVRVVL
+1qno_A     IS--------------------------------SSGLKVVRVW-------GFNDVNTQP
+1c0d_A     DY--------------------------------RSMLDQIKSL-------GYNTIRLPY
+1cz1_A     HWSTW---------------------------ITEQDFKQISNL-------GLNFVRIPI
+1edg_      DYETSW----------------------SGIKTTKQMIDAIKQK-------GFNTVRIPV
+1ceo_      HFDTF---------------------------ITEKDIETIAEA-------GFDHVRLPF
+1gzj_A     DYI-W---------------------------PDPNTIDTLISK-------GMNIFRVPF
+1a3h_      GLQWY--------------------------GQ----FVNYESMKWLRDDWGINVFRAAM
+1bhg_A     GFDWP------------------------LLVKDFNLLRWLGAN-------AFRTSHYPY
+
+
+1gow_A     EWSRQFPNPLPRPQNFDESKQDVTEVEINENELKRLDEYANKDALNHYREIFKDLKSRGL
+1vjz_A     C--------------HLLWSDRGNPFIIREDFFEKID------------RVIFWGEKYGI
+1bqc_A     SNGVRW-------------------SKNGPSDVANVI------------SLCKQNRLICM
+1qno_A     S---------PGQIWFQKLSATGSTINTGADGLQTLD------------YVVQSAEQHNL
+1c0d_A     SDDILKPGTMPNSINFYQMNQDLQ----GLTSLQVMD------------KIVAYAGQIGL
+1cz1_A     G--------------YWAFQLLDN-DPYVQGQVQYLE------------KALGWARKNNI
+1edg_      S-------------WHPHVSGSD--YKISDVWMNRVQ------------EVVNYCIDNKM
+1ceo_      D--------------YPIIESDDNVGEYKEDGLSYID------------RCLEWCKKYNL
+1gzj_A     MMERLVPNSMTGSPDPNYL----------ADLIATVN------------AIT----QKGA
+1a3h_      YTSSGG-------------------YIDDPSVKEKVK------------EAVEAAIDLDI
+1bhg_A     A-----------------------------------E------------EVMQMCDRYGI
+
+
+1gow_A     YFI----QNMYHWPLP--LWLHDPIRVRRGDFTG-----PSGWLSTRTV-YEFARFSAYT
+1vjz_A     HIC---------------ISLHRAPGYSV---NKEVEEKTNLWKDETAQ-EAFIHHWSFI
+1bqc_A     LEV---------------HDTTGYGEQSGASTL-----------------DQAVDYWIEL
+1qno_A     KLIIPFVNN---WSDYGGINAYVNAFGGNA---------TTWYTNTAAQ-TQYRKYVQAV
+1c0d_A     RII---------------LDRHRPDCSGQS---------ALWYTSSVSE-ATWISDLQAL
+1cz1_A     RVW---------------IDLHGAPGSQNGFDNSGLRD-SYNFQNGDNT-QVTLNVLNTI
+1edg_      YVI---------------LNTHHDVDKVKGYF-------PSSQYMASSK-KYITSVWAQI
+1ceo_      GLV---------------LDMHHAPG-------------STLFEDPNQQ-KRFVDIWRFL
+1gzj_A     YAV---------------VDPH------NY---------GRYYNSIISSPSDFQTFWKTV
+1a3h_      YVI---------------IDWHILSDNDPNIYK-----------------EEAKDFFDEM
+1bhg_A     VVI----------DECPGVGLA-----------------LPQFFNNVSL-HHHMQVMEEV
+
+
+1gow_A     AWKF-----DDLVDEYSTMNEPNVVG---GLGYVGVKSGFPPGYLSFELSRRAMYNIIQA
+1vjz_A     ARRYKG--ISSTHLSFNLINEP-PFP---------------------DPQIXSVEDHNSL
+1bqc_A     KSVLQG---EEDYVLINIGNEP-YGN---------------------DSATVAAW--ATD
+1qno_A     VSRYAN---STAIFAWELGNEP-R---CNGCS--------------TDVIVQW-------
+1c0d_A     AQRYKG---NPTVVGFDLHNEP-HDPACWGCG---------------DPSIDW----RLA
+1cz1_A     FKKYGGNEYSDVVIGIELLNEP-LGP---------------------VLNMDKL---KQF
+1edg_      AARFAN---YDEHLIFEGMNEPRLVG---------------------HANEWWPELTNSD
+1ceo_      AKRYIN---EREHIAFELLNQV-VEP---------------------DSTRW-----NKL
+1gzj_A     ASQFAS---NPLVI-FDTNNEY-HDM---------------------DQTLVL----NLN
+1a3h_      -SELYG---DYPNVIYEIANEP-NGS---------------------DVTWGNQI--KPY
+1bhg_A     VRRDKN---HPAVVMWSVANEP-------------------------ASHLESA---GYY
+
+
+1gow_A     HARAYDGIKSVSKKPVGIIYANSSFQPLTDKDMEAVEMAENDNRWWFFDAIIRG------
+1vjz_A     IKRTITEIRKIDPERLIII--------------DGLGYGNIP------------------
+1bqc_A     TSAAIQRLRAAGFEHTLVV---------------DAPNWGQDWTNTMRNNADQV------
+1qno_A     ATSVSQYVKSLDSNHLVTLG------------DEGLGLSTGD-------------GAYPY
+1c0d_A     AERAGNAVLSVNPNLLIFV--------------EGVQSYNGDSYWW--GGNLQGAGQYPV
+1cz1_A     FLDGYNSLRQTGSVTPVII---------------HDAF-QVF-----------------G
+1edg_      VVDSINCINQLNQDFVNTV--------------RATGGKNASRYLMCPGYVASPDGATND
+1ceo_      MLECIKAIREIDSTMWLYI--------------GGNNY-NSP-----------------D
+1gzj_A     QAAIDGIRSAGATSQYIFV--------------EG-NSWTGAWTWT--NVN----DNMKS
+1a3h_      AEEVIPIIRNNDPNNIIIV---------------GTGTWSQDVHHAADNQ----------
+1bhg_A     LKMVIAHTKSLDPSRPVTF--------------VSNSNYAAD------------KGA---
+
+
+1gow_A     ------EITRGNEKIVRD-------------------------------------DLKGR
+1vjz_A     ----VDDLTIE--NTVQS-CRGYIPFS----------------------------VTHYK
+1bqc_A     ---YASDPTG---NTVFS-IHMYGVYS-----------QASTITSYLEHFVN--------
+1qno_A     TYGEGTDFAK---NVQIK-SLDFGTFH------------------------------LYP
+1c0d_A     VL----NVPN---RLVYS-AHDYAT-S------------------------------VGP
+1cz1_A     YWNNFLTVAEGQWNVVVD-HHHYQVFS--------GGELSRNINDHISVACNWGWDAKKE
+1edg_      YFRMPNDISGNNNKIIVS-VHAYCPWNFAGLAMADGGTNAWNINDS---------KDQSE
+1ceo_      ELKNLADIDDD--YIVYN-FHFYNPFF----------------------------FTHQK
+1gzj_A     LT----DPSD---KIIYE-MHQYLD-S------------------------------DGS
+1a3h_      ----LADP-----NVMYA-FHFYA-GT-----------HGQNLRDQVDYALD--------
+1bhg_A     ---PYVDVICL--NSYYSWYHDYGHLELIQLQ-----------------------LATQF
+
+
+1gow_A     LDWIGVNYYTRTVVKRTEKGYVSLGGYGHGCERNSVSLAGLPTSDFGWEF----------
+1vjz_A     AEWVDSKDF------------------------------PVPEWPNGWHFGEYW------
+1bqc_A     ------------------------------------------------------------
+1qno_A     DSWGT-----------------------------------NYTWGNG------WIQTHAA
+1c0d_A     QTWFS-----------------------------------DPTFPNNMPG--IWNKNWGY
+1cz1_A     SHWNVAGEWSAALTD---------------CAKWLNGVNRGARYEGAYD-------NAPY
+1edg_      VTW---------------------------------------------------------
+1ceo_      AHWSESAMAY----------------------------NRTVKYPGQYEGIEEFVKNNPK
+1gzj_A     GTSATC---------------------------------VSSTIGQE------RITSATQ
+1a3h_      ------------------------------------------------------------
+1bhg_A     ENWYKK------------------------------------------------------
+
+
+1gow_A     --FPEGLYDV-------------LTKYWNRYHLYMYVTENGIADDADY-QRPYYLVSHVY
+1vjz_A     ------------NREKLLEHYLTWIKLRQ-KGIEVFCGEXGAYNKTPH-DVV--LKWLED
+1bqc_A     ------------------------------AGLPLIIGEFGHDHSDGNPDEDTIMAEAE-
+1qno_A     -------------------------ACLA-AGKPCVFEEYGAQQNPCT-NEAPWQTTSLT
+1c0d_A     -------------------------LFNQ-NIAPVWLGEFGTTLQSTT-DQT-WLKTLVQ
+1cz1_A     IGSCQPLLDISQWSDEHKTDTRRYIE-------------------AQL-DAF--------
+1edg_      --FMDNIYN----------------KYTS-RGIPVIIGECGAVDKNNL-KTR--VEYMSY
+1ceo_      YSFMMELNNLKLNKELLRKDLKPAIEFREKKKCKLYCGEFGVIAIADL-ESR--IKWHED
+1gzj_A     -------------------------WLRA-NGKKGIIGEFAGGANDVC-ETA--ITGMLD
+1a3h_      ------------------------------QGAAIFVSEWGTSAATG--DGGVFLDEAQV
+1bhg_A     ------------------------------YQKPIIQSEYGAETIAGF-HQDPPLMFTEE
+
+
+1gow_A     QVH---RAINSGADVR------GYLHWSLADNYEWASGFSMRFGLLK----------
+1vjz_A     L---------LEIF---KTLNIGFALW------NFRG----PFGILDSERKDVE-YE
+1bqc_A     ------------------RLKLGYIGW------SWSGNGGGVEYLDM--VYN---FD
+1qno_A     -------TRGMGGD-------M---FW------QW----GDTFANGA--QSNSDPYT
+1c0d_A     YLR---PTAQYGAD---SFQWT---FW------SWNPDSGDTGGILK----------
+1cz1_A     ------------------EYTGGWVFW------SWKTE-NAPEWSFQTLTYNGL-FP
+1edg_      Y---------VAQA---KARGILCILWD---NNNFSGT-GELFGF----------FD
+1ceo_      Y---------ISLL---EEYDIGGAVW------NYK-------------KMDFEIYN
+1gzj_A     Y---------MAQN---TDVWTGAIWW------AAGPWWGDY------------IFS
+1a3h_      W---------IDFM---DERNLSWANW------SLTHKDESSAALMP--GAN---PT
+1bhg_A     YQKSLLEQYHLGLDQKRRKYVVGELIWN---FADFMTE-QSPTRVLG--NKKGI-FT
+
+

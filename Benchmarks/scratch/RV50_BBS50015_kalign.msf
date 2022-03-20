@@ -1,0 +1,413 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV50_BBS50015_kalign.msf  MSF: 612  Type: N  December 21, 2021 20:10  Check: 6931  ..
+
+ Name: NCPR_PHACH  Len:    612  Check: 6392  Weight: 1.00
+ Name: 1amo_A      Len:    612  Check:  290  Weight: 1.00
+ Name: MT10_YEAST  Len:    612  Check: 1596  Weight: 1.00
+ Name: YB63_SCHPO  Len:    612  Check: 5294  Weight: 1.00
+ Name: NOS2_RABIT  Len:    612  Check: 5487  Weight: 1.00
+ Name: NOS_DROME   Len:    612  Check: 5403  Weight: 1.00
+ Name: NOS_LYMST   Len:    612  Check:  703  Weight: 1.00
+ Name: 1fnc_       Len:    612  Check: 5172  Weight: 1.00
+ Name: FENR_SPISP  Len:    612  Check: 7700  Weight: 1.00
+ Name: 2pia_       Len:    612  Check: 8198  Weight: 1.00
+ Name: 1fdr_       Len:    612  Check: 7738  Weight: 1.00
+ Name: FENR_AZOVI  Len:    612  Check:  255  Weight: 1.00
+ Name: K502_ACTCH  Len:    612  Check: 8109  Weight: 1.00
+ Name: 1ndh_       Len:    612  Check: 8088  Weight: 1.00
+ Name: NIA_NEUCR   Len:    612  Check: 4782  Weight: 1.00
+ Name: NIA_PICAN   Len:    612  Check: 3122  Weight: 1.00
+ Name: NQRF_HAEIN  Len:    612  Check: 1259  Weight: 1.00
+ Name: DMPP_PSESP  Len:    612  Check: 8336  Weight: 1.00
+ Name: TMOF_PSEME  Len:    612  Check: 2197  Weight: 1.00
+ Name: NDOR_PSEPU  Len:    612  Check: 9808  Weight: 1.00
+ Name: ASCD_YERPE  Len:    612  Check: 1759  Weight: 1.00
+ Name: RFBI_SALTY  Len:    612  Check: 9550  Weight: 1.00
+ Name: XYLA_PSEPU  Len:    612  Check: 7384  Weight: 1.00
+ Name: XYLZ_PSEPU  Len:    612  Check:  189  Weight: 1.00
+ Name: CBDC_BURCE  Len:    612  Check: 2686  Weight: 1.00
+ Name: MMOC_METCA  Len:    612  Check: 8558  Weight: 1.00
+ Name: 1krh_A      Len:    612  Check: 5146  Weight: 1.00
+ Name: 1qfj_A      Len:    612  Check: 7273  Weight: 1.00
+ Name: 1ep1_B      Len:    612  Check: 9842  Weight: 1.00
+ Name: ASRB_SALTY  Len:    612  Check: 9759  Weight: 1.00
+ Name: PYRK_BACHD  Len:    612  Check: 4934  Weight: 1.00
+ Name: PYRK_LISIN  Len:    612  Check: 9922  Weight: 1.00
+
+//
+
+NCPR_PHACH     YPAPIIAAKELFAPGSDRNCVHIELSTESSGITYQHGDHVGVWPSNADKEVDRLLYALGL
+1amo_A         ---------------------------------FLAAVTANRKLNQGT-ERHLMHLELDI
+MT10_YEAST     ---------------------------------FVVKVKENRRVTPADYDRYIFHIEFDI
+YB63_SCHPO     ---------------------------------FPAPILDVRELTKPGAVKRVFHFELDV
+NOS2_RABIT     -----------------------------NLFTMRLRSLQNLHSEKSS-RTTLL-VQLTF
+NOS_DROME      -----------------------------HCCKAKAKPHNLTRLSEGA-KTTML-LEIC-
+NOS_LYMST      -----------------------------EVMPLILAERIQLQAKDSD-QQTIL-IKLDA
+1fnc_          ------------------------------------------------------------
+FENR_SPISP     ------------------------------------------------------------
+2pia_          ------------------------------------------------------------
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+K502_ACTCH     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA_NEUCR      ------------------------------------------------------------
+NIA_PICAN      ------------------------------------------------------------
+NQRF_HAEIN     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+TMOF_PSEME     ------------------------------------------------------------
+NDOR_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+XYLA_PSEPU     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+MMOC_METCA     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+1qfj_A         ------------------------------------------------------------
+1ep1_B         ------------------------------------------------------------
+ASRB_SALTY     ------------------------------------------------------------
+PYRK_BACHD     ------------------------------------------------------------
+PYRK_LISIN     ------------------------------------------------------------
+
+
+NCPR_PHACH     HEKKDTVINIESLDPALAKVPFPVPTTYATVLRHYIDISALAGRQILGVLAKFAPNPEAE
+1amo_A         SDSK-I-----RYESGDHVAVYPANDS--ALVNQIGEIL----GADLDVIMSLN---NLD
+MT10_YEAST     S-GTGM-----TYDIGEALGIHARNNE--SLVKEFLTFY---GLNESDVVLVPN------
+YB63_SCHPO     SNYPLP--EGEEWMVGGSFGVMAPNNE--EDVDELLQLLH-INPDQADAPVLLK---TDG
+NOS2_RABIT     EGSRGP-----SYLPGEHLGIFPGNQT--GLVQGILERV--VDCSSPDQTVCL----EVH
+NOS_DROME      --APGL-----EYEPGDHVGIFPANRT--ELVDGLLNRL--VGVDNPDEVLQLQLLKEKQ
+NOS_LYMST      HNATDL-----KYAPGDHVAIFPANSP--EIVDAILVRLDTSKGPSPDQVVKT----EIS
+1fnc_          ------------------------------------------------------------
+FENR_SPISP     ------------------------------------------------------------
+2pia_          ------------------------------------------------------------
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+K502_ACTCH     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA_NEUCR      ------------------------------------------------------------
+NIA_PICAN      ------------------------------------------------------------
+NQRF_HAEIN     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+TMOF_PSEME     ------------------------------------------------------------
+NDOR_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+XYLA_PSEPU     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+MMOC_METCA     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+1qfj_A         ------------------------------------------------------------
+1ep1_B         ------------------------------------------------------------
+ASRB_SALTY     ------------------------------------------------------------
+PYRK_BACHD     ------------------------------------------------------------
+PYRK_LISIN     ------------------------------------------------------------
+
+
+NCPR_PHACH     AVLKDLNSNKEHYQNIVANGCMKLGEVLQYAAGNDLHADPTASNTTAWKIPFDIIVSSIP
+1amo_A         EESN-----KKH-P---FPCPTTYRTALTYYL--DITNPPR-------TNVLYELAQYAS
+MT10_YEAST     --------KDNHHL---LE-TRTVLQAFVENL--DIFGKPP-------KRFYESLIPYAS
+YB63_SCHPO     GRWPTIWAEDTP-----RELVTTRRELLKWTV-EFMSVAPK-------KQLIRLLAEYAK
+NOS2_RABIT     DESGSYWVKDKR-----LP-PCSLRQALTYFL--DITTPPT-------QLQLHKLARFAT
+NOS_DROME      TSNGIFKCWEPHDK---IP-PDTLRNLLARFF--DLTTPPS-------RQLLTLLAGFCE
+NOS_LYMST      TQLGTNDTWRSH-----LP-ICTSRTAFSFLL--DVTTPPS-------QEILQVLATQAS
+1fnc_          ------------------------------------------------------------
+FENR_SPISP     ------------------------------------------------------------
+2pia_          ------------------------------------------------------------
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+K502_ACTCH     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA_NEUCR      ------------------------------------------------------------
+NIA_PICAN      ------------------------------------------------------------
+NQRF_HAEIN     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+TMOF_PSEME     ------------------------------------------------------------
+NDOR_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+XYLA_PSEPU     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+MMOC_METCA     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+1qfj_A         ------------------------------------------------------------
+1ep1_B         ------------------------------------------------------------
+ASRB_SALTY     ------------------------------------------------------------
+PYRK_BACHD     ------------------------------------------------------------
+PYRK_LISIN     ------------------------------------------------------------
+
+
+NCPR_PHACH     RLQPRYYSISSSPKLYPNAIHATVVVLKYKSEKAPRVEERWIYGVGSNFLLN--------
+1amo_A         --EPSEQEHLHKMASSSGEGKELYLSWVVEARRH--ILAILQDYPSLRPPIDH-------
+MT10_YEAST     --NEEEKKKLEDLVTPA--GAVDLKRFQDVEYYT--YADIFELFPSVRPSLEE-------
+YB63_SCHPO     -----DDTERQVLLFLVSRLGQRAFCDLRDHNVT--LITLLKAFPSVQLPLDH-------
+NOS2_RABIT     --EETHRQRLEALCQPS----E-YNDWKFSNNPT--FLEVLEEFPSLRVPAAF-------
+NOS_DROME      --DTADKERLELLVNDS----SAYEDWRHWRLPH--LLDVLEEFPSCRPPAPL-------
+NOS_LYMST      --SDMDKHKLEQLASNS----EAYEKWRLDLSPN--ILEILDEFPSLKIPPSL-------
+1fnc_          ----YVGRCLLNTKITGDDAPGETWHMVFSHEG------EIPYREGQSVGVIPDG-----
+FENR_SPISP     ----YIGKCLSNEELVREGGTGTVRHLIFDISGG-----DLRYLEGQSIGIIPPG-----
+2pia_          ---------LRLKIASKEKIARDIWSFELTDPQ--GAPL-PPFEAGANLTVA--------
+1fdr_          ---------VTGKVTKVQNWTDALFSL-TVHAPV------LPFTAGQFTKLGLE------
+FENR_AZOVI     ---------NVERVLSVHHWNDTLFSFKTTRNPS------LRFENGQFVMIGLE------
+K502_ACTCH     ---------SRVLPAAAESLFKVIVDLSRSPDL-----VYNFVSPGQYVQIR--------
+1ndh_          ---------YPLRLIDKEVVNHDTRRFRFALPSP--EHI-LGLPVGQHIYLSAR------
+NIA_NEUCR      ---------NSAILTFKESVSPDTKIFHFALSHP--AQS-IGLPVGQHLMMRLP------
+NIA_PICAN      ---------HKITLAEKEVISSDSRIFKFDLEHS--EQL-SGLPTGKHLFLRLK------
+NQRF_HAEIN     ----------ECTVISNDNKATFIKELKLAIPEG----EEVPFRAGGYIQIEAEPHVVNY
+DMPP_PSESP     --------DYRGVVSALVDLSPTIKGLHIKLDR---P---MPFQAGQYVNLA--------
+TMOF_PSEME     --------RFSTRVVSKRFLSDEMFELRLEAEQ---K---VVFSPGQYFMVD--------
+NDOR_PSEPU     --------IIKGTVVAVESPTHDIRRLRVRLSK---P---FEFSPGQYATLQ--------
+ASCD_YERPE     ----------PCKLDSIEFIGEDIAILSLRLPP---T-AKIQYLAGQYIDLI--------
+RFBI_SALTY     ----------PCKVNSAVLVSGDVMTLKLRTPP---T-AKIGFLPGQYINLH--------
+XYLA_PSEPU     ------PIETSALISKQKRLAHDIVEMEVVPDK---Q---IAFYPGQYADVE--------
+XYLZ_PSEPU     ---------YQAAISNVRQLSESTIALSIK-SA---SLNQLAFLPGQYVNLQ--------
+CBDC_BURCE     ---------MTGQMTEIDRGSSSTLQFTLAIDP---S-SKVDFLPGQYAQLR--------
+MMOC_METCA     ----------EAEVVGLNWVSSNTVQFLLQKRPDECGNRGVKFEPGQFMDLT--------
+1krh_A         ----------EGTLARVENLSDSTITFDIQLDD---GQPDIHFLAGQYVNVT--------
+1qfj_A         -------TTLSCKVTSVEAITDTV--YRVRIVP---D-AAFSFRAGQYLMVV--------
+1ep1_B         ----------MMTVVSQREVAYNIFEMVLKGTL--VDEMDLP---GQFLHLA--------
+ASRB_SALTY     -----------SLLPAAYRILSITR--HTPLEWN--FRVAVDFPAHWGQFVEVS------
+PYRK_BACHD     --------TERMTITSHQRIADGIYEMKVTGER--VKEMTSP---GQFVHVK--------
+PYRK_LISIN     --------QTEMKVIQQTEIADKVYELILSGEC--VADM-SP---GQFLMLK--------
+
+
+NCPR_PHACH     ---------------------LKYASHH--DKA--ATLVSD---DS--PSEPSIVSHYPT
+1amo_A         ---------------------LCELLPRLQARY--YSIASS---SK--VHPNSVHICAVA
+MT10_YEAST     ---------------------LVTIIEPLKRRE--YSIASS---QK--VHPNEVHLLIVV
+YB63_SCHPO     ---------------------LLTVLPQLMPRW--YSLSND---PK--VSNNVLEFAVTV
+NOS2_RABIT     ---------------------LLSQLPILKPRY--YSISSS---QD--HTPSEVHLTVAV
+NOS_DROME      ---------------------LLAQLTPLQPRF--YSISSS---PR--RVSDEIHLTVAI
+NOS_LYMST      ---------------------LLTQLPLLQPRY--YSISSS---QQ--KNPNEVHATIAV
+1fnc_          ---------------------EDKNGKPHKLRL--YSIASSALGDF--GDAKSVSLCVKR
+FENR_SPISP     ---------------------TDNNGKPHKLRL--YSIASTRHGDH--VDDKTVSLCVRQ
+2pia_          ---------------------VPNGS----RRT--YSLCND---S---QERNRYVIAVKR
+1fdr_          ---------------------IR---V---QRA--YSYVNS---P----DNPDLEFYLVT
+FENR_AZOVI     ---------------------VDGRPL---MRA--YSIASP---N----YEEHLEFFSIK
+K502_ACTCH     ---------------------IPEAIVNPPPRPAYFYIASP---PSLVKKNLEFEFLIRS
+1ndh_          ---------------------IDG---NLVIRP--YTPVSS---DD--D-KGFVDLVIKV
+NIA_NEUCR      ---------------------DPAKPTESIIRA--YTPISD---GT--LERGTLRVLVKI
+NIA_PICAN      ---------------------DSS--GKYVMRA--YTPKSS---NS--L-RGRLEILIKV
+NQRF_HAEIN     KDFDIPEEYHEDWDKYDLWRYVSKVDEH-IIRA--YSMASY---P---EEKGIIMLNVRI
+DMPP_PSESP     ---------------------LPGIDG---TRA--FSLANP---P---SRNDEVELHVRL
+TMOF_PSEME     ---------------------VPE-LG---TRA--YS-AAN---P---VDGNTLTLIVKA
+NDOR_PSEPU     ---------------------FSP-EH---ARP--YSMAGL---P---D-DQEMEFHIRK
+ASCD_YERPE     ---------------------ING-Q----RRS--YSIANA---P---GGNGNIELHVRK
+RFBI_SALTY     ---------------------YKG-V----TRS--YSIANS---D---ESNG-IELHVRN
+XYLA_PSEPU     ---------------------CAECSA---VRS--YSFSAP---P---QPDGSLSFHVRL
+XYLZ_PSEPU     ---------------------VPGSDQ---TRA--YSFSSL---Q---K-DGEVSFLIRK
+CBDC_BURCE     ---------------------IPGTTE---SRA--YSYSSM---P---G-SSHVTFLVRD
+MMOC_METCA     ---------------------IPGTDV---SRS--YSPANL---P---NPEGRLEFLIRV
+1krh_A         ---------------------LPGTTE---TRS--YSFSSQ---P---G-NRLTGFVVRN
+1qfj_A         ---------------------MDE-RD---KRP--FSMAST---P---DEKGFIELHI--
+1ep1_B         ---------------------VPNGA-MLLRRP--ISISSW---D---KRAKTCTILYRI
+ASRB_SALTY     ---------------------LPR-----VGEA----PISV---SD--YGDGWIDLLIR-
+PYRK_BACHD     ---------------------VDDGSELLLRRP--LSICHV---D---EQTSELTLLYRA
+PYRK_LISIN     ----------------------PSRSDLLMRRP--ISICSY---D---KTAKTCILLYRV
+
+
+NCPR_PHACH     Y--------SIEGPR--------GAYKQGDVVKVPIHVRRSTF------RLPTN------
+1amo_A         VEYEAKSGR--VNKGVATSW--L-RAKEPALVPMFVRKSQ-FR-------LPFK------
+MT10_YEAST     VDWVDNKGR--KRYGQASKY--ISDLAVGSELVVSVKPSV-MK-------LPPS------
+YB63_SCHPO     VEINKVEGGTRSGIG-SGFLKRLALRFLNGERDLVLPMYRGLH----KNAFATHF-----
+NOS2_RABIT     VTYRTRDGQGPLHHGVCSTW--INNLKPEDPVPCFVRSVSGFQ-------LPED------
+NOS_DROME      VKYRCEDGQGDERYGVCSNY--LSGLRADDELFMFVRSALGFH-------LPSD------
+NOS_LYMST      VRFKTQDGDGPVHEGVCSSW--LNRSPIGTVVPCFLRSAPHFH-------LPED------
+1fnc_          LIYTN-D-AGETIKGVCSNF--LCDLKPGAEVKLTGPVGKEML-------MPKD------
+FENR_SPISP     LEYKHPE-TGETVYGVCSTY--LCNLEAGADVAITGPVGKEML-------LPED------
+2pia_          D---------SNGRGGSISF--IDDTSEGDAVEVSLPRNE-FP-------LDKR------
+1fdr_          V---------PDGKL-SPRL--AALKPGDEVQVVSEAAGF-FV-------LDEV------
+FENR_AZOVI     V---------QNGPL-TSRL--QHLKEGDELMVSRKPTGT-LV-------TSDL------
+K502_ACTCH     V---------PGT---TSEV--LCSLKEGDVVDLTQIIGRGFD-------IEQILP----
+1ndh_          YFKDT-HPKFPAGGK-MSQY--LESMKIGDTIEFRGPNGLLVYQGKGKFAIRPDKKSSPV
+NIA_NEUCR      YYASP-T-EDIKGGQ-MTQA--LDALALGKAVEFKGPVGKFVYQGRGVCSVNGRE-----
+NIA_PICAN      YFPNR---EYPNGGI-MTNL--IENLQVGNQIEVKGPVGEFEYVKCGHCSFNNKP-----
+NQRF_HAEIN     ATPPPRQPDAPPGQM-SSYI--WS-LKAGDKVTISGPFGE-FF-------AKET------
+DMPP_PSESP     V---------EGGAA-TGFI--HKQLKVGDAVELSGPYGQ-FF-------VRDS------
+TMOF_PSEME     V---------PNGKV-SCAL----ANETIETLQLDGPYGL-SV-------LKTA------
+NDOR_PSEPU     V---------PGGRV-TEYV--FEHVREGTSIKLSGPLGT-AY-------LRQK------
+ASCD_YERPE     V---------VNGVF-SNII--FNELKLQQLLRIEGPQGT-FF-------VRED------
+RFBI_SALTY     V---------PNGQM-SSLI--FGELQENTLMRIEGPCGT-FF-------IRES------
+XYLA_PSEPU     V---------PGGVF-SGWL--FGGDRTGATLTLRAPYGQ-FG-------LHES------
+XYLZ_PSEPU     L---------PGGLM-SSFL--TSLAKVGDSVSLAGPLGA-FY-------LREI------
+CBDC_BURCE     V---------PNGKM-SGYL--RNQATITETFTFDGPYGA-FY-------LREP------
+MMOC_METCA     L---------PEGRF-SDYL--RNDARVGQVLSVKGPLGV-FG-------LKER------
+1krh_A         V---------PQGKM-SEYL--SVQAKAGDKMSFTGPFGS-FY-------LRDV------
+1qfj_A         ------------GYA-KAVM--DRILKDHQIV-VDIPHGE-AW-------LRDD------
+1ep1_B         G---------DETTG--TYK--LSKLESGAKVDVMGPLGNGFP-------VAEV------
+ASRB_SALTY     -----------NVGK-VTSA--LFTLKEGDNVWLRGCYGN----GYPVDTLRHKP-----
+PYRK_BACHD     -----------EGQG--TKR--LAQKARGETVDILGPLGQGFP-------LEAI------
+PYRK_LISIN     -----------EGDG--TKD--FSSLSKGDSIDVLGPLGKGFD-------LNTI------
+
+
+NCPR_PHACH     -PK-SPVIMIG-PGTGVAPFRGFVQERVA-------------------------------
+1amo_A         -ST-TPVIMVG-PGTGIAPFMG-FIQER--------------------------------
+MT10_YEAST     -PK-QPVIMSG-LGTGLAPFKA-IVEEKL-------------------------------
+YB63_SCHPO     -ASDGPMCLIG-AGVGVAPFRG-FVQRRL-------------------------------
+NOS2_RABIT     -PS-QPCILIG-PGTGIAPFRS-FWQQRLHD-----------------------------
+NOS_DROME      -RS-RPIILIG-PGTGIAPFRS-FWQEF--------------------------------
+NOS_LYMST      -PS-LPIIMIG-PGSGIAPFRS-FWQQRLGEIENTMPSCENTMLSCETTIPSCENSMPSC
+1fnc_          -PN-ATIIMLG-TGTGIAPFRS-FLWKMF-------------------------------
+FENR_SPISP     -ED-ATIIMMA-TGTGIAPFRA-FLWRIF-------------------------------
+2pia_          -A--KSFILVA-GGIGITPMLS-MARQLR-------------------------------
+1fdr_          -PHCETLWMLA-TGTAIGPYLS-ILRLGK-------------------------------
+FENR_AZOVI     -LPGKHLYMLS-TGTGLAPFMS-LIQDPE-------------------------------
+K502_ACTCH     -PEDYPTVLISVTGYGMSAGRS-FIEEGF-------------------------------
+1ndh_          IKTVKSVGMIA-GGTGITPMLQ-VIRAIM-------------------------------
+NIA_NEUCR      -RKVKRFVMVC-GGSGVTPIYQ-VAEAVA-------------------------------
+NIA_PICAN      -YQMKHFVMIS-GGSGITPTYQ-VLQAIF-------------------------------
+NQRF_HAEIN     -DA--EMVFIG-GGAGMAPMRSHIFDQLK-------------------------------
+DMPP_PSESP     -QA-GDLIFIA-GGSGLSSPQS-MILDLL-------------------------------
+TMOF_PSEME     -DE-TQSVFIA-GGSGIAPMVS-MVNTLI-------------------------------
+NDOR_PSEPU     -HT-GPMLCVG-GGTGLAPVLS-IVRGAL-------------------------------
+ASCD_YERPE     -N--LPIVFLA-GGTGFAPVKS-MVEALI-------------------------------
+RFBI_SALTY     -D--RPIIFLA-GGTGFAPVKS-MVEHLI-------------------------------
+XYLA_PSEPU     -NA-TM-VCVA-GGTGLAPIKC-VLQSMT-------------------------------
+XYLZ_PSEPU     -KR--PLLLLA-GGTGLAPFTA-MLEKIA-------------------------------
+CBDC_BURCE     -VR--PILMLA-GGTGLAPFLS-MLQYMA-------------------------------
+MMOC_METCA     -GM-APRYFVA-GGTGLAPVVS-MVRQMQ-------------------------------
+1krh_A         -KR--PVLMLA-GGTGIAPFLS-MLQVLE-------------------------------
+1qfj_A         -EE-RPMILIA-GGTGFSYARS-ILLTAL-------------------------------
+1ep1_B         -TSTDKILIIG-GGIGVPPLYE-LAKQLE-------------------------------
+ASRB_SALTY     ------LLVVA-GGTGVAPVKG-LMRYFV-------------------------------
+PYRK_BACHD     -ASGETALLIG-GGIGVPPLYY-LAKRLK-------------------------------
+PYRK_LISIN     -PAPKTALLIG-GGIGVPPMYQ-LGKELA-------------------------------
+
+
+NCPR_PHACH     ----------------------------------------MARRTIEKHG----PEGLAD
+1amo_A         ----------------------------------------AWLRE-----------QGKE
+MT10_YEAST     -----------------------------------------WQKQ-----------QGYE
+YB63_SCHPO     ------------------------------------------TNATCA------------
+NOS2_RABIT     ----------------------------------------SQHRGLKG------------
+NOS_DROME      ----------------------------------------QVLRDLDP--------TAK-
+NOS_LYMST      ENTMPSCENTMPSCENTIPSCENTIPSCENTMPSCENTIPSWERTMQPCQIILPSQTKKH
+1fnc_          ----------------------------------------FEKHDDYKFN----------
+FENR_SPISP     ----------------------------------------KEQHEDYKFK----------
+2pia_          ------------------------------------------AEGLRS------------
+1fdr_          ------------------------------------------DLDRFK------------
+FENR_AZOVI     ------------------------------------------VYERFE------------
+K502_ACTCH     ------------------------------------------GANKRS------------
+1ndh_          ----------------------------------------K-DPDDHT------------
+NIA_NEUCR      ----------------------------------------V-DDQDGT------------
+NIA_PICAN      ----------------------------------------S-DPEDRT------------
+NQRF_HAEIN     ------------------------------------------RLHSKR------------
+DMPP_PSESP     ------------------------------------------ERGDTR------------
+TMOF_PSEME     ------------------------------------------AQGYEK------------
+NDOR_PSEPU     ------------------------------------------KSGMTN------------
+ASCD_YERPE     ------------------------------------------NKNDQR------------
+RFBI_SALTY     ------------------------------------------QGKCRR------------
+XYLA_PSEPU     ------------------------------------------QAQRER------------
+XYLZ_PSEPU     ------------------------------------------EQGGEH------------
+CBDC_BURCE     ----------------------------------------GLQRNDLP------------
+MMOC_METCA     ------------------------------------------EWTAPN------------
+1krh_A         ------------------------------------------QKGSEH------------
+1qfj_A         ------------------------------------------ARNPNR------------
+1ep1_B         ------------------------------------------KTGCQM------------
+ASRB_SALTY     ----------------------------------------E-NPQEIG------------
+PYRK_BACHD     ------------------------------------------AKGCHV------------
+PYRK_LISIN     ------------------------------------------DKGVQV------------
+
+
+NCPR_PHACH     WGPIRLYYGCRRSDQDFL-YKDEWPE-Y-AKELHG-----KFIMRCAFSREP--PYKPDG
+1amo_A         VGETLLYYGCRRSDEDYL-YREELAR-F-----------HKDGALTQLNVAF--SREQAH
+MT10_YEAST     IGEVFLYLGSRHKREEYL-YGELWEA-Y-----------KDAGIITHIGAAF--SRDQPQ
+YB63_SCHPO     -GKVWVFHGCRDQELDEL-YHGEWENPL-QKSSDDDA-SSTVSQQTETEMDSF-EVKKDG
+NOS2_RABIT     -GRMTLVFGCRHPEEDHL-YQEEMQE-M-----------VRKGVLFQVHTGY--SRLPGK
+NOS_DROME      LPKMWLFFGCRNRDV-DL-YAEEKAE-L-----------QKDQILDRVFLAL--SREQAI
+NOS_LYMST      FGEMVLYTGCRTAK--HMIYAAELEE-M-----------KRLGVLSNYHVAL--SREAAL
+1fnc_          -GLAWLFLG-VPTSSSLL-YKEEFEK-M-KEKAPD-----NFRLDFAVSRE---QTNEKG
+FENR_SPISP     -GLAWLFFG-IPYSPNIL-YQQELEE-L-QEEFPE-----NFRLTLAISRE---QQNPEG
+2pia_          --FRLYYLT-RDPEGTAF-FDELTSD-E--------------WRSDVKIHH---DHGDP-
+1fdr_          --NLVLVHA-ARYAADLS-YLPLMQE--LEKRYEG-----KLRIQTVVSR----ETAAGS
+FENR_AZOVI     --KVVLIHG-VRQVNELA-YQQFITEHLPQSEYFGEAVKEKLIYYPTVTR----ESFHNQ
+K502_ACTCH     --DVRLYYG-AENLETMG-YQERFKD-W---EASG------VRVIPVLSRP---PPNWNG
+1ndh_          --VCHLLFA-NQTEKDIL-LRPELEE-L-RNEHS--A---RFKLWYTVDRAP---EAWDY
+NIA_NEUCR      --ECLVLDG-NRVEGDIL-MKSELDE-L-VERAKPMG---RCRVKYTLSRPG---AEWEG
+NIA_PICAN      --SVQLFFG-NKKVDDIL-LREELDH-I-QEKYPE-----QFKVDYSLSDLDHLPENWSG
+NQRF_HAEIN     --KMSFWYG-ARSKREIF-YQEDFDQ-L-QAENPN------FVWHVALSDALP-EDNWTG
+DMPP_PSESP     --RITLFQG-ARNRAELY-NCELFEE-L-AARHPN------FSYVPALNQANDDPEWQGF
+TMOF_PSEME     --PITVFYG-SRLEAE----LEAAET-L-FGWKEN------LKLINVSSSVVG-NSEKKY
+NDOR_PSEPU     --PILLYFG-VRSQQDLY-DAERLHK-L-AADHPQ------LTVHTVIATG---PINEGQ
+ASCD_YERPE     --QVHIYWG-MPAGHNFY-SDIANE--W-AIKHPN------IHYVPVVSGD---DSTWTG
+RFBI_SALTY     --EIYIYWG-MQYSKDFY-SALPQQ--W-SEQHDN------VHYIPVVSGD---DAEWGG
+XYLA_PSEPU     --DVLLFFG-ARQQRDLY-CLDEIEA-LQLDWGGR------FELIPVLSEESS-TSSWKG
+XYLZ_PSEPU     --PLHLIYG-VTHDHDLV-EMDKLEA-F-AARIPN------FSYSACVAS----PDSAYP
+CBDC_BURCE     --SVRLVYG-VNRDDDLV-GLDKLDE-L-ATQLSG------FSYITTVVD----KDSAQL
+MMOC_METCA     --ETRIYFG-VNTEPELF-YIDELKS-L-ERSMRN------LTVKACVWHP---SGDWEG
+1krh_A         --PVRLVFG-VTQDCDLV-ALEQLDA-L-QQKLPW------FEYRTVVAH----AESQHE
+1qfj_A         --DITIYWG-GREEQHLY-DLCELEA-L-SLKHPG------LQVVPVVEQP---EAGWRG
+1ep1_B         --TIL--LG-FASENVKI-LENEFSN-L--------------KNVTLKIAT---DDGSYG
+ASRB_SALTY     --QLDMILG-YKNRDCVL-YKEEMAT-W-R------G---KHNLVLTLDEGE---ADDRY
+PYRK_BACHD     --INV--LG-FQSAKDSF-YYEQFSQ-L--------------G--TTYVAT---VDGTAG
+PYRK_LISIN     --TFV--NG-FQSEKDSF-YEKEMTE-Y--------------G--TVHIAT---VDGSYG
+
+
+NCPR_PHACH     SKI--------------YVQDLIWEDAEQIADAI--LNGKG--YVYICGDAKSMSKSVEE
+1amo_A         -KV--------------YVQHLLKRDRE-HLWKLI-HEGGA--HIYVCGDARNMAKDVQN
+MT10_YEAST     -KI--------------YIQDRIKENLD-ELKTAV-IDNKG--SFYLCGPTW-PVPDITQ
+YB63_SCHPO     TSGPNHLVVESRSHQHAYVQDEIRHRGDIV-WSVL-SHPHG--KVYLCGGKKGFLDGVEN
+NOS2_RABIT     PKV--------------YVQDILQKELADEVFSVL-HGEQG--HLYVCGDVR-MARDVAT
+NOS_DROME      PKT--------------YVQDLIEQEFD-SLYQLI-VQERG--HIYVCGDVT-MAEHVYQ
+NOS_LYMST      PKM--------------YVQDIIIKNAA-AVYEIV-MKKGG--HFYVSGDVS-MAHDVTR
+1fnc_          EKM--------------YIQTRMAQYAVEL-WEM--LKKDNT-YVYMCG-LKGMEKGIDD
+FENR_SPISP     GKM--------------YIQDRIKENADQL-WEL--IQKPNT-HTYICG-LKGMEGGIDE
+2pia_          TKA--------------FDFWSVFEKSKP---------AQ---HVYCCG-PQALMDTVRD
+1fdr_          LTG--------------RIPALIESGELESTIGLP-MNKETS-HVMLCG-NPQMVRDTQQ
+FENR_AZOVI     --G--------------RLTDLMRSGKLFEDIGLPPINPQDD-RAMICG-SPSMLDESCE
+K502_ACTCH     AVG--------------YVQDVYLKDKPIA------DPRTT--GAVLIG-NPNMVEETRG
+1ndh_          SQG--------------FVNEEMIRDHLPP------PEE--EPLVLMCG-PPPMIQYACL
+NIA_NEUCR      LRG--------------RLDKTMLEREVGE------GDLRGETMVLLCG-PEGMQNMVRE
+NIA_PICAN      VRG--------------RLTFDILDTYV-R------GKKMGEYMLLVCG-PPGMNGVVEN
+NQRF_HAEIN     YTG--------------FIHNVLYENYLKN------HEAPEDCEYYMCG-PPVMNAAVIK
+DMPP_PSESP     K-G--------------FVHDAAKAHFDGR------FGGQ---KAYLCG-PPPMIDAAIT
+TMOF_PSEME     PTG--------------YVHEIIPEYMEG-------LLGA---EFYLCG-PPQMINSVQK
+NDOR_PSEPU     RAG--------------LITDVIEKDILS-------LAGW---RAYLCG-APAMVEALCT
+ASCD_YERPE     ATG--------------FVHQAVLEDIPD-------LSLF---NVYACG-SLAMITAARN
+RFBI_SALTY     RKG--------------FVHHAVMDDFDS-------LEFF---DIYACG-SPVMIDASKK
+XYLA_PSEPU     KRG--------------MVTEYFKEYLTG--------QPY---EGYLCG-PPPMVDAAET
+XYLZ_PSEPU     QKG--------------YVTQYIEPKQLN-------GGEV---DIYLCG-PPPMVEAVSQ
+CBDC_BURCE     RRG--------------YVTQQITNDDMN-------GGDV---DIYVCG-PPPMVEAVRS
+MMOC_METCA     EQG--------------SPIDALREDLESS------DANP---DIYLCG-PPGMIDAACE
+1krh_A         RKG--------------YVTGHIEYDWLN-------GGEV---DVYLCG-PVPMVEAVRS
+1qfj_A         RTG--------------TVLTAVLQDHGT-------LAEH---DIYIAG-RFEMAKIARD
+1ep1_B         TKG--------------HVGMLMNEIDFE---------VD---ALYTCG-APAMLKAVAK
+ASRB_SALTY     QIG--------------RVTDRLADMTLSD------IDTM---QAIVVG-PPIMITFTVK
+PYRK_BACHD     TKG--------------FVTHVLNQEALS---------YN---VVYSCG-PTPMLKAVSE
+PYRK_LISIN     TQG--------------FVTDITKNFPEE---------PD---VIYSCG-PKAMLQAVKA
+
+
+NCPR_PHACH     TLCRILGEAKG-
+1amo_A         TFYDIVAEFGP-
+MT10_YEAST     ALQDILAKDAEE
+YB63_SCHPO     ALIDVCVQYGK-
+NOS2_RABIT     TLKKLVAAKLN-
+NOS_DROME      TIRKCIAGKEQK
+NOS_LYMST      ALELVLCQQGGR
+1fnc_          IMVSLAAAEGID
+FENR_SPISP     GMSAAAGKFDVD
+2pia_          MTGHWPSGTVHF
+1fdr_          LLKETRQMTKHL
+FENR_AZOVI     VLDGFGLKISPR
+K502_ACTCH     ILVAQGVSRE--
+1ndh_          PNLERVGHP---
+NIA_NEUCR      VLKGMGWK----
+NIA_PICAN      WCNARKLD----
+NQRF_HAEIN     MLKDLGVE----
+DMPP_PSESP     TLMQGRLFERDI
+TMOF_PSEME     LLMIENKV----
+NDOR_PSEPU     VTKHLGIS----
+ASCD_YERPE     DFINHGLA----
+RFBI_SALTY     DFMMKNLS----
+XYLA_PSEPU     ELVRLGVA----
+XYLZ_PSEPU     YIRAQGIQ----
+CBDC_BURCE     WLAAEKLN----
+MMOC_METCA     LVRSRGIP----
+1krh_A         WLDTQGIQ----
+1qfj_A         LFCSERNAR---
+1ep1_B         KYDQLE------
+ASRB_SALTY     MLLQKGLKPE--
+PYRK_BACHD     RFIG-E------
+PYRK_LISIN     SFPE-T------
+
+

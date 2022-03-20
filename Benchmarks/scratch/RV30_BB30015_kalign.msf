@@ -1,0 +1,304 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV30_BB30015_kalign.msf  MSF: 719  Type: N  December 21, 2021 20:12  Check: 369  ..
+
+ Name: 1aac_       Len:    719  Check: 6445  Weight: 1.00
+ Name: 1j5c_A      Len:    719  Check:  442  Weight: 1.00
+ Name: PLAS_SYNP7  Len:    719  Check: 4783  Weight: 1.00
+ Name: PLAS_ANASO  Len:    719  Check: 6713  Weight: 1.00
+ Name: 1ag6_       Len:    719  Check: 3008  Weight: 1.00
+ Name: 1b3i_A      Len:    719  Check: 8795  Weight: 1.00
+ Name: 1baw_A      Len:    719  Check: 4697  Weight: 1.00
+ Name: AZUP_RHILV  Len:    719  Check: 5951  Weight: 1.00
+ Name: PLAS_SCEOB  Len:    719  Check: 3551  Weight: 1.00
+ Name: 1cuo_A      Len:    719  Check: 1021  Weight: 1.00
+ Name: AZU1_METJ   Len:    719  Check: 8271  Weight: 1.00
+ Name: AZU2_ALCXX  Len:    719  Check: 8150  Weight: 1.00
+ Name: AZU1_ALCXX  Len:    719  Check: 9232  Weight: 1.00
+ Name: AZUR_BORPE  Len:    719  Check: 8293  Weight: 1.00
+ Name: AZUR_METFL  Len:    719  Check: 6077  Weight: 1.00
+ Name: 1fwx_A      Len:    719  Check:  651  Weight: 1.00
+ Name: NOSZ_ALCEU  Len:    719  Check: 4448  Weight: 1.00
+ Name: NOSZ_BRUME  Len:    719  Check: 4014  Weight: 1.00
+ Name: NOSZ_BRAJA  Len:    719  Check: 4883  Weight: 1.00
+ Name: NSZ1_PSEAE  Len:    719  Check: 5728  Weight: 1.00
+ Name: NOSZ_PSEFL  Len:    719  Check: 5216  Weight: 1.00
+
+//
+
+1aac_          ------------------------------------------------------------
+1j5c_A         ------------------------------------------------------------
+PLAS_SYNP7     ------------------------------------------------------------
+PLAS_ANASO     ------------------------------------------------------------
+1ag6_          ------------------------------------------------------------
+1b3i_A         ------------------------------------------------------------
+1baw_A         ------------------------------------------------------------
+AZUP_RHILV     ------------------------------------------------------------
+PLAS_SCEOB     ------------------------------------------------------------
+1cuo_A         ------------------------------------------------------------
+AZU1_METJ      ------------------------------------------------------------
+AZU2_ALCXX     ------------------------------------------------------------
+AZU1_ALCXX     ------------------------------------------------------------
+AZUR_BORPE     ------------------------------------------------------------
+AZUR_METFL     ------------------------------------------------------------
+1fwx_A         ------------------------------------------------------------
+NOSZ_ALCEU     ------------MSKEKASIGNGPGGIGRRQFLGTAALAGLAGVVACTDKGAAPAAAAVG
+NOSZ_BRUME     MTEET--------RKSQLSRRQLLGTSAFVAAAGASGLGG--ALL----AGSSETALAAG
+NOSZ_BRAJA     MSDSD--------NIKGVSRRTLLGTTA--AAAGVGLAGG--AVVTKDGAGFVSTADAQT
+NSZ1_PSEAE     MSDDT-KSPH--EETHGLNRRGFLGAS---ALTGAAALVG--ASA----LGSAVVGREAR
+NOSZ_PSEFL     MSDKKDQVPGAVEAPRGVSRRSFLGTG---AVTGAV-LAG--ATA----LGAGTFTRESW
+
+
+1aac_          ------------------------------------------------------------
+1j5c_A         ------------------------------------------------------------
+PLAS_SYNP7     ------------------------------------------------------------
+PLAS_ANASO     ------------------------------------------------------------
+1ag6_          ------------------------------------------------------------
+1b3i_A         ------------------------------------------------------------
+1baw_A         ------------------------------------------------------------
+AZUP_RHILV     ------------------------------------------------------------
+PLAS_SCEOB     ------------------------------------------------------------
+1cuo_A         ------------------------------------------------------------
+AZU1_METJ      ------------------------------------------------------------
+AZU2_ALCXX     ------------------------------------------------------------
+AZU1_ALCXX     ------------------------------------------------------------
+AZUR_BORPE     ------------------------------------------------------------
+AZUR_METFL     ------------------------------------------------------------
+1fwx_A         ------------ASADGSVAPGQLDDYYGFWSSGQSGEMRILGIPSMRELMRVPVFNRCS
+NOSZ_ALCEU     APASGAHGAAHGAGASVHLKPGELDTYYGLWSGGHTGDMRVLGLPSGREILRIPCFVPDA
+NOSZ_BRUME     AAKGGMSP---------EVKPGELDEYYVFFSSGQCGEVRIVGLPSMRELMRIPVFNRDS
+NOSZ_BRAJA     KSAAPKAPPARPAVQKTEVAPGELDEYYVFFSSGQSGEMRIIGLPSMRELMRVPVFNRCS
+NSZ1_PSEAE     AAGKGE-R------SKAEVAPGELDEYYGFWSGGHSGEVRVLGVPSMRELMRIPVFNVDS
+NOSZ_PSEFL     AAAAKEAK------SKIHVGPGELDEYYGFWSGGHQGEVRVLGVPSMRELMRIPVFNVDS
+
+
+1aac_          ------------------------------------------------------------
+1j5c_A         ------------------------------------------------------------
+PLAS_SYNP7     ------------------------------------------------------------
+PLAS_ANASO     ------------------------------------------------------------
+1ag6_          ------------------------------------------------------------
+1b3i_A         ------------------------------------------------------------
+1baw_A         ------------------------------------------------------------
+AZUP_RHILV     ------------------------------------------------------------
+PLAS_SCEOB     ------------------------------------------------------------
+1cuo_A         ------------------------------------------------------------
+AZU1_METJ      ------------------------------------------------------------
+AZU2_ALCXX     ------------------------------------------------------------
+AZU1_ALCXX     ------------------------------------------------------------
+AZUR_BORPE     ------------------------------------------------------------
+AZUR_METFL     ------------------------------------------------------------
+1fwx_A         ATGWGQTNESVRIHERTMSERTKKFLAANGKRIHDNGDLHHVHMSFTEGKYDGRFLFMND
+NOSZ_ALCEU     LVGWGITNESKKVMGARPDGTL----------RYTVADTHHTHASYKDGNYDGRYAWVND
+NOSZ_BRUME     ATGWGLTNESRKVLTEGLLPQDREFLKDRGD-IFLNGDLHHPHPSFTDGTYDGRYLYAND
+NOSZ_BRAJA     ATGWGQTNESLKVLTEGMQPATREFLKNRGG-TFMNGDLHHPHVSFTDGTYDGRYAFMND
+NSZ1_PSEAE     ATGWGLTNESKRVLGDSA--------------RFLNGDCHHPHISMTDGKYDGKYLFIND
+NOSZ_PSEFL     ATGWGLTNESKRILGDSA--------------KYQNGDCHHPHISMTDGKYDGKYLFIND
+
+
+1aac_          ------------------------------------------------------------
+1j5c_A         ------------------------------------------------------------
+PLAS_SYNP7     ------------------------------------------------------------
+PLAS_ANASO     ------------------------------------------------------------
+1ag6_          ------------------------------------------------------------
+1b3i_A         ------------------------------------------------------------
+1baw_A         ------------------------------------------------------------
+AZUP_RHILV     ------------------------------------------------------------
+PLAS_SCEOB     ------------------------------------------------------------
+1cuo_A         ------------------------------------------------------------
+AZU1_METJ      ------------------------------------------------------------
+AZU2_ALCXX     ------------------------------------------------------------
+AZU1_ALCXX     ------------------------------------------------------------
+AZUR_BORPE     ------------------------------------------------------------
+AZUR_METFL     ------------------------------------------------------------
+1fwx_A         KANTRVARVRCDVMKCDAILEIPNAKGIHGLRPQKWPRSNYVFCNGEDETPLVNDGTNM-
+NOSZ_ALCEU     KINSRIARIRLDYFICDKITELPNVQGFHGIFPDKRDPVDTKINYTTRVFCGGEFGIPLP
+NOSZ_BRUME     KANTRVCRIRLDVMKCDKIIQLPNQHTVHGLRVQKYPKTGYVFCNGEDRVPIPNDGSHL-
+NOSZ_BRAJA     KANSRVARVRLDVMKCDKIIELPNQHTVHGLRLQKYPRTGYVFCNGEDGVPLPNDGKVL-
+NSZ1_PSEAE     KANSRVARIRLDVMKCDRIVTIPNVQAIHGLRLQKVPHTRYVFCNAEFIIPHPNDGSTF-
+NOSZ_PSEFL     KANSRVARIRLDIMKCDKILTVPNVQAIHGLRLQKVPYTKYVFANAEFVIPHPNDGHTF-
+
+
+1aac_          ------------------------------------------------------------
+1j5c_A         ------------------------------------------------------------
+PLAS_SYNP7     ------------------------------------------------------------
+PLAS_ANASO     ------------------------------------------------------------
+1ag6_          ------------------------------------------------------------
+1b3i_A         ------------------------------------------------------------
+1baw_A         ------------------------------------------------------------
+AZUP_RHILV     ------------------------------------------------------------
+PLAS_SCEOB     ------------------------------------------------------------
+1cuo_A         ------------------------------------------------------------
+AZU1_METJ      ------------------------------------------------------------
+AZU2_ALCXX     ------------------------------------------------------------
+AZU1_ALCXX     ------------------------------------------------------------
+AZUR_BORPE     ------------------------------------------------------------
+AZUR_METFL     ------------------------------------------------------------
+1fwx_A         ---E-DVANYVNVFTAVDADKWEVAWQVLVSGNLDNCDADYEGKWAFSTSYNSEKGMTLP
+NOSZ_ALCEU     SAPTEDAGKYRSLFTCVDAETMAVRWQVLIDGNCDLVATSYDGKLAATNQYNTENGAHFE
+NOSZ_BRUME     ---N-DVKQYHAIFTAVDGETMKVAWQVMVDGNLDNVDCDYXGKYAFSTCYNSEEGTTLA
+NOSZ_BRAJA     ---D-NPKEYHSIFTALDGDTMKVAWQVMVSGNLDNVDSDYQGKYCFSTCYNAEEGVTLA
+NSZ1_PSEAE     ---DLSGDNAFTLYNAIDAETMEVAWQVIVDGNLDNTDMDYSGRFAASTCYNSEKAVDLG
+NOSZ_PSEFL     ---DLQDKNSFTMFNAIDAEKMEMAFQVIVDGNLDNSDADYTGKYAASTCYNSEKAYDLG
+
+
+1aac_          ------------------------------------------------------------
+1j5c_A         ------------------------------------------------------------
+PLAS_SYNP7     ------------------------------------------------------------
+PLAS_ANASO     ------------------------------------------------------------
+1ag6_          ------------------------------------------------------------
+1b3i_A         ------------------------------------------------------------
+1baw_A         ------------------------------------------------------------
+AZUP_RHILV     ------------------------------------------------------------
+PLAS_SCEOB     ------------------------------------------------------------
+1cuo_A         ------------------------------------------------------------
+AZU1_METJ      ------------------------------------------------------------
+AZU2_ALCXX     ------------------------------------------------------------
+AZU1_ALCXX     ------------------------------------------------------------
+AZUR_BORPE     ------------------------------------------------------------
+AZUR_METFL     ------------------------------------------------------------
+1fwx_A         EMTAAEMDHIVVFNIAEIEKAIAAGDYQELNG--VKVVDGRKEAS----SLFTRYIPIAN
+NOSZ_ALCEU     DMMSAERDACVFFNIARIEAAVQAGKFKTYGDSKVPVVDGTQAANKDPKTALTAYVSVPK
+NOSZ_BRUME     EMMSSEQDWIVVFNLKRIEEAVANGDFKEMNG--VPVIDGRH--G----SKYTRYIPVPN
+NOSZ_BRAJA     EMTANEQDWVVIFNLKRIEEAVKKGDFKEMNG--VPVIDGRK--G----SPYTRYVPVSN
+NSZ1_PSEAE     GMMRNERDWVVVFDIPRIEAEIKAKRFVTLGDSKVPVVDGRRKDGKD--SPVTRYIPVPK
+NOSZ_PSEFL     GMMRNERDWVVVFNILRIEAAIKAGKFITLDGSKVPVVDGRKTDGKD--SEFTRYIPVPK
+
+
+1aac_          ------------------------------------------------------------
+1j5c_A         ------------------------------------------------------------
+PLAS_SYNP7     ------------------------------------------------------------
+PLAS_ANASO     ------------------------------------------------------------
+1ag6_          ------------------------------------------------------------
+1b3i_A         ------------------------------------------------------------
+1baw_A         ------------------------------------------------------------
+AZUP_RHILV     ------------------------------------------------------------
+PLAS_SCEOB     ------------------------------------------------------------
+1cuo_A         ------------------------------------------------------------
+AZU1_METJ      ------------------------------------------------------------
+AZU2_ALCXX     ------------------------------------------------------------
+AZU1_ALCXX     ------------------------------------------------------------
+AZUR_BORPE     ------------------------------------------------------------
+AZUR_METFL     ------------------------------------------------------------
+1fwx_A         NPHGCNMAPDKKHLCVAGKLSPTVTVLDVTRFDAVFYENA-DPRSAVVAEPELGLGPLHT
+NOSZ_ALCEU     NPHGVNASPDQKYFICAGKLSPTATVIELSRVLGWFDGKQEKLDDAIVAEVELGLGPLHT
+NOSZ_BRUME     SPHGINTALDGIHVVANGKLSPTVTVFDVRKFDDLFDDKI-KPRDAVVAEPELGLGPLHT
+NOSZ_BRAJA     NPHGMNTAPDGIHIVAAGKLSPTVTVMDVRLFDQLFDDKI-KPRDVVVAEPELGLGPLHT
+NSZ1_PSEAE     NPHGLNTSPDGKYFIANGKLSPTCTMIAIERLGDLFAGKLADPRDVVVGEPELGLGPLHT
+NOSZ_PSEFL     NPHGLNTSSDGKYFIANGKLSPTVSMIAIDRLDDLFNDRYKDPREVIVAEPELGLGPLHT
+
+
+1aac_          ------------------------------------------------------------
+1j5c_A         ------------------------------------------------------------
+PLAS_SYNP7     ------------------------------------------------------------
+PLAS_ANASO     ------------------------------------------------------------
+1ag6_          ------------------------------------------------------------
+1b3i_A         ------------------------------------------------------------
+1baw_A         ------------------------------------------------------------
+AZUP_RHILV     ------------------------------------------------------------
+PLAS_SCEOB     ------------------------------------------------------------
+1cuo_A         ------------------------------------------------------------
+AZU1_METJ      ------------------------------------------------------------
+AZU2_ALCXX     ------------------------------------------------------------
+AZU1_ALCXX     ------------------------------------------------------------
+AZUR_BORPE     ------------------------------------------------------------
+AZUR_METFL     ------------------------------------------------------------
+1fwx_A         AFDGRGNAYTSLFLDSQVVKWNIEDAIRAYAGEK-VDPIKDKLDVHYQPGHLKTVMGETL
+NOSZ_ALCEU     AFDGRGNAYTTLFLDSQLVKWNLDAAIKFHKGDKNAKYVVDRLDLQYQPGHVNASQSETV
+NOSZ_BRUME     AYDDKGNAYTTLFIDSQICKWNIEDAKRAFKGEK-VDPIRQKLDVHYQPGHNHSSMGQTK
+NOSZ_BRAJA     AYDGKGNAYTTLFLDSQVVKWNIDLAKRAFKGEK-VDPIIQKLDVHYQPGHNHSSMGQTK
+NSZ1_PSEAE     TFDGRGNAYTTLFIDSQLVKWNLADAVRAYKGEK-VDYIRQKLDVQYQPGHNHATLCETS
+NOSZ_PSEFL     TFDGRGNAYTTLFIDSQVVKWNMDEAIRAYKGEK-VNYIKQKLDVQYQPGHNHASLTETS
+
+
+1aac_          ------------------------------------------------------------
+1j5c_A         ------------------------------------------------------------
+PLAS_SYNP7     -----------------------------------------------------MKVLASF
+PLAS_ANASO     -----------------------------------------------------MKLIAAS
+1ag6_          ------------------------------------------------------------
+1b3i_A         ------------------------------------------------------------
+1baw_A         ------------------------------------------------------------
+AZUP_RHILV     ------------------------------------------------------------
+PLAS_SCEOB     -----------------------------------------MASLMRKAAVAPAKATRTT
+1cuo_A         ------------------------------------------------------------
+AZU1_METJ      ------------------------------------------------------------
+AZU2_ALCXX     ------------------------------------------------------------
+AZU1_ALCXX     ------------------------------------------------------------
+AZUR_BORPE     -------------------------------------------------MFKQVLGGMAL
+AZUR_METFL     -------------------------------------------------MRNQLLFALAF
+1fwx_A         DATNDWLVCLSKFSKDRFLNVGPLKPENDQLIDISGDKMVLVHDGPTFAEPHDAIAVHPS
+NOSZ_ALCEU     AADGKYLAVGCKFSKDRFLPVGPLHPENEQLIDISGQKMVLMADHPVRGEPHDFIIFKRE
+NOSZ_BRUME     EVDGKWLISLNKFSKDRYLNVGPLKPENDQLIDISGDKMVIVHDGPSFAEPHDATIVHRS
+NOSZ_BRAJA     EADGKWLISLNKFSKDRFLNVGPLKPENDQLIDISGDQMKLVHDGPSFAEPHDATIVHRS
+NSZ1_PSEAE     EADGKWIVVLSKFSKDRFLPTGPLHPENDQLIDISGEEMKLVHDGPTFAEPHDCILARRD
+NOSZ_PSEFL     EADGKWLVVLCKFSKDRFLPTGPLHPENDQLIDISGEEMKLVHDGPAFAEPHDCILARRD
+
+
+1aac_          ----------------DKATIPSESPFAAAEVADGAIVVDIAKMKYETPELHVKVGDTVT
+1j5c_A         ---------------------------ANA---TVKMGSDSGALVFEPSTVTIKAGEEVK
+PLAS_SYNP7     ARRLS---LFAVAAVLCVGSFFLSAAPASAQTVAIKMGADNGMLAFEPSTIEIQAGDTVQ
+PLAS_ANASO     LRRLS---LAVLTVLLVVSSFAVFTPSASAETYTVKLGSDKGLLVFEPAKLTIKPGDTVE
+1ag6_          --------------------------------VEVLLGGDDGSLAFLPGDFSVASGEEIV
+1b3i_A         -----------------------------A-SVQIKMGTDKYAPLYEPKALSISAGDTVE
+1baw_A         ------------------------------ETFTVKMGADSGLLQFEPANVTVHPGDTVK
+AZUP_RHILV     -MPLK---FGLIVATAALIASAASLMAADHQVQMLNKGTD-GAMVFEPGFLKIAPGDTVT
+PLAS_SCEOB     VKASA---SLQRVAQAAGVAVAGFSLALSANAANVKLGADSGALVFEPATVTIKAGDSVT
+1cuo_A         -------------ASCETTVTSGDTMTYSTRSISVPASCAEFTVNFEHKGHMPKTGMGHN
+AZU1_METJ      -------------AGCSVDVEANDAMQYNTKNIDVEKSCKEFTVNLKHTGSLPKNVMGHN
+AZU2_ALCXX     -------------AQCEATVESNDAMQYNVKEIVVDKSCKQFTMHLKHVGKMAKVAMGHN
+AZU1_ALCXX     -------------AECSVDIAGNDGMQFDKKEITVSKSCKQFTVNLKHPGKLAKNVMGHN
+AZUR_BORPE     MAAFS---APVLAAECSVDIAGTDQMQFDKKAIEVSKSCKQFTVNLKHTGKLPRNVMGHN
+AZUR_METFL     IPTIA---A--AASNCEVNVSAGDSMAFNTRSIDIPKSCKEFTVNFAHTGTASKAGMGHN
+1fwx_A         ILSDIKSVWDRNDPMWAETRAQAEADGVDIDNWTEEVIRDGNKVRVYMSSVAPSFSIESF
+NOSZ_ALCEU     LVRPK---QVYALDDFPLAIKDPKESGVFRNGRKVTVKITSQAPAFSLREFKLKKGDEVT
+NOSZ_BRUME     KINPV-SFWSREDPFFADAVAQAKADGLDLME-ANEVVRDGNKVRVYMTSSAPAFGLTEF
+NOSZ_BRAJA     KINPI-SIWDRADPMFADAVKQAKADGINLEA-DSKIIRDGNKVRVYMTSTAPAFGLEQF
+NSZ1_PSEAE     QIKTR-KIWDRKDPFFAETVKRAEKDGIDLMK-DNKVIREGNKVRVYMVSMAPSFGLTEF
+NOSZ_PSEFL     QIKTQ-KIWNRNDPFFADTVALAKKDGINLET-DNKVIRDGNKVRVYMTSMAPAYGLTEF
+
+
+1aac_          WINREAMPHNVHFVAG--------VLGEAALKGPMMKK----EQAYSLTFT-EA---GT-
+1j5c_A         WVNNKLSPHNIVFAAD---GVDADTAAKLSHKGLAFAA----GESFTSTFT-E--P-GT-
+PLAS_SYNP7     WVNNKLAPHNVVVEGQ----------PELSHKDLAFSP----GETFEATFS-E--P-GT-
+PLAS_ANASO     FLNNKVPPHNVVFDAALNPAKSADLAKSLSHKQLLMSP----GQSTSTTFP-ADAPAGE-
+1ag6_          FKNNAGFPHNVVFDEDEIPSGVDAAKISMSEEDLLNAP----GETYKVTLT-EK---GT-
+1b3i_A         FVMNKVGPHNVIFDKV---PA-GESAPALSNTKLAIAP----GSFYSVTLG-T--P-GT-
+1baw_A         WVNNKLPPHNILFDDKQVPGASKELADKLSHSQLMFSP----GESYEITFS-SDFPAGT-
+AZUP_RHILV     FIPTD-KSHNVETFKGLIPDGV---------PDFKSKP----NEQYQVKFD-I--P-GA-
+PLAS_SCEOB     WTNNAGFPHNIVFDEDAVPAGVNAD--ALSHDDYLNAP----GESYTAKFD-TA---GE-
+1cuo_A         WVLAKSADVGDVAKEGAHAGADNNFVTPGDKRVIAFTPIIGGGEKTSVKFKVSALSKDEA
+AZU1_METJ      LVITKTADFKAVMNDGVAAGEAGNFVKAGDARVVAHTKLVGGGEKDSVKVDVSKLAAGEK
+AZU2_ALCXX     LVLTKDADKQAVATDGMGAGLAQDYVKAGDTRVIAHTKVIGGGESDSVTFDVSKIAAGEN
+AZU1_ALCXX     WVLTKQADMQGAVNDGMAAGLDNNYVKKDDARVIAHTKVIGGGETDSVTFDVSKLAAGED
+AZUR_BORPE     WVLTKTADMQAVEKDGIAAGLDNQYLKAGDTRVLAHTKVLGGGESDSVTFDVAKLAAGDD
+AZUR_METFL     WVLARSADVNDLAKAGVEAGIDKNFIPPNDPRVLAYTPLVGGGEKTSVTFKPSILKDGES
+1fwx_A         TVKEGDEVTVIVTNLDEIDDLTHGFTMGNYGVAMEIGP----QMTSSVTFV-AANP-GV-
+NOSZ_ALCEU     LILTNLDKIEDLTHG---------FAIPKYNVNFIVNP----QETASVTFV-ADKP-GV-
+NOSZ_BRUME     TVQQDDEVTVYVTNIDEIEDLTHGFAIVNYGVNMEVAP----QATASVTFK-ASKP-GV-
+NOSZ_BRAJA     QVKQGDQVTVYITNIDAVEDLTHGFCIVNYGIQMEVAP----MATASVSFS-ADKA-GV-
+NSZ1_PSEAE     KVKQGDEVTVTITNLDEIEDVTHGFVMVNHGVCMEISP----QQTSSITFV-ADKP-GV-
+NOSZ_PSEFL     TVKQGNEVTVTITNIDQIEDVSHGFVMTNHGASMEISP----QQTSSITFT-ADKA-GL-
+
+
+1aac_          YDYHCT-PH--PF--MRGKVVVE------------------------------------
+1j5c_A         YTYYCE-PHRGAG--MVGKVVVD------------------------------------
+PLAS_SYNP7     YTYYCE-PHRGAG--MVGKIVVQ------------------------------------
+PLAS_ANASO     YTFYCE-PHRGAG--MGGKITVAG-----------------------------------
+1ag6_          YKFYCS-PHQGAG--MVGKVTVN------------------------------------
+1b3i_A         YSFYCT-PHRGAG--MVGTITVE------------------------------------
+1baw_A         YTYYCA-PHRGAG--MVGKITVEG-----------------------------------
+AZUP_RHILV     YVLKCT-PHVGMG--MVALIQVGDNPANLEPIKIAKVPNMVRKRLDADLAQITPAQITQ
+PLAS_SCEOB     YGYFCE-PHQGAG--MVGKVIVQ------------------------------------
+1cuo_A         YTYFCSYPGHFSM--MRGTLKLEE-----------------------------------
+AZU1_METJ      YTFFCSFPGHATM--MRGTVTVK------------------------------------
+AZU2_ALCXX     YAYFCSFPGHWAM--MKGTLKLGS-----------------------------------
+AZU1_ALCXX     YAYFCSFPGHFAL--MKGVLKLVD-----------------------------------
+AZUR_BORPE     YTFFCSFPGHGAL--MKGTLKLVD-----------------------------------
+AZUR_METFL     YSFYCSFAFHSFM--MRGTVKLVD-----------------------------------
+1fwx_A         YWYYCQWFCHALHMEMRGRMLVEPKEA--------------------------------
+NOSZ_ALCEU     FWCYCTHFCHALHLEMRTRMIVEA-----------------------------------
+NOSZ_BRUME     WWYYCSWFCHAMHMEMQGRMLVEPKKA--------------------------------
+NOSZ_BRAJA     YWYYCSWFCHAMHMEMKGRMFVEPKSV--------------------------------
+NSZ1_PSEAE     HWYYCSWFCHALHMEMCGRMLVE--KA--------------------------------
+NOSZ_PSEFL     HWYYCSWFCHALHMEMVGRMLVE--KA--------------------------------
+
+

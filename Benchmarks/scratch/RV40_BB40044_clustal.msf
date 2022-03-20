@@ -1,0 +1,689 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 614  Type: P  December 21, 2021 20:40  Check: 1994  ..
+
+ Name: 1a8l_       Len:    614  Check: 5908  Weight: -1.00
+ Name: 2trc_P      Len:    614  Check:  180  Weight: -1.00
+ Name: YBM4_YEAST  Len:    614  Check: 6384  Weight: -1.00
+ Name: TXN4_HUMAN  Len:    614  Check: 9075  Weight: -1.00
+ Name: TXL2_HUMAN  Len:    614  Check: 1863  Weight: -1.00
+ Name: 1mek_       Len:    614  Check: 8738  Weight: -1.00
+ Name: 1erv_       Len:    614  Check: 5110  Weight: -1.00
+ Name: 1r26_A      Len:    614  Check: 1238  Weight: -1.00
+ Name: 1thx_       Len:    614  Check: 4615  Weight: -1.00
+ Name: THI2_SYNY3  Len:    614  Check: 5071  Weight: -1.00
+ Name: THIM_CHLRE  Len:    614  Check: 1951  Weight: -1.00
+ Name: THIO_CYACA  Len:    614  Check: 6519  Weight: -1.00
+ Name: THIO_PORPU  Len:    614  Check: 5367  Weight: -1.00
+ Name: THIM_PEA    Len:    614  Check: 1640  Weight: -1.00
+ Name: THIM_SPIOL  Len:    614  Check: 4373  Weight: -1.00
+ Name: THIM_ORYSA  Len:    614  Check: 1824  Weight: -1.00
+ Name: THIM_MAIZE  Len:    614  Check:  371  Weight: -1.00
+ Name: THIM_WHEAT  Len:    614  Check: 5441  Weight: -1.00
+ Name: THI1_CORNE  Len:    614  Check: 3212  Weight: -1.00
+ Name: THM4_ARATH  Len:    614  Check: 4862  Weight: -1.00
+ Name: THIM_BRANA  Len:    614  Check:  981  Weight: -1.00
+ Name: THM2_ARATH  Len:    614  Check: 3932  Weight: -1.00
+ Name: THIO_MYCTU  Len:    614  Check: 2244  Weight: -1.00
+ Name: THIO_ALIAC  Len:    614  Check: 1876  Weight: -1.00
+ Name: THI2_CAEEL  Len:    614  Check: 1152  Weight: -1.00
+ Name: THI2_BOVIN  Len:    614  Check: 5234  Weight: -1.00
+ Name: THIO_MYCGA  Len:    614  Check: 6425  Weight: -1.00
+ Name: THIO_MYCGE  Len:    614  Check: 6066  Weight: -1.00
+ Name: MPD1_YEAST  Len:    614  Check:  209  Weight: -1.00
+ Name: TXLA_SYNP7  Len:    614  Check: 7504  Weight: -1.00
+ Name: THI1_SYNY3  Len:    614  Check: 7249  Weight: -1.00
+ Name: THI1_CHLTE  Len:    614  Check: 6427  Weight: -1.00
+ Name: THI2_ECOLI  Len:    614  Check: 4469  Weight: -1.00
+ Name: THM3_ARATH  Len:    614  Check:  569  Weight: -1.00
+ Name: THIO_NEUCR  Len:    614  Check: 9042  Weight: -1.00
+ Name: THI3_CORNE  Len:    614  Check: 9252  Weight: -1.00
+ Name: THIO_ECHGR  Len:    614  Check: 2357  Weight: -1.00
+ Name: TRX3_YEAST  Len:    614  Check: 3893  Weight: -1.00
+ Name: THIO_COPCM  Len:    614  Check: 4032  Weight: -1.00
+ Name: THIO_CHLMU  Len:    614  Check:  922  Weight: -1.00
+ Name: YE04_YEAST  Len:    614  Check: 3316  Weight: -1.00
+ Name: YD98_YEAST  Len:    614  Check: 3983  Weight: -1.00
+ Name: THIO_CHICK  Len:    614  Check: 5452  Weight: -1.00
+ Name: TXNL_HUMAN  Len:    614  Check: 6614  Weight: -1.00
+ Name: THH1_ARATH  Len:    614  Check: 1142  Weight: -1.00
+ Name: THIT_DROME  Len:    614  Check: 6526  Weight: -1.00
+ Name: THIF_MESCR  Len:    614  Check: 7384  Weight: -1.00
+
+//
+
+            1                                                   50
+1a8l_       ~~~~~~~~~M GLISDADKKV I......... ..KEEFFSKM VNP....VKL
+2trc_P      EGQATHTGPK GVINDWRKFK LESEDGDSIP PSKKEILRQM SSP....Q..
+YBM4_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MAIVINKRNV RVLVITNLLL
+TXN4_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXL2_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mek_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1erv_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1r26_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1thx_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_CHLRE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CYACA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_PORPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MALESLFKSI HTK....TSL
+THIM_SPIOL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MAIENCLQL. ..S....TSA
+THIM_ORYSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MALETCFRAW ATL....HAP
+THIM_MAIZE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MAMETCFRAW ALH....A.P
+THIM_WHEAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MALETCLRGW ALY....A.P
+THI1_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM4_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MASLLDSV TVT....RVF
+THIM_BRANA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MAAFTCTSSP PIS....LRS
+THM2_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MAAFTCTSRP PIS....LRS
+THIO_MYCTU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ALIAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MAQRLLLRRF LTS....I..
+THIO_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MPD1_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXLA_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MT....A..
+THI1_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM3_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MAISSSSSSI C.........
+THIO_NEUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI3_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MI....I..
+THIO_ECHGR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRX3_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_COPCM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YE04_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YD98_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXNL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THH1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIT_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIF_MESCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MA MQLSLSHQSW AKS....LAS
+
+            51                                                 100
+1a8l_       IVFVRKDHCQ YCDQ.LKQLV QELSELTDKL SYEIVDFD.. TPEGKELAKR
+2trc_P      ......SRDD KDSK.ERXS. ....RKXSIQ EYELIHQDK. EDEGC.L...
+YBM4_YEAST  IVVFFVLRNS NASVNESITT H........H PDSLVTFDN. ..........
+TXN4_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MHPA. ..........
+TXL2_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mek_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1erv_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1r26_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1thx_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_CHLRE  ~~~~~~~M.. ...A.LV... .......... .ARRA...A. VPSAR.....
+THIO_CYACA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_PORPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_PEA    S...SSIV.. ...F.IF... .......... .KGKA...C. LLTSK.....
+THIM_SPIOL  S...VGTV.. ...A.VKSHV HHL...Q... PSSKV...N. VPTFR.....
+THIM_ORYSA  QPPSSGGS.. ...R.DRLL. .......... .LSGA...G. SSQSK.....
+THIM_MAIZE  ....AGS... ...K.DRLL. .......... .VGNL...V. LPSKR.....
+THIM_WHEAT  ....QAGI.. ...R.ERLS. .......... .SGSY...A. PSRPR.....
+THI1_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM4_ARATH  SLPIAASVSS SSAA.PSVSR RRI...S... PARFLEFRG. LKSSR.....
+THIM_BRANA  EMMI...ASS K..T.VSLST R......... ....QMFSV. ....GGLR..
+THM2_ARATH  ETRI...VSS SPSA.SSLSS R......... ....RMFAV. LPESSGLR..
+THIO_MYCTU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ALIAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_BOVIN  .......ISG KPSQ.SR... .....WAPVA SRA.LKTPQ. YSPGY.L...
+THIO_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MPD1_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~MLF... ..........
+TXLA_SYNP7  .......DNS VPSR.LR... .....NILVI AAA....... LVLTI.L...
+THI1_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MNTV. CTHCQ.....
+THM3_ARATH  .........F NPTR.F.HTA RHI...S... SPSRL.FPVT SFSPRSLR..
+THIO_NEUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI3_CORNE  .......VCA SCGA.KN... .......... ........R. VPEEK.L...
+THIO_ECHGR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRX3_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~MLFY.. KPV.......
+THIO_COPCM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YE04_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YD98_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MCSFQ VPSAF.....
+THIO_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXNL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THH1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIT_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIF_MESCR  PITSFDPARS PPKR.VELGP NCLNGGA... TAGKLMREKV GER.......
+
+            101                                                150
+1a8l_       YRIDRAPA.. TTITQDGKDF GVRYFGLPAG HEFAAFLEDI VDVSREETNL
+2trc_P      .RKYRRQC.. XQDXHQKLSF GPRYGFVYEL ETGEQFLET. ..........
+YBM4_YEAST  .......... .....SGNAP GTHQSVH.DT VNTQDKEAEE VDKNSGDAEF
+TXN4_HUMAN  ..V...FLS. .......LP. DLRCSLL..L LVTWVFTPVT TEITS....L
+TXL2_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MAA GAAEAAVAAV EEVGS....A
+1mek_       ~~~~~~~~~~ ~~~~DA.... .PEEEDHVLV LRKSNFAE.. ..........
+1erv_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MV KQIES....K
+1r26_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~PSV VDVYS....V
+1thx_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~SKGVIT ITDAEFESE. ..........
+THI2_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MSLLE ITDAEFEQE. ..........
+THIM_CHLRE  SSARPAFARA A...PRRSV. .......... ....VV...R AEAGA....V
+THIO_CYACA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M PSPIQ....V
+THIO_PORPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MSVSQ....V
+THIM_PEA    SRIQESFAEL N...SFTSLV LLIENHV..L LHAREA...V NEVQV....V
+THIM_SPIOL  .GLKRSFPAL SSSVSSSSPR QFRYSSV..V CKASEA...V KEVQD....V
+THIM_ORYSA  ..PRLSVAS. PSP....... LRPASRF..A CQCSNV...V DEVVV....A
+THIM_MAIZE  .ALAP..... ...LSVGRV. ATRRPRH..V CQSKNA...V DEVVV....A
+THIM_WHEAT  .TAAPAVVS. PSPYKSALVA ARRPSRF..V CKCKNV...V DEVIV....A
+THI1_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~ATVK VDNSNFQSD. ..........
+THM4_ARATH  SL....VTQS ASLGANRRTR IARGGRI..A CEAQDTTAAA VEVPN....L
+THIM_BRANA  TRVSLSSVSK .....NSRAS RLRRGGI..I CEAQDT...A TGIPM....V
+THM2_ARATH  IRLSLSPASL T.SIHQPRVS RL.RRAV..V CEAQET...T TDIQV....V
+THIO_MYCTU  ~~~~~~~~~~ ~~~~~T.... .DSEKSATIK VTDASFATD. ..........
+THIO_ALIAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~ATMT LTDANFQQ.. ..........
+THI2_CAEEL  ~~~~~~~M.. TQLRHF.... .SHGASVFDI DSVEDFTEK. ..........
+THI2_BOVIN  .TVTPSQA.. RSIYTT.... .RVCSTTFNI QDGPDFQDR. ..........
+THIO_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MKH....I
+THIO_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MVTE....I
+MPD1_YEAST  .......... .....LNIIK LLLGLFIMNE VKAQNFYDSD PHISE....L
+TXLA_SYNP7  .VVL...... GSRQPS.... .AAASLASL. AEQATPYEV. ..........
+THI1_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MAVK KQFANFAEM. ..........
+THI1_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MAQTLDDL. ..........
+THI2_ECOLI  ........A. ....INRIPD DRIEDAA..K CGRCGHDLFD GEVIN....A
+THM3_ARATH  FSDRRSLLS. ......SSAS RL.RLSP..L CVR......D SRAAE....V
+THIO_NEUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MSDGV KHINS....A
+THI3_CORNE  .AVHPNC... GQ.CHQ.... .ALLPLEPIE LNEQNFSNF. ..........
+THIO_ECHGR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~MSVEAVV KQVDG.....
+TRX3_YEAST  ..MRMAVR.. ........P. .....L..KS IRFQSSYTSI TKLTN....L
+THIO_COPCM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MV QVISN....L
+THIO_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MVQI VSQDNFADS. ..........
+YE04_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MTV VEIKS....Q
+YD98_YEAST  ...SFNYTS. ...YCYKRH. ....QARYYT AAKLFQEMPV IEIND....Q
+THIO_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~V KSVGN....L
+TXNL_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MVGV KPVGS.....
+THH1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MASEEGQV IACHT....V
+THIT_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MV YPVRN....K
+THIF_MESCR  ..MRMSGRS. ...CCVKAS. .....L..ET AVGAESETLV GKVTE....V
+
+            151                                                200
+1a8l_       MDETKQAIRN IDQDV.RILV FVTPTCPYCP LAVRMAHKFA IENTKAGK..
+2trc_P      .......IEK EQKVTTIVVN IYEDGVRGCD ALNSSLECLA AEY....P..
+YBM4_YEAST  .DAAAEYNKI ..MEQSPMIV FSKTGCPYSK KLKALLTNSY TFS....P..
+TXN4_HUMAN  .DTE.NIDEI LNNADVALVN FYADWCRFSQ MLHPIFEEAS DVI....KEE
+TXL2_HUMAN  .GQFEELLRL K.AKSLLVVH FWAPWAPQCA QMNEVMAELA KEL.......
+1mek_       .......A.. LAAHKYLLVE FYAPWCGHCK ALAPEYAKAA GKL.KAEG..
+1erv_       ..TAFQEALD AAGDKLVVVD FSATWCGPCK MIKPFFHSLS EKY....S..
+1r26_A      ....EQFRNI MSEDILTVAW FTAVWCGPCK TIERPMEKIA YEF....P..
+1thx_       .......V.. LKAEQPVLVY FWASWCGPCQ LMSPLINLAA NTY....S..
+THI2_SYNY3  .......T.. QGQTKPVLVY FWASWCGPCR LMAPAIQAIA KDY....G..
+THIM_CHLRE  .NDDTFKNVV LESSVPVLVD FWAPWCGPCR IIAPVVDEIA GEY....K..
+THIO_CYACA  .TDFSFEKEV VNSEKLVLVD FWAPWCGPCR MISPVIDELA QEY....V..
+THIO_PORPU  .TDASFKQEV INNDLPVLVD FWAPWCGPCR MVSPVVDAIA EEY....E..
+THIM_PEA    .NDSSWDELV IGSETPVLVD FWAPWCGPCR MIAPIIDELA KEY....A..
+THIM_SPIOL  .NDSSWKEFV LESEVPVMVD FWAPWCGPCK LIAPVIDELA KEY....S..
+THIM_ORYSA  .DEKNWDSMV LGSEAPVLVE FWAPWCGPCR MIAPVIDELA KEY....V..
+THIM_MAIZE  .DEKNWDGLV MACETPVLVE FWAPWCGPCR MIAPVIDELA KDY....A..
+THIM_WHEAT  .DEKNWDNMV IACESPVLVE FWAPWCGPCR MIAPVIDELA KDY....V..
+THI1_CORNE  .......V.. LQSSEPVVVD FWAEWCGPCK MIAPALDEIA TEM....A..
+THM4_ARATH  .SDSEWQTKV LESDVPVLVE FWAPWCGPCR MIHPIVDQLA KDF....A..
+THIM_BRANA  .NDSTWESLV LKADEPVVVD FWAPWCGPCK MIDPIVNELA QQY....T..
+THM2_ARATH  .NDSTWDSLV LKATGPVVVD FWAPWCGPCK MIDPLVNDLA QHY....T..
+THIO_MYCTU  .......V.. LSSNKPVLVD FWATWCGPCK MVAPVLEEIA TER....A..
+THIO_ALIAC  .......A.. IQGDKPVLVD FWAAWCGPCR MMAPVLEEFA EAH....A..
+THI2_CAEEL  .......V.. IQSSVPVIVD FHAEWCGPCQ ALGPRLEEKV NGR....Q..
+THI2_BOVIN  .......V.. VNSETPVVVD FHAQWCGPCK ILGPRLEKVV AKQ....H..
+THIO_MYCGA  .TNKAELDQL LSTNKKVVVD FYANWCGPCK ILGPIFEEVA QDK....K..
+THIO_MYCGE  .RSLKQLEEI FSAKKNVIVD FWAAWCGPCK LTSPEFQKAA DEF....S..
+MPD1_YEAST  .TPKSFDKAI HNTNYTSLVE FYAPWCGHCK KLSSTFRKAA KRL....D..
+TXLA_SYNP7  .......A.. IANDRPMLLE FYADWCTSCQ AMAGRIAALK QDY....S..
+THI1_SYNY3  .......L.. AGSPKPVLVD FYATWCGPCQ MMAPILEQVG SHL....R..
+THI1_CHLTE  .......I.. RTSELPVFID FWADWCGPCK MVAPSVKQLA SEF....K..
+THI2_ECOLI  .TGET.LDKL LKDDLPVVID FWAPWCGPCR NFAPIFEDVA QER....S..
+THM3_ARATH  .TQRSWEDSV LKSETPVLVE FYTSWCGPCR MVHRIIDEIA GDY....A..
+THIO_NEUCR  ....QEFANL LNTTQYVVAD FYADWCGPCK AIAPMYAQFA KTF....S..
+THI3_CORNE  .......I.. SNSDLPVLID LWAEWCGPCK MMAPHFAQVA KQN....P..
+THIO_ECHGR  ....DALEAA IKGDKLLVCD FFATWCGPCK SLAPKLDAMA KEN....E..
+TRX3_YEAST  ....TEFRNL IKQNDKLVID FYATWCGPCK MMQPHLTKLI QAY....P..
+THIO_COPCM  ....DEFNKL TNSGKIIIID FWATWCGPCR VISPIFEKFS EKY....G..
+THIO_CHLMU  .......I.. A..SGLVLVD FFAEWCGPCK MLTPVLEALA AEL....P..
+YE04_YEAST  .DQFTQLTTT NAANKLIVLY FKAQWADPCK TMSQVLEAVS EKV....R..
+YD98_YEAST  .EQFTYLTTT AAGDKLIVLY FHTSWAEPCK ALKQVFEAIS NEP....S..
+THIO_CHICK  ..ADFEAELK AAGEKLVVVD FSATWCGPCK MIKPFFHSLC DKF....G..
+TXNL_HUMAN  .DPDFQPELS GAGSRLAVVK FTMRGCGPCL RIAPAFSSMS NKY....P..
+THH1_ARATH  ETWNEQLQKA NESKTLVVVD FTASWCGPCR FIAPFFADLA KKL....P..
+THIT_DROME  ..DDLDQQLI LAEDKLVVID FYADWCGPCK IIAPKLDELA HEY....S..
+THIF_MESCR  DKDTFWPIAN GAGDKPVVLD MYTQWCGPCK VMAPKYQELA EKL....L..
+
+            201                                                250
+1a8l_       ....GKILGD MVEAIE.... .YPEWADQYN VMAVPKIVIQ VNGEDRVE..
+2trc_P      .....XVKFC KIRASN.... ..TGAGDRFS SDVLPTLLVY KGGELISN..
+YBM4_YEAST  .....SYYVV ELDRHEHTKE LQDQIEKVTG RRTVPNVIIG ..GTSRGG..
+TXN4_HUMAN  FPNENQVVFA RVDCDQ.H.. ..SDIAQRYR ISKYPTLKLF RNGMMMKR..
+TXL2_HUMAN  ....PQVSFV KLEAEG.V.. ..PEVSEKYE ISSVPTFLFF KNSQKIDR..
+1mek_       ....SEIRLA KVDATE.... .ESDLAQQYG VRGYPTIKFF RNGDTASP..
+1erv_       ..N...VIFL EVDVDD.C.. ..QDVASECE VKSMPTFQFF KKGQKVGE..
+1r26_A      ..T...VKFA KVDADN.N.. ..SEIVSKCR VLQLPTFIIA RSGKMLGH..
+1thx_       ....DRLKVV KLEIDP.... .NPTTVKKYK VEGVPALRLV KGEQILDS..
+THI2_SYNY3  ....DKLKVL KLEVDP.... .NPAAVAQCK VEGVPALRLF KNNELVMT..
+THIM_CHLRE  ....DKLKCV KLNTDE.S.. ..PNVASEYG IRSIPTIMVF KGGKKCET..
+THIO_CYACA  ....EQVKIV KINTDE.N.. ..PSISAEYG IRSIPTLMLF KDGKRVDT..
+THIO_PORPU  ....SSIKVV KINTDD.N.. ..PTIAAEYG IRSIPTLMIF KSGERVDT..
+THIM_PEA    ....GKIKCY KLNTDE.S.. ..PNTATKYG IRSIPTVLFF KNGERKDS..
+THIM_SPIOL  ....GKIAVY KLNTDE.A.. ..PGIATQYN IRSIPTVLFF KNGERKES..
+THIM_ORYSA  ....GKIKCC KVNTDD.S.. ..PNIATNYG IRSIPTVLMF KNGEKKES..
+THIM_MAIZE  ....GKITCC KVNTDD.S.. ..PNVASTYG IRSIPTVLIF KGGEKKES..
+THIM_WHEAT  ....GKIKCC KVNTDD.C.. ..PNIASTYG IRSIPTVLMF KDGEKKES..
+THI1_CORNE  ....GQVKIA KVNIDE.... .NPELAAQFG VRSIPTLLMF KDGELAAN..
+THM4_ARATH  ....GKFKFY KINTDE.S.. ..PNTANRYG IRSVPTVIIF KGGEKKDS..
+THIM_BRANA  ....GKIKFF KLNTDD.S.. ..PATPGKYG VRSIPTIMIF VKGEKKDT..
+THM2_ARATH  ....GKIKFY KLNTDE.S.. ..PNTPGQYG VRSIPTIMIF VGGEKKDT..
+THIO_MYCTU  ....TDLTVA KLDVDT.... .NPETARNFQ VVSIPTLILF KDGQPVKR..
+THIO_ALIAC  ....DKVTVA KLNVDE.... .NPETTSQFG IMSIPTLILF KGGRPVKQ..
+THI2_CAEEL  ....GSVLLA KINVDH.... .AGELAMDYG ISAVPTVFAF KNGEKISG..
+THI2_BOVIN  ....GKVVMA KVDIDD.... .HTDLALEYE VSAVPTVLAM KNGDVVDK..
+THIO_MYCGA  ....D.WTFV KVDVDQ.A.. ..NEISSEYE IRSIPTVIFF QDGKMADK..
+THIO_MYCGE  ....D.AQFV KVNVDD.H.. ..TDIAAAYN ITSLPTIVVF ENGVEKKR..
+MPD1_YEAST  ....GVVQVA AVNCDL.N.. KNKALCAKYD VNGFPTLMVF RPPKIDLS..
+TXLA_SYNP7  ....DRLDFV MLNIDN.D.. KWLPEVLDYN VDGIPQFVYL NGQGQPQG..
+THI1_SYNY3  ....QQIQVV KIDTDK.... .YPAIATQYQ IQSLPTLVLF KQGQPVHR..
+THI1_CHLTE  ....GRLIVV KVNVDQ.... .QPDAAARFQ VQGIPALMLF VGGQLKWR..
+THI2_ECOLI  ....GKVRFV KVNTEA.E.. ..RELSSRFG IRSIPTIMIF KNGQVVDM..
+THM3_ARATH  ....GKLNCY LLNADN.D.. ..LPVAEEYE IKAVPVVLLF KNGEKRES..
+THIO_NEUCR  ..IPNFLAFA KINVDS.V.. ..QQVAQHYR VSAMPTFLFF KNGKQVAVNG
+THI3_CORNE  .....YVVFA KIDTEA.... .NPRLSAAFN VRSIPTLVLM NKTTEVAR..
+THIO_ECHGR  ..K...VIFV KLDVDE.C.. ..QDVAEKYR VTAMPTLIVF KNGCEIGH..
+TRX3_YEAST  ..D...VRFV KCDVDE.S.. ..PDIAKECE VTAMPTFVLG KDGQLIGK..
+THIO_COPCM  ..AN.NIVFA KVDVDT.A.. ..SDISEEAK IRAMPTFQVY KDGQKIDE..
+THIO_CHLMU  .....YVTIL KLDIDA.... .SPRPAEQFG VSSIPTLILF KDGKEVER..
+YE04_YEAST  ...QEDVRFL SIDADE.H.. ..PEISDLFE IAAVPYFVFI QNGTIVKE..
+YD98_YEAST  ...NSNVSFL SIDADE.N.. ..SEISELFE ISAVPYFIII HKGTILKE..
+THIO_CHICK  ..D...VVFI EIDVDD.A.. ..QDVATHCD VKCMPTFQFY KNGKKVQE..
+TXNL_HUMAN  ..Q...AVFL EVDVHQ.C.. ..QGTAATNN ISATPTFLFF RNKVRIDQ..
+THH1_ARATH  ..N...VLFL KVDTDE.L.. ..KSVASDWA IQAMPTFMFL KEGKILDK..
+THIT_DROME  ..D..RVVVL KVNVDE.N.. ..EDITVEYN VNSMPTFVFI KGGNVLEL..
+THIF_MESCR  ..D...VVFL KLDCNQEN.. ..KPLAKELG IRVVPTFKIL KGGKIVDE..
+
+            251                                                300
+1a8l_       ...FE..GA. YPEKMFLEKL L.SALS~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+2trc_P      ...FI..SV. AE.....QFA E.DFFAADVE S......... FLNEYGLLPE
+YBM4_YEAST  .......... .......... .......... .......... ..........
+TXN4_HUMAN  ...EY..RGQ RSVKALA... ..DYIRQQKS .DPIQEIR.. DLAEITTLDR
+TXL2_HUMAN  ...LD..GA. HAPELTKKVQ R..HASS... .......... ..........
+1mek_       ...KEYTAG. READDIVNWL K.KRTGPAA~ ~~~~~~~~~~ ~~~~~~~~~~
+1erv_       ...FS..GA. NKEKLEATIN E..LV~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1r26_A      ...VI..GA. NPGMLRQKLR D..IIKD~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1thx_       ...TE..GV. ISKDKLLSFL D.THLN~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_SYNY3  ...HE..GA. IAKPKLLELL K.EELDFI~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_CHLRE  ...II..GA. VPKATIVQTV E.KYLN~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CYACA  ...VI..GA. VPKSTLTNAL K.KYL~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_PORPU  ...VI..GA. VPKSTLESTL N.KYIS~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_PEA    ...VI..GA. VPKATLSEKV E.KYI~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_SPIOL  ...II..GA. VPKSTLTDSI E.KYLSP~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_ORYSA  ...VI..GA. VPKTTLATII D.KYVSS~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_MAIZE  ...VI..GA. VPKSTLTTLI D.KYIGSS~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_WHEAT  ...VI..GA. VPKTTLCTII D.KYIGS~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CORNE  ...MV..GA. APKSRLADWI K.ASA~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM4_ARATH  ...II..GA. VPRETLEKTI E.RFLVE~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_BRANA  ...II..GA. VPKTTLATSI D.KFLQ~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM2_ARATH  ...II..GA. VPKTTLTSSL D.KFLP~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCTU  ...IV..GA. KGKAALLREL S.DVVPNLN~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ALIAC  ...LI..GY. QPKEQLEAQL A.DVLQ~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_CAEEL  ...FS..GV. LDDEQLDDFI E.DVLAA~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_BOVIN  ...FV..GI. KDEDQLEAFL K.KLIG~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGA  ...RI..GF. IPKNELKELL K~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGE  ...AI..GF. MPKTKIIDLF N.N~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MPD1_YEAST  ...KP..ID. NAKKSFSAHA NEVYSGARTL .APIVDFS.. ..........
+TXLA_SYNP7  ...IS.IGE. LPRSVLAANL D.ALVEAQPL P......... YTNARGNLSE
+THI1_SYNY3  ...ME..GV. QQAAQLIQQL Q.VFV~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CHLTE  ...TA..GA. IPYQQMRQEV L.KAIG~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_ECOLI  ...LN..GA. VPKAPFDSWL N.ESL~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM3_ARATH  ...IM..GT. MPKEFYISAI E.RVLNS~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_NEUCR  SVMIQ..GA. DVNSLRAAAE K..MGRLAKE KAAAAGSS~~ ~~~~~~~~~~
+THI3_CORNE  ...IS..GA. LRTLELQQWL D.QQLQQQQ. .......... .....GN~~~
+THIO_ECHGR  ...VV..GA. NEAGIRELIQ A..NA~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRX3_YEAST  ...II..GA. NPTALEKGIK D..L~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_COPCM  ...LV..GA. NPTALESLVQ K..SLA~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHLMU  ...SV..GL. KDKDSLVKLI S.KHQ~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YE04_YEAST  ...IS..AA. DPKEFVKSLE I..LSNASAS .LANNAKG.. .P......KS
+YD98_YEAST  ...LS..GA. DPKEYVSLLE D..CKNSVNS .GSSQTHT.. .M.ENANVNE
+THIO_CHICK  ...FS..GA. NKEKLEETIK S..LV~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXNL_HUMAN  ...YQ..GA. DAVGLEEKIK Q..HLENDPG SNEDTDIPKG YMDLMPFINK
+THH1_ARATH  ...VV..GA. KKDELQSTIA K..HLA~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIT_DROME  ...FV..GC. NSDKLAKLME K..HAGVYTD EAADVKAV.. HI........
+THIF_MESCR  ...VT..GA. KFDKLVAAIE A..ARSS~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+1a8l_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+2trc_P      R~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YBM4_YEAST  ........YT EIAELHKNDE .......... .......... ..........
+TXN4_HUMAN  SKRN.IIGYF EQKD.SDNYR VFERVANILH .......... ....DDCAF.
+TXL2_HUMAN  ......GSFL PSANEHLKED LNLRLKKLTH AAPCMLFMKG TPQEPRCGFS
+1mek_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1erv_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1r26_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1thx_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_CHLRE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CYACA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_PORPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_SPIOL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_ORYSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_MAIZE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_WHEAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM4_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_BRANA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM2_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCTU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ALIAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MPD1_YEAST  .LSR.IRSYV KK......FV RIDTLGSLLR .......... ....KSPKLS
+TXLA_SYNP7  FSAD....LQ PSRSSQT... .......... .......... ...DPRSHSG
+THI1_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM3_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_NEUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI3_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ECHGR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRX3_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_COPCM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YE04_YEAST  TSDEESSGSS DDEEDETEEE INARLVKLVQ AAPVMLFMKG SPSEPKCGFS
+YD98_YEAST  GSHNDEDDDD EEEEEETEEQ INARLTKLVN AAPVMLFMKG SPSEPKCGFS
+THIO_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXNL_HUMAN  AGCECLNES. ...DEHGFDN CLRKDTTFLE .......... ....SDCDEQ
+THH1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIT_DROME  .DGECIVDLT AESSESDNDN NNVNE....V .......... ....SAHDEN
+THIF_MESCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                                400
+1a8l_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+2trc_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YBM4_YEAST  .......... .......... .......... .......... .........L
+TXN4_HUMAN  LSAFGDVSKP ERYSGDNIIY KPPGHSAPDM VYLGAMTNFD VTYNWIQDKC
+TXL2_HUMAN  KQMVEILHKH .......... .......... ..NIQFSSFD IFSDEEVRQG
+1mek_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1erv_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1r26_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1thx_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_CHLRE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CYACA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_PORPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_SPIOL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_ORYSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_MAIZE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_WHEAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM4_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_BRANA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM2_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCTU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ALIAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MPD1_YEAST  VVLFS..... ....KQDKI. .SPVYKSIAL DWLGKFDFYS ISNK.....K
+TXLA_SYNP7  QVQDGVLD~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM3_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_NEUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI3_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ECHGR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRX3_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_COPCM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YE04_YEAST  RQLVGILREH .......... .......... ..QIRFGFFD ILRDENVRQS
+YD98_YEAST  RQLVGILREH .......... .......... ..QVRFGFFD ILRDESVRQN
+THIO_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXNL_HUMAN  LLITVA.... .......... ....FNQPVK LYSMKFQGPD ...NGQGPKY
+THH1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIT_DROME  AVLEH~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIF_MESCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            401                                                450
+1a8l_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+2trc_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YBM4_YEAST  LDSFKKWSDG .......... .......... .......AFT ..........
+TXN4_HUMAN  VPLVREIT.. ..FENGEELT EEGLPFLILF HMKEDTESLE IFQNEVARQL
+TXL2_HUMAN  LKAYSSWP.. .......... ....TYPQLY VSGELIGGLD IIKELEASE.
+1mek_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1erv_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1r26_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1thx_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_CHLRE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CYACA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_PORPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_SPIOL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_ORYSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_MAIZE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_WHEAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM4_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_BRANA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM2_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCTU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ALIAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MPD1_YEAST  LKQLTDM... ...NP....T YEKTP..... ......EIFK YLQKVIPEQR
+TXLA_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM3_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_NEUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI3_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ECHGR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRX3_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_COPCM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YE04_YEAST  LKKFSDWP.. .......... ....TFPQLY INGEFQGGLD IIKESIEED.
+YD98_YEAST  LKKFSEWP.. .......... ....TFPQLY INGEFQGGLD IIKESLEED.
+THIO_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXNL_HUMAN  VKIFINLPRS MDFEEAE... .......... .RSEPTQALE LTEDDIKEDG
+THH1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIT_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIF_MESCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            451                                                500
+1a8l_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+2trc_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YBM4_YEAST  .......... .......... .......... ...VKANSQS ESA~~~~~~~
+TXN4_HUMAN  ISEKGTINFL HADCDKFRHP LL........ ......H... ..........
+TXL2_HUMAN  .....ELDTI CPKAPKLEER LKVLTNKASV MLFMKGNKQE AKCGFSKQIL
+1mek_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1erv_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1r26_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1thx_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_CHLRE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CYACA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_PORPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_SPIOL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_ORYSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_MAIZE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_WHEAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM4_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_BRANA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM2_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCTU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ALIAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MPD1_YEAST  QSDKSKLVVF DADKDKFWEY EGNSINKNDI SKFLRDT... ..........
+TXLA_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM3_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_NEUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI3_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ECHGR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRX3_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_COPCM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YE04_YEAST  .....PE.Y. ......FQHA LQ~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YD98_YEAST  .....PD.F. ......LQHA LQS~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXNL_HUMAN  IV...PL... .........R YVKFQNVNSV TIFVQSNQGE EET.......
+THH1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIT_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIF_MESCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            501                                                550
+1a8l_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+2trc_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YBM4_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXN4_HUMAN  .......... ..IQKT.... ..PADCPVIA IDSFRHMYVF GDFKDVLIPG
+TXL2_HUMAN  EILNSTGVEY ETFDILEDEE VRQGLKAYSN WPTYPQLYVK GELVGGLD..
+1mek_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1erv_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1r26_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1thx_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_CHLRE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CYACA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_PORPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_SPIOL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_ORYSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_MAIZE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_WHEAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM4_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_BRANA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM2_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCTU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ALIAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MPD1_YEAST  .......... ..FSIT.... ..PNEGPFSR RSEY...... ...IAYLKTG
+TXLA_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM3_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_NEUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI3_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ECHGR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRX3_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_COPCM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YE04_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YD98_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXNL_HUMAN  .....TRISY FTFIGT.... .......... .P..VQATNM NDFKRVV...
+THH1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIT_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIF_MESCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            551                                                600
+1a8l_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+2trc_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YBM4_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXN4_HUMAN  KLKQFVFDLH SGKLHREFHH GPDPTDTAPG EQAQDVASSP PESSFQKLAP
+TXL2_HUMAN  ...IVKELKE NGELLPIL.. ........RG EN~~~~~~~~ ~~~~~~~~~~
+1mek_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1erv_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1r26_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1thx_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_CHLRE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CYACA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_PORPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_SPIOL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_ORYSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_MAIZE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_WHEAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM4_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIM_BRANA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM2_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCTU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ALIAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MPD1_YEAST  KKPIKKNHSS SGNKHDEL~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXLA_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI1_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI2_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THM3_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_NEUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THI3_CORNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_ECHGR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRX3_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_COPCM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YE04_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YD98_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIO_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TXNL_HUMAN  ........GK KGESH~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THH1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIT_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+THIF_MESCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            601         614
+1a8l_       ~~~~~~~~~~ ~~~~
+2trc_P      ~~~~~~~~~~ ~~~~
+YBM4_YEAST  ~~~~~~~~~~ ~~~~
+TXN4_HUMAN  SEYRYTLLRD RDEL
+TXL2_HUMAN  ~~~~~~~~~~ ~~~~
+1mek_       ~~~~~~~~~~ ~~~~
+1erv_       ~~~~~~~~~~ ~~~~
+1r26_A      ~~~~~~~~~~ ~~~~
+1thx_       ~~~~~~~~~~ ~~~~
+THI2_SYNY3  ~~~~~~~~~~ ~~~~
+THIM_CHLRE  ~~~~~~~~~~ ~~~~
+THIO_CYACA  ~~~~~~~~~~ ~~~~
+THIO_PORPU  ~~~~~~~~~~ ~~~~
+THIM_PEA    ~~~~~~~~~~ ~~~~
+THIM_SPIOL  ~~~~~~~~~~ ~~~~
+THIM_ORYSA  ~~~~~~~~~~ ~~~~
+THIM_MAIZE  ~~~~~~~~~~ ~~~~
+THIM_WHEAT  ~~~~~~~~~~ ~~~~
+THI1_CORNE  ~~~~~~~~~~ ~~~~
+THM4_ARATH  ~~~~~~~~~~ ~~~~
+THIM_BRANA  ~~~~~~~~~~ ~~~~
+THM2_ARATH  ~~~~~~~~~~ ~~~~
+THIO_MYCTU  ~~~~~~~~~~ ~~~~
+THIO_ALIAC  ~~~~~~~~~~ ~~~~
+THI2_CAEEL  ~~~~~~~~~~ ~~~~
+THI2_BOVIN  ~~~~~~~~~~ ~~~~
+THIO_MYCGA  ~~~~~~~~~~ ~~~~
+THIO_MYCGE  ~~~~~~~~~~ ~~~~
+MPD1_YEAST  ~~~~~~~~~~ ~~~~
+TXLA_SYNP7  ~~~~~~~~~~ ~~~~
+THI1_SYNY3  ~~~~~~~~~~ ~~~~
+THI1_CHLTE  ~~~~~~~~~~ ~~~~
+THI2_ECOLI  ~~~~~~~~~~ ~~~~
+THM3_ARATH  ~~~~~~~~~~ ~~~~
+THIO_NEUCR  ~~~~~~~~~~ ~~~~
+THI3_CORNE  ~~~~~~~~~~ ~~~~
+THIO_ECHGR  ~~~~~~~~~~ ~~~~
+TRX3_YEAST  ~~~~~~~~~~ ~~~~
+THIO_COPCM  ~~~~~~~~~~ ~~~~
+THIO_CHLMU  ~~~~~~~~~~ ~~~~
+YE04_YEAST  ~~~~~~~~~~ ~~~~
+YD98_YEAST  ~~~~~~~~~~ ~~~~
+THIO_CHICK  ~~~~~~~~~~ ~~~~
+TXNL_HUMAN  ~~~~~~~~~~ ~~~~
+THH1_ARATH  ~~~~~~~~~~ ~~~~
+THIT_DROME  ~~~~~~~~~~ ~~~~
+THIF_MESCR  ~~~~~~~~~~ ~~~~

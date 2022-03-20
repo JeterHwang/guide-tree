@@ -1,0 +1,75 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV12_BB12022_kalign.msf  MSF: 502  Type: N  December 21, 2021 20:31  Check: 9540  ..
+
+ Name: 1a0h_A      Len:    502  Check: 6336  Weight: 1.00
+ Name: 1b2i_A      Len:    502  Check: 5551  Weight: 1.00
+ Name: 1kdu_       Len:    502  Check: 6314  Weight: 1.00
+ Name: KRM2_HUMAN  Len:    502  Check: 6021  Weight: 1.00
+ Name: KRM1_HUMAN  Len:    502  Check: 5318  Weight: 1.00
+
+//
+
+1a0h_A         -----------------------------SPLLETCVPDRGREYRGRLAVT---THGSRC
+1b2i_A         -----------------------------------CMHGSGENYDGKISKT---MSGLEC
+1kdu_          -----------------------------------CYEGNGHFYRGKASTD---TMGRPC
+KRM2_HUMAN     MGTQALQGFLFLLFLPLLQPRGASAGSLHSPGLSECFQVNGADYRGHQNRTGPRGAGRPC
+KRM1_HUMAN     MAPPAARLALLSAAALTLAARPAPSPGL-GPG-PECFTANGADYRGTQNWTA-LQGGKPC
+
+
+1a0h_A         LAWSSEQAKALSKDQDFNPAVPLA-ENFCRNPDGDEEGAWCYVADQPG--DFEYCDLNYC
+1b2i_A         QAWDSQSPHAHGYIPSKFPNKNLK-KNYCRNPDRELR-PWCFTTDPNK--RWELCDIPRC
+1kdu_          LPWNSATVLQQTYHAHR-SDAGLG-KNYCRNPDNRRR-PWCYVQGLKP--LVQECMVHDC
+KRM2_HUMAN     LFWDQTQQHSYSSASDPHGRWGLGAHNFCRNPDGDVQ-PWCYVAETEEGIYWRYCDIPSC
+KRM1_HUMAN     LFWNETFQHPYNTLKYPNGEGGLGEHNYCRNPDGDVS-PWCYVAEHEDGVYWKYCEIPAC
+
+
+1a0h_A         EEPVD-GDLGDRLGEDPDAAIEGRTSEDHFQ---PFFNEKTFG-AG-EAD----CGLRPL
+1b2i_A         T-----------------------------------------------------------
+1kdu_          AD----------------------------------------------------------
+KRM2_HUMAN     HMPGYLGCFVDSGAPPALSGPSGTSTKLTVQVCLRFCRMKGYQLAGVEAGYACFCGSESD
+KRM1_HUMAN     QMPGNLGCYKDHGNPPPLTGTSKTSNKLTIQTCISFCRSQRFKFAGMESGYACFCGNNPD
+
+
+1a0h_A         FEKKQVQDQTEKELFESYIEGR--------------------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     LARGRLAPATDCDQICFGHPGQLCGGDGRLGVYEVSVGSCQGNWTAPQGVIYSPDFPDEY
+KRM1_HUMAN     YWKYGEAASTECNSVCFGDHTQPCGGDGRIILFDTLVGACGGNYSAMSSVVYSPDFPDTY
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     GPDRNCSWALGPPGAA-LELTFRLFELADPRDRLELRDAASGSLLRAFDGARPPPSGPLR
+KRM1_HUMAN     ATGRVCYWTIRVPGASHIHFSFPLFDIRDSADMVELLDGYTHRVLARFHGRSRPPL-SFN
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     LGTAALLLTFRSDARGHAQGFALTYRGLQDAAEDPEAPEGSAQTPAAPLDGANVSCSPRP
+KRM1_HUMAN     VSLDFVILYFFSDRINQAQGFAVLYQAVKE-----ELPQ---ERPAVNQTVAEVITEQAN
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     GAPPAAIGARVFSTVTAVSVLLLLLLGLLRPLRRRSCLLAPGKGPPALGASRGPRRSWAV
+KRM1_HUMAN     LSVSAARSSKVLYVITT------------SPSHPPQTVPGSNSWAPPMGAGSHRVEGWTV
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     WYQQPRGVALPCSPGDPQAEGSAAGYRPLSASSQSSLRSLISAL----------------
+KRM1_HUMAN     -YGLATLLILTVTAIVAKILLHVT-FKSHRVPASGDLRDCHQPGTSGEIWSIFYKPSTSI
+
+
+1a0h_A         ----------------------
+1b2i_A         ----------------------
+1kdu_          ----------------------
+KRM2_HUMAN     ----------------------
+KRM1_HUMAN     SIFKKKLKGQSQQDDRNPLVSD
+
+

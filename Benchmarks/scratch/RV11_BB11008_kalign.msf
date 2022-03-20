@@ -1,0 +1,71 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11008_kalign.msf  MSF: 550  Type: N  December 21, 2021 20:29  Check: 351  ..
+
+ Name: 2pna_   Len:    550  Check: 4314  Weight: 1.00
+ Name: 1mw4_A  Len:    550  Check: 4260  Weight: 1.00
+ Name: 1uur_A  Len:    550  Check: 3519  Weight: 1.00
+ Name: 1bf5_A  Len:    550  Check: 8258  Weight: 1.00
+
+//
+
+2pna_      ------------------------------------------------------------
+1mw4_A     ------------------------------------------------------------
+1uur_A     -------------------------------------------SSPQPILDTIYKLLSEQ
+1bf5_A     LDKQKELDSKVRNVKDKVMCIEHEIKSLEDLQDEYDFKCKTLQNREHLLLKKMYLMLDNK
+
+
+2pna_      ------------------------------------------------------------
+1mw4_A     ------------------------------------------------------------
+1uur_A     EQTLVQMIHE--------QSLLLN-RLPPTLDENSLA-----PLKSLSQKQITLSGQMNT
+1bf5_A     RKEVVHKIIELLNVTELTQNALINDELVEWKRRQQSACIGGPPNACLDQLQNWFTIVAES
+
+
+2pna_      ------------------------------------------------------------
+1mw4_A     ------------------------------------------------------------
+1uur_A     EMSALDATKKGMILEPTDLAKLFALKQDLQIQF-KQLSLLHNEIQS--ILNPQHSAPK-P
+1bf5_A     LQQVRQQLKKLEELEQKYTYEHDPITKNKQVLWDRTFSLFQQLIQSSFVVERQPCMPTHP
+
+
+2pna_      ------------------------------------------------------------
+1mw4_A     ------------------------------------------------------------
+1uur_A     NVALVLKS-QPFPV---VISKGKQLGENQLVVLVLTGARSNFHINGPVKATMICDSHPPT
+1bf5_A     QRPLVLKTGVQFTVKLRLLVKLQELNYNLKVKVLFDKDVNERNTVKGFRKFNILGTHTKV
+
+
+2pna_      ------------------------------------------------------------
+1mw4_A     ------------------------------------------------------------
+1uur_A     TPLEMDSQPIYPATL-TAHFPLKFLAGTRKCSVNLKFGVNIRDLDNVTTTVESD------
+1bf5_A     MNMEESTNGSLAAEFRHLQLKEQKNAGTRTNEGPLIVTEELHSLSFETQLCQPGLVIDLE
+
+
+2pna_      ------------------------------------------------------------
+1mw4_A     ------------------------------------------------------------
+1uur_A     -ASNPFVVITNECQW-EGSAGVL----LKKDAFDGQLEIT-----WAQFINTLQRHFLIA
+1bf5_A     TTSLPVVVISNVSQLPSGWASILWYNMLVAEPRNLSFFLTPPCARWAQLSEVLSWQFSSV
+
+
+2pna_      ------------------------------------------------------------
+1mw4_A     -------------------------------------------------GSPASGTS--L
+1uur_A     TKQDPVRPKRPLSSYDLKYIQTHFFG---NRSIIHQQDFDK---FWVWFGKSMQTLRYQR
+1bf5_A     TKRGLNVDQLNMLGEKLLGPNASPDGLIPWTRFCKENINDKNFPFWLWIESILELIK--K
+
+
+2pna_      ----LQDAEWYWGDISREEVNEKLRDTA--DGTFLVRDASTKMHG-DYTLTLRK---GGN
+1mw4_A     SAAIHRTQLWFHGRISREESQRLIGQQGLVDGLFLVRESQRNPQGFVLSLCHLQ---KVK
+1uur_A     HISTLWQEGIIYGYMGRQEVNDALQNQD--PGTFIIRFSERNPGQFGIAYIGVEMPARIK
+1bf5_A     HLLPLWNDGCIMGFISKERERALLKDQQ--PGTFLLRFSESSREG-AITFTWVE---RSQ
+
+
+2pna_      NKLIKIFHRDGKYGFSDPLTFNSVVELINHYRNESLAQYNPKLDVKLLYP-------VSK
+1mw4_A     HYLILPSEEEGRLYFSMDDGQTRFTDLLQLVEFHQLNRGILPCLLRHCCTRVAL------
+1uur_A     HYLVQPNDTAAAK-KTFPDFLSEHSQFVNLLQWTKDTNGAPRFLKLHKDTALGS--FAPK
+1bf5_A     NGGEPDFHAVEPY-TKKELSAVTFPDIIRNYKVMA-AENIPENPLKYLYPNIDKDHAFGK
+
+
+2pna_      Y---------
+1mw4_A     ----------
+1uur_A     RTAPVPVGGX
+1bf5_A     YYSRGXIKTE
+
+

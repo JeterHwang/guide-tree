@@ -1,0 +1,23 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BBS11025_kalign.msf  MSF: 70  Type: N  December 21, 2021 20:29  Check: 5908  ..
+
+ Name: 1tvx_A  Len:     70  Check: 3952  Weight: 1.00
+ Name: 1prt_F  Len:     70  Check: 5375  Weight: 1.00
+ Name: 1sap_   Len:     70  Check: 9421  Weight: 1.00
+ Name: 1lt5_D  Len:     70  Check: 7160  Weight: 1.00
+
+//
+
+1tvx_A     KTTSGIHPKNIQSLEVIGKGTHCNQVEVIATLKDGRKICLD--PDAPRIKKIVQKKLAGD
+1prt_F     -LPTHLY-KNFTVQELALKLKGKNQEFCLTAFMSGRSLVRACLSDAGHEHDTWFDTMLGF
+1sap_      GEEKEVDTSKIKKVWRVGKMVSFTYD---DNGKTGRGAVSE--KDAP--KELLDMLARAE
+1lt5_D     --NTQIYTINDKILSYTESMAGKREM-VIITFKSGET--FQ--VEVPGSQHIDSQKKAIE
+
+
+1tvx_A     ----------
+1prt_F     AISAY-----
+1sap_      REK-------
+1lt5_D     RMKDTLRITY
+
+

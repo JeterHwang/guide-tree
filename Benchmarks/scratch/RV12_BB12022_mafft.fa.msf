@@ -1,0 +1,75 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV12_BB12022_mafft.fa.msf  MSF: 507  Type: N  December 21, 2021 21:48  Check: 9540  ..
+
+ Name: 1a0h_A      Len:    507  Check: 6336  Weight: 1.00
+ Name: 1b2i_A      Len:    507  Check: 5551  Weight: 1.00
+ Name: 1kdu_       Len:    507  Check: 6314  Weight: 1.00
+ Name: KRM2_HUMAN  Len:    507  Check: 6021  Weight: 1.00
+ Name: KRM1_HUMAN  Len:    507  Check: 5318  Weight: 1.00
+
+//
+
+1a0h_A         -----------------------------SPLLE---TCVPDRGREYRGRLAVTTH---G
+1b2i_A         --------------------------------------CMHGSGENYDGKISKTMS---G
+1kdu_          --------------------------------------CYEGNGHFYRGKASTDTM---G
+KRM2_HUMAN     MGTQALQGFLFLLFLPLLQPRGASAGSLHSPGLS---ECFQVNGADYRGHQNRTGPRGAG
+KRM1_HUMAN     MAPPAARLALLSAAALTLAARPAP-----SPGLGPGPECFTANGADYRGTQNWTALQG-G
+
+
+1a0h_A         SRCLAWSS-----EQAKALSKDQDFNPAVPLA-ENFCRNPDGDEEGAWCYVADQPGD--F
+1b2i_A         LECQAWDS-----QSPHAHGYIPSKFPNKNLK-KNYCRNPD-RELRPWCFTTDPNKR--W
+1kdu_          RPCLPWNSATVLQQTYHAHR------SDAGLG-KNYCRNPD-NRRRPWCYVQGLKPL--V
+KRM2_HUMAN     RPCLFWDQ-----TQQHSYSSASDPHGRWGLGAHNFCRNPD-GDVQPWCYVAETEEGIYW
+KRM1_HUMAN     KPCLFWNE-----TFQHPYNTLKYPNGEGGLGEHNYCRNPD-GDVSPWCYVAEHEDGVYW
+
+
+1a0h_A         EYCDLNYCEEPVDGDLG--DRLGEDPDAAIEGRTSED----------HFQPFFNEKTFGA
+1b2i_A         ELCDIPRCT---------------------------------------------------
+1kdu_          QECMVHDCAD--------------------------------------------------
+KRM2_HUMAN     RYCDIPSCHMP--GYLGCFVDSGAPPALSGPSGTSTKLTVQVCLRFCRMKGYQLAGVEAG
+KRM1_HUMAN     KYCEIPACQMP--GNLGCYKDHGNPPPLTGTSKTSNKLTIQTCISFCRSQRFKFAGMESG
+
+
+1a0h_A         GEADCGLRPLFEKKQVQDQTEKE-------------------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     YACFCGSESDLARGRLAPATDCDQICFGHPGQLCGGDGRLGVYEVSVGSCQGNWTAPQGV
+KRM1_HUMAN     YACFCGNNPDYWKYGEAASTECNSVCFGDHTQPCGGDGRIILFDTLVGACGGNYSAMSSV
+
+
+1a0h_A         ---------------------------------LFE------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     IYSPDFPDEYGPDRNCSWALGPPGAA-LELTFRLFELADPRDRLELRDAASGSLLRAFDG
+KRM1_HUMAN     VYSPDFPDTYATGRVCYWTIRVPGASHIHFSFPLFDIRDSADMVELLDGYTHRVLARFHG
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     -ARPPPSGPLRLGTAALLLTFRSDARGHAQGFALTYRGLQDAAEDPEAPEGSAQTPAAPL
+KRM1_HUMAN     RSRPPLSFNVSLDF--VILYFFSDRINQAQGFAVLYQAVKE--ELPQERPAVNQTVAEVI
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     -DGANVSCSPR--------------------PG----APPAAIGARVFSTVTAVSVLLLL
+KRM1_HUMAN     TEQANLSVSAARSSKVLYVITTSPSHPPQTVPGSNSWAPPMGAGSHRVEGWTVYGLATLL
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+KRM2_HUMAN     LLGLLRPLRRRSCLLA-PGKGPPALGASRGPRRS------WAVWYQQPRGVALPCSPGDP
+KRM1_HUMAN     ILTVTAIVAKILLHVTFKSHRVPASGDLRDCHQPGTSGEIWSIFYKPSTSISI-------
+
+
+1a0h_A         ---------------------SYIEGR
+1b2i_A         ---------------------------
+1kdu_          ---------------------------
+KRM2_HUMAN     QAEGSAAGYRPLSASSQSSLRSLISAL
+KRM1_HUMAN     -------FKKKLKGQSQQDDRNPLVSD
+
+

@@ -1,0 +1,159 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV12_BB12016_kalign.msf  MSF: 1213  Type: N  December 21, 2021 20:31  Check: 4301  ..
+
+ Name: 1fmb_      Len:   1213  Check: 4053  Weight: 1.00
+ Name: 7upj_B     Len:   1213  Check: 3839  Weight: 1.00
+ Name: POL_HV2D2  Len:   1213  Check: 7022  Weight: 1.00
+ Name: POL_OMVVS  Len:   1213  Check: 1059  Weight: 1.00
+ Name: 1bai_A     Len:   1213  Check: 8328  Weight: 1.00
+
+//
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     KTGMLEMWKNRTHHVKMPRKTGGFFRVRTLGKEASQLPHDPSASGSDTICTPDEPSRGHD
+POL_OMVVS     ------------------------------------------------------------
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ---------------------------------------------VTYNLEKRPTTI-VL
+7upj_B        ---------------------------------------------PQITLWQRPLVT-IK
+POL_HV2D2     TSGGDTICAPCRSSSGDAEKLHADGETTEREPRETLQGGDRGFAAPQFSLWRRPVVK-AC
+POL_OMVVS     ---------------------------SNITAGKQQEGATCGAVRAPYVVTEAPPKIDIK
+1bai_A        -------------------------------LAMTMEHKDRPL--VRVILTNTGSHP-VK
+
+
+1fmb_         INDTPLNVLLDTGADTSVLTTAHYNRLKYRGR-KYQGTGIGGVGG--NVETFSTPVTIKK
+7upj_B        IGGQLKEALLDTGADDTVLEE-MSLPGRWKPKM------IGGIGGFIKVRQYDQILIEIC
+POL_HV2D2     IEGQSVEVLLDTGVDDSIVAG-IELGSNYTPKI------VGGIGGFINTKEYKDVEIEVV
+POL_OMVVS     VGTNWKKVLVDTGADRTIVRY-HDNSGIPTGRIKLQGIG-GIIEG----EKWDKVVIQYK
+1bai_A        QRSVYITALLDTGADDTVISE-EDWPTDW-PVMEAANPQIHGIGGGIPVRKSRDM-IELG
+
+
+1fmb_         KGRHIKTRM-------LVADIPVTILGRDILQDLGAKLVL--------------------
+7upj_B        GHKAIGTV--------LVGPTPVNIIGRNLLTQIGCTL---NF-----------------
+POL_HV2D2     GKRVRATI--------MTGDTPINIFGRNILNTLGMTL---NFPVAKVEPVKVELKPGKD
+POL_OMVVS     EKRIEGTIV-------VLPSSPVEVLGRDNMAKLDIGIIMANLEEKKIPITQVKLKEGCK
+1bai_A        VINRDGSLERPLLLFPLVAMTPVNILGRDCLQGLGLRLT--NL-----------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     GPKIRQWPLSREKILALKEICEKMEKEGQLEEAPPTNPYNTPTFAIKKKDKNKWRMLIDF
+POL_OMVVS     GPHIAQWPLTQEKLEGLKEIVDKLEKEGKVGRAPPHWTCNTPIFCIKKK-SGKWRMLIDF
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     RELNKVTQDFTEVNWVFPTRQVAEKRR-ITVIDVGDAYFSIPLDPNFRQYTAFTLPSVNN
+POL_OMVVS     RELNKQTEDLAEAQLGLPHPGGLQKKKHVTILDIGDAYFTIPLYEPYRPYTCFTMLSPNN
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     AEPGKRYIYKVLPQGWKGSQSICQYSMRKVLDPFRKANSDVIIIQYMDDILIASDRSDLE
+POL_OMVVS     LGPCTRYYWKVLPQGWKLSPSVYQFTMQEILRDWIAKHPMIQFGIYMDDIYIGSDLDIMK
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     HDRVVSQLKELLNDMGFSTPEEKFQKDPPFKWMGYELWPKKWKLQKIQLPEKE--VWTVN
+POL_OMVVS     HREIVEELASYIAQYGFMLPEEKRQEGYPAKWLGFELHPEKWRFQKHTLPEIKEGTITLN
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     AIQKLVGVLNWAAQLFPGIKTRHICKLIRGKMTLTEEVQWTELAEAELQENKIILEQEQE
+POL_OMVVS     KLQKLVGDLVWRQSLI-GKSIPNILKLMEGDRALQSERRIELRHVKEWEECRRKL-AEME
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     GSYYKERVPLEATVQKNLANQWTYKIHQGNKVLKVGKYAKVKNTHTNGVRLLAHVVQKIG
+POL_OMVVS     GNYYDEEKDVYGQIDWGDKAIEYIVFQERGKPLWVNVVHNIKNLSQS--QQIIKAAQKLT
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     KEALVIWGEIPVFHLPVERETWDQWWTDYWQVTWIPEWDFVSTPPLIRLAYNLVKDPLEG
+POL_OMVVS     QEVIIRIGKIPWILLPGKEEDW-ILELQIGNITWMPSFWSCYRGSIRWKKRNVITEVVEG
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     RETYYTDGSCNRTSKEGKAGYVTDRGKDKVKVLEQTTNQQAELEAFALALTDSEPQVNII
+POL_OMVVS     -PTYYTDGG--KKNGKGSLGFIASTGV-KFRKHEEGTNQQLELRAIEEACKQGPEKMNIV
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     VDSQYVMGIIAAQPTET--ESPIVAKIIEEMIKKEAVYVGWVPAHKGLGGNQEVDHLVSQ
+POL_OMVVS     TDSRYAYEFMRRNWDEEVIKNPIQARIMKLVHDKEQIGVHWVPGHKGIPQNEEIDKYISE
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     ------------------------------------------------------------
+POL_OMVVS     IFLAREGSGILPKRAEDAGYDLICPQEVCIPAGQVRKIPINLRINLKEDQWAMVGTKSSF
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     ------------------------------------------------------------
+POL_OMVVS     ASKGVFVQGGIIDSGYQGIIQVVVYNSNDKEVIIPQGRKFAQLILMPLIHEDLEAWGETR
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     ---------GIRQVLFLEKIEPAQEEHEKYHGNVKELVHKFGIPQLVAKQIVNSCDKCQQ
+POL_OMVVS     RTERGNQGFGSTGAYWIENIPLAEEDHSKWHQDAGSLHLDFGIPRTAAEDIVQQCEVCQE
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     KG--EAIHGQVNADLGTWQMDCTHLEGKIIIVAVHVASGFIEAEVIPQETGRQTALFLLK
+POL_OMVVS     NKMPSTIRGSNRRGIDHWQVDYTHYEDKIILVWVETNSGLIYAERVKGETGQEFRIMTIR
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     LASRWPITHLHTDNGANFTSPSVKMVAWWVGIEQTFGVPYNPQSQGVVEAMNHHLKNQID
+POL_OMVVS     WYGLFAPKSLQSDNGPAFVAEPTQLLMKYLGITHTTGIPWNPQSQALVERTHQTLKNTIE
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     RLRDQAVSIETVVLMATHCMNFKRRGGIGDMTPAERLVNMITTEQEIQFFQAKNLKFQNF
+POL_OMVVS     KFVSMFASFDSAIAAALITLNIKRKGGLGTSPMDIFIFNKEQQRIQQQSTRNQSKFRFCY
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         ------------------------------------------------------------
+7upj_B        ------------------------------------------------------------
+POL_HV2D2     QVYYREGRDQLWKGPGELLWKGEGAVIIKVGTEIKVVPRRKAKIIRHYGGGKGLDCSADM
+POL_OMVVS     YRVRKRGHPGEWLGPTQVLWEGEGAIVIKDKNLEKYLVIAKKDVKFIPQPKEIQTE----
+1bai_A        ------------------------------------------------------------
+
+
+1fmb_         -------------
+7upj_B        -------------
+POL_HV2D2     EDTRQAREMAQSD
+POL_OMVVS     -------------
+1bai_A        -------------
+
+

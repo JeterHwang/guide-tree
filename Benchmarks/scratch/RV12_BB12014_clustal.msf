@@ -1,0 +1,80 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 258  Type: P  December 21, 2021 20:30  Check: 4317  ..
+
+ Name: 1fjl_A      Len:    258  Check: 2554  Weight: -1.00
+ Name: 1ftz_       Len:    258  Check: 9651  Weight: -1.00
+ Name: 1ftt_       Len:    258  Check: 1374  Weight: -1.00
+ Name: 1mnm_C      Len:    258  Check: 6298  Weight: -1.00
+ Name: 1akh_A      Len:    258  Check:  684  Weight: -1.00
+ Name: 1bw5_       Len:    258  Check:  217  Weight: -1.00
+ Name: HM17_APIME  Len:    258  Check: 1564  Weight: -1.00
+ Name: HM05_CAEEL  Len:    258  Check: 5667  Weight: -1.00
+ Name: BRX2_HUMAN  Len:    258  Check: 6308  Weight: -1.00
+
+//
+
+            1                                                   50
+1fjl_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ftz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ftt_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mnm_C      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1akh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bw5_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM17_APIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM05_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BRX2_HUMAN  MIDEILSKET CDYFEKLSLY SVCPSLVVRP KPLHSCTGSP SLRAYPLLSV
+
+            51                                                 100
+1fjl_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ftz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ftt_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mnm_C      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~GLVFNV VT........ ..........
+1akh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bw5_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM17_APIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM05_CAEEL  ~~~~~~~~~~ ~MP...SADT .....EFIRV IRIKSANGSE KMLEI.....
+BRX2_HUMAN  ITRQPTVISH LVPATPGIAQ ALSCHQVTEA VS.AEAPGGE ALASSESETE
+
+            101                                                150
+1fjl_A      ~~~~~~~KQR RSRTTFSASQ LDELERAFE. ..RTQYPDIY TREELAQRTN
+1ftz_       ~~~~~~~DSK RTRQTYTRYQ TLELEKEFH. ..FNRYITRR RRIDIANALS
+1ftt_       ~~~~~~~MRR KRRVLFSQAQ VYELERRFK. ..QQKYLSAP EREHLASMIH
+1mnm_C      QDMINKSTKP YRGHRFTKEN VRILESWFAK NIENPYLDTK GLENLMKNTS
+1akh_A      ~~~~~~~~~~ ~~~~~ISPQA RAFLEEVFR. ..RKQSLNSK EKEEVAKKCG
+1bw5_       ~~~~~~MKTT RVRTVLNEKQ LHTLRTCYA. ..ANPRPDAL MKEQLVEMTG
+HM17_APIME  CTLRKHKPNR KPRTPFTTQQ LLSLEKKFR. ..EKQYLTIA ERAEFSSSLH
+HM05_CAEEL  PAKLDLERPK RPRTVFTDEQ LEKLEESFN. ..TSGYLSGS TRAKLAESLG
+BRX2_HUMAN  QPTPRQKKPR RSRTIFTELQ LMGLEKKFQ. ..KQKYLSTP DRLDLAQSLG
+
+            151                                                200
+1fjl_A      LTEARIQVWF QNRRARLRKQ HTSVS~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ftz_       LSERQIKIWF QNRRMKSKKD RTLDSSPEH~ ~~~~~~~~~~ ~~~~~~~~~~
+1ftt_       LTPTQVKIWF QNHRYKMKRQ AKDKAAQQ~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mnm_C      LSRIQIKNWV SNRRRKEKT~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1akh_A      ITPLQVRVWF INKRMRS~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bw5_       LSPRVIRVWF QNKRCKDKKR SIMMK~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM17_APIME  LTETQVKIWF QNRRAKAKRL QEAEIEKLRL SA~~~~~~~~ ~~~~~~~~~~
+HM05_CAEEL  LSDNQVKVWF QNRRTKQKKI DSRKFTLQKY NFFYKKVKNN FRNRK.FHNF
+BRX2_HUMAN  LTQLQVKTWY QNRRMKWKKM VLKGGQEAPT KPKGRPKKNS IPTSEEIEAE
+
+            201                                                250
+1fjl_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ftz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ftt_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1mnm_C      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1akh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bw5_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM17_APIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM05_CAEEL  LKKNDVFAGK IKNF.PLPNG ILCQIRN~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BRX2_HUMAN  EKMNSQAQGQ EQLEPSQGQE ELCEAQEPKA RDVPLEMAEP PDPPQELPIP
+
+            251   
+1fjl_A      ~~~~~~~~
+1ftz_       ~~~~~~~~
+1ftt_       ~~~~~~~~
+1mnm_C      ~~~~~~~~
+1akh_A      ~~~~~~~~
+1bw5_       ~~~~~~~~
+HM17_APIME  ~~~~~~~~
+HM05_CAEEL  ~~~~~~~~
+BRX2_HUMAN  SSEPPPLS

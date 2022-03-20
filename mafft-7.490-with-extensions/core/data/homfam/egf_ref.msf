@@ -1,0 +1,47 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ egf_ref.msf  MSF: 71  Type: N  November 09, 2021 21:21  Check: 8920  ..
+
+ Name: 1ixa   Len:     71  Check: 7390  Weight: 1.00
+ Name: 1apo   Len:     71  Check: 6557  Weight: 1.00
+ Name: 1urk   Len:     71  Check: 3968  Weight: 1.00
+ Name: 1fsb   Len:     71  Check: 2699  Weight: 1.00
+ Name: 1esl   Len:     71  Check: 2866  Weight: 1.00
+ Name: 1hre   Len:     71  Check:  702  Weight: 1.00
+ Name: 1epi   Len:     71  Check:  705  Weight: 1.00
+ Name: 4tgf   Len:     71  Check: 3968  Weight: 1.00
+ Name: 1hcgb  Len:     71  Check:  390  Weight: 1.00
+ Name: 1dan1  Len:     71  Check:  697  Weight: 1.00
+ Name: 1dan2  Len:     71  Check: 1332  Weight: 1.00
+ Name: 1rfnb  Len:     71  Check: 7646  Weight: 1.00
+
+//
+
+1ixa      --VDGDQCE---SNPCLNGGSCKDDI-----NSYECWCPFGFEG----KNCEL-------
+1apo      --KDGDQCE---GHPCLNQGHCKDGI-----GDYTCTCAEGFEG----KNCEFSTR----
+1urk      --QVPSNCD------CLNGGTCVSNKYFS--NIHWCNCPKKFGG----QHCEIDK-----
+1fsb      ----TASCQD---MSCSKQGECLETI-----GNYTCSCYPGFYG----PECEYVRE----
+1esl      ------ACTN---TSCSGHGECVETI-----NNYTCKCDPGFSG----LKCEQIV-----
+1hre      GTSHLVKCAEKEKTFCVNGGECFMVKDLSNPSRYLCKCQPGFTG----ARCTENVPMKVQ
+1epi      --NSYPGCPSSYDGYCLNGGVCMHI-ESL--DSYTCNCVIGYSG----DRCQTRDLRWWE
+4tgf      VVSHFNDCPDSHTQFCF-HGTCRFLVQ---EDKPACVCHSGYVG----ARCEHADLLA--
+1hcgb     -------CSLD-NGDCD--QFCHEEQ----N-SVVCSCARGYTLADNGKACIPTGPYPCG
+1dan1     ----GDQCASS---PCQNGGSCKDQL-----QSYICFCLPAFEG----RNCETHKD----
+1dan2     ---DQLICVN-ENGGCE--QYCSDHT----GTKRSCRCHEGYSLLADGVSCTPTVEYPCG
+1rfnb     -----MTCNI-KNGRCE--QFCKNSA----DNKVVCSCTEGYRLAENQKSCEPAVPFPCG
+
+
+1ixa      -----------
+1apo      -----------
+1urk      -----------
+1fsb      -----------
+1esl      -----------
+1hre      NQEKAEELYQK
+1epi      LR---------
+4tgf      -----------
+1hcgb     KQTLER-----
+1dan1     -----------
+1dan2     KIPILE-----
+1rfnb     RVSVSQTSK--
+
+

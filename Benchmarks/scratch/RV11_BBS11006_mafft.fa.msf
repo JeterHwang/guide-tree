@@ -1,0 +1,75 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BBS11006_mafft.fa.msf  MSF: 333  Type: N  December 21, 2021 21:48  Check: 826  ..
+
+ Name: 1bbt_ac  Len:    333  Check: 7903  Weight: 1.00
+ Name: 1al2_ad  Len:    333  Check: 5095  Weight: 1.00
+ Name: 1b35_C   Len:    333  Check: 4170  Weight: 1.00
+ Name: 1bbt_ab  Len:    333  Check: 9457  Weight: 1.00
+ Name: 1mec_aa  Len:    333  Check:  223  Weight: 1.00
+ Name: 1bbt_aa  Len:    333  Check: 5956  Weight: 1.00
+ Name: 1al2_ab  Len:    333  Check: 2979  Weight: 1.00
+ Name: 1al2_ac  Len:    333  Check: 5043  Weight: 1.00
+
+//
+
+1bbt_ac     YG---KVFNPPRNQLPGRFTNLLDVAE--ACPTFL-RFEGGVPYVTT-------------
+1al2_ad     --------------------NMMELAE---IDTMI-PFDLSATKKNTM--------EMYR
+1b35_C      SS---TNEIETNEGLAGTSLDVMDLSRVLSIPNYWDRFTWKTSDVIN-------------
+1bbt_ab     YGYATAEDFVSGPNTSGLETRVVQAERFFKTH----LFDWVTSDSFG-------------
+1mec_aa     TD-ATADFVAQPVYLPENQ-TKV-------------AFFYDRSSPIGRFAVKSGSLESGF
+1bbt_aa     VT-TTVENYGGETQIQRRQHTDV-------------SFIMDR------------------
+1al2_ab     PS-DTVQTRHVVQHRSRSESSIE-------------SFF---------------------
+1al2_ac     RWPEYLRDSEANPVDQPTEPDVA-ACRFYTLD----TVSW-TKESRG-------------
+
+
+1bbt_ac     -----KTDSDRVLAQFDMSLAAK---------HMSNTFLAG-------------------
+1al2_ad     VRLSDKPHTDDPILCLSLSPASD--------PRLSHTMLGE-------------------
+1b35_C      -----TVLWDNYVSPFKVKPYSATI-----TDRFRCTHMGK-------------------
+1bbt_ab     -------------RCHLLELPTD-----------HKGVYGS-------------------
+1mec_aa     APFSNKACP----NSVILTPGPQFDPAYDQLRPQRLTEIWGNGNEETSEVFPLKTKQDYS
+1bbt_aa     --------------FVKVTPQNQIN-ILDLMQVPSHTLVGG-------------------
+1al2_ab     ---ARGACV----TIMTV------DNPASTTNKDKLFAVWKITYKDTVQ---LRRK----
+1al2_ac     -------------WWWKLPDALR-----------DMGLFGQ-------------------
+
+
+1bbt_ac     --LAQYYTQYSGTINLHFM----FTGPTDAKAR---YMVAYAP-----------------
+1al2_ad     --ILNYYTHWAGSLKFTFL----FCGSMMATGK---LLVSYAP-----------------
+1b35_C      --VANAFTYWRGSMVYTFK----FVKTQYHSGR---LRISFIPY---------------Y
+1bbt_ab     --LTDSYAYMRNGWDVEVT----AVGNQFNGGC---LLVAMVPELC------SIQKRELY
+1mec_aa     FCLFSPFVYYKCDLEVTLSP-----HTSGAHGL----LVRWCPT----GTPTKPTTQVLH
+1bbt_aa     --LLRASTYYFSDLEIAVK-----------HEG----DLTWVPN----GAPEK-------
+1al2_ab     ---LEFFTYSRFDMELTFVVTANFTETNNGHALNQVYQIMYIPP----GAPVP-EKWDDY
+1al2_ac     --NMYYHYLGRSGYTVHVQ----CNASKFHQGA---LGVFAVPEMCLAGDSNTTTMHTSY
+
+
+1bbt_ac     -------------PGMEPPKTPEAAA--------------------HCIHAEWDTGLNSK
+1al2_ad     -------------PGADPPKKRKEAM--------------------LGTHVIWDIGLQSS
+1b35_C      YNT--------TISTGTPDVSRTQ-------------------------KIVVDLRTSTA
+1bbt_ab     QLT-------------------------------------------LFPHQFINPRTNMT
+1mec_aa     EVS-------SLSEGRTPQVYSAGPG------------------------------TSNQ
+1bbt_aa     ----------ALDNTTNPTAYHKAPL------------------------------T---
+1al2_ab     TWQ-------TSSNPSIFYTYGTAPA----------------------------------
+1al2_ac     QNANPGEKGGTFTGTFTPDNNQTSPARRFCPVDYLLGNGTLLGNAFVFPHQIINLRTNNC
+
+
+1bbt_ac     FTFSIPYLSAADYTYTA----------SDV----AETTNVQ--------GWVCLFQITH-
+1al2_ad     CTMVVPWISNTTYRQTI----------DD-------SFTEG--------GYISVFYQTRI
+1b35_C      VSFTVPYIGSRPWLYCI----------RPESSWLSKDNTDGALMYNCVSGIVRVEVLNQL
+1bbt_ab     AHITVPFVGVNRYDQYK----------VHKP------------------WTLVVMVVAPL
+1mec_aa     ISFVVPYNSPLSVLPAVWYNGHKRF---DNTGDL------GIAPNSDF-GTLFFA-----
+1bbt_aa     -RLALPYTAPHRVLATV-YNGECR----------------------TL-PTSFNY-----
+1al2_ab     -RISVPYVGISNAYSHF-YDGFSKVPLKDQSAALG-DSLYGAASLNDF-GILAVRVVND-
+1al2_ac     ATLVLPYVNSLSIDSMV----------KHNN------------------WGIAILPLAPL
+
+
+1bbt_ac     ----GKADGDALVVLASAGKDFELRLPVDARA-
+1al2_ad     VVPLSTPREMDILGFVSACNDFSVRLLRDTTH-
+1b35_C      VAAQNVFSEIDVICEVNGGPDLEFAGPTCPRY-
+1bbt_ab     TVNTEGAPQIKVYANI-APTNVHVAGEFPSKE-
+1mec_aa     ----GTKPDIKFTVYL-RYKNMRVFCPRPTVFF
+1bbt_aa     ----GAIKATRVTELLYRMKRAETYCPRPLLAI
+1al2_ab     --HNPTKVTSKIRVYL-KPKHIRVWCPRPPRAV
+1al2_ac     NFASESSPEIPITLTI-APMCCEFNGLRNITL-
+
+

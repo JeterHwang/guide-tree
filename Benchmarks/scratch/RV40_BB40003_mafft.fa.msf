@@ -1,0 +1,285 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40003_mafft.fa.msf  MSF: 1114  Type: N  December 21, 2021 21:49  Check: 9371  ..
+
+ Name: 1ysc_       Len:   1114  Check: 2974  Weight: 1.00
+ Name: YBY9_YEAST  Len:   1114  Check: 3955  Weight: 1.00
+ Name: CBPY_CANAL  Len:   1114  Check: 9417  Weight: 1.00
+ Name: CBPY_PICPA  Len:   1114  Check: 8470  Weight: 1.00
+ Name: CBPX_ORYSA  Len:   1114  Check: 9090  Weight: 1.00
+ Name: CBP3_HORVU  Len:   1114  Check: 4478  Weight: 1.00
+ Name: CBPX_ARATH  Len:   1114  Check: 1475  Weight: 1.00
+ Name: YSS2_CAEEL  Len:   1114  Check: 4610  Weight: 1.00
+ Name: YUA6_CAEEL  Len:   1114  Check: 4755  Weight: 1.00
+ Name: CP23_HORVU  Len:   1114  Check: 6649  Weight: 1.00
+ Name: CP22_HORVU  Len:   1114  Check: 2191  Weight: 1.00
+ Name: CBPY_SCHPO  Len:   1114  Check: 1307  Weight: 1.00
+
+//
+
+1ysc_          ------------------------------------------------------------
+YBY9_YEAST     M-----------------------------------------------------------
+CBPY_CANAL     MKLSKSTLIATLALT---------------------------------------------
+CBPY_PICPA     MILHTYIILSLLTIF---------------------------------------------
+CBPX_ORYSA     ------------------------------------------------------------
+CBP3_HORVU     MV----------------------------------------------------------
+CBPX_ARATH     M-----------------------------------------------------------
+YSS2_CAEEL     MK----------------------------------------------------------
+YUA6_CAEEL     M-----------------------------------------------------------
+CP23_HORVU     MKCTVVALVLLVAVQ---------------------------------------------
+CP22_HORVU     ------------------------------------------------------------
+CBPY_SCHPO     MLMKQTFLYFLLTCVVSAQFNGYVPPEQNGGDIVVPKDFYEKFGEDFIREQEESSAPLMN
+
+
+1ysc_          ------------------------------------------------------------
+YBY9_YEAST     ------------------------------------------------------------
+CBPY_CANAL     ------------------------------------------------------------
+CBPY_PICPA     ------------------------------------------------------------
+CBPX_ORYSA     ------------------------------------------------------------
+CBP3_HORVU     ------------------------------------------------------------
+CBPX_ARATH     ------------------------------------------------------------
+YSS2_CAEEL     ------------------------------------------------------------
+YUA6_CAEEL     ------------------------------------------------------------
+CP23_HORVU     ------------------------------------------------------------
+CP22_HORVU     ------------------------------------------------------------
+CBPY_SCHPO     PVPERDEAEAPHHPKGHHEFNDDFEDDTALEHPGFKDKLDSFLQPARDFLHTVSDRLDNI
+
+
+1ysc_          ------------------------------------------------------------
+YBY9_YEAST     ------------------------------------------------------------
+CBPY_CANAL     ------------------------------------------------------------
+CBPY_PICPA     ------------------------------------------------------------
+CBPX_ORYSA     ------------------------------------------------------------
+CBP3_HORVU     ------------------------------------------------------------
+CBPX_ARATH     ------------------------------------------------------------
+YSS2_CAEEL     ------------------------------------------------------------
+YUA6_CAEEL     ------------------------------------------------------------
+CP23_HORVU     -----------------------------CLVLG---AGPAAAAKARRT-----------
+CP22_HORVU     ------------------------------------------------------------
+CBPY_SCHPO     FDDDEDEHVREKRPHDSADEDAPRRKHGKCKGKGKHHKGKHAKGKGKKSHPKPEDDSVFF
+
+
+1ysc_          ------------------------------------------------------------
+YBY9_YEAST     ------------------------------------------------------------
+CBPY_CANAL     ------------------------------------------------------------
+CBPY_PICPA     ------------------------------------------------------------
+CBPX_ORYSA     ------------------------------------------------------------
+CBP3_HORVU     ------------------------------------------------------------
+CBPX_ARATH     ------------------------------------------------------------
+YSS2_CAEEL     ------------------------------------------------------------
+YUA6_CAEEL     ------------------------------------------------------------
+CP23_HORVU     ----------------------------------RQGDYL--------------------
+CP22_HORVU     ------------------------------------------------------------
+CBPY_SCHPO     DDERPKHHEFDDEDREFPAHHEPGEHMPPPPMHHKPGEHMPPPPMHHEPGEHMPPPPMHH
+
+
+1ysc_          ------------------------------------------------------------
+YBY9_YEAST     ------------------------------------------------------------
+CBPY_CANAL     ------------------------------------------------------------
+CBPY_PICPA     ------------------------------------------------------------
+CBPX_ORYSA     ------------------------------------------------------------
+CBP3_HORVU     ------------------------------------------------------------
+CBPX_ARATH     ------------------------------------------------------------
+YSS2_CAEEL     ------------------------------------------------------------
+YUA6_CAEEL     ------------------------------------------------------------
+CP23_HORVU     ------------------------------------------------------------
+CP22_HORVU     ------------------------------------------------------------
+CBPY_SCHPO     EPGEHMPPPPMHHEPGEHMPPPPMHHEPGEHMPPPPMHHEPGEHMPPPPMHHEPGEHMPP
+
+
+1ysc_          ------------------------------------------------------------
+YBY9_YEAST     ------------------------------------------------------------
+CBPY_CANAL     ------------------------------------------------------------
+CBPY_PICPA     ------------------------------------------------------------
+CBPX_ORYSA     ------------------------------------------------------------
+CBP3_HORVU     ------------------------------------------------------------
+CBPX_ARATH     ------------------------------------------------------------
+YSS2_CAEEL     ------------------------------------------------------------
+YUA6_CAEEL     ------------------------------------------------------------
+CP23_HORVU     -----------------------------------------------------NRLRG--
+CP22_HORVU     ------------------------------------------------------------
+CBPY_SCHPO     PPMHHEPGEHMPPPPMHHEPGEHMPPPPMHHEPGEHMPPPPFKHHELEEHEGPEHHRGPE
+
+
+1ysc_          ------------------------------------------------------------
+YBY9_YEAST     ------------------------------------------------------------
+CBPY_CANAL     ------------------------------------------------------------
+CBPY_PICPA     ------------------------------------------------------------
+CBPX_ORYSA     ------------------------------------------------------------
+CBP3_HORVU     ------------------------------------------------------------
+CBPX_ARATH     ------------------------------------------------------------
+YSS2_CAEEL     ------------------------------------------------------------
+YUA6_CAEEL     ------------------------------------------------------------
+CP23_HORVU     ------------------------------------------------------------
+CP22_HORVU     ------------------------------------------------------------
+CBPY_SCHPO     DKEHHKGPKDKEHHKGPKDKEHHKGPKDKEHHKGPKDKEHHKGPKDKEHHKGPKDKEHHQ
+
+
+1ysc_          ------------------------------------------------------------
+YBY9_YEAST     --------------KYLNL--------VFVLQLLISI---KYASFGRAFS----------
+CBPY_CANAL     -------------ATSTNALVVQNPFSNIQQALKLDL---SYDKLTSKLTDTFEQGKANI
+CBPY_PICPA     -------------PKAIGL--------SLQMPMALEA---SYASLVEKAT----------
+CBPX_ORYSA     ------------------------------------------------------------
+CBP3_HORVU     -----------TTPRLVSLLLLL----ALCAAAAGALRLPPDASF---------------
+CBPX_ARATH     -------------EKLTFLSLLL----HFVVFIASTI---PSSSFLLNDR----------
+YSS2_CAEEL     ---------------LLSILFIFVSSYSFCLAAPA-------------------------
+YUA6_CAEEL     ---------------VMSRTLVLVALLGFAYVCES-------------------------
+CP23_HORVU     --------SPSSRASWESLAAVEEQTTTKAAGRPAPVAA---------------------
+CP22_HORVU     ------------------------------------------------------------
+CBPY_SCHPO     GPKEKHNERPEQNMQSSHELLVIEAFADLINSVPVEE---IAEEFSRFLDTLGIEYYGNI
+
+
+1ysc_          ------------------------------------------------------------
+YBY9_YEAST     ----------------------LFE----DDTTFANLDKQLKLPQNTQQTLKLDR-----
+CBPY_CANAL     ISTIAKVMNEPLDGLTPEIKNIWSE----MLMKFPNSITELNFKAPPKKG----------
+CBPY_PICPA     -----LAVGQEIDAIQKGIQQGWLE----VETRFPTIVSQLSYSTGPKFAIK--------
+CBPX_ORYSA     ------------------------------------------------------------
+CBP3_HORVU     -----------------------------PGAQAERLIRALNLL--PKDSSS--------
+CBPX_ARATH     ----------------------TFERSNLPSTRAEKLIRELNLF--PQQDLNV-------
+YSS2_CAEEL     ----------------------------------TDKVNDL-------------------
+YUA6_CAEEL     ----------------------------------A-LITNL-------------------
+CP23_HORVU     ----------------------AVE----AGRKEADRVEAL-------------------
+CP22_HORVU     -------------------------------------VPRV-------------------
+CBPY_SCHPO     PVH--IQENAPKDSSIPPLFE--FD----DDLELSDLTPEQFAYLEMLKAEGIDPMTAFR
+
+
+1ysc_          -----------------------------------------------KIK-D-PKIL---
+YBY9_YEAST     --------------------LNHDDPLFTTFISSVD------TDYSLRLRTVDPSKL---
+CBPY_CANAL     ---------------------KITTQQFDFHVTDAQV-----PNHKLRIK-STPKDL---
+CBPY_PICPA     ---------------------KKDATFWDFYVESQEL-----PNYRLRVKRNNPEVL---
+CBPX_ORYSA     -----------------------------------------------------MATGKSG
+CBP3_HORVU     -------------------------SSGRHGARVGEGNEDVAPGQLLER----RVTLPGL
+CBPX_ARATH     ------------------------IDVADLPLTAAEG-----PG-IVERKFVFPNILADG
+YSS2_CAEEL     ------------------------------------------PGL---------------
+YUA6_CAEEL     ------------------------------------------PGA---------------
+CP23_HORVU     ------------------------------------------PGH---------------
+CP22_HORVU     ------------------------------------------PGQ---------------
+CBPY_SCHPO     DQSHPAKPSNAQPADSSRPYAVFSQEENGEHVNLKAF-----PDHTLRVKDSKPESL---
+
+
+1ysc_          --GIDPNVTQYTGYLDVEDE-DKHFFFWTFES--RNDP-AKDPVILWLNGGPGCSSLT-G
+YBY9_YEAST     --GID-TVKQWSGYMDYKDS--KHFFYWFFES--RNDP-ANDPIILWLNGGPGCSSFT-G
+CBPY_CANAL     --GID-TVKQYSGYLDVVDE-DKHFFYYFFES--RNDP-KNDPVILWLNGGPGCSSLT-G
+CBPY_PICPA     --KVD-FTKQYSGYLDVEAD-DKHFFYWFFES--RNDP-QNDPIILWLNGGPGCSSLT-G
+CBPX_ORYSA     GSSAE-DLGHHAGYYRLPNTHDARLFYFFFES--RGSKGEDDPVVIWLTGGPGCSSEL-A
+CBP3_HORVU     PEGVA-DLGHHAGYYRLPNTHDARMFYFFFES--RGKK--EDPVVIWLTGGPGCSSEL-A
+CBPX_ARATH     GPTVD-DLGHHAGYYKLPKSRGASMFYFFFES--RNKK--DAPVVIWLTGGPGCSSEL-A
+YSS2_CAEEL     --TFTPDFFHYSGYLRAWTDK--YLHYWLTES--SRAP-TQDPLVLWLNGGPGCSSLD-G
+YUA6_CAEEL     --PIS-NFKQYSGYYNVGTKKNHMLHYWFVES--QSNP-STDPVLLWLTGGPGCSGLS-A
+CP23_HORVU     --PRGVDFAQYAGYVTVDAAAGRALFYYLAEAVGGNGD-KTKPLLLWLNGGPGCSSLGYG
+CP22_HORVU     --AFDASFAHYAGYVTVSEDRGAALFYWFFEA--AHDP-ASKPLLLWLNGGPGCSSIAFG
+CBPY_SCHPO     --GID-TVKQYTGYLDVEDD--RHLFFWFFES--RNDP-ENDPVVLWLNGGPGCSSLT-G
+
+
+1ysc_          LFFELGPSSIG-PDLKPIGNPYSWNSNATVIFLDQPVNVGFSYSG--SS-GVSNTVAAGK
+YBY9_YEAST     LLFELGPSSIG-ADMKPIHNPYSWNNNASMIFLEQPLGVGFSYG---DE-KVSSTKLAGK
+CBPY_CANAL     LFFELGPSSID-KNLKPVYNPHSWNANASVIFLDQPINVGYSYS---SQ-SVSNTIAAGK
+CBPY_PICPA     LFFELGSSRIN-ENLKPIFNPYSWNGNASIIYLDQPVNVGFSYS---SS-SVSNTVVAGE
+CBPX_ORYSA     LFYENGPFHIA-DNMSLVWNDFGWDQESNLIYVDQPTGTGFSYSSNPRD-TRHDEAGVSN
+CBP3_HORVU     VFYENGPFTIA-NNMSLVWNKFGWDKISNIIFVDQPTGTGFSYSSDDRD-TRHDETGVSN
+CBPX_ARATH     VFYENGPFKIT-SNMSLAWNEYGWDQVSNLLYVDQPVGTGFSYTTDKSD-IRHDETGVSN
+YSS2_CAEEL     LIEELGPFHVKDFGNSIYYNEYAWNKFANVLFLESPAGVGYSYSTNFN--LTVSDDEVSL
+YUA6_CAEEL     LLTEWGPWNVNTDGATLRTNPYSWNKNASILTLEAPAGVGYSYATDNN--IATGDDQTAS
+CP23_HORVU     AMEELGPFRVMSDGKTLYSNPYSWNHAANVLFLESPAGVGYSYSNTTADYGRSGDNGTAE
+CP22_HORVU     VGEEVGPFHVNADGKGVHMNPYSWNQVANILFLDSPVGVGYSYSNTSADILSNGDERTAK
+CBPY_SCHPO     LFMELGPSSINIETLKPEYNPHSWNSNASVIFLDQPINTGFSNG---DD-SVLDTVTAGK
+
+
+1ysc_          DVYNFLELFFDQFPEYVNKGQDFHIAGESYAGHYIPVFASEILS-H--------------
+YBY9_YEAST     DAYIFLELFFEAFPHLRS--NDFHIAGESYAGHYIPQIAHEIVVKN--------------
+CBPY_CANAL     DVYAFLQLFFKNFPEYAN--LDFHIAGESYAGHYIPAFASEILT-H--------------
+CBPY_PICPA     DVYAFLQLFFQHFPEYQT--NDFHIAGESYAGHYIPVFADEILS-Q--------------
+CBPX_ORYSA     DLYAFLQAFFTEHPNFAK--NDFYITGESYAGHYIPAFASRVYK-GNKNS----------
+CBP3_HORVU     DLYDFLQVFFKKHPEFIK--NDFFITGESYAGHYIPAFASRVHQ-GNKKN----------
+CBPX_ARATH     DLYDFLQAFFAEHPKLAK--NDFYITGESYAGHYIPAFASRVHK-GNKAN----------
+YSS2_CAEEL     HNYMALLDFLSKFPEYKG--RDFWITGESYAGVYIPTLAVRILN-DK-------------
+YUA6_CAEEL     ENWEALVAFFNEFPQYKG--NDFYVTGESYGGIYVPTLVQTILD-RQ-------------
+CP23_HORVU     DAYQFLDNWLERFPEYKG--REFYITGESYAGHYVPQLAHAILR-H--------------
+CP22_HORVU     DSLVFLTKWLERFPQYKE--REFYLTGESYAGHYVPQLAQAIKR-HHEAT----------
+CBPY_SCHPO     DVYAFLNLFFAKFPQYAH--LDFHIAGESYAGHYIPQFAKEIME-HNQGANFFVASGYEM
+
+
+1ysc_          KDRNFNLTSVLIGNGLTDPLTQYNYYEPMACGEGGEPSVLPSEECSAMEDSLERCLGLIE
+YBY9_YEAST     PERTFNLTSVMIGNGITDPLIQADYYEPMACGKGGYHPVLSSEECEKMSKAAGRCRRLNK
+CBPY_CANAL     PERNFNLTSVLIGNGLTDPLVQYEYYEPMACGEGGEPSVLEPEECDGMLNSLPRCLSLIE
+CBPY_PICPA     KNRNFNLTSVLIGNGLTDPLTQYRYYEPMACGEGGAPSVLPADECENMLVTQDKCLSLIQ
+CBPX_ORYSA     EGIHINLKGFAIGNGLTDPAIQYKAYTDYSLDMG----LITKSQFNRINKIVPTCELAIK
+CBP3_HORVU     EGTHINLKGFAIGNGLTDPAIQYKAYTDYALEMN----LIQKADYERINKFIPPCEFAIK
+CBPX_ARATH     EGVHINLKGFAIGNGLTDPALQYPAYPDYALEMG----LITQKEHDRLEKIVPLCELSIK
+YSS2_CAEEL     -KNFPNFKGVAIGNGALNFPNNYNTMVPFYYYHA----LVRDDLYNDIARN---------
+YUA6_CAEEL     SQSHINIKGLAIGNGCVSANEGVDSLVNFLYHHG----VVDQAKWEHMKTS---------
+CP23_HORVU     ASPDINLKGIMIGNAVINDWTDSKGMYDFFWTHA----LISDETADGISKN---------
+CP22_HORVU     GDKSINLKGYMVGNALTDDFHDHYGIFQYMWTTG----LISDQTYKLLNIF---------
+CBPY_SCHPO     EKQYINLKSVLIGNGLTDPLVQYYFYGKMACESPYGP-IMSQEECDRITGAYDTCAKLIT
+
+
+1ysc_          SCYDSQSVWSCVPATIYCNNAQLAPYQRT------G-RNVYDIRK-DC-EGGN-------
+YBY9_YEAST     LCYASKSSLPCIVATAYCDSALLEPYINT------G-LNVYDIRG-PC-EDNSTD-----
+CBPY_CANAL     SCYESGSVWSCVPATIYCNNGQMGPYQKT------G-RNVYDIRT-MC-EGSS-------
+CBPY_PICPA     ACYDSQSAFTCAPAAIYCNNAQMGPYQRT------G-KNVYDIRK-EC-DGGS-------
+CBPX_ORYSA     LCGTSG-TISCLGAYVVCNLICSSIETII------GKKNYYDIRK-PC--VGS-------
+CBP3_HORVU     LCGTNG-KASCMAAYMVCNTIFNSIMKLV------GTKNYYDVRK-EC--EGK-------
+CBPX_ARATH     LCGTDG-TTSCLASYLVCNSLFSGVMSHA------GGVNYYDIRK-KC--VGS-------
+YSS2_CAEEL     -CCNNNIGTCDIYSKFFDPNCRDKVINALDGT---NELNMYNLYD-VC-YYNPTTNLKKA
+YUA6_CAEEL     -CCHNDTDACPWHS-FSEFSACGEFVEATQQTAWNGGLNPYNMYA-DC-ISTSASFRFGM
+CP23_HORVU     -CNFTAYGA-GVASNALCDAASDEVGESL------ADIDIYNIYAPNC-QSE------KL
+CP22_HORVU     -CDFESF----VHTSPQCDKILDIASTEA------GNIDSYSIFTPTC-HSSFASSRNKV
+CBPY_SCHPO     GCYQTGFTPVCIGASLYCNNAMIGPFTKT------G-LNIYDIRE-ECRDQEH-------
+
+
+1ysc_          --------------------------LCYPTLQDIDDYLNQDYVKEAVGAEV----DHYE
+YBY9_YEAST     -------------------------GMCYTGLRYVDQYMNFPEVQETLGSDV----HNYS
+CBPY_CANAL     --------------------------LCYSQLEYIDQYLNLPEVKKALGAEV----DEYQ
+CBPY_PICPA     --------------------------LCYKDLEFIDTYLNQKFVQDALGAEV----DTYE
+CBPX_ORYSA     --------------------------LCY-DLSNMEKFLQLKSVRESLGVGD----IQFV
+CBP3_HORVU     --------------------------LCY-DFSNLEKFFGDKAVRQAIGVGD----IEFV
+CBPX_ARATH     --------------------------LCY-DFSNMEKFLNLQSVRKSLGVGD----IDFV
+YSS2_CAEEL     FIERQMRIAVGLPARKHNAAT--TVPLCA-QTNNTHVYLNRADVRKSLHIPSSL--PAWE
+YUA6_CAEEL     EYERRFN-------KKYTPEVLGTVP-CL-DESPVTNYLNRQDVRKALGIPSSL--PAWS
+CP23_HORVU     VT--P---PIAPSIDNFDP--------CT-DYY-VEAYLNRPDVQKALHANVTRLDHPWS
+CP22_HORVU     VKRLR---SVGKMGEQYDP--------CT-EKH-SIVYFNLHEVQKALHVNPVIGKSKWE
+CBPY_SCHPO     --------------------------LCYPETGAIESYLNQEFVQEALGVEY----D-YK
+
+
+1ysc_          SCNFDINRNFLFAGDWM-KPYHTAVTDLL-NQDLPILVYAGDKDFICNWLGNKAWTDVLP
+YBY9_YEAST     GCDNDVFTGFLFTGDGS-KPFQQYIAELL-NHNIPVLIYAGDKDYICNWLGNHAWSNELE
+CBPY_CANAL     SCNFDINRNFMFAGDWM-KPYQKNVIDLL-EKELPVLIYAGDKDFICNWLGNQAWTNRLE
+CBPY_PICPA     SCNFEINRNFLFAGDWM-KPYHEHVSSLL-NKGLPVLIYAGDKDFICNWLGNRAWTDVLP
+CBPX_ORYSA     SCSPTVYQAMLL--DWM-RNLEVGIPELL-ENDIKVLIYAGEYDLICNWLGNSRWVNSME
+CBP3_HORVU     SCSTSVYQAMLT--DWM-RNLEVGIPALL-EDGINVLIYAGEYDLICNWLGNSRWVHSME
+CBPX_ARATH     SCSTSVYQAMLV--DWM-RNLEVGIPTLL-EDGISLLVYAGEYDLICNWLGNSRWVNAME
+YSS2_CAEEL     ECSDQVGKNYV---VTH-FNVIPEFQTMI-AAGIKILVYNGDVDTACNSIMNQQFLTSLN
+YUA6_CAEEL     ICSNAISYGYK---RQY-GDMTSRVLNAVNNNNLKMMLYNGDVDLACNALMGQRFTDKLG
+CP23_HORVU     ACSDVL-TRWV---DSA-KTVLPIIQELM-KNSIRVWVYSGDTDGRVPVTSSRLSVNQLQ
+CP22_HORVU     TCSEVINTNWK---DCE-RSVLHIYHELI-QYGLRIWMFSGDTDAVIPVTSTRYSIDALK
+CBPY_SCHPO     GCNTEVNIGFLFKGDWMRKTFRDDVTAIL-EAGLPVLIYAGDADYICNYMGNEAWTDALE
+
+
+1ysc_          WKYDEEFASQKVRNWTASIT---DEVA----GEVKSYKH--FTYLRVFNGGHMVPFDVPE
+YBY9_YEAST     WINKRRYQRRMLRPWVSKET---GEEL----GQVKNYGP--FTFLRIYDAGHMVPYDQPE
+CBPY_CANAL     WSGSKGFTKAPVKSW--KVG---KNAA----GEVKNYKH--FTFLRVFGGGHMVPYDQPE
+CBPY_PICPA     WVDADGFEKAEVQDW--LVN---GRKA----GEFKNYSN--FTYLRVYDAGHMAPYDQPE
+CBPX_ORYSA     WSGKEAFVSSSEEPF--TVD---GKEA----GILKSYGP--LSFLKVHDAGHMVPMDQPK
+CBP3_HORVU     WSGQKDFAKTAESSF--LVD---DAQA----GVLKSHGA--LSFLKVHNAGHMVPMDQPK
+CBPX_ARATH     WSGKTNFGAAKEVPF--IVD---GKEA----GLLKTYEQ--LSFLKVRDAGHMVPMDQPK
+YSS2_CAEEL     LTVLGE--QEKVNEAW-HYS---GQTGTAVAGFQTKFAGN-VDFLTVRGSGHFVPEDKPK
+YUA6_CAEEL     LTL------SKKKTHF-TVK---GQIG----GYVTQYKGSQVTFATVRGAGHMVPTDKPA
+CP23_HORVU     LPVA-----AKWRPWF-SSTKGAGEVG----GYIVQYKGD-LSLVTVRGAGHEVPSYQPR
+CP22_HORVU     LPTV-----TPWHAWY-DDD---GEVG----GWTQGYKG--LNFVTVRGAGHEVPLHRPK
+CBPY_SCHPO     WAGQREFYEAELKPW--SPN---GKEA----GRGKSFKN--FGYLRLYEAGHMVPFNQPE
+
+
+1ysc_          NALSMVNEWIHGGFSL------------------
+YBY9_YEAST     ASLEMVNSWISGNRAF--------SDLSTLENAS
+CBPY_CANAL     NALDMVNRWISGDYKY------------------
+CBPY_PICPA     NSHEMVNRWISGDFSF--------H---------
+CBPX_ORYSA     VALEMLMRWTSGNLSN--A----SSSFQRLDFTM
+CBP3_HORVU     AALEMLRRFTQGKLKE--AVPEEESSTTSFYAAM
+CBPX_ARATH     AALKMLKRWMENSLIEDATVTVAAQGGEELVAQM
+YSS2_CAEEL     ESQQMIFNFINNKDYS---------TPIQL----
+YUA6_CAEEL     VAEHIIQSFLFNKAF-------------------
+CP23_HORVU     RALVLVQNFLAGKALP---------DCKECEQD-
+CP22_HORVU     QALTLIKSFLAGRPMP---------VLSDLRSDM
+CBPY_SCHPO     ASLEMLNSWIDGSLFA------------------
+
+

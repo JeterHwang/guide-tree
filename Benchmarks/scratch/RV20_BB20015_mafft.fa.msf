@@ -1,0 +1,317 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV20_BB20015_mafft.fa.msf  MSF: 376  Type: N  December 21, 2021 21:49  Check: 5449  ..
+
+ Name: 1hst_A      Len:    376  Check: 7431  Weight: 1.00
+ Name: H5A_XENLA   Len:    376  Check: 1473  Weight: 1.00
+ Name: H1D_STRPU   Len:    376  Check: 9322  Weight: 1.00
+ Name: H1_TIGCA    Len:    376  Check: 7097  Weight: 1.00
+ Name: H1_DROHY    Len:    376  Check:  524  Weight: 1.00
+ Name: H11_DROVI   Len:    376  Check: 2185  Weight: 1.00
+ Name: H1_DROME    Len:    376  Check: 9684  Weight: 1.00
+ Name: H1G_STRPU   Len:    376  Check: 6483  Weight: 1.00
+ Name: H1B_STRPU   Len:    376  Check: 6134  Weight: 1.00
+ Name: H1E_CHIPA   Len:    376  Check: 5114  Weight: 1.00
+ Name: H12_GLYBA   Len:    376  Check: 7206  Weight: 1.00
+ Name: H11_GLYBA   Len:    376  Check: 8110  Weight: 1.00
+ Name: H1A_PLADU   Len:    376  Check: 3272  Weight: 1.00
+ Name: H1E_STRPU   Len:    376  Check: 5740  Weight: 1.00
+ Name: H1_PARAN    Len:    376  Check: 7580  Weight: 1.00
+ Name: H1_ECHCR    Len:    376  Check:   20  Weight: 1.00
+ Name: H12_CAEEL   Len:    376  Check: 8287  Weight: 1.00
+ Name: H11_CAEEL   Len:    376  Check: 7839  Weight: 1.00
+ Name: H11_BOVIN   Len:    376  Check: 1744  Weight: 1.00
+ Name: H11_MOUSE   Len:    376  Check: 3403  Weight: 1.00
+ Name: H11_HUMAN   Len:    376  Check: 6941  Weight: 1.00
+ Name: H101_CHICK  Len:    376  Check: 3283  Weight: 1.00
+ Name: H1_ONCMY    Len:    376  Check: 5424  Weight: 1.00
+ Name: H1B_XENLA   Len:    376  Check: 1801  Weight: 1.00
+ Name: H1A_XENLA   Len:    376  Check: 7795  Weight: 1.00
+ Name: H1T_PIG     Len:    376  Check: 1979  Weight: 1.00
+ Name: H1T_HUMAN   Len:    376  Check: 1830  Weight: 1.00
+ Name: H1T_MOUSE   Len:    376  Check: 8080  Weight: 1.00
+ Name: H1L_MYTCA   Len:    376  Check: 7756  Weight: 1.00
+ Name: H1_WHEAT    Len:    376  Check: 4164  Weight: 1.00
+ Name: H1_DICDI    Len:    376  Check: 8600  Weight: 1.00
+ Name: H11_ARATH   Len:    376  Check: 1028  Weight: 1.00
+ Name: H1_NEUCR    Len:    376  Check:  628  Weight: 1.00
+ Name: H1_EMENI    Len:    376  Check: 8900  Weight: 1.00
+ Name: 1aoy_       Len:    376  Check: 3422  Weight: 1.00
+ Name: 1jhg_A      Len:    376  Check:  774  Weight: 1.00
+ Name: 1idy_       Len:    376  Check: 4396  Weight: 1.00
+
+//
+
+1hst_A         ------------------------------------------------------------
+H5A_XENLA      M--A----------ENSAAT-----------PAA---KP------------------K--
+H1D_STRPU      M--A----------DTDAAP-----------AAP---AP------STP-K---KAAKK--
+H1_TIGCA       M-----------------------------------------------------TETTSA
+H1_DROHY       M--S----------DSVVAV------------SA---SPVTPQTASAE-KKVAAKKPASA
+H11_DROVI      M--S----------DSAVAT------------SA---SPVIAQAASGE-KKVSTKKGSST
+H1_DROME       M--S----------DSAVAT------------SA---SPVAAPPATVE-KKVVQKKASGS
+H1G_STRPU      M--S----------AAKPKV----------------------------------------
+H1B_STRPU      M--A----------AEQKKV----------------------------------------
+H1E_CHIPA      M--S----------DPAQEVEAPV---EAAPVAS---SPKGKKEKAP--K---APKAEKP
+H12_GLYBA      M--S----------DPAPEV---------APAA---------PVASPA-K---AKKEKKP
+H11_GLYBA      M--S----------DSAPEIETPV---EEAPKAA---SPAKSPAKSPG-R---AKKAKKD
+H1A_PLADU      ------------------------------------------------------------
+H1E_STRPU      M--A----------EKN-------------------------------------------
+H1_PARAN       P--G----------SPQKRA-------------A---SPRKSPRKSPK-K---SPRKASA
+H1_ECHCR       A--A----------SPQKRA-------------A---SPRKSPKKSPR-K---SPKK--K
+H12_CAEEL      ---S----------DVTVAE-----------TPA---VK------TPT-K---APKAPKS
+H11_CAEEL      ---S----------DSAVVA-----------AAV---EP------KVP-K---AKAAKAA
+H11_BOVIN      ---S----------ETAPAA-----------PAA---APPA--EKTPV-K---KKAAKKP
+H11_MOUSE      ---S----------ETAPVA-----------QAA---STAT--EK-PA-A---AKKTKKP
+H11_HUMAN      ---S----------ETVPPA-----------PAA---SAAP--EK-PL-A---GKKAKKP
+H101_CHICK     ---S----------ETAPAA-----------APD---APAP--GA-KA-A---AKKPKKA
+H1_ONCMY       ---A----------EVAP-A-----------PAA---AAP-------------AKAPKKK
+H1B_XENLA      TATT----------ETAPVA-----------PPA---EPAA--AK-KT-K---KQQPKKV
+H1A_XENLA      AEAA----------ESAPAP-----------PPA---EPAA-----KK-K---KQQPKKA
+H1T_PIG        ---A----------ETAPAA-----------PAD---SVPASVEK-PP-A---KKRGKKP
+H1T_HUMAN      ---S----------ETVPAA-----------SAS---AGVAAMEK-LP-T---KKRGRKP
+H1T_MOUSE      ---S----------ETAPAA-----------SST---LVPAPVEK-PS-S---KRRGKKP
+H1L_MYTCA      P-------------SPSRRS----------------RSRSRSRSKSPK-R---SPAKKAR
+H1_WHEAT       M--S----------TDVAAADIPVPQVEVAADAAVD-TPAAKPAKAP--K---AAKAKKS
+H1_DICDI       -------------------------------------GPKAP-----------TTPTKKA
+H11_ARATH      M--SEVEIENAATIEGNTAADAPV------TDAAVEKKPAAKGRKTKNVK---EVKEKKT
+H1_NEUCR       M------------------------------------PPKKTETKAAD-ASAAAAPAPAA
+H1_EMENI       M------------------------------------PPKK-------------------
+1aoy_          M------------------------------------------------R----------
+1jhg_A         S--A---------------------------AMA-------------------EQRHQEW
+1idy_          M------------------------------------------------EV---------
+
+
+1hst_A         ---------------SHPTYSEMIAAAIRAEKSRGGSSRQSIQKYIKSHYK-VGHNA---
+H5A_XENLA      ----R-SKALKKST-DHPKYSDMILAAVQAEKSRSGSSRQSIQKYIKNHYK-VGENA---
+H1D_STRPU      ----K-ASKPKTPA-SHPKYSDMIASALESLKEKKGSSRQAILKYVKANFT-VGDNA---
+H1_TIGCA       K-PKK-VSKPKAKP-THPPTSVMVMAAIKALKERNGSSLPAIKKYIAANYK-VDVVK---
+H1_DROHY       S-ASK-AKKTTAPP-THPPTQQMVDASIQNLKERGGSSLLAIKKYISATYK-CDAQK---
+H11_DROVI      P-ESK--KSTAAPP-SHPPTQQMVDASIKNLKERGGSSLLAIKKYIGATYK-CDAQK---
+H1_DROME       A-GTK-AKKASATP-SHPPTQQMVDASIKNLKERGGSSLLAIKKYITATYK-CDAQK---
+H1G_STRPU      ------AKKARVAP-AHPPSSQMVVAAVTALKERGGSSTQAIKKYIAANYT-VDMTK---
+H1B_STRPU      ------AKKPRAKP-AHPSSSEMVLAAITALKERGGSSAQAIRKYIEKNYT-VDIKK---
+H1E_CHIPA      K-SDK-PKKPKAAP-THPPVSEMVVNAITTLKERGGSSLIAIKKFVAAQYK-VDVEK---
+H12_GLYBA      K-SDK-PKKPKAPR-THPPVSEMVVNAIKTLKERGGSSLQAIKKFLVAQYK-VDVEK---
+H11_GLYBA      G-SDK-PKKPKAIP-THPPVSEMVVNALKTLNEKGGSSVIAIKKFLVATYK-VEIEK---
+H1A_PLADU      --ARR---RKTAAA-AHPPVATMVVTAILGLKERKGSSMVAIKKYIAANYR-VDVAR---
+H1E_STRPU      --SSK-KVTTKKPA-AHPPAAEMVATAITELKDRNGSSLQAIKKYIATNFD-VQMDR---
+H1_PARAN       S-PRR-KAKRARAS-THPPVLEMVQAAITAMKERKGSSAAKIKSYMAANYR-VDMNV---
+H1_ECHCR       S-PRK---RKARSA-AHPPVIDMITAAIAAQKERRGSSVAKIQSYIAAKYR-CDINA---
+H12_CAEEL      K-TTT-EPSSKVAA-AHPPFINMIKEAIKQLKERKGSSKIAILKYITANYK-VGDQLT-R
+H11_CAEEL      K-PTK-VAKAKAPV-AHPPYINTIKEAIKQLKDRKGASKQAILKFISQNYK-LGDNVI-Q
+H11_BOVIN      A---G-A---RRKA-SGPPVSELITKAVAASKERSGVSLAALKKALAAA-G-YDVEK---
+H11_MOUSE      A---K-AAAPRKKP-AGPSVSELIVQAVSSSKERSGVSLAALKKSLAAA-G-YDVEK---
+H11_HUMAN      A---KAAAASKKKP-AGPSVSELIVQAASSSKERGGVSLAALKKALAAA-G-YDVEK---
+H101_CHICK     A---G-GAK-ARKP-AGPSVTELITKAVSASKERKGLSLAALKKALAAG-G-YDVEK---
+H1_ONCMY       A---A-A---KPKK-AGPSVGELIVKAVSASKERSGVSLAALKKSLAAG-G-YDVEK---
+H1B_XENLA      A---G-GAK-AKKP-SGPSASELIVKAVSSSKERSGVSLAALKKALAAG-G-YDVDK---
+H1A_XENLA      AAARG-AAK-SKKPSSGPSVSEQIVTAVSASKERSGVSLAALKKTLAAG-G-YDVDK---
+H1T_PIG        V---GLTGT-SRKA-PSASVSKLITEALSVSQERAGMSLAALKKALAAA-G-YDVEK---
+H1T_HUMAN      A---GLISA-SRKV-PNLSVSKLITEALSVSQERVGMSLVALKKALAAA-G-YDVEK---
+H1T_MOUSE      G-----LAP-ARKP-RGFSVSKLIPEALSTSQERAGMSLAALKKALAAA-G-YDVEK---
+H1L_MYTCA      K-TPK-KRRATGGA-KKPSTLSMIVAAIQAMKNRKGSSVQAIRKYILANNKGINTSR---
+H1_WHEAT       T---PGPKKPRVTP-AHPSYAEMVSEAIAALKERSGSSTIAIGKFIEDKHK-AHLPA--N
+H1_DICDI       A-----ATKSKPKP-NHPTYQVMISTAIAHYKDRTGSSQPAIIKYIEANYN-VAPDT---
+H11_ARATH      V---AAAPKKRTVS-SHPTYEEMIKDAIVTLKERTGSSQYAIQKFIEEKRK--ELPP--T
+H1_NEUCR       A-PTS-APKTKSPS-THASYLDMITDAIVALKDRAGSSRQALKKYVRANNT-LGNVTDNM
+H1_EMENI       A-PTT-AKKAASGP-THTSYRDMIKDAILNLKERNGSSRQSIKKYVLANNK-LAPASQNA
+1aoy_          ---------------SSAKQEELVKAFKALLKEEKFSSQGEIVAALQEQ----------G
+1jhg_A         LRFVDLLKNAYQND-LHLPLLNLMLTP--DEREALGTRVRIIEELLRGEMS---------
+1idy_          ---------------KKTSWTEEEDRILYQAHKRLGNRWAEIAKLLPGRTD-------NA
+
+
+1hst_A         -DLQIKLSIR-RLLAAGVLKQTK----GVGASGSFRL-------AK--------------
+H5A_XENLA      -DSQIKLSIK-RLVTSGALKQTK----GVGASGSFRL-------AKADEGKKPAKKP---
+H1D_STRPU      -NVHIKQALK-RGVTSGQLRHVK----GSGASGSFLL-------AEK------TKTP---
+H1_TIGCA       NAHFIKKALK-SLVEKKKLVQTK----GAGASGSFKL-------AAA------AKAE---
+H1_DROHY       LAPFIKKYLK-NSVANGKLIQTK----GKGASGSFKL-------SAS------SKKE---
+H11_DROVI      LAPFIKKYLK-NAVANGNVIQTK----GKGASGSFKL-------SAS------ANKD---
+H1_DROME       LAPFIKKYLK-SAVVNGKLIQTK----GKGASGSFKL-------SAS------AKKE---
+H1G_STRPU      QGPFIRRALV-KGVASGALVQTK----GKGASGSFKLGKKKEGKSDA------QKA---R
+H1B_STRPU      QAIFIKRALI-TGVEKGTLVQVK----GKGASGSFKLGKKKEGKSDA------QKA---P
+H1E_CHIPA      LVPFIKKFLK-ASVAKGTLLQAK----GKGASGSFKL-------PPA------AKK---V
+H12_GLYBA      LAPFIKKYLKGGAVVKGELLQTK----GKGASGSFKL-------PAA------AKKEKVA
+H11_GLYBA      LLPFIKKFLK-GAVLKGEVLQVK----GTGASGSFKM-------PPP------AKK---V
+H1A_PLADU      LAPFIRKFIR-K-----AVKQTK----GTGASGSFRV-------NKT------AVPK---
+H1E_STRPU      QLLFIKRALK-SGVEKGKLVQTK----GKGASGSFKVNVQAAKAQAS------EKA---K
+H1_PARAN       LAPHVRRALR-NGVASGALKQVT----GTGASGRFRV-------GAV------AKPK---
+H1_ECHCR       LNPHIRRALK-NQVKSGALKQVS----GVGATGRFRV-------GAV---------K---
+H12_CAEEL      INSRLRAALN-KGVASKALVQSV----GNGASGRFRV-------PEK------AAAT---
+H11_CAEEL      INAHHRQALK-RGVTSKALVQAR----GSGANGRFRV-------PEK------AAAA---
+H11_BOVIN      NNSRIKLGLK-SLVSKGTLVQTK----GTGASGSF-------------------------
+H11_MOUSE      NNSRIKLGLK-SLVNKGTLVQTK----GTGAAGSFKL-------NKK------A---E-S
+H11_HUMAN      NNSRIKLGIK-SLVSKGTLVQTK----GTGASGSFKL-------NKK------ASSVE-T
+H101_CHICK     NNSRIKLGLK-SLVSKGTLVQTK----GTGASGSFRL-------NKK------PGEVK-E
+H1_ONCMY       NNSRVKIAVK-SLVTKGTLVQTK----GTGASGSFKL-------NKK------A--VE-A
+H1B_XENLA      NNSRLKLALK-ALVTKGTLTQVK----GSGASGSFKL-------NKK------QLETK-D
+H1A_XENLA      NNSRLKLALK---VTKETLLQVK----GSGASGSFKL-------NKK------QLQSK-D
+H1T_PIG        NNSRIKLGLK-SLVGKGILVQTR----GTGASGSFKL-------SKK------AAPEP-R
+H1T_HUMAN      NNSRIKLSLK-SLVNKGILVQTR----GTGASGSFKL-------SKK------VIPKS-T
+H1T_MOUSE      NNSRIKLALK-RLVNKGVLVQTK----GTGASGSFKL-------SKK------AASGN-D
+H1L_MYTCA      LGSAMKLAFA-KGLKSGVLVRPKTSAGASGATGSFRV-------GKA------PSSPK--
+H1_WHEAT       FRKILLTQIK-KLVAAGKLTKVK---------GSYKL-------AKA-----PA-AVK-P
+H1_DICDI       FKTQLKLALK-RLVAKGTLTMVK---------ASYKL-------SEE------GKKEH--
+H11_ARATH      FRKLLLLNLK-RLVASGKLVKVK---------ASFKL-------PSA-----SAKASS-P
+H1_NEUCR       FDSLFNKALK-NGVDKGVFEQPK------GPSGGTKL-------AKK------V--A--K
+H1_EMENI       FDSQFNKAIK-AGVEKGDFIQPK------GTSGPVKL-------AKK------QAPA--K
+1aoy_          FDNINQSKVS-RMLTKFGAVRTR----NAKMEMVYCL-------PAE-------------
+1jhg_A         -----QRELK-NELGAGIATITR---------GSNSL---------------KAAPVE--
+1idy_          IKNHWNSTMR--------------------------------------------------
+
+
+1hst_A         ------------------------------------------------------------
+H5A_XENLA      KKE-------------IKKAVSPKKVAKPKKAAKSPAK--AKK-----PKVAEKKVK--K
+H1D_STRPU      KKA-------------AAKKATPK---------KKPAA--KKT-----KKPAAKKAT--K
+H1_TIGCA       -----------------KPKAVAKP--------KKAKT--PK--------KK--------
+H1_DROHY       PKP------KV-SSVEKKSKKVTS---------SAAAA--KKKTISATKKPKGVADK--K
+H11_DROVI      AKP------KA-SAVEKKTKKVNA---------SAARATKSKSSTSTTKKAAGAADK--K
+H1_DROME       KDP------KAKSKVLSAEKKVQS---------KKVAS--KKIGVSSKKTAVGAADKKPK
+H1G_STRPU      IAA------KK-AKLAAKKKEQRE---------KKALK--TKA-----RKEKVAAKK--A
+H1B_STRPU      DAA------KK-AKLAAKKKEAKE---------KKAAR--SKA-----KKEKLAAKK--A
+H1E_CHIPA      DKP------KK-APAAPKPKSTNK---------RVTGE--KKV-----VKKPAAKKP--E
+H12_GLYBA      KKP------MK-ATGEKKPKAAAKP--------KKAGE--KK--------KSIAKKP--K
+H11_GLYBA      DRP------ES-APKKKATKTKTR---------VERKE--KKV-----V----AKKP--K
+H1A_PLADU      -------------------KKKAA---------KKPKA--KKV-----KKPKSAAKK--K
+H1E_STRPU      KEK------EK-AKLLAQREKAKE---------KGCSE--EGE-----TAEGSRPKK--V
+H1_PARAN       ---------KA-KKTSAAAKAKKA---------KAAAA--KKA-----RKAKAAAKR--K
+H1_ECHCR       ---------RS-AASANKLKATRE---------KARAR--AKA-----KKAKAAARR--K
+H12_CAEEL      KKP-------------VAKKPVAKK--------AATGE--KKA-----KKTTVAK-----
+H11_CAEEL      KKP------AAAKKPAAAKKPAAAK--------KATGE--KKA-----KKPAAAKPK--K
+H11_BOVIN      ------------------------------------------------------------
+H11_MOUSE      KAI------TT-KVSVKAKAS--------------GAA--KKP-----KKTAGAAAK--K
+H11_HUMAN      KPG------AS-KVATKTKAT--------------GAS--KKL-----KKATG-ASK--K
+H101_CHICK     KAP------RK-RATAAKPKK--------------PAA--KKP-----AAAAK-KPK--K
+H1_ONCMY       KKP------AK-KAAAPKAKKVAAK--------KPAAA--KKP-----KKV---AAK--K
+H1B_XENLA      KAA------KK-KPAAPKAKKTA------------AGA--KKA-----PKSPK-KPK--K
+H1A_XENLA      KAAA----KKK-APLAAEAKKPA------------AAA--KKT-----AKSPK-KPK--K
+H1T_PIG        KGK------VK-KPAA-------------------AKT--KKL-----VLSRDSKSP--K
+H1T_HUMAN      RSK------AK-KSVS-------------------AKT--KKL-----VLSRDSKSP--K
+H1T_MOUSE      KGK------GK-KSAS-------------------AKA--KKM-----GLPRASRSP--K
+H1L_MYTCA      ----------------------------------------KKA-----------------
+H1_WHEAT       KTA------TK-KKPAAKPKAKAPA--------KKTAA--KSP-----AKKAAAKPK---
+H1_DICDI       --------QATLGPVAKKPKAKT----------TATST--ETT-----AAPPATPTK---
+H11_ARATH      KAAAEKSAPAK-KKPATVAVTKAKR--------KVAAA--SKA-----KKTIAVKPK---
+H1_NEUCR       PAP---------KKAAPKKETKEK---------KPAAA--KKE---GAAKKETKEKK--A
+H1_EMENI       PAP---------KKPATTTKTAAP---------KKTAT--KK-----ADKAEKAEKP--K
+1aoy_          ------------------------------------------------------------
+1jhg_A         --------LRQ-------------------WL--------EEV-----------------
+1idy_          ----------------------------------------RKV-----------------
+
+
+1hst_A         ------------------------------------------------------------
+H5A_XENLA      --------VAKKKPAPSP--------KKAKKTKT---VKAKP---------------VR-
+H1D_STRPU      --------KPAKKPAAKK--------KVAKPAAK---KAAKP---------------V--
+H1_TIGCA       -------AAATKKPTGEKKAKT----PKKKPAAK------KP---AA-------------
+H1_DROHY       LSK----AVVTKKSVDKKKAEK----AKAKDAKKVGTIKAKP---TTAKAKSSAAK-PKT
+H11_DROVI      LSK----SAAAKKNVEKKKADK----EKAKDAKKTGTIKAKP---TTAKAKSSATK-PKT
+H1_DROME       AKK----AVATKKTAENKKTEK----AKAKDAKKTGIIKSKP---AATKAKVTAAK-PKA
+H1G_STRPU      AKKATKKTKKVKKPAAKKAKKP----AAKKPAAK------KP---AA---KK-AKK-PAK
+H1B_STRPU      SKKT---TKKVKKPAAKKAKKPAAKKAAKKPAAK------KP---AA---KKAAAK-PA-
+H1E_CHIPA      AKK----ATKAAKPAA----KK----VAAKPAAK------KA---AAPKPKP-AAK-PKK
+H12_GLYBA      AAT----ATKVKKPVAKSTKKQ----AAVKPAAK------K----AAPKPKA-VPK-PKA
+H11_GLYBA      PAV----EKKAAKPAA----KK----AAAKPAAK------KA---AA---KP-AAK----
+H1A_PLADU      -------TNRARKPKTKKNRN---------------------------------------
+H1E_STRPU      KAA----PKKAKKPVKKTTEKKEKK-KTPKKAPK------KP---AA-------------
+H1_PARAN       -------AALAKKKAAAAKRKAA---AKAKKAK-------KPKKKAAKKAKKPAKKSPKK
+H1_ECHCR       -------AAAAKRKAAAAKRRAA---KKARKAKA------KP------------------
+H12_CAEEL      -KTG---D-KVKKAKSPK--------KIAKPAAK---KVAKS---------------P--
+H11_CAEEL      AATG---DKKVKKAKSPK--------KVAKPAAK---KVAKS---------------P--
+H11_BOVIN      ------------------------------------------------------------
+H11_MOUSE      TV---KTPKKPKKP--AVSK------KTSKSPKK-----PK------------VVK-AKK
+H11_HUMAN      SV---KTPKKAKKP--AATR------KSSKNPKK-----PK------------TVK-PKK
+H101_CHICK     AAAVKKSPKKAKKPAAAATK------KAAKSPKK----AAK------------AGR-PKK
+H1_ONCMY       AVAAKKSPKKAKKP--ATPK------KAAKSPKK----VKKP-----------AAA-AKK
+H1B_XENLA      VSAAAKSPKKVKKLA-----------KAAKSPKK-----PK------------AVK-AKK
+H1A_XENLA      VSAAAKSPKKLKKPA-----------KAAKSPAK-----KT------------AVK-PK-
+H1T_PIG        SA---KANKRAKKSRTTAAQ------KAARSGRK-----TK------------EAK-VKQ
+H1T_HUMAN      TA---KTNKRAKKPRATTP-------KTVRSGRK-----AK------------GAK-GKQ
+H1T_MOUSE      SS---KT-KAVKKPK-ATPT------KASGSRRK-----TK------------GAK-GVQ
+H1L_MYTCA      --------------------------KKAKSPKK--------------------------
+H1_WHEAT       -------AKAPAKAKAVAKPKAAAKPKAA----------AKP------KAKAAAKKAPAA
+H1_DICDI       -------KAAPKKPAA----------KAASTSTK-----------TA------AAK----
+H11_ARATH      -------TAAAKKVTAKAKAKPVPRATAAATKRK--AVDAKP------KAKARPAKAAKT
+H1_NEUCR       PAAK---KAAAPKKAAAPKKEVKEK-KAAAPKKK----AAAP---AVADKETVLTK-TKS
+H1_EMENI       TKKT---NAGVKKPAGRPKANTAKP-RKAS--------TAAP---AVVDKPKVVSV-TKS
+1aoy_          ------------------------------------------------------------
+1jhg_A         --------------------------------------LLKSD-----------------
+1idy_          ------------------------------------------------------------
+
+
+1hst_A         ------------------------------------------------------------
+H5A_XENLA      -------ASKVKKA--------KP-S---------------KPKAK------ASPKKS--
+H1D_STRPU      ----------AKKA--------TP-K---------------KKVVK------KAAKGK--
+H1_TIGCA       -------AKPKKAK--------TP-KKKA--AP-AKKTP-VKKVKKTS----PKKKAA--
+H1_DROHY       PKPKTT------SA--------KP-KKVV--AAA---SP-KKAAAK-----KPKAKTAS-
+H11_DROVI      PKPKTT------SA--------KP-KKVV--SAT---TP-KKTAVK-----KPKAKTAS-
+H1_DROME       VVAKASKAKPAVSA--------KP-KKTV--KKA---SV-SATA-K-----KPKAKT-T-
+H1G_STRPU      KV-----AKPAKKAA------AKP-AKKA--A-----KP-AKKAAK------PAKKAA--
+H1B_STRPU      ---------PAKKAA------KKPAAKKA--A-----K---KVAKK------PAAK----
+H1E_CHIPA      E------VKPKEEA--------KP-KKAA--A-----KP-AKPAAK------PAKKPA--
+H12_GLYBA      -------AKPKKEA--------KP-KKAA--APKAAKKP-AQKKPK------ATKKPA--
+H11_GLYBA      --------KPAAKA--------SP-KKAA--A-----KPKAKPTPKKS---TPAKPKAA-
+H1A_PLADU      ------------------------------------------------------------
+H1E_STRPU      -------KKSTPKK--------TP-KKAA--AK----KPKTAKPKK------PAXKKA--
+H1_PARAN       A------KKPAKKS---------PKKKKA--KR----SP--KKAKKAAGKRKPAAKKARR
+H1_ECHCR       ------------------------------------------------------------
+H12_CAEEL      ----------AKKA--------AP-K---------------KAPAK------KAAAP---
+H11_CAEEL      ----------AKKA--------AP-KKI------------AKPAAK------KAAKPA--
+H11_BOVIN      ------------------------------------------------------------
+H11_MOUSE      VA-----KSPAKAKA------VKP-KA----SKA---KV-TKPKTP-----AKPKKAA--
+H11_HUMAN      VA-----KSPAKAKA------VKP-KA----AKA---RV-TKPKT------AKPKKAA--
+H101_CHICK     AA-----KSPAKAKA------VKP-KA----AKP---KA-TKPKA------AKAKKTA--
+H1_ONCMY       AA-----KSPKKAT-----------KA----AKP---KA-AKPKA------AKAKKAA--
+H1B_XENLA      VA-----KSPAK-KA------TKP-KTAKSPAKA---KV-AKPKA------AKAKKPA--
+H1A_XENLA      -------------------------VAAKSPAKA---KA-AKPKV------AKAKKAA--
+H1T_PIG        QR-----KSPAKARA------AKP-KA----GNP---KL-TQ-QK------TNPRKAT--
+H1T_HUMAN      QQ-----KSPVKARA------SK----------S---KL-TQHHE------VNVRKAT--
+H1T_MOUSE      QR-----KSPAKARA------ANP-NS----GKA---KM-VMQKT-------DLRKAA--
+H1L_MYTCA      ----------------------------------------------------KSSKKS--
+H1_WHEAT       ATP----KKPAAR---------KPPTKRA--------TP-VKKA-------APAKKPA--
+H1_DICDI       -------KNSAKVT-----------KAVS-----------KKPAAK----KAPSKKVA--
+H11_ARATH      AKV----TSPAKKAVAATKKVATVATKKK--------TP-VKKVVKPKTVKSPAKR-A--
+H1_NEUCR       GRVAKSTAKPA--AA----------KKAA--------AP-KKAAASKK---AEKAEPA--
+H1_EMENI       GRKTTTTAKPTEKAT----------KKTA--------KN-KKA-----------------
+1aoy_          --------------------LGVP-------------TT---------------------
+1jhg_A         ------------------------------------------------------------
+1idy_          ------------------------------------------------------------
+
+
+1hst_A         ----------------
+H5A_XENLA      ----------GRKK--
+H1D_STRPU      ----------GKKK--
+H1_TIGCA       ----------PKKK--
+H1_DROHY       ----------ATKK--
+H11_DROVI      ----------ATKK--
+H1_DROME       ----------AAKK--
+H1G_STRPU      --------KPAKK---
+H1B_STRPU      --------KAAKK---
+H1E_CHIPA      ----------AKKAK-
+H12_GLYBA      ----------AKKA--
+H11_GLYBA      ------ARKPAKKSK-
+H1A_PLADU      ----------------
+H1E_STRPU      ----------AKSK--
+H1_PARAN       SPRKAGKRRSPKKARK
+H1_ECHCR       ----------------
+H12_CAEEL      ------------KA--
+H11_CAEEL      -----------AKA--
+H11_BOVIN      ----------------
+H11_MOUSE      ----------PKKK--
+H11_HUMAN      ----------PKKK--
+H101_CHICK     ----------AKKK--
+H1_ONCMY       ----------PKKK--
+H1B_XENLA      ----------PKK---
+H1A_XENLA      ----------PKKK--
+H1T_PIG        -----------NRK--
+H1T_HUMAN      -----------SKK--
+H1T_MOUSE      -----------GRK--
+H1L_MYTCA      ----------SNKSNN
+H1_WHEAT       ----------AKKAKK
+H1_DICDI       ----------AKK---
+H11_ARATH      ----------SSRVKK
+H1_NEUCR       ----------AEKA--
+H1_EMENI       ----------------
+1aoy_          ----------------
+1jhg_A         ----------------
+1idy_          ----------------
+
+

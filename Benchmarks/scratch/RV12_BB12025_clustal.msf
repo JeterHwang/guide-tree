@@ -1,0 +1,51 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 303  Type: P  December 21, 2021 20:31  Check: 9684  ..
+
+ Name: 12e8_H      Len:    303  Check: 3118  Weight: -1.00
+ Name: 1adq_A      Len:    303  Check: 9304  Weight: -1.00
+ Name: 1etz_A      Len:    303  Check:  628  Weight: -1.00
+ Name: TCB1_MOUSE  Len:    303  Check: 6634  Weight: -1.00
+
+//
+
+            1                                                   50
+12e8_H      EVQLQQSGAE VVRSGASVKL SCTASGF.NI KDYYIHWVKQ RPEKGLEWIG
+1adq_A      ~~~~PSVFLF PPKPKDTLMI SRTPE...VT .CVVVDVSQE DPQVQFNWYV
+1etz_A      FAVVTQESAL TTSPGETVTL TCRSSTGAVT TSNYAIWVQE KPDHLFSGLI
+TCB1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+12e8_H      WIDEIGDTE. ..YVPKFQGK ATMTADTSSN TAYLQLTSED TAVYYCNAGH
+1adq_A      DGVQVHNAKT KPREQQFNST Y......... .......... .RVVSVLTVL
+1etz_A      GGTNNRVPG. ..VPARFSGS L..IGDK.AA LTVTGAQTED EAIYFCALWY
+TCB1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+12e8_H      DYDRPYWGQG T......... .......LVT VSAAKTTPPS VYPLAPGSAA
+1adq_A      HQNW.LDGKE YKCKVSNKGL PSSIEKTISK AKGQP.REPQ VYTLPPSQEE
+1etz_A      SNHW.VFGGG TKL....... .........T VLGQPKSSPS VTLFTPSSEE
+TCB1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ EDLRNVTPPK VSLFEPSKAE
+
+            151                                                200
+12e8_H      QTN.SMVTLG CLVKGYFPEP VTVTWNSGSL ..SSGVHTFP AV.LQS.DLY
+1adq_A      MTK.NQVSLT CLVKGFYPSD IAVEWESNGQ PENN.YKTTP PV.LDSDGSF
+1etz_A      LET.NKATLV CTITDFYPGV VTVDWKVDGT PVTQGMETTQ PS.KQSNNKY
+TCB1_MOUSE  IANKQKATLV CLARGFFPDH VELSWWVNGK EVHSGVSTDP QAYKESNYSY
+
+            201                                                250
+12e8_H      TLSSSVTVPS STWPS.ET.V TCNVAHPASS TKV....... .......DKK
+1adq_A      FLYSRLTVDK SRWQE.GNVF SCSVMHEALH NHY....... .......TQK
+1etz_A      MASSYLTLTA RAWER.HSSY SCQVTHEGHT V......... ........EK
+TCB1_MOUSE  CLSSRLRVSA TFWHNPRNHF RCQVQFHGLS EEDKWPEGSP KPVTQNISAE
+
+            251                                                300
+12e8_H      IVPRD~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adq_A      SLSL~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1etz_A      SLSRAECS~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TCB1_MOUSE  AWGRADCGIT SASYQQGVLS ATILYEILLG KATLYAVLVS TLVVMAMVKR
+
+            301   
+12e8_H      ~~~
+1adq_A      ~~~
+1etz_A      ~~~
+TCB1_MOUSE  KNS

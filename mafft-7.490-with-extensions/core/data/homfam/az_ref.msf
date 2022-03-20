@@ -1,0 +1,160 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ az_ref.msf  MSF: 215  Type: N  November 09, 2021 21:21  Check: 70  ..
+
+ Name: 2azaa  Len:    215  Check: 9078  Weight: 1.00
+ Name: 1dz0a  Len:    215  Check: 8150  Weight: 1.00
+ Name: 1joi   Len:    215  Check: 7787  Weight: 1.00
+ Name: 1nwpa  Len:    215  Check: 6884  Weight: 1.00
+ Name: 1jzga  Len:    215  Check:   54  Weight: 1.00
+ Name: 1rkra  Len:    215  Check: 9232  Weight: 1.00
+ Name: 1cuoa  Len:    215  Check: 1021  Weight: 1.00
+ Name: 1adwa  Len:    215  Check: 1701  Weight: 1.00
+ Name: 1bqk   Len:    215  Check: 1730  Weight: 1.00
+ Name: 1paz   Len:    215  Check:  458  Weight: 1.00
+ Name: 1pmy   Len:    215  Check: 4247  Weight: 1.00
+ Name: 1iuz   Len:    215  Check: 7808  Weight: 1.00
+ Name: 7pcy   Len:    215  Check: 8571  Weight: 1.00
+ Name: 2plt   Len:    215  Check: 9119  Weight: 1.00
+ Name: 9pcy   Len:    215  Check: 4830  Weight: 1.00
+ Name: 1ag6   Len:    215  Check: 3008  Weight: 1.00
+ Name: 1plc   Len:    215  Check: 3945  Weight: 1.00
+ Name: 1byoa  Len:    215  Check: 3014  Weight: 1.00
+ Name: 1plb   Len:    215  Check: 5772  Weight: 1.00
+ Name: 1bawa  Len:    215  Check: 4697  Weight: 1.00
+ Name: 1nin   Len:    215  Check: 2427  Weight: 1.00
+ Name: 1m9wa  Len:    215  Check:  483  Weight: 1.00
+ Name: 1bxva  Len:    215  Check: 1714  Weight: 1.00
+ Name: 2b3ia  Len:    215  Check: 8795  Weight: 1.00
+ Name: 1kdj   Len:    215  Check: 3865  Weight: 1.00
+ Name: 1qhqa  Len:    215  Check: 8402  Weight: 1.00
+ Name: 2raca  Len:    215  Check: 6445  Weight: 1.00
+ Name: 1id2a  Len:    215  Check:  713  Weight: 1.00
+ Name: 1gy1a  Len:    215  Check: 6120  Weight: 1.00
+
+//
+
+2azaa     -----------------A--------------------QCEATIESN-D----AMQYDL-
+1dz0a     -----------------A--------------------QCEATVESN-D----AMQYNV-
+1joi      -----------------A--------------------ECKVTVDST-D----QMSFNT-
+1nwpa     -----------------A--------------------ECKVTVDST-D----QMSFNT-
+1jzga     -----------------A--------------------ECSVDIQGN-D----QMQFNT-
+1rkra     -----------------A--------------------ECSVDIAGN-D----GMQFDK-
+1cuoa     -----------------A--------------------SCETTVTSG-D----TMTYST-
+1adwa     ---------------------------------------ATHEVHMLNKGESGAMVFEP-
+1bqk      ---------------------------------------ADFEVHMLNKGKDGAMVFEP-
+1paz      ---------------------------------------ENIEVHMLNKGAEGAMVFEP-
+1pmy      ---------------------------------------DEVAVKMLNSGPGGMMVFDP-
+1iuz      ----------------------------------------AQIVKLGGD--DGSLAFVP-
+7pcy      ----------------------------------------AAIVKLGGD--DGSLAFVP-
+2plt      ----------------------------------------DATVKLGAD--SGALEFVP-
+9pcy      -----------------------------------------LEVLLGSG--DGSLVFVP-
+1ag6      -----------------------------------------VEVLLGGD--DGSLAFLP-
+1plc      -----------------------------------------IDVLLGAD--DGSLAFVP-
+1byoa     -----------------------------------------AEVLLGSS--DGGLAFVP-
+1plb      -----------------------------------------AEVKLGSD--DGGLVFSP-
+1bawa     ---------------------------------------ETFTVKMGAD--SGLLQFEP-
+1nin      ---------------------------------------ETYTVKLGSD--KGLLVFEP-
+1m9wa     ---------------------------------------ANATVKMGSD--SGALVFEP-
+1bxva     ---------------------------------------QTVAIKMGAD--NGMLAFEP-
+2b3ia     ---------------------------------------ASVQIKMGTD--KYAPLYEP-
+1kdj      -----------------------------------------AKVEVGDE--VGNFKFYP-
+1qhqa     ----ANAPGGSNVVNETP--------------------AQTVEVRAAPD----ALAFAQ-
+2raca     -DKATIPSESPFAAAEVA--------------------DGAIVVDIA------KMKYET-
+1id2a     QDKITVTSEKPVAAADVP--------------------ADAVVVGIE------KMKYLT-
+1gy1a     ---TLDTTWKEATLPQVKAMLQKDTGKVSGDTVTYSGKTVHVVAAAVLP-GFPFPSFEVH
+
+
+2azaa     ----KEMVVDKSCKQFTVHLKHVGKMAKSAMGHNWVLTK--EADKEGVATDGMNAGLAQD
+1dz0a     ----KEIVVDKSCKQFTMHLKHVGKMAKVAMGHNLVLTK--DADKQAVATDGMGAGLAQD
+1joi      ----KAIEIDKSCKTFTVELTHSGSLPKNVMGHNWVLSS--AADMPGIASDGMAAGIDKN
+1nwpa     ----KDIAIDKSCKTFTVELTHSGSLPKNVMGHNLVISK--EADMQPIATDGLSAGIDKQ
+1jzga     ----NAITVDKSCKQFTVNLSHPGNLPKNVMGHNWVLST--AADMQGVVTDGMASGLDKD
+1rkra     ----KEITVSKSCKQFTVNLKHPGKLAKNVMGHNWVLTK--QADMQGAVNDGMAAGLDNN
+1cuoa     ----RSISVPASCAEFTVNFEHKGHMPKTGMGHNWVLAK--SADVGDVAKEGAHAGADNN
+1adwa     ----AFVRAEP---GDVINFVPTD-K-----SHNVEAI---KEILPE-------------
+1bqk      ----ASLKVAP---GDTVTFIPTD-K-----GHNVETI---KGMIPD-------------
+1paz      ----AYIKANP---GDTVTFIPVD-K-----GHNVESI---KDMIPE-------------
+1pmy      ----ALVRLKP---GDSIKFLPTD-K-----GHNVETI---KGMAPD-------------
+1iuz      ----SKISVAA---GEAIEFVNNAGF-----PHNIVFD---EDAVPA-------------
+7pcy      ----NNITVGA---GESIEFINNAGF-----PHNIVFD---EDAVPA-------------
+2plt      ----KTLTIKS---GETVNFVNNAGF-----PHNIVFD---EDAIPS-------------
+9pcy      ----SEFSVPS---GEKIVFKNNAGF-----PHNVVFD---EDEIPA-------------
+1ag6      ----GDFSVAS---GEEIVFKNNAGF-----PHNVVFD---EDEIPS-------------
+1plc      ----SEFSISP---GEKIVFKNNAGF-----PHNIVFD---EDSIPS-------------
+1byoa     ----SDLSIAS---GEKITFKNNAGF-----PHNDLFD---EDEVPA-------------
+1plb      ----SSFTVAA---GEKITFKNNAGF-----PHNIVFD---EDEVPA-------------
+1bawa     ----ANVTVHP---GDTVKWVNNKLP-----PHNILFD---DKQVPG-------------
+1nin      ----AKLTIKP---GDTVEFLNNKVP-----PHNVVFD---AALNPA-------------
+1m9wa     ----STVTIKA---GEEVKWVNNKLS-----PHNIVFA---AD---G-------------
+1bxva     ----STIEIQA---GDTVQWVNNKLA-----PHNVVVE---G------------------
+2b3ia     ----KALSISA---GDTVEFVMNKVG-----PHNVIFD--K---VPA-------------
+1kdj      ----DSITVSA---GEAVEFTLVGET-----GHNIVFD--IPAGAPG-------------
+1qhqa     ----TSLSLPANT-VVRLDFVNQNNL---GVQHNWVLVNGGDDVAAAVNTAAQNN-ADAL
+2raca     ----PELHVKV---GDTVTWINREAM-----PHNVHFV---AGVLGE-------------
+1id2a     ----PEVTIKA---GETVYWVNGEVM-----PHNVAFK---KGIVGE-------------
+1gy1a     DKKNPTLQIPAGA-TVDVTFINTNK----GFGHDFDITK----KGPPYAVMPVID-----
+
+
+2azaa     YVK-AGDTRVIAHTKVIG-G----GESDSVTFDVSKLTPGEAYAYFCSFPGHWA-MMKGT
+1dz0a     YVK-AGDTRVIAHTKVIG-G----GESDSVTFDVSKIAAGENYAYFCSFPGHWA-MMKGT
+1joi      YLK-EGDTRVIAHTKIIG-A----GEKDSVTFDVSKLAAGTDYAFFCSFPGHIS-MMKGT
+1nwpa     YLK-DGDARVIAHTKVIG-A----GEKDSVTFDVSKLAAGEKYGFFCSFPGHIS-MMKGT
+1jzga     YLK-PDDSRVIAHTKLIG-S----GEKDSVTFDVSKLKEGEQYMFFCTFPGHSA-LMKGT
+1rkra     YVK-KDDARVIAHTKVIG-G----GETDSVTFDVSKLAAGEDYAYFCSFPGHFA-LMKGV
+1cuoa     FVT-PGDKRVIAFTPIIG-G----GEKTSVKFKVSALSKDEAYTYFCSYPGHFS-MMRGT
+1adwa     GVE-----------SFKSKI----NESYTLTVT---EP--GLYGVKCT--PHFGMGMVGL
+1bqk      GAE-----------AFKSKI----NENYKVTFT---AP--GVYGVKCT--PHYGMGMVGV
+1paz      GAE-----------KFKSKI----NENYVLTVT---QP--GAYLVKCT--PHYAMGMIAL
+1pmy      GAD-----------YVKTTV----GQEAVVKFD---KE--GVYGFKCA--PHYMMGMVAL
+1iuz      GV--DADAISYD--DYLNSK----GETVVRKLS---TP--GVYGVYCE--PHAGAGMKMT
+7pcy      GV--DADAISAE--DYLNSK----GQTVVRKLT---TP--GTYGVYCD--PHSGAGMKMT
+2plt      GV--NADAISRD--DYLNAP----GETYSVKLT---AA--GEYGYYCE--PHQGAGMVGK
+9pcy      GV--DAVKISMPEEELLNAP----GETYVVTLD---TK--GTYSFYCS--PHQGAGMVGK
+1ag6      GV--DAAKISMSEEDLLNAP----GETYKVTLT---EK--GTYKFYCS--PHQGAGMVGK
+1plc      GV--DASKISMSEEDLLNAK----GETFEVALS---NK--GEYSFYCS--PHQGAGMVGK
+1byoa     GV--DVTKISMPEEDLLNAP----GEEYSVTLT---EK--GTYKFYCA--PHAGAGMVGK
+1plb      GV--NAEKISQP--EYLNGA----GETYEVTLT---EK--GTYKFYCE--PHAGAGMKGE
+1bawa     ASKELADKLSHS--QLMFSP----GESYEITFSSDFPA--GTYTYYCA--PHRGAGMVGK
+1nin      KSADLAKSLSHK--QLLMSP----GQSTSTTFPADAPA--GEYTFYCE--PHRGAGMVGK
+1m9wa     VD--ADTAAKLSHKGLAFAA----GESFTSTFT---EP--GTYTYYCE--PHRGAGMVGK
+1bxva     -----QPELSHK--DLAFSP----GETFEATFS---EP--GTYTYYCE--PHRGAGMVGK
+2b3ia     GE--SAPALSNT--KLAIAP----GSFYSVTLG---TP--GTYSFYCT--PHRGAGMVGT
+1kdj      TVASELKAASMDENDLLSED----EPSFKAKVS---TP--GTYTFYCT--PHKSANMKGT
+1qhqa     FVPPPDTPNALAWTAMLN-A----GESGSVTFRT--PAP-GTYLYICTFPGHYLAGMKGT
+2raca     ---------AALKGPMMK-K----EQAYSLTFT---EA--GTYDYHCT--PHP--FMRGK
+1id2a     ---------DAFRGEMMT-K----DQAYAITFN---EA--GSYDYFCT--PHP--FMRGK
+1gy1a     --------PIVAGTGFSPVPKDGKFGYTNFTWHP--TA--GTYYYVCQIPGHAATGMFGK
+
+
+2azaa     LKLSN------------------------------
+1dz0a     LKLGS------------------------------
+1joi      VTVK-------------------------------
+1nwpa     VTLK-------------------------------
+1jzga     LTLK-------------------------------
+1rkra     LKLVD------------------------------
+1cuoa     LKLEE------------------------------
+1adwa     VQVGDAPENLDAAKTAKMPKKARERMDAELAQVN-
+1bqk      VQVGDAPANLEAVKGAKNPKKAQERLDAALAALGN
+1paz      IAVGDSPANLDQIVSAKKPKIVQERLEKVIA----
+1pmy      VVVGDKRDNLEAAKSVQHNKLTQKRLDPLFAQIQ-
+1iuz      ITVQ-------------------------------
+7pcy      ITVQ-------------------------------
+2plt      IIVQ-------------------------------
+9pcy      VTVN-------------------------------
+1ag6      VTVN-------------------------------
+1plc      VTVN-------------------------------
+1byoa     VTVN-------------------------------
+1plb      VTVN-------------------------------
+1bawa     ITVE------------------------------G
+1nin      ITVA------------------------------G
+1m9wa     VVVE-------------------------------
+1bxva     IVVQ-------------------------------
+2b3ia     ITVE-------------------------------
+1kdj      LTVK-------------------------------
+1qhqa     LTVTP------------------------------
+2raca     VVVE-------------------------------
+1id2a     VIVE-------------------------------
+1gy1a     IVVK-------------------------------
+
+

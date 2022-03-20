@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BBS11002_mafft.fa.msf  MSF: 80  Type: N  December 21, 2021 21:48  Check: 9633  ..
+
+ Name: 1abo_A  Len:     80  Check: 4540  Weight: 1.00
+ Name: 1ycs_B  Len:     80  Check: 5204  Weight: 1.00
+ Name: 1pht_   Len:     80  Check: 4173  Weight: 1.00
+ Name: 1ihv_A  Len:     80  Check: 6352  Weight: 1.00
+ Name: 1bb9_   Len:     80  Check: 2096  Weight: 1.00
+ Name: 1hjd_A  Len:     80  Check:  464  Weight: 1.00
+ Name: 1ov3_A  Len:     80  Check: 9327  Weight: 1.00
+ Name: 1ue9_A  Len:     80  Check: 7477  Weight: 1.00
+
+//
+
+1abo_A     NLFVALYDFVASGDNTLSITKGEKLRV-------LGYNHNG--------EW---CE----
+1ycs_B     GVIYALWDYEPQNDDELPMKEGDCMTI-------IHREDEDE-----IEWW---------
+1pht_      YQYRALYDYKKEREEDIDLHLGDILTVNKGSLVALGFSDGQEARPEEIGWLNGYNETTGE
+1ihv_A     NFRV----YYRDSRDPVWKGPAKL-------------------------LWKGEGAV---
+1bb9_      FKVQAQHDYTATDTDELQLKAGDVVLV-------IPFQNPEE---QDEGWLMGVKESDWN
+1hjd_A     SMAVALQDYMAPDCRFLTIHRGQVVYV-------FSKLKGRGRL-----FWGGSVQGDY-
+1ov3_A     EPYVAIKAYTAVEGDEVSLLEGEAVEV-------IHKLLDG--------WW---------
+1ue9_A     EIAQVTSAYVASGSEQLSLAPGQLILI-------LKKNTSG--------WWQGELQ----
+
+
+1abo_A     -AQTKNGQ-GWVPSNYITPV
+1ycs_B     -WARLNDKEGYVPRNLLGLY
+1pht_      --------RGDFPGTYVEYI
+1ihv_A     -VIQDNSDIKVVPRRKAKII
+1bb9_      QHKELEKCRGVFPENFTERV
+1hjd_A     -YGDLAARLGYFPSSIVRED
+1ov3_A     -VIRKDDVTGYFPSMYLQKS
+1ue9_A     -ARGKKRQKGWFPASHVKLL
+
+

@@ -1,0 +1,21 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 84  Type: P  December 21, 2021 20:30  Check: 8210  ..
+
+ Name: 1r69_   Len:     84  Check: 3399  Weight: -1.00
+ Name: 1neq_   Len:     84  Check: 9370  Weight: -1.00
+ Name: 1au7_A  Len:     84  Check: 9247  Weight: -1.00
+ Name: 1a04_A  Len:     84  Check: 6194  Weight: -1.00
+
+//
+
+        1                                                   50
+1r69_   ~~~~SISSRV KS.......K RIQLGLNQAE LAQKVGTTQ. .....QSIEQ
+1neq_   WHRADVIAGL KKRKLSLSAL SRQFGYAPTT LANALERHWP K......G..
+1au7_A  ~~~~QFANEF KV.......R RIKLGYTQTN VGEALAAVHG SEFSQTTICR
+1a04_A  ~~~~~PRERD IL.......K LIAQGLPNKM IARRLDITE. .....STVKV
+
+        51                                 84
+1r69_   LENGKTKRPR FLPELASALG VSVDWLL~~~ ~~~~
+1neq_   .EQIIANALE TK........ PEVIW~~~~~ ~~~~
+1au7_A  FENLQL...S FKNA.CKLKA ILSKWLEEAE QKRR
+1a04_A  HVKHMLKKMK LKSRV..... EAAVWVHQER IF~~

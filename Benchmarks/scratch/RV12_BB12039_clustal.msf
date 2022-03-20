@@ -1,0 +1,146 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 456  Type: P  December 21, 2021 20:30  Check: 2212  ..
+
+ Name: 1blu_       Len:    456  Check: 1932  Weight: -1.00
+ Name: FDXN_BRAJA  Len:    456  Check: 2800  Weight: -1.00
+ Name: FDXN_AZOCH  Len:    456  Check: 3104  Weight: -1.00
+ Name: FERN_AZOVI  Len:    456  Check: 4857  Weight: -1.00
+ Name: 1bc6_       Len:    456  Check: 3834  Weight: -1.00
+ Name: 1e08_A      Len:    456  Check: 2164  Weight: -1.00
+ Name: FER2_THEAC  Len:    456  Check: 1744  Weight: -1.00
+ Name: FER_ENTHI   Len:    456  Check: 7119  Weight: -1.00
+ Name: FER_METTE   Len:    456  Check: 4521  Weight: -1.00
+ Name: FER4_METJA  Len:    456  Check: 5351  Weight: -1.00
+ Name: FER2_METJA  Len:    456  Check: 4786  Weight: -1.00
+
+//
+
+            1                                                   50
+1blu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_AZOCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FERN_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bc6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1e08_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER2_THEAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_ENTHI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_METTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER4_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER2_METJA  MRKRVYYWTD SEHINKPVIS DTILNTGVKI NILKAKVEPQ EAFLILELFG
+
+            51                                                 100
+1blu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~ALMITD EC..INCDVC EPECPNGAIS
+FDXN_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~MPFKIIAS QC..TSCSAC EPLCPNVAIS
+FDXN_AZOCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~MAMAIDGY EC..TVCGDC KPVCPTGSIV
+FERN_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~MALKIVE SC..VNCWAC VDVCPSEAIS
+1bc6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~AYVITE PCIGTKDASC VEVCPVDCIH
+1e08_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~FVQID EAKCIGCDTC SQYCPTAAIF
+FER2_THEAC  ~~~~~~~~~~ ~~~~~MVELK VKTEMDVDRN LC..NYCGAC VGMCPTDAIW
+FER_ENTHI   ~~~~~~~~~~ ~~~~~~~~~~ ~~MGKITIVN IDDCVACGAC SGTCPQSVLE
+FER_METTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~MVAKVNVD LC..TGCGSC VDECPAAAIS
+FER4_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~MAVTIDYS LCKGAECAEC VNNCPMEVFE
+FER2_METJA  SKETIEKALN YLSKFGEVEE ISKVIKRDLE KC..VHCGCC ITQCPINVIY
+
+            101                                                150
+1blu_       QG..DETYVI EPSLCTECVG HYETSQCVEV CPVDCIIKDP SHEETEDELR
+FDXN_BRAJA  EK..GGNFVI EAAKCSECVG HFDEPQCAAA CPVDNTCVVD RA.......L
+FDXN_AZOCH  LQ..GGIYVI DADSCNECA. DLGEPRCLGV CPVDFCIQPL DD~~~~~~~~
+FERN_AZOVI  LA..GPHFEI SASKCTECDG DYAEKQCASI CPVEGAILLA DGTPANPP..
+1bc6_       EG.ED.QYYI DPDVCIDCG. .....ACEAV CPVSAIYHED FVPEEWKSYI
+1e08_A      GEMGEPHSIP HIEACINCG. .....QCLTH CPENAIYEAQ ....SWVPEV
+FER2_THEAC  LD.ET.VIKI HEEKCIECG. .....FCIVG CPTGAITAEW FHGNL~~~~~
+FER_ENTHI   VN..DHVEIK NPDDCIGCG. .....ACVDA CPQGVLKVE~ ~~~~~~~~~~
+FER_METTE   LN.DDGIATV DESECLDCG. .....SCEDA CPNNAITIE~ ~~~~~~~~~~
+FER4_METJA  IE.GDKVVVA RPDDCTYCG. .....VCEDV CPTGAVKVEP E~~~~~~~~~
+FER2_METJA  MD.EDYNVVF KEEDCVGCK. .....NCLKA CPFKAIEIFE ~~~~~~~~~~
+
+            151                                                200
+1blu_       A......... .......... .KYERITG~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_BRAJA  P......... .......... .RYQAPV~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_AZOCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FERN_AZOVI  .......... .......... ...GSLTGIP PERLAE.... .AMREIQAR~
+1bc6_       QKNRDFFKK~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1e08_A      EKKLKDGKVK CIAMPAPAVR YALGDAFGMP VGSVTTGKML AALQKLGFAH
+FER2_THEAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_ENTHI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_METTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER4_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER2_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1blu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_AZOCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FERN_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bc6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1e08_A      CWDTEFTADV TIWEEGSEFV ERLTKKSDMP LPQFTSCCPG WQKYAETYYP
+FER2_THEAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_ENTHI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_METTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER4_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER2_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1blu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_AZOCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FERN_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bc6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1e08_A      ELLPHFSTCK SPIGMNGALA KTYGAERMKY DPKQVYTVSI MPCIAKKYEG
+FER2_THEAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_ENTHI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_METTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER4_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER2_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+1blu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_AZOCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FERN_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bc6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1e08_A      LRPELKSSGM RDIDATLTTR ELAYMIKKAG IDFAKLPDGK RDSLMGESTG
+FER2_THEAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_ENTHI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_METTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER4_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER2_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                                400
+1blu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_AZOCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FERN_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bc6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1e08_A      GATIFGVTGG VMEAALRFAY EAVTGKKPDS WDFKAVRGLD GIKEATVNVG
+FER2_THEAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_ENTHI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_METTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER4_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER2_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            401                                                450
+1blu_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FDXN_AZOCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FERN_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bc6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1e08_A      GTDVKVAVVH GAKRFKQVCD DVKAGKSPYH FIEYMACPGG CVCGGGQPVM
+FER2_THEAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_ENTHI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER_METTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER4_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FER2_METJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            451   
+1blu_       ~~~~~~
+FDXN_BRAJA  ~~~~~~
+FDXN_AZOCH  ~~~~~~
+FERN_AZOVI  ~~~~~~
+1bc6_       ~~~~~~
+1e08_A      PGVLEA
+FER2_THEAC  ~~~~~~
+FER_ENTHI   ~~~~~~
+FER_METTE   ~~~~~~
+FER4_METJA  ~~~~~~
+FER2_METJA  ~~~~~~

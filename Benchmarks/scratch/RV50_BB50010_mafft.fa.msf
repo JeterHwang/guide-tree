@@ -1,0 +1,347 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV50_BB50010_mafft.fa.msf  MSF: 973  Type: N  December 21, 2021 21:48  Check: 2882  ..
+
+ Name: SYS_AQUAE   Len:    973  Check: 5890  Weight: 1.00
+ Name: SYSM_BOVIN  Len:    973  Check: 8091  Weight: 1.00
+ Name: 1ser_A      Len:    973  Check: 9889  Weight: 1.00
+ Name: SYT_THETN   Len:    973  Check: 4769  Weight: 1.00
+ Name: SYTM_YEAST  Len:    973  Check: 7051  Weight: 1.00
+ Name: 1h4q_A      Len:    973  Check: 9343  Weight: 1.00
+ Name: SYP_MYCLE   Len:    973  Check: 3278  Weight: 1.00
+ Name: SYP_BORBU   Len:    973  Check: 2086  Weight: 1.00
+ Name: SYP_CLOST   Len:    973  Check: 9733  Weight: 1.00
+ Name: YHI0_YEAST  Len:    973  Check: 7128  Weight: 1.00
+ Name: SYP_MYCPN   Len:    973  Check: 7028  Weight: 1.00
+ Name: SYP_MYCGE   Len:    973  Check: 4304  Weight: 1.00
+ Name: 1nj8_A      Len:    973  Check: 3380  Weight: 1.00
+ Name: SYP_METTH   Len:    973  Check: 7627  Weight: 1.00
+ Name: SYP_ARCFU   Len:    973  Check:  446  Weight: 1.00
+ Name: 1qe0_A      Len:    973  Check: 3366  Weight: 1.00
+ Name: SYH_CLOAB   Len:    973  Check: 9473  Weight: 1.00
+
+//
+
+SYS_AQUAE      M-----------------------------------------------------------
+SYSM_BOVIN     MAASIVRRLGPLVAGRGLRLRGGC---------------VCNQSFKRSFATERQDRNL--
+1ser_A         M-----------------------------------------------------------
+SYT_THETN      MYS-----LGNQVKAMVITLRDGTKREFEKGITVYEIAKSISDKLAREAVGGKFNGKIVE
+SYTM_YEAST     ------------------------------------------------------------
+1h4q_A         ------------------------------------------------------------
+SYP_MYCLE      M-----------------------------------------------------------
+SYP_BORBU      M-----------------------------------------------------------
+SYP_CLOST      M-----------------------------------------------------------
+YHI0_YEAST     MP--------------------------------------VSEAFAKLCVNEK-------
+SYP_MYCPN      M-----------------------------------------------------------
+SYP_MYCGE      M-----------------------------------------------------------
+1nj8_A         ------------------------------------------------------------
+SYP_METTH      ------------------------------------------------------------
+SYP_ARCFU      M-----------------------------------------------------------
+1qe0_A         M-----------------------------------------------------------
+SYH_CLOAB      MN----------------------------------------------------------
+
+
+SYS_AQUAE      --------------IDINLIREKPDYVKERL---------------------ATRD--KE
+SYSM_BOVIN     LYEHAREGYSALPLLDMESLCAYPEDAARAL---------------------DLRK--GE
+1ser_A         --------------VDLKRLRQEPEVFHR-----------------------AIRE--KG
+SYT_THETN      LNTKIEED------GELEILTFEDEEGKKIY-----------WHTSSHILAQAVKRLFKD
+SYTM_YEAST     ------------------------------------------------------------
+1h4q_A         ------------------------------------------------------------
+SYP_MYCLE      ------------------------------------------------------------
+SYP_BORBU      ------------------------------------------------------------
+SYP_CLOST      ------------------------------------------------------------
+YHI0_YEAST     --PPAESA------VAVKSLVFKPKTPKSATPVPIVVVALQSTTTPSALIANATSS--KD
+SYP_MYCPN      ------------------------------------------------------------
+SYP_MYCGE      ------------------------------------------------------------
+1nj8_A         ------------------------------------------------------------
+SYP_METTH      ------------------------------------------------------------
+SYP_ARCFU      ------------------------------------------------------------
+1qe0_A         ------------------------------------------------------------
+SYH_CLOAB      ----------------------------------------------------------NK
+
+
+SYS_AQUAE      LVS-LVDKVLEL--------DKR-RREIIKRLEALRSERNKLSKEIGKL-----KREGKD
+SYSM_BOVIN     LRSKDLPGIIST--------WQE-LRQLREQIRSLEEEKEAVTEAVRAL-----VVN-QD
+1ser_A         VAL-DLEALLAL--------DREVQREKEARLEAL-------------------------
+SYT_THETN      VKL-AIGPAID--NGFYYDFDTE-RPFTTEDFEAIEEEMNKIIKEDYKL----------E
+SYTM_YEAST     ------------------------------------------------------------
+1h4q_A         ------------------------------------------------------------
+SYP_MYCLE      ------------------------------------------------------------
+SYP_BORBU      ------------------------------------------------------------
+SYP_CLOST      ------------------------------------------------------------
+YHI0_YEAST     PRL-ARDDLVK--QAFQSE--SA-RAFILGDLANATSNFHLLIDHELGTVDGDTILQLND
+SYP_MYCPN      ------------------------------------------------------------
+SYP_MYCGE      ------------------------------------------------------------
+1nj8_A         ------------------------------------------------------------
+SYP_METTH      ------------------------------------------------------------
+SYP_ARCFU      --------LINILNAFYAE--K--RALIGIKLKIRISKIYQTLDNDFSF--KRTVFRFSK
+1qe0_A         --I---------------------------------------------------------
+SYH_CLOAB      IKP---------------------------------------------------------
+
+
+SYS_AQUAE      TTEIQN---------RVK----------------------ELKEEIDRLEEELRKVEEEL
+SYSM_BOVIN     NSQVQQDPQYQSLRARGR----------------------EIRKQLTLLYPKEAQLEEQF
+1ser_A         ------------------------------------------------------------
+SYT_THETN      RFVLSKEEAIKF-----------------MKEKDEPYK-VELIEEIPEGEEISFYKQGEF
+SYTM_YEAST     ------------------------------------------------------------
+1h4q_A         ------------------------------------------------------------
+SYP_MYCLE      ------------------------------------------------------------
+SYP_BORBU      ------------------------------------------------------------
+SYP_CLOST      ------------------------------------------------------------
+YHI0_YEAST     STYMKKSDMMKF-----------------LNNFEDSQKVVDFSQEVSKETATEGKKQQK-
+SYP_MYCPN      ------------------------------------------------------------
+SYP_MYCGE      ------------------------------------------------------------
+1nj8_A         ------------------------------------------------------------
+SYP_METTH      ------------------------------------------------------------
+SYP_ARCFU      TKVAFKDIFHSFGHHRIRLLALALCILGSLANFWHS----------SKNNSSSNSKTNKY
+1qe0_A         ------------------------------------------------------------
+SYH_CLOAB      ------------------------------------------------------------
+
+
+SYS_AQUAE      KN---TLLWIPNLPHPSVPVGE--------------DEKDNVEVRRWGEPRKFDFEPKPH
+SYSM_BOVIN     YL---RALRLPNQTHPDVPVGD--------------ESQ-ARVLHVVGDKPAFSFQPRGH
+1ser_A         ------LLQVPLPPWPGAPVGG--------------EEA-NREIKRVGGPPEFSFPPLDH
+SYT_THETN      VD----LCAGPHLPSTGMVKAIKLLSVAGAYWKGDEKNKMLQRIYGISFPKKSMLDEYLH
+SYTM_YEAST     ---------------------------------------MKIQLVRWHCSRNALWNRAFY
+1h4q_A         ---------------------------------------------KGLTPQSQDFSEWYL
+SYP_MYCLE      -------------------------------------GCNK----RGVTRQEDDFSAWYN
+SYP_BORBU      -------------------------------------S-------DFIASKEDDYSKWYL
+SYP_CLOST      -------------------------------------AKKDQEFVKDITNMDEDFPQWYT
+YHI0_YEAST     -------KQQPSKAGTAAAAAA--------------AALEDAKLIGITVDKALDFPGWYQ
+SYP_MYCPN      ------------------------------------------------ANKDQNLTLWYD
+SYP_MYCGE      ------------------------------------------------TKKTQDLTSWYD
+1nj8_A         ---------------------------------------------------MLEFSEWYS
+SYP_METTH      -------MQKPIKKDPN----------------------------RYHGEKMTEFSEWFH
+SYP_ARCFU      CSPLPILMTLPSKE---------------------------------------NFSEWYH
+1qe0_A         ------------------------------------------------------------
+SYH_CLOAB      ------------------------------------------------------------
+
+
+SYS_AQUAE      W------------------EIGERLGILDFKRGAKLSGSRFTVIAGWGARLERALINFML
+SYSM_BOVIN     L------------------EIAEKLDIIRQKRLSHVSGHRSYYLRGAGALLQHGLVNFTL
+1ser_A         V------------------ALMEKNGWWE-PRISQVSGSRSYALKGDLALYELALLRFAM
+SYT_THETN      MMEEAKKRDHRK--------LGKELDLFSIH--PEGPG--FPFFHPKGMIIRNILEDFWR
+SYTM_YEAST     STRKATKNASSATPATMTSMVSQRQDLFMTD--PLSPG--SMFFLPNGAKIFNKLIEFMK
+1h4q_A         E-------------------VIQKAELADY---GPVRG--TIVVRPYGYAIWENIQQVLD
+SYP_MYCLE      E-------------------VVAKAGLIDR---GPAKG--TMVIRPYGYRIWELLQDELD
+SYP_BORBU      D-------------------IVQKAKLADY---SPVKG--CMVIMPYGYSIWSKIQSILD
+SYP_CLOST      D-------------------VITKTDLVDY---SPVKG--FMVIKPYGYAIWENIQAFLD
+YHI0_YEAST     Q-------------------ILTKGEMLDY---YDVSG--CYILRPPSYAIWENIQKWFD
+SYP_MYCPN      Q-------------------LLSKAQLVSY---GDVKG--TNCFLPNSWNLWLQIQRLYN
+SYP_MYCGE      Q-------------------LLVKAKLICH---GEVKG--TVCFLNNSWGLWMEIQQLYN
+1nj8_A         D-------------------ILEKAEIYDVR--YPIKG--CGVYLPYGFKIRRYTFEIIR
+SYP_METTH      N-------------------ILEEAEIIDQR--YPVKG--MHVWMPHGFMIRKNTLKILR
+SYP_ARCFU      E-------------------VIQTAEIMDVR--YPVKG--LYVWFPFGFKIRQLVYSKLR
+1qe0_A         ---------------------------------KIPRG--TQDILPEDSKKWRYIENQLD
+SYH_CLOAB      ---------------------------------SILPG--FMELLPKEQLVFNDIVSKIT
+
+
+SYS_AQUAE      -DLHTKKGY-------------------KEICPPHLVKPEILIGTG-QLPKFE-EDLYKC
+SYSM_BOVIN     -NKLIHRGF-------------------TPMTVPDLLRGVVFEGCG-MTPNAKPSQIYNI
+1ser_A         -DFMARRGF-------------------LPMTLPSYAREKAFLGTG-HFPAYR-DQVWAI
+SYT_THETN      -KEHIKRGY-------------------QEIRTPIILNEELWKRSG-HWDHYK-ENMYFT
+SYTM_YEAST     LQQKFKFGF-------------------NEVVTPLIYKKTLWEKSG-HWENYA-DDMFKV
+1h4q_A         -RMFKETGH-------------------QNAYFPLFIPMSFLR--------FS-PELAVV
+SYP_MYCLE      -SKIKELGH-------------------ENAYFPMLIPENYFNREAEHVEGFH-PELAVV
+SYP_BORBU      -KKFKETGH-------------------ENAYFPMLIPYSFLEREKDHIDGFS-PEFAII
+SYP_CLOST      -RRFKETGH-------------------QNCYFPLLIPESLLNKEKEHVEGFA-PEVAWV
+YHI0_YEAST     -DKIKAIGV-------------------QNAYFPMFVSSRVLEKEKDHVEGFA-PEVAWV
+SYP_MYCPN      -NATALIKLKDKVILKQFIPIEPLPYTVEQVQLPTLSFYSEYQKEKRHVEGFN-PELFLI
+SYP_MYCGE      -DAIANKNQLSAIALTKFQPTTSFCYQVFQVQLPTLSFYSEYQKEKTHIKGFN-PELFLI
+1nj8_A         -NLLDESGH-------------------DEALFPMLIPEDLLAKEAEHIKGFE-DEVYWV
+SYP_METTH      -RILDRD-H-------------------EEVLFPLLVPEDELAKEAIHVKGFE-DEVYWV
+SYP_ARCFU      -EIMDRE-H-------------------DEVYFPALIPETELGKEGEHIKGFE-DEVYWI
+1qe0_A         -ELMTFYNY-------------------KEIRTPIFESTDLF-----------AREMYTF
+SYH_CLOAB      -GVYEQNGF-------------------LPMDTPIIEKEEVLLAKS---AGETEKQVYRI
+
+
+SYS_AQUAE      ERD-------NLYLIPTAEVPLTNLYREE-ILKEENLPIYLTAYTPCYRREAGAYGKDI-
+SYSM_BOVIN     DPSRF----EDLNLAGTAEVGLAGYFMDH-SVAFRDLPIRMVCSSTCYRAETDT-GKEP-
+1ser_A         AET-------DLYLTGTAEVVLNALHSGE-ILPYEALPLRYAGYAPAFRSEAGSFGKDV-
+SYT_THETN      EI-----DGQTYAIKPMNCPGAMLVYKST-LRSYRDLPLRLCELGLVHRHEL----SGVL
+SYTM_YEAST     ETT--DEEKEEYGLKPMNCPGHCLIFGKK-DRSYNELPLRFSDFSPLHRNEA----SGAL
+1h4q_A         THAGGEELEEPLAVRPTSETVIGYMWSKW-IRSWRDLPQLLNQWGNVVRWE-----MRT-
+SYP_MYCLE      THAGGKELSEPLVIRPTSETVIGDMMAKW-ITSHRDLPLRLNQWSNVVRWE-----LRP-
+SYP_BORBU      KDAGGESLAEPLVLRPTSETIIWNMYSKW-IKSYRDLPLKINQWANVVRWE-----KRT-
+SYP_CLOST      THGGSEKLAERLCVRPTSETIICSMYSKW-LTSYRELPYLYNQWCSVVRWE-----KST-
+YHI0_YEAST     TRAGSSELEEPIAIRPTSETVMYPYYAKW-VQSYRDLPLKLNQWNSVVRWEF----KHP-
+SYP_MYCPN      EQIGTKKLHDPLVLRPTSEIAFCNLWKKQ-SFSYQNLPVIYNQWTCVFRAE-----KNT-
+SYP_MYCGE      NQVGQKQLNDPLVLRPTSEIAFCNLWKKQ-ELSYHDLPLIYNQWTQVFRAE-----KNT-
+1nj8_A         THGGKTQLDVKLALRPTSETPIYYMMKLW-VKVHTDLPIKIYQIVNTFRYET----KHT-
+SYP_METTH      THGGLSKLQRKLALRPTSETVMYPMFALW-VRSHTDLPMRFYQVVNTFRYET----KHT-
+SYP_ARCFU      THGGLTPLDVKLALRPTSETAMYPMFRLW-VRNHADLPLKVYQIVNTFRYET----KHT-
+1qe0_A         K----DKGDRSITLRPEGTAAVVRSYIEHKMQGNPNQPIKLYYNGPMFR-----------
+SYH_CLOAB      -----DNEDRKQVLRFDLTVPFSRFAAQY--MSDLTFPFKRYQLGKVYRGER--------
+
+
+SYS_AQUAE      RGIIRQHQFDKVELVKIVHP--DTSYDELEKLVKDAEEVL-QLLGL--------------
+SYSM_BOVIN     WGLYRVHHFTKVEMFGVTGPGLEQSSELLEEFLSLQMEIL-TELGL--------------
+1ser_A         RGLMRVHQFHKVEQYVLTEASLEASDRAFQELLENAEEIL-RLLEL--------------
+SYT_THETN      HGLMRVRSFT-QDDAH-LFMTPEQVEDEILGVINLVDYFY-KIFGF--------------
+SYTM_YEAST     SGLTRLRKFH-QDDGH-IFCTPSQVKSEIFNSLKLIDIVYNKIFPFV-------------
+1h4q_A         RPFLRTSEFL-WQEGHTAHATREEAEEEVRRMLSIYARLAREYAAI--------------
+SYP_MYCLE      RMLLRTIEFL-WQEGHSAHIEKSDALRETLFALDIYTTLARDMAAI--------------
+SYP_BORBU      RPFLRTTEFL-WQEGHTAHATEEEALEETLLILDVYKRFIEDYLAI--------------
+SYP_CLOST      RPFLRTSEFL-WQEGHTLHETAEEAQAETLQMLAIYKEMAEDLLAI--------------
+YHI0_YEAST     QPFLRTREFL-WQEGHTAHLTAKDAEEEVLQILDFYAGVYEELLAV--------------
+SYP_MYCPN      RPFLRNSEFY-WQETHGLFSDGVNSESAAIAFWKLYQDIIVNQLCI--------------
+SYP_MYCGE      RPFLRNSEFY-WQETHGLFVDQSQSEQAAISFWNLYQDLIINKLCI--------------
+1nj8_A         RPLIRLREIMTFKEAHTAHSTKEEAENQVKEAISIYKKFF-DTLGI--------------
+SYP_METTH      RPLIRVREITTFKEAHTIHATASEAEEQVERAVEIYKEFF-NSLGI--------------
+SYP_ARCFU      RPLIRLREITSFKEAHTVHKDFEEAAEHVKKAIGFYKEFY-DFLAI--------------
+1qe0_A         ----YYRQFN--QFGVEAIGAENPSV--DAEVLAMVMHIY-QSFGLKHLKLVINSVGDMA
+SYH_CLOAB      NQKGRYREFY--QCDVDVVGNGNLSIKNDAFIINMASKAL-RKIGLDSYKFQISNRKILT
+
+
+SYS_AQUAE      ------------PYRV----VELCTGDLG-------------------------------
+SYSM_BOVIN     ------------HFRV----LDMPTQELG-------------------------------
+1ser_A         ------------PYRL----VEVATGDMG-------------------------------
+SYT_THETN      ------------EYHV----ELSTRPENSM-------GTDEEWELATNALISA-------
+SYTM_YEAST     --KGGSGAE--SNYFI----NFSTRPDHFI-------GDLKVWNHAEQVLKEI-------
+1h4q_A         ------------PVIE----GLKTEKEKF-------------------------------
+SYP_MYCLE      ------------PIVS----GEKTAGERF-------------------------------
+SYP_BORBU      ------------PVFC----GKKSEKEKF-------------------------------
+SYP_CLOST      ------------PVVD----GRKSDRERF-------------------------------
+YHI0_YEAST     ------------PVVK----GRKTEKEKF-------------------------------
+SYP_MYCPN      ------------PAFV----GLKSPNERF-------------------------------
+SYP_MYCGE      ------------PAFV----GLKSESEKF-------------------------------
+1nj8_A         ------------PYLI----SKRPEWDKF-------------------------------
+SYP_METTH      ------------PYLI----TRRPPWDKF-------------------------------
+SYP_ARCFU      ------------PYMV----IRRPEWDKF-------------------------------
+1qe0_A         SRKE----------------YNEALVKHFEPVIHEFCSDCQSRLHTDPMRI---------
+SYH_CLOAB      GVLEGLNITNMQEVMILIDKYDKITEEQFLSELNKLIGEEKAKVISKVIKISGSSDEVVE
+
+
+SYS_AQUAE      --------------FSAAKTYDIEVWF-PSQ-NK-----YREISSCSNCEDFQARRMNTR
+SYSM_BOVIN     --------------LPAYRKFDIEAWM-PGR-GR-----FGEVTSASNCTDFQSRRLHIM
+1ser_A         --------------PGKWRQVDIEVYL-PSE-GR-----YRETHSCSALLDWQARRANLR
+SYT_THETN      -LKRANLPYKVNEGEGAFYGPKIDFHL-KDSIGR-----TWQCGTIQ-LDFQMPERFELE
+SYTM_YEAST     -LEESGKPWKLNPGDGAFYGPKLDIMV-TDHLRK-----THQVATIQ-LDFQLPERFDLK
+1h4q_A         --------------AGAVYTTTIEALM-KD--GK-----ALQAGTSHYLGENFARAFDIK
+SYP_MYCLE      --------------AGALNTYTIEAMM-RD--GK-----ALQSATTHYLGDNFARAFNIR
+SYP_BORBU      --------------AGAVSTYSIEALM-QD--KK-----ALQAATSHYLGLNFAKAFDVK
+SYP_CLOST      --------------AGAAATYTIEALM-HD--GK-----ALQSGTSHNLAQHFTKAFDIT
+YHI0_YEAST     --------------AGGDFTTTCEGYIPQT--GR-----GIQGATSHHLGQNFSKMFNLS
+SYP_MYCPN      --------------AGAQNTWTVESIM-PD--GQ-----ALQCATSHDLGQTFTKPFGLT
+SYP_MYCGE      --------------AGAKNTWTIEAIM-PD--GQ-----SLQCATSHDLGDTFTKSFTIS
+1nj8_A         --------------PGAEYTMAFDTIF-PD--GR-----TMQIATVHNLGQNFSKTFEII
+SYP_METTH      --------------PGSEYTVAFDTLM-PD--GK-----TLQIGTVHNLGQTFARTFEIK
+SYP_ARCFU      --------------PGAAYTIAFDTIM-PD--GR-----TLQIGTVHHLADNFARTFDIK
+1qe0_A         -LTAPRITDFLNE-ESKAYYEQVKAYL-DDL-GI---PYTEDPNLVRGLDYYTHTAFELM
+SYH_CLOAB      NLKKVEIKNEMLE-KGIEEVEEVIKYL-KLF-GVEDSEYAINLKIIRGLDYYTGTVFETL
+
+
+SYS_AQUAE      FKD-----------SKTGKNR-----FVHTLNGSGLAVGRTLAAILENYQQEDGSVV-VP
+SYSM_BOVIN     FQT-----------EA-GELQ-----FAHTVNATGCAVPRLLIALLESYQQKDGSVL-VP
+1ser_A         YRD-----------PE-GRVR-----YAYTLNNTALATPRILAMLLENHQLQDGRVR-VP
+SYT_THETN      YIG-----------PD-GEKHR--PIMLHR--VIYGSIERFIGILT----EHFAGAF--P
+SYTM_YEAST     FKD-----------QD-NSYKR--PIMIHR--ATFGSIERFMALLI----DSNEGRW--P
+1h4q_A         FQD-----------RD-LQVK-----YVHT--TSWGLSWRFIGAIIMTHGDDRGLVL--P
+SYP_MYCLE      YTT-----------AE-EQQA-----FVHT--TSFGLSTRMIGAIVMVHGDDKGLVL--P
+SYP_BORBU      FQD-----------KD-GKMR-----HVFA--SSWGVSTRLIGALIMVHSDEKGLVL--P
+SYP_CLOST      FQG-----------RT-GELE-----YPHH--TSWGASTRLIGGIIMVHGDNRGLVL--P
+YHI0_YEAST     VENP--------LGSD-HPKI-----FAYQ--NSWGLSTRVIGVMVMIHSDNKGLVI--P
+SYP_MYCPN      FQN-----------QA-NQQA-----IPYS--FSCGISTRILGALLLTHSDDFGLVL--P
+SYP_MYCGE      YQS-----------KT-NQKM-----TPSS--FSCGMSTRILGAIFLTHSDDYGLVL--P
+1nj8_A         FET-----------PT-GDKD-----YAYQ--TCYGISDRVIASIIAIHGDEKGLIL--P
+SYP_METTH      FET-----------PE-GDHE-----YVHQ--TCYGLSDRVIASVIAIHGDESGLCL--P
+SYP_ARCFU      YEA-----------PN-GEHY-----YAHQ--TCYGISERCIAALISVHGDDLGLVL--P
+1qe0_A         MDNPNYDGAITTLCGG-GRYNGLLELLDGPSETGIGFALSIERLLLAL--EEEGIELDIE
+SYH_CLOAB      LTGNESYGSI---CSG-GRYDNLAQNYTENVLPGVGMSIGITRLFFVL--REIGFIENYN
+
+
+SYS_AQUAE      EVLRDYVGTDVIRP----------------------------------------------
+SYSM_BOVIN     PALQPYLGTDRITTPTH-------------------------------------------
+1ser_A         QALIPYMGKEVLEPC---------------------------------------------
+SYT_THETN      TWLAPV--QVRVLPISE-----KHHE-------YARKVYERLQEHDIR----------VE
+SYTM_YEAST     FWLNPY--QAVIIPVNT-----KNVQQLDMCTALQKKLRNELEADDMEPVPLNDWHFNVD
+1h4q_A         PRLAPI--QVVIVPIYK-----DESRERVLE--AAQGLRQALLAQGLR----------VH
+SYP_MYCLE      PQVAPY--QVVIVPITT-----GNKASEVGH--AAADLARRLQAAGVR----------TH
+SYP_BORBU      PRIAPI--EIIVIPIFKK---EDEINKKILD--YSDCVVDALKKAEFR----------VE
+SYP_CLOST      PRVAPT--QVVIIPIAQ-----N--KEGVLD--KAYEIKKELEAKGIR----------VT
+YHI0_YEAST     PRVSQF--QSVVIPVGITKKTSEEQRKHIHE--TARSVESRLKKVGIR----------AF
+SYP_MYCPN      WKVAPI--QVKLYLF------DKKGDTKTVE--LAQKVQTLLEQLAIR----------FQ
+SYP_MYCGE      WYLASK--QVKLYLF------DKNNNPKTRA--LAFLVKDFLEKLKIR----------FS
+1nj8_A         PIVAPI--QVVIVPLIF-----KGKEDIVME--KAKEIYEKLKGK-FR----------VH
+SYP_METTH      PDVAAH--QVVIVPIIF-----KKAAEEVME--ACRELRSRLEAAGFR----------VH
+SYP_ARCFU      FEVAPV--QIVIIPILY-----KGKEEAVME--ACRKLAEKLKA--FR----------VV
+1qe0_A         ENLD-----LFIVTMGDQAD------------RYAVKLLNHLRHNGIK----------AD
+SYH_CLOAB      SSLNE---KYLIVPIGDTFE-------------YCTKILNKLLVNGKS----------AE
+
+
+SYS_AQUAE      ------------------------------------------------------------
+SYSM_BOVIN     --------------------VPLQY-IGPNQPQKP-------------------------
+1ser_A         ------------------------------------------------------------
+SYT_THETN      LDDRN-EKIGYKIREAQLQKIPYMLIVGDREVEEGNVSLRSRKD--GDLGPISLDNFIE-
+SYTM_YEAST     LDIRN-EPVGYRIKSAILKNYSYLIIVGDEEVQLQKYNIRERDNR-KSFEKLTMSQIWE-
+1h4q_A         LDDRDQHTPGYKFHEWELKGVPFRVELGPKDLEGGQAVLASRLG---GKETLPLAALPE-
+SYP_MYCLE      VDARPQLTPGWKYNEWELRGVPIRLELGPRDLEAGTTVMVRRIGE-KAKQPIAIAAAPT-
+SYP_BORBU      IDKDVRSSPGFRFSSAEFKGIPIRLEVGINDVLLNSVTISRRDKDRKFKYQISLDSLIS-
+SYP_CLOST      LDDDTNYSPGWKFNQYEMKGVPLRLEIGPRDIENNVAMIARR-DT-LSKDSYSLDNIGD-
+YHI0_YEAST     GDYNDNYTPGWKFSQYELKGIPIRIELGPKDIEKNQVVVVRRNDS--KKYVVSFDELEA-
+SYP_MYCPN      FIKVE-NQLGKQLGQGEVNGIPFQLIV---DNPQ-TVNIFNRLTR--VKTAYSFEQLAS-
+SYP_MYCGE      FIEIN-NQLGKQLLKGEIEGIPLQMIV---DNEK-TINIFNRLTR--LKTSLTFANLQT-
+1nj8_A         IDDRD-IRPGRKFNDWEIKGVPLRIEVGPKDIENKKITLFRRDTM--EKFQVDETQLME-
+SYP_METTH      LDDRD-IRAGRKYYEWEMRGVPLRVEIGPRDLEKGAAVISRRDTG--EKVTADLQGIEE-
+SYP_ARCFU      LDEGE-DRPGAKYYKWELKGVPIRFEIGPRDAEKGVAVVSFRDEK--RKFEVPLDEVDEG
+1qe0_A         KDYLQ-RKIKGQMKQADRLGAKFTIVIGDQELENNKIDVKNMTTG--ESETIELDALVE-
+SYH_CLOAB      IYFEE-GKLKKKLTYANKLDIKYVILIGEDEVTNKELVIKDMITG--EQKKLNIEEI---
+
+
+SYS_AQUAE      ------------------------------------------------------------
+SYSM_BOVIN     RLP---------------------------------------------------------
+1ser_A         ------------------------------------------------------------
+SYT_THETN      KILKEIATKAL-------------------------------------------------
+SYTM_YEAST     KFI-ELEKNYK-------------------------------------------------
+1h4q_A         ALP-GKLDAFHEELYRRALAFREDHTRKV-----DTY--EAFKEAVQE--GFALAFHCGD
+SYP_MYCLE      ELP-GILEEFQRTLLERATQFRDDHTTLV-----DNW--DAFATTVAT--GWALAIHCGN
+SYP_BORBU      KVK-VELDLMQKDLFQRALNFRILNTKEIFRSSKDSY--ETFKAYVNDYSGFVLSCWCGS
+SYP_CLOST      TVK-NLLDTVHTDMLERARAHRDSKTFTF-----KDY--EEFKRKMIETPGFAKGMWCGE
+YHI0_YEAST     RIP-EILEEMQGDLFKKAKELFDTHRVIV-----NEW--SGFVPALNK-KNVILAPWCGV
+SYP_MYCPN      RFV-ELVQQYHQAMYDKAKAVVQQKVVQA-----TTL--KQIEQAFNDKKAVLCAVR-LT
+SYP_MYCGE      EFV-NLVNNYHTEMYRKANDLVEQKLARV-----QTL--KEIEQAFKNKKAVLCTVK-LT
+1nj8_A         VVE-KTLNNIMENIKNRAWEKFENFITIL-----EDINPDEIKNILSEKRGVILVPF-KE
+SYP_METTH      TLR-ELMKDILENLRTRAWERMESEIREA-----ETL--EEASRIVDEKRGIISFMWCGE
+SYP_ARCFU      KVL-EWARELKQRLRNAAAERMAEKVKFV-----ENT--GE----IEEWGGVVAVYLCSD
+1qe0_A         YFK---------------------------------------------------------
+SYH_CLOAB      ------------------------------------------------------------
+
+
+SYS_AQUAE      ------------------------------------------------------------
+SYSM_BOVIN     -------------------------------------------------------GQPAS
+1ser_A         ------------------------------------------------------------
+SYT_THETN      ------------------------------------------------------------
+SYTM_YEAST     ------------------------------------------------------------
+1h4q_A         KACERLIQEETT------------------ATTRCVP----FEAEPEEG-FCVRCGRPSA
+SYP_MYCLE      PECEEDIKAETA------------------ATPRCVP----RQGAPATG-RCIRCDAPSA
+SYP_BORBU      LNCENIIKNETK------------------ATIRCIPD--DFKARDLTGMTCIYCSSKAK
+SYP_CLOST      EECEAKIKEDTG------------------VTIRCIP----FVQENLGE-TCQFCGKPAK
+YHI0_YEAST     MECEEDIKESSAKKDDGEEFEEDDKAPSMGAKSLCIPF--DQPVLNEGQ-KCIKCERIAV
+SYP_MYCPN      DTLEQQLKERYQ------------------VTVRCC-----LEQLQKPQ-ICPFSGESAQ
+SYP_MYCGE      GELEQHLKTKYQ------------------VSVRCV-----FKKSDVTQ-NCPFTNQPCF
+1nj8_A         EIYNEELEEKVE------------------ATILGETE-------YKGN-KYIAIAKTY-
+SYP_METTH      EECGMDVEEKVR------------------VDILGIQE-------EGSG-TCINCGREAP
+SYP_ARCFU      EDCGHSVEEHGK------------------SLLGWFEEVPDWLDLEPEG-KCVVCGREGR
+1qe0_A         ------------------------------------------------------------
+SYH_CLOAB      ------------------------------------------------------------
+
+
+SYS_AQUAE      E------------
+SYSM_BOVIN     S------------
+1ser_A         G------------
+SYT_THETN      -------------
+SYTM_YEAST     -------------
+1h4q_A         YGKRVVFAKAY--
+SYP_MYCLE      YDKRVIFARAY--
+SYP_BORBU      Y--FVLFAKSY--
+SYP_CLOST      H--MVYLAKAY--
+YHI0_YEAST     N--YCMFGRSY--
+SYP_MYCPN      D--YVLIARAY--
+SYP_MYCGE      D--SVLIARAY--
+1nj8_A         -------------
+SYP_METTH      ---TGLTLPEHIS
+SYP_ARCFU      ---LAALAKTY--
+1qe0_A         ------------K
+SYH_CLOAB      -------------
+
+

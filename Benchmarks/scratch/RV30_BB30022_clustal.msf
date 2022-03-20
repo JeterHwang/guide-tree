@@ -1,0 +1,411 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 248  Type: P  December 21, 2021 20:11  Check: 2269  ..
+
+ Name: 1ycc_       Len:    248  Check: 7112  Weight: -1.00
+ Name: CYC_DEBHA   Len:    248  Check: 5504  Weight: -1.00
+ Name: CYC_ISSOR   Len:    248  Check: 5014  Weight: -1.00
+ Name: CYC_THELA   Len:    248  Check: 6487  Weight: -1.00
+ Name: CYC_NEUCR   Len:    248  Check: 5617  Weight: -1.00
+ Name: CYC1_ARATH  Len:    248  Check: 5088  Weight: -1.00
+ Name: CYC_USTSP   Len:    248  Check: 6681  Weight: -1.00
+ Name: CYC_ASPNG   Len:    248  Check: 6318  Weight: -1.00
+ Name: CYC_SCHPO   Len:    248  Check: 7481  Weight: -1.00
+ Name: CYC2_DROME  Len:    248  Check: 5562  Weight: -1.00
+ Name: CYC_ASTRU   Len:    248  Check: 6909  Weight: -1.00
+ Name: CYC_APIME   Len:    248  Check: 8043  Weight: -1.00
+ Name: CYC2_MOUSE  Len:    248  Check: 4986  Weight: -1.00
+ Name: CYC_LAMTR   Len:    248  Check: 5385  Weight: -1.00
+ Name: CYC_CYPCA   Len:    248  Check: 5210  Weight: -1.00
+ Name: CYC_MACMA   Len:    248  Check: 5626  Weight: -1.00
+ Name: CYC_EISFO   Len:    248  Check: 4162  Weight: -1.00
+ Name: CYC_ATESP   Len:    248  Check: 4256  Weight: -1.00
+ Name: CYC_CROAT   Len:    248  Check: 7147  Weight: -1.00
+ Name: CYC_HELAS   Len:    248  Check: 6676  Weight: -1.00
+ Name: CYC1_DROME  Len:    248  Check: 9205  Weight: -1.00
+ Name: CYC_CHLRE   Len:    248  Check: 2789  Weight: -1.00
+ Name: CYC2_ARATH  Len:    248  Check: 4731  Weight: -1.00
+ Name: CYC_GINBI   Len:    248  Check:  651  Weight: -1.00
+ Name: CYC_ENTIN   Len:    248  Check: 1427  Weight: -1.00
+ Name: CYC1_ASCSU  Len:    248  Check: 4674  Weight: -1.00
+ Name: CYC2_CAEEL  Len:    248  Check: 1952  Weight: -1.00
+ Name: CYC2_ASCSU  Len:    248  Check: 6155  Weight: -1.00
+ Name: CYC_CRIFA   Len:    248  Check: 4039  Weight: -1.00
+ Name: CYC_EUGGR   Len:    248  Check: 5249  Weight: -1.00
+ Name: CY2_RHOGL   Len:    248  Check: 7953  Weight: -1.00
+ Name: CY2_RHOVA   Len:    248  Check: 3350  Weight: -1.00
+ Name: CY22_RHOFU  Len:    248  Check: 7769  Weight: -1.00
+ Name: CY21_RHOFU  Len:    248  Check: 2393  Weight: -1.00
+ Name: CY2_RHOVI   Len:    248  Check: 1177  Weight: -1.00
+ Name: CY2_RHOAC   Len:    248  Check: 9179  Weight: -1.00
+ Name: C550_NITWI  Len:    248  Check: 8827  Weight: -1.00
+ Name: C550_BRAJA  Len:    248  Check: 9309  Weight: -1.00
+ Name: CYC_TETPY   Len:    248  Check: 8288  Weight: -1.00
+ Name: CYCM_BRAJA  Len:    248  Check: 2583  Weight: -1.00
+ Name: CYCY_RHOCA  Len:    248  Check: 2511  Weight: -1.00
+ Name: C552_PARDE  Len:    248  Check: 5816  Weight: -1.00
+ Name: C550_THINO  Len:    248  Check: 9396  Weight: -1.00
+ Name: CY2_AGRTC   Len:    248  Check:  154  Weight: -1.00
+ Name: 1fj0_A      Len:    248  Check: 7358  Weight: -1.00
+ Name: CY21_RHOCE  Len:    248  Check: 3566  Weight: -1.00
+ Name: 3c2c_       Len:    248  Check: 9767  Weight: -1.00
+ Name: CY2_RHOPH   Len:    248  Check: 2853  Weight: -1.00
+ Name: C550_AQUIT  Len:    248  Check: 9197  Weight: -1.00
+ Name: CY2_RHOSH   Len:    248  Check: 6088  Weight: -1.00
+ Name: CY2_RHOCA   Len:    248  Check: 1903  Weight: -1.00
+ Name: C551_ROSDE  Len:    248  Check: 2956  Weight: -1.00
+ Name: C550_PARDE  Len:    248  Check: 6222  Weight: -1.00
+ Name: 1cno_A      Len:    248  Check: 1528  Weight: -1.00
+ Name: CYSD_CHLTE  Len:    248  Check: 9338  Weight: -1.00
+ Name: CYSD_CHLLT  Len:    248  Check: 3073  Weight: -1.00
+ Name: 1a56_       Len:    248  Check: 3790  Weight: -1.00
+ Name: C551_PSEFC  Len:    248  Check: 1191  Weight: -1.00
+ Name: C551_PSEST  Len:    248  Check: 9988  Weight: -1.00
+ Name: C551_AZOVI  Len:    248  Check: 1355  Weight: -1.00
+ Name: C551_PSEDE  Len:    248  Check: 1424  Weight: -1.00
+ Name: C551_PSEAE  Len:    248  Check: 1567  Weight: -1.00
+ Name: C552_HYDTH  Len:    248  Check: 6434  Weight: -1.00
+ Name: CY2_RHOTE   Len:    248  Check: 2216  Weight: -1.00
+ Name: C551_CHRVI  Len:    248  Check: 7992  Weight: -1.00
+ Name: CY2_RHOGE   Len:    248  Check: 3622  Weight: -1.00
+
+//
+
+            1                                                   50
+1ycc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_DEBHA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_ISSOR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_THELA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_NEUCR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_USTSP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_ASPNG   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_SCHPO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_ASTRU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_APIME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC2_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_LAMTR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_CYPCA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_MACMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_EISFO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_ATESP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_CROAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_HELAS   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC1_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_CHLRE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC2_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_GINBI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_ENTIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC1_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC2_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_CRIFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYC_EUGGR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOGL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOVA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY22_RHOFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY21_RHOFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOVI   ~~~~~~~~~~ ~~~~~MRKLV FGLFVLA... .......... ..........
+CY2_RHOAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C550_NITWI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C550_BRAJA  ~~~~~~~~~~ ~~~~~MTKLT FGALVAL... .......... ..........
+CYC_TETPY   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYCM_BRAJA  ~MDSFELNKI LGAVLGTCLI LLVTSFTANA LFSPKMPEKP GFEIAV....
+CYCY_RHOCA  MLVKTHITKI GVTLFAVALF YGFIYMLSNS LFATRPATAV AVGADGKALL
+C552_PARDE  MFDTMTVTKA AGALIGSLLF LLLMSWAASG IFHVGTS... GHGAEGEEH.
+C550_THINO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_AGRTC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fj0_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY21_RHOCE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+3c2c_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOPH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C550_AQUIT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOSH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOCA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_ROSDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C550_PARDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cno_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYSD_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CYSD_CHLLT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1a56_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_PSEFC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_PSEST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_PSEDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_PSEAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C552_HYDTH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_CHRVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1ycc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CYC_DEBHA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~PAPYEKG
+CYC_ISSOR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~PAPFEQG
+CYC_THELA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~AK.. ...GGSFEPG
+CYC_NEUCR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~GFSAG
+CYC1_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MQV.. ...ADISLQG
+CYC_USTSP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~GFEDG
+CYC_ASPNG   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~GK.. ...DASFAPG
+CYC_SCHPO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~PYAPG
+CYC2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~GVPAG
+CYC_ASTRU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CYC_APIME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~GIPAG
+CYC2_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CYC_LAMTR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CYC_CYPCA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CYC_MACMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CYC_EISFO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~GGIPAG
+CYC_ATESP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CYC_CROAT   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CYC_HELAS   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CYC1_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~GSG
+CYC_CHLRE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~ST.. ...FAEAPAG
+CYC2_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MAS.. ...FDEAPPG
+CYC_GINBI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~AT.. ...FSEAPPG
+CYC_ENTIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~ST.. ...FABAPPG
+CYC1_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~PEIPEG
+CYC2_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MG KKKSDTAS.. ...GGAIPEG
+CYC2_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~TEIPEG
+CYC_CRIFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~PPKA.. ...RAPLPPG
+CYC_EUGGR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CY2_RHOGL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~GSAPPG
+CY2_RHOVA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~AG
+CY22_RHOFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY21_RHOFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOVI   ......AS.. .......... .......... .......... ...VAPAAAQ
+CY2_RHOAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~AG
+C550_NITWI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+C550_BRAJA  ......AM.. .......... .......... .....TAAAS TAMSSKAMAQ
+CYC_TETPY   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~GPKEP.. ...EVTVPEG
+CYCM_BRAJA  .......... .......... ...KEDAGHG KEGGAAAAAS EPIEKLLQTA
+CYCY_RHOCA  PSVDEAAMP. AKAPAAAAPA AETAEAAAPA EPAAPPPPAY VEVDPATITG
+C552_PARDE  ......AQA. YTYPVESAGG AE........ GEAVDEGP.. .DFATVLASA
+C550_THINO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_AGRTC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~EG
+1fj0_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~X
+CY21_RHOCE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~QDG
+3c2c_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~EG
+CY2_RHOPH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~AG
+C550_AQUIT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G
+CY2_RHOSH   ~~~~~~~MK. F......... .........Q VKALAAIAAF AALPALAQEG
+CY2_RHOCA   ~~~~~~~MK. I......... .........S LTAAT..VAA LVLAAPAFAG
+C551_ROSDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~EG
+C550_PARDE  ~~~~~~~MK. I......... .........S IYATLA.AIT LALPAAAQDG
+1cno_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~AG
+CYSD_CHLTE  ~~~~~~~ML. AAAPLLLASG N........G FATTGP.... .AAKPAVKPV
+CYSD_CHLLT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~APEQSK
+1a56_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_PSEFC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_PSEST  ~~~~~~~MKK ILIPMLALGG .......... .......... ...ALAMQPA
+C551_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_PSEDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_PSEAE  ~~~~~~~MKP YALLSLLATG .......... .......... ...TLLAQGA
+C552_HYDTH  ~~~~~~~MKK FLLVAVVG.. .......... .......... .......LAG
+CY2_RHOTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+C551_CHRVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CY2_RHOGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+1ycc_       SAKKGATLF. KTRCLQCHTV EK.......G GPHKVGPNLH GIFGRHSGQ.
+CYC_DEBHA   SEKKGANLF. KTRCLQCHTV EE.......G GPHKVGPNLH GVVGRTSGQ.
+CYC_ISSOR   SAKKGATLF. KTRCAQCHTI EA.......G GPHKVGPNLH GIFSRHSGQ.
+CYC_THELA   DASKGANLF. KTRCAQCHSV EQ.......G GANKIGPNLH GLFGRKTGS.
+CYC_NEUCR   DSKKGANLF. KTRCAQCHTL EE.......G GGNKIGPALH GLFGRKTGS.
+CYC1_ARATH  DAKKGANLF. KTRCAQCHTL KA.......G EGNKIGPELH GLFGRKTGS.
+CYC_USTSP   DAKKGARIF. KTRCAQCHTL GA.......G EPNKVGPNLH GLFGRKSGT.
+CYC_ASPNG   DSAKGAKLF. QTRCAQCHTV EA.......G GPHKVGPNLH GLFGRKTGQ.
+CYC_SCHPO   DEKKGASLF. KTRCAQCHTV EK.......G GANKVGPNLH GVFGRKTGQ.
+CYC2_DROME  DVEKGKKLF. VQRCAQCHTV EA.......G GKHKVGPNLH GLIGRKTGQ.
+CYC_ASTRU   QVEKGKKIF. VQRCAQCHTV EK.......A GKHKTGPNLN GILGRKTGQ.
+CYC_APIME   DPEKGKKIF. VQKCAQCHTI ES.......G GKHKVGPNLY GVYGRKTGQ.
+CYC2_MOUSE  DAEAGKKIF. VQKCAQCHTV EK.......G GKHKTGPNLW GLFGRKTGQ.
+CYC_LAMTR   DVEKGKKVF. VQKCSQCHTV EK.......A GKHKTGPNLS GLFGRKTGQ.
+CYC_CYPCA   DVEKGKKVF. VQKCAQCHTV ZB.......G GKHKVGPNLW GLFGRKTGQ.
+CYC_MACMA   DVEKGKKIF. VQRCAQCHSA QA.......N LKHKTGPNLN GLFGRQTGQ.
+CYC_EISFO   DVEKGKTIF. KQRCAQCHTV DK.......G GPHKTGPNLH GIFGRATGQ.
+CYC_ATESP   DVFKGKRIF. IMKCSQCHTV EK.......G GKHKTGPNLH GLFGRKTGQ.
+CYC_CROAT   DVEKGKKIF. SMKCGTCHTV EE.......G GKHKTGPNLH GLFGRKTGQ.
+CYC_HELAS   ZAZKGKKIF. TQKCLQCHTV EA.......G GKHKTGPNLS GLFGRKQGQ.
+CYC1_DROME  DAENGKKIF. VQKCAQCHTY EV.......G GKHKVGPNLG GVVGRKCGT.
+CYC_CHLRE   DLARGEKIF. KTKCAQCHVA EK.......G GGHKQGPNLG GLFGRVSGT.
+CYC2_ARATH  NAKAGEKIF. RTKCAQCHTV EA.......G AGHKQGPNLN GLFGRQSGT.
+CYC_GINBI   DPKAGEKIF. KTKCAZCHTV ZK.......G AGHKQGPNLH GLFGRQSGT.
+CYC_ENTIN   BPAKGAKIF. KAKCAZCHTV BA.......G AGHKQGPNLN GAFGRTSGT.
+CYC1_ASCSU  DYESGKKVF. KQRCLQCHVV DS........ KATKTGPTLH GIIGRKSGA.
+CYC2_CAEEL  DNEKGKKIF. KQRCEQCHVV NS........ LQTKTGPTLN GVIGRQSGQ.
+CYC2_ASCSU  DYESGKQIF. KTRCLMCHVV DS........ DKAKSGPSLN GIFGSSAGT.
+CYC_CRIFA   DAARGEKLF. KGRAAQCHTA NQ.......G GANGVGPNLY GLVGRHSGT.
+CYC_EUGGR   DAERGKKLF. ESRAAQCHSA QK........ GVNSTGPSLW GVYGRTSGS.
+CY2_RHOGL   DPVEGKHLF. HTICILCHTD IK........ GRNKVGPSLY GVVGRHSGI.
+CY2_RHOVA   DPVKGEQVF. .KQCKICHQV GP.......T AKNGVGPEQN DVFGQKAGA.
+CY22_RHOFU  ~~ADAPPAF. .GMCKACHSV EA........ GKNGVGPSLA GVYGRKAGT.
+CY21_RHOFU  ~~ADAPTAF. .NQCKACHSI EA........ GKNGVGPSLS GAYGRKVGL.
+CY2_RHOVI   DAASGEQVF. .KQCLVCHSI GP.......G AKNKVGPVLN GLFGRHSGT.
+CY2_RHOAC   DPDAGQKVF. .LKCAACHKI GP.......G AKNGVGPSLN GVANRKAGQ.
+C550_NITWI  DVEAGKAAF. .NKCKACHEI GE.......S AKNKVGPELD GLDGRHSGA.
+C550_BRAJA  DAAAGKTSF. .NKCLACHAI GE.......G AKNKVGPELN GLNGRKSGT.
+CYC_TETPY   DASAGRDIF. DSQCSACHAI E......... GDSTAAPVLG GVIGRKAGQ.
+CYCM_BRAJA  SVEKGA.AA. AKKCGACHTF EK.......G GPNRVGPNLY GVVGEARGEG
+CYCY_RHOCA  DAKAGEEKF. NKTCKACHKI D......... GKNAVGPHLN GVIGRATAT.
+C552_PARDE  DPAAGEKVF. .GKCKACHKL D......... GNDGVGPHLN GVVGRTVAG.
+C550_THINO  ~PAKGANVF. .WKCMACHAV GE.......G AKNKVGPELN GIIGRKMGS.
+CY2_AGRTC   DVAKGEAAF. .KRCSACHAI GE.......G AKNKVGPQLN GIIGRTAGG.
+1fj0_A      DAKAGEAVF. .KQCMTCHRA .......... DKNMVGPALA GVVGRKAGT.
+CY21_RHOCE  DPVKGEAVF. .KKCMACHRI GP.......D AKNLVGPVLT GVVGRQAGV.
+3c2c_       DAAAGEKV.. SKKCLACHTF DQ.......G GANKVGPNLF GVFENTAAH.
+CY2_RHOPH   DAAVGEKIA. KAKCTACHDL NK.......G GPIKVGPPLF GVFGRTTGT.
+C550_AQUIT  DAAKGANV.. AKSCGTCHSF EQ.......G GAKKQGPNLF GITTRGPGK.
+CY2_RHOSH   DPEAGAKA.. FNQCQTCHVI VDESGTTIAG RNAKTGPNLY GVVGRTAGT.
+CY2_RHOCA   DAAKGEKE.. FNKCKTCHSI IAPDGTEIV. KGAKTGPNLY GVVGRTAGT.
+C551_ROSDE  DIEAGEKA.. FNKCKSCHQI VSDAGEEIV. KGGRTGPNLY GVLGRQAGT.
+C550_PARDE  DAAKGEKE.. FNKCKACHMI QAPDGTDII. KGGKTGPNLY GVVGRKIAS.
+1cno_A      DIEAGKAK.. AAVCAACHGQ NGI....... SQVPIYPNLA GQKEQYLV..
+CYSD_CHLTE  TESRGEIL.. SLSCAGCHGT DG........ NSSSVIPSIY GKSPEYIETA
+CYSD_CHLLT  SIPRGEIL.. SLSCAGCHGT DG........ KSESIIPTIY GRSAEYIESA
+1a56_       ~~~~DADLAK KNNCIACHQV ET........ ..KVVGPALK DIAAKYADK.
+C551_PSEFC  ~~EDGAALFK SKPCAACHTI DS........ ..KMVGPALK EVAAKNAGV.
+C551_PSEST  LAQDGEALFK SKPCAACHSV DT........ ..KMVGPALK EVAAKNAGV.
+C551_AZOVI  ~~ETGEELYK TKGCTVCHAI DS........ ..KLVGPSFK EVTAKYAGQ.
+C551_PSEDE  ~~STGEELFK AKACVACHSV DK........ ..KLVGPAFH DVAAKYGAQ.
+C551_PSEAE  WAEDPEVLFK NKGCVACHAI DT........ ..KMVGPAYK DVAAKFAGQ.
+C552_HYDTH  ITFANEQLAK QKGCMACHDL KA........ ..KKVGPAYA DVAKKYAGR.
+CY2_RHOTE   ~~ADESALAQ TKGCLACHNP EK........ ..KVVGPAYG WVAKKYAGQ.
+C551_CHRVI  ~~~~DLVLAQ KSGCTVCHSV EA........ ..AIVGPAYK DVAAKYRGD.
+CY2_RHOGE   ~~ATPAELAT KAGCAVCHQP TA........ ..KGLGPSYQ EIAKKYKGQ.
+
+            151                                                200
+1ycc_       AEGYS.YTDA NIK.....KN VLWDENNMSE YLTNPKKYIP ..........
+CYC_DEBHA   AQGFS.YTDA NKK.....KG VEWTEQDLSD YLENPKKYIP ..........
+CYC_ISSOR   AEGYS.YTDA NKR.....AG VEWAEPTMSD YLENPKKYIP ..........
+CYC_THELA   VEGYS.YTDA NKQ.....AG ITWNEDTLFE YLENPKKFIP ..........
+CYC_NEUCR   VDGYA.YTDA NKQ.....KG ITWDENTLFE YLENPKKYIP ..........
+CYC1_ARATH  VAGYS.YTDA NKQ.....KG IEWKDDTLFE YLENPKKYIP ..........
+CYC_USTSP   VEGFS.YTDA NKK.....AG QVWEEETFLE YLENPKKYIP ..........
+CYC_ASPNG   SEGYA.YTDA NKQ.....AG VTWDENTLFS YLENPKKFIP ..........
+CYC_SCHPO   AEGFS.YTEA NRD.....KG ITWDEETLFA YLENPKKYIP ..........
+CYC2_DROME  AAGFA.YTDA NKA.....KG ITWNEDTLFE YLENPKKYIP ..........
+CYC_ASTRU   AAGFS.YTDA NRN.....KG ITWKNETLFE YLENPKKYIP ..........
+CYC_APIME   APGYS.YTDA NKG.....KG ITWNKETLFE YLENPKKYIP ..........
+CYC2_MOUSE  APGFS.YTDA NKN.....KG VIWSEETLME YLENPKKYIP ..........
+CYC_LAMTR   APGFS.YTDA NKS.....KG IVWNQETLFV YLENPKKYIP ..........
+CYC_CYPCA   APGFS.YTBA BKS.....KG IVWBZZTLME YLZBPKKYIP ..........
+CYC_MACMA   ASGYV.YTDA NKA.....KG ITWQADTLDV YLENPKKYIP ..........
+CYC_EISFO   AAGFA.YTDA NKS.....KG ITWTKDTLYE YLENPKKYIP ..........
+CYC_ATESP   ASGFT.YTEA NKN.....KG IIWGEDTLME YLENPKKYIP ..........
+CYC_CROAT   AVGYS.YTAA NKN.....KG IIWGDDTLME YLENPKKYIP ..........
+CYC_HELAS   APGFA.YTDA NKG.....KG ITWKNQTLFE YLENPKKYIP ..........
+CYC1_DROME  AAGYK.YTDA NIK.....KG VTWTEGNLDE YLKDPKKYIP ..........
+CYC_CHLRE   AAGFA.YSKA NKE.....AA VTWGESTLYE YLLNPKKYMP ..........
+CYC2_ARATH  TAGYS.YSAA NKN.....KA VEWEEKALYD YLLNPKKYIP ..........
+CYC_GINBI   TAGYS.YSTG NKN.....KA VNWGZZTLYE YLLNPKKYIP ..........
+CYC_ENTIN   AAGFS.YSAA BKB.....KT ADWBZBTLYD YLLNPKKYIP ..........
+CYC1_ASCSU  VPGFD.YSTA NKN.....KG VVWTRETLFE YLLNPKKYIP ..........
+CYC2_CAEEL  VAGFD.YSAA NKN.....KG VVWDRQTLFD YLADPKKYIP ..........
+CYC2_ASCSU  VKGYD.YSNA NKN.....AN IVWTKETMFD YLANPKKYMP ..........
+CYC_CRIFA   IEGYA.YSKA NAE.....SG VVWTPDVLDV YLENPKKFMP ..........
+CYC_EUGGR   VPGYA.YSNA NKN.....AA IVWEEETLHK FLENPKKYVP ..........
+CY2_RHOGL   EPGYN.YSEA NIK.....SG IVWTPDVLFK YIEHPQKIVP ..........
+CY2_RHOVA   RPGFN.YSDA MKN.....SG LTWDEATLDK YLENPKAVVP ..........
+CY22_RHOFU  LAGFK.FSDP HAK.....SG LTWDEPTLTK YLADPKGVIP ..........
+CY21_RHOFU  APNYK.YSAA HLA.....SG MTIDEAMLTN YLANPKATIP ..........
+CY2_RHOVI   IEGFA.YSDA NKN.....SG ITWTEEVFRE YIRDPKAKIP ..........
+CY2_RHOAC   AEGFA.YSDA NKN.....SG LTWDEATFKE YITAPQKKVP ..........
+C550_NITWI  VEGYA.YSPA NKA.....SG ITWTEAEFKE YIKDPKAKVP ..........
+C550_BRAJA  APDYS.YSDA NKN.....SG ITWDEATFKE YIKDPKAKIP ..........
+CYC_TETPY   E.KFA.YSKG MKG.....SG ITWNEKHLFV FLKNPSKHVP ..........
+CYCM_BRAJA  RNGFN.FSAA MKG.....KG GTWTFDDLNK FIANPKGFIP ..........
+CYCY_RHOCA  VEGFK.YSTA MKN.....HV GNWTPERLDI YLVSPKAEVP ..........
+C552_PARDE  VDGFN.YSDP MKA.....HG GDWTPEALQE FLTNPKAVVK ..........
+C550_THINO  IEGFN.YSDT LKEHN..AKG DVWTAEILSQ YLANPKGYMP ..........
+CY2_AGRTC   DPDYN.YSNA MKKAG..GEG LVWTPQELRD FLSAPKKKIP ..........
+1fj0_A      AAGFT.YSPL NHNSG..EAG LVWTADNIVP YLADPNAFLK KFLTEKGKAD
+CY21_RHOCE  APGFS.YSAL NHAAG..EAG LHWTAENIMA YLPDPNAFLR KFVTDAGNPE
+3c2c_       KDNYA.YSES YTEMK..AKG LTWTEANLAA YVKNPKAFVL EKSGDP....
+CY2_RHOPH   FAGYS.YSPG YTVMG..QKG HTWDDNALKA YLLDPKGYVQ AKSGDP....
+C550_AQUIT  AEGFN.YSPS YKAAA..AKG FAWDAATLQD YITDPTAFLS NKTGDA....
+CY2_RHOSH   QADFKGYGEG MKEAG..AKG LAWDEEHFVQ YVQDPTKFLK EYTGDA....
+CY2_RHOCA   YPEFK.YKDS IVALG..ASG FAWTEEDIAT YVKDPGAFLK EKLDDK....
+C551_ROSDE  .ADFR.YGDD LVAAG..EAG LVWDADNFVE YVTDPRAFLR AYLDDS....
+C550_PARDE  EEGFK.YGEG ILEVAEKNPD LTWTEADLIE YVTDPKPWLV KMTDDK....
+1cno_A      .AALKAYKAG QRQGG..... Q......... ........AP ..........
+CYSD_CHLTE  LIDFKNGSRT STVMGRHAKG YTGE...... .......... ..........
+CYSD_CHLLT  LLDFKSGARP STVMGRHAKG YSDE...... .......... ..........
+1a56_       .DDAATYLAG KIKGG...SS GVWG.....Q IPMPPN..VN ..........
+C551_PSEFC  .KDADKTLAG HIKNG...TQ GNWG.....P IPMPPN...Q ..........
+C551_PSEST  .EGAADTLAL HIKNG...SQ GVWG.....P IPMPPN...P ..........
+C551_AZOVI  .AGIADTLAA KIKAG...GS GNWG.....Q IPMPPN...P ..........
+C551_PSEDE  .GDGVAHITN SIKTG...SK GNWG.....P IPMPPN...A ..........
+C551_PSEAE  .AGAEAELAQ RIKNG...SQ GVWG.....P IPMPPN...A ..........
+C552_HYDTH  .KDAVDYLAG KIKKG...GS GVWG.....S VPMPPQ...N ..........
+CY2_RHOTE   .AGAEAKLVA KVMAG...GQ GVWAKQLGAE IPMPAN...N ..........
+C551_CHRVI  .AAAQDRLVA KVMAG...GV GNWG.....Q VPMPPN..AH ..........
+CY2_RHOGE   .AGAPALMAE RVRKG...SV GIFG.....K LPMTPTPPAR ..........
+
+            201                                              248
+1ycc_       ....GTKM.. AFGGLKKEKD RNDLITYLKK ACE~~~~~~~ ~~~~~~~~
+CYC_DEBHA   ....GTKM.. AFGGLKKAKD RNDLITYLVK ATK~~~~~~~ ~~~~~~~~
+CYC_ISSOR   ....GTKM.. AFGGLKKAKD RNDLVTYMLE ASK~~~~~~~ ~~~~~~~~
+CYC_THELA   ....GTKM.. AFGGLKKNKD RNDLITYLKE ATK~~~~~~~ ~~~~~~~~
+CYC_NEUCR   ....GTKM.. AFGGLKKDKD RNDIITFMKE ATA~~~~~~~ ~~~~~~~~
+CYC1_ARATH  ....GTKM.. AFGGLKKPKD RNDLITFLEE ETK~~~~~~~ ~~~~~~~~
+CYC_USTSP   ....GTKM.. AFGGLKKEKD RNDLVTYLRE ETK~~~~~~~ ~~~~~~~~
+CYC_ASPNG   ....GTKM.. AFGGLKKGKE RNDLITYLKE STA~~~~~~~ ~~~~~~~~
+CYC_SCHPO   ....GTKM.. AFAGFKKPAD RNNVITYLKK ATSE~~~~~~ ~~~~~~~~
+CYC2_DROME  ....GTKM.. IFAGLKKPNE RGDLIAYLKS ATK~~~~~~~ ~~~~~~~~
+CYC_ASTRU   ....GTKM.. VFAGLKKQKE RQDLIAYLEA ATK~~~~~~~ ~~~~~~~~
+CYC_APIME   ....GTKM.. VFAGLKKPQE RADLIAYIEQ ASK~~~~~~~ ~~~~~~~~
+CYC2_MOUSE  ....GTKM.. IFAGIKKKSE REDLIKYLKQ ATSS~~~~~~ ~~~~~~~~
+CYC_LAMTR   ....GTKM.. IFAGIKKEGE RKDLIAYLKK STSE~~~~~~ ~~~~~~~~
+CYC_CYPCA   ....GTKM.. IFAGIKKKGE RADLIAYLKS ATS~~~~~~~ ~~~~~~~~
+CYC_MACMA   ....GTKM.. VFAGLKKANE RADLIAYLKQ ATNL~~~~~~ ~~~~~~~~
+CYC_EISFO   ....GTKM.. VFAGLKNEKQ RANLIAYLEQ ETK~~~~~~~ ~~~~~~~~
+CYC_ATESP   ....GTKM.. IFVGIKKKEE RADLIAYLKK ATNE~~~~~~ ~~~~~~~~
+CYC_CROAT   ....GTKM.. VFTGLKSKKE RTDLIAYLKE ATAK~~~~~~ ~~~~~~~~
+CYC_HELAS   ....GTKM.. VFAGLKBZTE RVHLIAYLZZ ATKK~~~~~~ ~~~~~~~~
+CYC1_DROME  ....GTKM.. VFAGLKKAEE RADLIAFLKS NK~~~~~~~~ ~~~~~~~~
+CYC_CHLRE   ....GNKM.. VFAGLKKPEE RADLIAYLKQ ATA~~~~~~~ ~~~~~~~~
+CYC2_ARATH  ....GTKM.. VFPGLKKPQD RADLIAYLKE STAPK~~~~~ ~~~~~~~~
+CYC_GINBI   ....GTKM.. VFPGLKKPZZ RADLISYLKQ ATSQE~~~~~ ~~~~~~~~
+CYC_ENTIN   ....GTKM.. VFAGLKKPZB RADLIAFLKD ATA~~~~~~~ ~~~~~~~~
+CYC1_ASCSU  ....GTKM.. VFAGLKKADE RADLIKYIEE ECKKPIS~~~ ~~~~~~~~
+CYC2_CAEEL  ....GTKM.. VFAGLKKADE RADLIKFIEV EAAKKPSA~~ ~~~~~~~~
+CYC2_ASCSU  ....GSKM.. IFAGLKKVED RADLISYIEV ESSK~~~~~~ ~~~~~~~~
+CYC_CRIFA   ....GTKM.. SFAGMKKPQE RADVIAYLET LKG~~~~~~~ ~~~~~~~~
+CYC_EUGGR   ....GTKM.. AFAGIKAKKD RQDIIAYMKT LKD~~~~~~~ ~~~~~~~~
+CY2_RHOGL   ....GTKM.. GYPGQPDPQK RADIIAYLET LK~~~~~~~~ ~~~~~~~~
+CY2_RHOVA   ....GTKM.. VFVGLKNPQD RADVIAYLKQ LSGK~~~~~~ ~~~~~~~~
+CY22_RHOFU  ....GNKM.. VFAGLKNPAD VAAVIAYLKS L~~~~~~~~~ ~~~~~~~~
+CY21_RHOFU  ....GNKMGA SFGGLKKPED VKAVIEYLKT VK~~~~~~~~ ~~~~~~~~
+CY2_RHOVI   ....GTKM.. IFAGVKDEQK VSDLIAYIKQ FNADGSKK~~ ~~~~~~~~
+CY2_RHOAC   ....GTKM.. TFPGLPNEAD RDNIWAYLSQ FKADGSK~~~ ~~~~~~~~
+C550_NITWI  ....GTKM.. VFAGIKKDSE LDNLWAYVSQ FDKDGKVKAK ~~~~~~~~
+C550_BRAJA  ....GTKM.. AFAGIKNETE INNLWTFVSQ FDKDGKIKQ~ ~~~~~~~~
+CYC_TETPY   ....GTKM.. AFAGLPADKD RADLIAYLKS V~~~~~~~~~ ~~~~~~~~
+CYCM_BRAJA  ....GTAM.. GFAGIPKDSE RADVIAYLNS LSEHPKPLPT ASK~~~~~
+CYCY_RHOCA  ....GTKM.. SFVGLPEAAD RANVIAYLNT LPR~~~~~~~ ~~~~~~~~
+C552_PARDE  ....GTKM.. AFAGLPKIED RANLIAYLEG QQ~~~~~~~~ ~~~~~~~~
+C550_THINO  ....GVKM.. VFAGLPKEIR ADDLEAYLKT FNADGTK~~~ ~~~~~~~~
+CY2_AGRTC   ....GNKM.. ALAGISKPEE LDNLIAYLIF SASSKPAZ~~ ~~~~~~~~
+1fj0_A      QAVGVTKM.. TF.KLANEQQ RKDVVAYLAT LK~~~~~~~~ ~~~~~~~~
+CY21_RHOCE  AAKGSTKM.. VF.KLPNEQE RKDVVAYLKT FSN~~~~~~~ ~~~~~~~~
+3c2c_       ..KAKSKM.. TF.KLTKDDE IENVIAYLKT LK~~~~~~~~ ~~~~~~~~
+CY2_RHOPH   ..KANSKM.. IF.RLEKDDD VANVIAYLHT MK~~~~~~~~ ~~~~~~~~
+C550_AQUIT  ..AARDKM.. TF.KLAKPDE RADVIAYLAT LK~~~~~~~~ ~~~~~~~~
+CY2_RHOSH   ..KAKGKM.. TF.KLKKEAD AHNIWAYLQQ VAVRP~~~~~ ~~~~~~~~
+CY2_RHOCA   ..KAKTGM.. AF.KLAKGGE ..DVAAYLAS VVK~~~~~~~ ~~~~~~~~
+C551_ROSDE  ..KAKSKM.. AY.KLRSGGE ..DIAAYLAS VSGSSS~~~~ ~~~~~~~~
+C550_PARDE  ..GAKTKM.. TF.KMGKNQA ..DVVAFLAQ NSPDAGGDGE AAAEGESN
+1cno_A      ......VMQ. GQATALSDAD IANLAAYYAS NPAAA~~~~~ ~~~~~~~~
+CYSD_CHLTE  .......... .........E IHLIAEYFGN LSKKNH~~~~ ~~~~~~~~
+CYSD_CHLLT  .......... .........E IHQIAEYFGS LSTMNN~~~~ ~~~~~~~~
+1a56_       .......... .....VSDAD AKALADWILT LK~~~~~~~~ ~~~~~~~~
+C551_PSEFC  .......... .....VTDAE ALTLAQWVLS LK~~~~~~~~ ~~~~~~~~
+C551_PSEST  .......... .....VTEEE AKILAEWVLS LK~~~~~~~~ ~~~~~~~~
+C551_AZOVI  .......... .....VSEAE AKTLAEWVLT HK~~~~~~~~ ~~~~~~~~
+C551_PSEDE  .......... .....VSPEE AKTLAEWIVT LK~~~~~~~~ ~~~~~~~~
+C551_PSEAE  .......... .....VSDDE AQTLAKWVLS QK~~~~~~~~ ~~~~~~~~
+C552_HYDTH  .......... .....VTDAE AKQLAQWILS IK~~~~~~~~ ~~~~~~~~
+CY2_RHOTE   .......... .....VTKEE ATRLVKWVLS LKQIDYK~~~ ~~~~~~~~
+C551_CHRVI  .......... .....VPAAD IKALVTWILG L~~~~~~~~~ ~~~~~~~~
+CY2_RHOGE   .......... .....ISDAD LKLVIDWILK TP~~~~~~~~ ~~~~~~~~

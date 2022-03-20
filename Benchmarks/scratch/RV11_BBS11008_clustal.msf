@@ -1,0 +1,27 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 132  Type: P  December 21, 2021 20:29  Check: 9904  ..
+
+ Name: 2pna_   Len:    132  Check: 1698  Weight: -1.00
+ Name: 1mw4_A  Len:    132  Check: 7577  Weight: -1.00
+ Name: 1uur_A  Len:    132  Check: 7961  Weight: -1.00
+ Name: 1bf5_A  Len:    132  Check: 2668  Weight: -1.00
+
+//
+
+        1                                                   50
+2pna_   LQDAEWYWGD ISREEVNEKL RD..TADGTF LVRDASTKMH GDYTLTLRKG
+1mw4_A  HRTQLWFHGR ISREESQRLI GQQGLVDGLF LVRESQRNPQ GFV.LSLCH.
+1uur_A  LWQEGIIYGY MGRQEVNDAL QN..QDPGTF IIRFSERNP. GQFGIAYIGV
+1bf5_A  LWNDGCIMGF ISKERERALL KD..QQPGTF LLRFSESSRE GAITFTWVER
+
+        51                                                 100
+2pna_   GNNKLIKIFH RDGKYGF... ..SDPLTFNS VVELINHY.R NESLAQYNPK
+1mw4_A  ..LQKVKHYL ILPSEEEGRL YFSMDDGQTR FTDLLQLV.. .....EFHQL
+1uur_A  EMPARIKHYL VQPNDT.... ....AAAKKT FPDFLSEHSQ FVNLLQWTKD
+1bf5_A  SQNGGEPDFH AVEPYTK... ..KE.LSAVT FPDIIRNY.K VMAA.ENIPE
+
+        101                             132
+2pna_   LDVKLL~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+1mw4_A  NRGIL..PCL LRHC~~~~~~ ~~~~~~~~~~ ~~
+1uur_A  TNGAPRFLKL HKDTALGSFA PKRTAPVPVG GX
+1bf5_A  NPLKYLYPNI DKDHAFGKYY SRGXIKTE~~ ~~

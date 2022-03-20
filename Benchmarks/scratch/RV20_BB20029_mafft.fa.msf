@@ -1,0 +1,160 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV20_BB20029_mafft.fa.msf  MSF: 236  Type: N  December 21, 2021 21:48  Check: 8424  ..
+
+ Name: 1tvx_A      Len:    236  Check: 6481  Weight: 1.00
+ Name: GRO1_RABIT  Len:    236  Check: 3408  Weight: 1.00
+ Name: GRO_HUMAN   Len:    236  Check: 1301  Weight: 1.00
+ Name: GRO2_RABIT  Len:    236  Check: 1018  Weight: 1.00
+ Name: MI2A_RAT    Len:    236  Check: 1950  Weight: 1.00
+ Name: MIP2_MOUSE  Len:    236  Check: 8720  Weight: 1.00
+ Name: GRO_CRIGR   Len:    236  Check: 3057  Weight: 1.00
+ Name: GRO_CAVPO   Len:    236  Check: 1955  Weight: 1.00
+ Name: SZ07_PIG    Len:    236  Check: 9198  Weight: 1.00
+ Name: AMC_RABIT   Len:    236  Check: 8366  Weight: 1.00
+ Name: SZ06_HUMAN  Len:    236  Check: 2547  Weight: 1.00
+ Name: AMC2_PIG    Len:    236  Check: 9615  Weight: 1.00
+ Name: SZ05_MOUSE  Len:    236  Check: 2181  Weight: 1.00
+ Name: SZ05_RAT    Len:    236  Check:  364  Weight: 1.00
+ Name: PLF4_PIG    Len:    236  Check: 8737  Weight: 1.00
+ Name: PLF4_BOVIN  Len:    236  Check: 2919  Weight: 1.00
+ Name: PLF4_MOUSE  Len:    236  Check: 4682  Weight: 1.00
+ Name: PF4V_HUMAN  Len:    236  Check:  187  Weight: 1.00
+ Name: EMF1_CHICK  Len:    236  Check: 8297  Weight: 1.00
+ Name: IL8_CERTO   Len:    236  Check:  882  Weight: 1.00
+ Name: IL8_BOVIN   Len:    236  Check: 1639  Weight: 1.00
+ Name: IL8_CAVPO   Len:    236  Check: 2363  Weight: 1.00
+ Name: SZ15_MOUSE  Len:    236  Check: 9142  Weight: 1.00
+ Name: SZ09_MOUSE  Len:    236  Check: 8671  Weight: 1.00
+ Name: SZ09_HUMAN  Len:    236  Check:  163  Weight: 1.00
+ Name: SZ10_HUMAN  Len:    236  Check: 2680  Weight: 1.00
+ Name: 1prt_F      Len:    236  Check: 8937  Weight: 1.00
+ Name: 1sap_       Len:    236  Check: 8469  Weight: 1.00
+ Name: 1lt5_D      Len:    236  Check:  495  Weight: 1.00
+
+//
+
+1tvx_A         ------------------------------------------------------------
+GRO1_RABIT     ------------------------------------------------------------
+GRO_HUMAN      MA---RAALSAAPS------NPRLLRVA----LLLLLLVAA-------GRRAAGAS----
+GRO2_RABIT     MA---PAATAAA---------PRLLRAA----LLLLLLVAA-------GRRAAGAP----
+MI2A_RAT       ------------------------------------------------------------
+MIP2_MOUSE     MA---PPT-------------CRLLSAA----LVLLLLLAT-------NHQATGAV----
+GRO_CRIGR      MA---PAT-------------RSLLRAP---LLLLLLLLAT-------SRLATGAP----
+GRO_CAVPO      MA---GAA-------------PKTLRFAPLLLLLLLLVLGT-------SRRAAGAP----
+SZ07_PIG       MSLRLGAISSCTTSSPFPV-LQVLLPLS---LLLTTLVPATM-----GAAKIEGRM----
+AMC_RABIT      ---------------------------------------------------GPVAA----
+SZ06_HUMAN     MS---LPS-SRAARVPGP---SGSLCAL---LALLLLLTPPGPLASA----GPVSA----
+AMC2_PIG       MR---LLT-SRATRVPSP---SGLLCAV---LA-MLLLTPSGPLASASPIEAAEAA----
+SZ05_MOUSE     MS---LQL-RSSAHIPSGSSSPFMRMAP---LAFLLLFTLP-------QHLAEAAPSSVI
+SZ05_RAT       MS---FQL-RSSARIPSRSCSSFTL------LAFLLLFTLP-------QHRAQAAPFSAM
+PLF4_PIG       QEWSLPGT-----RVPPP---------------------------------ADPEGG---
+PLF4_BOVIN     -ESSFPAT-----FVPLP---------------------------------ADSEGG---
+PLF4_MOUSE     MS---VAA-VFRGLRPS----PELLLLG----LLFLPAVVA-------VTSAGPEE----
+PF4V_HUMAN     MS---SAA-RSRLTRATR---QEMLFLA----LLLLPVVVA-------FARAEAEE----
+EMF1_CHICK     MN-------------------GKLG-AV---LALLLVSAAL-------SQGRTLVK----
+IL8_CERTO      MT-------------------SKLAVAL---LAAFLLSAAL-------CEGAVLPR----
+IL8_BOVIN      MT-------------------SKLAVAL---LAAFLLSAAL-------CEAAVLSR----
+IL8_CAVPO      MP-------------------SQLRVAV---LAAFLLSAVL-------CEGMVVTK----
+SZ15_MOUSE     MA---AQG-------------WSMLLLA---VLNLGIFVRP------------------C
+SZ09_MOUSE     M-------------------KSAVLF----LLGIIFLEQCG----------VRGTL----
+SZ09_HUMAN     MK------------------KSGVLF----LLGIILLVLIG----------VQGTP----
+SZ10_HUMAN     MN------------------QTAIL-----ICCLIFLTLSG----------IQGVP----
+1prt_F         LP-------------------THLYKNF--TVQELALKLKG------KNQEFCLTAF--M
+1sap_          ------------------------------------------------------------
+1lt5_D         AP-------------------------------------------------QTITE----
+
+
+1tvx_A         ----LRCLCIKT-----------------TSGIHPK-NIQSLEVIGKGTHC--NQVEVIA
+GRO1_RABIT     ALTELRCQCLQT-----------------VQGIHLK-NIQNLKVLSPGPHC--AQTEVIA
+GRO_HUMAN      VATELRCQCLQT-----------------LQGIHPK-NIQSVNVKSPGPHC--AQTEVIA
+GRO2_RABIT     VVNELRCQCLQT-----------------LQGIHLK-NIQSVKVTTPGPHC--DQTEVIA
+MI2A_RAT       --RELRCQCLKT-----------------LPRVDFE-NIQSLTVTPPGPHC--TQTEVIA
+MIP2_MOUSE     VASELRCQCLKT-----------------LPRVDFK-NIQSLSVTPPGPHC--AQTEVIA
+GRO_CRIGR      VANELRCQCLQT-----------------MTGVHLK-NIQSLKVTPPGPHC--TQTEVIA
+GRO_CAVPO      AASELRCRCLRP-----------------VRGLHPK-NIQSVAVTAPGPHC--HQTEVLA
+SZ07_PIG       AHVELRCLCLNT-----------------VSGIHPS-NIQSLEVIRAGAHC--AKVEVIA
+AMC_RABIT      VVRELRCVCLST-----------------T-AIHPK-MIARLQVIAAGPQC--SKVEVVA
+SZ06_HUMAN     VLTELRCTCLRV-----------------TLRVNPK-TIGKLQVFPAGPQC--SKVEVVA
+AMC2_PIG       VVRELRCMCLTT-----------------TPGIHPK-MISDLQVIPAGPQC--SKAEVIA
+SZ05_MOUSE     AATELRCVCLTV-----------------TPKINPK-LIANLEVIPAGPQC--PTVEVIA
+SZ05_RAT       VATELRCVCLTL-----------------APRINPK-MIANLEVIPAGPHC--PKVEVIA
+PLF4_PIG       -DANLRCVCVKT-----------------ISGVSPK-HISSLEVIGAGPHC--PSPQLIA
+PLF4_BOVIN     EDEDLQCVCLKT-----------------TSGINPR-HISSLEVIGAGTHC--PSPQLLA
+PLF4_MOUSE     SDGDLSCVCVKTI----------------SSGIHLK-HITSLEVIKAGRHC--AVPQLIA
+PF4V_HUMAN     -DGDLQCLCVKT-----------------TSQVRPR-HITSLEVIKAGPHC--PTAQLIA
+EMF1_CHICK     MGNELRCQCISTH----------------SKFIHPK-SIQDVKLTPSGPHC--KNVEIIA
+IL8_CERTO      SAKELRCLCIKTY----------------SKPFHPK-FIKELRVIESGPHC--VNTEIIV
+IL8_BOVIN      MSTELRCQCIKTH----------------STPFHPK-FIKELRVIESGPHC--ENSEIIV
+IL8_CAVPO      LVSELRCQCIKIH----------------TTPFHPK-FIKELKVIESGPRC--ANSEIIV
+SZ15_MOUSE     DTQELRCLCIQEH----------------SEFIPLK-LIKNIMVIFETIYC--NRKEVIA
+SZ09_MOUSE     VIRNARCSCISTS----------------RGTIHYK-SLKDLKQFAPSPNC--NKTEIIA
+SZ09_HUMAN     VVRKGRCSCISTN----------------QGTIHLQ-SLKDLKQFAPSPSC--EKIEIIA
+SZ10_HUMAN     LSRTVRCTCISIS----------------NQPVNPR-SLEKLEIIPASQFC--PRVEIIA
+1prt_F         SGRSLVRACLSD-----------------AGHEHDT-WFDTMLGFAISAYA--LKSRIAL
+1sap_          -----------------------------MVKVKFKYKGEEKEVDT-------SKIKKVW
+1lt5_D         LCSEYRNTQIYTINDKILSYTESMAGKREMVIITFK-SGETFQVEVPGSQHIDSQKKAIE
+
+
+1tvx_A         TL------------KDGRK-ICLDPDAPRIKKIVQKKL----AGD---------------
+GRO1_RABIT     TL------------KSGQE-ACRNPAAPMVKKFLQKRLSNG-NSS---------------
+GRO_HUMAN      TL------------KNGRK-ACLNPASPIVKKIIEKMLNSD-KSN---------------
+GRO2_RABIT     SL------------KTGQE-VCLNPTAPVVKKIIDKMLNKA-SAN---------------
+MI2A_RAT       TL------------KDGQE-VCLNPQAPRLQKIIQKLLKSD-KS----------------
+MIP2_MOUSE     TL------------KGGQK-VCLDPEAPLVQKIIQKILNKG-KAN---------------
+GRO_CRIGR      TL------------KNGQE-ACLNPEAPMVQKIVQKMLKSG-IRK---------------
+GRO_CAVPO      TL------------KDGRE-ACLDPEAPMVQKVLQRMLKGS-KAT---------------
+SZ07_PIG       TL------------KNDKK-ICLDPEAPRIKKIVQKIMEDGGSAA---------------
+AMC_RABIT      SL------------KNGKE-ICLDPEAPLIKKAIQKILESGNKEN---------------
+SZ06_HUMAN     SL------------KNGKQ-VCLDPEAPFLKKVIQKILDSGNKKN---------------
+AMC2_PIG       TL------------KNGKE-VCLDPKAPLIKKIVQKMLDSGKKKN---------------
+SZ05_MOUSE     KL------------KNQKE-VCLDPEAPVIKKIIQKILGSDKKKAKRNAL----------
+SZ05_RAT       KL------------KNQKDNVCLDPQAPLIKKVIQKILGSENKKTKRNAL----------
+PLF4_PIG       TL------------KKGHK-ICLDPQNLLYKKIIKKLLKSQLLTA---------------
+PLF4_BOVIN     TK------------KTGRK-ICLDQQRPLYKKILKKLLDGD--ES---------------
+PLF4_MOUSE     TL------------KNGRK-ICLDRQAPLYKKVIKKILES--------------------
+PF4V_HUMAN     TL------------KNGRK-ICLDLQALLYKKIIKEHLES--------------------
+EMF1_CHICK     TL------------KDGRE-VCLDPTAPWVQLIVKALMAKAQLNSDAPL-----------
+IL8_CERTO      KL------------SDGRE-LCLDPKEPWVQRVVEKFLKRAESQNS--------------
+IL8_BOVIN      KL------------TNGNE-VCLNPKEKWVQKVVQVFVKRAEKQDP--------------
+IL8_CAVPO      KL------------SDNRQ-LCLDPKKKWVQDVVSMFLKRTESQDS--------------
+SZ15_MOUSE     VP------------KNGSM-ICLDPDAPWVKATVGPITNRFLPEDLKQKEFPPAMKLLYS
+SZ09_MOUSE     TL------------KNGDQ-TCLDPDSANVKKLMKEWEKKINQKKKQKRGK---------
+SZ09_HUMAN     TL------------KNGVQ-TCLNPDSADVKELIKKWEKQVSQKKKQKNGK---------
+SZ10_HUMAN     TMK-----------KKGEK-RCLNPESKAIKNLLKAVSKERSKRSP--------------
+1prt_F         TV------------EDSPY-----PGTP--GDLLELQICPLNGYCE--------------
+1sap_          RVGKMVSFTYDDNGKTGRG-AVSEKDAP--KELLDMLARAEREKK---------------
+1lt5_D         RMKDTLRITYLTETKIDKL-CVWNNKTP--NSI-----AAISMKN---------------
+
+
+1tvx_A         --------------------------------------------------------
+GRO1_RABIT     --------------------------------------------------------
+GRO_HUMAN      --------------------------------------------------------
+GRO2_RABIT     --------------------------------------------------------
+MI2A_RAT       --------------------------------------------------------
+MIP2_MOUSE     --------------------------------------------------------
+GRO_CRIGR      --------------------------------------------------------
+GRO_CAVPO      --------------------------------------------------------
+SZ07_PIG       --------------------------------------------------------
+AMC_RABIT      --------------------------------------------------------
+SZ06_HUMAN     --------------------------------------------------------
+AMC2_PIG       --------------------------------------------------------
+SZ05_MOUSE     -----------------------------------------------AVERTASVQ
+SZ05_RAT       -----------------------------------------------ALVRSASTQ
+PLF4_PIG       --------------------------------------------------------
+PLF4_BOVIN     --------------------------------------------------------
+PLF4_MOUSE     --------------------------------------------------------
+PF4V_HUMAN     --------------------------------------------------------
+EMF1_CHICK     --------------------------------------------------------
+IL8_CERTO      --------------------------------------------------------
+IL8_BOVIN      --------------------------------------------------------
+IL8_CAVPO      --------------------------------------------------------
+SZ15_MOUSE     VEHEKPLYLSFGRPENKRIFPFPIRETSRHFADLAHNSDRNFLRDSSEVSLTGSDA
+SZ09_MOUSE     -KHQKN--MKNRKPKT-----------------------------PQSRRRSRKTT
+SZ09_HUMAN     -KHQKKKVLKVRKSQ---------------------------------RSRQKKTT
+SZ10_HUMAN     --------------------------------------------------------
+1prt_F         --------------------------------------------------------
+1sap_          --------------------------------------------------------
+1lt5_D         --------------------------------------------------------
+
+

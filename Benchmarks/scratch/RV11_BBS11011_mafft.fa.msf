@@ -1,0 +1,47 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BBS11011_mafft.fa.msf  MSF: 278  Type: N  December 21, 2021 21:48  Check: 1974  ..
+
+ Name: 1hav_A  Len:    278  Check:  264  Weight: 1.00
+ Name: 1agj_A  Len:    278  Check: 2313  Weight: 1.00
+ Name: 5ptp_   Len:    278  Check: 5399  Weight: 1.00
+ Name: 2sga_   Len:    278  Check: 3260  Weight: 1.00
+ Name: 1svp_A  Len:    278  Check:  738  Weight: 1.00
+
+//
+
+1hav_A     RKNLVQFGVGEKNGSVRWVMNALG---VKDDWLLVPSHAYKFEKDYEMMEFYFNRGGTYY
+1agj_A     -------------------YNTIGNVFVKGQTSATGV-----------------------
+5ptp_      VPYQVSLNSG---------YHFCGGSLINSQWVVSAAHCYKS---------------GIQ
+2sga_      IAGGEAITTG---------GSRCSLGFNVVAHALTAGHCTNI---------------SAW
+1svp_A     LEADRLFDVKNEDGDV--------------------------------------------
+
+
+1hav_A     SISAGNVVIQSLDVGFQDVVLMKVPTIPKF-----------------RDITQHFIKKGDV
+1agj_A     LIGKNTVLTNRHIAKFANGDPSKVSFRPSINTDDNGNTETPYGEYEVKEILQEPFGAG-V
+5ptp_      VLGEDNINVVEGNEQFISASKSIV--HPSYNSNTLNN-----------------------
+2sga_      SIG-------------------------TRTGTSFNN-----------------------
+1svp_A     -------------------------------------------------IGHALAMEGKV
+
+
+1hav_A     PRALNRLA------TL---------VTTVN----GTPMLISEGPLKMEEKA-TYVHKKND
+1agj_A     DLALIRLKPDQNGVSLGDKISPAKIGTS---------------------------NDLKD
+5ptp_      DIMLIKLK---SAASLNSRVASISLPTSCASA--GTQCLIS-----------GWGNTKSS
+2sga_      DYGIIRHS---NPAAADGRVYLYQDITTAGNAFVGQAVQRS-----------GSTTGLRS
+1svp_A     MKPLHVKG------TIDHPVLSKLKFTKSS----AYDMEFAQLPVNMRSEAFTYTSEHPE
+
+
+1hav_A     G-------------------------TTVDLTV-DQAWRGKGEGLPGMCGGALVSSNQSI
+1agj_A     G----DKLELIGYPF--DHKVNQMHRSEIELTTLSRGLRYYGFTVPGNSGSGIFNSNGEL
+5ptp_      GTSYPDVLKCLKAPILSDSSCKSAYPGQITSNMFCAGLE-GGDSCQGDXGGPVVCS-GKL
+2sga_      GS-----VTGLNATVNYGSS--GIVYGMIQTNV-----------CAGDSGGSLFAG-STA
+1svp_A     GF-Y------------------NWHHGAVQYSG-GRFTIPRGVGGRGDAGRPIMDNSGRV
+
+
+1hav_A     QNA-------------ILGIHV-AGGNSILVAKLVTQE
+1agj_A     VGIHSSKVSHLDREHQINYGVG------------IGNY
+5ptp_      QGI-------------VSWGSG-CAKNKPGVYTKVCNY
+2sga_      LGL-------------TSGGSGNCRTGGTTFYQPVT--
+1svp_A     VAI-------------VLGGAD-EGTRTALSVVTWNSK
+
+

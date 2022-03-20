@@ -1,0 +1,421 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 1002  Type: P  December 21, 2021 20:32  Check: 458  ..
+
+ Name: 1fdr_       Len:   1002  Check:  853  Weight: -1.00
+ Name: FENR_AZOVI  Len:   1002  Check: 9038  Weight: -1.00
+ Name: FENR_BUCAP  Len:   1002  Check: 2570  Weight: -1.00
+ Name: FENR_BUCAI  Len:   1002  Check: 2364  Weight: -1.00
+ Name: FENR_BUCBP  Len:   1002  Check: 6723  Weight: -1.00
+ Name: 1ndh_       Len:   1002  Check: 3243  Weight: -1.00
+ Name: NIA7_HORVU  Len:   1002  Check: 2795  Weight: -1.00
+ Name: NIA_PHYIN   Len:   1002  Check: 2940  Weight: -1.00
+ Name: YMM5_YEAST  Len:   1002  Check: 9237  Weight: -1.00
+ Name: NDOR_PSEPU  Len:   1002  Check: 8808  Weight: -1.00
+ Name: 1krh_A      Len:   1002  Check: 3466  Weight: -1.00
+ Name: 1qfj_A      Len:   1002  Check: 7695  Weight: -1.00
+ Name: LUXG_VIBFI  Len:   1002  Check: 8170  Weight: -1.00
+ Name: LUXG_VIBHA  Len:   1002  Check: 5733  Weight: -1.00
+ Name: FRE_PHOLU   Len:   1002  Check: 9694  Weight: -1.00
+ Name: FRE_VIBFI   Len:   1002  Check: 2507  Weight: -1.00
+ Name: 1cqx_A      Len:   1002  Check: 4622  Weight: -1.00
+
+//
+
+            1                                                   50
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  ~~~~~MAASV EYNRQVSAH. .......PWP TNAQPKAAFD LF..SSSGGG
+NIA_PHYIN   MTRLRSAAST ITNRSTPALA LTASHAGSHP AVIVPIQPLL LTLERRPSCP
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  RRRSGADSDS DDEDSVPPDW RSL.YSPRLD VEPSVKDPRD EATSDAWVKR
+NIA_PHYIN   HRVSYPE..I EAYRGISSSL RSHNAIVRAS DIMAQIDPRD VGTPDEWVPR
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  HPALVRLTGK HPFNSEPPLP RLMSHGFITP VPLHYVRNHG AVPKADWSTW
+NIA_PHYIN   HPELIRLTGR HPFNSEPPLK Y..ASTFITP MALHYVRNHG PVPRLEWDTH
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            151                                                200
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  TVEVTGLVKR PVKFTMEELV TGFQ..AVEF PVTLVCAGNR RKEQNMVRQS
+NIA_PHYIN   TFSIDGLVKK PRTFGMNELV TTFEQETVTF PVLLVCAGNR RKEQNMIKKT
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  SGFNWGPGAI STTVWRGVRL RDVLRRCGVM GAGAASNVCF EGAEDLPGGG
+NIA_PHYIN   IGFSWGAAGC STAEWTGVPL HVLLTACGVD RE.KAQWVWF EGIEDLPH..
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  GCKYGTSLRR SVAMDPARDV ILAYMQNGEP LAPDHGFPVR VIVPGFIGGR
+NIA_PHYIN   .DKYGTCIRA STELDPECDV LVAWKANGEL LGPDHGFPVR LIVPGHIGGR
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  MVKWLKRIVV ACNESESYYH YRDNRVLPSH VDAELANAEA WWYKPECMIN
+NIA_PHYIN   MVKWLERIHV SDHESSNHHH IMDNRVLPSH VTAETATAEG WWSKSPYAIM
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                                400
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  ELNINSVITT PGHDEVLPIN AL...TTQKP YTMKGYAYSG GGRKVTRVEV
+NIA_PHYIN   ELNVNAVVIL PNHDDLLALG EDTTFNDIET YTIKGYAYSG GGRRVIRVEV
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            401                                                450
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  TLDGGETWQV CDLEHPERPT KYGKYWCWCF WSVEVEVLEL LGAKEMAVRA
+NIA_PHYIN   TLDDGASWQL ARIIYHERPS KYGKMWCWVH YELAAPMSSL LCAREVCVRA
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            451                                                500
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  WDEALNTQPE RLIWNLMGMM NNCWFRVKIN VCRPHKGEIG LVFDHPTQPG
+NIA_PHYIN   WDSSMNLMPA FPTWNVMGMM NNPWYRVKIH HEQ...DTNS LRFEHPTQAG
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            501                                                550
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  NQSGGWMARQ KHIETSETTQ GTLKRS.... ..TSTP..FM ....STASAQ
+NIA_PHYIN   NQKGGWMTKE RIMTNDVDSI KMLQVEPLDT SSAATPKPGL TADELSELPL
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NDOR_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MEL..... LIQPNNRIIP
+1krh_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ SNHQVA..LQ FEDGVTRFIC
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~MLTQKTKDI VKATAP..VL AEHGYDIIKC
+
+            551                                                600
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  FTMSEVRRHA SKDSAWI... .......... VVHGHVYDCT AFLKDHPGGA
+NIA_PHYIN   IFADEVAKHN SKKSCWF... .......... ICRDLVYDAT PFLDEHPGGA
+YMM5_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MSKEDIEGT NILDEPVHG.
+NDOR_PSEPU  FSAGANLLEV LRENGVAISY SCLSGRCGT. .CRC...... .RVIDGS.V.
+1krh_A      IAQGETLSDA AYRQQINIPM DCREGECGT. .CRA...... .FCESGN.Y.
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      FYQRMFEAHP ELKNVFNMAH Q.EQGQQQQA LARA.VYAYA ENIEDPN.S.
+
+            601                                                650
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NIA7_HORVU  DSILINAGSD CTEEFDAIHS A...KARGLL EMYRVGE... ...LIVTGND
+NIA_PHYIN   TSILLCGGTD CTDEFESIHS T...KAWQML KKYCIGR... ...CSSTEDD
+YMM5_YEAST  .......... .......IYI ........PA ALFVVGV... ...AITT...
+NDOR_PSEPU  .......... IDSGAEN... ..GQSNLTDK QYVLACQ... ...SVLTGNC
+1krh_A      .......... DMPEDNYIED A.LTPEEAQQ GYVLACQ... ...CRPTSDA
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A      .......... LMAVLKNIAN KHASLGVKPE QYPIVGEHLL AAIKEVLGNA
+
+            651                                                700
+1fdr_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~ADWVTGKV
+FENR_AZOVI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~SNLNVERV
+FENR_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MNPWINANV
+FENR_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MNPWINADV
+FENR_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MNTWITAKI
+1ndh_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~PAITLENP. ..DIKYPLRL
+NIA7_HORVU  YSPQSSNADL AAIVEAPAVV VPRLPA.... .SAVALANP. ..REKVRCRL
+NIA_PHYIN   TGTSDTSSDH EE........ .......... .TDV.ALKG. ..RTKVPIVL
+YMM5_YEAST  ....YMSGEL KILWSLPILF MIIFVRAYSA YKRRRSLYP. ..DRWTSLEL
+NDOR_PSEPU  AI........ .........E VP...EADEI VT.HPARI.. .IKG.T...V
+1krh_A      VF........ .........Q IQ...ASSEV CK.TKIHH.. .FEG.T...L
+1qfj_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~TT.. .LSC.K...V
+LUXG_VIBFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MI.. .VDG.R.VSK
+LUXG_VIBHA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MLC.S...I
+FRE_PHOLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~TT.. .LSC.K...V
+FRE_VIBFI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MP.. .INC.K...V
+1cqx_A      ATDDIISAWA QAYGNLADVL MG...MESEL YE.RSAEQPG GWKGWRTFVI
+
+            701                                                750
+1fdr_       TKVQNWTDA. .LFSLTV.HA ...PVLPFTA GQFTKLGLEI ..........
+FENR_AZOVI  LSVHHWNDT. .LFSFKTTRN ...PSLRFEN GQFVMIGLEV .........D
+FENR_BUCAP  LKVHKWTQN. .LFSLIL.NA ...EIAPFQA GQFTKLALNE ENINFSNNVK
+FENR_BUCAI  LMVKKWTKN. .LFSLIL.NA ...PIEPFFA GQFNKLALYN .....SNPLN
+FENR_BUCBP  IKIKKWKNN. .LFSVIV.NA ...PISPFTA GQFTKLGYQK K........N
+1ndh_       IDKEVVNHDT RRFRFAL.PS PE.HILGLPV GQHIYLSARI .........D
+NIA7_HORVU  VDKKSMSHNV RLFRFAL.PS PD.QKLGLPV GKHVYVCAST .........G
+NIA_PHYIN   ISREVVSHDA RIFKFAL.PA KD.LRLGLPI GNHVFLYAKI .........N
+YMM5_YEAST  EDQTIISKNT ALYRFKL.KT RL.ESLDIPA GHHVAVRVPI .........D
+NDOR_PSEPU  VAVESPTHD. .IR..RLRVR LS.KPFEFSP GQYATLQFSP ..........
+1krh_A      ARVENLSDS. .TITFDIQLD DGQPDIHFLA GQYVNVTLPG ..........
+1qfj_A      TSVEAITDT. .VY..RVRIV PD.AAFSFRA GQYLMVVMDE ..........
+LUXG_VIBFI  IVLASIKNN. .IY..KVFIT VN.SPIKFIA GQFVMVTING ..........
+LUXG_VIBHA  EKIEPLTSF. .IF..RVLLK PD.QPFEFRA GQYINVSLSF ..........
+FRE_PHOLU   TSVEAITDT. .VY..RVRLL PD.SPFLFRA GQYLMVVMDE ..........
+FRE_VIBFI   KSIEPLACN. .TF..RILLH PE.QPVAFKA GQYLTVVMGE ..........
+1cqx_A      REKRPESDV. .ITSFILEPA DGGPVVNFEP GQYTSVAIDV .......PAL
+
+            751                                                800
+1fdr_       ..RVQRAYSY VNSPDN...P DLEFYLVTVP .........D GKLSPRLAA.
+FENR_AZOVI  GRPLMRAYSI ASPNYE...E HLEFFSIKVQ .........N GPLTSRLQH.
+FENR_BUCAP  KKKIQRAYSF VNAPSN...K NLEIYIVRIL .........N GKLSNLLYN.
+FENR_BUCAI  KNKIQRAYSY VNAPSE...K NLEIYIVRVL .........N GQLSNLLYN.
+FENR_BUCBP  GKIIQRAYSF VNAPHE...K NLEFYMVLIK .........N GQLTTKLYN.
+1ndh_       GNLVIRPYTP VSSD..DDKG FVDLVIKVYF KDTHPKFPAG GKMSQYLE.S
+NIA7_HORVU  GKLCMRAYTP TSSV..EEVG HVELLIKIYF KDEDPKFPAG GLMSQYLD.A
+NIA_PHYIN   GKTAVRAYTP ISSENDEDRG FVSFLIKVYF AGDNPVHPEG GLFSQYLD.G
+YMM5_YEAST  GKQEVRYYNP ISSK..LESG YLDLVVKAYV D......... GKVSKYFA.G
+NDOR_PSEPU  ..EHARPYSM AGLPDD...Q EMEFHIRKVP .........G GRVTEYVFEH
+1krh_A      .TTETRSYSF SSQPGN...R LTGFVVRNVP .........Q GKMSEYLSVQ
+1qfj_A      ..RDKRPFSM ASTPDE..KG FIELHIG... .......Y.A KAVMDRIL..
+LUXG_VIBFI  ...KKCPFSI ANCPTK..NH EIELHIGSSN ....KDC..S LDIIEYFVDA
+LUXG_VIBHA  ...GSLPFSI ASCPSN..GA FLELHIGGSD ....ISKK.N TLVMEELTNS
+FRE_PHOLU   ..RDKRPFSM ASTPSE..KE FIELHIGASE ....LNLY.A MAVMDRIL..
+FRE_VIBFI   ..KDKRPFSI ASSPCR.HEG EIELHIGAAE ....HNAY.A GEVVESMKSA
+1cqx_A      GLQQIRQYSL SDMPNG.RTY RISVKREG.G ....GPQP.P GYVSNLLHDH
+
+            801                                                850
+1fdr_       LKPGDEVQVV SEAAGFFVLD EVP....... ........HC ETLWMLATGT
+FENR_AZOVI  LKEGDELMVS RKPTGTLVTS DLL....... ........PG KHLYMLSTGT
+FENR_BUCAP  LKSGDNLFIK EKSFGFFTLD EIP....... ........NC KTLWMFATGT
+FENR_BUCAI  LHSGDKIFIK KKSFGFFIID EIP....... ........DC EILWMFATGT
+FENR_BUCBP  LNNTDHIQIK KKSYGFFTLN EIP....... ........TC KILWMFATGT
+1ndh_       MKIGDTI.EF RGPNGLLVYQ GKGKFAIRPD KKSSPVIKTV KSVGMIAGGT
+NIA7_HORVU  LPLGAPV.DI KGPVGHIEYA GRGAFTVGGE RRF......A RRLAMVAGGT
+NIA_PHYIN   LHLGQQI.QI KGPLGHFTYY GDGNFSLETT NFH......A YKFGFVAGGT
+YMM5_YEAST  LNSGDTV.DF KGPIGTLNYE PNS....... .........S KHLGIVAGGS
+NDOR_PSEPU  VREGTSI.KL SGPLGTAYLR QKH....... ........T. GPMLCVGGGT
+1krh_A      AKAGDKM.SF TGPFGSFYLR D.V....... ........K. RPVLMLAGGT
+1qfj_A      ..KDHQI.VV DIPHGEAWLR DDE....... ........E. RPMILIAGGT
+LUXG_VIBFI  LVEEVAI.EL DAPHGNAWLR SES....... ........N. NPLLLIAGGT
+LUXG_VIBHA  WGCGNMV.EV SEARGKAWLR DES....... ........V. KPLLLVAGGT
+FRE_PHOLU   ..DQKVI.NI DIPHGKAWFR KSS....... ........A. NPLLLIAGGT
+FRE_VIBFI   LETGGDI.LI DAPHGEAWIR EDS....... ........D. RSMLLIAGGT
+1cqx_A      VNVGDQV.KL AAPYGSFHID VDA....... ........K. TPIVLISGGV
+
+            851                                                900
+1fdr_       AIGPYLSILR LGKDL..DRF KNLVLVHAAR YAADLSYLPL MQELEK..RY
+FENR_AZOVI  GLAPFMSLIQ DPEVY..ERF EKVVLIHGVR QVNELAYQQF ITEHLPQSEY
+FENR_BUCAP  GIGPYCSILQ EYKNI..NRF KNIILIHAVR YQNELTYLPL MKQLYK..SY
+FENR_BUCAI  GIGPYCSILQ EGKNI..NRF NHIILTHAVR YQNELTYLPL MKELRQ..KY
+FENR_BUCBP  GIGPYLSMLK YQKNT..EKF QKIVLIHAVR YRHDLTYFNE INNLKN..IY
+1ndh_       GITPMLQVIR AIMKD.PDDH TVCHLLFANQ TEKDILLRPE LEELRN..EH
+NIA7_HORVU  GITPVYQVIQ AVLRDQPDDT TEMHLVYANR TEDDMLLREE IDRWAA..AN
+NIA_PHYIN   GITPVYQVMR AILED.AKDQ TKVALIYCVR SQRDLLLRKE LETLQK..LR
+YMM5_YEAST  GITPVLQILN EIITV.PEDL TKVSLLYANE TENDILLKDE LDEMAE..KY
+NDOR_PSEPU  GLAPVLSIVR GALKS..GMT NPILLYFGVR SQQDLYDAER LHKLAA..DH
+1krh_A      GIAPFLSMLQ VLEQK..GSE HPVRLVFGVT QDCDLVALEQ LDALQQ..KL
+1qfj_A      GFSYARSILL TALAR..NPN RDITIYWGGR EEQHLYDLCE LEALSL..KH
+LUXG_VIBFI  GLSYINSILT NCLNR..NIP QDIYLYWGVK NSSLLYEDEE LLELSL..NN
+LUXG_VIBHA  GMSYTLSILK NSLAQ..GFN QPIYVYWGAK DMENLYVHDE LVDIAL..EN
+FRE_PHOLU   GFSYTRSILL TALEE..QPK RHISMYWGGR ESQHLYDLAE LRLLTE..RY
+FRE_VIBFI   GFSYVRSILD HCISQ..QIQ KPIYLYWGGR DECQLYAKAE LESIAQ..AH
+1cqx_A      GLTPMVSMLK VALQA..PP. RQVVFVHGAR NSAVHAMRDR LREAAK..TY
+
+            901                                                950
+1fdr_       EG.....KLR IQTVVSRE.T AAGSLTGRIP ALIESGELES TIGL.PMNK.
+FENR_AZOVI  FGEAVKEKLI YYPTVTR... ESFHNQGRLT DLMRSGKLFE DIGLPPINP.
+FENR_BUCAP  NG.....KLK IETIVSRE.K NHNSLYGRIP LLLQNQILEK KIGL.KINR.
+FENR_BUCAI  NG.....KLQ IQTITSRE.K HKNSLNGRIP FLLRNKILEK HVGF.SINP.
+FENR_BUCBP  NK.....KLY TQFIISRE.K TNFSLSGRIP QLLKTEELEK HINL.FIEN.
+1ndh_       SA.....RFK LWYTVD.... .....RAPEA WDYSQGFVNE EMIRDHLPPP
+NIA7_HORVU  PA.....RLK VWYVVSKVG. .....RPEDA WEYGVGRVDE QVLREHLPLG
+NIA_PHYIN   PG.....QCR IFYTLSDMEL LDRNDPIVRG WAYGKSRLNF AMVKNIIGS.
+YMM5_YEAST  P......HFQ VHYVVH.... .....YPSDR WTGDVGYITK DQMNRYLPEY
+NDOR_PSEPU  P......QLT VHTVIAT... ......GPIN EGQRAGLITD VIEKDILSL.
+1krh_A      P......WFE YRTVVAH... ......A.ES QHERKGYVTG HIEYDWLNG.
+1qfj_A      P......GLQ VVPVVEQ... ......PEAG WRGRTGTVLT AVLQDHGTL.
+LUXG_VIBFI  K......NLH YIPVIED... ......KSEE WIGKKGTVLD AVMEDFTDL.
+LUXG_VIBHA  K......NVS YVPVTEI... ......STCP QYAKQGKVLE CVMSDFRNL.
+FRE_PHOLU   P......NLK VIPVVEQ... ......SDNG WCGRTGTVLK AVLEDFGSL.
+FRE_VIBFI   S......HIT FVPVVEK... ......S.EG WTGKTGNVLE AVKADFNSL.
+1cqx_A      E......NLD LFVFYDQP.L P...EDVQGR DYDYPGLVDV KQIEKSILL.
+
+            951                                               1000
+1fdr_       ..ETSHVMLC GNPQMVRDTQ QLLKETRQMT KHLRRRPGHM TAEHYW~~~~
+FENR_AZOVI  ..QDDRAMIC GSPSMLDESC EVLDGFGLKI SPRMGEPGDY LIERAFVEK~
+FENR_BUCAP  ..NDSHVMLC GNPAMVKDTY LFLQKDRCMQ KNLRRKHGHI TMENYW~~~~
+FENR_BUCAI  ..QTSHVMLC GNPFMVKDTF LFLKNNRNME KHLRRKKGHI TMENYW~~~~
+FENR_BUCBP  ..NTSHVMLC GNPDMVKQTQ NFLINNKNMK KHLRRKPGQI SSENYW~~~~
+1ndh_       E.EEPLVLMC GPPPMIQYAC LPNLERVGHP .......K.E R..CFAF~~~
+NIA7_HORVU  GDGETLALVC GPPAMLECTV RPGLEKMGYD .......LDK D..CLVF~~~
+NIA_PHYIN   ..DAEDVCMC GPEGMIEYAC KPALLKLNYD .......LKT Q..TTVF~~~
+YMM5_YEAST  S.EDNRLLIC GPDGMNNLAL QYAK.ELGWK VNSTRSSGDD Q..VFVF~~~
+NDOR_PSEPU  ..AGWRAYLC GAPAMVEALC .TVTKHLGIS ......PEHI YADAFYPGGI
+1krh_A      ..GEVDVYLC GPVPMVEAVR SWLDTQ.GIQ ......PANF LFEKFSAN~~
+1qfj_A      ..AEHDIYIA GRFEMAKIAR DLFCSERNAR ......EDRL FGDAFAFI~~
+LUXG_VIBFI  ..AHFDIYVC GPFMMAKTAK EKLIEEKKAK ......SEQM FADAFAYV~~
+LUXG_VIBHA  ..SEFDIYLC GPYKMVEVAR DWFCDKRGAE ......PEQL YADAFAYL~~
+FRE_PHOLU   ..ANYDIYIA GRFEMAKIAR ERFCSERDAS ......ADSM YGDAFEFI~~
+FRE_VIBFI   ..ADMDIYIA GRFEMAGAAR EQFTTEKQAK ......KEQL FGDAFAFI~~
+1cqx_A      ..PDADYYIC GPIPFMRMQH DALKN.LGIH ......EARI HYEVFGPDLF
+
+            1001  
+1fdr_       ~~
+FENR_AZOVI  ~~
+FENR_BUCAP  ~~
+FENR_BUCAI  ~~
+FENR_BUCBP  ~~
+1ndh_       ~~
+NIA7_HORVU  ~~
+NIA_PHYIN   ~~
+YMM5_YEAST  ~~
+NDOR_PSEPU  ~~
+1krh_A      ~~
+1qfj_A      ~~
+LUXG_VIBFI  ~~
+LUXG_VIBHA  ~~
+FRE_PHOLU   ~~
+FRE_VIBFI   ~~
+1cqx_A      AE

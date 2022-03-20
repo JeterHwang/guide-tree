@@ -1,0 +1,665 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV30_BB30002_mafft.fa.msf  MSF: 1103  Type: N  December 21, 2021 21:48  Check: 528  ..
+
+ Name: 1h4q_A     Len:   1103  Check: 9343  Weight: 1.00
+ Name: 1nj8_A     Len:   1103  Check: 3380  Weight: 1.00
+ Name: SYP_METTH  Len:   1103  Check: 7627  Weight: 1.00
+ Name: SYP_ARCFU  Len:   1103  Check:  446  Weight: 1.00
+ Name: SYP_BORBU  Len:   1103  Check: 2086  Weight: 1.00
+ Name: SYP_MYCLE  Len:   1103  Check: 3278  Weight: 1.00
+ Name: SYP_CLOST  Len:   1103  Check: 9733  Weight: 1.00
+ Name: 1evk_A     Len:   1103  Check: 3510  Weight: 1.00
+ Name: SYT_PYRAB  Len:   1103  Check: 5769  Weight: 1.00
+ Name: SYT_METAC  Len:   1103  Check: 2512  Weight: 1.00
+ Name: 1ati_A     Len:   1103  Check: 4526  Weight: 1.00
+ Name: SYG_DEIRA  Len:   1103  Check: 9084  Weight: 1.00
+ Name: SYG_STAAM  Len:   1103  Check: 5737  Weight: 1.00
+ Name: SYG_UREPA  Len:   1103  Check: 7695  Weight: 1.00
+ Name: SYG_MYCPN  Len:   1103  Check: 7157  Weight: 1.00
+ Name: SYG_MYCGE  Len:   1103  Check:  795  Weight: 1.00
+ Name: SYG_STRCO  Len:   1103  Check: 5014  Weight: 1.00
+ Name: SYG_MYCTU  Len:   1103  Check: 9033  Weight: 1.00
+ Name: SYG_BORBU  Len:   1103  Check: 3364  Weight: 1.00
+ Name: SYG_TREPA  Len:   1103  Check: 5011  Weight: 1.00
+ Name: SYG_PYRAB  Len:   1103  Check: 9225  Weight: 1.00
+ Name: SYG_ARCFU  Len:   1103  Check: 3174  Weight: 1.00
+ Name: SYG_AERPE  Len:   1103  Check: 3307  Weight: 1.00
+ Name: SYG_METKA  Len:   1103  Check: 3040  Weight: 1.00
+ Name: SYG_METTH  Len:   1103  Check: 2646  Weight: 1.00
+ Name: SYG_YEAST  Len:   1103  Check: 7869  Weight: 1.00
+ Name: SYG_SCHPO  Len:   1103  Check: 2802  Weight: 1.00
+ Name: SYG_CAEEL  Len:   1103  Check: 1161  Weight: 1.00
+ Name: SYG_HUMAN  Len:   1103  Check:  477  Weight: 1.00
+ Name: SYG_BOMMO  Len:   1103  Check: 2435  Weight: 1.00
+ Name: SYG_ARATH  Len:   1103  Check: 9292  Weight: 1.00
+
+//
+
+1h4q_A        ------------------------------------------------------------
+1nj8_A        ------------------------------------------------------------
+SYP_METTH     ------------------------------------------------------------
+SYP_ARCFU     M---------------------------------LINILNAFYAEKRA----------LI
+SYP_BORBU     ------------------------------------------------------------
+SYP_MYCLE     ------------------------------------------------------------
+SYP_CLOST     ------------------------------------------------------------
+1evk_A        ------------------------------------------------------------
+SYT_PYRAB     MRVLLIHSDYIEYEVKDKALKNPEPISEDMKRGRMEEVLVAFISVEKVDE----KNPEEV
+SYT_METAC     MQLLLIHSDYIEYETK-KQTPVAEKIEESLKSGRLEEALTAFTAVESVDE----ANPEEA
+1ati_A        ------------------------------------------------------------
+SYG_DEIRA     M-----------------------------------------------------------
+SYG_STAAM     M-----------------------------------------------------------
+SYG_UREPA     M-----------------------------------------------------------
+SYG_MYCPN     M-----------------------------------------------------------
+SYG_MYCGE     M-----------------------------------------------------------
+SYG_STRCO     M-----------------------------------------------------------
+SYG_MYCTU     M-----------------------------------------------------------
+SYG_BORBU     M-----------------------------------------------------------
+SYG_TREPA     ------------------------------------------------------------
+SYG_PYRAB     M-----------------------------------------------------------
+SYG_ARCFU     M-----------------------------------------------------------
+SYG_AERPE     M-----------------------------------------------------------
+SYG_METKA     M-----------------------------------------------------------
+SYG_METTH     M-----------------------------------------------------------
+SYG_YEAST     ------------------------------------------------------------
+SYG_SCHPO     ------------------------------------------------------------
+SYG_CAEEL     M-----FSSCWLKSSV-----------------RYSRLIRQFSSENSFFKVELVPSDRKT
+SYG_HUMAN     M-----------------------------------------------------PSPRPV
+SYG_BOMMO     ------------------------------------------------------------
+SYG_ARATH     MR---IFSTFVFHRRQ-----------------QIFNL-RQF------------------
+
+
+1h4q_A        ------------------------------------------------------------
+1nj8_A        ------------------------------------------------------------
+SYP_METTH     ------------------------------------------------------------
+SYP_ARCFU     GIKLKI---------RISKIYQTLDND--------------------FSFKRTVFRFSKT
+SYP_BORBU     ------------------------------------------------------------
+SYP_MYCLE     ------------------------------------------------------------
+SYP_CLOST     ------------------------------------------------------------
+1evk_A        ------------------------------------------------------------
+SYT_PYRAB     SLKAIE---------EISKVAEQVKAENVFV----------------YPFAHLSSELAKP
+SYT_METAC     IEKAVS---------EIEKVAAQVKTNRIML----------------YPYAHLSSDLSSP
+1ati_A        ------------------------------------------------------------
+SYG_DEIRA     ------------------------------------------------------------
+SYG_STAAM     ------------------------------------------------------------
+SYG_UREPA     ------------------------------------------------------------
+SYG_MYCPN     ------------------------------------------------------------
+SYG_MYCGE     ------------------------------------------------------------
+SYG_STRCO     ------------------------------------------------------------
+SYG_MYCTU     ------------------------------------------------------------
+SYG_BORBU     ------------------------------------------------------------
+SYG_TREPA     ------------------------------------------------------------
+SYG_PYRAB     ------------------------------------------------------------
+SYG_ARCFU     ------------------------------------------------------------
+SYG_AERPE     ------------------------------------------------------------
+SYG_METKA     ------------------------------------------------------------
+SYG_METTH     ------------------------------------------------------------
+SYG_YEAST     ------------------------------------------------------------
+SYG_SCHPO     ------------------------------------------------------------
+SYG_CAEEL     PLQPRK-----VVAPRFEKKTRQKISDYLKQ----------------MATPEIEAKLAPL
+SYG_HUMAN     LLRGARAALLLLLPPRLLARPSLLLRRSLSAASCAPISLPAAASRSSMDGAGAEEVLAPL
+SYG_BOMMO     -----------------------------------------------MADPKIEEILAPL
+SYG_ARATH     -------------------QTTTILRNPISI---APIQIPMD-----ATEQSLRQSLSEK
+
+
+1h4q_A        ------------------------------------------------------------
+1nj8_A        ------------------------------------------------------------
+SYP_METTH     ------------------------------------------------------------
+SYP_ARCFU     KVAFKDIFHSFGHHRIRLLALALCILGSLANFWHSSKNN-----SSSNSKTNKYCSPLPI
+SYP_BORBU     ------------------------------------------------------------
+SYP_MYCLE     ------------------------------------------------------------
+SYP_CLOST     ------------------------------------------------------------
+1evk_A        ------------------------------------------------------------
+SYT_PYRAB     SVAMDILNRVYQGLKERGFNVGKAPFGYYKAFKISCKGHPLAELSRTIVPEEARVEEVPE
+SYT_METAC     KVAVQVLKGIEAALSGK-YEVKRAPFGWYKAFTVSCKGHPLSELSRSIHPEGTAKAAVKP
+1ati_A        ------------------------------------------------------------
+SYG_DEIRA     ------------------------------------------------------------
+SYG_STAAM     ------------------------------------------------------------
+SYG_UREPA     ------------------------------------------------------------
+SYG_MYCPN     ------------------------------------------------------------
+SYG_MYCGE     ------------------------------------------------------------
+SYG_STRCO     ------------------------------------------------------------
+SYG_MYCTU     ------------------------------------------------------------
+SYG_BORBU     ------------------------------------------------------------
+SYG_TREPA     ------------------------------------------------------------
+SYG_PYRAB     ------------------------------------------------------------
+SYG_ARCFU     ------------------------------------------------------------
+SYG_AERPE     ------------------------------------------------------------
+SYG_METKA     ------------------------------------------------------------
+SYG_METTH     ------------------------------------------------------------
+SYG_YEAST     ------------------------------------------------------------
+SYG_SCHPO     ------------------------------------------------------------
+SYG_CAEEL     RAAVKEYGDLIRDLKAK--------------------GAPKIDIDKAVVEL----KARKR
+SYG_HUMAN     RLAVRQQGDLVRKLKED--------------------KAPQVDVDKAVAEL----KARKR
+SYG_BOMMO     RANVKEQGDLVRKLKEE--------------------KAPEIDIKKAVAEL----KTRKK
+SYG_ARATH     SSSVEAQGNAVRALKAS--------------------RAAKPEIDAAIEQLNK-LKLEKS
+
+
+1h4q_A        -----------------------------------------------------KGLTPQS
+1nj8_A        -----------------------------------------------------------M
+SYP_METTH     -MQKPIKKDP------------------------------------------NRYHGEKM
+SYP_ARCFU     LMTLPS-----------------------------------------------------K
+SYP_BORBU     -MS--------------------------------------------------DFIASKE
+SYP_MYCLE     -MGCNK-----------------------------------------------RGVTRQE
+SYP_CLOST     -MAKKDQ-EF------------------------------------------VKDITNMD
+1evk_A        ------------------------------------------------------------
+SYT_PYRAB     ALRKEEEELV-----------SYWYILTPEGELIEVDKFDFTGYENLRKFVNYEIAKNRI
+SYT_METAC     EAAGEKEEVVSEALKAEGTARSYWRILTPDGELHEVETFDLTPYPKLQQFVNYEISKSRA
+1ati_A        ------------------------------------------------AASSLDELV---
+SYG_DEIRA     ------------------------------------------------PATSMEELV---
+SYG_STAAM     -------------------------------------------------AKDMDTIV---
+SYG_UREPA     ------RY----------------------------------------KFKTQEDLV---
+SYG_MYCPN     ------A-----------------------------------------QVYSQEVYV---
+SYG_MYCGE     ------A-----------------------------------------KVYNQEVYV---
+SYG_STRCO     ------------------------------------------------AADKIDTIV---
+SYG_MYCTU     ------HH---------------------------------------PVAPVIDTVV---
+SYG_BORBU     --------------------------------------------------VRMEDII---
+SYG_TREPA     ----------------------------------------------------MEKIV---
+SYG_PYRAB     ------GER----------------------------------------FDKYEYLQ---
+SYG_ARCFU     ---------------------------------------------------HMSEIM---
+SYG_AERPE     ------AE------------------------------------------DLFEKLV---
+SYG_METKA     ------TE------------------------------------------DVYERIM---
+SYG_METTH     ------IN------------------------------------------VNHERTM---
+SYG_YEAST     -MSV--EDIKKARA---------------------------------AVPFNREQLE---
+SYG_SCHPO     -MT----EVSKAAA------------------------------------FDRTQFE---
+SYG_CAEEL     LLED--TEIALAPK---------------------------------EASFDRLKLE---
+SYG_HUMAN     VLEA--KELALQPK---------------------------------DDIVDRAKME---
+SYG_BOMMO     ILED--KELSLAPA---------------------------------EDLFDRAKME---
+SYG_ARATH     TVEKELQSIISSSG---------------------------------NGSLNREAFRKAV
+
+
+1h4q_A        QDFSEWYLEVIQKAELADYG-PV-RGTIVVRPYGYAIWENIQQVLDRMFK---ETGHQNA
+1nj8_A        LEFSEWYSDILEKAEIYDVRYPI-KGCGVYLPYGFKIRRYTFEIIRNLLD---ESGHDEA
+SYP_METTH     TEFSEWFHNILEEAEIIDQRYPV-KGMHVWMPHGFMIRKNTLKILRRILD---RD-HEEV
+SYP_ARCFU     ENFSEWYHEVIQTAEIMDVRYPV-KGLYVWFPFGFKIRQLVYSKLREIMD---RE-HDEV
+SYP_BORBU     DDYSKWYLDIVQKAKLADYS-PV-KGCMVIMPYGYSIWSKIQSILDKKFK---ETGHENA
+SYP_MYCLE     DDFSAWYNEVVAKAGLIDRG-PA-KGTMVIRPYGYRIWELLQDELDSKIK---ELGHENA
+SYP_CLOST     EDFPQWYTDVITKTDLVDYS-PV-KGFMVIKPYGYAIWENIQAFLDRRFK---ETGHQNC
+1evk_A        ----RDHRKIGKQLDLYHMQEEA-PGMVFWHNDGWTIFRELEVFVRSKLK---EYQYQEV
+SYT_PYRAB     AEKEPPHVKLMLEHELVDYEPGSDPGNLRYYPKGRLIKSLLEQYVTEKVI---EYGAMEV
+SYT_METAC     VERAPPHVELMRRLELADYEPGSDSGNMRYYPKGRLVKSLLENYVLDVAT---EFGAMEV
+1ati_A        -ALCKRRGFIFQSSEIYG---GL-QGVYDYGPLGVELKNNLKQAWWRRNVYE-RDDMEGL
+SYG_DEIRA     -SLCKRRGFIFQGSEIYG---GL-QGFYDYGPLGVELKNNIKAAWWRSNVYE-RDDMEGL
+SYG_STAAM     -SLAKHRGFVFPGSDIYG---GL-SNTWDYGPLGVELKNNVKKAWWQKFITQ-SPFNVGI
+SYG_UREPA     -NHLKSVGFVFANSEIYN---GL-ANAWDYGPLGVLLKNNLKNLWWKEFVTK-QKNIVGL
+SYG_MYCPN     -QYLKRYGFVFQSSELYN---GL-ANSWDFGPLGAVLKQQIKTALYNFFIKN-KRDVLLI
+SYG_MYCGE     -QFLKQHGFVFQSSEIYN---GL-NNSWDFGPLGAVLKQQIKQALYNFFIKN-KADVLLV
+SYG_STRCO     -SLSKRRGFVFPCSEIYG---GQ-RAAWDYGPLGVELKENLKRQWWRYMVTS-REDVVGL
+SYG_MYCTU     -NLAKRRGFVYPSGEIYG---GT-KSAWDYGPLGVELKENIKRQWWRSVVTG-RDDVVGI
+SYG_BORBU     -SLAKRKGFVFQSSEVYG---GL-SGAWDYGPLGVELKKNIKKEWWKSMVYL-HENIVGL
+SYG_TREPA     -GLCKRRGFVFPSSEIYG---GQ-GGVWDYGPMGIALKNNIAHAWWQDMTRL-HDHIVGL
+SYG_PYRAB     -DLMRRRGFAWGSFEIYG---GS-RGFYDYGPLGATIKRKIEKKIREAFI---REGFFEI
+SYG_ARCFU     -EMLIRRGFLWQSFEIYG---GM-AGFIDYAPLGNNLRRKIENIWRKYFVI--NERAAEI
+SYG_AERPE     -EIGKRRGFFWPSYEIYG---GV-AGFYDWGPLGHLLKRRIIEKWRRYFVLMHQDHVVEI
+SYG_METKA     -EIARRRGFILPAFRIYG---GA-RGFYDYGPLGALLKRKIEEKWREYYVH--KEGFMEI
+SYG_METTH     -TVARKRGFLWSSFEIYS---GV-AGFVDYGPLGATLKNKIMNRWREFYVV--REGFYEI
+SYG_YEAST     -SVLRGRFFYAPAFDLYG---GV-SGLYDYGPPGCAFQNNIIDAWRKHFIL--EEDMLEV
+SYG_SCHPO     -ELMKKRFFFSPSFQIYG---GI-SGLYDYGPPGSALQSNLVDIWRKHFVI--EESMLEV
+SYG_CAEEL     -DLLKRRFFYDQSFAIYG---GV-TGLYDFGPMGCSLKANMLQEWRKHFIL--EEGMLEV
+SYG_HUMAN     -DTLKRRFFYDQAFAIYG---GV-SGLYDFGPVGCALKNNIIQTWRQHFIQ--EEQILEI
+SYG_BOMMO     -DLIKRRFFYDQSFAIYG---GI-TGQFDFGPMGCALKSNMIHLWKKFFIL--QEQMLEV
+SYG_ARATH     VNTLERRLFYIPSFKIYS---GV-AGLFDYGPPGCAIKSNVLSFWRQHFIL--EENMLEV
+
+
+1h4q_A        YFPLFIPMSFLR--------FSPELAVVTHAG----------------------------
+1nj8_A        LFPMLIPEDLLAKEAEHIKGFEDEVYWVTHGG----------------------------
+SYP_METTH     LFPLLVPEDELAKEAIHVKGFEDEVYWVTHGG----------------------------
+SYP_ARCFU     YFPALIPETELGKEGEHIKGFEDEVYWITHGG----------------------------
+SYP_BORBU     YFPMLIPYSFLEREKDHIDGFSPEFAIIKDAG----------------------------
+SYP_MYCLE     YFPMLIPENYFNREAEHVEGFHPELAVVTHAG----------------------------
+SYP_CLOST     YFPLLIPESLLNKEKEHVEGFAPEVAWVTHGG----------------------------
+1evk_A        KGPFMMDRVLWEKTG-HWDNYKDAMFTTSSE-----------------------------
+SYT_PYRAB     ETPIMYDFEHPALEK-YLNRFPARQYIVLSG-----------------------------
+SYT_METAC     ETPLMYDMNHPTLKK-YLDRFPARQYSIESD-----------------------------
+1ati_A        DASVLTHRLVLHYSG-HEATFADPMVDN--------------------------------
+SYG_DEIRA     DASIIMHRMVLRHSG-HEATFSDPMIDNKKNNKRYRLDHLLKDQ-KADV-----------
+SYG_STAAM     DAAILMNPKVWEASG-HLNNFNDPMIDNKDSKIRYRADKLIEDY-M--------------
+SYG_UREPA     DSAIILNPLVWKASG-HLDNFSDPLIDCKSCKTRYRADKLIESF----------------
+SYG_MYCPN     DTPIILNEQIWKASG-HLANFTDALVDCKSCKLRFRVDHLDEQI----------------
+SYG_MYCGE     ETPIILSELVWKASG-HLANFVDTLVDCKSCKYRFRVDQINAEI----------------
+SYG_STRCO     DSSVILAPEVWVASG-HVATFTDPLTECTSCHKRFRADHLEEAY----------------
+SYG_MYCTU     DSSIILPREVWVASG-HVDVFHDPLVESLITHKRYRADHLIEAY----------------
+SYG_BORBU     DSAIFMRPEIWRASG-HVDGFSDSMVDCKDCKSRFRADFIDLSK----------------
+SYG_TREPA     DAAILMHPNVWRTSG-HVDHFSDPLVDCTVCKSRFRADQVAVPS----------------
+SYG_PYRAB     ETPDITPEQVFIASG-HVEKFVDPIVECKKCGARFRADHLIEET----------------
+SYG_ARCFU     DTPTIGIEEVFIASG-HATSFTDVAIECENCGRVYRADHYVKEK----------------
+SYG_AERPE     ETPVIGPEKVYIASG-HVEHFTDPIVRCTSCGRTFRADHLVEEA----------------
+SYG_METKA     EAPNLLIGEVFEASG-HVEHFIDPMTHCSECGEFFRADHLAEEE----------------
+SYG_METTH     ESPTIMPEEALKASG-HVDHFNDPMTQCKECMDVYRADHIIEDA----------------
+SYG_YEAST     DCTMLTPYEVLKTSG-HVDKFSDWMCRDLKTGEIFRADHLVEEV-LEARLKGDQEARGLV
+SYG_SCHPO     DCSMLTPHEVLKTSG-HVDKFADWMCKDPATGEIFRADHLVEEV-LEARLKGDKEARG--
+SYG_CAEEL     DCTSLTPEPVLKASG-HVDRFADWMVKDMKNGECFRADHLIKNS-IEKLLNDKKTSAA--
+SYG_HUMAN     DCTMLTPEPVLKTSG-HVDKFADFMVKDVKNGECFRADHLLKAH-LQKLMSDKKCSVE--
+SYG_BOMMO     ECSILTPEPVLKASG-HVERFADLMTKDIKTGECFRLDHLIKGH-LEKIKSDKNTKIE--
+SYG_ARATH     DCPCVTPEVVLKASG-HVDKFTDLMVKDEKTGTCYRADHLLKDYCTEKLEKDLTISAE--
+
+
+1h4q_A        ------------------------------------------------------------
+1nj8_A        ------------------------------------------------------------
+SYP_METTH     ------------------------------------------------------------
+SYP_ARCFU     ------------------------------------------------------------
+SYP_BORBU     ------------------------------------------------------------
+SYP_MYCLE     ------------------------------------------------------------
+SYP_CLOST     ------------------------------------------------------------
+1evk_A        ------------------------------------------------------------
+SYT_PYRAB     ------------------------------------------------------------
+SYT_METAC     ------------------------------------------------------------
+1ati_A        ------------------------------------------------------------
+SYG_DEIRA     -------------------------------QAKVAEIMGESADNFAALVAALNAKPAQA
+SYG_STAAM     -----------------------------------QDVKGD--ENFIADGLSFE----QM
+SYG_UREPA     ------------------------------------NKDIHIAENSTNE---------EF
+SYG_MYCPN     -----------------------------------KSATQ--------------------
+SYG_MYCGE     -----------------------------------KAKKD--------------------
+SYG_STRCO     -----------------------------------EEKKGHAPENGLAD-----------
+SYG_MYCTU     -----------------------------------EAKHGHPPPNGLAD-----------
+SYG_BORBU     ------------------------------------------------------------
+SYG_TREPA     ------------------------------------------------------------
+SYG_PYRAB     --------------------------------------LGIDVEGKSAE---------EM
+SYG_ARCFU     --------------------------------------LGIEVD-ETVE---------AV
+SYG_AERPE     --------------------------------------LGINAEGLSVS---------EL
+SYG_METKA     --------------------------------------LGVDAEGMSPE---------EL
+SYG_METTH     --------------------------------------TGRDVEGLENQ---------EL
+SYG_YEAST     EDANAAAKDDAEKKKRKKKVKQIKAVKLDDDVVKEYEEILAKIDGYSGP---------EL
+SYG_SCHPO     QNSNDQPEESDDKKKRKKKVKEIRATRLDDKTVEEYEFILAQIDNYDGD---------QL
+SYG_CAEEL     -------------------------------VKQDGQDVLARLEGFDNK---------DM
+SYG_HUMAN     -------------------------------KKSEMESVLAQLDNYGQQ---------EL
+SYG_BOMMO     -------------------------------LKAEIEDILIKLDGMNAD---------EM
+SYG_ARATH     -------------------------------KAAELKDVLAVMEDFSPE---------QL
+
+
+1h4q_A        ------------------------------------GEELEEPLAVRPTSETVIGYMWSK
+1nj8_A        ------------------------------------KTQLDVKLALRPTSETPIYYMMKL
+SYP_METTH     ------------------------------------LSKLQRKLALRPTSETVMYPMFAL
+SYP_ARCFU     ------------------------------------LTPLDVKLALRPTSETAMYPMFRL
+SYP_BORBU     ------------------------------------GESLAEPLVLRPTSETIIWNMYSK
+SYP_MYCLE     ------------------------------------GKELSEPLVIRPTSETVIGDMMAK
+SYP_CLOST     ------------------------------------SEKLAERLCVRPTSETIICSMYSK
+1evk_A        ----------------------------------------NREYCIKPMNCPGHVQIFNQ
+SYT_PYRAB     ----------------------------------------DKRYFLRFAACFGQFMIKKD
+SYT_METAC     ----------------------------------------KRQMFLRFAACFGQFLMNHD
+1ati_A        -------------------WTPPRYFNMMFQDLRGPRGGRGLLAYLRPETAQGIFVNFKN
+SYG_DEIRA     SAAFKEAGVRDPFSGEVGEWTDPKPFNMMFRTTIGPVADEESYGYLRPETAQGIFTNFKN
+SYG_STAAM     KKIIDDEGIVCP-VSKTANWTEIRQFNLMFKTFQGVTEDSTNEIFLRPETAQGIFVNYKN
+SYG_UREPA     MKVLNDHKIFCP-TCKQFNWTDIRHFNLMFKTHQGVIEDPKNIVYLRPETAQGIFVNFKN
+SYG_MYCPN     ---WNPKQVNCPNC-KANNWSEVRDFNLLFQTEIGVVNSEKRLVYLRPETAQGIFINFKQ
+SYG_MYCGE     ---WNSFKVNCPNC-HNQNWSEVRDFNLLFQTEIGVVNNDKRLVFLRPETAQGSFINFKN
+SYG_STRCO     --------LNCPNCGNKGTFTEPKQFSGLLSTHLGPTQDSGSVAYLRPETAQGIFTNFAQ
+SYG_MYCTU     --------IRDPETGEPGQWTQPREFNMMLKTYLGPIETEEGLHYLRPETAQGIFVNFAN
+SYG_BORBU     ------N---CPNCKVGNNFTSPRSFNLMFKTHIGVVEDSSSEVYLRPETAQGIFVNFRN
+SYG_TREPA     ------AGGPCPQC--GGALTGVRNFNLMFSTHMGPTDERASLLYLRPETAQGIYVNYKN
+SYG_PYRAB     TKIIREHNIKCPEC--GGELGDVFYFNLMFETYIGPYKDKK--AYLRPETAQGIFVNFKR
+SYG_ARCFU     KEVMEVYDLKC-EC--GGRFKDPAPMNLMFSTTIGPGKGKK--GYLRPETAQGMFVDFKR
+SYG_AERPE     DRIIRERGLRCPVC--QGELGRVETFNLLFRTQIGPYEGSV--GYLRPELAQGIFVAFKR
+SYG_METKA     EDLIREHDLRCPEC--GGELAEVTEFNLMFDTNIGPKEGRT--GYLRPETAQAIFIQFKD
+SYG_METTH     TEIISDEGIRCPRC--GGHLTHVWSYNLMFQTLIGARGKKT--GYLRPETAQGIFIPFKR
+SYG_YEAST     GELMEKYDIGNPVT--GETLESPRAFNLMFETAIGPSGQLK--GYLRPETAQGQFLNFNK
+SYG_SCHPO     GELMKKYDIRNPAT--NGELETPRQFNLMFETQIGPSGGLK--GYLRPETAQGQFLNFSR
+SYG_CAEEL     HEVITRFNFKSPIT--GNDLTEPIAFNLMFPTQIGPTGDFK--AFLRPETAQGIFVNFKR
+SYG_HUMAN     ADLFVNYNVKSPIT--GNDLSPPVSFNLMFKTFIGPGGNMP--GYLRPETAQGIFLNFKR
+SYG_BOMMO     SALMKRFEMKSPIS--GNDLTPPIEFNLMFNTQIGPSGLVK--GFLRPETAQGIFVNFKR
+SYG_ARATH     GAKIREYGITAPDT--KNPLSDPYPFNLMFQTSIGPSGLIP--GYMRPETAQGIFVNFKD
+
+
+1h4q_A        WIR-SWRDLPQLLNQWGN-VVRWE-MRT-RPFLRTSEFL-WQEGHTAHATREEA------
+1nj8_A        WVK-VHTDLPIKIYQIVN-TFRYETKHT-RPLIRLREIMTFKEAHTAHSTKEEA------
+SYP_METTH     WVR-SHTDLPMRFYQVVN-TFRYETKHT-RPLIRVREITTFKEAHTIHATASEA------
+SYP_ARCFU     WVR-NHADLPLKVYQIVN-TFRYETKHT-RPLIRLREITSFKEAHTVHKDFEEA------
+SYP_BORBU     WIK-SYRDLPLKINQWAN-VVRWE-KRT-RPFLRTTEFL-WQEGHTAHATEEEA------
+SYP_MYCLE     WIT-SHRDLPLRLNQWSN-VVRWE-LRP-RMLLRTIEFL-WQEGHSAHIEKSDA------
+SYP_CLOST     WLT-SYRELPYLYNQWCS-VVRWE-KST-RPFLRTSEFL-WQEGHTLHETAEEA------
+1evk_A        GLK-SYRDLPLRMAEFGS-CHRNEPSGSLHGLMRVRGFT-QDDAHIFCTE-EQI------
+SYT_PYRAB     AII-SYRNLPLRMYELTRYSFRREKRGELSGLRRLRAFT-MPDMHTLAKDIEQA------
+SYT_METAC     MTI-SYKNLPLRMIEMTRYSFRKEQRGELVGLRRLRAFT-MPDMHTLCEDMNQA------
+1ati_A        VLDATSRKLGFGIAQIGK-AFRNEITPR-NFIFRVREFE-QMEIEYFVRPGED-------
+SYG_DEIRA     VVDSTSRRLPFGIAQIGK-AFRNEITPR-NFIFRVRELE-QMEIEFFVTPGTD-------
+SYG_STAAM     VQRSMRKKLPFGIGQIGK-SFRNEITPG-NFIFRTREFE-QMELEFFCKPGEE-------
+SYG_UREPA     VQRSMRLHLPFGIAQIGK-SFRNEITPG-NFIFRTREFE-QMEIEFFLKEEIA-------
+SYG_MYCPN     LLQLKKRPLPFGVAQFGK-SFRNEVTPG-NFLFRVREFE-QFEMEWFCNPQAS-------
+SYG_MYCGE     ILQAKKRNLPFAIAQFGK-SFRNEITPG-NFLFRTREFE-QFEIEWFCKPDDA-------
+SYG_STRCO     VQTTSRRKPPFGIAQMGK-SFRNEITPG-NFIFRTREFE-QMEMEFFVKPGED-------
+SYG_MYCTU     VVTTARKKPPFGIGQIGK-SFRNEITPG-NFIFRTREFE-QMEMEFFVEPATA-------
+SYG_BORBU     VLDSSRLKIPFGIAQVGK-AFRNEIVTK-NFIFRTCEFE-QMEMQFFVHPKQI-------
+SYG_TREPA     VLQTTRLKVPFGIAQIGK-AFRNEIVTK-NFIFRTCEFE-QMEMQFFVRPAED-------
+SYG_PYRAB     LNAFARNKLPFGVFQIGK-AYRNEISPR-QGMIRLREFT-QAEVEIFFNPNET--EHPHF
+SYG_ARCFU     LANFFREKLPFGVAQIGR-AYRNEISPR-QGVIRLREFN-QAELEFFVHPGEK--KHPHF
+SYG_AERPE     VYEAMRSRIPLGIAQVGR-VGRNEISPR-QALVRLREFT-IMEMEYFIDPEDQWGSCPFF
+SYG_METKA     LYRWARQKLPFGVVQIGR-AYRNEISPR-QGVIRLREFT-QAEAEVFFDPEEK--EYPGF
+SYG_METTH     LLRFFRNRLPFGVVQLGK-SYRNEISPR-QGVIRLREFT-QAEAEIFVDPEHK--THPDF
+SYG_YEAST     LLEFNNSKTPFASASIGK-SFRNEISPR-AGLLRVREFL-MAEIEHFVDPLDK--SHPKF
+SYG_SCHPO     LLEFNNGKVPFASAMVGK-AFRNEISPR-SGLLRVREFL-MAEVEHFVDPKNK--EHDRF
+SYG_CAEEL     LLEFNQGKLPFAAAQIGL-GFRNEISPR-QGLIRVREFT-MCEIEHFVDPEDK--SLAKF
+SYG_HUMAN     LLEFNQGKLPFAAAQIGN-SFRNEISPR-SGLIRVREFT-MAEIEHFVDPSEK--DHPKF
+SYG_BOMMO     LLEFNQGRLPFAAAQIGN-SFRNEISPR-SGLLRVREFT-MCEIEHFCDV--K--EHPKF
+SYG_ARATH     LYYYNGKKLPFAAAQIGQ-AFRNEISPR-QGLLRVREFT-LAEIEHFVDPENK--SHPKF
+
+
+1h4q_A        --------------------------------------EEEVRRMLSIYARLAREYAAIP
+1nj8_A        --------------------------------------ENQVKEAISIYKKFF-DTLGIP
+SYP_METTH     --------------------------------------EEQVERAVEIYKEFF-NSLGIP
+SYP_ARCFU     --------------------------------------AEHVKKAIGFYKEFY-DFLAIP
+SYP_BORBU     --------------------------------------LEETLLILDVYKRFIEDYLAIP
+SYP_MYCLE     --------------------------------------LRETLFALDIYTTLARDMAAIP
+SYP_CLOST     --------------------------------------QAETLQMLAIYKEMAEDLLAIP
+1evk_A        --------------------------------------RDEVNGCIRLVYDMY-STFGFE
+SYT_PYRAB     --------------------------------------KEEFKKQFKLSMEVL-EGVGLT
+SYT_METAC     --------------------------------------VSQFKEQYDLCIDVL-ENVGIH
+1ati_A        --------------------------------------EYWHRYWVEERLKWW-QEMGLS
+SYG_DEIRA     --------------------------------------EEWHEHWLEKRLKWW-EDQGVP
+SYG_STAAM     --------------------------------------IEWQNYWKTFASDWL-TSLNMS
+SYG_UREPA     --------------------------------------YDVFDKYLNQIQNWLVTCCGLD
+SYG_MYCPN     --------------------------------------LSVFESQQQAIAHFLFKVLQLN
+SYG_MYCGE     --------------------------------------NSLFEKQLIMVEQFLQTVLKIN
+SYG_STRCO     --------------------------------------EKWQEYWMEQRWNWY-TGLGLR
+SYG_MYCTU     --------------------------------------KEWHQYWIDNRLQWY-IDLGIR
+SYG_BORBU     --------------------------------------DEWFCYWQQNRMNFFIETLKIS
+SYG_TREPA     --------------------------------------THWFEYWCAQRWAFY-QKYGVR
+SYG_PYRAB     DEVKHEKLRLYPIENQLKDLG-MIELTAEEAVKKGYLMNTFFAYYLVMIKKIL-LDIGIP
+SYG_ARCFU     SLYAKDVVKLVDKFDSQH------EITLEEAVEKGIIANQILAYFIGKTRRFL-LEIGIK
+SYG_AERPE     HRMADSKLPILTYEAKRRGEEKPESFKLEEAVNEGVVISPCLGYWMAVGMRFV-EDLGVP
+SYG_METKA     ERYADEVLKFYPIEEQRKENGEMLEMSVREAVEEGMVSQPI-GYFLGLTKRML-NEMGVP
+SYG_METTH     EEVKEDILRLYPAGRQMEESG-TVDMTAAEALEAGVISSEVLTYHLCLAKRFL-MDIGIP
+SYG_YEAST     NEIKDIKLSFLPRDVQEAGSTEPIVKTVGEAVASRMVDNETLGYFIARIYQFL-MKIGVD
+SYG_SCHPO     DEVSHMPLRLLPRGVQLEGKTDILEMPIGDAVKKGIVDNTTLGYFMARISLFL-EKIGID
+SYG_CAEEL     AKVADQKLVLFSACNQLDGAPAQEV-AIGEAVAKKTVANETLGYYMARCHQFL-MKVGID
+SYG_HUMAN     QNVADLHLYLYSAKAQVSGQSARKM-RLGDAVEQGVINNTVLGYFIGRIYLYL-TKVGIS
+SYG_BOMMO     ESVKNTQSLLYSADNQEQGKPADLT-TIGDAVCKGIVNNETLGYFMARIHMYM-LAVGID
+SYG_ARATH     SDVAKLEFLMFPREEQMSGQSAKKL-CLGEAVAKGTVNNETLGYFIGRVYLFL-TRLGID
+
+
+1h4q_A        VIEGLKTEK-------------------------------EKFAGAV--YTTTIEALMKD
+1nj8_A        YLISKRPEW-------------------------------DKFPGAE--YTMAFDTIFPD
+SYP_METTH     YLITRRPPW-------------------------------DKFPGSE--YTVAFDTLMPD
+SYP_ARCFU     YMVIRRPEW-------------------------------DKFPGAA--YTIAFDTIMPD
+SYP_BORBU     VFCGKKSEK-------------------------------EKFAGAV--STYSIEALMQD
+SYP_MYCLE     IVSGEKTAG-------------------------------ERFAGAL--NTYTIEAMMRD
+SYP_CLOST     VVDGRKSDR-------------------------------ERFAGAA--ATYTIEALMHD
+1evk_A        KIVVKLSTRPEKRIGSDEMWDRAEADLAVALEENNIPFEYQLGEGAF--YGPKIEFTLYD
+SYT_PYRAB     PEDYEVAIR-----FTEDFWKEHKDFIVELVKLIGKPVLIEMWKQRFFYFILKFEFNFVD
+SYT_METAC     IDDYEVAIR-----FTRDFYESNKELVVNMAKTVNKPVLVEMWDTRFFYFVLKFEFNFVD
+1ati_A        RENLVPYQQPPE----------------------------SSAHYAK--ATVDILYRF-P
+SYG_DEIRA     REKIEILDVPKE----------------------------DLAHYSK--RTYDLMYDY-P
+SYG_STAAM     SENMRLRDHDED----------------------------ELSHYSN--ATTDIEYKF-P
+SYG_UREPA     LNNLRKHEHPKE----------------------------ELSHYSK--KTIDFEYNF-L
+SYG_MYCPN     PALVKQYEYDKN----------------------------ELAHYAN--KTVDFLFQF-P
+SYG_MYCGE     PELLKKHEYDQS----------------------------ELAHYAK--KTTDFLFNF-P
+SYG_STRCO     EENMRWYEHPAE----------------------------KLSHYSK--RTADIEYRF-S
+SYG_MYCTU     RENLRLWEHPKD----------------------------KLSHYSD--RTVDIEYKF-G
+SYG_BORBU     PDRLRFKAHDST----------------------------QLAHYAK--AAFDIEYEF-P
+SYG_TREPA     MNHMRWRTHAAH----------------------------ELAHYAR--AACDIEYAF-P
+SYG_PYRAB     EDKIRFRQQLPE----------------------------ERAHYSA--DTWDAEVYSER
+SYG_ARCFU     DEKLRFRQHKDV----------------------------ERAHYAT--DCWDAEVLT-S
+SYG_AERPE     SDSIMFEEKGPE----------------------------ERAHYSS--QTFDQLVKVSR
+SYG_METKA     NEAIRSRQHLPE----------------------------ERAHYAS--DCWDVEVKLER
+SYG_METTH     EDALRFRQHLPS----------------------------EMAHYAI--DCWDVEAFTDS
+SYG_YEAST     ESKLRFRQHMAN----------------------------EMAHYAA--DCWDGELKT-S
+SYG_SCHPO     MNRVRFRQHMSN----------------------------EMAHYAC--DCWDAEIQC-S
+SYG_CAEEL     GRRLRFRQHLSN----------------------------EMAHYAQ--DCWDAEILT-S
+SYG_HUMAN     PDKLRFRQHMEN----------------------------EMAHYAC--DCWDAESKT-S
+SYG_BOMMO     PKRLRFRQHMGN----------------------------EMAHYAC--DCWDAECLS-S
+SYG_ARATH     KERLRFRQHLAN----------------------------EMAHYAA--DCWDAEIES-S
+
+
+1h4q_A        --GKALQAGTSHYLGENFARAFDIKFQDR-------------------------------
+1nj8_A        --GRTMQIATVHNLGQNFSKTFEIIFETP-------------------------------
+SYP_METTH     --GKTLQIGTVHNLGQTFARTFEIKFETP-------------------------------
+SYP_ARCFU     --GRTLQIGTVHHLADNFARTFDIKYEAP-------------------------------
+SYP_BORBU     --KKALQAATSHYLGLNFAKAFDVKFQDK-------------------------------
+SYP_MYCLE     --GKALQSATTHYLGDNFARAFNIRYTTA-------------------------------
+SYP_CLOST     --GKALQSGTSHNLAQHFTKAFDITFQGR-------------------------------
+1evk_A        CLDRAWQCGTVQ-LDFSLPSRLSASYVGE-------------------------------
+SYT_PYRAB     NLDKAAALSTVQ-IDVENAERFGITYYDE-------------------------------
+SYT_METAC     ALAKASALSTVQ-IDVENAERYDISYVNA-------------------------------
+1ati_A        H-G------SLELEGIAQRTDFDLGSHTKDQEALGITARVLRNEHSTQRLAY--------
+SYG_DEIRA     TLG------HEEIEGIANRSDYDLGSHTKSQSELGLVAKVEENNDSIAKLTI--------
+SYG_STAAM     F-G------WGELWGIASRTDFDLRKHAE---------------HSGEDFRY--------
+SYG_UREPA     H-G------FSELYGIAYRTNYDLSVHMN---------------LSKKDLTY--------
+SYG_MYCPN     H-G------LRELWGLADRGTFDLEQHQK---------------YAKKPLDF--------
+SYG_MYCGE     H-G------LKELWGLANRGDFDLKQHQE---------------FSKKSMSF--------
+SYG_STRCO     F-GGS---EWGELEGVANRTDYDLSSHAK---------------ASGQDLSY--------
+SYG_MYCTU     F-MGN---PWGELEGVANRTDFDLSTHAR---------------HSGVDLSF--------
+SYG_BORBU     F-G------FQEVEGIHNRGNYDLTQHAK---------------FSNKPKVFE-------
+SYG_TREPA     M-G------FRELEGVHNRGDFDLTRHAQ---------------HSGKDLCYV-------
+SYG_PYRAB     F-G------WVECVGLAYRTDYDLSRHMK---------------MSGADLTVMIHYDKPK
+SYG_ARCFU     Y-G------WIEVVGIADRTNYDLKRHSK---------------FSGEDLSVFVPYEEPV
+SYG_AERPE     W-G------WIEVAGHSYRGDYDLSRHMK---------------YSGQDLTAFKPYPKPI
+SYG_METKA     F-G------WVEVVGIADRTDYDLKKHSE---------------HSGEDLRAFRELEEPK
+SYG_METTH     Y-G------WIEIIGIADRTDYDLRSHSQ---------------HSGEDLRVFIEYDEPR
+SYG_YEAST     Y-G------WIECVGCADRSAYDLTVHSK---------------KTKEKLVVRQKLDNPI
+SYG_SCHPO     Y-G------WIECVGCADRSAYDLSVHSK---------------ATKTPLVVQEALPEPV
+SYG_CAEEL     Y-G------WIECVGNADRACYDLQQHYK---------------ATNVKLVAEKKLPEPV
+SYG_HUMAN     Y-G------WIEIVGCADRSCYDLSCHAR---------------ATKVPLVAEKPLKEPK
+SYG_BOMMO     Y-G------WIECVGCADRSAYDLTQHTK---------------ATGIRLAAEKKLPAPK
+SYG_ARATH     Y-G------WIECVGIADRSAYDLRAHSD---------------KSGTPLVAEEKFAEPK
+
+
+1h4q_A        ------------------------------------------------------------
+1nj8_A        ------------------------------------------------------------
+SYP_METTH     ------------------------------------------------------------
+SYP_ARCFU     ------------------------------------------------------------
+SYP_BORBU     ------------------------------------------------------------
+SYP_MYCLE     ------------------------------------------------------------
+SYP_CLOST     ------------------------------------------------------------
+1evk_A        ------------------------------------------------------------
+SYT_PYRAB     ------------------------------------------------------------
+SYT_METAC     ------------------------------------------------------------
+1ati_A        ------------------------------------------------------------
+SYG_DEIRA     ------------------------------------------------------------
+SYG_STAAM     ------------------------------------------------------------
+SYG_UREPA     ------------------------------------------------------------
+SYG_MYCPN     ------------------------------------------------------------
+SYG_MYCGE     ------------------------------------------------------------
+SYG_STRCO     ------------------------------------------------------------
+SYG_MYCTU     ------------------------------------------------------------
+SYG_BORBU     ------------------------------------------------------------
+SYG_TREPA     ------------------------------------------------------------
+SYG_PYRAB     IVKRLKVSLNMKSVGPKLKKDAKRINEKIQAMSEEEL-RELVKKLNEEGKIVI-----DG
+SYG_ARCFU     KVKRRKIVPILSKLGPEFRQKAKKVAEALEALNVEADLDEVEVEVDGE------------
+SYG_AERPE     VVKKRRVVVDKAAIGRALKSRAKTVLEELGRMGEGEL-----ERLAASNRAVV-----AG
+SYG_METKA     IVYRP--EPVMKELGPRFKSDAPKIAEALRRITAESE-DELKGGLTVE---VD-----GK
+SYG_METTH     RIRKRAVKPDMGKLGPKFRKDAARIASALSEVDVE----EIEKALDEEGRFIL-----EG
+SYG_YEAST     EVTKWEIDLTKKLFGPKFRKDAPKVESHLLNMSQDDL-ASKAELLKANGKFTIKVD--GV
+SYG_SCHPO     VVEQFEVEVNRKKFGPRFKRDAKAVEEAMISWPESEK-VEKSAQLVAEGKIIVNVN--GV
+SYG_CAEEL     DVNFVEAQANMALLGKSFKKDAKKIQTSLQQLTSEQV-SALEEELLAKKLYNLSVD--GQ
+SYG_HUMAN     TVNVVQFEPSKGAIGKAYKKDAKLVMEYLAICDECYI-TEMEMLLNEKGEFTIETE--GK
+SYG_BOMMO     QIEVVEAIANNGRIGKAFKKDSQAINDTLATLDNAAL-EEMQKELDSNGEYTLITA--RG
+SYG_ARATH     EVEKLVITPVKKELGLAFKGNQKNVVESLEAMNEEEA-MEMKATLESKGEVEFYVCTLKK
+
+
+1h4q_A        ----------------------DLQVKY---VHTTSWGLSWRFIGAIIMTHG--------
+1nj8_A        ----------------------TGDKDY---AYQTCYGISDRVIASIIAIHG--------
+SYP_METTH     ----------------------EGDHEY---VHQTCYGLSDRVIASVIAIHG--------
+SYP_ARCFU     ----------------------NGEHYY---AHQTCYGISERCIAALISVHG--------
+SYP_BORBU     ----------------------DGKMRH---VFASSWGVSTRLIGALIMVHS--------
+SYP_MYCLE     ----------------------EEQQAF---VHTTSFGLSTRMIGAIVMVHG--------
+SYP_CLOST     ----------------------TGELEY---PHHTSWGASTRLIGGIIMVHG--------
+1evk_A        ----------------------DNERKVPVMIHRAILGSMERFIGILTEEFA--------
+SYT_PYRAB     ----------------------NGEEKYPLILHCSPSGAIERVMYAILEKQAK-------
+SYT_METAC     ----------------------DGKLERPIVLHCSPSGAIERCIYALLEKAAM-------
+1ati_A        ----------------RDP---ETGKWFVPYVIEPSAGV-DRGVLALLAEAFTREELP--
+SYG_DEIRA     ----------------PHP---ETNKPVVPFVIEPSAGV-DRAMLAVLSEAFTKETLE--
+SYG_STAAM     ----------------HDP---ETNEKYIPYCIEPSLGA-DRVTLAFLCDAYDEE-----
+SYG_UREPA     ----------------FDE---ETKQKYIPHVIEPSVGV-ERLLYAILTEATFIEKLA--
+SYG_MYCPN     ----------------FDG---ENNEHFIPAVVEPSVGI-ERLFYALIVSSYQQEQLE--
+SYG_MYCGE     ----------------FDS---ELNQHFLPFIIEPAVGI-ERLFYALIVSSYRREIIN--
+SYG_STRCO     ----------------YDQ---EAQERWTPYVIEPAAGV-GRAMLAFLLDAYIEDEAP--
+SYG_MYCTU     ----------------YDQ---INDVRYTPYVIEPAAGL-TRSFMAFLIDAYTEDEAP--
+SYG_BORBU     ---------------YHDL---LTKEKYVPYVIETSAGL-TRSVLMTLCDAYSEEELS--
+SYG_TREPA     ---------------DPDPNLDAAARRYVPCVVETSAGL-TRCVLMFLCDAYTEEYVQAP
+SYG_PYRAB     -YELSKD--DFIIKEVEEK---VTGEKIIPHVLEPSFGI-DRPFYLLLENSL---T----
+SYG_ARCFU     KVKVTKE--FFEIQEVEEE---VTGEKVIPHVIEPSFGL-DRITYSVLEHAFDKDV----
+SYG_AERPE     -VELPPG--SLRIVEVEEK---VSGRRFVPHVVEPSFGT-DRNVYVALEYAY--------
+SYG_METKA     EVEVPPE----CYEIVKEK---VTGERFYPHVIEPSYGI-DRILYCVLEHNF--------
+SYG_METTH     EFEILPD--DVSFEDVEEV---VTGRKVYPHVIEPSFGI-DRIIYTLLLHSL--------
+SYG_YEAST     DGEVELDDKLVKIEQRTKV---EHVREYVPSVIEPSFGI-GRIIYSVFEHSFWNRP----
+SYG_SCHPO     EHTVESD--LVTIEKRKHT---EHIRTYTPNVIEPSFGL-GRILYVLMEHAYWTRP----
+SYG_CAEEL     NYALTPE--HLNIKKYTKK---IHVQEITPSVIEPSYGI-GRIMYALLEHSFRQRE----
+SYG_HUMAN     TFQLTKD--MINVKRFQKT---LYVEEVVPNVIEPSFGL-GRIMYTVFEHTFHVRE----
+SYG_BOMMO     EFKLTPS--LVNVKKTQKT---IHVEEIIPSVIEPSFGV-GRILYCILEHNFRMRE----
+SYG_ARATH     SVNIKKN--MVSISKEKKK---EHQRVFTPSVIEPSFGI-GRIIYCLYEHCFSTRPS---
+
+
+1h4q_A        ---------------------DDRGLVLPPRLAPIQVVIVPIYK--DESRERVLEAAQGL
+1nj8_A        ---------------------DEKGLILPPIVAPIQVVIVPLIF--KGKEDIVMEKAKEI
+SYP_METTH     ---------------------DESGLCLPPDVAAHQVVIVPIIF--KKAAEEVMEACREL
+SYP_ARCFU     ---------------------DDLGLVLPFEVAPVQIVIIPILY--KGKEEAVMEACRKL
+SYP_BORBU     ---------------------DEKGLVLPPRIAPIEIIVIPIFKKEDEINKKILDYSDCV
+SYP_MYCLE     ---------------------DDKGLVLPPQVAPYQVVIVPITT--GNKASEVGHAAADL
+SYP_CLOST     ---------------------DNRGLVLPPRVAPTQVVIIPIAQ--N--KEGVLDKAYEI
+1evk_A        -------------------------GFFPTWLAPVQVVIMNI-------TDSQSEYVNEL
+SYT_PYRAB     ------------------LMNEGKKPMFPLWLSPIQVRVIPV-------SEEYLDYALYV
+SYT_METAC     ------------------ETEEGKVPMLPVWLSPTQVRIVPI-------SEKHLAFAEEV
+1ati_A        ------------------NGEERIVLKLKPQLAPIKVAVIPLVKN----RPEITEYAKRL
+SYG_DEIRA     ------------------NGNERIVLKLKPHLAPIKVAVIPLARN----REEITDVAKAI
+SYG_STAAM     --------------GVEGSKDARTVLHFHPALAPYKAAILPLSK-------KLSGEAIKI
+SYG_UREPA     --------------ND----EDRILMNLKYDLAPYKIAVMPLVN-------KLKEKAEAV
+SYG_MYCPN     -------------------GEMREVLRLPFHLCPEQIVVLPLVN-------KLKETAQTL
+SYG_MYCGE     -------------------EEEREVLSLPFDLCPEQIIVLPLVN-------KLKKEAFSV
+SYG_STRCO     --------------NAKGKLEKRTVLRLDPRLSPVKVAVLPLSRN-----PELSPKAKGL
+SYG_MYCTU     --------------NTKGGMDKRTVLRLDPRLAPVKAAVLPLSRH-----ADLSPKARDL
+SYG_BORBU     ------------------DGDKRIVLRLHPKLAPYKIAIFPLVKK-----VELTEIARRI
+SYG_TREPA     NVAFSETTQTADQEGAARTGEMRIVLRLHPALSPTTVAFLPLVKK-----DGLVDLARAV
+SYG_PYRAB     -----------------IDEDGRIYLKIKKDMAPIEVAVLPLVAK-----EPLTKIAYDL
+SYG_ARCFU     -----------------VDGEERRVLRLKRWVSPIEVAVLPLLSR-----EPFESKGMEI
+SYG_AERPE     -----------------REVEGRVVLAFPRDIAPVQAVVLPLVEN----DEKLVERARMV
+SYG_METKA     -------------------DPEEGVFRFPAWLAPIEVGVFPLLKR-----SDMVEYARRV
+SYG_METTH     -----------------VDDGERTYFRLPPHVAPVEVTVLPLVNR-----EEMVMTALEI
+SYG_YEAST     ------------------EDNARSVLSFPPLVAPTKVLLVPLSNH-----KDLVPVHHEV
+SYG_SCHPO     ------------------EDVNRGVLSFPASIAPIKALIVPLSRN-----AEFAPFVKKL
+SYG_CAEEL     ------------------GDEQRTFLAFKPLVAPIKCSVLPISAN-----DTLIPVMDAV
+SYG_HUMAN     ------------------GDEQRTFFSFPAVVAPFKCSVLPLSQN-----QEFMPFVKEL
+SYG_BOMMO     ------------------GDEQRTYFSLPPTVAPMKCVVLPLSGN-----AEFQPFVRDL
+SYG_ARATH     ----------------KAGDEQLNLFRFPPLVAPIKCTVFPLVQN-----QQFEEVAKVI
+
+
+1h4q_A        RQA-LLAQGLRVHLDDRDQHTPGYKFHEWELKGVPFRVELGPKDLEG--G---------Q
+1nj8_A        YEK-LKGK-FRVHIDDR-DIRPGRKFNDWEIKGVPLRIEVGPKDIEN--K---------K
+SYP_METTH     RSR-LEAAGFRVHLDDR-DIRAGRKYYEWEMRGVPLRVEIGPRDLEK--G---------A
+SYP_ARCFU     AEK-LKA--FRVVLDEG-EDRPGAKYYKWELKGVPIRFEIGPRDAEK--G---------V
+SYP_BORBU     VDA-LKKAEFRVEIDKDVRSSPGFRFSSAEFKGIPIRLEVGINDVLL--N---------S
+SYP_MYCLE     ARR-LQAAGVRTHVDARPQLTPGWKYNEWELRGVPIRLELGPRDLEA--G---------T
+SYP_CLOST     KKE-LEAKGIRVTLDDDTNYSPGWKFNQYEMKGVPLRLEIGPRDIEN--N---------V
+1evk_A        TQK-LSNAGIRVKADLR-NEKIGFKIREHTLRRVPYMLVCGDKEVES--G---------K
+SYT_PYRAB     AGK-LEGAKIRVDVDDE-DERLNKKIRRAEKEWIPYIVVVGAREKEN--G---------T
+SYT_METAC     SKK-LD---CRVDIDDR-DLSIGKKVREAGREWVPYVVVIGDKEMEE--G---------T
+1ati_A        KARLLALGLGRVLYEDT--GNIGKAYRRHDEVGTPFAVTVDYDTIGQ--SKDGTTRLKDT
+SYG_DEIRA     KAELQGLGLGRVLYEDS--GNIGKAYRRHDEVGTPYCVTVDFDTVGL--GENTDESLKDT
+SYG_STAAM     FEQ-LSS-KFSIDFDES--QSIGKRYRRQDEIGTPYCVTFDFDSLED--N---------Q
+SYG_UREPA     YNKILDL-NISVTFDNS--GSIGKRYRRQDAIGTIYCITIDYDSFGD--EHD------PT
+SYG_MYCPN     FEA-LSQTHWRIGFESA--GSIGKRYRKADAIGTKFAITFDFESLED--Q---------A
+SYG_MYCGE     FET-LAKTRWRVCFETT--GSIGKRYRKADAIGIKYAVTFDFESLED--N---------A
+SYG_STRCO     AQA-LRQ-NWNIEFDDA--GAIGRRYRRQDEIGTPFCVTVDFDTLDD--N---------A
+SYG_MYCTU     GAE-LRK-CWNIDFDDA--GAIGRRYRRQDEVGTPFCVTVDFDSLQD--N---------A
+SYG_BORBU     YME-LCD-DFHIFYDDS--GTIGKRYRRQDEIGTPYCVTIDYNTIED--E---------T
+SYG_TREPA     RDE-LRE-DFACDFDAA--GAIGKRYRRQDEVGTPFCVTVDYQSKED--D---------T
+SYG_PYRAB     FRK-LQKEGFIVVYDEK--DSIGKRYMRYDEIGTPYCVTIDNQTPID--G---------T
+SYG_ARCFU     VQM-LREEGIFTDYDDS--GSIGRRYRRFDEIGTPFCVTVDHQTFED--E---------T
+SYG_AERPE     YET-LVEAGFTVYYDDS--GSIGRRYARADEIGVPAAVTIDYQTLED--G---------T
+SYG_METKA     ARM-LREEGFTVEYDDS--GSIGRRYARADEIGVPYCVTVDHETLED--D---------T
+SYG_METTH     ERN-LRRSGFIAEFDSS--GTIGRRYARADEIGVPFAVTVDHETLED--G---------T
+SYG_YEAST     AKI-LRKSQIPFKIDDS-GVSIGKRYARNDELGTPFGVTIDFESAKD--H---------S
+SYG_SCHPO     SAK-LRNLGISNKIDDS-NANIGRRYARNDELGTPFGLTVDFETLQN--E---------T
+SYG_CAEEL     KEE-LSRFEMSYKVDDS-SGTIGRRYARTDEIGIPFGITVDFDSLKTTPF---------T
+SYG_HUMAN     SEA-LTRHGVSHKVDDS-SGSIGRRYARTDEIGVAFGVTIDFDTVNKTPH---------T
+SYG_BOMMO     SQE-LITVDVSHKVDDS-SGSIGRRYARTDELGVPYAVTVDFDTI-KEPH---------T
+SYG_ARATH     SKE-LASVGISHKIDIT-GTSIGKRYARTDELGVPFAITVDSDT---------------S
+
+
+1h4q_A        AVLASRLG---GK-----ETLPLAALPE-ALPGKLDAFHEELYRRALAFREDHTRKV---
+1nj8_A        ITLFRRDT--MEK-----FQVDETQLME-VVEKTLNNIMENIKNRAWEKFENFITIL---
+SYP_METTH     AVISRRDT--GEK-----VTADLQGIEE-TLRELMKDILENLRTRAWERMESEIREA---
+SYP_ARCFU     AVVSFRDE--KRK-----FEVPLDEVDEGKVLEWARELKQRLRNAAAERMAEKVKFV---
+SYP_BORBU     VTISRRDKDRKFK-----YQISLDSLIS-KVKVELDLMQKDLFQRALNFRILNTKEIFRS
+SYP_MYCLE     TVMVRRIGE-KAK-----QPIAIAAAPT-ELPGILEEFQRTLLERATQFRDDHTTLV---
+SYP_CLOST     AMIARR-DT-LSK-----DSYSLDNIGD-TVKNLLDTVHTDMLERARAHRDSKTFTF---
+1evk_A        VAVRTRRG--KDL-----GSMDVNEVIE--------KLQQEIRSRSLKQLEE--------
+SYT_PYRAB     ITVRRRED--GKQ-----YETRIEELIK--------EIKEKTEGFPYKPRPLPLLLSKR-
+SYT_METAC     INVTVRAE--SEQNKPSKVQITPEELNA--------RIRGEIAGKPYRKLPLAKYLSAR-
+1ati_A        VTVRDRDT--MEQ-----IRLHVDELEG--------FLRERLRW----------------
+SYG_DEIRA     VTVRDRDT--LAQ-----ERVKISELAG--------WIQAKLR-----------------
+SYG_STAAM     VTVRDRDS--MEQ-----VRMPISELEA--------FLTEKTK-F---------------
+SYG_UREPA     FTIRERNT--MAQ-----KRIKLSELSL--------YLSQKAHEDF--------------
+SYG_MYCPN     VTIRERDS--LKQ-----VRVPIKELKA--------WFAQHDDQS---------------
+SYG_MYCGE     VTIRDRDT--LVQ-----QRIAIKELPQ--------WFMKNGQ-----------------
+SYG_STRCO     VTVRERDT--MKQ-----ERVSLDQIEG--------YLASRLVGC---------------
+SYG_MYCTU     VTVRERDA--MTQ-----DRVAMSSVAD--------YLAVRLKGS---------------
+SYG_BORBU     VTVRERNS--MTQ-----KRIFINDLYS--------YIKTEILNY---------------
+SYG_TREPA     VTVRLRDS--MAQ-----RRVSRAFLAE--------FLRTEIKHY---------------
+SYG_PYRAB     VTIRDRDT--REQ-----IRVKLEDVPR--------KLKELIFGS---------------
+SYG_ARCFU     VTIRDRDT--TAQ-----VRVKLGELPS--------ILKELLRSEKD-------------
+SYG_AERPE     VTLRDRDT--WRQ-----VRIGADEVVD--------KLRRFIYDGAR-------------
+SYG_METKA     VTIRDRDT--TEQ-----VRVEVDELAD--------VLRGLIDGDLE-------------
+SYG_METTH     VTLRNRDD--CSQ-----VRVKIEELVP--------TLEKLRG-----------------
+SYG_YEAST     VTLRERDS--TKQ-----VRGSVENVIK--------AIRDITYNGAS-------------
+SYG_SCHPO     ITLRERDS--TKQ-----VRGSQDEVIA--------ALVSMVEGKSS-------------
+SYG_CAEEL     VTIRHAET--MSQ-----IRLEVSELGR--------LISDLVAGRQQ-------------
+SYG_HUMAN     ATLRDRDS--MRQ-----IRAEISELPS--------IVQDLANGNIT-------------
+SYG_BOMMO     VTLRERDS--MRQ-----VRLPMADVPT--------VVRDLSNSKIL-------------
+SYG_ARATH     VTIRERDS--KDQ-----VRVTLKEAAS--------VVSSVSEGKMT-------------
+
+
+1h4q_A        --DTY--EAFKEAVQE--GFALAFHCGDKACERLIQEETTATTRCVP----FEAEPEEG-
+1nj8_A        --EDINPDEIKNILSEKRGVILVPF-KEEIYNEELEEKVEATILGETE-------YKGN-
+SYP_METTH     --ETL--EEASRIVDEKRGIISFMWCGEEECGMDVEEKVRVDILGIQE-------EGSG-
+SYP_ARCFU     --ENT--GE----IEEWGGVVAVYLCSDEDCGHSVEEHGKSLLGWFEEVPDWLDLEPEG-
+SYP_BORBU     SKDSY--ETFKAYVNDYSGFVLSCWCGSLNCENIIKNETKATIRCIPD--DFKARDLTGM
+SYP_MYCLE     --DNW--DAFATTVAT--GWALAIHCGNPECEEDIKAETAATPRCVP----RQGAPATG-
+SYP_CLOST     --KDY--EEFKRKMIETPGFAKGMWCGEEECEAKIKEDTGVTIRCIP----FVQENLGE-
+1evk_A        ------------------------------------------------------------
+SYT_PYRAB     -------PKFRG------------------------------------------------
+SYT_METAC     -------PKFF-------------------------------------------------
+1ati_A        ------------------------------------------------------------
+SYG_DEIRA     ------------------------------------------------------------
+SYG_STAAM     ------------------------------------------------------------
+SYG_UREPA     ------------------------------------------------------------
+SYG_MYCPN     ------------------------------------------------------------
+SYG_MYCGE     ------------------------------------------------------------
+SYG_STRCO     ------------------------------------------------------------
+SYG_MYCTU     ------------------------------------------------------------
+SYG_BORBU     ------------------------------------------------------------
+SYG_TREPA     ------------------------------------------------------------
+SYG_PYRAB     ------------------------------------------------------------
+SYG_ARCFU     -ITEFG-EVFRQ------------------------------------------------
+SYG_AERPE     -LEDLG-TPVKP------------------------------------------------
+SYG_METKA     -FEEAG-D---P------------------------------------------------
+SYG_METTH     ------------------------------------------------------------
+SYG_YEAST     -WEEGT-KDLTPFIAQAEA-----------------------------------------
+SYG_SCHPO     -FEDAL-AKFGEFKSTQE------------------------------------------
+SYG_CAEEL     -WSDAQ-AKYPKFEASAT------------------------------------------
+SYG_HUMAN     -WADVE-ARYPLFEGQETG-----------------------------------------
+SYG_BOMMO     -WSDVE-QKYPKFEQQETV-----------------------------------------
+SYG_ARATH     -WQDVW-ATFPHHSSAAA------------------------------------------
+
+
+1h4q_A        FCVRCGRPSAYGKRVVFAKAY--
+1nj8_A        KYIAIAKTY--------------
+SYP_METTH     TCINCGREAP---TGLTLPEHIS
+SYP_ARCFU     KCVVCGREGR---LAALAKTY--
+SYP_BORBU     TCIYCSSKAKY--FVLFAKSY--
+SYP_MYCLE     RCIRCDAPSAYDKRVIFARAY--
+SYP_CLOST     TCQFCGKPAKH--MVYLAKAY--
+1evk_A        -----------------------
+SYT_PYRAB     -----------------------
+SYT_METAC     -----------------------
+1ati_A        -----------------------
+SYG_DEIRA     -----------------------
+SYG_STAAM     -----------------------
+SYG_UREPA     -----------------QKQCQK
+SYG_MYCPN     ----------------------H
+SYG_MYCGE     -----------------------
+SYG_STRCO     -----------------------
+SYG_MYCTU     -----------------------
+SYG_BORBU     -----------------KEDFNK
+SYG_TREPA     -----------------RRP---
+SYG_PYRAB     -----------------------
+SYG_ARCFU     ----------------------V
+SYG_AERPE     -----------------------
+SYG_METKA     ----------------------V
+SYG_METTH     -----------------------
+SYG_YEAST     ----------------EAET--D
+SYG_SCHPO     -----------------------
+SYG_CAEEL     ----------------------E
+SYG_HUMAN     ----------------KKETIEE
+SYG_BOMMO     ----------------KGTSV--
+SYG_ARATH     ---------------------DE
+
+

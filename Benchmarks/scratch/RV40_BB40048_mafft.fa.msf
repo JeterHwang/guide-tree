@@ -1,0 +1,651 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40048_mafft.fa.msf  MSF: 1979  Type: N  December 21, 2021 21:49  Check: 51  ..
+
+ Name: 1euq_A      Len:   1979  Check: 5785  Weight: 1.00
+ Name: SYQ_HAEIN   Len:   1979  Check: 6929  Weight: 1.00
+ Name: SYQ_NEIMA   Len:   1979  Check: 1978  Weight: 1.00
+ Name: SYQ_PSEAE   Len:   1979  Check: 5765  Weight: 1.00
+ Name: SYQ_BUCAP   Len:   1979  Check: 3323  Weight: 1.00
+ Name: SYQ_BUCAI   Len:   1979  Check: 4782  Weight: 1.00
+ Name: SYQ_BUCBP   Len:   1979  Check: 3783  Weight: 1.00
+ Name: SYQ_CLOPE   Len:   1979  Check: 1838  Weight: 1.00
+ Name: SYQ_XANAC   Len:   1979  Check: 5991  Weight: 1.00
+ Name: SYQ_XYLFA   Len:   1979  Check: 6492  Weight: 1.00
+ Name: SYQ_RALSO   Len:   1979  Check: 1678  Weight: 1.00
+ Name: SYQ_DROME   Len:   1979  Check: 6149  Weight: 1.00
+ Name: SYQ_DEIRA   Len:   1979  Check: 6902  Weight: 1.00
+ Name: SYQ_LUPLU   Len:   1979  Check: 9035  Weight: 1.00
+ Name: SYEC_YEAST  Len:   1979  Check:  199  Weight: 1.00
+ Name: SYEP_HUMAN  Len:   1979  Check: 8932  Weight: 1.00
+ Name: SYEP_DROME  Len:   1979  Check:  490  Weight: 1.00
+
+//
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      M-----------------------------------------------------------
+SYQ_NEIMA      M-----------------------------------------------------------
+SYQ_PSEAE      M-----------------------------------------------------------
+SYQ_BUCAP      M-----------------------------------------------------------
+SYQ_BUCAI      M-----------------------------------------------------------
+SYQ_BUCBP      M-----------------------------------------------------------
+SYQ_CLOPE      M-----------------------------------------------------------
+SYQ_XANAC      M-----------------------------------------------------------
+SYQ_XYLFA      M-----------------------------------------------------------
+SYQ_RALSO      M-----------------------------------------------------------
+SYQ_DROME      MAGDDLIAK--------FQALGMSEQKAKETLKNANVTKNLQLSLAAAG-SATLSDGTGM
+SYQ_DEIRA      MGA---------------------------------------------------------
+SYQ_LUPLU      MPAKDDTSSDKEKSLELFLKIGLDERTAKNTVANNKVTTNLTSVINDAGVTDGCSRTVGN
+SYEC_YEAST     MTK-------------LF-------SKVKESIEGIKMPSTLTINGKAPIVA-----YAEL
+SYEP_HUMAN     M-----------------------------------------------------------
+SYEP_DROME     MS------------------------------------IKLKANLNNPPI-------SGL
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      LIYHMATKLKPQTADHLPLLVRYIVEHKLDNTQRVD-------AALEYLLKCGQSLNANI
+SYQ_DEIRA      ------------------------------------------------------------
+SYQ_LUPLU      LLYTVATKYPANALPHRPTLLQYIVNSKVKTTAQLD-------AALSFLSATGSE---NL
+SYEC_YEAST     IAARIVNALAPNS-----IAIKLVDDKKAPAAKLDD-------ATEDVFNKITSKFAAIF
+SYEP_HUMAN     ------------------------------------------------------------
+SYEP_DROME     ATAHLINGTVP---------VEIVWSKEETSLQFPDNRLLVCHSNNDVLRALARAAPDYK
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      DLQALEKECGVGVVVTPEQIERTVQAKIKAS-------YKEALLEQRYHFNSFKILQDVR
+SYQ_DEIRA      ------------------------------------------------------------
+SYQ_LUPLU      DLNKFEEACGVGVEVSTEDIKHAVDEVVEEN--------KATILELRYRVNVGELLGHVR
+SYEC_YEAST     DNG------------DKEQVAKWVNLAQKELVIKNFAKLSQSLETLDSQLNLRTFI--LG
+SYEP_HUMAN     ---------------EHTEIDHWLEFSATKL--SSCDSFTSTINELNHCLSLRTYL--VG
+SYEP_DROME     LYGE--------TAIERTQIDHWLSFS---L--TCEDDISWALSFLTSPLPPVTYL--VA
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      G-ELKWADAKSVKAAIDVEIFDLLGPKTEADLKPQTKANDKPKAAK--------------
+SYQ_DEIRA      ---FGWEQDRG-------------APFSGRSPRILTRMTDAP------------------
+SYQ_LUPLU      K-RLPWADAKVVKQLVDAKLYEILGDRTAADNEKPKKKKEKPAKVE--------------
+SYEC_YEAST     GLKYSAADVACWGAL-----------RSNGM-CGSIIKNKVDVNVSRWYTLLEMDPIFGE
+SYEP_HUMAN     N-SLSLADLCVWATL-----------KGNAAWQEQLKQKKAPVHVKRWFGFLEAQQAFQS
+SYEP_DROME     N-KLTIADFALFNEM-----------HSR---YEFLAAKGIPQHVQRWYDLITAQPLIQK
+
+
+1euq_A         --------------------------------------------------------TNFI
+SYQ_HAEIN      ----------------MSHTETSLGA------------------------ENTRT-HNFI
+SYQ_NEIMA      ----------------LNKDQ-------------------------------FAD-NHFI
+SYQ_PSEAE      ----------------SKPET-------------------------------TAA-PNFL
+SYQ_BUCAP      ----------------NNKIE-------------------------------KND-NNFI
+SYQ_BUCAI      ----------------DTKKE-------------------------------IKN-NNFI
+SYQ_BUCBP      ----------------KKQ--------------------------------HSKI-SNFI
+SYQ_CLOPE      ----------------SNAEH---------------------------------S-SNFI
+SYQ_XANAC      ----------------SETLATDATA-------------------------PAEK-KDFI
+SYQ_XYLFA      ----------------SEITSTDARA-------------------------QPEK-KDFI
+SYQ_RALSO      ----------------SQDNATGAAA--------------------------AST-SNFL
+SYQ_DROME      ------PKAEVTPAAQTAEAASDGATTISELMKTKVHFHAPGENFK-------AD-GYVV
+SYQ_DEIRA      -----------RPTAGADAPARPPAA-------------------------PLVA-PNFI
+SYQ_LUPLU      ------DKA--APVATSEKP-------LEEDLNPYLIFPNPEDNFKVHTEVPFSD-GNIL
+SYEC_YEAST     A-----HDFLSKSLLELKKSANVGKK-----------------------KETHKA-NFEI
+SYEP_HUMAN     V--------GTKWDVSTTKARVAP--------------------------EKKQDVGKFV
+SYEP_DROME     VLQSLPEDAKVKRSPQSSKEQTPAKT-----------------------GERKQE-GKFV
+
+
+1euq_A         -----RQIIDEDLASGKHT-----------TVHTRFPPEPNGYLHIGHAKSICLNFGIAQ
+SYQ_HAEIN      -----TQIIDEDLASGKHK-----------SVHTRFPPEPNGYLHIGHAKSICLNFGLAK
+SYQ_NEIMA      -----RTIIEDDLKSGKHE-----------AVQTRFPPEPNGYLHIGHAKSICLNFGLAY
+SYQ_PSEAE      -----RQIVQADLDAGKHA-----------KIVTRFPPEPNGYLHIGHAKSICLNFGLAQ
+SYQ_BUCAP      -----YKIINEDFKKNKNL-----------LLHTRFPPEPNGYLHIGHAKSICLNFELAN
+SYQ_BUCAI      -----CQIINKDLNENKNL-----------SFYTRFPPEPNGYLHIGHAKSICLNFELAS
+SYQ_BUCBP      -----QKIISEDIQNKKIT-----------HVKTRFPPEPNGYLHLGHAKSICLNFDLAQ
+SYQ_CLOPE      -----RNIIIDDLDSKKHD-----------TIITRFPPEPNGYLHIGHAKSIVLNFELGK
+SYQ_XANAC      -----RQIVREDLASGKHT-----------VIRTRFPPEPNGYLHIGHAKAICLDFGLAA
+SYQ_XYLFA      -----RQIIREDLAHGTHT-----------HIRTRFPPEPNGYLHIGHAKAICLDFGVAA
+SYQ_RALSO      -----RQIIDTDLEQGTYAGRQDTAGHALPPIITRFPPEPNGYLHIGHAKSIWVNFGLAK
+SYQ_DROME      -TEHTERLLKEHLAR-TGG-----------KVHTRFPPEPNGILHIGHAKAININFGYAA
+SYQ_DEIRA      -----TEIIERDLEAGKYP-----------RVVTRFPPDPSGYAHLGHVFASLLDFNTAR
+SYQ_LUPLU      RCCNTKALLEKHLKA-TGG-----------KVLTRFPPEPNGYLHIGHAKAMFVDFGLAK
+SYEC_YEAST     -----------DLPDAKMG-----------EVVTRFPPEPSGYLHIGHAKAALLNQYFAQ
+SYEP_HUMAN     -----------ELPGAEMG-----------KVTVRFPPEASGYLHIGHAKAALLNQHYQV
+SYEP_DROME     -----------DLPGAEMG-----------KVVVRFPPEASGYLHIGHAKAALLNQYYAL
+
+
+1euq_A         DYKGQCNLRFDDTNPVKEDIEYVESIKNDVEWLGFHWSG----NVRYSSDYFDQLHAYAI
+SYQ_HAEIN      EYQGLCNLRFDDTNPVKEDVEYVDSIKADVEWLGFKWEG----EPRYASDYFDALYGYAV
+SYQ_NEIMA      IYDGLCNLRFDDTNPEKENDEYVNAIKEDVEWLGFHWAG----EPRFASNYFDQLYDYAV
+SYQ_PSEAE      EFAGDCHLRFDDTNPAKEDQEYIDAIEADIKWLGFQWSG----EVCYASNYFDQLHAWAV
+SYQ_BUCAP      VYNGYCNLRFDDTNPVKENIKYINSIKNDIKWLGYQWHK----KVRYSSEYFPILYEYAK
+SYQ_BUCAI      LYKGRCNLRFDDTNPLKENIKYIESIKHDINWLGYKWHG----NVRYASEYFLKLYQYAQ
+SYQ_BUCBP      EFKGTCNLRFDDTNPKNEDTCYINSIIQDIKWLEYKWHN----KIRYASLYFNKIYQYAI
+SYQ_CLOPE      EFNGRTNLRFDDTNPTKEDTEYVESIKEDVHWLGYNWS-----ELHFASNYFDEMYKRAL
+SYQ_XANAC      EFGGLCNLRLDDTNPAKEDPEFVVAIQDDVRWLGYDWA-----QLRHASDYFQVYYLAAQ
+SYQ_XYLFA      EFGGHCTLRMDDTNPSKEDPAFAAAIQDDVSWLGFHWN-----ALRHTSDYFEVLYLAAE
+SYQ_RALSO      EYGGRCHLRFDDTNPVKEDTEYVDSIIDAVHWLGYSWQNGTGEHLYYASDYFEQLYGFAE
+SYQ_DROME      AHDGVCYLRYDDTNPEKEEEKFFLAIKEMVEWLGYKPF-----KITYSSDNFQQLYEWAV
+SYQ_DEIRA      QYGGQFNLRMDDTNPELARQEYVDSIADDLKWLGLDWGE----HFYYASDYFDRYYAYAE
+SYQ_LUPLU      DRNGGCYLRFDDTNPEAEKKEYIDHIEEIVQWMGWEPF-----KITYTSNYFQELYEFAV
+SYEC_YEAST     AYKGKLIIRFDDTNPSKEKEEFQDSILEDLDLLGIKGD-----RITYSSDYFQEMYDYCV
+SYEP_HUMAN     NFKGKLIMRFDDTNPEKEKEDFEKVILEDVAMLHIKPD-----QFTYTSDHFETIMKYAE
+SYEP_DROME     VCQGTLIMRFDDTNPAKETVEFENVILGDLEQLQIKPD-----VFTHTSNYFDLMLDYCV
+
+
+1euq_A         ELINKGLAYVDELTPEQIREYRGTLTQPGKNSPYRDRSVEENLALF-EKMRAGGFEEGKA
+SYQ_HAEIN      ELIKKGLAYVDELSPDEMREYRGTLTEPGKNSPYRDRTIEENLALF-EKMKNGEFAEGKA
+SYQ_NEIMA      GLIKDGKAYVDDLTPEEMREYRGTLTEAGKNSPYRDRSVEENLDLF-TRMKNGEFPDGSK
+SYQ_PSEAE      ELIKAGKAFVCDLGPEEMREYRGTLTEPGRNSPYRDRSVEENLDLF-ARMKAGEFPDGAR
+SYQ_BUCAP      ELIQKGLAYVDELTKEEIREYRGTLSTVGKNSPYRNRSITENLKLF-EKMKKGEFKEGEA
+SYQ_BUCAI      ELIKKGLAYVDHLTKEQIREYRGTLNTPGKNSPYRNRTIQENIELF-EKMKKGDFSEGEA
+SYQ_BUCBP      KLIKKGLAYVDQLSPEEIRTFRGTLTTSGIDSPYRTQSIEKNLNLF-KKMKQGKMLEGTA
+SYQ_CLOPE      LLIKKGKAYVCDLTPEEIKEYRGTLTEPGKESPYRNRSIEENLDLF-ERMRKGEFEDGSK
+SYQ_XANAC      KLIRDGHAFVCDLSAEQVRQYRGTLTEPGRNSPFRERSVEENLDLF-ARMRAGEFPDGAR
+SYQ_XYLFA      KLITDGKAYVCDLNSEQVREYRGTLTEAGRPSPWRERSPDENLELF-RQMRAGTFPDGTR
+SYQ_RALSO      VLIQRGAAYIDSQSAEQIAANRGDFTRPGTPSPFRDRSVEENLALF-RDMRAGKYQDGQH
+SYQ_DROME      VLINKGLAYVCHQKAEELKGFN----PKP--SPWRERPIEESLRLF-EDMKRGKIDEGAA
+SYQ_DEIRA      QLIRQGDAYVESVSPEELSRLRGNATTPGTPSPYRDRSVEENLDLL-RRMKAGEFADGEH
+SYQ_LUPLU      ELIRRGHAYVDHQTADEIKEYR----EKKLNSPWRDRPISESLKLF-EDMRRGFIEEGKA
+SYEC_YEAST     QMIKDGKAYCDDTPTEKMREER----MDGVASARRDRSVEENLRIFTEEMKNGTEEGLKN
+SYEP_HUMAN     KLIQEGKAYVDDTPAEQMKAER----EQRIESKHRKNPIEKNLQMW-EEMKKGSQFGHSC
+SYEP_DROME     RLIKESKAYVDDTPPEQMKLER----EQRVESANRSNSVEKNLSLW-EEMVKGSEKGQNT
+
+
+1euq_A         CLRAKIDMASPFIVMRDPVLYRIKFAEHHQTGNKWCIYPMYDFTHCISDALEGITHSLCT
+SYQ_HAEIN      SLRAKIDMASPFMVMREPVIYRIKFSSHHQTGDKWCIYPMYDFTHCISDAIERITHSICT
+SYQ_NEIMA      TLRLKIDMASGNINMRDPVIYRIRRAHHHNTGDKWCIYPMYDYTHCISDAIEGITHSLCT
+SYQ_PSEAE      SLRAKIDMGSPNMNLRDPILYRIRHAHHHQTGDKWCIYPSYDFTHGQSDAIEGITHSICT
+SYQ_BUCAP      CLRAKINMSSSFIVMRDPVLYRIIFSTHHQTKKKWCIYPTYDFAHCLSDSIEGITHSFCT
+SYQ_BUCAI      CLRAKINMSSSSIIMRDPVLYRIIFIKHHQTQNKWCIYPMYDFAHCLSDSIEGITHSLCT
+SYQ_BUCBP      CLRAKIDMASNCITMRDPVLYRIIFSKHHQTNKKWCIYPTYDFTHCISDALEKITHSLCT
+SYQ_CLOPE      VLRAKIDMSSPNINFRDPIIYRIAHASHHNTGDKWCIYPMYDFAHPLEDAIEGITHSICT
+SYQ_XANAC      TLRAKIDMASGNINLRDPALYRIKHVEHQNTGNAWPIYPMYDFAHSLGDAVEGITHSLCT
+SYQ_XYLFA      TLRAKIDMASGNINLRDPALYRIKHVEHQNTGNTWPIYPMYDFAHALSDAIEGITHSLCT
+SYQ_RALSO      VLRARIDMAAPNIVMRDPVLYRIRHAHHHRTGDAWCIYPMYDFTHCISDALENITHSLCT
+SYQ_DROME      TLRMKVTLEEGK---MDPVAYRIKFISHHRTGSDWCIYPTYDYTHCLCDSLEDITHSLCT
+SYQ_DEIRA      VLRAKIDLTAPNMKLRDPVLYRIVNKPHFRTSDEWHIYPAYDFEHPLQDAIEGVTHSMCS
+SYQ_LUPLU      TLRMKQDMQSDNYNMYDLIAYRIKFTPHPHAGDKWCIYPSYDYAHCIVDSIENVTHSLCT
+SYEC_YEAST     CVRAKIDYKALNKTLRDPVIYRCNLTPHHRTGSTWKIYPTYDFCVPIVDAIEGVTHALRT
+SYEP_HUMAN     CLRAKIDMSSNNGCMRDPTLYRCKIQPHPRTGNKYNVYPTYDFACPIVDSIEGVTHALRT
+SYEP_DROME     ACAAKIDMSSPNGCMRDPTIYRCKNEPHPRTGTKYKVYPTYDFACPIVDAIENVTHTLRT
+
+
+1euq_A         LEFQDNRRLYDWVLDNITI--P------------------VHPRQYEFSRLNLEYTVMSK
+SYQ_HAEIN      LEFQDNRRLYDWVLENISIERP------------------L-PHQYEFSRLNLEGTLTSK
+SYQ_NEIMA      LEFEAHRPLYDWVLDNIHA--PH----------------ATRPRQYEFSRLELLYTITSK
+SYQ_PSEAE      LEFEDHRPLYEWFLANLPV--P------------------AQPRQYEFSRLNLNYTVTSK
+SYQ_BUCAP      LEFQDNKNLYNWILKNTSI--K------------------HYSKQYEFSRLNLEYSILSK
+SYQ_BUCAI      LEFQDNKFLYNWILKNTSV--K------------------HYPKQYEFSRLNLEFSILSK
+SYQ_BUCBP      LEFQDHRKLYEWILKKIDI--S------------------CNTHQYEFSRLKLEYSVLSK
+SYQ_CLOPE      LEFADHRPLYDWFVKECEM--E------------------SVPRQIEFARLNITNTVMSK
+SYQ_XANAC      LEFEDHRPLYDWCVDKVDL--VGHPELLQPLLDKGLPREAAKPRQIEFSRLNINYTVMSK
+SYQ_XYLFA      LEFEDHRPLYDWCVNHVDL--PNNSHLLKPLLDKGFPQEPSQPRQIEFSRLNINYTVMSK
+SYQ_RALSO      LEFENNRPLYDWVLDHLRD--AG-----------ALP--APLPHQYEFARLHLTYAITSK
+SYQ_DROME      KEFQSRRSSYYWLCNALGI---------------------YCPVQWEYGRLNMNYALVSK
+SYQ_DEIRA      LEFVDNRAIYDWLMEKLNF--D------------------PRPHQYEFGRRGLEYTITSK
+SYQ_LUPLU      LEFETRRASYYWLLHALGI---------------------YQPYVWEYSRLNVSNTVMSK
+SYEC_YEAST     IEYRDRNAQYDWMLQALRL---------------------RKVHIWDFARINFVRTLLSK
+SYEP_HUMAN     TEYHDRDEQFYWIIEALGI---------------------RKPYIWEYSRLNLNNTVLSK
+SYEP_DROME     TEYHDRDDQFYWFIDALKL---------------------RKPYIWSYSRLNMTNTVLSK
+
+
+1euq_A         RKLNLLVTDKHVEGWDDPRMPTISGLRRRGYTAASIREFCKRIGVT---KQDNTIEMASL
+SYQ_HAEIN      RKLLKLVNDEIVDGWNDPRMPTISGLRRRGYTPASLREFCRRIGVT---KQDNVVEYSAL
+SYQ_NEIMA      RKLNQLVVEKHVSGWDDPRMPTISGMRRRGYTPEGLRLFAKRAGIS---KSENIVDMSVL
+SYQ_PSEAE      RKLKQLVDEGHVSGWDDPRMSTLSGYRRRGYTPESIRNFCEMIGVN---RASGVVDIGML
+SYQ_BUCAP      RKISILIEKKIVNGWDDPRILTISGLRKKGYTASSIRDFCHRIGIT---KQNNLIEFSML
+SYQ_BUCAI      RKIKILIDKNIIEGWDDPRIPTLSALRRKGYTPSSIKNFCQKIGVT---KQNNLIEFSML
+SYQ_BUCBP      RKLNLLVNNKVVNGWDDPRMPTLSGLRNRGYTPSSIKLFCKKIGIT---KQENTIQLSFL
+SYQ_CLOPE      RKLKQLVDEGIVDGWDDPRMPTVAGLRRRGYTPKSIRNFCKAIGVA---KADSTVDSQML
+SYQ_XANAC      RKLTALVEEQLVDGWDDPRMYTLQGLRRRGYTPAAMRLFVDRVGIS---KQNSLIDFSVL
+SYQ_XYLFA      RKLTALVDEKLVEGWDDPRMYTLQGLRRRGYTPAAMRLFVERIGIS---KQNSIIDFSVL
+SYQ_RALSO      RKLLQLVNEKRVDGWDDPRMPTLVGIRRRGYTPESIQLFCERVGVS---KADSWIDMSIL
+SYQ_DROME      RKIAKLITEQIVHDWDDPRLFTLTALRRRGFPAEAINNFCAQMGVT---GAQIAVDPAML
+SYQ_DEIRA      RKLRELVQAGRVSGWDDPRMPTLRAQRRLGVTPEAVRAFAAQIGVS---RTNRTVDIAVY
+SYQ_LUPLU      RKLNRLVTEKWVDGWDDPRLMTLAGLRRRGMTPTAINAFVRGMGITRSDGTLISVE--RL
+SYEC_YEAST     RKLQWMVDKDLVGNWDDPRFPTVRGVRRRGMTVEGLRNFVLSQGPS---RNVINLEWNLI
+SYEP_HUMAN     RKLTWFVNEGLVDGWDDPRFPTVRGVLRRGMTVEGLKQFIAAQGSS---RSVVNMEWDKI
+SYEP_DROME     RKLTWFVDSGLVDGWDDPRFPTVRGIIRRGMTVEGLKEFIIAQGSS---KSVVFMNWDKI
+
+
+1euq_A         ESCIREDLNENAPRAMAVIDPVKLVIENYQGEG-EMV--TM---PNHPNK----------
+SYQ_HAEIN      EACIREDLNENAPRAMAVIDPVRVVIENFESEA--VL--TA---PNHPNR----------
+SYQ_NEIMA      EGAIREELENSAPRLMAVLNPLKVTLTNFEAGRTQSR--RA---AFHPNH----------
+SYQ_PSEAE      EFSIRDHLDATAPRAMCVLKPLKVVITNYPEGQVENL--EL---PRHPK-----------
+SYQ_BUCAP      EYCIRKELNKKAIRTMAVLEPIKIFLYNIDNDHEEKL--IV---PNHPKH----------
+SYQ_BUCAI      EHCIRKELNQTAIRTMAILDPIKIFLYNLDSNYKEEF--IV---PNHPNN----------
+SYQ_BUCBP      ESCIRSDLNPIAPRYMAVIHPIKIQICNLSDNYEEIL--NI---PNHPTK----------
+SYQ_CLOPE      EHFIREDLQETAPRAMAVINPLKLVITNYPEGESEIL--EI---ENNPKD----------
+SYQ_XANAC      EGCLREDLDAAAPRRMAVIDPLKLVLTNLPEGHTETL--QF---SNHPKD----------
+SYQ_XYLFA      ENCLRENLDTIAPRRMATIAPLKLVLTNLPEDHEEQL--IF---PNHPKD----------
+SYQ_RALSO      EAAVRDDLDARAPRSVAVLDPVKLILDNVPADFNEPC--SA---PVHPKQ----------
+SYQ_DROME      EAAVRDVLNVTAPRRLVVLEPLKVTIKNFPHAAPVQL--EV---PDFPQN----------
+SYQ_DEIRA      ENAVRDDLNHRAPRVMAVLDPVKVTLTNLDGE--KTL--SL---PYWPHDVVRDSPDGLV
+SYQ_LUPLU      EYHVREELNKTAPRAMVVLHPLKVVITNLEAKSAIEV--DAKKWPDAQAD----------
+SYEC_YEAST     WAFNKKVIDPIAPRHTAIVNPVKIHL-EGSEAPQEPKIEMK---PKHKKN----------
+SYEP_HUMAN     WAFNKKVIDPVAPRYVALLKKEVIPV-NVPEAQEEMK--EV---AKHPKN----------
+SYEP_DROME     WAFNKKVIDPIAPRYTALEKEKRVIV-NVAGAKVERI--QV---SVHPKD----------
+
+
+1euq_A         ---------PEMGSRQVPFSGEIWIDRADFREEANKQYKRLVLGKEVRLRNA-YVIKAER
+SYQ_HAEIN      ---------PELGERQLPFTKELYIDRADFREEANKQYKRLVLGKEVRLRNA-YVIKAER
+SYQ_NEIMA      ---------EEMGEREVPISQTIYIEADDFAENPPKGFKRLIPGGEVRLRHG-YVIKCDE
+SYQ_PSEAE      ---------EDMGVRVLPFGRELFIDAGDFEEVPPAGYKRLIPGGEVRLRGS-YVIRADE
+SYQ_BUCAP      ---------LHLGTHEIIFTNTIYIEREDFKEKYDKKYKRLKIGEEVRLRYA-YIIKAEK
+SYQ_BUCAI      ---------PEMGTHKIIFTNTIYIDRSDFKEKYDKKYKRLKLGEKIRLRYS-YIIHAEK
+SYQ_BUCBP      ---------PNMGCHKSIFSNTLYIDQNDFYENKSELLKKLAIGKEIRLRYS-YVIKAHK
+SYQ_CLOPE      ---------ESAGKRAVTFSREVYIEREDFMENPPKKYFRLFPGNEVRLKGA-YFVKCNE
+SYQ_XANAC      ---------DSFGTREVPFARELWIEREDFAEVPPKGWKRLVPGGEIRLRGA-GIARVDE
+SYQ_XYLFA      ---------DTQGTRTMPFSRELWIERDDFSEIPPKGWKRLVPGGEVRLRGA-GIARVDE
+SYQ_RALSO      ---------PELGRREFPLTRELWIEREDFTETPPKGYFRLFPGNKVRLRYG-YVIECTG
+SYQ_DROME      ---------PQQGTHKITLDKVIYIEQGDFKLEPEKGYRRLAPKQSVGLRHAGLVISVDE
+SYQ_DEIRA      GMPGGGRVAPEEAVRDVPLTRELYIERDDFSPAPPKGFKRLTPGGTVRLRGA-GIIRADD
+SYQ_LUPLU      ---------DASAFYKIPFSNVVYIERSDFRMQDSKDYYGLAPGKSVILRYA-FPIKCTE
+SYEC_YEAST     ---------PAVGEKKVIYYKDIVVDKDDADV--------INVDEEVTLMDW-GNVIITK
+SYEP_HUMAN     ---------PEVGLKPVWYSPKVFIEGADAET--------FSEGEMVTFINW-GNLNITK
+SYEP_DROME     ---------ESLGKKTVLLGPRIYIDYVDAEA--------LKEGENATFINW-GNILIKK
+
+
+1euq_A         VEKD-AEGNITTIFCTYDADT-L-----------GVIHWVS--A----AHALP--VEIRL
+SYQ_HAEIN      VEKD-ANGEITTIFCTYDPET-LGKNPADGRKVKGVIHWVS--A----VNNHP--AEFRL
+SYQ_NEIMA      VVKD-EAGNVVELKCSIDHDT-LGKNPEG-RKVKGVIHWVS--A----EHAAE--IKVRL
+SYQ_PSEAE      AIKD-ADGNIVELRCSYDPDT-LGKNPEG-RKVKGVIHWVP--A----EGSVE--CEVRL
+SYQ_BUCAP      IEKD-ESGNIIKIICFCDINS-LGKKPIN-RKNPAVIHWIA--V----KNSFP--AKFKL
+SYQ_BUCAI      IEKD-EYGNISNIICYCDLNT-LGRKPKD-NKNPAVIHWIS--E----KNTLS--AEFKL
+SYQ_BUCBP      IKKD-QNNNIKTIFCTYDKNT-LGKNPKN-RKILGVIHWIS--E----KNVLP--ARFFL
+SYQ_CLOPE      VIKD-ENGEVTEIHCTYDPETKSGTGFTG-RKVKGTIHWVD--A----NNCIP--AEFRL
+SYQ_XANAC      VIKN-ADGEIVELRGWLDPESRPGMEGAN-RKVKGTIHWVS--A----AHAVE--AEIRL
+SYQ_XYLFA      VVKN-AAGDIIALHGWLDPTSRPGMEGAH-RKVKGTIHWVS--A----PHAVA--AEIRL
+SYQ_RALSO      CDKD-ADGNITAVHANIIPDTKSGTPGADSVKVKGNIHWVS--A----AHALE--AEVRL
+SYQ_DROME      IVKDPATGQVVELICTSQPAEQA-------EKPKAFVQWVS--Q------PIQ--LEVRL
+SYQ_DEIRA      FGTD-EAGQVTHIRATL-----LG---ED-AKAAGVIHWVS--A----ERALP--AEFRL
+SYQ_LUPLU      VILADDNETILEIRAEYDPSKKT--------KPKGVLHWVS--QPSPGVDPLK--VEVRL
+SYEC_YEAST     --KN-DDGSMV---AKLNLEG-------DFKKTKHKLTWLA--DT---KDVVP--VDLVD
+SYEP_HUMAN     IHKN-ADGKIISLDAKFNLEN------KDYKKTT-KVTWLA--ET---THALPIPVICVT
+SYEP_DROME     VNKD-ASGNITSVDAALNLEN------KDFKKTL-KLTWLAVEDD---PSAYP-PTFCVY
+
+
+1euq_A         YDRLFSVPNPGAAD----------------------------DFLSVINPES-LVIKQG-
+SYQ_HAEIN      YDRLFTVPNPGAED----------------------------DIESVLNPNS-LVIKQG-
+SYQ_NEIMA      YDRLFTIERPDAVRG--------------EDGE-------YLPFTDFLNPES-VKEITA-
+SYQ_PSEAE      YDRLFRSANPE--KA--------------EEGG---------SFLDNINADS-LQVLAGC
+SYQ_BUCAP      YNQLFKIKNPDQEK----------------------------NFLSYLNSNS-LIVKNG-
+SYQ_BUCAI      YDQLFNIKNPEQQE----------------------------NFLLYINSKS-LIKKFG-
+SYQ_BUCBP      YDKLFTIQSPETVK----------------------------NFLQYINTNS-LVIKYG-
+SYQ_CLOPE      YEPLILDDCEENEG---------------------------KHFLEQINPNS-LTICKG-
+SYQ_XANAC      YDRLFSVEKPDDES----------------EG---------KTYRDYLNPES-KRNVRG-
+SYQ_XYLFA      YDRLFSVEKPDDNT----------------DG---------KTYRDVLNPDS-KRVVHG-
+SYQ_RALSO      YDRLFTDPQPDSGD---------------------------KNFLDALNPDA-KRVVTA-
+SYQ_DROME      YEQLFKHKNPEDPNE------------------------VPGGFLSDISEQS-MSVVVA-
+SYQ_DEIRA      YDRLFRVPHPEGENADVEDDSAGPAEHEAEPGAGQETAPVSQGFMRYLTPDS-LRVLRG-
+SYQ_LUPLU      FERLFLSENPAELDN----------------------------WLGDLNPHSKVEISNA-
+SYEC_YEAST     FDHLITKDRLEEDE----------------------------SFEDFLTPQT-EFHTDA-
+SYEP_HUMAN     YEHLITKPVLGKDE----------------------------DFKQYVNKNS-KHEELM-
+SYEP_DROME     FDNIISKAVLGKDE----------------------------DFKQFIGHKT-RDEVPM-
+
+
+1euq_A         FAEPSLKDAVAGKA--------FQFEREGYFCLD-----SRHSTAEKP-------VFNRT
+SYQ_HAEIN      FVEQSLANAEAEKG--------YQFEREGYFCAD-----SKDSRPEHL-------VFNLT
+SYQ_NEIMA      YAEPAAKDLPAESR--------WQFERIGYFVTD-----RKDHGKDTP-------VFNRT
+SYQ_PSEAE      RAEPSLGQANPEDR--------FQFEREGYFVAD-----LKDSRPGKP-------VFNRT
+SYQ_BUCAP      FVEKKIAQKIIKKMSNNFIKLFFQFERTGYFCVD-----EVDSKENKL-------VFNRT
+SYQ_BUCAI      FIEKKIGEEIQKKISNNNIEIFFQFERIGYFCID-----FIDSKKNQL-------VFNRT
+SYQ_BUCBP      FVEKDILTNISTTA--------YQFEREGYFCIN-----KNFSITKNL-------TFNRI
+SYQ_CLOPE      FIEPSAKDAKPQDK--------YQLFRHGYFNVD-----PNFTSDDNL-------VFNRI
+SYQ_XANAC      YVEPSAAMAAPEQA--------FQFERTGYFVAD-----RRDHSEATP-------VFNRS
+SYQ_XYLFA      YIEPAAAQTAPEHA--------FQFERLGYFVTD-----RHDHDAAHP-------VFNRS
+SYQ_RALSO      YLEPTLATAKPEDR--------FQFERHGYFVAD-----RIDSQPGKP-------VFNRV
+SYQ_DROME      FADRALNQAKVYDK--------FQFERIGFFSVD------PDTSANHL-------VFNRT
+SYQ_DEIRA      YVEPSVAGDPADTR--------YQFERQGYFWRDPVELERVDSREDAL-------VFGRI
+SYQ_LUPLU      YGVSLLKDAKLGDR--------FQFERLGYFAVD------QDSTPEKL-------VFNRT
+SYEC_YEAST     IADLNVKDMKIGDI--------IQFERKGYYRLD-----ALPKDGKPY-------VF---
+SYEP_HUMAN     LGDPCLKDLKKGDI--------IQLQRRGFFICD-----QPYEPVSPYSCKEAPCVL---
+SYEP_DROME     LGDPELKKCKKGDI--------IQLQRRGFFKVD-----VAYLPPSGYTNVPSPIVL---
+
+
+1euq_A         VGLRDT------------------------------------------------------
+SYQ_HAEIN      VSLKEGF-----------------------------------------------------
+SYQ_NEIMA      VTLKDSWQ-P-------K------------------------------------------
+SYQ_PSEAE      VTLRDSWG-Q-------G------------------------------------------
+SYQ_BUCAP      VSLKDSWNLK-------K------------------------------------------
+SYQ_BUCAI      VGLRDTWDSK-------KI--KTKNITN--------------------------------
+SYQ_BUCBP      VTLKDKI----------K------------------------------------------
+SYQ_CLOPE      VSLKSSFK-L-------K------------------------------------------
+SYQ_XANAC      VTLRDTWA-K--------------------------------------------------
+SYQ_XYLFA      VTLRDTWQ-R-------D------------------------------------------
+SYQ_RALSO      VGLKDSWG---------K------------------------------------------
+SYQ_DROME      VGLKEDAG-K-------K------------------------------------------
+SYQ_DEIRA      ITLKDTWG-K-------QG-GGTQQKAEGKKRPSTKG------------RG---------
+SYQ_LUPLU      VTLKDSYG-KG-----GK------------------------------------------
+SYEC_YEAST     FTIPDG---KSVNKYGAKK-----------------------------------------
+SYEP_HUMAN     IYIPDGHT-KEMPTSGSKEKTKVEATKNETSAPFKER-----------------------
+SYEP_DROME     FSIPDGHT-KDVPTSGLKVNAPDAKATKKASSPVSSSGQASELDSQITQQGDLVRDLKSK
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      ------------------------------PDEVRGEGSSSPAKAH--------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     ---------------------------------------PTPSLNNNCTTSEDSLVLYNR
+SYEP_DROME     KAAKDQIDVAVKKLLALKADYKSATGKDWKPGQTSATSAPVPAASS--SSANDAVSVNAS
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      ---------------APKAQPLTPEQDAEFTRLLGLGAS----EGDARTIARDPALLAFV
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     VAVQGDVVRELKAKKAPK-----EDVDAAVKQLLSLKAEYKEKTGQEYKPGNPPAEIGQN
+SYEP_DROME     IVKQGDLVRDLKGKKASK-----PEIDAAVKTLLELKAQYKTLTGQDWKPGTVPPTAAPS
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      GGAA--------------------------------------------------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     ISSNSSASILES-KSLYDEVAAQGEVVRKLKAEKSPKAKINEAVECLLSLKAQYKEKTGK
+SYEP_DROME     ASAAPSVGGNDSVAQILSQITAQGDKVRELKSAKADKATVDAAVKTLLSLKADYKAATGS
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      ---PGDT------------------------------FAQVAS-----------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     EYIPGQ---PPLSQSSDSSPTRNSEPAGLETPEAKVLFDKVASQGEVVRKLKTEKAPKDQ
+SYEP_DROME     DWKPGTTAPAPAAAPVKVKQEKNPDPASVLT--VNTLLNKIAQQGDKIRQLKSAKSEKSL
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      ------------------------------------------------------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     VDIAVQELLQLKAQYKSLIGVEYKP------------VSATGAE----------------
+SYEP_DROME     VEAEVKLLLALKTDYKSLTGQEWKPGTVAPAPTTVNVIDLTGGDSGSDVGSVLSKIQAQG
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      -------------------------------------WT---------------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     DKDKKKKEK-------------------------------ENKSEKQNKPQKQNDGQRKD
+SYEP_DROME     DKIRKLKSEKAAKNVIDPEVKTLLALKGEYKTLSGKDWTPDAKSEPAVVKKEASPVSMAS
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      ---------------------------------VNELVA---------------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     PSKNQ-------------------------------------------------------
+SYEP_DROME     PAKDELTQEINAQGEKVRAAKGNKAAKEVIDAEVAKLLALKAKYKEVTGTDFPVAGRGGG
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      --------------------------------------GLRA----------------GE
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     GGGLSSSGAGEGQGP-----------------KKQTRLGLEAKKEENLADWYSQVITKSE
+SYEP_DROME     GGGGSAKKAPKEAQPKPAKPVKKEPADASGAVKKQTRLGLEATKEDNLPDWYSQVITKGE
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      V-----------------------------------------------------KVRAAD
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     MIEYHDISGCYILRPWAYAIWEAIKDFFDAEIKKLGVENCYFPMFVSQSALEKEKTHVAD
+SYEP_DROME     MIEYYDVSGCYILRQWSFAIWKAIKTWFDAEITRMGVKECYFPIFVSKAVLEKEKTHIAD
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      LAP------------LAEGVASGQLSARIAREALARAAAS-GDAPLTI------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     FAPEVAWVTRSGKTELAEPIAIRPTSETVMYPAYAKWVQSHRDLPIKLNQWCNVVRWEFK
+SYEP_DROME     FAPEVAWVTKSGDSDLAEPIAVRPTSETVMYPAYAKWVQSYRDLPIRLNQWNNVVRWEFK
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      -----------IEREGLNAGLSAEALQQVVAQ----------------VIAANPDKAEAY
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     HPQPFLRTREFLWQEGHSAFATMEEAAEEVLQILDLYAQVYEELLAIPVVKGRKTEKEKF
+SYEP_DROME     QPTPFLRTREFLWQEGHTAFADKEEAAKEVLDILDLYALVYTHLLAIPVVKGRKTEKEKF
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      RGGK-TALLGFFTGQVMRATAGKA-----------------DPQ----------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     AGGDYTTTIEAFISASGRAIQGGTSHHLGQNFSKMFEIVFEDPKIPGEKQFAYQNSWGLT
+SYEP_DROME     AGGDYTTTVEAFISASGRAIQGATSHHLGQNFSKMFEIVYEDPEKTQQKKYVYQNSWGIT
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      ------------------------------------------------------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     TRTIGVMTMVHGDNMGLVLPPRVACVQVVIIPCGITNALSEEDKEALIAKCNDYRRRLLS
+SYEP_DROME     TRTIGVMIMVHADNQGLVLPPHVACIQAIVVPCGITVNTKDDERAQLLDACKALEKRLVG
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      -----------------------------------------ALAAALKDA----------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     VNIRVRADLRDNYSPGWKFNHWELKGVPIRLEVGPRDMKSCQFVAVRRDTGEKLTVAENE
+SYEP_DROME     GGVRCEGDYRDNYSPGWKFNHWELKGVPLRLEVGPKDLKAQQLVAVRRDTGEKITIPLAD
+
+
+1euq_A         ------------------------------------------------------------
+SYQ_HAEIN      ------------------------------------------------------------
+SYQ_NEIMA      ------------------------------------------------------------
+SYQ_PSEAE      ------------------------------------------------------------
+SYQ_BUCAP      ------------------------------------------------------------
+SYQ_BUCAI      ------------------------------------------------------------
+SYQ_BUCBP      ------------------------------------------------------------
+SYQ_CLOPE      ------------------------------------------------------------
+SYQ_XANAC      ------------------------------------------------------------
+SYQ_XYLFA      ------------------------------------------------------------
+SYQ_RALSO      ------------------------------------------------------------
+SYQ_DROME      ------------------------------------------------------------
+SYQ_DEIRA      ------------------------------------------------------------
+SYQ_LUPLU      ------------------------------------------------------------
+SYEC_YEAST     ------------------------------------------------------------
+SYEP_HUMAN     AETKLQAILEDIQVTLFTRASEDLKTHMVVANTMEDFQKILDSGKIVQIPFCGEIDCEDW
+SYEP_DROME     VEKKIPALLETIHESMLNKAQEDMTSHTKKVTNWTDFCGFLEQKNILLAPFCGEISCEDK
+
+
+1euq_A         -----------------------------------------------------------
+SYQ_HAEIN      -----------------------------------------------------------
+SYQ_NEIMA      -----------------------------------------------------------
+SYQ_PSEAE      -----------------------------------------------------------
+SYQ_BUCAP      -----------------------------------------------------------
+SYQ_BUCAI      ----------------------------------------------------------N
+SYQ_BUCBP      -----------------------------------------------------------
+SYQ_CLOPE      -----------------------------------------------------------
+SYQ_XANAC      -----------------------------------------------------------
+SYQ_XYLFA      -----------------------------------------------------------
+SYQ_RALSO      -----------------------------------------------------------
+SYQ_DROME      -----------------------------------------------------------
+SYQ_DEIRA      ---------------------------------------------------------LA
+SYQ_LUPLU      -----------------------------------------------------------
+SYEC_YEAST     -----------------------------------------------------------
+SYEP_HUMAN     IKKTTARDQDLEPGAPSMGAKSLCIPFKPLCELQPGAKCV---CGKNPAKYYTLFGRSY
+SYEP_DROME     IKADSARGEEAEPGAPAMGAKSLCIPFDQPAPIAASDKCINPSCTNKP-KFYTLFGRSY
+
+

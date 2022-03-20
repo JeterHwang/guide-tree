@@ -1,0 +1,86 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11027_mafft.fa.msf  MSF: 466  Type: N  December 21, 2021 21:48  Check: 2540  ..
+
+ Name: 1uky_   Len:    466  Check: 9677  Weight: 1.00
+ Name: 1dvr_A  Len:    466  Check: 4235  Weight: 1.00
+ Name: 1gky_   Len:    466  Check: 6113  Weight: 1.00
+ Name: 1kgd_A  Len:    466  Check: 6601  Weight: 1.00
+ Name: 1e2d_A  Len:    466  Check:  347  Weight: 1.00
+ Name: 4tmk_A  Len:    466  Check: 6042  Weight: 1.00
+ Name: 1bif_   Len:    466  Check: 9525  Weight: 1.00
+
+//
+
+1uky_      PAFSPDQVSVIFVLGGPGAGKGTQCEKLVKDYSF--------------------------
+1dvr_A     SSESIRMV----LIGPPGAGKGTQAPNLQERFHA--------------------------
+1gky_      -------SRPIVISGPSGTGKSTLLKKLFAEYP---------------------------
+1kgd_A     -----HMRKTLVLLGAHGVGRRHIKNTLITKHP---------------------------
+1e2d_A     -----RRGALIVLEGVDRAGKSTQSRKLVEALC---------------------------
+4tmk_A     ------RSKYIVIEGLEGAGKTTARNVVVETLE---------------------------
+1bif_      ------CPTLIVMVGLPARGKTYISKKLTRYLNFIGVPTREFNVGQYRRDMVKTYKSFEF
+
+
+1uky_      -------------------------------VHLSAGDLLRAEQGRA------GSQYGE-
+1dvr_A     -------------------------------AHLATGDMLRSQIAK-------GTQLGL-
+1gky_      -------------------------------DSFGFSVSSTTRTPRA------GEVNGKD
+1kgd_A     -------------------------------DRFAYPIPHTTRPP---------EENGKN
+1e2d_A     --------------------------------AAGHRAELLRFPER-------STEIGK-
+4tmk_A     --------------------------------QLGIRDMVFTREPG-------GTQLAE-
+1bif_      FLPDNEEGLKIRKQCALAALNDVRKFLSEEGGHVAVFDATNTTRERRAMIFNFGEQNGYK
+
+
+1uky_      --LIKNCIKEGQIVPQEITL----------------------------------------
+1dvr_A     --EAKKIMDQGGLVSDDIMV----------------------------------------
+1gky_      -YNFVSVDEFKSMIKNNEFIEW-----------------AQFSGNYYGSTV---------
+1kgd_A     -YYFVSHDQMMQDISNNEYLEY-----------------GSHEDAMYGTKL---------
+1e2d_A     --LLSSYLQKKSDVEDHSVH-----------------------LLFSANRWEQV------
+4tmk_A     --KLRSLLLDIKSVGDEVITD------------------KAEVLMFYAARVQLV------
+1bif_      TFFVESICVDPEVIAANIVQVKLGSPDYVNRDSDEATEDFMRRIECYENSYESLDEEQDR
+
+
+1uky_      --ALLRNAISDN--VKANK---------------------------HKFLIDGFPR----
+1dvr_A     --NMIKDELTNN---PACK---------------------------NGFILVGFPRTI--
+1gky_      --ASVKQVSKSGKTCILD------------------------------------------
+1kgd_A     --ETIRKIHEQGLIAILD------------------------------------------
+1e2d_A     --PLIKEKLSQGVTLVVDR---------------------------YAFSGVAFTG----
+4tmk_A     -ETVIKPALANGTWVIGDR---------------------------HDLSTQAYQG----
+1bif_      DLSYIK-IMDVGQSYVVNRVADHIQSRIVYYLMNIHVTPRSIYLCRHGESELNLKGRIGG
+
+
+1uky_      ---------KMDQ-AISFERD-IV----ESKFILFFD-----------------------
+1dvr_A     -----PQAEKLDQ-MLKEQGT-PL----EKAIELKVD-----------------------
+1gky_      ----------IDMQGVKSVKAIPE----LNARFLFIA-----------------------
+1kgd_A     ----------VEPQALKVLRT-AE----FAPFVVFIA-----------------------
+1e2d_A     ------AKENFS---LDWCKQ-PDVGLPKPDLVLFL------------------------
+4tmk_A     ------GGRGIDQHMLATLRD-AVLGDFRPDLTLYLD-----------------------
+1bif_      DPGLSPRGREFSKHLAQFISD-QN----IKDLKVFTSQMKRTIQTAEALSVPYEQFKVLN
+
+
+1uky_      -----CPEDIMLERLLER--GKTSGR--------------------------SDDNIESI
+1dvr_A     -------DELLVARITGRLIHPASGRSYHKI-FNPPKEDMKDDVTGEALVQISDDNADAL
+1gky_      ------PPSVEDLKKRLE------GR--------------------------GTETEESI
+1kgd_A     ------APTITP----------------------------------------GLNEDESL
+1e2d_A     --------QLQLADAAKR----------------------------GAFGHERYENGAFQ
+4tmk_A     -----VTPEVGLKRARAR----------------------------GELDRIEQESFDFF
+1bif_      EIDAGVCEEMTYEEIQDHYPLEFALRDQDKYRYRYP----------------KGESYEDL
+
+
+1uky_      KKRFNTFKETSMPVIEY------------------------------FETKSKVVRVRCD
+1dvr_A     KKRLAAYHAQTEPIVDF------------------------------YKKTGIWAGVDAS
+1gky_      NKRLSAAQAELAY-----------------------------------AETGAHDKVIVN
+1kgd_A     -QRLQKESDILQR-----------------------------------TYAHYFDLTIIN
+1e2d_A     ERALRCFHQL-MK-----------------------------------DTTLNWKMVDAS
+4tmk_A     NRTRARYLELAAQ-----------------------------------DKSIH--TIDAT
+1bif_      VQRLEPVIMELERQENVLVICHQAVMRCLLAYFLDKAAEELPYLKCPLHTVLKLTPVAYG
+
+
+1uky_      RSVEDVYKDVQ-------------------DAIRDSL---------
+1dvr_A     QPPATVWADIL-------------------NKLGKN----------
+1gky_      DDLDKAYKELK-------------------DFIFAEK---------
+1kgd_A     NEIDETIRHLE-------------------EAVELVC---------
+1e2d_A     KSIEAVHEDIRVL---------------SEDAIATATEKPLGELWK
+4tmk_A     QPLEAVM-----------------------DAIRTTVTHWVKEL--
+1bif_      CKVESIFLNVAAVNTHRDRPQNVDISRPSEEALVTVPAHQ------
+
+

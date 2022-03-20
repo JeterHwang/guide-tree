@@ -1,0 +1,357 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40022_kalign.msf  MSF: 1233  Type: N  December 21, 2021 20:40  Check: 2403  ..
+
+ Name: 1a0h_A      Len:   1233  Check: 6336  Weight: 1.00
+ Name: 1b2i_A      Len:   1233  Check: 5551  Weight: 1.00
+ Name: 1bht_A      Len:   1233  Check: 8697  Weight: 1.00
+ Name: 1i71_A      Len:   1233  Check: 7092  Weight: 1.00
+ Name: 1kdu_       Len:   1233  Check: 6314  Weight: 1.00
+ Name: 1nl1_A      Len:   1233  Check: 7216  Weight: 1.00
+ Name: 1pk2_       Len:   1233  Check: 9774  Weight: 1.00
+ Name: 5hpg_A      Len:   1233  Check: 4854  Weight: 1.00
+ Name: KRM2_HUMAN  Len:   1233  Check: 6021  Weight: 1.00
+ Name: KRM1_HUMAN  Len:   1233  Check: 5318  Weight: 1.00
+ Name: ROR1_DROME  Len:   1233  Check: 8512  Weight: 1.00
+ Name: ROR1_HUMAN  Len:   1233  Check: 2828  Weight: 1.00
+ Name: HGFA_HUMAN  Len:   1233  Check:  645  Weight: 1.00
+ Name: NETR_HUMAN  Len:   1233  Check: 3245  Weight: 1.00
+
+//
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     ------------------------------------------------------------
+ROR1_HUMAN     MHRPRRRGTRPPLLALLAALLLAARGAAAQETELSVSAELVPTSSWNISSELNKDSYLTL
+HGFA_HUMAN     ------------------------------------------------------------
+NETR_HUMAN     ------------------------------------------------------------
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     -------------------------MNKYSAFIVCISLVLLFTKK---DVGSHNVDSRIY
+ROR1_HUMAN     DEPMNNITTSLGQTAELHCKVSGNPPPTIRWFKND-APVVQEPRRLSFRSTIYGSRLRIR
+HGFA_HUMAN     -------------MGRWAWVPSPWPPPGLGPFLLLLLLLLLLPRGFQPQPGGNRTESPEP
+NETR_HUMAN     ------------------------------------------------------------
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     GFQQSSGICHIYNGTICRDVLSNAHVFV-SPNLTMNDLEERLKAAYGV--IKESKDMNAN
+ROR1_HUMAN     NLDTTDTGYFQCVATNGKEVVSST-----GVLFVKFGPPPTASPGYS----DEYEEDG-F
+HGFA_HUMAN     NATATPAIPTILVTSVTSETPATSAPEAEGPQSGGLPPPPRAVPSSSSPQAQALTEDGRP
+NETR_HUMAN     ------------------------------------------------------------
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     CR-MYA----LPSLCFSSMPICRTPERTNLLYFANVATNAKQLKNVS-----IRRKRTKS
+ROR1_HUMAN     CQ-PYR------------GIACARFIGNRTVYMESLHMQGEIENQIT----AAFTMIGTS
+HGFA_HUMAN     CRFPFRYGGRMLHACTSEGSAHRKWCATTHNYDRDRAWGYCVEATPPPGGPAALDPCASG
+NETR_HUMAN     ------------------------------------------------------------
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ----------------------------RRNTIHEFKKSAKTTLIKIDPALKIKTKKVNT
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         --------------------------------------------ANKGFLXXVRKGNLXR
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     KDIKN-ISIFKKKSTIYEDVFS---------TDISSKYPPTRESENLKRICREECELLEN
+ROR1_HUMAN     SHLSD-KCSQFAIPSLCHYAFP------------YCDET--SSVPKPRDLCRDECEILEN
+HGFA_HUMAN     PCLNGGSCSNTQDPQSYHCSCPRAFTGKDCGTEKCFDETRYEYLEGGDRWARVRQGHVEQ
+NETR_HUMAN     -------------------------------------------MTLARFVLALMLGALPE
+
+
+1a0h_A         ----------------------------------------------------SPLLE---
+1b2i_A         ------------------------------------------------------------
+1bht_A         ADQCANRCTRNKGLPFTCKAFVFDKARKQCLWFPFNSMSSGVKKEFGHEFDLYENKDYIR
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         X-CLXXPC----SRXXAFXALXSLSATD-----AFWAKYTACESARNPREKLNECLE--G
+1pk2_          ----------------------------------------------------SEGNS---
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ---------------------MGTQALQGFLFLLFLPLLQPRGASAGSLH--SPGLS---
+KRM1_HUMAN     ---------------------MAPPAARLALLSAAALTLAARPAPSPGL---GPG-P---
+ROR1_DROME     ELCQKEYAI--AKRHPVIGMVGVEDCQK-------LPQHKDCLSLGITIE--VDKTE---
+ROR1_HUMAN     VLCQTEYIF-ARSNPMILMRLKLPNCED--LPQPESPEAANCIRIGIPMADPINKNH---
+HGFA_HUMAN     CECFGGRTWCEGTRHTACLSSPCLNGGTCHLIVATGTTVCACPPGFAGRLCNIEPDE---
+NETR_HUMAN     VVGFDSVLN-DSLHHSHRHSPPAGPHYPYYLPTQQRPPTTRPPPPLPRFPRPPRALPAQR
+
+
+1a0h_A         TCVPDRGREYR--------GRLAVTTH---GSRCLAWSSEQAKALS-KDQDFNPAV--PL
+1b2i_A         -CMHGSGENYD--------GKISKTMS---GLECQAWDSQSPHAHG-YIPSKFPNK--NL
+1bht_A         NCIIGKGRSYK--------GTVSITKS---GIKCQPWSSMIPHEHS-FLPSSYRGK--DL
+1i71_A         DCYHGDGQSYR--------GSFSTTVT---GRTCQSWSSMTPHWHQ-RTTEYYPNG--GL
+1kdu_          -CYEGNGHFYR--------GKASTDTM---GRPCLPWNSATVLQQT-YHAHRSDA---GL
+1nl1_A         NCAEGVGMNYR--------GNVSVTRS---GIECQLWRSRYPHKPE-INSTTHPGA--DL
+1pk2_          DCYFGNGSAYR--------GTHSLTES---GASCLPWNSMILIGKV-YTAQNPSAQALGL
+5hpg_A         DCMFGNGKGYR--------GKRVTTVT---GTPCQDWAAQEPHRHSIFTPETNPRA--GL
+KRM2_HUMAN     ECFQVNGADYR--------GHQNRTGPRGAGRPCLFWDQTQQHS---YSSASDPHGRWGL
+KRM1_HUMAN     ECFTANGADYR--------GTQNWTALQG-GKPCLFWNETFQHP---YNTLKYPNGEGGL
+ROR1_DROME     NCYWEDGSTYR--------GVANVSAS---GKPCLRWSWLM------KEISDFPEL---I
+ROR1_HUMAN     KCYNSTGVDYR--------GTVSVTKS---GRQCQPWNSQYPHTHT-FTALRFPEL--NG
+HGFA_HUMAN     RCFLGNGTGYR--------GVASTSAS---GLSCLAWNSDLLYQEL-HVDSVGAAALLGL
+NETR_HUMAN     PHALQAGHTPRPHPWGCPAGEPWVSVTDF-GAPCLRWAEVPPFLER-SPPASWAQL--RG
+
+
+1a0h_A         AE-NFCRNPDGDEEGAWCYVA-DQP-GDFEYCDLNYCEEPVDGDLG-DRLGEDPDAAIEG
+1b2i_A         KK-NYCRNPDRELR-PWCFTT-DPN-KRWELCDIPRCT----------------------
+1bht_A         QE-NYCRNPRGEEGGPWCFTS-NPE-VRYEVCDIPQCSEVE-------------------
+1i71_A         TR-NYCRNPDAEIR-PWCYTM-DPS-VRWEYCNLTQCPVME-------------------
+1kdu_          GK-NYCRNPDNRRR-PWCYVQGLKP-LVQE-CMVHDCAD---------------------
+1nl1_A         RE-NFCRNPDGSITGPWCYTT-SPT-LRREECSVPVCGQD--------------------
+1pk2_          GKHNYCRNPDGDAK-PWCHVLKNRR-LTWEYCDVPSCST---------------------
+5hpg_A         EK-NYCRNPDGDVGGPWCYTT-NPR-KLYDYCDVPQCAAP--------------------
+KRM2_HUMAN     GAHNFCRNPDGDVQ-PWCYVAETEEGIYWRYCDIPSCHMPGYLGCFVDSGAPPALSGPSG
+KRM1_HUMAN     GEHNYCRNPDGDVS-PWCYVAEHEDGVYWKYCEIPACQMPGNLGCYKDHGNPPPLTGTSK
+ROR1_DROME     GQ-NYCRNPGSVENSPWCFVDSSRE-RIIELCDIPKCADKIWIAIVGTTAAIILIFIIIF
+ROR1_HUMAN     GH-SYCRNPGNQKEAPWCFTL-DEN-FKSDLCDIPACDSKDSKEKNKMEILYILVPSVAI
+HGFA_HUMAN     GPHAYCRNPDNDER-PWCYVVKDSA-LSWEYCRLEACESLTRVQLSPDLLATLPEPASPG
+NETR_HUMAN     QRHNFCRSPDGAGR-PWCFYGDARGKVDWGYCDCRHGSVRLRGGKN----------EFEG
+
+
+1a0h_A         RTS---EDHFQPFFNEKTFGAGEADCGLRPLFEKKQVQDQT-EK---------------E
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     TSTKLTVQVCLRFCRMKGYQLAGVEAGYACFCGSE------------------------S
+KRM1_HUMAN     TSNKLTIQTCISFCRSQRFKFAGMESGYACFCGNN------------------------P
+ROR1_DROME     AIILFKRRTIMHYGMRNI-HNINTPSADKNIYGNSQLNNAQDAGRGNLGNLSDHVALNSK
+ROR1_HUMAN     PLAIALLFFFICVCRNNQ--KSSSAPVQRQ---PKHVRGQNVEM---------------S
+HGFA_HUMAN     RQACGRRHKKRTFLRPRIIGGSSSLPGSHPWLAAIYIGDSFCAG---------------S
+NETR_HUMAN     TVEVYASGVWGTVCSSHWDDSDASVICHQLQLGGKGIAKQ-------------------T
+
+
+1a0h_A         LFESYIEGR---------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     DLARGRLAPATDCDQICFGH--PGQLCGGDGRLGVYEVSVGSCQGNWTAPQGVIYSPDFP
+KRM1_HUMAN     DYWKYGEAASTECNSVCFGD--HTQPCGGDGRIILFDTLVGACGGNYSAMSSVVYSPDFP
+ROR1_DROME     LIERNTLLRINH-FTLQDVE--FLEELGEGAFGKVYKGQLLQPNKTTIT-VAIKALKENA
+ROR1_HUMAN     MLNAYKPKSKAKELPLSAVR--FMEELGECAFGKIYKGHLYLPGMDHAQLVAIKTLKDYN
+HGFA_HUMAN     LVHTCWVVSAAHCFSHSPPRDSVSVVLGQHFFNRTTDVTQTFGIEKYIPYTLYSVFNPSD
+NETR_HUMAN     PFSGLGLIPIYWSNVRCRGDEENILLCEKD----IWQGGVCPQKMAAAVTCSFSHGPTFP
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     DEYGPDRNCSWALGPPGAA-LELTFRLFELADPRDRLELRDAASGSLLRAFDG-ARPPPS
+KRM1_HUMAN     DTYATGRVCYWTIRVPGASHIHFSFPLFDIRDSADMVELLDGYTHRVLARFHGRSRPPLS
+ROR1_DROME     SVKTQQDFKREIELISDLKHQNIVCILGVVLNKEPYCMLFEYMANGDLHEFLI-SNSP--
+ROR1_HUMAN     NPQQWMEFQQEASLMAELHHPNIVCLLGAVTQEQPVCMLFEYINQGDLHEFLI-MRSPHS
+HGFA_HUMAN     HDLVLIRLKKKGDRCATRSQFVQPICLPEPGSTFPAGHKCQIAGWGHLDENVSGYSSSLR
+NETR_HUMAN     IIRLAGGSSVHEGRVELYHAGQWGTVCDDQWDDADAEVICRQLGLSGIAKAW--HQAYFG
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ---GPLRLGTAALLLTFRSDARGHAQGFALTYRGLQDAAEDPEA--PEGSAQTPAAPL--
+KRM1_HUMAN     ---FNVSLD--FVILYFFSDRINQAQGFAVLYQAVKE--ELPQE--RPAVNQTVAEVI-T
+ROR1_DROME     -------TEGKSLSQL---EFLQIALQISEGMQYLSAHHYVHRD--LAARNCLVNEGLVV
+ROR1_HUMAN     DVGCSSDEDGTVKSSLDHGDFLHIAIQIAAGMEYLSSHFFVHKD--LAARNILIGEQLHV
+HGFA_HUMAN     EALVPLVADHKCSSPEVYGADISPNMLCAGYFDCKSDACQGDSGGPLACEKNGVAYLYGI
+NETR_HUMAN     EGSGPVMLD----EVRCTGNELSIEQCPKSSW---GEHNCGHKE--DAGVSCTPLTDGVI
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     DGANVSCS-------------------PR--PG----APPAAIGARVFSTVTAVSVLLLL
+KRM1_HUMAN     EQANLSVSAARSSKVLYVITTS-PSHPPQTVPGSNSWAPPMGAGSHRVEGWTVYGLATLL
+ROR1_DROME     KISDFGLSRDIYSSDYYRVQSK-SLLPVRWMPSESILYGKFTTESDVWSFGVVLWEIYSY
+ROR1_HUMAN     KISDLGLSREIYSADYYRVQSK-SLLPIRWMPPEAIMYGKFSSDSDIWSFGVVLWEIFSF
+HGFA_HUMAN     ISWGDGCGRLHKPGVYTRVANYVDWINDRIRPPRRLVAPS--------------------
+NETR_HUMAN     RLAGGKGSHEGRLEVYYRGQWGTVCDDGWTELNTYVVCRQLGFKYGKQASANHFEESTGP
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     LLGLLRPLRRRSCLLAPGKGP--PALGASRG---PRRS---WAVWYQQPRGVALPCSPGD
+KRM1_HUMAN     ILTV-TAIVAKILLHVTFKSHRVPASGDLRDCHQPGTSGEIWSIFYKPSTSISIFKKKLK
+ROR1_DROME     GMQPYYGFSNQEVINLIRSRQLLSAPENCPTAVYSLMIECWHEQSVKRPTFTDISNRLKT
+ROR1_HUMAN     GLQPYYGFSNQEVIEMVRKRQLLPCSEDCPPRMYSLMTECWNEIPSRRPRFKDIHVRLRS
+HGFA_HUMAN     ------------------------------------------------------------
+NETR_HUMAN     IWLDDVSCSGKETRFLQCSRRQ-WGRHDCSHR-EDVSIACYPGGEGHR-LSLGFPVRLMD
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     PQA-EGSAAGYRPLSASSQSSLRSLISAL-------------------------------
+KRM1_HUMAN     GQS-QQD--DRNPLVSD-------------------------------------------
+ROR1_DROME     WH--EGHFKASNPEM---------------------------------------------
+ROR1_HUMAN     WEGLSSHTSSTTPSGGNATTQTTSLSASPVSNLSNPRYPNYMFPSQGITPQGQIAGFIGP
+HGFA_HUMAN     ------------------------------------------------------------
+NETR_HUMAN     GEN-KKEGRVEVFINGQWGTICDDGWTDKDAAVIC-RQLGYKGPARART-MAYFGEGKGP
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     ------------------------------------------------------------
+ROR1_HUMAN     PIPQNQRFIPINGYPIPPGYAAFPAAHYQPTGPPRVIQHCPPPKSRSPSSASGSTSTGHV
+HGFA_HUMAN     ------------------------------------------------------------
+NETR_HUMAN     IHVDNVKCTG-NERSLADCIKQDIGRHNCRHSEDAGVI-C----DYFGKKASGNSNKESL
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     ------------------------------------------------------------
+ROR1_HUMAN     TSLPSSGSNQEANIPLLPHMSIPNHPGGMGITVFGNKSQKPYKIDSKQASLLGDANIHGH
+HGFA_HUMAN     ------------------------------------------------------------
+NETR_HUMAN     SSV--------CGLRLL-HRRQKRIIGGKNSLRGGW----PWQVSLRLKSSHGDGRLLCG
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     ------------------------------------------------------------
+ROR1_HUMAN     TESMISAEL---------------------------------------------------
+HGFA_HUMAN     ------------------------------------------------------------
+NETR_HUMAN     ATLLSSCWVLTAAHCFKRYGNSTRSYAVRVGDYHTLVPEEFEEEIGVQQIVIHREYRPDR
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     ------------------------------------------------------------
+ROR1_HUMAN     ------------------------------------------------------------
+HGFA_HUMAN     ------------------------------------------------------------
+NETR_HUMAN     SDYDIALVRLQGPEEQCARFSSHVLPACLPLWRERPQKTASNCYITGWGDTGRAYSRTLQ
+
+
+1a0h_A         ------------------------------------------------------------
+1b2i_A         ------------------------------------------------------------
+1bht_A         ------------------------------------------------------------
+1i71_A         ------------------------------------------------------------
+1kdu_          ------------------------------------------------------------
+1nl1_A         ------------------------------------------------------------
+1pk2_          ------------------------------------------------------------
+5hpg_A         ------------------------------------------------------------
+KRM2_HUMAN     ------------------------------------------------------------
+KRM1_HUMAN     ------------------------------------------------------------
+ROR1_DROME     ------------------------------------------------------------
+ROR1_HUMAN     ------------------------------------------------------------
+HGFA_HUMAN     ------------------------------------------------------------
+NETR_HUMAN     QAAIPLLPKRFCEERYKGRFTGRMLCAGNLHEHKRVDSCQGDSGGPLMCERPGESWVVYG
+
+
+1a0h_A         ---------------------------------
+1b2i_A         ---------------------------------
+1bht_A         ---------------------------------
+1i71_A         ---------------------------------
+1kdu_          ---------------------------------
+1nl1_A         ---------------------------------
+1pk2_          ---------------------------------
+5hpg_A         ---------------------------------
+KRM2_HUMAN     ---------------------------------
+KRM1_HUMAN     ---------------------------------
+ROR1_DROME     ---------------------------------
+ROR1_HUMAN     ---------------------------------
+HGFA_HUMAN     ---------------------------------
+NETR_HUMAN     VTSWGYGCGVKDSPGVYTKVSAFVPWIKSVTKL
+
+

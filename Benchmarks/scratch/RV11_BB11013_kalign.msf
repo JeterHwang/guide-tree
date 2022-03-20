@@ -1,0 +1,26 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11013_kalign.msf  MSF: 103  Type: N  December 21, 2021 20:30  Check: 369  ..
+
+ Name: 1idy_   Len:    103  Check: 4396  Weight: 1.00
+ Name: 1hst_A  Len:    103  Check: 7431  Weight: 1.00
+ Name: 1tc3_C  Len:    103  Check: 4346  Weight: 1.00
+ Name: 1aoy_   Len:    103  Check: 3422  Weight: 1.00
+ Name: 1jhg_A  Len:    103  Check:  774  Weight: 1.00
+
+//
+
+1idy_      -----------------MEVKKTSWTEEEDRILYQA--HKRLGNRWAEIAKLLPGRTDNA
+1hst_A     --------------------------SHPTYSEMIAAAIRAEKSRGGSSRQSIQKYIKSH
+1tc3_C     PRGSALSDTERAQ----LDVMK----------LLNVSLHEMSRKISRSR-HCIRVYLKDP
+1aoy_      --------------------MRSSAKQEELVKAFKALLKEEKFSSQGEIVAALQEQGFDN
+1jhg_A     --SAAMAEQRHQEWLRFVDLLKNAYQNDLHLPLLNLMLTPDEREALGTRVRIIEELLRGE
+
+
+1idy_      IKNHWNSTMRRKV------------------------------
+1hst_A     YKVGHNADLQIKLSIRRLLAAGVLKQTKGVGASGSFRLAK---
+1tc3_C     VSYGTS-------------------------------------
+1aoy_      INQSKVSRMLTKFGAVRTRNAKMEMVYCLPAELGVPTT-----
+1jhg_A     MSQRELKNELGAGIATITRGSNSLKAAPVELRQWLEEVLLKSD
+
+

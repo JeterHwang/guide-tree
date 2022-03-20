@@ -1,0 +1,227 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 613  Type: P  December 21, 2021 20:32  Check: 9435  ..
+
+ Name: 1mrj_       Len:    613  Check: 9081  Weight: -1.00
+ Name: 1apg_A      Len:    613  Check: 9113  Weight: -1.00
+ Name: MLA1_VISAL  Len:    613  Check: 7466  Weight: -1.00
+ Name: ABRB_ABRPR  Len:    613  Check:  493  Weight: -1.00
+ Name: 1hwm_A      Len:    613  Check: 3763  Weight: -1.00
+ Name: RIP2_BRYDI  Len:    613  Check: 7691  Weight: -1.00
+ Name: RIP2_MOMBA  Len:    613  Check: 9597  Weight: -1.00
+ Name: RIPG_GELMU  Len:    613  Check: 3129  Weight: -1.00
+ Name: RIPS_PHYAM  Len:    613  Check: 8041  Weight: -1.00
+ Name: RIP2_PHYAM  Len:    613  Check: 3526  Weight: -1.00
+ Name: 1qi7_A      Len:    613  Check: 8668  Weight: -1.00
+ Name: RIPP_MIRJA  Len:    613  Check: 3094  Weight: -1.00
+ Name: 1apa_       Len:    613  Check: 3730  Weight: -1.00
+ Name: RIP1_PHYAM  Len:    613  Check: 2043  Weight: -1.00
+
+//
+
+            1                                                   50
+1mrj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~I.. ....FPK... .......QYP
+MLA1_VISAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~YE
+ABRB_ABRPR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~QDQ
+1hwm_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~I... .......DYP
+RIP2_BRYDI  MR........ ....SIGFYS VLALYVGA.. ....HVT... .......EDV
+RIP2_MOMBA  MVK....... ...CLLLSFL IIAIFIGV.. .....PT... .......AKG
+RIPG_GELMU  MKGNMKVYWI K.IAVATWFC CTTIVLGSTA RIFSLPTNDE EETSKTLGLD
+RIPS_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~INT.
+RIP2_PHYAM  ~~MKMKVLEV VGLAISIWLM LT........ .....PPA.. ...S...SN.
+1qi7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~VTS.
+RIPP_MIRJA  MLTTTKVFFL LLTTWITWYA IV........ .....NPQ.. ...SRAAPTL
+1apa_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~INT.
+RIP1_PHYAM  ~~~~~~MKSM LVVTISIWLI LA........ .....PTS.. ...TWAVNT.
+
+            51                                                 100
+1mrj_       DVS.FRLSGA TSSSYGVFIS NLRKALPN.E RKLYDIPLLR S.S..LPGSQ
+1apg_A      IIN.FTTAGA TVQSYTNFIR AVRGRLTTGA DVRHEIPVLP N.RVGLPINQ
+MLA1_VISAL  RLRLRVTHQT TGEEYFRFIT LLRDYVSSGS .FSNEIPLLR QSTIPVSDAQ
+ABRB_ABRPR  VIK.FTTEGA TSQSYKQFIE ALRQRLTGG. .LIHGIPVLP D.PTTLQERN
+1hwm_A      SVS.FNLAGA KSTTYRDFLK NLRDRVATGT YEVNGLPVLR R.ESEVQVKN
+RIP2_BRYDI  DIN.FSLIGA TGATYKTFIR NLRTKLTVGT PRVYDIPVLR N.A..AAGLA
+RIP2_MOMBA  DVN.FDLSTA TAKTYTKFIE DFRATLPF.S HKVYDIPLLY S.T..ISDSR
+RIPG_GELMU  TVS.FSTKGA TYITYVNFLN ELRVKLKP.E GNSHGIPLLR KKC..DDPGK
+RIPS_PHYAM  .IT.FDAGNA TINKYATFME SLRNEAKDPS LKCYGIPMLP N.T...NSTI
+RIP2_PHYAM  .IV.FDVENA TPETYSNFLT SLREAVKDKK LTCHGMIMAT T.L...TEQP
+1qi7_A      .IT.LDLVNP TAGQYSSFVD KIRNNVKDPN LKYGGTDIAV I.G..PPSKE
+RIPP_MIRJA  ETI.ASLDLN NPTTYLSFIT NIRTKVADKT EQCTIQKISK ......TFTQ
+1apa_       .IT.FDVGNA TINKYATFMK SIHNQAKDPT LKCYGIPMLP N.T...NLTP
+RIP1_PHYAM  .II.YNVGST TISKYATFLN DLRNEAKDPS LKCYGIPMLP N.T...NTNP
+
+            101                                                150
+1mrj_       RYALIHLTNY ADETISVAID VTNVYIMGYR AG.....DTS YFFNEASATE
+1apg_A      RFILVELSNH AELSVTLALD VTNAYVVGYR AG.....NSA YFFHPDNQED
+MLA1_VISAL  RFVLVELTNQ GQDSVTAAID VTNAYVVAYQ AG.....DQS YFLRDAPRGA
+ABRB_ABRPR  RYISVELSNS DTESIEAGID VSNAYVVAYR AG.....NRS YFLRDAPTSA
+1hwm_A      RFVLVRLTNY NGDTVTSAVD VTNLYLVAFS AN.....GNS YFFKDATELQ
+RIP2_BRYDI  RFQLVTLTNY NGESVTVALD VVNVYVVAYR AG.....NTA YFLADASTEA
+RIP2_MOMBA  RFILLDLTSY AYETISVAID VTNVYVVAYR TR.....DVS YFFKESPPEA
+RIPG_GELMU  CFVLVALSND NGQLAEIAID VTSVYVVGYQ VR.....NRS YFFKDAPDAA
+RIPS_PHYAM  KYLLVKLQGA SLKTITLMLR RNNLYVMGYS DPYD.NKCRY HIFNDIKG.T
+RIP2_PHYAM  KYVLVDLKFG .SGTFTLAIR RGNLYLEGYS DIYN.GKCRY RIFKDSES..
+1qi7_A      KFLRINFQ.S SRGTVSLGLK RDNLYVVAYL AMDNTNVNRA YYFKSEITSA
+RIPP_MIRJA  RYSYIDLIVS STQKITLAID MADLYVLGYS DIAN.NKGRA FFFKDVTE..
+1apa_       KYLLVTLQDS SLKTITLMLK RNNLYVMGYA DTYN.GKCRY HIFKDISNTT
+RIP1_PHYAM  KYVLVELQGS NKKTITLMLR RNNLYVMGYS DPFETNKCRY HIFNDISG.T
+
+            151                                                200
+1mrj_       AA...KYVFK DA.....MRK VTLPYSGNYE RLQTA....A GKI.RENIPL
+1apg_A      AE.AITHLFT DV.....QNR YTFAFGGNYD RLEQL....A GNL.RENIEL
+MLA1_VISAL  E....THLF. TG.....TTR SSLPFNGSYP DLERY....A GH..RDQIPL
+ABRB_ABRPR  S....RYLF. TG.....TQQ YSLRFNGSYI DLERL....A RQT.RQQIPL
+1hwm_A      .....KSNLF LG.....TTQ HTLSFTGNYD NLETA....A GTR.RESIEL
+RIP2_BRYDI  .....NNVLF AG.....INH VRLPYGGNYD GLETA....A GRISRENIEL
+RIP2_MOMBA  .Y....NILF KG.....TRK ITLPYTGNYE NLQTA....A HKI.RENIDL
+RIPG_GELMU  Y.....EGLF KN.....TIK TRLHFGGSYP SLEGE....K AY..RETTDL
+RIPS_PHYAM  EYSDVENTLC PSSNPRV..A KPINYNGLYP TLEKK....A GVTSRNEVQL
+RIP2_PHYAM  ...DAQETVC PGDKSKPGTQ NNIPYEKSYK GMESK....G GA..RTKLGL
+1qi7_A      ....ELTALF PEATT..ANQ KALEYTEDYQ SIEKNAQITQ GDKSRKELGL
+RIPP_MIRJA  ...AVANNFF PGATG..TNR IKLTFTGSYG DLEKN....G GL..RKDNPL
+1apa_       ERNDVMTTLC PNPSSRV..G KNINYDSSYP ALEKK....V GR.PRSQVQL
+RIP1_PHYAM  ERQDVETTLC PNANSRV..S KNINFDSRYP TLESK....A GVKSRSQVQL
+
+            201                                                250
+1mrj_       GLPALDSAIT TLFYYNA... ....NSAASA LMVLIQSTSE AARYKFIEQQ
+1apg_A      GNGPLEEAIS ALYYYSTG.. GTQLPTLARS FIICIQMISE AARFQYIEGE
+MLA1_VISAL  GIDQLIQSVT ALRF...P.. GGSTRTQARS ILILIQMISE AARFNPILWR
+ABRB_ABRPR  GLQALRHAIS F....LQS.. GTDDQEIART LIVIIQMASE AARYRFISYR
+1hwm_A      GPNPLDGAIT SLWYDG.... .....GVARS LLVLIQMVPE AARFRYIEQE
+RIP2_BRYDI  GFSEISSAIG NMFRHNPG.. ....TSVPRA FIVIIQTVSE AARFKYIEQR
+RIP2_MOMBA  GLPALSSAIT TLFYYNA... ....QSAPSA LLVLIQTTAE AARFKYIERH
+RIPG_GELMU  GIEPLRIGIK KLDENAID.. NYKPTEIASS LLVVIQMVSE AARFTFIENQ
+RIPS_PHYAM  GIQILSSDIG KISGQGSFT. ...EKIEAKF LLVAIQMVSE AARFKYIENQ
+RIP2_PHYAM  GKITLKSRMG KIYGKDATDQ KQYQKNEAEF LLIAVQMVTE ASRFKYIENK
+1qi7_A      GIDLLLTFME AVNKK..... ARVVKNEARF LLIAIQMTAE VARFRYIQNL
+RIPP_MIRJA  GIFRLENSIV NIYGKAG... ..DVKKQAKF FLLAIQMVSE AARFKYISDK
+1apa_       GIQILNSGIG KIYGVDSFT. ...EKTEAEF LLVAIQMVSE AARFKYIENQ
+RIP1_PHYAM  GIQILDSNIG KISGVMSFT. ...EKTEAEF LLVAIQMVSE AARFKYIENQ
+
+            251                                                300
+1mrj_       IGKRV..DKT FLPSLAIISL ENSWSALSKQ IQIAST.NNG QFESPVVLIN
+1apg_A      MRTRIRYNRR SAPDPSVITL ENSWGRLSTA IQES...NQG AFASPIQLQR
+MLA1_VISAL  YRQYINSGAS FLPDVYMLEL ETSWGQQSTQ VQHS...TDG VFNNPIRLAI
+ABRB_ABRPR  VGVSIRTNTA FQPDAAMISL ENNWDNLSGG VQQS...VQD TFPNAVTLRS
+1hwm_A      VRRSLQQLTS FTPNALMLSM ENNWSSMSLE VQLSGD.NVS PFSGTVQLQN
+RIP2_BRYDI  VSENV..GTK FKPDPAFLSL QNAWGSLSEQ IQIAQT.RGG EFARPVELRT
+RIP2_MOMBA  VAKYV..ATN FKPNLAIISL ENQWSALSKQ IFLAQN.QGG KFRNPVDLIK
+RIPG_GELMU  IRNNF..QQR IRPANNTISL ENKWGKLSFQ IRTSG..ANG MFSEAVELER
+RIPS_PHYAM  VKTNFNR..D FSPNDKVLDL EENWGKISTA IHN...SKNG ALPKPLELKN
+RIP2_PHYAM  VKAKFDDANG YQPDPKAISL EKNWDSVSKV IAKVGTSGDS TVTLPGDLKD
+1qi7_A      VTKNFPN..K FDSDNKVIQF EVSWRKISTA IYG..DAKNG VFNKDYDFGF
+RIPP_MIRJA  IPSEKYE..E VTVDEYMTAL ENNWAKLSTA VYNSKPSTTT ATKCQLATSP
+1apa_       VKTNFNR..A FYPNAKVLNL EESWGKISTA IHN...AKNG ALTSPLELKN
+RIP1_PHYAM  VKTNFNR..A FNPNPKVLNL QETWGKISTA IHD...AKNG VLPKPLELVD
+
+            301                                                350
+1mrj_       AQNQRVTITN VDAGVVTSNI ALLLNRNNMA ~~~~~~~~~~ ~~~~~~~~~~
+1apg_A      RNGSKFSVYD V.SILI.PII ALMVYRCAPP P.....SSQF ~~~~~~~~~~
+MLA1_VISAL  PPGNFVTLTN V.RDVI.ASL AIMLFVCGER P.....SSS~ ~~~~~~~~~~
+ABRB_ABRPR  VNNQPVIVDS LTHQSV.AVL ALMLFVCNPP N.....ANQS PLLIRSIVEK
+1hwm_A      YDHTPRLVDN FEELYKITGI AILLFRCVA~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_BRYDI  VSNTPTFVTN VNSPVVKGIA LLLYFRVNVG T.....DNVF AMSLSTY~~~
+RIP2_MOMBA  PTGERFQVTN VDSDVVKGNI KLLLNSRAST A.....DENF ITTMTLLGES
+RIPG_GELMU  ANGKKYYVTA VDQ..VKPKI ALLKFVDKDP K.....TSLA AELIIQNYES
+RIPS_PHYAM  ADGTKWIVLR VDE..IKPDV GLLNYVNGTC QAT~~~~~~~ ~~~~~~~~~~
+RIP2_PHYAM  ENNKPWTTAT MND..LKNDI MALL.THVTC K...VKSSMF PEIMSYYYRT
+1qi7_A      GKV.....RQ VKD..L..QM GLLMYLGKPK ~~~~~~~~~~ ~~~~~~~~~~
+RIPP_MIRJA  VTISPWIFKT VEE..IKLVM GLLKSS~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apa_       ANGSKWIVLR VDD..IEPDV GLLKYVNGTC QAT~~~~~~~ ~~~~~~~~~~
+RIP1_PHYAM  ASGAKWIVLR VDE..IKPDV ALLNYVGGSC QTTYNQNAMF PQLIMSTYYN
+
+            351                                                400
+1mrj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MLA1_VISAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABRB_ABRPR  SKICSSRYEP TVRIGGRNGM CVDVYDDGYH NGNRIIAWKC KDRLEENQLW
+1hwm_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_BRYDI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_MOMBA  VVN~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPG_GELMU  LVGFD~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPS_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_PHYAM  SISNLGEFE~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qi7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPP_MIRJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apa_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP1_PHYAM  YMVNLGDLFE GF~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            401                                                450
+1mrj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MLA1_VISAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABRB_ABRPR  TLKSDKTIRS NGKCLTTEGY APGNYVMIYD CTSAVAEATY WEIWDNGTII
+1hwm_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_BRYDI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_MOMBA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPG_GELMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPS_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qi7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPP_MIRJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apa_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP1_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            451                                                500
+1mrj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MLA1_VISAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABRB_ABRPR  NPKSALVLSA ESSSMGGTLT VQTNEYLMRQ GWRTGNNTSP FVTSISGYSD
+1hwm_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_BRYDI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_MOMBA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPG_GELMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPS_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qi7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPP_MIRJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apa_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP1_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            501                                                550
+1mrj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MLA1_VISAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABRB_ABRPR  LCMQAQGSNV WLAYCDNNKK EQQWALYTDG SIRSVQNTNN CLTSKDHKQG
+1hwm_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_BRYDI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_MOMBA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPG_GELMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPS_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qi7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPP_MIRJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apa_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP1_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            551                                                600
+1mrj_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apg_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+MLA1_VISAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ABRB_ABRPR  SPIVLMACSN GWASQRWLFR NDGSIYNLHD DMVMDVKRSD PSLKEIILHP
+1hwm_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_BRYDI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_MOMBA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPG_GELMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPS_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP2_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qi7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIPP_MIRJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1apa_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RIP1_PHYAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            601        613
+1mrj_       ~~~~~~~~~~ ~~~
+1apg_A      ~~~~~~~~~~ ~~~
+MLA1_VISAL  ~~~~~~~~~~ ~~~
+ABRB_ABRPR  YHGKPNQIWL TLF
+1hwm_A      ~~~~~~~~~~ ~~~
+RIP2_BRYDI  ~~~~~~~~~~ ~~~
+RIP2_MOMBA  ~~~~~~~~~~ ~~~
+RIPG_GELMU  ~~~~~~~~~~ ~~~
+RIPS_PHYAM  ~~~~~~~~~~ ~~~
+RIP2_PHYAM  ~~~~~~~~~~ ~~~
+1qi7_A      ~~~~~~~~~~ ~~~
+RIPP_MIRJA  ~~~~~~~~~~ ~~~
+1apa_       ~~~~~~~~~~ ~~~
+RIP1_PHYAM  ~~~~~~~~~~ ~~~

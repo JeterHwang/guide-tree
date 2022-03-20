@@ -1,0 +1,295 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV12_BB12035_kalign.msf  MSF: 499  Type: N  December 21, 2021 20:30  Check: 8028  ..
+
+ Name: 1ton_       Len:    499  Check:  437  Weight: 1.00
+ Name: 1a0h_B      Len:    499  Check: 9922  Weight: 1.00
+ Name: 1a0j_A      Len:    499  Check: 9033  Weight: 1.00
+ Name: 1a0l_A      Len:    499  Check: 5758  Weight: 1.00
+ Name: 1a5i_A      Len:    499  Check: 8739  Weight: 1.00
+ Name: 1bru_P      Len:    499  Check: 1284  Weight: 1.00
+ Name: 1c5m_D      Len:    499  Check: 7396  Weight: 1.00
+ Name: KLKA_HUMAN  Len:    499  Check: 5200  Weight: 1.00
+ Name: BSS4_MOUSE  Len:    499  Check: 9037  Weight: 1.00
+ Name: TEST_MOUSE  Len:    499  Check: 7538  Weight: 1.00
+ Name: TRY3_ANOGA  Len:    499  Check: 3958  Weight: 1.00
+ Name: VDP_BOMMO   Len:    499  Check: 1875  Weight: 1.00
+ Name: TRYP_STRGA  Len:    499  Check: 5694  Weight: 1.00
+ Name: TRYP_SACER  Len:    499  Check: 5991  Weight: 1.00
+ Name: TRYE_DROER  Len:    499  Check: 8519  Weight: 1.00
+ Name: TRYI_DROME  Len:    499  Check: 5838  Weight: 1.00
+ Name: TRYZ_DROER  Len:    499  Check: 1393  Weight: 1.00
+ Name: COGS_UCAPU  Len:    499  Check: 3962  Weight: 1.00
+ Name: CTR1_ANOGA  Len:    499  Check:  196  Weight: 1.00
+ Name: FIBC_LUMRU  Len:    499  Check: 8223  Weight: 1.00
+ Name: CFAD_HUMAN  Len:    499  Check: 7537  Weight: 1.00
+ Name: GRAB_MOUSE  Len:    499  Check:   92  Weight: 1.00
+ Name: PRN3_HUMAN  Len:    499  Check: 3702  Weight: 1.00
+ Name: GRAA_HUMAN  Len:    499  Check:  685  Weight: 1.00
+ Name: GRAM_RAT    Len:    499  Check:  353  Weight: 1.00
+ Name: ACRO_MOUSE  Len:    499  Check: 7575  Weight: 1.00
+ Name: VSP1_BOTJA  Len:    499  Check: 8091  Weight: 1.00
+
+//
+
+1ton_          ------------------------------------------------------------
+1a0h_B         ------------------------------------------------------------
+1a0j_A         ------------------------------------------------------------
+1a0l_A         ------------------------------------------------------------
+1a5i_A         --------------------------------------------------CGLRKYKE--
+1bru_P         ------------------------------------------------------------
+1c5m_D         ------------------------------------------------------------
+KLKA_HUMAN     ---------MRAPHLHLSAASGARALAKLLPLLMAQL--WAAE------AALLPQNDT--
+BSS4_MOUSE     MMISRPPPALGGDQFSILILLVLLTSTA-PISAATIRVSPD-------------CGKP--
+TEST_MOUSE     ---------MGARGKTLVPLLVVVATAAMALQSTYLQVDPEKPELQEPDLLSGPCGHR--
+TRY3_ANOGA     ---------MI-SNKIAILLAVLVVAVACAQARVALKHRSVQA------LPRFLPRPQ--
+VDP_BOMMO      ----------M-TNSLLICFTILGLAASSPT------------------------KPI--
+TRYP_STRGA     ---------MTHTTTIAAKRGGLALAKKAAAAGAVAL--AVAS------LQPVSAAHA--
+TRYP_SACER     ------------------------------------------------------------
+TRYE_DROER     ---------ML-KIAVLLSVLACALAGTIPDGL----------------------LPQ--
+TRYI_DROME     ---------MA-VYGIVATVLVLLLLGDASD-------------------------VE--
+TRYZ_DROER     ---------MS-SSSWLGCLLAVLLSALALSQGLPL-------------LEDLDENSF--
+COGS_UCAPU     ------------------------------------------------------------
+CTR1_ANOGA     ---------MLRKVFAVASILLVVSAAKVPKLVL---------------------DDH--
+FIBC_LUMRU     ------------------------------------------------------------
+CFAD_HUMAN     -----------------------------MHSSVYFA--VLVL------LGAAACAAR--
+GRAB_MOUSE     ----------------------------------MKI--LLLL------LTLSLASRT--
+PRN3_HUMAN     ---------------------------MAHRPPSPAL--ASVL------LALLLSGAA--
+GRAA_HUMAN     --------------------------MRNSYRFLASS--LSVV------VSLLLIPED--
+GRAM_RAT       ----------------------------------LLL--LLAL------KTLWAVGNR--
+ACRO_MOUSE     -------------------MVEMLPTVAVLVLAVSVVAKDNTT-------CDGPCGLRFR
+VSP1_BOTJA     ------------------------------------------------------------
+
+
+1ton_          --------IVGGYKCEKNSQPWQVAVI------N---EY-L-CGGVLIDPSWVITAAHCY
+1a0h_B         --------IVEGQDAEVGLSPWQVMLFRK--SPQE----LL-CGASLISDRWVLTAAHCL
+1a0j_A         --------IVGGYECRKNSASYQASLQ------S---GYHF-CGGSLISSTWVVSAAHCY
+1a0l_A         --------IVGGQEAPRSKWPWQVSLRV-----HG--WMHF-CGGSLIHPQWVLTAAHCV
+1a5i_A         --PQL--HSTGGLFTDITSHPWQAAIFA-----QN--ERFL-CGGILISSCWVLTAAHCF
+1bru_P         --------VVGGEDARPNSWPWQVSLQY-----DQ--WRHT-CGGTLVDQSWVLTAAHCI
+1c5m_D         --------IVGGQECKDGECPWQALLIN-----EE---NEGFCGGTILSEFYILTAAHC-
+KLKA_HUMAN     --RLD--PEAYGAPCARGSQPWQVSLFN-----G---LSFH-CAGVLVDQSWVLTAAHCG
+BSS4_MOUSE     ---QQLNRIVGGEDSMDAQWPWIVSILKN--GSH------H-CAGSLLTNRWVVTAAHCF
+TEST_MOUSE     ---TIPSRIVGGDDAELGRWPWQGSLRVW--GNH------L-CGATLLNRRWVLTAAHCF
+TRY3_ANOGA     --YDVGHRIVGGFEIDVSETPYQVSLQY-----FN---SHR-CGGSVLNSKWILTAAHCT
+VDP_BOMMO      --GDI--RIVGGEDIVITEAPYQVSVMF-----RG---AHS-CGGTLVAADIVVTAAHCV
+TRYP_STRGA     --ADA--RVIGGKPAAQNEFPFMVHLSMG-------------CGGALYKKDIVLTAAHCM
+TRYP_SACER     --------IVGGEDANVQDHPFTVALVT-----PD---GQQFCGGTLAAPNKVVTAAHCT
+TRYE_DROER     --LDG--RIVGGYETSIDAHPYQVSLQR-----FG---SHF-CGGSIYSHDIVITAAHCL
+TRYI_DROME     --ATG--RIIGGSDQLIRNAPWQVSIQI-----SA---RHE-CGGVIYSKEIIITAGHCL
+TRYZ_DROER     --PDG--RIVGGYVTDIAQVPYQITLRYKAISSPENPFRHR-CGGSIVNETTILTAAHCV
+COGS_UCAPU     --------IVGGVEAVPNSWPHQAALFI-----D---DMYF-CGGSLISPEWILTAAHCM
+CTR1_ANOGA     --YVN--RVVGGEVAKNGSAPYQVSLQV-----PG--WGHN-CGGSLLNDRWVLTAAHCL
+FIBC_LUMRU     --------VIGGTNASPGEFPWQLSQQR-----QSGSWSHS-CGASLLSSTSALSASHCV
+CFAD_HUMAN     --PRG--RILGGREAEAHARPYMASVQL-----N---GAHL-CGGVLVAEQWVLSAAHCL
+GRAB_MOUSE     --KAG--EIIGGHEVKPHSRPYMALLSI-----KDQQPEAI-CGGFLIREDFVLTAAHCE
+PRN3_HUMAN     --RAA--EIVGGHEAQPHSRPYMASLQM-----RGNPGSHF-CGGTLIHPSFVLTAAHCL
+GRAA_HUMAN     --VCE--KIIGGNEVTPHSRPYMVLLSL-----D---RKTI-CAGALIAKDWVLTAAHCN
+GRAM_RAT       --FEA--QIIGGREAVPHSRPYMVSLQN-----T---KSHM-CGGVLVHQKWVLTAAHCL
+ACRO_MOUSE     QNSQAGTRIVSGQSAQLGAWPWMVSLQIF--TSHNSRRYHA-CGGSLLNSHWVLTAAHCF
+VSP1_BOTJA     --------VVGGRPCKINVHRSLVLLYN-----S---SSLL-CSGTLINQEWVLTAAHCD
+
+
+1ton_          SN------NYQVLLG-------RNNLFKDEPAQRRL-VRQ-SFRHPDYI-------VHD-
+1a0h_B         LYP---PWDKNFTVDDLLVRIGKHSRTRYERKVEKISMLDKIYIHPRYNW------KEN-
+1a0j_A         KS------RIQVRLG-------EHNIAVNEGTEQFIDSVK-VIMHPSYN-------SRN-
+1a0l_A         GLA-----ALRVQLR-------EQHLYYQDQ---LLPVSR-IIVHPQFY-------TAQ-
+1a5i_A         QPD-----QLKVVLG-------RTYRVKPGEEEQTFKVKK-YIVHKEFD-------DDT-
+1bru_P         SSS-----RTYVVLG-------RHSLSTNEPGSLAVKVSK-LVVHQDWN-------SNQ-
+1c5m_D         --L-Y-QKRFKVRVG-------DRNTEQEEGGEAVHEVEV-VIKHNRFTK-------ET-
+KLKA_HUMAN     NK------PLWARVG-------DDHLLLLQG-EQLRRTTR-SVVHPKYHQGSGPILPRRT
+BSS4_MOUSE     KSNMDKPSLFSVLLG-------AWKLGSPGPRSQKVGIAW-VLPHPRYSW------KEG-
+TEST_MOUSE     QKDND-PFDWTVQFGELTSRPSLWNLQAYSNRYQ---IED-IFLSPKYS--------EQ-
+TRY3_ANOGA     VNL-Q-PSSLAVRLG-------SSRHASG-G--TVVRVAR-VLEHPNYDD-------ST-
+VDP_BOMMO      MSF-A-PEDYRIRVG-------SSFHQRD-G--MLYDVGD-LAWHPDFNF-------AS-
+TRYP_STRGA     DGSGN-NTRITVTAG-------VADLNSS-G-AIKVKSTK-VKVAPGYDG----------
+TRYP_SACER     VGS-Q-PADINVVSG-------RTVMSSNIG--TVSKVTN-VWVHPEYQD-------AA-
+TRYE_DROER     QSV-D-AKDLKIRVG-------STYWRSG-G--SVHSVRS-FRNHEGYNA-------RT-
+TRYI_DROME     HER-S-VTLMKVRVG-------AQNHNYG-G--TLVPVAA-YKVHEQFDS-------RF-
+TRYZ_DROER     IGT-V-ASQFKVVAG-------TNFQTGTDG--VITNVKR-VIMHEGYNSG------AA-
+COGS_UCAPU     DGA-G---FVDVVLG-------AHNIREDEATQVTIQSTD-FTVHENYN-------SFV-
+CTR1_ANOGA     VGH-A-PGDLMVLVG-------TNSLKEG-G--ELLKVDK-LLYHSRYNL-------PR-
+FIBC_LUMRU     DGV-L-PNNIRVIAG-------LWQQSDTSG-TQTANVDS-YTMHENYGAG-----TAS-
+CFAD_HUMAN     EDA-A-DGKVQVLLG-------AHSLSQPEPSKRLYDVLR-AVPHPDSQ-------PDT-
+GRAB_MOUSE     GS------IINVTLG-------AHNIKEQEKTQQVIPMVK-CIPHPDYN-------PKT-
+PRN3_HUMAN     RDI-P-QRLVNVVLG-------AHNVRTQEPTQQHFSVAQ-VFL-NNYD-------AEN-
+GRAA_HUMAN     LNK-----RSQVILG-------AHSITREEPTKQIMLVKK-EFPYPCYD-------PAT-
+GRAM_RAT       SEP-L-Q-QLKLVFG-------LHSLHDPQDPGLTFYIKQ-AIKHPGYN-------LK--
+ACRO_MOUSE     DNKKK-VYDWRLVFG---AQEIEYGRNKPVKEPQQERYVQKIVIHEKYN-------VVT-
+VSP1_BOTJA     SK------NFKMKLG-------VHSIKIRNKNERTRHPKE-KFICPNRK-------KDDV
+
+
+1ton_          HSNDLMLLHLSEPADITG-GVKVIDLP--TKEP--K-VGSTCLASGWGSTNP----SEMV
+1a0h_B         LDRDIALLKLKRPIELSD-YIHPVCLPDKQTAAKLLHAGFKGRVTGWGNRRETWTTSVAE
+1a0j_A         LDNDIMLIKLSKPASLNS-YVSTVALP--SSCA--S-SGTRCLVSGWGNLSG----SSSN
+1a0l_A         IGADIALLELEEPVKVSS-HVHTVTLPPASETF--P-PGMPCWVTGWGDVDN----DERL
+1a5i_A         YNNDIALLQLKSCAQESD-SVRAICLPEANLQL--P-DWTECELSGYGKHKS----SSPF
+1bru_P         LGNDIALLKLASPVSLTD-KIQLGCLPAAGTIL--P-NNYVCYVTGWGRLQT----NGAS
+1c5m_D         YDFDIAVLRLKTPITFRM-NVAPACLPRDWAE---STTQKTGIVSGFGRTHE----KG-R
+KLKA_HUMAN     DEHDLMLLKLARPVVPGP-RVRALQLP--YRCA--Q-PGDQCQVAGWGTTAA----RRVK
+BSS4_MOUSE     THADIALVRLEHSIQFSE-RILPICLPDSSVR---LPPKTDCWIAGWGSIQD----GVPL
+TEST_MOUSE     YPNDIALLKLSSPVTYNN-FIQPICLLNSTYK---FENRTDCWVTGWGAIGE----DESL
+TRY3_ANOGA     IDYDFSLMELETELTFSD-VVQPVSLPEQDEA---VEDGTMTTVSGWGNTQS----AA-E
+VDP_BOMMO      MDNDIAILWLPKPVMFGD-TVEAIEMVETNSE---IPDGDITIVTGWGHMEE----GG-G
+TRYP_STRGA     VGKDWALIKLAKPI-----DRPTLKIATTAKY-----NRGTFTIAGWGDVRE----GAGT
+TRYP_SACER     KGFDVSVLTLEAPVKEA-----PIELAKADDAG--YAPDTAATILGWGNTSE----GG-Q
+TRYE_DROER     MVNDIAIVRIESDLSFRS-SIRAVRIADHNPR-----EGATAVVSGWGTTES----GGST
+TRYI_DROME     LHYDIAVLRLSTPLTFGL-STRAINLASTSPS-----GGTTVTVTGWGHTDN----G--A
+TRYZ_DROER     YNNDIAVLFVDPPLPLNNFTIKAIKLATEPPL-----DGAPSKISGWGSTYP----GG-Y
+COGS_UCAPU     ISNDIAVIRLPVPVTLTA-AIATVGLPSTDVGV-----GTVVTPTGWGLPSD----SALG
+CTR1_ANOGA     FHNDIGLVRLEQPVQFSE-LVQSVEYSEKAVP-----ANATVRLTGWGRTSA----NG-P
+FIBC_LUMRU     YSNDIAILHLATSISLGG-NIQAAVLPANNNN---DYAGTTCVISGWGRTDG----TN-N
+CFAD_HUMAN     IDHDLLLLQLSEKATLGP-AVRPLPWQRVDRDV--A-PGTLCDVAGWGIVNH----AGRR
+GRAB_MOUSE     FSNDIMLLKLKSKAKRTR-AVRPLNLPRRNVNV--K-PGDVCYVAGWGRMA------PMG
+PRN3_HUMAN     KLNDVLLIQLSSPANLSA-SVATVQLPQQDQPV--P-HGTQCLAMGWG---------RVG
+GRAA_HUMAN     REGDLKLLQLTEKAKINK-YVTILHLPKKGDDV--K-PGTMCQVAGWGRTHN----SASW
+GRAM_RAT       YENDLALLKLDGRVKPSK-NVKPLALPRKPRDK--PAEGSRCSTAGWGITHQ----RGQL
+ACRO_MOUSE     EGNDIALLKITPPVTCGN-FIGPCCLPHFKAGP--PQIPHTCYVTGWGYIKE----KAPR
+VSP1_BOTJA     LDKDIMLIRLNRPVSNSE-HIAPLSLP--SSPP--S-VGSVCYVMGWGKISS----TKET
+
+
+1ton_          V-SHDLQCVNIHLLSNEKCI---ETY-K-D-NVTDVMLCAGEM--G-KD---TCAGDSGG
+1a0h_B         VQPSVLQVVNLPLVERPVC-----KA-STRIRITDNMFCAGYKPGE-GKRGDACEGDSGG
+1a0j_A         Y-PDTLRCLDLPILSSSSCN---SAY-P-G-QITSNMFCAGME--G-GD---SCQGDSGG
+1a0l_A         --PFPLKQVKVPIMENHICD---AKY-H-R-IVRDDMLCAGNT--R-RD---SCQGDSGG
+1a5i_A         Y-SEQLKEGHVRLYPSSRCA---FLF-N-K-TVTNNMLCAGDT--V-HD---ACQGDSGG
+1bru_P         --PDILQQGQLLVVDYATCS---KWW-G-S-TVKTNMICAGGD--G-IS---SCNGDSGG
+1c5m_D         Q-STRLKMLEVPYVDRNSC---KLSS-SFI--ITQNMFCAGYK--Q---E-DACQGDSGG
+KLKA_HUMAN     Y-NKGLTCSSITILSPKECE---VFY-P-G-VVTNNMICAGLD--R-GQ--DPCQSDSGG
+BSS4_MOUSE     PHPQTLQKLKVPIIDSELCKSLYWRG-AGQEAITEGMLCAGYL--E-GER-DACLGDSGG
+TEST_MOUSE     PSPNTLQEVQVAIINNSMCNHMYKKP-DFRTNIWGDMVCAGTP--E-GGK-DACFGDSGG
+TRY3_ANOGA     S-NAILRAANIPTVNQKEC---TIAY-SSSGGITDRMLCAGYK--R-GGK-DACQGDSGG
+VDP_BOMMO      N-PSVLQRVIVPKINEAAC---AEAY-SPIYAITPRMLCAGTP--E-GGK-DACQGDSGG
+TRYP_STRGA     G-TTKLQKANVPFVSDRAC---KWHY-GNRL-VPKQELCAGYA--S-GGI-DTCQGDSGG
+TRYP_SACER     Q-ADHLQKATVPVNSDDTC---KQAY-GEY--TPNAMVCAGVP--E-GGV-DTCQGDSGG
+TRYE_DROER     I-PDHLLAVDLEIVDVSRCRSGEFGY-GKK--IKDTMLCAYAP--N---K-DACQGDSGG
+TRYI_DROME     L-SDSLQKAQLQIIDRGECASQKFGY-GADF-VGEETICAAST--D---A-DACTGDSGG
+TRYZ_DROER     S-SNQLLAVDVPIVGNDLCDLDYENFIDETYHITSAMLCAGKR--GVGGA-DACQGDSGG
+COGS_UCAPU     I-SDVLRQVDVPIMSNADCD---AVY-G---IVTDGNICIDST--G-GK--GTCNGDSGG
+CTR1_ANOGA     S-PTLLQSLNVVTLSNEDC--NKKG--GDPGYTDVGHLCTLTK--T--GE-GACNGDSGG
+FIBC_LUMRU     L-PDILQKSSIPVITTAQCTAAMVGV-GGAN-IWDNHICVQDP--A-GNT-GACNGDSGG
+CFAD_HUMAN     --PDSLQHVLLPVLDRATCN-RRTHH-D-G-AITERLMCAESN--R-RD---SCKGDSGG
+GRAB_MOUSE     KYSNTLQEVELTVQKDRECE---SYF-K-NRYNKTNQICAGDP--K-TKR-ASFRGDSGG
+PRN3_HUMAN     A-HDPPAQV----LQELNVT---VVT-F---FCRPHNICTFVP--R-RKA-GICFGDSGG
+GRAA_HUMAN     --SDTLREVNITIIDRKVCN-DRNHY-NFNPVIGMNMVCAGSL--R-GGR-DSCNGDSGS
+GRAM_RAT       --AKSLQELDLRLLDTRMCN-NSRFW-N-G-VLTDSMLCLKAG--A-KGQ-APCKGDSGG
+ACRO_MOUSE     PSP-VLMEARVDLIDLDLCNS---TQ-WYNGRVTSTNVCAGYP--E-GKI-DTCQGDSGG
+VSP1_BOTJA     Y-PDVPHCAKINILDHAVCR---AAY-T-WWPATSTTLCAGIL--Q-GGK-DTCEGDSGG
+
+
+1ton_          PLICDG------VL-QGITSG---GATPCA-KKTPAIYAKLI-KFTSWIKKVM---KENP
+1a0h_B         PFVMKSPYNNRWYQ-MGIVSW----GEGCDRDGKYGFYTHVF-RLKKWIQKVIDRLGS--
+1a0j_A         PVVCNG------QL-QGVVSW---G-YGCA-RNKPGVYTKVC-NYRSWISSTM---SSN-
+1a0l_A         PLVCKV--NGTWLQ-AGVVSW---GE-GCA-PNRPGIYTRVT-YYLDWIHHYV---PKK-
+1a5i_A         PLVCMN--DNHMTL-LGIISW---GV-GCG-KDVPGVYTKVT-NYLGWIRDNM---HL--
+1bru_P         PLNCQA--NGQWQV-HGIVSF---GSLGCY-YHKPSVFTRVS-NYIDWINSVI---ANN-
+1c5m_D         PHVTRF--KDTYFV-TGIVSW----GEGCARKKY-GIYTKVT-AFLKWIDRSMKTRGLPK
+KLKA_HUMAN     PLVCDE------TL-QGILSW---GVYPCGSAQHPAVYTQIC-KYMSWINKVI---RSN-
+BSS4_MOUSE     PLMCQV--DDHWLL-TGIISW----GEGCA-DDRPGVYTSLL-AHRSWVQ-RIVQGVQLR
+TEST_MOUSE     PLACDQ--DTVWYQ-VGVVSW----GIGCGRPNRPGVYTNIS-HHYNWIQSTMIRNGLLR
+TRY3_ANOGA     PLVVDG--K----L-VGVVSW----GFGCAMPGYPGVYARVA-VVRNWVRE--NSGA---
+VDP_BOMMO      PLVHKK--K----L-AGIVSW----GLGCARPEYPGVYTKVS-ALREWVDENITNLRLKH
+TRYP_STRGA     PMFRKD--DAGKWIQVGIVSW----GDGCARSGVPGVYTEVS-TFAKDIAKAASAL----
+TRYP_SACER     PMVVNN--K----L-IGVTSW----GEGCARPGKPGVYARVG-AYYDVLMEQINAGAV--
+TRYE_DROER     PLVSGD--R----L-VGVVSW----GYGCGDVRYPGVYADVA-HFHEWIERTAREV----
+TRYI_DROME     PLVASS--Q----L-VGIVSW----GYRCADDNYPGVYADVA-ILRPWIVKAANAI----
+TRYZ_DROER     PLVVRD--E----L-HGVVSW----GNSCALPNYPGVYANVA-FLRPWIDAVRAGL----
+COGS_UCAPU     PLNYNG------LT-YGITSF--GAAAGCEAG-YPDAFTRVT-YFLDWIQT-----QTGI
+CTR1_ANOGA     PLVYEG--K----L-VGVVNF----GVPCAL-GYPDGFARVS-YYHDWVRTTMANNSK--
+FIBC_LUMRU     PLNCPD--GGTR-V-VGVTSWVVSSGLGTCLPDYPSVYTRVS-AYLGWIGDNSR------
+CFAD_HUMAN     PLVCGG------VL-EGVVTS---GSRVCGNRKKPGIYTRVA-SYAAWIDSVL---A---
+GRAB_MOUSE     PLVCKK------VA-AGIVSY------GYKDGSPPRAFTKVS-SFLSWIKKTM---KSS-
+PRN3_HUMAN     PLICDG------II-QGIDSF---VIWGCATRLFPDFFTRVA-LYVDWIRSTLRRVEAKG
+GRAA_HUMAN     PLLCEG------VF-RGVTSF--GLENKCGDPRGPGVYILLSKKHLNWIIMTI---KGAV
+GRAM_RAT       PLVCGK--G---KV-DGILSF---SSKNCTDIFKPTVATAVA-PYSSWIRKVIGRWSPQP
+ACRO_MOUSE     PLMCRDNVDSPFVV-VGITSW----GVGCARAKRPGVYTATW-DYLDWIASKIGPNALHL
+VSP1_BOTJA     PLICNG-------L-QGIVSG---GGNPCGQPRKPALYTKVF-DYLPWIESIIAGTTTAT
+
+
+1ton_          ------------------------------------------------------------
+1a0h_B         ------------------------------------------------------------
+1a0j_A         ------------------------------------------------------------
+1a0l_A         ------------------------------------------------------------
+1a5i_A         ------------------------------------------------------------
+1bru_P         ------------------------------------------------------------
+1c5m_D         AK----------------------------------------------------------
+KLKA_HUMAN     ------------------------------------------------------------
+BSS4_MOUSE     G-----YLADSGDTGSS-------------------------------------------
+TEST_MOUSE     PDPVPLLLFLTLAWASSLLRPA--------------------------------------
+TRY3_ANOGA     ------------------------------------------------------------
+VDP_BOMMO      ILRRF-------------------------------------------------------
+TRYP_STRGA     ------------------------------------------------------------
+TRYP_SACER     ------------------------------------------------------------
+TRYE_DROER     ------------------------------------------------------------
+TRYI_DROME     ------------------------------------------------------------
+TRYZ_DROER     ------------------------------------------------------------
+COGS_UCAPU     TP----------------------------------------------------------
+CTR1_ANOGA     ------------------------------------------------------------
+FIBC_LUMRU     ------------------------------------------------------------
+CFAD_HUMAN     ------------------------------------------------------------
+GRAB_MOUSE     ------------------------------------------------------------
+PRN3_HUMAN     RP----------------------------------------------------------
+GRAA_HUMAN     ------------------------------------------------------------
+GRAM_RAT       LT----------------------------------------------------------
+ACRO_MOUSE     IQPATPHPPTTRHPMVSFHPPSLRPPWYFQHLPSRPLYLRPLRPLLHRPSSTQTSSSLMP
+VSP1_BOTJA     CP----------------------------------------------------------
+
+
+1ton_          ------------------------------------------------------------
+1a0h_B         ------------------------------------------------------------
+1a0j_A         ------------------------------------------------------------
+1a0l_A         ------------------------------------------------------------
+1a5i_A         ------------------------------------------------------------
+1bru_P         ------------------------------------------------------------
+1c5m_D         ------------------------------------------------------------
+KLKA_HUMAN     ------------------------------------------------------------
+BSS4_MOUSE     ------------------------------------------------------------
+TEST_MOUSE     ------------------------------------------------------------
+TRY3_ANOGA     ------------------------------------------------------------
+VDP_BOMMO      ------------------------------------------------------------
+TRYP_STRGA     ------------------------------------------------------------
+TRYP_SACER     ------------------------------------------------------------
+TRYE_DROER     ------------------------------------------------------------
+TRYI_DROME     ------------------------------------------------------------
+TRYZ_DROER     ------------------------------------------------------------
+COGS_UCAPU     ------------------------------------------------------------
+CTR1_ANOGA     ------------------------------------------------------------
+FIBC_LUMRU     ------------------------------------------------------------
+CFAD_HUMAN     ------------------------------------------------------------
+GRAB_MOUSE     ------------------------------------------------------------
+PRN3_HUMAN     ------------------------------------------------------------
+GRAA_HUMAN     ------------------------------------------------------------
+GRAM_RAT       ------------------------------------------------------------
+ACRO_MOUSE     LLSPPTPAQPASFTIATQHMRHRTTLSFARRLQRLIEALKMRTYPMKHPSQYSGPRNYHY
+VSP1_BOTJA     ------------------------------------------------------------
+
+
+1ton_          -------------------
+1a0h_B         -------------------
+1a0j_A         -------------------
+1a0l_A         -------------------
+1a5i_A         -------------------
+1bru_P         -------------------
+1c5m_D         -------------------
+KLKA_HUMAN     -------------------
+BSS4_MOUSE     -------------------
+TEST_MOUSE     -------------------
+TRY3_ANOGA     -------------------
+VDP_BOMMO      -------------------
+TRYP_STRGA     -------------------
+TRYP_SACER     -------------------
+TRYE_DROER     -------------------
+TRYI_DROME     -------------------
+TRYZ_DROER     -------------------
+COGS_UCAPU     -------------------
+CTR1_ANOGA     -------------------
+FIBC_LUMRU     -------------------
+CFAD_HUMAN     -------------------
+GRAB_MOUSE     -------------------
+PRN3_HUMAN     -------------------
+GRAA_HUMAN     -------------------
+GRAM_RAT       -------------------
+ACRO_MOUSE     RFSTFEPLSNKPSEPFLHS
+VSP1_BOTJA     -------------------
+
+

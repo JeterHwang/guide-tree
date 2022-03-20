@@ -1,0 +1,65 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11002_mafft.fa.msf  MSF: 292  Type: N  December 21, 2021 21:48  Check: 5910  ..
+
+ Name: 1abo_A  Len:    292  Check: 9069  Weight: 1.00
+ Name: 1ycs_B  Len:    292  Check: 8124  Weight: 1.00
+ Name: 1pht_   Len:    292  Check: 1821  Weight: 1.00
+ Name: 1ihv_A  Len:    292  Check: 5438  Weight: 1.00
+ Name: 1bb9_   Len:    292  Check: 2409  Weight: 1.00
+ Name: 1hjd_A  Len:    292  Check: 3188  Weight: 1.00
+ Name: 1ov3_A  Len:    292  Check: 7848  Weight: 1.00
+ Name: 1ue9_A  Len:    292  Check: 8013  Weight: 1.00
+
+//
+
+1abo_A     ------------------------------------------------------------
+1ycs_B     PLALLLDSSLEGEFDLVQRIIYEVDDPSLPNDEGITALHNAVCAGHTEIVKFLVQFGVNV
+1pht_      A---------EG------------------------------------------------
+1ihv_A     M------------------------------------IQN--------------------
+1bb9_      T---------TGRLDL---------PPG--------------------------------
+1hjd_A     A-----------------------------------------------------------
+1ov3_A     L-----------------------------------------------------------
+1ue9_A     G-----------------------------------------------------------
+
+
+1abo_A     ------------------------------------------------------------
+1ycs_B     NAADSDGWTPLHCAASCNNVQVCKFLVESGAAVFAMTYSDMQTAADKCEEMEEGYTQCSQ
+1pht_      ------------------------------------------------------------
+1ihv_A     ------------------------------------------------------------
+1bb9_      ------------------------------------------------------------
+1hjd_A     ---------------------------------------DRKLCADQ---------ECSH
+1ov3_A     ------------------------------------------------------------
+1ue9_A     ------------------------------------------------------------
+
+
+1abo_A     --------------NLFVALYDFVASGDNTLSITKGEKLRVLGY---------------N
+1ycs_B     FLYGVQEKMGIMNKGVIYALWDYEPQNDDELPMKEGDCMTIIHR---------------E
+1pht_      --------------YQYRALYDYKKEREEDIDLHLGDILTVNKGSLVALGFSDGQEARPE
+1ihv_A     ------------FRVYYRDSRDPVWKGPAKL-LWKGEGAVVI-----------------Q
+1bb9_      ------------FMFKVQAQHDYTATDTDELQLKAGDVVLV-------IPFQNPEE---Q
+1hjd_A     ------------PISMAVALQDYMAPDCRFLTIHRGQVVYVFSKL--------------K
+1ov3_A     ---GSPEF---IILQTYRAIADYEKTSGSEMALSTGDVVEVVEK---------------S
+1ue9_A     ---SSGS-----SGEIAQVTSAYVASGSEQLSLAPGQLILILKK---------------N
+
+
+1abo_A     HNG---EW---------CEAQTKNGQ-GWVPSNYITPVN----S----------------
+1ycs_B     DEDEIEWWW----------ARLNDKE-GYVPRNLLGLY----------------------
+1pht_      EIG---WLNGYNETTGE--------R-GDFPGTYVEYIGRKKISP---------------
+1ihv_A     DNSDI----------------------KVVPRRKAKIIR---------------------
+1bb9_      DEG---WLMGVKESDWNQHKELEKCR-GVFPENFTERVQ---------------------
+1hjd_A     GRGRL-FWGGSVQ--GDYYGDLAARL-GYFPSSIVREDQ--TLKPGK-------------
+1ov3_A     ESG---WW---------F-CQMKAKR-GWIPASFLEPLD----SPDETEDPEPNYAGEPY
+1ue9_A     TSG---WWQG------ELQARGKKRQKGWFPASHVKLL-----GPSSERASGPSSG----
+
+
+1abo_A     ----------------------------------------------------
+1ycs_B     --------------------------------------------P-------
+1pht_      --------------------------------------------P-------
+1ihv_A     --------------------------------------D-------------
+1bb9_      ----------------------------------------------------
+1hjd_A     VDVKT------------------------DKW------D-------FYCQ--
+1ov3_A     VAIKAYTAVEGDEVSLLEGEAVEVIHKLLDGWWVIRKDDVTGYFPSMYLQKS
+1ue9_A     ----------------------------------------------------
+
+

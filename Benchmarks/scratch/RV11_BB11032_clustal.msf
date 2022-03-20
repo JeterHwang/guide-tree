@@ -1,0 +1,123 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 550  Type: P  December 21, 2021 20:30  Check: 9111  ..
+
+ Name: 2pia_   Len:    550  Check:  139  Weight: -1.00
+ Name: 1fnc_   Len:    550  Check: 3555  Weight: -1.00
+ Name: 1fdr_   Len:    550  Check: 2323  Weight: -1.00
+ Name: 1ndh_   Len:    550  Check: 6836  Weight: -1.00
+ Name: 1cqx_A  Len:    550  Check: 9675  Weight: -1.00
+ Name: 1krh_A  Len:    550  Check: 4898  Weight: -1.00
+ Name: 1qfj_A  Len:    550  Check: 4629  Weight: -1.00
+ Name: 1ep1_B  Len:    550  Check: 7056  Weight: -1.00
+
+//
+
+        1                                                   50
+2pia_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fnc_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fdr_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A  MLTQKTKDIV KATAPVLAEH GYDIIKCFYQ RMFEAHPELK NVFNMAHQEQ
+1krh_A  ~~~~~~~~~S NHQVALQFED GVTRFICIAQ GE........ ..........
+1qfj_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ep1_B  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+        51                                                 100
+2pia_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fnc_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fdr_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A  GQQQQALARA VYAYAENIED PNSLMAVLKN IANKHASLGV KPEQYPIVGE
+1krh_A  .....TLSDA AY..RQQINI PMDCR...EG ECGTC.RAFC ESGNYDMPED
+1qfj_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ep1_B  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+        101                                                150
+2pia_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~TTP
+1fnc_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~HSKKMEEGI TVNKFKPKTP
+1fdr_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~PAITLEN PDIKYP....
+1cqx_A  HLLAAIKEVL GNAATDDIIS AWAQA..YGN LADVLMGM.. ESELYERSAE
+1krh_A  NYIE...DAL TP...EEAQQ GYVLACQCRP TSDAVFQIQA SSEVCKT...
+1qfj_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ TTLSCK....
+1ep1_B  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~S
+
+        151                                                200
+2pia_   Q...EDGFLR LKIASKEKIA RDIWSFELTD PQGAPLPPFE AG..ANLTVA
+1fnc_   Y...VGRCLL NTKITGDDAP GETWHMVFSH EGEI...PYR EG..QSVG.V
+1fdr_   ~~~~~ADWVT GKVTKVQNWT DALFSLTV.. ..HAPVLPFT AG..QFTKLG
+1ndh_   ........LR LIDKEVVNHD TRRFRFAL.. PSPEHILGLP VGQHIYLSAR
+1cqx_A  QPGGWKGWRT FVIREKRPES DVITSFILEP ADGGPVVNFE PG..QYTSVA
+1krh_A  KIHHFEG... T.LARVENLS DSTITFDIQL DDGQPDIHFL AG..QYVNVT
+1qfj_A  .......... ..VTSVEAIT DTVYRVRIV. ..PDAAFSFR AG..QYLMVV
+1ep1_B  Q...LQE..M MTVVSQREVA YNIFEMVLKG TLVDE..MDL PG..QFLHLA
+
+        201                                                250
+2pia_   VPNGSRRT.. ......YSLC NDS....QER NRYVIAVKRD ........SN
+1fnc_   IPDGEDKNGK PHKLRLYSIA SSALGDFGDA KSVSLCVKRL IYTND.AGET
+1fdr_   LE.....I.. .RVQRAYSYV NSPDNPD... LEFYLVT... ....V.....
+1ndh_   ID....GN.. .LVIRPYTPV SSDDDK.... .GFVDLVIKV YFKDTHPKFP
+1cqx_A  IDVPALGL.. .QQIRQYSLS DMPNGRT... YRISVKR... ....EGGGPQ
+1krh_A  LP....GT.. .TETRSYSFS SQPGNRL... TGFVVRN... ....V.....
+1qfj_A  MD....E... .RDKRPFSMA STPDE..... KGFIELH... ....I.....
+1ep1_B  VPNGAMLLR. ....RPISIS SWD....KRA KTCTI.LYRI ........GD
+
+        251                                                300
+2pia_   GRGGSISFID .DTSEGDAVE VS.LPRNE.. ......FPLD K........R
+1fnc_   IKGVCSNFLC .DLKPGAEVK LTGPVGKE.. ......MLMP KD.......P
+1fdr_   PDGKLSPRLA .ALKPGDEVQ VVSEAAGF.. ......FVLD EV......PH
+1ndh_   AGGKMSQYLE .SMKIGDTIE FRGPNGLLVY QGKGKFAIRP DKKSSPVIKT
+1cqx_A  PPGYVSNLLH DHVNVGDQVK LAAPYGSF.. ......HIDV DA........
+1krh_A  PQGKMSEYLS VQAKAGDKMS FTGPFGSF.. ......YLR. DV........
+1qfj_A  GYAKA..V.M DRILKDHQIV VDIPHGEA.. ......WLRD DE........
+1ep1_B  ETTGTYKL.S .KLESGAKVD VMGPLGNG.. ......FPVA EV......TS
+
+        301                                                350
+2pia_   AKSFILVAGG IGITPMLSMA RQLRAEGLRS FRLYYLT... ..RDPEGTAF
+1fnc_   NATIIMLGTG TGIAPFRSFL WKMFFEKHDD YKFNGLAWLF LGVPTSSSLL
+1fdr_   CETLWMLATG TAIGPYLSIL RLGKDLDRFK N....L.VLV HAARYAADLS
+1ndh_   VKSVGMIAGG TGITPMLQVI RAIMKDPDDH T....VCHLL FANQTEKDIL
+1cqx_A  KTPIVLISGG VGLTPMVSML KVALQAPPRQ .....V.VFV HGARNSAVHA
+1krh_A  KRPVLMLAGG TGIAPFLSML QVLEQKGSEH P....V.RLV FGVTQDCDLV
+1qfj_A  ERPMILIAGG TGFSYARSIL LTALARNPNR D....I.TIY WGGREEQHLY
+1ep1_B  TDKILIIGGG IGVPPLYELA KQLEKTGCQM TILLGFA... ..SE..NVKI
+
+        351                                                400
+2pia_   FDELT..... ..SDEWRSDV KI....HH.. DHGD...... .....PTK.A
+1fnc_   YKEEFEKMKE KAPDNFRLDF AV....SR.. EQTNEKGEKM YIQTRMAQYA
+1fdr_   YLPLMQELEK RYEGKLRI.. ..QTVVSRET AAGSLT...G RIPALIESGE
+1ndh_   LRPELEELRN EHSARFKLWY TV....DR.. APEAWD.... YSQGFVNEEM
+1cqx_A  MRDRLREAAK TYENLDLFVF YDQPLPED.. VQGRDY.... DYPGLVDVKQ
+1krh_A  ALEQLDALQQ KLPWFE.... .YRTVVAH.. AESQ.H.... ERKGYVTGHI
+1qfj_A  DLCELEALSL KHPGLQ.... .VVPVVEQ.. PEAGWR.... GRTGTVLTAV
+1ep1_B  LENEF..... ..SNLKNVTL KI....AT.. DDGS...... .....YGTKG
+
+        401                                                450
+2pia_   FDFWSVFEKS KPAQHVYCCG PQALMDTVRD MTGHWPSG.. .......TVH
+1fnc_   VELWEMLKK. .DNTYVYMCG LKGMEKGIDD IMVSLAAAE. .......GID
+1fdr_   LESTIGLPMN KETSHVMLCG NPQMVRDTQQ LLKETRQMTK HLRRRPGHMT
+1ndh_   IRDH..LPPP EEEPLVLMCG PPPMIQYACL PNLERVGHP. ......KER.
+1cqx_A  IEKS....IL LPDADYYICG PIPFMRMQHD ALKNLGIHE. ......ARIH
+1krh_A  EYDW....LN GGEVDVYLCG PVPMVEAVRS WLDTQGIQP. ......ANFL
+1qfj_A  LQDH....GT LAEHDIYIAG RFEMAKIARD LFCSERNAR. ......EDRL
+1ep1_B  HVGMLMNEID FEVDALYTCG APAMLKAVAK KYDQLERL.. .......YI.
+
+        451                                                500
+2pia_   FESFGATNTN ARENTPFTVR LSRSGTSFEI PANRSILEVL RDANVRVPSS
+1fnc_   WIEYKRQ... LKKAEQWNVE VY~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fdr_   AEHYW~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_   ...CFAF~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A  YEVFGPDL.. .......... .FAE~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A  FEKFSAN~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A  FGDAFAFI~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ep1_B  .......... .......... .......... .......... ...SMESRMA
+
+        501                                                550
+2pia_   CESGTCGSCK TALCSGEADH RDMVLRDDEK GTQIMVCVSR AKSAELVLDL
+1fnc_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fdr_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ndh_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1cqx_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1krh_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qfj_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ep1_B  CGIGACYACV EHDKEDES.. .......... .HALKVCEDG PVFLGKQLSL

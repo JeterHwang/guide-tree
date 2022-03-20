@@ -1,0 +1,1523 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 855  Type: P  December 21, 2021 20:20  Check: 7750  ..
+
+ Name: 1ser_A      Len:    855  Check: 7855  Weight: -1.00
+ Name: SYS_AQUAE   Len:    855  Check: 7088  Weight: -1.00
+ Name: SYS_THEMA   Len:    855  Check: 6709  Weight: -1.00
+ Name: SYS_CHLTE   Len:    855  Check: 4311  Weight: -1.00
+ Name: SYS_FUSNN   Len:    855  Check: 9505  Weight: -1.00
+ Name: SYS_METAC   Len:    855  Check: 2070  Weight: -1.00
+ Name: SYS_BACHD   Len:    855  Check: 8867  Weight: -1.00
+ Name: SYS_BACSU   Len:    855  Check: 8845  Weight: -1.00
+ Name: SYS_LISIN   Len:    855  Check: 5118  Weight: -1.00
+ Name: SYS_OCEIH   Len:    855  Check: 7230  Weight: -1.00
+ Name: SYS_STAAM   Len:    855  Check: 9556  Weight: -1.00
+ Name: SYS_LACLA   Len:    855  Check: 6963  Weight: -1.00
+ Name: SYS_STRA3   Len:    855  Check: 1094  Weight: -1.00
+ Name: SYS2_LACPL  Len:    855  Check: 7218  Weight: -1.00
+ Name: SYS1_LACPL  Len:    855  Check:  795  Weight: -1.00
+ Name: SYS_THETN   Len:    855  Check: 6834  Weight: -1.00
+ Name: SYS_CLOAB   Len:    855  Check: 6889  Weight: -1.00
+ Name: SYS_CLOPE   Len:    855  Check: 1737  Weight: -1.00
+ Name: SYS_LEPIN   Len:    855  Check: 8510  Weight: -1.00
+ Name: SYS_SYNEL   Len:    855  Check: 1134  Weight: -1.00
+ Name: SYS_ANASP   Len:    855  Check: 2387  Weight: -1.00
+ Name: SYS_SYNY3   Len:    855  Check: 6899  Weight: -1.00
+ Name: SYS_SYNP7   Len:    855  Check: 6038  Weight: -1.00
+ Name: SYS_BRUME   Len:    855  Check: 5861  Weight: -1.00
+ Name: SYS_RHIME   Len:    855  Check: 6737  Weight: -1.00
+ Name: SYS_AGRT5   Len:    855  Check: 6642  Weight: -1.00
+ Name: SYS_RHILO   Len:    855  Check: 6129  Weight: -1.00
+ Name: SYS_RICCN   Len:    855  Check: 2408  Weight: -1.00
+ Name: SYS_PSEAE   Len:    855  Check:   27  Weight: -1.00
+ Name: SYS_RALSO   Len:    855  Check:   78  Weight: -1.00
+ Name: SYS_BURCE   Len:    855  Check: 1183  Weight: -1.00
+ Name: SYS_NEIMA   Len:    855  Check: 4327  Weight: -1.00
+ Name: SYS_ECOLI   Len:    855  Check: 4823  Weight: -1.00
+ Name: SYS_HAEIN   Len:    855  Check: 1185  Weight: -1.00
+ Name: SYS_VIBCH   Len:    855  Check: 9498  Weight: -1.00
+ Name: SYS_SHEON   Len:    855  Check: 6959  Weight: -1.00
+ Name: SYS_XANAC   Len:    855  Check:  689  Weight: -1.00
+ Name: SYS_XYLFA   Len:    855  Check: 4351  Weight: -1.00
+ Name: SYS_COXBU   Len:    855  Check: 2828  Weight: -1.00
+ Name: SYS_BUCAP   Len:    855  Check: 3616  Weight: -1.00
+ Name: SYS_BUCAI   Len:    855  Check:  507  Weight: -1.00
+ Name: SYS_BUCBP   Len:    855  Check: 3996  Weight: -1.00
+ Name: SYS_WIGBR   Len:    855  Check: 9058  Weight: -1.00
+ Name: SYS_CAMJE   Len:    855  Check: 8565  Weight: -1.00
+ Name: SYS_HELPJ   Len:    855  Check: 8782  Weight: -1.00
+ Name: SYS_UREPA   Len:    855  Check: 5984  Weight: -1.00
+ Name: SYS_MYCPE   Len:    855  Check: 6213  Weight: -1.00
+ Name: SYS_MYCPN   Len:    855  Check: 9913  Weight: -1.00
+ Name: SYS_MYCGE   Len:    855  Check: 2226  Weight: -1.00
+ Name: SYS_HALMA   Len:    855  Check: 2087  Weight: -1.00
+ Name: SYS_HALN1   Len:    855  Check: 8462  Weight: -1.00
+ Name: SYS_CHLCV   Len:    855  Check: 8300  Weight: -1.00
+ Name: SYS_CHLPN   Len:    855  Check: 4980  Weight: -1.00
+ Name: SYS_CHLMU   Len:    855  Check: 2463  Weight: -1.00
+ Name: SYS_DEIRA   Len:    855  Check: 7557  Weight: -1.00
+ Name: SYS_BORBU   Len:    855  Check: 1825  Weight: -1.00
+ Name: SYS_TREPA   Len:    855  Check: 9964  Weight: -1.00
+ Name: SYSM_BOVIN  Len:    855  Check: 4467  Weight: -1.00
+ Name: SYS_STRCO   Len:    855  Check: 4795  Weight: -1.00
+ Name: SYS_COREF   Len:    855  Check: 1799  Weight: -1.00
+ Name: SYS_MYCLE   Len:    855  Check: 5573  Weight: -1.00
+ Name: SYS_BIFLO   Len:    855  Check: 9500  Weight: -1.00
+ Name: SYS_ARATH   Len:    855  Check: 4823  Weight: -1.00
+ Name: SYS_HELAN   Len:    855  Check: 4186  Weight: -1.00
+ Name: SYS_BOVIN   Len:    855  Check: 6082  Weight: -1.00
+ Name: SYS_CAEEL   Len:    855  Check: 6631  Weight: -1.00
+ Name: SYSC_SCHPO  Len:    855  Check: 1685  Weight: -1.00
+ Name: SYSC_CANAL  Len:    855  Check: 8517  Weight: -1.00
+ Name: SYSC_YEAST  Len:    855  Check:  509  Weight: -1.00
+ Name: SYS_MYCPU   Len:    855  Check: 5438  Weight: -1.00
+ Name: 1h4q_A      Len:    855  Check: 6205  Weight: -1.00
+ Name: SYP_MYCLE   Len:    855  Check: 9751  Weight: -1.00
+ Name: SYP_BORBU   Len:    855  Check: 1739  Weight: -1.00
+ Name: SYP_CLOST   Len:    855  Check: 3549  Weight: -1.00
+ Name: YHI0_YEAST  Len:    855  Check: 5590  Weight: -1.00
+ Name: SYP_MYCPN   Len:    855  Check: 2783  Weight: -1.00
+ Name: SYP_MYCGE   Len:    855  Check: 2785  Weight: -1.00
+ Name: 1nj8_A      Len:    855  Check: 9468  Weight: -1.00
+
+//
+
+            1                                                   50
+1ser_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AQUAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THEMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_FUSNN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_METAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACHD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACSU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LISIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_OCEIH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STAAM   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LACLA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STRA3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS2_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS1_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THETN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOAB   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LEPIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ANASP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNY3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNP7   ~~~~~~~~~~ ~~~~~~~~~M RRNFVC.... .......... .........A
+SYS_BRUME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHIME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AGRT5   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHILO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RICCN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BURCE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ECOLI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_VIBCH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SHEON   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COXBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_WIGBR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CAMJE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELPJ   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_UREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALN1   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLCV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLMU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_TREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSM_BOVIN  MAASIVRRLG PLVAGRGLRL RGGCVCNQSF KRSFATERQD RNLLYEHA.R
+SYS_STRCO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COREF   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BIFLO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ARATH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CAEEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1h4q_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_CLOST   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YHI0_YEAST  ~~~~~~~~~M PV....SEAF AKLCVNEKPP AES...AVAV KSLVFKPKTP
+SYP_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1nj8_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1ser_A      ~~~~~~~MVD LKRL...... ...RQ..... EPEVFHRAI. REKG.VA...
+SYS_AQUAE   ~~~~~~~MID INLI...... ...RE..... KPDYVKERL. ATRD.KE.L.
+SYS_THEMA   ~~~~~~~MID IKLI...... ...RQ..... NPDFVKEAL. RKRG.ED...
+SYS_CHLTE   ~~~~~~~MLD ITYI...... ...RQ..... NPDDVKEML. RRRQ.QQGD.
+SYS_FUSNN   ~~~~~~~MLE LKFM...... ...RE..... NVEMLKEML. KNRN.SNVD.
+SYS_METAC   ~~~~~~~MLE LKFV...... ...RN..... NPDIVGRAL. VNRN.MG...
+SYS_BACHD   ~~~~~~~MLD IKRL...... ...RK..... DFAGIREKL. QTRG.ED...
+SYS_BACSU   ~~~~~~~MLD TKML...... ...RA..... NFQEIKAKL. VHKG.ED...
+SYS_LISIN   ~~~~~~~MLD VKLL...... ...RN..... NFEEVKQKL. QNRG.ED...
+SYS_OCEIH   ~~~~~~~MLD MKYL...... ...RQ..... NFEEVQQRL. QHRG.ED...
+SYS_STAAM   ~~~~~~~MLD IRLF...... ...RN..... EPDTVKSKI. ELRG.DD...
+SYS_LACLA   ~~~~~~~MLD IKKI...... ...RA..... DFDGVAAKL. ATRG.VE...
+SYS_STRA3   ~~~~~~~MLD LKRI...... ...RT..... DFDVVAKKL. ATRG.VD...
+SYS2_LACPL  ~~~~~~~MLD VKMI...... ...RQ..... NPDFVKEQL. GHRG.VA...
+SYS1_LACPL  ~~~~~~~MLN PKFV...... ...RN..... NPELVKTKL. QTRK.VD...
+SYS_THETN   ~~~~~~~MLD IKFI...... ...RS..... NPDVVRRAI. ELKG.EKAD.
+SYS_CLOAB   ~~~~~~~MLD LKRI...... ...RT..... NPEEIKKAL. TNRG.EDFD.
+SYS_CLOPE   ~~~~~~~MLD LKKL...... ...RS..... NTEEVKKAL. SNRG.EDFD.
+SYS_LEPIN   ~~~~~~~MLD LRYI...... ...TE..... NTEDLKKVL. ELRG.FK.E.
+SYS_SYNEL   ~~~~~~~MID LKQL...... ...RE..... NPQAFGDRL. RRRG.G....
+SYS_ANASP   ~~~~~~~MLD IKQI...... ...RE..... NPQLIQERL. NSRN.G....
+SYS_SYNY3   ~~~~~~~MLD LKQI...... ...RE..... NPTAIQNRL. NQRG.GGA..
+SYS_SYNP7   SCIPAEPVLD LRLL...... ...RE..... NPEATQARL. DRRH.S....
+SYS_BRUME   ~~~~~~~MLD IKWI...... ...RE..... NPETLDKAL. AKRG.AA...
+SYS_RHIME   ~~~~~~~MLD IKWI...... ...RE..... NADALDEAL. AKRG.AE...
+SYS_AGRT5   ~~~~~~~MHD IKWI...... ...RE..... NPEAFDAAL. ARRS.VE...
+SYS_RHILO   ~~~~~~~MLD IKWI...... ...RD..... NPKALVEAL. AKRS.WSAGE
+SYS_RICCN   ~~~~~~~MLN IKWI...... ...RE..... NKELFDEKL. SQRF.IE...
+SYS_PSEAE   ~~~~~~~MLD PKLV...... ...RT..... QPQEVAARL. ATRG.FQ...
+SYS_RALSO   ~~~~~~~MLD IQLL...... ...RK..... DIDAVAARL. NDRG.YE...
+SYS_BURCE   ~~~~~~~MLD IQLL...... ...RK..... DLDGVAKRL. ADRG.YT...
+SYS_NEIMA   ~~~~~~~MLD IQLL...... ...RS..... NTAAVAERL. ARRG.YD...
+SYS_ECOLI   ~~~~~~~MLD PNLL...... ...RN..... EPDAVAEKL. ARRG.FK...
+SYS_HAEIN   ~~~~~~~MID PNLL...... ...RN..... NLAEVAEKLK VKRN.FM...
+SYS_VIBCH   ~~~~~~~MLD SKLL...... ...RT..... ELDETAAKL. ARRG.FK...
+SYS_SHEON   ~~~~~~~MLD PKFL...... ...RN..... ELAVTAERL. ATRG.FI...
+SYS_XANAC   ~~~~~~~MLD PALL...... ...RQ..... HPADLAERLR STRG.FS...
+SYS_XYLFA   ~~~~~~~MLD PTLL...... ...RQ..... QLAKLAECLS TVRG.FT...
+SYS_COXBU   ~~~~~~~MLD PKIL...... ...RQ..... NLEHVVEKL. RRRG.FE...
+SYS_BUCAP   ~~~~~~~MLN PYLL...... ...RN..... QIDAISKKL. LKKK.FK...
+SYS_BUCAI   ~~~~~~~MLN PYLL...... ...RN..... ELHLTAKKL. LKKG.YK...
+SYS_BUCBP   ~~~~~~~MLN PNLL...... ...RN..... HIEFVFKNL. ARRG.FS...
+SYS_WIGBR   ~~~~~~~MID HKLI...... ...IK..... NIEEVCKKL. ILRN.FY...
+SYS_CAMJE   ~~~~~~~MLD LKNL...... ...QN..... NFDEVAKKL. KNKK.VD...
+SYS_HELPJ   ~~~~~~~MID RKLL...... ...LQ..... DFDKVALSL. KKRNHAM...
+SYS_UREPA   ~~~~~~~MFD INLI...... ...RK..... DIATTKEKM. LNKK.VP...
+SYS_MYCPE   ~~~~~~~MIN KSII...... ...RN..... DFKTLETSL. KNRN.SK...
+SYS_MYCPN   ~~~~~~~MLD RNKL...... ...RN..... NLDFFKKKL. VERG.VS...
+SYS_MYCGE   ~~~~~~~MLD PNKL...... ...RN..... NYDFFKKKL. LERN.VN...
+SYS_HALMA   ~~~~~~~MLS RQFV...... ...RE..... HPETVRDAI. ERKG.VT...
+SYS_HALN1   ~~~~~~~MLS RQFV...... ...RE..... HPEKVRDAL. DAKG.VD...
+SYS_CHLCV   ~~~~~~~MLD IKLI...... ...RK..... APEECEIRL. RKKD.PN...
+SYS_CHLPN   ~~~~~~~MLD IKII...... ...RK..... TPEECETRL. RKKD.PK...
+SYS_CHLMU   ~~~~~~~MLD IRLI...... ...RK..... EPKECEARL. QKKD.PS...
+SYS_DEIRA   ~~~~~~~MLD LKFI...... ...RE..... NPDAVREAI. RVKN.VA...
+SYS_BORBU   ~~~~~~~MLD LKFI...... ...RD..... NLDLVKRSI. KARG.LV...
+SYS_TREPA   ~~~~~~~MLD YRFI...... ...RE..... NVDAVKENV. KVRN.VH...
+SYSM_BOVIN  EGYSALPLLD MESL...... ...CA..... YPEDAARALD LRKGELR...
+SYS_STRCO   ~~~~~~~MID LRLL...... ...RE..... DPDRVRASQ. RARG.ED...
+SYS_COREF   ~~~~~~~MID LKFL...... ...RD..... NPDVVRTSQ. ITRG.ED...
+SYS_MYCLE   ~~~~~~~MID LQLL...... ...RE..... DPDVVRRSQ. LSRG.ED...
+SYS_BIFLO   ~~~~~~~MLD IQFI...... ...RE..... HTDIVKESQ. RKRG.ES...
+SYS_ARATH   ~~~~~~~MLD INLF...... ...RE.EKGN NPEIIRESQ. RRRF.AS...
+SYS_HELAN   ~~~~~~~MLD INLF...... ...RE.EKGG NPEIVRESQ. RRRG.AS...
+SYS_BOVIN   ~~~~~~~VLD LDLF...... ...RV.DKGG DPALIRESQ. EKRF.KD...
+SYS_CAEEL   ~~~~~~MVLD IDMF...... ...RT.EKGG NPEIIRKSQ. QDRF.KD...
+SYSC_SCHPO  ~~~~~~~MLD INLF...... ...QV.EKGG NPEIIRESQ. RKRG.AD...
+SYSC_CANAL  ~~~~~~~MLD INAF...... ...LV.EKGG DPEIIKASQ. KKRG.DS...
+SYSC_YEAST  ~~~~~~~MLD INQF...... ...IE.DKGG NPELIRQSQ. KARN.AS...
+SYS_MYCPU   ~~~~~~~MLD LKKI...... ...LN..... NPDYYRNIL. LNKK.AN...
+1h4q_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_CLOST   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YHI0_YEAST  KSATPVPIVV VALQSTTTPS ALIANATSSK DPRLARDDL. VKQA......
+SYP_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1nj8_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+1ser_A      ..LDLEALLA LDREV..... .......... .......... ..........
+SYS_AQUAE   .VSLVDKVLE LDKRRREIIK RLEALRSE.R NKLSKEIGKL KREGK...DT
+SYS_THEMA   .PAIIDEILK IDADWRATIT KTNELRSR.R NEISKNVARL KKEGK...NA
+SYS_CHLTE   .APKVDRLLE RDAERKAMVQ RTDDLKAL.R NRVSKEIANI KRTGQ...GS
+SYS_FUSNN   ....MDAFVE LDSKRREVLS EVENLKRE.R NNASAEIANL KKEKK...NA
+SYS_METAC   .TELIDSLLE YDVAWRKCLT EGDSLKHK.R NVVTREIAQL KKENK...DT
+SYS_BACHD   .ISGLEKFGS LDEKRRQVIV KVEELKSR.R NQVSQEVAQL KREKK...DA
+SYS_BACSU   .LTDFDKFEA LDDRRRELIG KVEELKGK.R NEVSQQVAVL KREKK...DA
+SYS_LISIN   .LGEFEKFGE LDKRRRTLIV ETEALKSQ.R NEVSQEIAKL KREKQ...DA
+SYS_OCEIH   .LADLDKFGE LDTNRRQLIA ETEKLKAQ.R NEATKKISEL KREKK...DA
+SYS_STAAM   .PKVVDEILE LDEQRRKLIS ATEEMKAR.R NKVSEEIALK KRNKE...NA
+SYS_LACLA   .KEKLEKLHD LDIKRRELIV KSEALKAE.R NSVSDEISQV KRAKG...DA
+SYS_STRA3   .QETLTTLKE LDIKRRELLI KAEEAKAQ.R NVASAAIAQA KRNKE...NA
+SYS2_LACPL  .ASDIDDLLA ADEKRRELIA KSEQLKST.R NQVSGEISQK KRNKE...DA
+SYS1_LACPL  .PAEVDEYLQ LDQQNRDAIT KVEGLKKQ.K NQLTEQIGQS DPQSE...AG
+SYS_THETN   ....LDRLLL LDEKRREMLV ELEALKNK.R NTESDNIARL KREGK...DA
+SYS_CLOAB   .ISVIDELVS LDEERRKNLV EVENLKSK.R NKDSGEIAKL KKSGQ...NA
+SYS_CLOPE   .VNVIDEVIA LDEERRKILV DVEALKKQ.R NEVSAEIPKR KKAGE...DV
+SYS_LEPIN   .IGIIDELKS IIQRKREFQK EADILREE.R NKASKEVGKI KQSGG...DI
+SYS_SYNEL   .DFDLDRILE LDAQQRQLEQ QRSQLQAR.S NEIGALVGKK IKSGI...AP
+SYS_ANASP   .TYDIQPILQ LDKQQRELEA TRSQIQAR.S NEIGKIVGQK IKSGI...NP
+SYS_SYNY3   .SYDLEPILA IAAEQKAKES ERTVLQSR.S NEIGKLIGQK IGQGA...DP
+SYS_SYNP7   .SYDIQPLLS LDQQVRQWEQ ERTQLQAR.S NEIGRSVGQK MREGA...DP
+SYS_BRUME   ..PLSSELIA LDEKRREHVG KVQAAQER.R NAASKEIGKA MAAKD...MG
+SYS_RHIME   ..PLSASLIA LDERRRAVLQ SLQDMQSR.R NAASKEIGAA MAQKN...SE
+SYS_AGRT5   ..PAAAGLIA LDEKRRSVIQ SLQDMQSR.R NAASKEIGAA MAQKN...ME
+SYS_RHILO   AQSTVDDLIA RDEARREHVT ELQTKQER.R NAASKEIGNA MRSGD...AA
+SYS_RICCN   ..PMSSKIAM LDGEKRKITS LIQEFQHA.R KVKSKILGNM .ASKS...GE
+SYS_PSEAE   ..LDVARIEA LEEQRKSVQT RTEQLQAE.R NARSKAIGQA KQRGE...DI
+SYS_RALSO   ..LDVAGFAA LEAERKAIQT RTEELQAR.R NSLSKQIGML KGKGE...D.
+SYS_BURCE   ..LDVAAFSA LEAERRAIQT RTEELQAR.R NTLSKQIGAM KAKGE...D.
+SYS_NEIMA   ..FDTARFDA LEERRKSVQV KTEELQAS.R NSISKQIGAL KGQGK...HE
+SYS_ECOLI   ..LDVDKLGA LEERRKVLQV KTENLQAE.R NSRSKSIGQA KARGE...DI
+SYS_HAEIN   ..LDTEKLTA LEDQRKNLQV TTENLQAE.R NARSKAIGAA KARGE...DI
+SYS_VIBCH   ..LDVETIRT LEEQRKSIQV EVENLQST.R NSISKQIGQL MASGD...KA
+SYS_SHEON   ..LDVAHLTQ LEEKRKSLQV ATEELQAS.R NAISKSIGQA KARGE...DV
+SYS_XANAC   ..LDTAELES LESERKRIQV RTQELQSQ.R NSKSKAIGQA KAKGE...DV
+SYS_XYLFA   ..LDVAALEA LESERKRIQV HTQELQSL.R NSKSKAIGQA RSKGE...DV
+SYS_COXBU   ..MDSDTFLQ LENKRKEAQL AIQSFQTK.R NQLSKTIGMA KSKGE...NP
+SYS_BUCAP   ..LDISLISS LEKKRKKLQI KTDNLQYK.H NTLSALFKKE KKIQE...LD
+SYS_BUCAI   ..LNISKISS MEEKRKTLQI QTENLQFK.H NALSNLFKEN KNIKN...KN
+SYS_BUCBP   ..LDVKQFTE MEKKRKILQT KVEELQSR.H NTLSKHIGRI KLIHP...NI
+SYS_WIGBR   ..LDKKKILL QDQKRKILQI EVEKLQNK.R NLQSKIISKI KINNK...NI
+SYS_CAMJE   .ENILKKLAE LFASLKKEKI ALEEFQAF.Q NKFSKELAT. ...AE...D.
+SYS_HELPJ   .DDELERLRE AIAHYKKQLI ELEGLQAF.Q NKVSKEFGIK MAQKM...D.
+SYS_UREPA   .SNLFDQIFD LDVLVRSLMQ QEQNLNAK.K NQLSKEIGIL AKNKD...PK
+SYS_MYCPE   ..LDISSLKD LDKKQSELLL IIESCNKK.R NEISKSIGIY IGKKD...NK
+SYS_MYCPN   .ESQFEAYVQ ADKAMRKLLH QIELANQK.Q TLLAQQVAKK K..GD...PK
+SYS_MYCGE   .EQLLNQFIQ TDKLMRKNLQ QLELANQK.Q SLLAKQVAKQ K..DN...KK
+SYS_HALMA   .GVDLDEILD IDEEWRELKA EGDGLRQE.R NEVSSKIGEL KQDGK...DE
+SYS_HALN1   ..ADLDRILE VDEEWRELKA RGDELRHD.R NEVSSKIGEL KQAGD...ED
+SYS_CHLCV   ..ISLLPILD LDKEVRRLKT DSESLQSQ.R KLLSTQIHKA KAQGE...DA
+SYS_CHLPN   ..ISLEPVLS LDKEVRQLKT DSETLQAQ.R RLLSQDIHKA KTQGV...DA
+SYS_CHLMU   ..ISLERLLD LDKNVRQLKA DSESLLAR.R KALSGQIHKA KVANE...DA
+SYS_DEIRA   ..LDLDDLLQ RDRDLVALKQ RVEAMQTE.R NANAKLVPKA SPEDR.....
+SYS_BORBU   ..LDIDKLIY LDDKRKKLIT KIGELNAK.R NENSSKMQEN LDKVL.....
+SYS_TREPA   ..ADVDAIVH LYDQRVKLLA ELQELQRA.R NENAQTMKSS LDALA.....
+SYSM_BOVIN  .SKDLPGIIS TWQELRQLRE QIRSLEEE.K EAVTEAVRAL VVNQDNSQVQ
+SYS_STRCO   .VALVDSLLS ADERRRSSGV RFDELRAE.Q KGLGKLIGKA AGDEK...A.
+SYS_COREF   .PALVDELLS ADEARRQAIQ VADELRSE.Q KAFGKKIGQA SPEDR...P.
+SYS_MYCLE   .PALVDALLT ADTARRAAIS AADSLRAE.Q KATSKSLGAA SAEDR...P.
+SYS_BIFLO   .VELVDEVLS SDTARREALK AFEEARAQ.Q KEIGKKVASA PADEK...A.
+SYS_ARATH   .VEIVDEIIK LDKEWRQRQF EVDSFRKE.F NKLNKQVAQL KIKKE...DA
+SYS_HELAN   .VEIVDEIIK LDKEWRQRQF ELEQLRKD.F NRINKEVAKL RISGG...DA
+SYS_BOVIN   .PGLVDQLVK ADSEWRRCRF RADNLNKL.K NLCSKTIGEK MKKKE...PV
+SYS_CAEEL   .PKLVDEVIE LDEKWRKERF VADQLNRQ.K NAISKAIGEK MKKKE...PQ
+SYSC_SCHPO  .VGVVDKVIE MYKEWVSLRF ELDNTNKS.I NRVQKEIGLK MKAKE...DA
+SYSC_CANAL  .VELVDEIIA EYKEWVKLRF DLDEHNKK.L NSVQKEIGKR FKAKE...DA
+SYSC_YEAST  .VEIVDEIIS DYKDWVKTRF ELDELNKK.F NKLQKDIGLK FKNKE...DA
+SYS_MYCPU   .ISLFDELVK IGKKRGELMQ KSQSLKAK.I NELSKSFIKL KTNEE...K.
+1h4q_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_CLOST   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YHI0_YEAST  ........FQ SESARAFILG DLANATSNFH LLIDHELGTV DG..D.....
+SYP_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1nj8_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            151                                                200
+1ser_A      .......... .......... .......... .......... .......QRE
+SYS_AQUAE   .......TEI QNRVKELKEE ID........ .......... ..RLEEELRK
+SYS_THEMA   EA.....EAL IEEGKRLGEE IK........ .......... ..ALEEKEKE
+SYS_CHLTE   ......ADEL IGQMKQVSDE IA........ .......... ..DLDLALSA
+SYS_FUSNN   .......DHI IEKMGEVSTK IK........ .......... ..DLDAELVE
+SYS_METAC   .......LSK INEMQDINNR IK........ .......... ..EIDDKIRD
+SYS_BACHD   .......DHL IKEMRDVSDE IK........ .......... ..GLDETLRQ
+SYS_BACSU   .......DHI IKEMREVGEE IK........ .......... ..KLDEELRT
+SYS_LISIN   .......DAK IEEMRVVGDR IK........ .......... ..TLDIELRE
+SYS_OCEIH   .......EPA IKEMREVGQE IA........ .......... ..TLDKQLKD
+SYS_STAAM   .......DDV IAEMRTLGDD IK........ .......... ..EKDSQLNE
+SYS_LACLA   .......SAQ IAAMQKVSAE IK........ .......... ..AIDAELAE
+SYS_STRA3   .......DEQ IAAMQTLSAD IK........ .......... ..AIDAELAD
+SYS2_LACPL  .......SAE IAEMQKVSAD VK........ .......... ..TLDEERRT
+SYS1_LACPL  .......QAL IQQVKQLNGD IK........ .......... ..STEAAQTE
+SYS_THETN   .......SEL IAKMKELSDK IK........ .......... ..DMEQELRE
+SYS_CLOAB   .......DEL LAEMKKISDD IK........ .......... ..GIDAKVSE
+SYS_CLOPE   .......TEV MAEMREIGDK IK........ .......... ..ADDAKVAE
+SYS_LEPIN   .......TKI SASVKLVGEK IK........ .......... ..EIESKLEQ
+SYS_SYNEL   TD..PEIQAL KAEANALKQK LS........ .......... ..DLEPQERQ
+SYS_ANASP   QD..PEIQAL RDEGNAIKAQ LS........ .......... ..ELEPREKE
+SYS_SYNY3   KG..EEIQTL REEGNSLKIQ LA........ .......... ..DLEPQEKD
+SYS_SYNP7   QS..EEIAAL REEGNQLKQQ IA........ .......... ..DLEQQERQ
+SYS_BRUME   T.....AEKL KAEVGELKDF LA........ .......... ..HAEEDERR
+SYS_RHIME   L.....ADRL KAEVADLKNA LP........ .......... ..AAEEESRR
+SYS_AGRT5   L.....AEKL KAEVADIKEN MP........ .......... ..RAEEEDRQ
+SYS_RHILO   L.....AEKL KAEVGDIKTF IQ........ .......... ..NGEARERE
+SYS_RICCN   E.....FEGL QRDVKHINEK LE........ .......... ..ALE.QDLN
+SYS_PSEAE   .......APL LADVDRMGSE LE........ .......... ..EGKRQLDA
+SYS_RALSO   ......ASAV MAEVAGIGDE LK........ .......... ..ASAAQLDV
+SYS_BURCE   ......TSAV MAEVGGIGDE MK........ .......... ..ASAAKLDE
+SYS_NEIMA   E.....AQVA MDQVAQIKTD LE........ .......... ..QAAADLDA
+SYS_ECOLI   .......EPL RLEVNKLGEE LD........ .......... ..AAKAELDA
+SYS_HAEIN   .......APL LAEMDDMGNQ LT........ .......... ..EAKAQLDA
+SYS_VIBCH   G.....AEAV KQQIGTLGDD LD........ .......... ..AKKVELDA
+SYS_SHEON   .......DAI MAQVGDLGAQ LD........ .......... ..AKKVELAA
+SYS_XANAC   .......AAL MAEVAGFGDE LK........ .......... ..ASEDALDA
+SYS_XYLFA   .......SSL MAEVAAFSDD LK........ .......... ..ASEIALEE
+SYS_COXBU   .......ELL MAEVSQLNDE LK........ .......... ..QEEANFET
+SYS_BUCAP   .......ENL KRTLTKSSKN LS........ .......... ..ELKIELNL
+SYS_BUCAI   .......ELL RHQVIQSSKD LN........ .......... ..ASKIELNS
+SYS_BUCBP   .......QCM KERIITLKKK ID........ .......... ..VMKKELKI
+SYS_WIGBR   .......DIY KNKSNKINIL LN........ .......... ..EKKQKLKK
+SYS_CAMJE   ......KESL KAKLSENKSK IN........ .......... ..EQSAKVNA
+SYS_HELPJ   ......TSDL KKELENNKIK LN........ .......... ..ELSKSVGE
+SYS_UREPA   L.....QQT. LDLVNNIKNE LQ........ .......... ..DISLTLSN
+SYS_MYCPE   K.....VDEL KKEMESIKNT LE........ .......... ..TTNEELKT
+SYS_MYCPN   .........L LKESKELKQK LE........ .......... ..QLNIAFKE
+SYS_MYCGE   .........L LAESKELKQK IE........ .......... ..NLNNAYKD
+SYS_HALMA   E.....AQEA IDRSQELKDE LQ........ .......... ..DIEERADE
+SYS_HALN1   A.....AQEA IERSQALKDE LA........ .......... ..DVEARADD
+SYS_CHLCV   .......SNM ISEVERISQD LE........ .......... ..KLEASLEE
+SYS_CHLPN   .......TNL IQEVETLAAD LE........ .......... ..KIEQHLDQ
+SYS_CHLMU   .......TPL IQGVNAIADQ LV........ .......... ..AFEKTLQE
+SYS_DEIRA   .......PGL IQKGKDLSED LK........ .......... ..ALEPQLRE
+SYS_BORBU   ......KISL IETGKILKKQ LI........ .......... ..DLEEELER
+SYS_TREPA   ......RSAC VETGRALKDR IA........ .......... ..HSERLLVQ
+SYSM_BOVIN  QD..PQYQSL RARGREIRKQ LT........ .......... ..LLYPKEAQ
+SYS_STRCO   ........EL LKRAEQLKTD VK........ .......... ..AADAERDA
+SYS_COREF   ........AL LEGSNELKAK VK........ .......... ..EAEAAQET
+SYS_MYCLE   ........AL LERAKDLAEQ VK........ .......... ..AAETTQAE
+SYS_BIFLO   ........KL IAETKELSQK VS........ .......... ..EYKSKADS
+SYS_ARATH   SE.......I IQQTEKNKQD ST........ .......... ..AKEAEVRE
+SYS_HELAN   SS.......L IKNTEENKDS TA........ .......... ..KKQAEVQE
+SYS_BOVIN   GNDESIPEDV L.NLDDLTAD TLTNLKVSQI KKVRLLVDEA ILKCDAERIK
+SYS_CAEEL   GTDDSVADDI VARLAELKID ELSQLTVVQL KKLRVLVDEK SVQTAAAVIA
+SYSC_SCHPO  SE.......L LEEKNSLTER KK........ .......... ..NLIEQETA
+SYSC_CANAL  KD.......L IAEKEKLSNE KK........ .......... ..EIIEKEAE
+SYSC_YEAST  SG.......L LAEKEKLTQQ KK........ .......... ..ELTEKEQQ
+SYS_MYCPU   .......NEL KAKISKIKKE QE........ .......... ..QKEKKSEL
+1h4q_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_CLOST   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YHI0_YEAST  .......... .......... T......... .......... ILQLNDSTYM
+SYP_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1nj8_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1ser_A      KEARLEALLL QVPLPPW... .......... PGAPVGGE.. ..........
+SYS_AQUAE   VEEELKNTLL WIPNLPH... .......... PSVPVGED.. ..........
+SYS_THEMA   LQKKLNDLLL MIPNIPH... .......... ESVPVGED.. ..........
+SYS_CHLTE   LEAEIEELLL TLPNKLH... .......... KSVPEGRS.. ..........
+SYS_FUSNN   IDEKIKDIQL NIPNVYH... .......... PSTPIGPD.. ..........
+SYS_METAC   YKSKINEIML SIPNIPS... .......... ETTPVGKD.. ..........
+SYS_BACHD   LDEELDQLLL AIPNVPH... .......... ESTPVGET.. ..........
+SYS_BACSU   VEAELDTILL SIPNIPH... .......... ESVPVGET.. ..........
+SYS_LISIN   IDEKLDTILM SIPNIPH... .......... ESTPVGES.. ..........
+SYS_OCEIH   IEEKLEQIML SIPNLPH... .......... ESVPVGED.. ..........
+SYS_STAAM   IDNKMTGILC RIPNLIS... .......... DDVPQGES.. ..........
+SYS_LACLA   IEENLNEIII MLPNLPH... .......... ESTPIGAD.. ..........
+SYS_STRA3   VDANLQSMVT VLPNTPA... .......... DDVPLGAD.. ..........
+SYS2_LACPL  VDAQVQDMAA HLPNMPH... .......... PDVPVSLK.. ..........
+SYS1_LACPL  VNDRLHYLAI RFPNLPA... .......... DDVPVGPD.. ..........
+SYS_THETN   IEEEMEKILW TIPNIPH... .......... ESVPIGES.. ..........
+SYS_CLOAB   IDEKMQYIML RIPNIPH... .......... PSVPEGKS.. ..........
+SYS_CLOPE   LNDKINYIML RIPNIPN... .......... PAVPEGET.. ..........
+SYS_LEPIN   EENALLNINL GLPNILD... .......... PKVPPGKS.. ..........
+SYS_SYNEL   LKEELESLLL TIPNPPS... .......... ETTPIGRD.. ..........
+SYS_ANASP   LKAEIEQLIL ALPNLPS... .......... DSTPIGKG.. ..........
+SYS_SYNY3   LKEQLQKLLL ELPNLPC... .......... ETTPIGAS.. ..........
+SYS_SYNP7   VRSELDTYLL TLPNLPD... .......... ETVPLGSS.. ..........
+SYS_BRUME   LSKELSDALS TIPNIPL... .......... DDVPLGKD.. ..........
+SYS_RHIME   IEAELSDALS RIPNTPL... .......... ADVPVGAD.. ..........
+SYS_AGRT5   VSAELNDALS RLPNMPF... .......... DDVPDGKD.. ..........
+SYS_RHILO   LDKALTDALA VLPNVPL... .......... DDVPVGKD.. ..........
+SYS_RICCN   NNNELNELLN MFPNIPD... .......... DEVPYGMD.. ..........
+SYS_PSEAE   IQGELDAMLL GIPNLPH... .......... ESVPVGAD.. ..........
+SYS_RALSO   VQGRLQDLLL SIPNVPH... .......... ESVPAGKS.. ..........
+SYS_BURCE   IQARLSELLL GMPNLAH... .......... ESVPVGKD.. ..........
+SYS_NEIMA   VQKELDAWLL SIPNLPH... .......... EDVPFGKD.. ..........
+SYS_ECOLI   LQAEIRDIAL TIPNLPA... .......... DEVPVGKD.. ..........
+SYS_HAEIN   VLAEINQIAL SIPNLPA... .......... DEVPLGKD.. ..........
+SYS_VIBCH   VMAQLDAITQ TVPNIPD... .......... DAVPNGKD.. ..........
+SYS_SHEON   VLEEVNAIAM SMPNLPD... .......... ESAPIGAD.. ..........
+SYS_XANAC   IRAKLEGIAL GLPNLPA... .......... EGVPLGKD.. ..........
+SYS_XYLFA   IRTELEKVAL GIPNLPQ... .......... QDVPLGAD.. ..........
+SYS_COXBU   IQKAFSDFQL AIPNLPH... .......... DSVPDGKS.. ..........
+SYS_BUCAP   LQEKIHNFSL SIPNIPS... .......... DDVPEGNS.. ..........
+SYS_BUCAI   LKEKIHHFSM CIPNIPS... .......... DDVPEGNT.. ..........
+SYS_BUCBP   LLEQIHIFLM NIPNLPD... .......... INIPDGMG.. ..........
+SYS_WIGBR   IKKEIDNYLS TIPNILD... .......... EKVPIGKD.. ..........
+SYS_CAMJE   LENELEEIAH AIPNIPD... .......... ECVPVGED.. ..........
+SYS_HELPJ   AEQEMDLKLS IIPNLVD... .......... EKTPLGAS.. ..........
+SYS_UREPA   KQDELNKLLL VIPNMPD... .......... DSVPIGND.. ..........
+SYS_MYCPE   ISAKVDDILL SIPNIPD... .......... SSVPIGKS.. ..........
+SYS_MYCPN   AETLSQELLL NLPNIAD... .......... ESVPVGRD.. ..........
+SYS_MYCGE   SQNISQDLLL NFPNIAH... .......... ESVPVGKN.. ..........
+SYS_HALMA   LESQLEEALL ELPNIPH... .......... ESVPTGEG.. ..........
+SYS_HALN1   LEAELERLLL TLPMVPD... .......... EDAPVGDS.. ..........
+SYS_CHLCV   KNATLQDLLV RLPNYPE... .......... EDVPVCPD.. ..........
+SYS_CHLPN   KNAQLHELLS HLPNYPA... .......... DDIPVSED.. ..........
+SYS_CHLMU   QEALLLDLMA RLPNYPD... .......... EDVPVSPD.. ..........
+SYS_DEIRA   QEDALKQLLL RVPNIPL... .......... PGVPVGKD.. ..........
+SYS_BORBU   VSVDFDLENK KVPNILS... .......... PDVPIGSS.. ..........
+SYS_TREPA   ISDQLLSATQ ALPNMTH... .......... MCTPHGRS.. ..........
+SYSM_BOVIN  LEEQFYLRAL RLPNQTH... .......... PDVPVGDE.. ..........
+SYS_STRCO   ADAETQELLQ RLGNLVH... .......... PDVPVGGE.. ..........
+SYS_COREF   AEQRVHDLQM KLSN.VV... .......... EGAPAGGE.. ..........
+SYS_MYCLE   TAAAFAAAYM AISNVVL... .......... DGVPTGGK.. ..........
+SYS_BIFLO   AAEEYTTAMW KLSNIVE... .......... PEAPEGGE.. ..........
+SYS_ARATH   AYAALKAKLE QVGNLVH... .......... DSVPVDKD.. ..........
+SYS_HELAN   ARTALYSKLE TVGNLVH... .......... DSVPVSND.. ..........
+SYS_BOVIN   LEAERFESLR EIGNLLH... .......... PSVPISDD.. ..........
+SYS_CAEEL   NENARHEKLI QIGNLIH... .......... SSVVVSKD.. ..........
+SYSC_SCHPO  KNKEMLNVVS SIGNIVH... .......... DSVPVSMD.. ..........
+SYSC_CANAL  ADKNLRSKIN QVGNIVH... .......... ESVVDSQD.. ..........
+SYSC_YEAST  EDKDLKKKVF QVGNIVH... .......... PSVVVSND.. ..........
+SYS_MYCPU   IDDRVFFLLA NLPNIIL... .......... DDVPFGED.. ..........
+1h4q_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_CLOST   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+YHI0_YEAST  KK...SDMMK FLNNFEDSQK VVDFSQEVSK ETATEGKKQQ KKQQPSKAGT
+SYP_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYP_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1nj8_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1ser_A      ........E. ANREIKRVG. GPPEF.S... ......FPPL DHVALMEKNG
+SYS_AQUAE   ........EK DNVEVRRWG. EPRKF.D... ......FEPK PHWEIGERLG
+SYS_THEMA   ........ES QNVEVRRWG. EPREF.D... ......FTPL AHWDLGPAWG
+SYS_CHLTE   ........AE ENVLYKGPVS FEHNL.D... ......FPVK NHLELGKSLG
+SYS_FUSNN   ........ED YNLEIRKWG. IPKKF.D... ......FEPK SHWDIGEDLG
+SYS_METAC   ........EN DNPVVRVVG. EKKKF.T... ......FTPK PHWEIGEALD
+SYS_BACHD   ........ED DNVEVRKWG. EVPNF.P... ......FEPK AHWDLATALG
+SYS_BACSU   ........ED DNVEVRKWG. EKPSF.A... ......YEPK PHWDIADELG
+SYS_LISIN   ........ED DNVEIRKWG. EVREF.D... ......FEPK AHWDLGTDLD
+SYS_OCEIH   ........EE DNIEARKWG. EAPNF.A... ......FEAL PHWDVATNLD
+SYS_STAAM   ........DE DNVEVKKWG. TPREF.S... ......FEPK AHWDIVEELK
+SYS_LACLA   ........ED DNVEVRRVG. QTPTF.N... ......FEPK AHWDLGEDLG
+SYS_STRA3   ........ED ENVEVRRWG. TPREF.D... ......FETK AHWDLGESLG
+SYS2_LACPL  ........EE DAVELRRIG. TPRHF.D... ......FTPK AHWDIGEDLG
+SYS1_LACPL  ........ED SNVEMRKHG. DIPTF.D... ......FKPK AHWELGESLG
+SYS_THETN   ........DE DNVEVRRWG. EPRKF.D... ......FEPK PHWEIGEALG
+SYS_CLOAB   ........DE ENVEIRKWG. EPRKF.D... ......FEFK AHWDIGTDLG
+SYS_CLOPE   ........DE DNVEIKRWG. EPTKF.N... ......FEPK AHWDLGTDLD
+SYS_LEPIN   ........EH DNIVQYEVG. KIPTF.Q... ......FVPK THFEIGEALH
+SYS_SYNEL   ........ET DNVEVRRWG. EEYKP.T... .....YP.CQ PHWDIGTRLG
+SYS_ANASP   ........EE ENVEVRLWG. DEYLP.Q... .....NPNII PHWEIGEKLG
+SYS_SYNY3   ........EA DNIEVKRWG. DQYLK.A... ....ETVGIL PHWEIGEKLG
+SYS_SYNP7   ........ED ENREIHRWG. DDRIR.E... .....G.EFA PHWEIGERLG
+SYS_BRUME   ........ES DNVELRRIG. NPHNF.S... ......FQPK EHFELGEALG
+SYS_RHIME   ........ES ANVVTRVVG. AKPGW.N... ......HKPL EHFEIGEALG
+SYS_AGRT5   ........EH DNVVARVTG. QKPGW.N... ......HAAK EHFEIGEALG
+SYS_RHILO   ........EH DNVVKHIVG. KVPTR.S... ......NWVK EHFEIGEALG
+SYS_RICCN   ........ES MNKLVRTYG. ETN.P.N... ......ALNK QHFELGIKLN
+SYS_PSEAE   ........ED ANVEVRRWG. TPKTF.D... ......FEVK DHVALGERHG
+SYS_RALSO   ........EA ENVEVRREG. TPRAF.D... ......FPVK DHVDLGAG.L
+SYS_BURCE   ........EA DNVEVRRWG. TPRQF.D... ......FDVK DHVDIGTP.L
+SYS_NEIMA   ........ET ENVEVRKVG. TPREF.D... ......FEIK DHVDLGEP.L
+SYS_ECOLI   ........EN DNVEVSRWG. TPREF.D... ......FEVR DHVTLGEMHS
+SYS_HAEIN   ........DT ENKEILRWG. TPRTF.D... ......FEVK DHITLGEEAN
+SYS_VIBCH   ........DS ENVEVSRWG. TPKTY.D... ......FEVK DHVDLGEMGD
+SYS_SHEON   ........ET ENVEVRRWG. SPRSF.D... ......FPIK DHIDLGEGLN
+SYS_XANAC   ........ES ENLEQSRWG. TPRQF.D... ......FAVK DHVELGAPHG
+SYS_XYLFA   ........ER DNVEQARWG. VPRTF.D... ......FSIK DHVELGACHG
+SYS_COXBU   ........EN DNREIRQWG. APPGF.D... ......FTPK DHTVLGERDN
+SYS_BUCAP   ........SE NNKIVKYWG. KKREY.S... ......FAVR DHVEIGNKLN
+SYS_BUCAI   ........SI NNKEIKYWG. QKKKY.D... ......FEIQ DHIELGKKFN
+SYS_BUCBP   ........SD DNQEVSRWG. IIKNY.N... ......FKIK NHVELGNHLN
+SYS_WIGBR   ........QK NNIEVKKWG. SPKIY.N... ......FKIK SHVEIGEKIK
+SYS_CAMJE   ........EN ENVELKKVL. NPPSF.D... ......FTPK EHFELGESLN
+SYS_HELPJ   ........EE DNIEIKKIL. TPRNF.T... ......FKPK EHFELAQQNG
+SYS_UREPA   ........EN DNVEIKKVF. KPKKF.D... ......FLPL AHWDLAVKNK
+SYS_MYCPE   ........ED ENVEIKKWG. TPTKF.D... ......FNHK AHWDLITDLD
+SYS_MYCPN   ........ET ANLELLKEG. RKPVF.D... ......FTPL PHWELCERLQ
+SYS_MYCGE   ........ES ANLELLKEG. RKPVF.D... ......FKPL PHRELCEKLN
+SYS_HALMA   ........EA DNVERYREG. FDDLR.D... ....LPDEVV PHYDLGEDLD
+SYS_HALN1   ........EA ENVERRREG. FDDRR.D... ....LPESVV PHYDLGEELD
+SYS_CHLCV   ........KS GNQVIKSVG. ALPTF.S... ......FTPK HHVELNQKLQ
+SYS_CHLPN   ........KA GNQVIKSVG. DLPIF.S... ......FPPK HHLELNQELD
+SYS_CHLMU   ........KS GNKIIKSHG. EIPTF.T... ......FPPK HHVQLNEKLQ
+SYS_DEIRA   ........ED DNVELRREG. ELPGF.D... ......FTPL DQVEILEKQG
+SYS_BORBU   ........EE DNFEIKRVG. VVPQF.D... ......FKPK DHLELGRDLD
+SYS_TREPA   ........DS DNLEIKRCG. VPPCF.S... ......FSPR DHVELARLLD
+SYSM_BOVIN  ........S. QARVLHVVG. DKPAF.S... ......FQPR GHLEIAEKLD
+SYS_STRCO   .........E DFVTLETHG. THRDFAA... ....EGFEPR DHLELGQLLG
+SYS_COREF   .........D DFVVLEHVG. EPRTF..... .....DFEPK DHLELGESLG
+SYS_MYCLE   .........D DYAVLDIVG. DPPPL..... .....S.NPK DHLELGEALG
+SYS_BIFLO   .........D DYVVVKKVG. QIRDFAA... ....EGFEPK DHLTLGTGVA
+SYS_ARATH   ........EA NNLVIKLWG. EKRFSTPGLK ........LK NHVDLVELLG
+SYS_HELAN   ........EA DNAVVRTWG. ERREE...TN ........LK NHVELVELLG
+SYS_BOVIN   .......EDA DNKVERIWG. DCTVRK.... ........KY SHVDLVVMVD
+SYS_CAEEL   ........EA NNKIERTFG. DLSTKK.... ........KY SHVDLVVMVD
+SYSC_SCHPO  ........ED NNEIIRKWA. PEGVTV.... ....EKKNCL SHHEVLTRLD
+SYSC_CANAL  ........EE NNELVRTWT. PENYKKPEQI AAATGAPAKL SHHEVLLRLD
+SYSC_YEAST  ........EE NNELVRTWK. PEDLEAVGPI ASVTGKPASL SHHEILLRLD
+SYS_MYCPU   ........EN SNIVIEKKEN LGNGL.I... ......VHDF SHYDIAEKFG
+1h4q_A      ~~~~~~~~~~ ~~~~~KGLTP QSQDF..... ........SE WYLEVIQKAE
+SYP_MYCLE   ~~~~~~~~~~ MGCNKRGVTR QEDDF..... ........SA WYNEVVAKAG
+SYP_BORBU   ~~~~~~~~~~ ~~~MSDFIAS KEDDY..... ........SK WYLDIVQKAK
+SYP_CLOST   ~~~~~~MAKK DQEFVKDITN MDEDF..... ........PQ WYTDVITKTD
+YHI0_YEAST  AAAAAAAALE DAKLIGITVD KALDF..... ........PG WYQQILTKGE
+SYP_MYCPN   ~~~~~~~~~~ ~~~~~~~MAN KDQNL..... ........TL WYDQLLSKAQ
+SYP_MYCGE   ~~~~~~~~~~ ~~~~~~~MTK KTQDL..... ........TS WYDQLLVKAK
+1nj8_A      ~~~~~~~~~~ ~~~~~~~~~~ ~MLEF..... ........SE WYSDILEKAE
+
+            301                                                350
+1ser_A      WWE.PRISQV SGSRSYALKG DLALYELALL RFAMDFMA.R RGFL......
+SYS_AQUAE   ILDFKRGAKL SGSRFTVIAG WGARLERALI NFMLDLHT.K KGYK......
+SYS_THEMA   LMDFSRASKL SGSRFTVMYG KLARLERALI NFMLDVHTKE HGYT......
+SYS_CHLTE   ILDFERGAKI SGAGFPVYTG KGARLERALI NFMLDTHSAN HGYT......
+SYS_FUSNN   ILDFERGAKL SGSRFVLYRG AAARLERAII NFMLDVHTLE EGYT......
+SYS_METAC   ILDFERGAKI AGQGFTVYKG LGAKLERALI NFMLDVHT.R QGYL......
+SYS_BACHD   IVDFERAAKV TGSRFAFYKG AGARLERALI NFMMDLHHDK HGYE......
+SYS_BACSU   ILDFERAAKV TGSRFVFYKG LGARLERALY NFMLDLHVDE YNYT......
+SYS_LISIN   ILDFENAAKV TGSRFVFYKK LGARLERALI NFMMDLHSNE HGYE......
+SYS_OCEIH   IIDFERAGKV TGSRFVFYKG LGARLERALW NFMMDLHADE HGYQ......
+SYS_STAAM   MADFDRAAKV SGARFVYLTN EGAQLERALM NYMITKHTTQ HGYT......
+SYS_LACLA   ILDWERGGKV TGSRFLFYKG AGARLERALY NFMLDEHG.K EGYT......
+SYS_STRA3   ILDWERGAKV TGSRFLFYKG LGARLERAIY SFMLDEHA.K EGYT......
+SYS2_LACPL  ILDFERGAKV SGSRFLYYVG DGAKLERAVY NFFLDQHE.A EGYT......
+SYS1_LACPL  ILDFDRAAKV AGARFVYYKD AGALLERAVY SFMLDLHTQK QGYH......
+SYS_THETN   ILDFEAASRV TGSRFVFYKG LGARLERALI NFMLDLHIEK HGYK......
+SYS_CLOAB   LLDFERGGKV AGSRFTFYKG LGARLERAVI NYFLDTHVEK HGYT......
+SYS_CLOPE   LLDFERGGKV AGSRFTVYKG MGARLERSII NYFLDKHTFE NGYT......
+SYS_LEPIN   WIDFEKGVKL SGARAYTYWK DGARLERALM NFMLDVHTKE HDYT......
+SYS_SYNEL   LWDVERSVKV AQSRFVTLLG LGAALERALI QFMLDSHR.E RGYV......
+SYS_ANASP   ILNFERAVKV AQSRFVNLIG AGAALERALI NFMLKMQT.A AGYI......
+SYS_SYNY3   IIDSERGVKV AQSRFISLMK AGAALERALI NFMLERHI.G VGYQ......
+SYS_SYNP7   LFDFERSTRI AQSRFVTLLG AGAALERALI AFMLDRQT.A AGYT......
+SYS_BRUME   YMDFERAAKL AGARFTVLKG PLARLERALG QFMLDLHTTE HGYT......
+SYS_RHIME   LMDFEGAARI AGSRFTILKG QLARLERALG QFMLDLHTGE HGYI......
+SYS_AGRT5   YMDFERAAKL SGSRFTVLTS QLARLERALG QFMIDLHTSE HGYT......
+SYS_RHILO   MMDFERAAKL SGSRFTVLKS GLARMERAIG QFMLDLHTTE HGYE......
+SYS_RICCN   LMDFEQTAKI SGTRFVTLKG DLAKLERALI NFMIDVHTKE WDFF......
+SYS_PSEAE   WLDFETAAKL SGARFALMRG PIARLHRALA QFMINLHTAE HGYE......
+SYS_RALSO   GLDFDVAAKL SGSRFAVLKG PVARLHRALA QFMLDTHTQE HGYT......
+SYS_BURCE   GLDFETGAKL AGARFTMLRG PIARLHRALA QFMLDTHTQQ HGYS......
+SYS_NEIMA   GLDFEGGAKL SGARFTVMRG QIARLHRALA QFMLDTHTLK HGYT......
+SYS_ECOLI   GLDFAAAVKL TGSRFVVMKG QIARMHRALS QFMLDLHTEQ HGYS......
+SYS_HAEIN   GLDFAAGAKL AGARFAVMKG QIAKMHRALA QFMLDLHTEQ HGYL......
+SYS_VIBCH   GLDFASATKI TGARFVVMKG QFARLHRAIA QFMLDLHTDQ HGYT......
+SYS_SHEON   GLDFKSAVKI TGSRFIVMKG QIARLNRALG QFMLDLHTTE HGYT......
+SYS_XANAC   WLDGETAAKL SGARFTVLRG PVARLHRALA QFMLDLHVGE HGYE......
+SYS_XYLFA   WLDAESAAKL SGARFTVLRG PIARLHRALA QCMLDLHVRQ HGYE......
+SYS_COXBU   QLDFEAAAKL SGARFVVLRG SLARAHRALA QFMLDLHTDQ HGYE......
+SYS_BUCAP   QLDWKSSAKI SGARFIVMKG NIALLHRALS QFMLDLHTIK HGYT......
+SYS_BUCAI   ELDWKSSAQM SGSRFVIMKG KIALLHRALS QFMLDLHTLK HGYI......
+SYS_BUCBP   GFDWKSAANI SGSRFFIMKG KIALLYRVLG QFMLDLHTNE HGYL......
+SYS_WIGBR   YLDFSRSAKI SGSRFVVMKN KISYMHRALS QFMLNLHTNQ HGYE......
+SYS_CAMJE   WLDFMRGVKI SQSRFCVLKN EGALLSRALV NYMIDFNR.S RGFE......
+SYS_HELPJ   WIDFESGVKL AKSRFSVIRG FGAKIYRALI HLMLDFNE.K NGFE......
+SYS_UREPA   LIDFDKSTKI TGSRFIIYTN FGARLYRALQ QFCLDMNV.K AGFS......
+SYS_MYCPE   IGDFERATKV TGSRFFIYKG LGSKLMRALQ MLTLDINT.S NGYL......
+SYS_MYCPN   LVAFDKATKL TGARFVAYTD KAAKLLRAIA SLMIDLNK.. NKYQ......
+SYS_MYCGE   LVAFDKATKI SGTRFVAYTD KAAKLLRAIT NLMIDLNK.. SKYQ......
+SYS_HALMA   LLDFERGAKV SGGGYQFVKG EGARLEHALI QFMLDVHR.E QEYV......
+SYS_HALN1   ILDFERGAKV SGGGFYFSKG AGARLEHALV QFMLDVHR.E QGYE......
+SYS_CHLCV   ILDFKLPAKT SGSGWPAYKN QGVMLEWALL TYLLNKQR.E HGFQ......
+SYS_CHLPN   ILDFQAAAKT TGSGWPAYKN RGVLLEWALL TYMLQKQA.A HGFQ......
+SYS_CHLMU   ILDFKLPAKT SGSGWPAYKN EGVLLEWALL TYLLNKQQ.A HGFQ......
+SYS_DEIRA   WADFERVARV SGSRSYLLKG DAALLEMAVL MFALDFLS.Q RGFT......
+SYS_BORBU   LLDFDRAREI SGSKFYYLKN EAVFLEIALI NFSLNKLR.D KGFD......
+SYS_TREPA   IVDFEAGKKV SGIKFYYLKR EGVLLEQALI MFGLQFLQ.E RGFV......
+SYSM_BOVIN  IIRQKRLSHV SGHRSYYLRG AGALLQHGLV NFTLNKLI.H RGFT......
+SYS_STRCO   AIDVERGAKV SGSRFYFLTG VGALLELALV NAAIAQAT.A AGFT......
+SYS_COREF   LIDMKRGTKV SGARFYYLTG DGAMLQLGML TLAAQKAT.A AGFT......
+SYS_MYCLE   LIDMQRGAKV SGSRFYFLTG RGALLQLGLL QLALRLAV.E NDFI......
+SYS_BIFLO   GIDMRRGVKV GGSRFYFLRG QVARMQIAML TMAVDQAE.E HGFT......
+SYS_ARATH   IADTKRGAEI AGARGFFLKG DGLMLNQALI NFGLTFLK.K RGFT......
+SYS_HELAN   IADLKKGANV AGGRGYYLKG DGVRLNQALI NFGLDFLE.K RKYT......
+SYS_BOVIN   GFEGEKGAVV AGSRGYFLKG VLVFLEQALI QFALRTLA.S RGYT......
+SYS_CAEEL   GFDGERGTVV AGGRGYFLKG PLVFLEQAII QLALQRLN.V KGYV......
+SYSC_SCHPO  GYDPERGVKV SGHRGYFLRQ YGVFFNLALI QYGLDFLE.K RGYI......
+SYSC_CANAL  GYDPERGVRI VGHRGYFLRN YGVFLNQALI NYGLSFLS.S KGYV......
+SYSC_YEAST  GYDPDRGVKI CGHRGYFFRN YGVFLNQALI NYGLQFLA.A KGYI......
+SYS_MYCPU   LVDFKRASKL SGPRFVIFKN QGAKLARALM DFMLDTNI.Q KGYK......
+1h4q_A      LAD.YGPV.. R..GTIVVRP YGYAIW.ENI QQVLDRMFKE TGHQ......
+SYP_MYCLE   LID.RGPA.. K..GTMVIRP YGYRIW.ELL QDELDSKIKE LGHE......
+SYP_BORBU   LAD.YSPV.. K..GCMVIMP YGYSIW.SKI QSILDKKFKE TGHE......
+SYP_CLOST   LVD.YSPV.. K..GFMVIKP YGYAIW.ENI QAFLDRRFKE TGHQ......
+YHI0_YEAST  MLD.YYDV.. S..GCYILRP PSYAIW.ENI QKWFDDKIKA IGVQ......
+SYP_MYCPN   LVS.YGDV.. K..GTNCFLP NSWNLW.LQI QRLYNNATAL IKLKDKVILK
+SYP_MYCGE   LIC.HGEV.. K..GTVCFLN NSWGLW.MEI QQLYNDAIAN KNQLSAIALT
+1nj8_A      IYDVRYPI.. K..GCGVYLP YGFKIR.RYT FEIIRNLLDE SGHD......
+
+            351                                                400
+1ser_A      .......... ...PMTLPSY AREKAFL.GT GHFPAYRDQV .WAIAE....
+SYS_AQUAE   .......... ...EICPPHL VKPEILI.GT GQLPKFEEDL .YKCER....
+SYS_THEMA   .......... ...EVWVPHL VKRETIT.IT GQLPKFEEEL .YLAER....
+SYS_CHLTE   .......... ...EVFPPFM VNQESLR.GT GQWPKFADQV .YHMPE....
+SYS_FUSNN   .......... ...EHITPFM VKAEVCE.GT GQLPKFEEDM .YKTT.....
+SYS_METAC   .......... ...EVFPPVL INEKAMT.GT GQLPKFKEDM .YLCCA....
+SYS_BACHD   .......... ...EVLPPYL VNRTSMT.GT GQLPKFEEDA .FKIRE....
+SYS_BACSU   .......... ...EVIPPYM VNRASMT.GT GQLPKFEEDA .FKIRE....
+SYS_LISIN   .......... ...EMLPPYM VNRASMT.GT GQLPKFEEDA .FLIEA....
+SYS_OCEIH   .......... ...EMLPPYI VNRSSMT.GT GQLPKFEEDA .FKLEE....
+SYS_STAAM   .......... ...EMMVPQL VNADTMY.GT GQLPKFEEDL .FKVEK....
+SYS_LACLA   .......... ...EMITPYM VNQESMF.GT GQYPKFKEDT .FELKD....
+SYS_STRA3   .......... ...EVIPPYM VNHDSMF.GT GQYPKFKEDT .FELAD....
+SYS2_LACPL  .......... ...EVLPPYM VTDESMY.GT GQFPKFKEDA .FRITT....
+SYS1_LACPL  .......... ...EIIPPYL VNAQTMY.GT GQFPKFKEDV .YTVES....
+SYS_THETN   .......... ...EVFPPFL VHRRSMF.GT GQLPKFEEDA .FKVEG....
+SYS_CLOAB   .......... ...EILPPYM VNRVSMT.GT GQLPKFEEDA .FKVD.....
+SYS_CLOPE   .......... ...EVLPPYM VNRDSMT.GT GQLPKFEEDA .FKVEN....
+SYS_LEPIN   .......... ...EVWVPSM VNDESMM.AT GQYPKFKDEF .YRIDK....
+SYS_SYNEL   .......... ...EVLPPLL VNTASLT.GT GQLPKFAEES .FRCAD....
+SYS_ANASP   .......... ...EVSPPLL VNTDSLT.GT GQLPKFAEES .FKCAD....
+SYS_SYNY3   .......... ...EIMPPIL VNSDSLL.GT GQLPKFAEES .FQCRG....
+SYS_SYNP7   .......... ...EVAPPYL INSASLT.AS GQLPKFSEES .FRCDR....
+SYS_BRUME   .......... ...EVMPPLM VRDEAVY.GT GQLPKFSEDL .FRTTD....
+SYS_RHIME   .......... ...EVQPPLL VRDDAMY.GT GQLPKFSDDL .FRTTD....
+SYS_AGRT5   .......... ...EVSSPLM VRDEAMF.GT GQLPKFAEDL .FRTTD....
+SYS_RHILO   .......... ...EVIPPLM VRDEVLF.GT NQLPKFEEDL .FFTPH....
+SYS_RICCN   .......... ...EISPPVL VRDNAMY.NA GQLPKFAEES .FATTN....
+SYS_PSEAE   .......... ...EAYTPYL VQAPALQ.GT GQLPKFEEDL .FKIGRDG..
+SYS_RALSO   .......... ...EAYVPYI VNAASMR.GT GQLPKFEEDL .FRVPRKMGQ
+SYS_BURCE   .......... ...ETYTPYI VNPEILY.GT GQLPKFADDM .FRVEKGG..
+SYS_NEIMA   .......... ...EHYTPYI VDDTTLQ.GT GQLPKFAEDL .FHVTRGG..
+SYS_ECOLI   .......... ...ENYVPYL VNQDTLY.GT GQLPKFAGDL .FHTRPLEEE
+SYS_HAEIN   .......... ...ETYVPYL VNHATLY.GT GQLPKFGEDL .FHTLALEGE
+SYS_VIBCH   .......... ...ELYVPYL VNAETLF.GT GQLPKFGQDL .FHTEPLTEK
+SYS_SHEON   .......... ...EAYVPLL VNEASLL.GT GQLPKFGEDL .FHTKPATEE
+SYS_XANAC   .......... ...ETNVPLL VNADSMR.GT GQLPKFEDDL .FQTEVGE..
+SYS_XYLFA   .......... ...EVNVPII VNADSLY.GT GQLPKFEEDM .FSTQLGE..
+SYS_COXBU   .......... ...EVYVPYL VHEECLY.GT GQLPKFREEQ .FQVAG....
+SYS_BUCAP   .......... ...ETYVPYL VNHDSLY.GT GQLPKFTDDL .FHINS....
+SYS_BUCAI   .......... ...ESYVPYL VHSEALY.GT GQLPKFSDDL .FHINL....
+SYS_BUCBP   .......... ...ETYVPCL VKTNNLY.GT GQLPRFKTDL .FYAKSLLDE
+SYS_WIGBR   .......... ...EYYVPYL VNKNMLY.GT GQLPKFYNDF .FYAKSFFED
+SYS_CAMJE   .......... ...FVNVPFL VNGATMF.GT GQLPKFKEDM .YKVDD....
+SYS_HELPJ   .......... ...IIYTPAL VNEKMLF.GT GQLPKFKEDV .FKIEN....
+SYS_UREPA   .......... ...EIWAPVI VNQESLI.GS GNLPKFADDL .FKLEN....
+SYS_MYCPE   .......... ...EMSLPVI VNSASLT.ST GQLPKFKEDL .FALEN....
+SYS_MYCPN   .......... ...EWNVPVI VNETSLT.GT GQLPKFKDDV .FKLEN....
+SYS_MYCGE   .......... ...EWNLPVV INELSLR.ST GQLPKFKDDV .FKLEN....
+SYS_HALMA   .......... ...DVLPPIP VNSDSME.GT GQLPKFAEDA .YRVGARQDD
+SYS_HALN1   .......... ...DVFPPMP VSARSME.GT GQFPKFVEDA .YRIGGENDA
+SYS_CHLCV   .......... ...LWLPPLL VKREILF.GS GQIPKFDGQY .YCVED....
+SYS_CHLPN   .......... ...LWLPPLL VKKEILF.GS GQIPKFDGQY .YRVED....
+SYS_CHLMU   .......... ...LWLPPLL VKRDILF.GS GQIPKFDGQY .YRVED....
+SYS_DEIRA   .......... ...PLSTTAL VRRETLV.NS GHFPGDEESV .YKLEG....
+SYS_BORBU   .......... ...VFITPDV AREFIVD.GI GFNPRGNESN IYKIED....
+SYS_TREPA   .......... ...PFLTPDI AREGMVC.GL GFNPRGSGSN IYRIEG....
+SYSM_BOVIN  .......... ...PMTVPDL LRGVVFE.GC GMTPNAKPSQ IYNIDP....
+SYS_STRCO   .......... ...PMLTPAL VRPQSMA.GT GFLGQAAQDV .YHLD.....
+SYS_COREF   .......... ...MMIPPVL VRPEIMA.GT GFLGDHSEEI .YYLE.....
+SYS_MYCLE   .......... ...PMIPPVL VRPEVMS.GT GFLGAHAEEV .YRV......
+SYS_BIFLO   .......... ...LAITPTL VRPEVMR.GT GFLNSHADEI .YRLRE....
+SYS_ARATH   .......... ...GLQPPFF MRKDVMA.KC AQLAQFDEEL .YKVTGEG..
+SYS_HELAN   .......... ...ALQTPFF MRKDIMG.KC AQLAQFDEEL .YKVTGEG..
+SYS_BOVIN   .......... ...PIYTPFF MRKEVMQ.EV AQLSQFDEEL .YKVIGKGSE
+SYS_CAEEL   .......... ...PLYTPFF MRKEVMQ.EV AQLSQFDDEL .YKVSSKGSE
+SYSC_SCHPO  .......... ...ALQAPTM LNKDVMA.KT AQLEQFDEEL .YKVIDGD..
+SYSC_CANAL  .......... ...PLQAPVM MNKEVMA.KT AQLSQFDEEL .YKVIDGE..
+SYSC_YEAST  .......... ...PLQAPVM MNKELMS.KT AQLSEFDEEL .YKVIDGE..
+SYS_MYCPU   .......... ...EILPPFI VKGHNLF.GT GQLPKFEEDL .FKLEN....
+1h4q_A      .......... ...NAYFPLF IPMSFL.... ....RFSPEL .AVVTHAGGE
+SYP_MYCLE   .......... ...NAYFPML IPENYFNREA EHVEGFHPEL .AVVTHAGGK
+SYP_BORBU   .......... ...NAYFPML IPYSFLEREK DHIDGFSPEF .AIIKDAGGE
+SYP_CLOST   .......... ...NCYFPLL IPESLLNKEK EHVEGFAPEV .AWVTHGGSE
+YHI0_YEAST  .......... ...NAYFPMF VSSRVLEKEK DHVEGFAPEV .AWVTRAGSS
+SYP_MYCPN   QFIPIEPLPY TVEQVQLPTL SFYSEYQKEK RHVEGFNPEL .FLIEQIGTK
+SYP_MYCGE   KFQPTTSFCY QVFQVQLPTL SFYSEYQKEK THIKGFNPEL .FLINQVGQK
+1nj8_A      .......... ...EALFPML IPEDLLAKEA EHIKGFEDEV .YWVTHGGKT
+
+            401                                                450
+1ser_A      .......... TDLYLTGTAE VVLNALHSGE ILPY..EALP LRYAGYAPAF
+SYS_AQUAE   .......... DNLYLIPTAE VPLTNLYREE ILKE..ENLP IYLTAYTPCY
+SYS_THEMA   .......... DDLFLIPTAE VPLAALHSGE ILEE..KELP KKYVSYTPCY
+SYS_CHLTE   .......... DGLYAIPTAE VPVTNLHRGE ILDA..DKLP IAYAAYSACF
+SYS_FUSNN   .......... DDMYLISTSE ITMTNIHRKE ILEQ..AELP KYYTAYSPCF
+SYS_METAC   .......... DGYYLAPTAE VPVTNLFMDE YM....ENLP VSLTAYTACF
+SYS_BACHD   .......... EDYFLIPTAE VPVTNLHRDE ILSA..DQLP IAYTAYSMNF
+SYS_BACSU   .......... EDYFLIPTAE VPITNMHRDE ILSG..DSLP INYAAFSACF
+SYS_LISIN   .......... EDYFLIPTAE VPVTNYHRED ILKA..EDLP RKYTAFSACF
+SYS_OCEIH   .......... WDYFMVPTAE VPVTNYHREE ILGI..DDLP KKYVAFSASF
+SYS_STAAM   .......... EGLYTIPTAE VPLTNFYRNE IIQP..GVLP EKFTGQSACF
+SYS_LACLA   .........D RGFVLIPTAE VPLTNYYRGE ILDG..AELP IKFTAMSPSF
+SYS_STRA3   .......... SPFVLIPTAE VPLTNYYRDE IIDG..KELP IYFTAMSPSF
+SYS2_LACPL  .......... QDLTLIPTAE VPLVNYYRDE VIPA..EKLP VYFTALSPAF
+SYS1_LACPL  .......... SGMTLIPTAE VPLTNYYANE ILSE..DQLP TYFTAMTPCY
+SYS_THETN   .......... TDYFLIPTAE VPVTNLYRET IIDG..EQLP IYHCAYSACF
+SYS_CLOAB   .......... NGFFLIPTAE VPVTNMFRDE ILKA..EDLP YKFAAYSACF
+SYS_CLOPE   .......... NGYFLIPTAE VPVTNMYRNE TLEG..DKLP IKHAAYSACF
+SYS_LEPIN   .......... DELNLIPTAE VPLTNLYRDE IIPE..DQLP ISVTAHTSCF
+SYS_SYNEL   .......... DDLWLIPTAE VPVTNLYRDE ILAA..DQLP IYHCAYTPCF
+SYS_ANASP   .......... DELWLIPTAE VPVTNLYRGE ILAA..ENLP IYHCAYTPCF
+SYS_SYNY3   .......... DDLWLIPTAE VPVTNLYRDE VLDL..EQLP IKHCAYTPCF
+SYS_SYNP7   .......... DDLWLTPTAE VPLTSLYRDE ILSA..DQLP LRYCAYTPCF
+SYS_BRUME   ........GR ...WLIPTAE VPLTNLVAEE IVDM..KGLP LRFTALTPCF
+SYS_RHIME   ........GR ...WLIPTAE VPLTNMVREQ ILDG..EKLP LRFTALTPCF
+SYS_AGRT5   ........GR ...WLIPTAE VTLTNLVSGE ILEQ..EKLP LRFTALTPSF
+SYS_RHILO   ........GE GRLGLIPTAE VPLTNLVREE ITAH..EKLP LRFTALTPCF
+SYS_RICCN   ........GY ...RLIPTAE VSLVNMVADT IIPR..EKLP IRYVAYTPCF
+SYS_PSEAE   .........E ADLYLIPTAE VSLTNIVSGQ ILDA..KQLP LKFVAHTPCF
+SYS_RALSO   ATEAEAGEHV ENFYLIPTAE VPLTNLVRDE IVAG..DALP MKFAAHSPCF
+SYS_BURCE   ......AENT VTQYLISTSE ISLTNTVRES IVEA..SALP IKLTAHSPCF
+SYS_NEIMA   ......DESK TTQYLIPTAE VTLTNTVAGS IIPS..EQLP LKLTAHSPCF
+SYS_ECOLI   AD.......T SNYALIPTAE VPLTNLVRGE IIDE..DDLP IKMTAHTPCF
+SYS_HAEIN   .......... QPYALIPTAE VPVTNLVRDV IIDE..AELP IKMTAHTPCF
+SYS_VIBCH   AS....DEEP RRLSLIPTAE VPVTNLVRDT ILDE..AELP LKMTAHTPCF
+SYS_SHEON   .........G QGLSLIPTAE VPLTNLVRDS IVDE..DELP IKLTAHTACF
+SYS_XANAC   .......... SRRYLIPTSE VPLTNIVREE IVDA..ERLP LRMTAHSMCF
+SYS_XYLFA   .......... HRRYLISTSE ISLTNLVRNE IIEA..DRLP LRMAAHSLCF
+SYS_COXBU   .........D RNFFLVPTGE VPLVNLARDE IIEA..PALP KKWVAQTPCF
+SYS_BUCAP   .......IDK KKYVLIPTAE VPLTNLFSNQ ILNE..TELP IMLTAHTPCF
+SYS_BUCAI   .......TDK KKYILIPTGE VPLTNLVYDQ IIDE..KDLP IMLTAHTPCF
+SYS_BUCBP   S......QNN NNFALIPTAE VPLTNLFRDC ILDE..QQLP IMLVAKTPCF
+SYS_WIGBR   ........IQ SCYALIPTAE VPLTNLMRNE IIDE..NYLP IKMTSHTPCF
+SYS_CAMJE   .......... EDLYLISTSE IPVTNLYSGE ILAS..ETLP IKMTCYSACF
+SYS_HELPJ   .......... ENLYLIPTAE VTLTNLYNDT IISV..ENLP IKMTAHTPCF
+SYS_UREPA   .......... SNYYLSPTAE VQLTNLHRNE ILKA..SDLP LYYTALTPCF
+SYS_MYCPE   .......... SDYYLSPTLE VQLTNYYRNE ILEE..SALP MKFTASSLNF
+SYS_MYCPN   .......... TRYYLSPTLE VQLANLHANE IFTE..GELP KYYTATGVNF
+SYS_MYCGE   .......... TRYYLSPTLE VQLINLHANE IFNE..EDLP KYYTATGINF
+SYS_HALMA   ......DYDS DDLWLLPTAE VPVTNMYRGE ILLD..DDLP VKHQAFSPNF
+SYS_HALN1   ......DYDD DDLWLLPTAE VPVTNMYRDE ILLD..DDLP VKHQAYSPNF
+SYS_CHLCV   ........GD QSLYLIPTAE VVLNGFHSQE IFNE..KDLP IYYAACTPCF
+SYS_CHLPN   ........GE QYLYLIPTAE VVLNGFRSQD ILTE..KELP LYYAACTPCF
+SYS_CHLMU   ........GE QSLFLIPTAE VVLNGFHSQE ILNE..QDLP LYYAAFTPCF
+SYS_DEIRA   .......... DELLLAGTAE VPINSLYAGE QLSA..DELP LTFAGFSAAF
+SYS_BORBU   .......... TDKYLVGTSE ITLGGYYYNK IID...LTLP IRMAGFSHCF
+SYS_TREPA   .......... EHRCLVATAE ITLGAYHAGE VLEE..RSLP RLYAGLSHCF
+SYSM_BOVIN  .......SRF EDLNLAGTAE VGLAGYFMDH SVAF..RDLP IRMVCSSTCY
+SYS_STRCO   .........K DDLYLVGTSE VPLAAYHMDE ILDG..DRLP LRYAGFSPCF
+SYS_COREF   .........R DDMYLVGTSE VALAGYHKDE IIDL..NNGP VKYAGWSSCF
+SYS_MYCLE   .......... DDLYLVGTSE VPMAGYHSDE ILDL..SVGP LRYAGWSSCF
+SYS_BIFLO   .........P DDQYLVGTSE VALAGMHENE ILDL..GNGP LRYCGWSSCY
+SYS_ARATH   .......... DDKYLIATAE QPLCAYHIDE WIHP..TELP LRYAGYSSCF
+SYS_HELAN   .......... DDKYLIATAE QPLCAYHIDD WIHP..NELP LRYAGYSSCF
+SYS_BOVIN   ...KSDDNSY EEKYLIATSE QPIAALHRDE WLRP..EDLP IKYAGLSTCF
+SYS_CAEEL   ...IAGDTSV DEKYLIATSE QPIAAYHRNE WIKE..TELP IKYAGVSTCF
+SYSC_SCHPO  .......... EERYLIATSE QPISAYHSGE WFEKPSEQLP LKYAGYSTCY
+SYSC_CANAL  .......... DEKYLIATSE QPISAYHAGE WFESPAEQLP VRYAGYSSCF
+SYSC_YEAST  .......... DEKYLIATSE QPISAYHSGE WFEKPQEQLP IHYVGYSSCF
+SYS_MYCPU   .......... .GMYLIPTAE VPVTNYYNDE IINL..D.KP KMFVSFTECF
+1h4q_A      .......ELE EPLAVRPTSE TVIGYMWSKW IRSW..RDLP QLLNQWGNVV
+SYP_MYCLE   .......ELS EPLVIRPTSE TVIGDMMAKW ITSH..RDLP LRLNQWSNVV
+SYP_BORBU   .......SLA EPLVLRPTSE TIIWNMYSKW IKSY..RDLP LKINQWANVV
+SYP_CLOST   .......KLA ERLCVRPTSE TIICSMYSKW LTSY..RELP YLYNQWCSVV
+YHI0_YEAST  .......ELE EPIAIRPTSE TVMYPYYAKW VQSY..RDLP LKLNQWNSVV
+SYP_MYCPN   .......KLH DPLVLRPTSE IAFCNLWKKQ SFSY..QNLP VIYNQWTCVF
+SYP_MYCGE   .......QLN DPLVLRPTSE IAFCNLWKKQ ELSY..HDLP LIYNQWTQVF
+1nj8_A      .......QLD VKLALRPTSE TPIYYMMKLW VKVH..TDLP IKIYQIVNTF
+
+            451                                                500
+1ser_A      RSEAGSFGKD VRGLMRVHQF H.KVEQYVLT EASLEASDRA FQELLENAEE
+SYS_AQUAE   RREAGAYGKD IRGIIRQHQF D.KVELVKIV HP..DTSYDE LEKLVKDAEE
+SYS_THEMA   RREAGSYGKD VRGMIRQHQF D.KVELVWVT TP..ERSFED LEELVKDAET
+SYS_CHLTE   RREAGSYGKD TRGFLRVHQF N.KVEMVRFT RP..EASYEA LEEILGHAEA
+SYS_FUSNN   RREAGSYGKD VKGLIRLHQF N.KVEMVKIT DA..ESSYDE LEKMVNNAET
+SYS_METAC   RREAGKHGQD TRGIIRQHQF N.KVELVKFV KP..ETSYEE LEKLTLDAEE
+SYS_BACHD   RSEAGSAGRD TRGLIRQHQF N.KVELVRFV AP..EDSYDE LEKLTGHAEK
+SYS_BACSU   RSEAGSAGRD TRGLIRQHQF N.KVELVKFV KP..EDSYEE LEKLTNQAER
+SYS_LISIN   RSEAGSAGRD TRGLIRQHQF N.KVELVQFV KP..EDSYAA LEKLTGCAEE
+SYS_OCEIH   RSEAGSAGRD TRGLIRQHQF N.KVELVNFV KP..EDSYDV LERLTGEAEK
+SYS_STAAM   RSEAGSAGRD TRGLIRLHQF D.KVEMVRFE QP..EDSWNA LEEMTTNAEA
+SYS_LACLA   RSEAGSAGRD TRGLIRLHQF H.KVEMVKFA KP..DQSYDE LEKMTANAEN
+SYS_STRA3   RSEAGSAGRD TRGLIRLHQF H.KVEMVKFA KP..EESYQE LEKMTANAEN
+SYS2_LACPL  REEAGSAGRD TKGLIRLHQF N.KVEMVKFT KP..EDSWDE LEKLTNNAES
+SYS1_LACPL  RSEAGSAGRD TRGLIRMHQF H.KVEMVKYC KP..ENSYDE LEKLTDNAEE
+SYS_THETN   RQEAGAAGRD TRGLIRQHQF D.KVELVKFT EP..DKSYEE LEKMTRDAEE
+SYS_CLOAB   RSEAGSAGRD TRGLVRQHQF N.KVELVKFA KP..EESYDE LEKLTHDAEE
+SYS_CLOPE   RAEAGSAGRD TRGLIRQHQF N.KVELVKFC KP..EQSYEE LDKLVQDAES
+SYS_LEPIN   RREAGSYGKD TRGLVRVHQF Q.KVELVKFC KP..EDSEEE HKKMLSHAEN
+SYS_SYNEL   RREAGSYGKD TRGLIRLHQF N.KVELVKFV HP..ETSAAE HEALVADAEF
+SYS_ANASP   RREAGSYGRD MRGLIRLHQF N.KVELVKVV HP..STSFDE LEKLVGNAEA
+SYS_SYNY3   RREAGSYGRD TKGLIRLHQF N.KVELVKLV KP..EESAAE HQALVADAEA
+SYS_SYNP7   RREAGSYGRD TRGLIRLHQF N.KVELYQFV HP..DHSEAA HQQLLANAEA
+SYS_BRUME   RSEAGSAGRD TRGMLRQHQF L.KVEMVSIT DA..ESSVAE HERMTACAEE
+SYS_RHIME   RSEAGSAGRD TRGMLRQHQF N.KVELVSIT DA..ESSIDE HERMTACAEE
+SYS_AGRT5   RSEAGSAGRD TRGMLRQHQF W.KCELVSIT DA..ESAVAE HERMTACAEE
+SYS_RHILO   RSEAGSAGRD TRGMLRQHQF Y.KVELVSIT DQ..DSSLAE HERMTQCAEE
+SYS_RICCN   RSEAGSSGRD TRGMIRLHQF G.KVELVSIT TP..EESTNE HEYITNASET
+SYS_PSEAE   RSEAGASGRD TRGMIRQHQF D.KVEMVQIV DP..ATSYEA LEGLTANAER
+SYS_RALSO   RSEAGSYGKD TRGMIRQHQF D.KVEMVQIV QP..ETSFEA LDAMTHHAEN
+SYS_BURCE   RSEAGSYGRD TRGMIRQHQF D.KVEMVQIV AP..ESSYAA LDEMVGHAEA
+SYS_NEIMA   RSEAGSYGKD TRGLIRQHQF D.KVEMVQIV HP..EKSYET LEEMVGHAEN
+SYS_ECOLI   RSEAGSYGRD TRGLIRMHQF D.KVEMVQIV RP..EDSMAA LEEMTGHAEK
+SYS_HAEIN   RSEAGSYGRD TRGLIRMHQF D.KVEMVQIV DP..DKSMEA LEELTGHAEK
+SYS_VIBCH   RSEAGSYGRD TRGLIRMHQF D.KVELVQIT RP..EDSMAA LEELTGHAEK
+SYS_SHEON   RSEAGSYGKD TRGLIRQHQF D.KVELVQLV KP..EDSMAA LEVLTGHAET
+SYS_XANAC   RAEAGSGGRD TRGMIRQHQF E.KVELVTAC AP..EDSDAE HQRMTRCAEV
+SYS_XYLFA   RSEAGSGGRD TRGMIRQHQF E.KVELVSVC KP..QESEGE HQRMTRCAET
+SYS_COXBU   RSEAGSYGKD VRGMIRQHQF Q.KVELVQLV QP..ENSYQA LEEITRQAEK
+SYS_BUCAP   RSEASSYGRD SKGLIRLHQF D.KVELVQII QP..ELSMNA LELLTHHAEK
+SYS_BUCAI   RSEASSYGRD TKGLIRLHQF D.KVELVQIV KP..EKSYEA LEKLTNHAEK
+SYS_BUCBP   RSEALSYGRD TQGLIRTHQF D.KVEIVQIV HP..SDSMQK LEELTIHAER
+SYS_WIGBR   RSEAGSYGKD TKGLIRMHQF D.KVEIVQIV SP..ENSIKA LEEITHHAER
+SYS_CAMJE   RKEAGSAGRD TRGIIRQHQF E.KVELVSIT KP..EQSDSV FNEMLECASD
+SYS_HELPJ   RSEAGSAGKD TRGMIRQHQF D.KVELVAIT HP..KESDAM QEHMLESASE
+SYS_UREPA   RSEAGSAGRD VRGVIRQHQF H.KVELVKLC KP..EDSFKE LESMTRQAES
+SYS_MYCPE   RSEAGSAGKD TRGIIRQHQF Y.KTELVNLV HP..EKSYQA LEEMTLNAES
+SYS_MYCPN   RQEAGSAGKQ TKGTIRLHQF Q.KVELVKFC KP..SEAIHE LEEMTRDAEQ
+SYS_MYCGE   RQEAGSAGKQ TKGTIRLHQF Q.KTELVKFC KP..ENAINE LEAMVRDAEQ
+SYS_HALMA   RREAGEHGTE TRGYVRVHQF H.KVELVNFV RP..ENSYDR LESLLDEAAE
+SYS_HALN1   RREAGEHGTE TRGIVRVHQF N.KVELVNFV RP..EDSAER FHGLLDEAEA
+SYS_CHLCV   RREAGAAGAN ERGLVRVHQF N.KVEMFAFT TP..EQADQA YEKMLAVVED
+SYS_CHLPN   RREAGAAGAQ ERGLVRVHQF H.KVEMFAFT TP..NQDDIA YEKMLSIVEE
+SYS_CHLMU   RREAGAGGSH ERGLVRVHQF H.KVEMFAFT TP..EQEEIA YQKMIGIVEE
+SYS_DEIRA   RREAGSAGRD VRGLIRVHEF R.KVEQYVLC RADQEEGLKW FERLLSNAEG
+SYS_BORBU   RKEAGAYGQL SKGLYRVHQF S.KVEMFCFC KA..EESGVI HDEFLSIQEQ
+SYS_TREPA   RKEAGAAGQF SRGLYRVHQF T.KLEMFAYC TP..SDSECL HERLRSLEEE
+SYSM_BOVIN  RAETD.TGKE PWGLYRVHHF T.KVEMFGVT GPGLEQSSEL LEEFLSLQME
+SYS_STRCO   RREAGSHGKD TRGIFRVHQF D.KVEMFSYV LP..EDSQAE HQRLLEWEKQ
+SYS_COREF   RREAGSYGKD TRGILRVHQF D.KVEMFVYC KP..EEAEEQ HRRLLEMEKD
+SYS_MYCLE   RREAGSHGKD TRGIIRVHQF D.KVEGFVYC AP..TDAEVE HQRLLGWQRE
+SYS_BIFLO   RREAGAAGKD TSGIIRVHQF D.KVEMFVYA KQ..EDSYKE HEHLLAMEQE
+SYS_ARATH   RKEAGSHGRD TLGIFRVHQF E.KIEQFCIT GPNENASWEM LDEMMKNSED
+SYS_HELAN   RKEAGSHGRD TLGIFRVHQF E.KVEQFCLT KPSGNDSWEM HEEMIKNSEE
+SYS_BOVIN   RQEVGSHGRD TRGIFRVHQF E.KIEQFVYS SPHDNKSWEM FEEMIATAEE
+SYS_CAEEL   RQEVGSHGRD TRGIFRVHQF E.KIEQFVLC SPNDNESWTL FDEMIGNAES
+SYSC_SCHPO  RREAGSHGRD AWGIFRVHAF E.KIEQFVLT DPE..KSWEA FTEMINHAED
+SYSC_CANAL  RREAGSHGKD AWGIFRVHAF E.KIEQFVLT EPE..KSWEE FDRMIGCSEE
+SYSC_YEAST  RREAGSHGKD AWGVFRVHAF E.KIEQFVIT EPE..KSWEE FEKMISYSEE
+SYS_MYCPU   RSEAGSGGKD NRGLIRSHQF K.KVEIVKIT NE..QDGIKE FEKTIEDASH
+1h4q_A      RWEM.....R TRPFLRTSEF L.WQEGHTA. HATREEAEEE VRRMLSIYAR
+SYP_MYCLE   RWEL.....R PRMLLRTIEF L.WQEGHSA. HIEKSDALRE TLFALDIYTT
+SYP_BORBU   RWEK.....R TRPFLRTTEF L.WQEGHTA. HATEEEALEE TLLILDVYKR
+SYP_CLOST   RWEK.....S TRPFLRTSEF L.WQEGHTL. HETAEEAQAE TLQMLAIYKE
+YHI0_YEAST  RWEF....KH PQPFLRTREF L.WQEGHTA. HLTAKDAEEE VLQILDFYAG
+SYP_MYCPN   RAEK.....N TRPFLRNSEF Y.WQETHGL. FSDGVNSESA AIAFWKLYQD
+SYP_MYCGE   RAEK.....N TRPFLRNSEF Y.WQETHGL. FVDQSQSEQA AISFWNLYQD
+1nj8_A      RYET....KH TRPLIRLREI MTFKEAHTA. HSTKEEAENQ VKEAISIYKK
+
+            501                                                550
+1ser_A      .ILRLLELPY RLVEVATGDM GPGKWRQVDI EVYLPSE... ......GRYR
+SYS_AQUAE   .VLQLLGLPY RVVELCTGDL GFSAAKTYDI EVWFPSQ... ......NKYR
+SYS_THEMA   .ILRKLELPY RVVSLCTGDL GFTSAKTYDI EVWLPSY... ......NAYK
+SYS_CHLTE   .ILVALKIPY RVITLCSGDI SANAAKCYDI EVWSPAE... ......NKYL
+SYS_FUSNN   .ILQRLELPY RVIQLCSGDL GFSAAKTYDL EVWLPSQ... ......NKYR
+SYS_METAC   .ILKLLKLPY RLVTLCTGDL GFSAAKTYDI EVWVPTQ... ......EKYR
+SYS_BACHD   .VLQLLKLPY RVMSMCTADL GFTAAKKYDL EVWIPSA... ......NTYR
+SYS_BACSU   .VLQLLELPY RVMSMCTGDL GFTAAKKYDI EVWIPSQ... ......DTYR
+SYS_LISIN   .VLRRLELPY RVLSMCTADL GFTAAKKYDL EVWIPSY... ......DSYR
+SYS_OCEIH   .VLQLLKLPY RVMSMCTGDL GFTAAKKYDI EVWIPSQ... ......ETYR
+SYS_STAAM   .ILEELGLPY RRVILCTGDI GFSASKTYDI EVWLPSY... ......NDYK
+SYS_LACLA   .ILQKLGLAY RVVALSTGDM GFSAAKTYDL EVWIPAQ... ......NTYR
+SYS_STRA3   .ILQKLNLPY RVITLCTGDM GFSAAKTYDL EVWIPAQ... ......NTYR
+SYS2_LACPL  .LLKKLGLPY HVITLTTGDM SFTAAMTHDL EVWFPEQ... ......DKYR
+SYS1_LACPL  .VLRELGLAY HVIKLSTGDT GFSSAKTYDV EVWMPEQ... ......GVYR
+SYS_THETN   .VLQALGLPY RVVAICTGDL GFTASKKYDI EVWMPSY... ......GRYV
+SYS_CLOAB   .ILQILNIPY RVVRICKGDL GFTAALKYDI EVWMPSY... ......GRYV
+SYS_CLOPE   .VLQGLGLPY RIVRICKGDL GFTAALKYDI EVWMPSY... ......NRYV
+SYS_LEPIN   .ILKKLELPY RVIILCSGDI SANSSITYDI EVWMPGL... ......NRYM
+SYS_SYNEL   .ILQALKLPY RVIELCTGDL GFAAMKCYDL EVWLPAA... ......GCYR
+SYS_ANASP   .ILQALKLPY RVINLCTGDL GFGATKTYDL EVWLPSS... ......GKYR
+SYS_SYNY3   .ILQALELPY RVVELCTGDL GFGAAKCYDL EVWLPSA... ......NTYR
+SYS_SYNP7   .ILQALELPY RTIELCTGDL GFSAQKTYDI EVWLPSA... ......GRYR
+SYS_BRUME   .VLKRLGLPF RTVVLCTGDM GFGAQRTYDI EVWLPGQ... ......NTYR
+SYS_RHIME   .VLKRLGLHY RVMTLCTGDM GFGARKTYDL EVWLPGQ... ......DAYR
+SYS_AGRT5   .VLKRLGLHF RTLTLCTGDM GFSARKTYDL EVWLPGQ... ......NTYR
+SYS_RHILO   .VLKRLELPF RTMVLCTGDM GFGARKTYDI EVWLPGQ... ......NAYR
+SYS_RICCN   .ILQKLNLPY RVMLLCTGDM GFAAKKTYDI EVWLPGQ... ......KQYR
+SYS_PSEAE   .VLQLLELPY RVLALCTGDM GFGATKTYDL EVWVPSQ... ......DKYR
+SYS_RALSO   .ILRKLELPF RTVVLCTGDM GFGSTKTYDI EVWIPAQ... ......NTYR
+SYS_BURCE   .ILQKLGLPY RVVALCTGDM GFSAAKTFDL EVWLPAQ... ......NTYR
+SYS_NEIMA   .ILKALELPY RVITLCTGDM GFGATKTYDL EVWVPAQ... ......NTYR
+SYS_ECOLI   .VLQLLGLPY RKIILCTGDM GFGACKTYDL EVWIPAQ... ......NTYR
+SYS_HAEIN   .VLQLLNLPY RKVLLCTGDM GFGSCKTYDL EVWVPAQ... ......NTYR
+SYS_VIBCH   .VLQLLELPY RKVILCTGDM GFGSCKTYDL EVWVPAQ... ......KTYR
+SYS_SHEON   .VLQRLGLPY RTVVLCTGDM GFGSSKTYDI EVWLPGQ... ......NTYR
+SYS_XANAC   .VLEQLGLPY RKVLLCTGDM GFSAIKTYDL EVWLPSQ... ......NTYR
+SYS_XYLFA   .VLEMLGLPY RKILLCTGDM GFAATKTYDL EVWLPSQ... ......GMYR
+SYS_COXBU   .VLQLLALPY RVVELCAGDL GFAAAKTYDL EVWLPSQ... ......NKYR
+SYS_BUCAP   .VLQLLELPY RKVLLCGGEM GFSATKTYDL EVWFPSQ... ......KKYR
+SYS_BUCAI   .VLQLLNLPY RKMLLCTGDT GFAAVKTYDL EVWFPSE... ......KKYR
+SYS_BUCBP   .VLKLLKLPY RKTLLCTRDI GFSSSKTYDL EVWFPSQ... ......NVYR
+SYS_WIGBR   .VLQLLDLPY RKILLCSGDT GFSSCKTYDL EVWMPSR... ......NKYI
+SYS_CAMJE   .LLSSLGLAH RHLMLCTGDL GFSAAKTVDL EVWLPGQ... ......NKYR
+SYS_HELPJ   .ILKALELPH RFVQLCSGDL GFSASNTIDI EVWLPGQ... ......NCYR
+SYS_UREPA   .ILEALELPY RRIVLCTGDL GFSSAKTYDL EVWLPSY... ......NAYK
+SYS_MYCPE   .ILEALELPY RRILLCTGDM GFSSSKTYDI EVWLPSY... ......NSYK
+SYS_MYCPN   .ILLELKIPF RRLLLCSGDM GFSAQKTYDL EVWMAGC... ......NEYR
+SYS_MYCGE   .ILKALKLPF RRLLLCTGDM GFSAEKTYDL EVWMAAS... ......NEYR
+SYS_HALMA   .VLDRLELPY RVLDMCTGDM GFTQAKKYDI EVWAPGDDME DGPDRGGRWL
+SYS_HALN1   .VLRRLDLPY RVLEMCTGDM GFTQAKKYDI EVWAPGDDMD GGPEMGGRWL
+SYS_CHLCV   .ILTELKLPY RLSLLSTGDM SFTASKTIDA EVWLPGQ... ......QSYY
+SYS_CHLPN   .MLTELKLPY RLSLLSTGDM SFTASKTIDA EVWLPGQ... ......KAFY
+SYS_CHLMU   .ILSELQLPY QLSLLSTGDM SFTAKKTIDA EVWLPGQ... ......QAFY
+SYS_DEIRA   .LLQALELPY RVIQNCTGDM GAGKVLMYDI ETWVPSE... ......QKYR
+SYS_BORBU   .IFTELEIPY RVLNICSFDL GSPAYKKYDI EAWMPGR... ...DGKGGYG
+SYS_TREPA   .IFTALEIPF RVVEVCAGDL GAPAYRKWDL EAWMPGR... ...QG.GSWG
+SYSM_BOVIN  .ILTELGLHF RVLDMPTQEL GLPAYRKFDI EAWMPGR... ......GRFG
+SYS_STRCO   .WLTSLELPF RVIDVASADL GSSAARKYDC EAWIPTQ... ......GKYR
+SYS_COREF   .MLAAVEVPY RIIDVAGGDL GASAARKFDT EAWVPTQ... ......GTYR
+SYS_MYCLE   .MLARIEVPY RVIDVAAGDL GSSAARKFDC EAWVPTQ... ......GSYC
+SYS_BIFLO   .MLAKVEVPY RIIDTAAGDL GSSAARKFDC EAWVPTQ... ......GRYR
+SYS_ARATH   .FYQALKLPY QIVSIVSGAL NDAAAKKYDL EAWFPSS... ......ETFR
+SYS_HELAN   .FYQMLKLPY QVVSIVSGAL NDAAAKKYDL EAWFPAS... ......KTYR
+SYS_BOVIN   .FYQSLGIPY HIVNIVSGSL NHAASKKLDL EAWFPGS... ......GAFR
+SYS_CAEEL   .YYQELQIPY QVVNIVSGEL NNAAAKKFDL EAWFPGS... ......GAYR
+SYSC_SCHPO  .FYKSLELPY RIVAIVSGAL NNAAAKKYDL EAWFPFQ... ......GEYK
+SYSC_CANAL  .FYQSLGLPY RVVGIVSGEL NNAAAKKYDL EAWFPFQ... ......QEYK
+SYSC_YEAST  .FYKSLKLPY RIVGIVSGEL NNAAAKKYDL EAWFPYQ... ......KEYK
+SYS_MYCPU   .LLELLEIPY QKVLLCSGDT SFSSMKTIDL ELWLPSE... ......KRFR
+1h4q_A      LAREYAAIPV IEGLKTEKEK FAGAVYTTTI EAL.MKD... ......GKAL
+SYP_MYCLE   LARDMAAIPI VSGEKTAGER FAGALNTYTI EAM.MRD... ......GKAL
+SYP_BORBU   FIEDYLAIPV FCGKKSEKEK FAGAVSTYSI EAL.MQD... ......KKAL
+SYP_CLOST   MAEDLLAIPV VDGRKSDRER FAGAAATYTI EAL.MHD... ......GKAL
+YHI0_YEAST  VYEELLAVPV VKGRKTEKEK FAGGDFTTTC EGYIPQT... ......GRGI
+SYP_MYCPN   IIVNQLCIPA FVGLKSPNER FAGAQNTWTV ESI.MPD... ......GQAL
+SYP_MYCGE   LIINKLCIPA FVGLKSESEK FAGAKNTWTI EAI.MPD... ......GQSL
+1nj8_A      FFD.TLGIPY LISKRPEWDK FPGAEYTMAF DTI.FPD... ......GRTM
+
+            551                                                600
+1ser_A      ETHSCSALLD WQARRANLRY RDP...EGRV RYAYTLNNTA LATPRILAML
+SYS_AQUAE   EISSCSNCED FQARRMNTRF KDS..KTGKN RFVHTLNGSG LAVGRTLAAI
+SYS_THEMA   EISSCSNVTD FQARRGNMRY RRR..SDGKL EYVHTLNGSG IAVGRALVAI
+SYS_CHLTE   EASSVSNFED YQARRSNIRF KPD..SKSKP EFVHTLNGSG LATSRLMVSL
+SYS_FUSNN   EISSCSNCEA FQARRMGLKY RVP....NGS EFCHTLNGSG LAVGRTLVAI
+SYS_METAC   EISSCSNFEN FQARRANIRF RTP....EGP QFVHTLNGSG LAVGRTVVAI
+SYS_BACHD   EISSCSNFED FQARRANIKF RRE..AKGKA EFVHTLNGSG LAVGRTVAAI
+SYS_BACSU   EISSCSNFEA FQARRANIRF RRE..AKGKP EHVHTLNGSG LAVGRTVAAI
+SYS_LISIN   EISSCSNFES FQARRANIRF RRE..PGSKP EYVHTLNGSG LALGRTVAAI
+SYS_OCEIH   EISSCSNFED FQARRAGIRF RRE..ANGKP EFVHTLNGSG LAIGRTVAAI
+SYS_STAAM   EISSCSNCTD FQARRANIRF KRD..KAAKP ELAHTLNGSG LAVGRTFAAI
+SYS_LACLA   EISSCSNCED FQARRAQIRY RDE...EGKV QLLHTLNGSG LAVGRTVAAI
+SYS_STRA3   EISSCSNTED FQARRAQIRY RDE..VDGKV RLLHTLNGSG LAVGRTVAAI
+SYS2_LACPL  EISSCSNCTD FQARRAHIQY RDD...DGKL QFVHTLNGSG LAVGRTVAAI
+SYS1_LACPL  EISSCSNCLD FQARRAMIRY RKA...DGTV DYVHTLNGSG LAVGRTVAAI
+SYS_THETN   EISSCSNCED FQARRANIRY RPK..GGGKL QYVHTLNGSG VAVGRTFAAI
+SYS_CLOAB   EISSCSNFED FQARRANIKF RRD..PKAKP EFVHTLNGSG LAVGRTVAAI
+SYS_CLOPE   EISSCSNFED FQARRANIKY KNS..PKEKP QFVHTLNGSG VAIGRTVAAI
+SYS_LEPIN   EISSVSNFRD FQARRGKIRY KSK...DGKN QLVHTINGSG LALGRTYAAI
+SYS_SYNEL   EISSCSNFGD FQARRAKIRF KGA..KHKGT QFVHTLNGSG LAVGRTMAAI
+SYS_ANASP   EISSCSNCFD FQARRADIRF KEA..GKKGT QFVHTLNGSG LAVGRTMAAI
+SYS_SYNY3   EISSCSNFHD FQARRANIRY KEK..GKKGT QFVHTLNGSG LAIGRTMAAI
+SYS_SYNP7   EISSCSNCGD FQARRANIRF KEA..GQKGT RFVHTLNGSG LAVGRTMAAV
+SYS_BRUME   EISSCSTCGD FQGRRMNARY RPE..GEKST RFVHTLNGSG AAVGRALIAV
+SYS_RHIME   EISSCSVCGD FQARRMNARY RGK..EEKGT KFVHTLNGSG VALGRALIAV
+SYS_AGRT5   EISSCSVCGD FQARRMNARY RGK..DDKAT KFVHTLNGSG TAVGRCLIAV
+SYS_RHILO   EISSCSVCGD FQARRMDARY KDK..DGKGN RFVHTLNGSG TAVGRALIAV
+SYS_RICCN   EIASCSNCGD FQARRMKARY KEF..GSNET TLVHTLNASG LPIGRTMVAI
+SYS_PSEAE   EISSCSNCGD FQARRMQARY RNP..ETGKP ELVHTLNGSG LAVGRTLVAV
+SYS_RALSO   EISSCSNMGD FQARRMQARF RNA...QGKP ELLHTLNGSG LAVGRTLVAV
+SYS_BURCE   EISSCSNTEA FQARRMQARF RNA...QGKP ELVHTLNGSG LAVGRTLVAV
+SYS_NEIMA   EISSCSNCED FQARRMKARF KDE...NGKN RLVHTLNGSG LAVGRTLVAV
+SYS_ECOLI   EISSCSNVWD FQARRMQARC RSK..SDKKT RLVHTLNGSG LAVGRTLVAV
+SYS_HAEIN   EISSCSNMWD FQARRMQARC KAK..GDKKT RLVHTLNGSG LAVGRTLVAV
+SYS_VIBCH   EISSCSNMWD FQARRMQARF RRK..GEKKP ELVHTLNGSG LAVGRTMVAI
+SYS_SHEON   EISSCSNMKD FQARRMQARY RVK..ADNKP VLLHTLNGSG LAVGRTLVAI
+SYS_XANAC   EISSCSNCGD FQARRMQARW RNP..VSGKP ELLHTLNGSG TAVGRAMIAV
+SYS_XYLFA   EISSCSNCGD FQARRMQARW RNS..VTGKP ELVHTLNGSG VAVGRAMIAV
+SYS_COXBU   EISSCSNCED FQARRIQARW RNP..KTGKP ELLHTLNGSG LAVGRTLVAV
+SYS_BUCAP   EISSCSNMSD FQARRMKTRY KKK..KEKSN SFVHTLNGSG LAIGRTLAAI
+SYS_BUCAI   EVSSCSNMSD FQARRIKARY RKK..SEQKN FFVHTLNGSG LAIGRTLAAI
+SYS_BUCBP   EVSSCSNMLD FQARRIKARF HCN..AQNKK IFIHTINGSG LAVGRTLAAI
+SYS_WIGBR   EVSSCSNTSD FQSRRTKIRY RKI..SNKEI HLTHILNGSA LAISRTLASI
+SYS_CAMJE   EISSVSNCRD FQARRAKIRY KNE...QGKN ELVHTLNGSS LAVGRTLVAI
+SYS_HELPJ   EISSVSNTRD FQARRAKIRF KEN....QKN QLVHTLNGSS LAVGRTMVAL
+SYS_UREPA   EISSCSNCTN FQARRAKIRY KET..IDATT ELVHTLNGSS LAIDRLWAAI
+SYS_MYCPE   EISSCSNCLD FQARRSMIRF KNS..KTNKN ELVHTLNGSS LALDRLFAAV
+SYS_MYCPN   EVSSCSSCGD FQARRAMIRY KDL..TTGKN TYVATLNGTA LAIDRIFAAI
+SYS_MYCGE   EVSSCSSCGD FQARRAMIRY KDI..NNGKN SYVATLNGTA LSIDRIFAAI
+SYS_HALMA   EVSSVSNFED FQARRAGLRY RPE..RHESA DYLHTLNGSG LAVPRVLVAI
+SYS_HALN1   EVSSVSNFKD FQARRADIQY RPE..RHESA EHLHTLNGSG VAVPRVLVAI
+SYS_CHLCV   EVSSISQCTD FQSRRSETRY KDS...QGKM HFIHTLNGSG LATPRLFVAI
+SYS_CHLPN   EVSSISQCTD FQSRRSGTRY KDS...QGKL QFVHTLNGSG LATPRLLVAI
+SYS_CHLMU   EVSSISKCGD FQSRRSETRY RDA...QGKL HFVNTLNGSG LATPRLLVAI
+SYS_DEIRA   ETHSCSYLGD WQARRTGLRY RDE...HGKL LYAHTLNNTG IASPRILVPL
+SYS_BORBU   EVTSTSNCTD YQSRRLKIRY KDQ...DGQN KFAHMVNGTA IATTRVIISI
+SYS_TREPA   EVTSASNCTD YQARRLNVRY KDA...EGKK HYVHMLNGTA LAISRVLIAL
+SYSM_BOVIN  EVTSASNCTD FQSRRLHIMF QTE...AGEL QFAHTVNATG CAVPRLLIAL
+SYS_STRCO   ELTSTSDCTE FQSRRLSIRV REG...KKV. RPLATLNGTL CAVPRTIVAI
+SYS_COREF   ELTSTSNCTT FQGRRLQTRY RDE...NGKP QIAATLNGTL A.TTRWLVAI
+SYS_MYCLE   ELTSTSNCTT FQARRLATRY RDA...SGKP QIVATLNGTL G.TTRWLVAI
+SYS_BIFLO   ELTSTSNCTE YQARRLNIRE RME...DGGT RPVSTLNGTL A.TTRWLVAI
+SYS_ARATH   ELVSCSNCTD YQARRLEIRY GQKKSNEQTK QYVHMLNSTL TATERTICCI
+SYS_HELAN   ELVSCSNCTD YQSRKLEIRC GQKKGNEQAK QYCHLLNSTL TATERTLCCI
+SYS_BOVIN   ELVSCSNCTD YQARRLRIRY GQTKKMMDKV EFVHMLNATM CATTRTICAI
+SYS_CAEEL   ELVSCSNCLD YQSRRLKVRY GQTKKLSGEV PFVHMLNATM CATTRVICAI
+SYSC_SCHPO  ELVSCSNCTD YQSRNLEIRC GVKKMGDREK KYVHCLNSTL CATERALCCI
+SYSC_CANAL  ELVSCSNCTD YQSRNLEIRC GIKQQNQQEK KYVHCLNSTL SATERTICCI
+SYSC_YEAST  ELVSCSNCTD YQSRNLEIRC GIKKMGDREK KYVHCLNSTL AATQRALCCI
+SYS_MYCPU   ETSSISYFGD FQGRRAKIRY KQN....DKT YFAHTINGSA LAIDRVFAAL
+1h4q_A      QAGTSHYLGE NFARAFDIKF QDR...DLQV KYVHTT..SW GLSWRFIGAI
+SYP_MYCLE   QSATTHYLGD NFARAFNIRY TTA...EEQQ AFVHTT..SF GLSTRMIGAI
+SYP_BORBU   QAATSHYLGL NFAKAFDVKF QDK...DGKM RHVFAS..SW GVSTRLIGAL
+SYP_CLOST   QSGTSHNLAQ HFTKAFDITF QGR...TGEL EYPHHT..SW GASTRLIGGI
+YHI0_YEAST  QGATSHHLGQ NFSKMFNLSV ENPLGSDHPK IFAYQN..SW GLSTRVIGVM
+SYP_MYCPN   QCATSHDLGQ TFTKPFGLTF QNQ...ANQQ AIPYSF..SC GISTRILGAL
+SYP_MYCGE   QCATSHDLGD TFTKSFTISY QSK...TNQK MTPSSF..SC GMSTRILGAI
+1nj8_A      QIATVHNLGQ NFSKTFEIIF ETP...TGDK DYAYQT..CY GISDRVIASI
+
+            601                                                650
+1ser_A      LENHQLQ.DG RVRVPQALI. PYMG.KEVLE PCG~~~~~~~ ~~~~~~~~~~
+SYS_AQUAE   LENYQQE.DG SVVVPEVLR. DYVG.TDVIR PE~~~~~~~~ ~~~~~~~~~~
+SYS_THEMA   LENYQQP.DG SVRVPEVLV. PYTG.FEVIP ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLTE   LEHYQTA.DG KLMVPEALK. PYTG.FEIIE ~~~~~~~~~~ ~~~~~~~~~~
+SYS_FUSNN   MENYQQE.DG SFLVPKVLI. PYMG.GVDVI KK~~~~~~~~ ~~~~~~~~~~
+SYS_METAC   LENYQRE.DG SVEIPEVLR. PYMG.GVEEI REE~~~~~~~ ~~~~~~~~~~
+SYS_BACHD   LENYQQE.DG TIVIPEVLR. PYMG.GMEKF EA~~~~~~~~ ~~~~~~~~~~
+SYS_BACSU   LENYQQE.DG SVVIPKVLR. PYMG.NREVM KP~~~~~~~~ ~~~~~~~~~~
+SYS_LISIN   LENYQEA.DG SVLIPKVLQ. GYMG.GIEKI ELPK~~~~~~ ~~~~~~~~~~
+SYS_OCEIH   LENYQQE.DG TVVVPEVLR. PYMG.GKEII G~~~~~~~~~ ~~~~~~~~~~
+SYS_STAAM   VENYQNE.DG TVTIPEALV. PFMG.GKTQI SKPVK~~~~~ ~~~~~~~~~~
+SYS_LACLA   LENYQNE.DG SITVPEVLR. PYMG.GLEVI K~~~~~~~~~ ~~~~~~~~~~
+SYS_STRA3   LENYQNE.DG SVTIPEVLR. PYMG.NIDII KPN~~~~~~~ ~~~~~~~~~~
+SYS2_LACPL  LENYQNE.DG TVTIPDVLV. PYMH.GKTKI EKQG~~~~~~ ~~~~~~~~~~
+SYS1_LACPL  LENYQQA.DG TVKIPKVLQ. PYMH.GMTEI K~~~~~~~~~ ~~~~~~~~~~
+SYS_THETN   LENYQQE.DG SVVVPEVLR. PYMK.VDVIR KEE~~~~~~~ ~~~~~~~~~~
+SYS_CLOAB   LENYQNE.DG SVNVPEALK. KYIG.KDVIR ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOPE   LENYQQE.DG SVVIPEALK. EYMR.CDLLK ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LEPIN   LENFQNE.DG TLRIPEVLK. SYF~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNEL   LENYQQP.DG TVRVPEVLQ. PYLK.CSHIG GAKS~~~~~~ ~~~~~~~~~~
+SYS_ANASP   LENYQQP.DG TILIPEVLQ. PFLG.REVL~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNY3   LENYYEPSSG QVKVPVVLQ. DFLK.RDYL~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNP7   LENYQQP.DG SVRVPEALQ. PTFA.RP~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BRUME   MENYQQE.DG SIHIPEALQ. PYMG.GLTRI EKAA~~~~~~ ~~~~~~~~~~
+SYS_RHIME   IENYLND.DG SITVPDVLV. PYMG.GLRRI EKSA~~~~~~ ~~~~~~~~~~
+SYS_AGRT5   LENYLND.DG SVTIPDVLL. PYMG.GLTRI EKAA~~~~~~ ~~~~~~~~~~
+SYS_RHILO   IENYQNE.DG SVTIPEVLR. PYMG.GLAKI EAK~~~~~~~ ~~~~~~~~~~
+SYS_RICCN   LENYQNE.DG SITIPDVLI. NYMG.GLQKI IAYSE~~~~~ ~~~~~~~~~~
+SYS_PSEAE   LENYQQA.DG SIRVPEVLK. PYMA.GIEVI G~~~~~~~~~ ~~~~~~~~~~
+SYS_RALSO   LENYQNA.DG SVTVPAALR. PYLG.GQAVL KPAA~~~~~~ ~~~~~~~~~~
+SYS_BURCE   LENYQNA.DG SVTVPEVLR. PYMG.GLERI DAPAQAS~~~ ~~~~~~~~~~
+SYS_NEIMA   LENHQNA.DG SINIPAALQ. PYMG.GVAKL EVK~~~~~~~ ~~~~~~~~~~
+SYS_ECOLI   MENYQQA.DG RIEVPEVLR. PYMN.GLEYI G~~~~~~~~~ ~~~~~~~~~~
+SYS_HAEIN   LENYQNA.DG SITVPEELR. PYMG.GLDVI GK~~~~~~~~ ~~~~~~~~~~
+SYS_VIBCH   LENYQEA.DG RIAIPAVLQ. KYMG.GLTHI G~~~~~~~~~ ~~~~~~~~~~
+SYS_SHEON   LENYQNA.DG SVTVPEALR. PYMG.GLTQI G~~~~~~~~~ ~~~~~~~~~~
+SYS_XANAC   MENYQNA.DG SIDVPQVLR. PYMG.GIERI G~~~~~~~~~ ~~~~~~~~~~
+SYS_XYLFA   MENYQNA.DG SITVPEVLR. PYMD.GLSRI G~~~~~~~~~ ~~~~~~~~~~
+SYS_COXBU   MENYQQA.DG HIRVPDALK. SYMG.GVDYF ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAP   LENYQDS.DG RVTIPKILQK KYMQ.GIEYI N~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAI   LENYQHS.NG RIEIPKVLQK KYMQ.GLEFI N~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCBP   LENYQQK.DG RIKIPKILRN NYMN.GLEFL E~~~~~~~~~ ~~~~~~~~~~
+SYS_WIGBR   IENYQTK.EG NIKVPKILQ. PYMD.GLKLI K~~~~~~~~~ ~~~~~~~~~~
+SYS_CAMJE   MENYQDK.EG KIHIPDVLK. KYF~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELPJ   MENHQQA.DG SIHIPKALE. KYL~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_UREPA   VENYQQE.DG SINIPKVLK. KYIY~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPE   VENYQNK.DG SITIPKALV. KYMG.IDSIK KTK~~~~~~~ ~~~~~~~~~~
+SYS_MYCPN   LEHYQTK.AG EVMIPQALL. KYLD.FDKIT KPK~~~~~~~ ~~~~~~~~~~
+SYS_MYCGE   LENFQTK.DG KILIPQALK. KYLD.FDTIK ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALMA   MEYYQND.DG TITVPEPLR. PYMG.GQEVI EGSEKIGESA VGAGEKE~~~
+SYS_HALN1   LEYYQND.DG TVTVPEALQ. PYMN.GQTRI EGSRKVGESA LGDGDREA~~
+SYS_CHLCV   LENNQQK.DG SVVIPEVLR. PYLG.NQEVL LPQE~~~~~~ ~~~~~~~~~~
+SYS_CHLPN   LENNQQA.DG SVVIPEVLR. PYLG.GLEIL LPKDQ~~~~~ ~~~~~~~~~~
+SYS_CHLMU   LENYQQE.DG SVVIPHALR. PYMN.NQEIL LPKTDR~~~~ ~~~~~~~~~~
+SYS_DEIRA   LENHQQA.DG TVRVPAALR. PYLG.GREVL GQPVR~~~~~ ~~~~~~~~~~
+SYS_BORBU   LENFQDQ.KG GVRIPKSLV. KYTG.FDYIP FKN~~~~~~~ ~~~~~~~~~~
+SYS_TREPA   LENGQDA.EG RVRIPQALV. PFCG.FEYLY PRVL~~~~~~ ~~~~~~~~~~
+SYSM_BOVIN  LESYQQK.DG SVLVPPALQ. PYLG.TDRIT TPTHV.PLQY IGPNQPQKPR
+SYS_STRCO   LENHQQA.DG SVRVPEVLR. PYLG.GREVL EPVAK~~~~~ ~~~~~~~~~~
+SYS_COREF   LENNQQA.DG SVIVPEALR. PFVG.KD.VL EPVK~~~~~~ ~~~~~~~~~~
+SYS_MYCLE   LENHQRP.DG SVRVPPALV. PFVG.TE.LL ESPR~~~~~~ ~~~~~~~~~~
+SYS_BIFLO   MENHQQK.DG SIEIPKAMR. AYMG.GKEVI EPTKWEA~~~ ~~~~~~~~~~
+SYS_ARATH   LENYQRE.DG .VDIPEVLQ. PFMG.G.ETF LPFKAKPVVA DTKGKKSKA~
+SYS_HELAN   LENYQTE.KG .VAIPEVLQ. PFMG.G.KTF LDFLKKIKK~ ~~~~~~~~~~
+SYS_BOVIN   LENYQTE.KG .ILVPEKLK. EFMPPGLQEL IPFVKAAPID QEPSKKQKKQ
+SYS_CAEEL   LENNQTE.EG .INVPTAIQ. QWMPENYRTF IPFVKPAPID EDAKKATGKK
+SYSC_SCHPO  LENYQTP.DG .VNVPKVLQ. PYMG.G.KTF LPFTKELPKN STSKKGKN~~
+SYSC_CANAL  LENYQKE.DG .LVIPEVLR. KYIP.GEPEF IPYIKELPKN TTSVKKAKGK
+SYSC_YEAST  LENYQTE.DG .LVVPEVLR. KYIP.GEPEF LPFVNELPKN STSSKDKKKK
+SYS_MYCPU   IELNYDSKNE LIKIPEKLV. PYFG.SSQIA RK~~~~~~~~ ~~~~~~~~~~
+1h4q_A      IMTHGDD.RG LVLPPRLAP. .....IQVVI VPIYKDESR. ....ERVLEA
+SYP_MYCLE   VMVHGDD.KG LVLPPQVAP. .....YQVVI VPITTGNKA. ....SEVGHA
+SYP_BORBU   IMVHSDE.KG LVLPPRIAP. .....IEIIV IPIFKKEDE. ..INKKILDY
+SYP_CLOST   IMVHGDN.RG LVLPPRVAP. .....TQVVI IPIAQN..K. ....EGVLDK
+YHI0_YEAST  VMIHSDN.KG LVIPPRVSQ. .....FQSVV IPVGITKKTS EEQRKHIHET
+SYP_MYCPN   LLTHSDD.FG LVLPWKVAP. .....IQVKL YLFDKKGDT. .....KTVEL
+SYP_MYCGE   FLTHSDD.YG LVLPWYLAS. .....KQVKL YLFDKNNNP. .....KTRAL
+1nj8_A      IAIHGDE.KG LILPPIVAP. .....IQVVI VPLIFKGKE. ....DIVMEK
+
+            651                                                700
+1ser_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AQUAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THEMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_FUSNN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_METAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACHD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACSU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LISIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_OCEIH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STAAM   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LACLA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STRA3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS2_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS1_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THETN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOAB   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LEPIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ANASP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNY3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNP7   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BRUME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHIME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AGRT5   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHILO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RICCN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BURCE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ECOLI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_VIBCH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SHEON   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COXBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_WIGBR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CAMJE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELPJ   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_UREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALN1   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLCV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLMU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_TREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSM_BOVIN  LPGQPASS~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STRCO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COREF   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BIFLO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ARATH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BOVIN   HEGSKKKGAA RDVALE.... ........SQ LQNMEVTDA~ ~~~~~~~~~~
+SYS_CAEEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_CANAL  N~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_YEAST  N~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1h4q_A      ..AQGLRQAL LAQGLRVHLD DRDQHTPGYK FHEWELKGVP FRVELGPKDL
+SYP_MYCLE   ..AADLARRL QAAGVRTHVD ARPQLTPGWK YNEWELRGVP IRLELGPRDL
+SYP_BORBU   ..SDCVVDAL KKAEFRVEID KDVRSSPGFR FSSAEFKGIP IRLEVGINDV
+SYP_CLOST   ..AYEIKKEL EAKGIRVTLD DDTNYSPGWK FNQYEMKGVP LRLEIGPRDI
+YHI0_YEAST  ..ARSVESRL KKVGIRAFGD YNDNYTPGWK FSQYELKGIP IRIELGPKDI
+SYP_MYCPN   ..AQKVQTLL EQLAIRFQFI K.VENQLGKQ LGQGEVNGIP FQLIVDNPQ.
+SYP_MYCGE   ..AFLVKDFL EKLKIRFSFI E.INNQLGKQ LLKGEIEGIP LQMIVDNEK.
+1nj8_A      ..AKEIYEKL .KGKFRVHID DR.DIRPGRK FNDWEIKGVP LRIEVGPKDI
+
+            701                                                750
+1ser_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AQUAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THEMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_FUSNN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_METAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACHD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACSU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LISIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_OCEIH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STAAM   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LACLA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STRA3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS2_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS1_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THETN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOAB   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LEPIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ANASP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNY3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNP7   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BRUME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHIME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AGRT5   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHILO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RICCN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BURCE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ECOLI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_VIBCH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SHEON   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COXBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_WIGBR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CAMJE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELPJ   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_UREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALN1   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLCV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLMU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_TREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSM_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STRCO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COREF   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BIFLO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ARATH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CAEEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1h4q_A      EGGQAVLASR LGG.KETLP. .LAALPEALP GKLDAFHEEL YRRALAFRED
+SYP_MYCLE   EAGTTVMVRR IGE.KAKQPI AIAAAPTELP GILEEFQRTL LERATQFRDD
+SYP_BORBU   LLNSVTISRR DKDRKFKYQI SLDSLISKVK VELDLMQKDL FQRALNFRIL
+SYP_CLOST   ENNVAMIARR DT..LSKDSY SLDNIGDTVK NLLDTVHTDM LERARAHRDS
+YHI0_YEAST  EKNQVVVVRR NDS..KKYVV SFDELEARIP EILEEMQGDL FKKAKELFDT
+SYP_MYCPN   ...TVNIFNR LTR..VKTAY SFEQLASRFV ELVQQYHQAM YDKAKAVVQQ
+SYP_MYCGE   ...TINIFNR LTR..LKTSL TFANLQTEFV NLVNNYHTEM YRKANDLVEQ
+1nj8_A      ENKKITLFRR DTM..EKFQV DETQLMEVVE KTLNNIMENI KNRAWEKFEN
+
+            751                                                800
+1ser_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AQUAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THEMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_FUSNN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_METAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACHD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACSU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LISIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_OCEIH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STAAM   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LACLA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STRA3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS2_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS1_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THETN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOAB   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LEPIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ANASP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNY3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNP7   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BRUME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHIME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AGRT5   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHILO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RICCN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BURCE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ECOLI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_VIBCH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SHEON   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COXBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_WIGBR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CAMJE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELPJ   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_UREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALN1   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLCV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLMU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_TREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSM_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STRCO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COREF   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BIFLO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ARATH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CAEEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1h4q_A      HTR.....KV D..TYEAFKE AV..QEGFAL AFHCGDKACE RLIQEET...
+SYP_MYCLE   HTT.....LV D..NWDAFAT TV..ATGWAL AIHCGNPECE EDIKAET...
+SYP_BORBU   NTKEIFRSSK D..SYETFKA YVNDYSGFVL SCWCGSLNCE NIIKNET...
+SYP_CLOST   KTF.....TF K..DYEEFKR KMIETPGFAK GMWCGEEECE AKIKEDT...
+YHI0_YEAST  HRV.....IV N..EWSGFVP ALN.KKNVIL APWCGVMECE EDIKESSAKK
+SYP_MYCPN   KVV.....QA T..TLKQIEQ AFNDKKAV.. ..LCAVRLTD TLEQQLK...
+SYP_MYCGE   KLA.....RV Q..TLKEIEQ AFKNKKAV.. ..LCTVKLTG ELEQHLK...
+1nj8_A      FIT.....IL EDINPDEIKN ILSEKRGVIL VPFKEEIYNE ELEEKVE...
+
+            801                                                850
+1ser_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AQUAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THEMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLTE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_FUSNN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_METAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACHD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BACSU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LISIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_OCEIH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STAAM   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LACLA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STRA3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS2_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS1_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_THETN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOAB   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_LEPIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ANASP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNY3   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SYNP7   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BRUME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHIME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_AGRT5   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RHILO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RICCN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BURCE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ECOLI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_VIBCH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_SHEON   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COXBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_WIGBR   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CAMJE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELPJ   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_UREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCGE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HALN1   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLCV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLPN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CHLMU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BORBU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_TREPA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSM_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_STRCO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_COREF   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCLE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BIFLO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_ARATH   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_HELAN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_CAEEL   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYSC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYS_MYCPU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1h4q_A      .......... .....TATTR CVPFEA...E PEEGFCVRCG RPSAYGKRVV
+SYP_MYCLE   .......... .....AATPR CVPRQG...A PATGRCIRCD APSAYDKRVI
+SYP_BORBU   .......... .....KATIR CIPDDFKARD LTGMTCIYCS SKAKY..FVL
+SYP_CLOST   .......... .....GVTIR CIPFVQ...E NLGETCQFCG KPAKH..MVY
+YHI0_YEAST  DDGEEFEEDD KAPSMGAKSL CIPFDQPV.L NEGQKCIKCE RIAVN..YCM
+SYP_MYCPN   .......... ..ERYQVTVR CCLEQL.... QKPQICPFSG ESAQD..YVL
+SYP_MYCGE   .......... ..TKYQVSVR CVFKKS.... DVTQNCPFTN QPCFD..SVL
+1nj8_A      .......... .......... .......... ....ATILGE TEYKGNKYIA
+
+            851   
+1ser_A      ~~~~~
+SYS_AQUAE   ~~~~~
+SYS_THEMA   ~~~~~
+SYS_CHLTE   ~~~~~
+SYS_FUSNN   ~~~~~
+SYS_METAC   ~~~~~
+SYS_BACHD   ~~~~~
+SYS_BACSU   ~~~~~
+SYS_LISIN   ~~~~~
+SYS_OCEIH   ~~~~~
+SYS_STAAM   ~~~~~
+SYS_LACLA   ~~~~~
+SYS_STRA3   ~~~~~
+SYS2_LACPL  ~~~~~
+SYS1_LACPL  ~~~~~
+SYS_THETN   ~~~~~
+SYS_CLOAB   ~~~~~
+SYS_CLOPE   ~~~~~
+SYS_LEPIN   ~~~~~
+SYS_SYNEL   ~~~~~
+SYS_ANASP   ~~~~~
+SYS_SYNY3   ~~~~~
+SYS_SYNP7   ~~~~~
+SYS_BRUME   ~~~~~
+SYS_RHIME   ~~~~~
+SYS_AGRT5   ~~~~~
+SYS_RHILO   ~~~~~
+SYS_RICCN   ~~~~~
+SYS_PSEAE   ~~~~~
+SYS_RALSO   ~~~~~
+SYS_BURCE   ~~~~~
+SYS_NEIMA   ~~~~~
+SYS_ECOLI   ~~~~~
+SYS_HAEIN   ~~~~~
+SYS_VIBCH   ~~~~~
+SYS_SHEON   ~~~~~
+SYS_XANAC   ~~~~~
+SYS_XYLFA   ~~~~~
+SYS_COXBU   ~~~~~
+SYS_BUCAP   ~~~~~
+SYS_BUCAI   ~~~~~
+SYS_BUCBP   ~~~~~
+SYS_WIGBR   ~~~~~
+SYS_CAMJE   ~~~~~
+SYS_HELPJ   ~~~~~
+SYS_UREPA   ~~~~~
+SYS_MYCPE   ~~~~~
+SYS_MYCPN   ~~~~~
+SYS_MYCGE   ~~~~~
+SYS_HALMA   ~~~~~
+SYS_HALN1   ~~~~~
+SYS_CHLCV   ~~~~~
+SYS_CHLPN   ~~~~~
+SYS_CHLMU   ~~~~~
+SYS_DEIRA   ~~~~~
+SYS_BORBU   ~~~~~
+SYS_TREPA   ~~~~~
+SYSM_BOVIN  ~~~~~
+SYS_STRCO   ~~~~~
+SYS_COREF   ~~~~~
+SYS_MYCLE   ~~~~~
+SYS_BIFLO   ~~~~~
+SYS_ARATH   ~~~~~
+SYS_HELAN   ~~~~~
+SYS_BOVIN   ~~~~~
+SYS_CAEEL   ~~~~~
+SYSC_SCHPO  ~~~~~
+SYSC_CANAL  ~~~~~
+SYSC_YEAST  ~~~~~
+SYS_MYCPU   ~~~~~
+1h4q_A      FAKAY
+SYP_MYCLE   FARAY
+SYP_BORBU   FAKSY
+SYP_CLOST   LAKAY
+YHI0_YEAST  FGRSY
+SYP_MYCPN   IARAY
+SYP_MYCGE   IARAY
+1nj8_A      IAKTY

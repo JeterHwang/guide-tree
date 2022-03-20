@@ -1,0 +1,745 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV50_BB50016_mafft.fa.msf  MSF: 2147  Type: N  December 21, 2021 21:48  Check: 2235  ..
+
+ Name: ST11_YEAST  Len:   2147  Check: 2282  Weight: 1.00
+ Name: PKN5_MYXXA  Len:   2147  Check: 4920  Weight: 1.00
+ Name: SMA6_CAEEL  Len:   2147  Check: 3280  Weight: 1.00
+ Name: KBN8_YEAST  Len:   2147  Check: 4060  Weight: 1.00
+ Name: NPH1_ARATH  Len:   2147  Check: 5396  Weight: 1.00
+ Name: KI82_YEAST  Len:   2147  Check: 5589  Weight: 1.00
+ Name: KN8R_YEAST  Len:   2147  Check: 4046  Weight: 1.00
+ Name: MRK3_HUMAN  Len:   2147  Check:  942  Weight: 1.00
+ Name: YAK1_YEAST  Len:   2147  Check: 9608  Weight: 1.00
+ Name: AFC3_ARATH  Len:   2147  Check: 6402  Weight: 1.00
+ Name: DSK1_SCHPO  Len:   2147  Check: 3641  Weight: 1.00
+ Name: ST23_HUMAN  Len:   2147  Check: 8599  Weight: 1.00
+ Name: YKD5_CAEEL  Len:   2147  Check: 6075  Weight: 1.00
+ Name: CC2C_DROME  Len:   2147  Check: 5274  Weight: 1.00
+ Name: KSGT_ARATH  Len:   2147  Check: 8858  Weight: 1.00
+ Name: MPK5_ARATH  Len:   2147  Check: 6782  Weight: 1.00
+ Name: 1gng_A      Len:   2147  Check: 1765  Weight: 1.00
+ Name: KC21_YEAST  Len:   2147  Check: 4716  Weight: 1.00
+
+//
+
+ST11_YEAST     MH----------------------------------------------------------
+PKN5_MYXXA     MP----------------------------------------------------------
+SMA6_CAEEL     MN----------------------------------------------------------
+KBN8_YEAST     MI----------------------------------------------------------
+NPH1_ARATH     MEPTEKPSTKPSSRTLPRDTRGSLEVFNPSTQLTRPDNPVFRPEPPAWQNLSDPRGTSPQ
+KI82_YEAST     MT----------------------------------------------------------
+KN8R_YEAST     MAGHHHEHEQ------ERD-----------------------------------------
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     MN----------------------------------------------------------
+AFC3_ARATH     M-----------------------------------------------------------
+DSK1_SCHPO     MG----------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     MGGPEKNSTVP----LPNKKR------KKKTNKKKPTAP------------NTP--TSPQ
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     MN----------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ---------------------------KERPLNKASMIRSPVDEI---------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ------------------------------------------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     PRPQQEPAPSNPVRSDQEIAVTTSWMALKDPSPETISKKTITAEKPQKSAVAAEQRAAEW
+KI82_YEAST     ---QQEY---------------------RSPSQRLSKGRSMSLPK----IFARNLRS---
+KN8R_YEAST     --HEQEHEHD----------------SLQRPTTGSERTRSISFSK----LLT---RS---
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     ------------------------------------------------------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     AGEKNANLKNGTV-------TTNGSNHVERLAGRAVHSLSAIDYS---------------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     -YMEQTQTAEGTDLLIGDEKT----NDLPFVQLFLEEIGCTQYLDSFIQCNLVTEEEIKY
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     -------------------------ITFIFILIF-GFFNTQKCSKDYDHFD---------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     GLVLKTDTKTGKPQGVGVRNSGGTEND---------PNGKKTTSQRNSQNSCRSSGEM--
+KI82_YEAST     ---LQNNAPPGKNINVNCLNV----------------NSCSLSASPSSQINMACNGNK--
+KN8R_YEAST     ---WKRNASSSNNMSVSSVNL----------------YSDPENSRESDHNNSGSEGQ---
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     ------------------------------------------------------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     -GITNDVEAGGSFSLTDVFPT----VIFMFVVLF------CRWLNGFSQ-----------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     LDKDILIALGVNKIGDRLKI---------LRKSKSF------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     -DEDLALSIPKNAIGVPKEFR-----QQVLKEMK--------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     --SDGDVPGGRSGIPR---------VSEDLKDALSTFQQTFVVSDATKPDYPIMYASAG-
+KI82_YEAST     --QDLPIP-----FPLHVECN-DSWSSSKLNKFKSMFN----------------------
+KN8R_YEAST     --------------------------SSRFSKLKSMFQS---------------------
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     ------------------------------------------------------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     -HRERLYKFEDEAVQRRRRFRVHSEESEELNDHESYSETDICTQ--------LLASSADV
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     -------------VMRR-------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ----------------------------QRDKRIEQ----------VNRLKNLMEKVSS-
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ----------------------------LRNRP---------NDILKNRCYCNYDQSICG
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     ---------------FFNMTGYTSKEVVGRNCRFLQGSGTDADELAKIRETLAAGNNYCG
+KI82_YEAST     -----------------------------HN---------------RSKSSGTTDASTSE
+KN8R_YEAST     --------------------GNSSKNASAHN---------------SSQSSLEGDSASSS
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     -------------------------------------------------SSNNNDSSSS-
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     TCHINVDLVNQNRFYFF---------VKQRNKK--------------ENSTNEEEEISSQ
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     --------LSTATLSMNSELIPEK---HCVIFILNDGSAKKVNVN---------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     N-----------------------------------------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     RILNYKKDGTSFWNLLTIAPIKDE---SGKV-LKFIGMQVEVSKHTEGAKEKALRPNGLP
+KI82_YEAST     KGTHKREPRSTI---------------HTEL-LQSSII-GEPNVHS--------------
+KN8R_YEAST     SKLRYVKPMTSVANASPASPPLSPTIPETDV-LQTPKM-VHIDQHEH---EREHSNCGSP
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     --------NSNMNNSLSPTLVTHS---DAS---MGSGRASPDNSHMG-------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     ------EINTSTQNEETEVNLVFA---SAE---DNGGVAS--NFDIS-------------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ----------GCFNADSIKKRLI---------RRLPHE---LLATNSNGEVT--------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ------------------------------------------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     ESLIRYDARQKDMATNSVTELVE----AVKRPRALSESTNLHPFMTKSESDELPKKPARR
+KI82_YEAST     ------------TTSSTLIPNEA----ICST-----------PNEISGSSSP--------
+KN8R_YEAST     I----------MLSSSSFSPTVA----RTGTGRRRSPSTPIMPSQNSNNSSS--------
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     ---------RGIWNPSYVNQGSQ---------RSPQQQ---HQNHHQQQQQQ--------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     ---------DALMVTSNISEVSKLPETLCEEGETVQQKSVVNENDHSNEDDE--------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     -------------------------------KMVQDYD---VFV----------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ------------------------N------MTCVKQDGAACYH----------------
+KBN8_YEAST     ----------------------------------------FSLD------EELH------
+NPH1_ARATH     MSENVVPSGRRNSGGGRRNSMQRINEIPEK----KSRKSSLSFMGIKKKSESLDESIDDG
+KI82_YEAST     -DAEL-----------------------------------FTFD-MPTDPSSFH------
+KN8R_YEAST     -TSAIRPNNYRHHSGSQGFSSN--NPFRERAGTVRSSNPYFAYQGLPTHAMSSHD-LDEG
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     -------------------------------QQQQQQNSQFCFV----------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     -------------------------------QSLQSQDGSRCSD----------------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     --------------LDY-----TKNVLHLLYDVELVTICHAND-----------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ---------------------------------AVEEVYNKAE----KRMETLHK--WGC
+KBN8_YEAST     --------------RVSLDDKKNDIKVDY-SSAIYNDI-NHEQGSSITYEESINH-----
+NPH1_ARATH     FIEYGEED---------------------------DEI-SDRD----ERPESVDDKVRQK
+KI82_YEAST     --------------TPSSPSYIAKDSRNL-SNGSLNDI-NENE----ELQNFHRK-----
+KN8R_YEAST     FQPYANGSGIHFLSTPTSKTNSLTNTKNL-SNLSLNEI-KENE----EVQEFNNEDFFFH
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     --------------NPWNEEKVTNSQQNLVYPPQYDDL-NSNE-----------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     --------------EDMNSCVSASDEEDV--ESQDDSF-HVND-----------------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     RVEKNRLIFVSKDQTPSDK------------AISTSKKLYLRTLS----ALS---QVGPS
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ATLERGSGASHLTCNSWRAAHHSPKSIGCC----------------YE-GNY--------
+KBN8_YEAST     -LSVHSNAIPLNGMSPA-------------------------------------------
+NPH1_ARATH     EMRKGIDLATTLERIEKNFVITDPRLPDN--------PIIFASDSFLELTEY--------
+KI82_YEAST     -ISENGSASPLANLSLSNSPIDSP------------------------------------
+KN8R_YEAST     DIPKDLSLKDTLNGSPSRGSSKSPTITQTF------PSIIVGFDN-----EY--------
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     SLDAYRRRKSSLVVPPARAPAPNPFQYDSYPAYTSSNTSLAGNSS----GQY---PSGYQ
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     ATEESIDSVSSIESQEAEESATEDLASCHSNDDKNEKDVLVDEDT----SKYDNLPVEMR
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     -LKSIASGRTSISSDPG--------------------------------GDY--------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     SSNLLAQNKGISHNNAEGKLRI----DNTEKDRIRQIFNQRPPSEFISTN----------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ------------------------------------------------------------
+KBN8_YEAST     -------------------------------------HRMRRRSSAYS-KFPILTPPN--
+NPH1_ARATH     --------------------------SREEILGRNCRFLQGPETDLTTVKKIRNAIDNQT
+KI82_YEAST     ----------------------------------------RKNSETRKDQIPMNITPR--
+KN8R_YEAST     --------------------------EEDN---NNDKHDEKEEQQTTTDNKTRNLSPTK-
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     QQQQQVYQQGAIHPSQFGSRFVPSLYDRQDFQRRQSLAATNYSSNFSSLNSNTNQGTNSI
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     SAKEGEESEGTIDSSVSSSTSSSSTGDDGD-------------------DSATSYDSEDI
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     --------LAGYFPHTD--MKRLQKT-MRESFRHSA---RLSIAQ---------------
+PKN5_MYXXA     ---------------------------LKV------------------------------
+SMA6_CAEEL     --------------CNKNLIPPAYVHHHKEKALQEK-----------TDNPEDYDSPLEN
+KBN8_YEAST     ---------------------------TRR-----------------------FSITGSD
+NPH1_ARATH     EVTV---QLINYTKSGKKFWNIFHLQPMRDQKGEVQYFIGVQLD------GSKHVEPVRN
+KI82_YEAST     ---------------------------LRRAASEP------------------FNTAKDG
+KN8R_YEAST     --------------QNGKATHPRIKIPLRRAASEPN---GLQL--------ASATSPTSS
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     PVMSPYRRLSAYPPSTSPPLQPPFKQ-LRRDEVQGQ---KLSIPQMQLCNSKNDLQPVLN
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     EIQMFEYDLGTACASAS-----------------------ISIPRPSII-PRNNKKTEVN
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ----------------------ALKR-AKLDQ-END---NLCVDPMQVDQNSSCFEMKAD
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ---------------RRPLSAESNNIGDILLKHSNAVDMALLQGLDQTRLSSKLDTTKIP
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     MTRGGKMFIMVFATVMSVFAV-----------------------------IGCIYLCITR
+KBN8_YEAST     A--------------MRT------------------------------------------
+NPH1_ARATH     V--------------IEETAVKEGE-DLVKKTAVNIDEAV--RELPDA--------NMTP
+KI82_YEAST     L--------------MRE--------------------------------------DYIA
+KN8R_YEAST     S--------------ARKTS-----------GSSNINDKIPGQSVPPP-------NSFFP
+MRK3_HUMAN     ----------------------------------------------------------MS
+YAK1_YEAST     ATPK-----------FRRASLNSKTISPLVSVTKSLITTYSLC---------------SP
+AFC3_ARATH     ----------------------------IANGFESMDKERVRK---------------RP
+DSK1_SCHPO     ---------------------SDGSSLSPKVSQPGHTEIVDHVS-------------EKV
+ST23_HUMAN     ------------------MSASTGGGGDSGGSGGSSSSSQASC---------------GP
+YKD5_CAEEL     ANEE----------RLDDLSVSPGRSDSPGGGGGGHSDSFQD-----------------P
+CC2C_DROME     ----------------------------------------------------------M-
+KSGT_ARATH     V--------------LSQESVA-GTSNVPAVSEKPVDDQLPDVMI------------EMK
+MPK5_ARATH     ----------------------------------------------------------MA
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ----------------------------------------------------------MK
+
+
+ST11_YEAST     KLA-HKRPEDNDAISNQLELLSVESGEEEDH-DFFGEDSDIVSLPTK-------IATPKN
+PKN5_MYXXA     ---------------------------------------------------------IGP
+SMA6_CAEEL     AEEKSKARARAKTVSLKTESTYMESKSM-------LEDSGSGSGQAALIQRTV----RQD
+KBN8_YEAST     --NTNRLSITPQDIISSNIGENELSRNLHD------------------------------
+NPH1_ARATH     EDLWANHSKVVHCKPHRKDSPPWIA--IQKV------------------LESGEPIGLKH
+KI82_YEAST     LKQPPSLGDIVEPRRSRRLRTKSFGNKFQDI------------------T-----VEPQS
+KN8R_YEAST     QEPSPKISDFPEPRRSRRLRTKSFSNKFQDI------------------M-----VGPQS
+MRK3_HUMAN     TRT-----PLPTVNERDTENHTSHGDGRQEVTSRTSRSGARCRNSIA--SCADEQPHIGN
+YAK1_YEAST     EFTYQTSKNPKRVLTKPSEGKCNNGF------------DNINSDYILYVNDVLGVEQNRK
+AFC3_ARATH     RMTWDEAPAEPEAKRAVIKGHGSDGRILSPP----LRDDDRDGHYVFSLRDNL----TPR
+DSK1_SCHPO     ITNGKNVNKKVNAEVDGKSMVEKVKTHEENA-----EDYHYGGYHPVYIGEEF----HHR
+ST23_HUMAN     ESSGSELALATPVPQMLQGLLGSDDEEQEDP-----KDYCKGGYHPVKIGDVF----NGR
+YKD5_CAEEL     MDPGEQ--------------LGSDDEEQEDP-----RDYKRGGYHPVNIGDVF----NAR
+CC2C_DROME     --------------------------------------------TTI--LDNFQRAEK--
+KSGT_ARATH     ----IRDERNANREDKDMETTVVNGSGTE--------TGQVITTTVG--GRDGKPKQTIS
+MPK5_ARATH     ----KEIESATDLGDTNIKGVLVHG-------------GRYFQYNVY--GNLFEVSNK--
+1gng_A         ----------------------------------------KVTTVVATPGQGPDRPQEVS
+KC21_YEAST     CRVWSEARVYTNINKQRTEEYWDYE-------------NTVIDWSTN--TKDYEIENK--
+
+
+ST11_YEAST     WLKG-ACIGSGSFGSVYLGMNAHTGELMAVK--------------QVEIKNNNIGVPTDN
+PKN5_MYXXA     YRVL-ETLGSGGAGTVYRALDRRTTDEVALK--------------LLSAGPARDA-----
+SMA6_CAEEL     LTII-KTIGQGRYGEVRKALYR--GSYVAVK--------------TFYTTDEDSW-----
+KBN8_YEAST     FKPV-RVLGQGAYGKVLLVKDVNTSKLYAMK--------------QLRKAEILISQTATD
+NPH1_ARATH     FKPV-KPLGSGDTGSVHLVELVGTDQLFAMK--------------AMDKAVML-------
+KI82_YEAST     FEKI-RLLGQGDVGKVYLVRERDTNQIFALK--------------VLNKHEMI-------
+KN8R_YEAST     FEKI-RLLGQGDVGKVFLVREKKTNRVYALK--------------VLSKDEMI-------
+MRK3_HUMAN     YRLL-KTIGKGNFAKVKLARHILTGREVAIK--------------IIDKTQLNPTSL---
+YAK1_YEAST     YLVL-DILGQGTFGQVVKCQNLLTKEILAVK--------------VVKSRTEYLT-----
+AFC3_ARATH     YKIL-SKMGEGTFGRVLECWDRDTKEYVAIK--------------IIRSIKKYRD-----
+DSK1_SCHPO     RYVVERKLGWGHFSTVWLAYDRAAKRRVALK--------------VVRSAEHYRE-----
+ST23_HUMAN     YHVV-RKLGWGHFSTVWLCWDIQRKRFVALK--------------VVKSAGHYTE-----
+YKD5_CAEEL     YHVI-RKLGWGHFSTVWLAWDTQDKRFVAMK--------------IVKSAEHYTE-----
+CC2C_DROME     -------IGEGTYGIVYKARSNSTGQDVALK--------------KIRLEGETEGVP---
+KSGT_ARATH     YMAQ-RVVGTGSFGVVFQAKCLETGEQVAIK--------------KVLQDKRYKN-----
+MPK5_ARATH     YVPPIRPIGRGAYGFVCAAVDSETHEEIAIK--------------KIGKAFDNKVDA---
+1gng_A         YTDT-KVIGNGSFGVVYQAKLCDSGELVAIK--------------KVLQDKRFKN-----
+KC21_YEAST     -------VGRGKYSEVFQGVKLDSKVKIVIKMLKPVKKKKIKREIKILTDLSNEKVP---
+
+
+ST11_YEAST     NKQANSDENNEQ---------EEQQEKI---EDVGAVSHPKTNQNIHRKMVDALQ----H
+PKN5_MYXXA     ---------------------RAARRLA-------------------------------R
+SMA6_CAEEL     -KNE-------------------------------------------------------R
+KBN8_YEAST     SKREDEDKNDGNNNDNDDGLSKRLERTF-------------------------------A
+NPH1_ARATH     -NR------------------NKVHRAR-------------------------------A
+KI82_YEAST     -KR------------------KKIKRVL-------------------------------T
+KN8R_YEAST     -KR------------------NKIKRVL-------------------------------T
+MRK3_HUMAN     ------------------------QKLF-------------------------------R
+YAK1_YEAST     -------------------------QSI-------------------------------T
+AFC3_ARATH     -------------------------AAM-------------------------------I
+DSK1_SCHPO     -------------------------TSI-------------------------------D
+ST23_HUMAN     -------------------------TAV-------------------------------D
+YKD5_CAEEL     -------------------------AAL-------------------------------D
+CC2C_DROME     ------------------------STAI-------------------------------R
+KSGT_ARATH     -----------------------------------------------------------R
+MPK5_ARATH     ------------------------KRTL-------------------------------R
+1gng_A         -----------------------------------------------------------R
+KC21_YEAST     ------------------------PTTLPFQKD---------------------QYYTNQ
+
+
+ST11_YEAST     EMNLLKELH----------HENIVTYYGASQEGG------NLNIFLEYVPGG--SVSSML
+PKN5_MYXXA     EFDTLVDLS----------HPNVVKVFESGVHQG------VPYLAMELIEGL--TLRHYL
+SMA6_CAEEL     DVYQTNMIN----------HENILQFVAADIWSEE-DSMTKMLLITDYHELG--SLSDYL
+KBN8_YEAST     ERSILSEIE----------HPNIVKLFYSFHDNS------KLYLLLQYIPGG--ELFYHL
+NPH1_ARATH     EREILDLLD----------HPFLPALYASFQTKT------HICLITDYYPGG--ELFMLL
+KI82_YEAST     EQEILATSD----------HPFIVTLYHSFQTKD------YLYLCMEYCMGG--EFFRAL
+KN8R_YEAST     EQEILATSN----------HPFIVTLYHSFQSED------YLYLCMEYCMGG--EFFRAL
+MRK3_HUMAN     EVRIMKILN----------HPNIVKLFEVIETEK------TLYLIMEYASGGEVFDYLVA
+YAK1_YEAST     EAKILELLNQKI-DPT--NKHHFLRMYDSFVHKN------HLCLVFELLSN---NLYELL
+AFC3_ARATH     EIDVLQKLVKS---DK--GRTRCVQMKNWFDYRN------HICIVFEKLGP---SLFDFL
+DSK1_SCHPO     EIRILQKIREG--DEKHLGKKHIISLLDYFVHRG--PNGAHVCMVFEVLGE---NLLSLI
+ST23_HUMAN     EIKLLKCVRDS--DPSDPKRETIVQLIDDFRISG--VNGVHVCMVLEVLGH---QLLKWI
+YKD5_CAEEL     EIKLLLSVRSA--DPNDIGCHKVVQLLDEFTVTG--INGQHVAMVFEVLGC---NLLKLI
+CC2C_DROME     EISLLKNLK----------HPNVVQLFDVVISGN------NLYMIFEYLNM---DLKKLM
+KSGT_ARATH     ELQIMRLQD----------HPNVVRLRHSFFSTTD-KDELYLNLVLEYVPE---TVYRAS
+MPK5_ARATH     EIKLLRHLE----------HENVVVIKDIIRPPKK-EDFVDVYIVFELMDT---DLHQII
+1gng_A         ELQIMRKLD----------HCNIVRLRYFFYSSGEKKDEVYLNLVLDYVPE---TVYRVA
+KC21_YEAST     KEDVLKFIRPYIFDQPHNGHANIIHLFDIIKDPIS-K---TPALVFEYVDN---VDFRIL
+
+
+ST11_YEAST     -----------------NNYG---------------------------------------
+PKN5_MYXXA     DLSSGDRQTPPGSHTPRSPLSVLRTADDDFGPLSRSFSDSMDDSEDSPFDGTFGLEAFAE
+SMA6_CAEEL     ---------------CREE-----------------------------------------
+KBN8_YEAST     ---------------KEHGT----------------------------------------
+NPH1_ARATH     ---------------DRQPRK---------------------------------------
+KI82_YEAST     ---------------QTRKSK---------------------------------------
+KN8R_YEAST     ---------------QTRKTK---------------------------------------
+MRK3_HUMAN     H--GRMKEK---EARSKFRQGC--------------------------------------
+YAK1_YEAST     ---------------KQNKFH---------------------------------------
+AFC3_ARATH     ---------------KRNKYS---------------------------------------
+DSK1_SCHPO     ---------------QSYGHR---------------------------------------
+ST23_HUMAN     ---------------IKSNYQ---------------------------------------
+YKD5_CAEEL     ---------------IRSNYR---------------------------------------
+CC2C_DROME     ---------------DKKKD----------------------------------------
+KSGT_ARATH     K------------HYTKMNQ----------------------------------------
+MPK5_ARATH     ----------------RSNQ----------------------------------------
+1gng_A         R------------HYSRAKQ----------------------------------------
+KC21_YEAST     --------------YPK-------------------------------------------
+
+
+ST11_YEAST     --------------------------------------------------------PFEE
+PKN5_MYXXA     EAPSEDLESFASSASPHVGIGSDDSLEGFDLPPPMPRPAEPEEEPGRVVREEDLNRPERM
+SMA6_CAEEL     --------------------------------------------------------TLTT
+KBN8_YEAST     ---------------------------------------------------------LDE
+NPH1_ARATH     --------------------------------------------------------VLKE
+KI82_YEAST     --------------------------------------------------------CIAE
+KN8R_YEAST     --------------------------------------------------------CICE
+MRK3_HUMAN     ----------QAGQTIK--------------------------------------VQVSF
+YAK1_YEAST     --------------------------------------------------------GLSI
+AFC3_ARATH     --------------------------------------------------------AFPL
+DSK1_SCHPO     --------------------------------------------------------GVPV
+ST23_HUMAN     --------------------------------------------------------GLPV
+YKD5_CAEEL     --------------------------------------------------------GLHL
+CC2C_DROME     --------------------------------------------------------VFTP
+KSGT_ARATH     --------------------------------------------------------HMPI
+MPK5_ARATH     --------------------------------------------------------SLND
+1gng_A         --------------------------------------------------------TLPV
+KC21_YEAST     ---------------------------------------------------------LTD
+
+
+ST11_YEAST     SLITNFTRQILIGVAYLHK----------KNIIHRDIKGANILIDI--------------
+PKN5_MYXXA     GRLKDAMLQICEALAYIHG----------HGLVHRDLKPSNIMVD---------------
+SMA6_CAEEL     DEALRLIHSCICGIEHLHAAVHGTGSFRKPEIAHRDIKSKNIIVK---------------
+KBN8_YEAST     TTVSFYAAEISCALRFLHT----------KGVVYRDLKPENCLLN---------------
+NPH1_ARATH     DAVRFYAAQVVVALEYLHC----------QGIIYRDLKPENVLIQ---------------
+KI82_YEAST     EDAKFYASEVVAALEYLHL----------LGFIYRDLKPENILLH---------------
+KN8R_YEAST     DDARFYASEVTAALEYLHL----------LGFIYRDLKPENILLH---------------
+MRK3_HUMAN     DLLSLMFTFIVSAVQYCHQ----------KRIVHRDLKAENLLLD-A-------------
+YAK1_YEAST     QLIRTFTTQILDSLCVLK----------ESKLIHCDLKPENILL----------------
+AFC3_ARATH     ALVRDFGCQLLESVAYMH----------ELQLVHTDLKPENILLVSSEN-----------
+DSK1_SCHPO     GIVKQIAYQLLIALDYLHR---------ECGIIHTDLKPENVLICIDQDALQHIEAPATT
+ST23_HUMAN     PCVKSIVRQVLHGLDYLHT---------KCKIIHTDIKPENILLCVGDAYIRRLAAEATE
+YKD5_CAEEL     EQVRKICRQVLEALGYMHE---------KCGIIHTDIKPENVLITMSREEIKIMAQHAVV
+CC2C_DROME     QLIKSYMHQILDAVGFCHT----------NRILHRDLKPQNLLVD-T-------------
+KSGT_ARATH     IFVQLYTYQICRALNYLHR---------VVGVCHRDIKPQNLLVNPQ-------------
+MPK5_ARATH     DHCQYFLYQILRGLKYIHS----------ANVLHRDLKPSNLLLN-S-------------
+1gng_A         IYVKLYMYQLFRSLAYIHS----------FGICHRDIKPQNLLLDPD-------------
+KC21_YEAST     LEIRFYMFELLKALDYCHS----------MGIMHRDVKPHNVMIDHK-------------
+
+
+ST11_YEAST     ------------------------------------------------------------
+PKN5_MYXXA     -----------------------------D------------------------------
+SMA6_CAEEL     -----------------------------R------------------------------
+KBN8_YEAST     -----------------------------Q------------------------------
+NPH1_ARATH     -----------------------------G------------------------------
+KI82_YEAST     -----------------------------Q------------------------------
+KN8R_YEAST     -----------------------------Q------------------------------
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     ------------------------------------------------------------
+AFC3_ARATH     --------------------------------VKLPDNKR--------------------
+DSK1_SCHPO     SSPTSN-TSSSKTRNNTGYTAKAPIIKRGQSVDNSAQERKTFAKNPTKNSKPAGQV----
+ST23_HUMAN     WQQAGAPPPSRSIVS----TAPQEVLT-----GKLSKNKRKKMRRKRKQQKRLLEERLRD
+YKD5_CAEEL     ARKMNM-KMSGSAVS----TAPDHLVKMAQ--ENMTKNKKKKMKKKAKKQREKLEAELAG
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ------------------------------------------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ------------------------------------------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     ------------------------------------------------------------
+KI82_YEAST     ------------------------------------------------------------
+KN8R_YEAST     ------------------------------------------------------------
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     ------------------------------------CAPD--------------------
+AFC3_ARATH     ---------------------------SAANETHFRCLPK--------------------
+DSK1_SCHPO     ------IPSSPFTSTLSRFPSLE----GAVSEISLRDSQKHNSHPN--------------
+ST23_HUMAN     LQRLEAMEA-----------------ATQAEDSGL---------------RLDGGSGSTS
+YKD5_CAEEL     LEGLK-MDANGLQEAYNNAPELENFNASQVEDVTMEDTVNENGNRNKVEIRSPDRFDRTT
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ------------------------------------------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ------------------------------------------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     ------------------------------------------------------------
+KI82_YEAST     ------------------------------------------------------------
+KN8R_YEAST     ------------------------------------------------------------
+MRK3_HUMAN     ------------------------------------------------------------
+YAK1_YEAST     ------------------------------------------------------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     -SPFSS------------------------------------GDNSLILDGV-NGSQEPV
+ST23_HUMAN     SSGFS------GSLFSPASCSILSGSSNQRETGGLLSPSTPFGASNLLVNPLEPQNAD--
+YKD5_CAEEL     LTPFSDPESKFGDLASP-SAEYLSSPMSQLPPGGIL-PAPPVG----------PNIGDPY
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     -KGCVKITDFGISKKLSPLN----------------------------KKQNKRASLQGS
+PKN5_MYXXA     -DRQVRLMDFGLAKFLA---------------------DDA--------AITEAGKLVGT
+SMA6_CAEEL     -PNVCCIADLGLALRYQ---------------------NDKILP-------EKFNVQVGT
+KBN8_YEAST     -RGHLVLTDFGLS---------------------KKSANDSAVDEEDPENVNALYSIIGT
+NPH1_ARATH     -NGDISLSDFDLSCLTSCKPQLLIPSIDEKKKKKQQKSQQTPI--FMAEPMRASNSFVGT
+KI82_YEAST     -SGHVMLSDFDLS----------IQATGSKKPTMK---DSTYLDTKICSDGFRTNSFVGT
+KN8R_YEAST     -SGHIMLSDFDLS----------IQAKDSKVPVVKGSAQSTLVDTKICSDGFRTNSFVGT
+MRK3_HUMAN     -DMNIKIADFGFSNEFTV-------------------------------GGKLDT-FCGS
+YAK1_YEAST     -KPELKIIDFGSSCEEA----------------------------------RTVYTYIQS
+AFC3_ARATH     -SSAIKLIDFGSTVCDN----------------------------------RIHHSIVQT
+DSK1_SCHPO     PKITVKIADLGNACWTR----------------------------------KHFTNDVQT
+ST23_HUMAN     -KIKIKIADLGNACWVH----------------------------------KHFTEDIQT
+YKD5_CAEEL     CDIDVKIADLGNACWVN----------------------------------HHYTDDIQT
+CC2C_DROME     -AGKIKLADFGLARAFNV-------------------------------PMRAYTHEVVT
+KSGT_ARATH     -THQLKICDFGSAKMLV--------------------------------PGEPNISYICS
+MPK5_ARATH     -NCDLKITDFGLARTTS--------------------------------ETEYMTEYVVT
+1gng_A         -TAVLKLCDFGSAKQLV--------------------------------RGEPNVSXICS
+KC21_YEAST     -NKKLRLIDWGLAEFYHV-------------------------------NMEYNV-RVAS
+
+
+ST11_YEAST     VFWMSPEVVKQTA------TTAKADIWSTGCVVIEMFTG-KHPFPDFS---------QMQ
+PKN5_MYXXA     YRYMAPEQILGEP------LDGRADLYSLGVILYELLSG-RPPFDAKT------PHELWR
+SMA6_CAEEL     KRYMAPELISNKLNPKDFSQFKMADIYSMALVMWEVAIR--------------VEVNTCE
+KBN8_YEAST     PEYCAPEILLGKA------YSQNCDWYSLGCLLYDMLVG-KPPYTGSN------HKVIIN
+NPH1_ARATH     EEYIAPEIISGAG------HTSAVDWWALGILMYEMLYG-YTPFRGKT------RQKTFT
+KI82_YEAST     EEYLAPEVIRGNG------HTAAVDWWTLGILIYEMLFG-CTPFKGDN------SNETFS
+KN8R_YEAST     EEYIAPEVIRGNG------HTAAVDWWTLGILIYEMLFG-FTPFKGDN------TNETFT
+MRK3_HUMAN     PPYAAPELFQGKK-----YDGPEVDVWSLGVILYTLVSG-SLPFDGQN------LKELRE
+YAK1_YEAST     RFYRAPEIILGIP------YSTSIDMWSLGCIVAELFLG-IPIFPGAS------EYNQLT
+AFC3_ARATH     RHYRSPEVILGLG------WSYQCDLWSIGCILFELCTG-EALFQTHD------NLEHLA
+DSK1_SCHPO     RQYRSPEVILGCR------WGASADCWSFACIIFELLTG-DYLFDPRNGNSYSKEDDHIA
+ST23_HUMAN     RQYRAVEVLIGAE------YGPPADIWSTACMAFELATG-DYLFEPHSGEDYSRDEDHIA
+YKD5_CAEEL     RQYRALEVLIGSG------YGPPADIWSTACMAFELATG-DYLFEPHQGDNYSRDEDHLA
+CC2C_DROME     LWYRAPEILLGTK-----FYSTGVDIWSLGCIFSEMIMR-RSLFPGDS------EIDQLY
+KSGT_ARATH     RYYRAPELIFGAT-----EYTNAIDMWSGGCVMAELLLG-QPLFPGES------GIDQLV
+MPK5_ARATH     RWYRAPELLLNSS-----EYTSAIDVWSVGCIFAEIMTR-EPLFPGKD------YVHQLK
+1gng_A         RYYRAPELIFGAT-----DYTSSIDVWSAGCVLAELLLG-QPIFPGDS------GVDQLV
+KC21_YEAST     RFFKGPELLVDYR-----MYDYSLDLWSFGTMLASMIFKREPFFHGTS------NTDQLV
+
+
+ST11_YEAST     AIFKI-GTNTTPEI----------------------------------------------
+PKN5_MYXXA     QVLET---------------------EPPPVLA---------------------------
+SMA6_CAEEL     EVLTV-------------------DETSPDHSASSGIGESVSSSGNISRMH---------
+KBN8_YEAST     KIQQN-------------------KQGPK-------------------------------
+NPH1_ARATH     NVLQK-------------------DLKFP-------------------------------
+KI82_YEAST     NILTK-------------------DVKFP-------------------------------
+KN8R_YEAST     NILKN-------------------EVSFP-------------------------------
+MRK3_HUMAN     RVLRG-------------------------------------------------------
+YAK1_YEAST     RIIDTLGYPPSWMIDMGKNSGKFMKKLAPEESSSSTQKHRMKTIEEFCREYNIVEKPSKQ
+AFC3_ARATH     MMERALG-------------------PLPEHMTRKASRGAEKYFRRGCR-----------
+DSK1_SCHPO     QIIELLV-------------------NYPKQMALSGKHSRDLFNRRGEL-----------
+ST23_HUMAN     HIVELLG-------------------DIPPAFALSGRYSREFFNRRGEL-----------
+YKD5_CAEEL     HISELLG-------------------AIPPSIYKKGKHWREFFHKNGHL-----------
+CC2C_DROME     RIFRTLSTPDETNW----------------------------------------------
+KSGT_ARATH     EIIKILGTPTREEI----------------------------------------------
+MPK5_ARATH     LITELIGSPDGASLEF--------------------------------------------
+1gng_A         EIIKVLGTPTREQI----------------------------------------------
+KC21_YEAST     KIVKVLGTSDFEKYLL--------------------------------------------
+
+
+ST11_YEAST     ---------------------------PSW------------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ----LQKTNVEGHSTSLK----AKQHVPPFDGIVHNDPNFDEMNDVICVRRIRPPPDLAW
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     ------------------------------------------------------------
+KI82_YEAST     ------------------------------------------------------------
+KN8R_YEAST     ------------------------------------------------------------
+MRK3_HUMAN     -----------------------KYRIPFY------------------------------
+YAK1_YEAST     YFKWRKLPDIIRNYRYPKSIQNSQELIDQE------------------------------
+AFC3_ARATH     -LNWPEGANSRESIRAVKRLDRLKDMVSKH------------------------------
+DSK1_SCHPO     -----------RNIHKLKFWPLKDVLEQKYH-----------------------------
+ST23_HUMAN     -----------RHIHNLKHWGLYEVLMEKYE-----------------------------
+YKD5_CAEEL     -----------LHIHQLKPWSLYEVLRQKYE-----------------------------
+CC2C_DROME     -----------PGVTQLPD---FKTKFPRWE-------------------------GTNM
+KSGT_ARATH     -----RCMN--PNYTEFKF---PQIKAHPW---------------------------HKI
+MPK5_ARATH     ----LRSANARKYVKELP-------KFPR-Q-------------------------NFSA
+1gng_A         -----REMN--PNYTEFKF---PQIKAHPW---------------------------TKV
+KC21_YEAST     ----KYEITLPREFYDMD-----QYIRKPWHRF----------------------INDGN
+
+
+ST11_YEAST     ----ATSEGKNFLRKAFELDYQYRPSA-----------------------LELL---QHP
+PKN5_MYXXA     LNLHGDPQLARVAHRLIRKEPDDRFQT-------------------AEEVYEAL------
+SMA6_CAEEL     KNVPALNELSKLMEDSWHSIPHFRHSA----------------LKLKKEMAELI---KNP
+KBN8_YEAST     IPFYLSEGMKDILNALLKKETAKRWNVDKYWAKTGANNKPTKSKKKKSGAARTSLFTEHF
+NPH1_ARATH     ASIPASLQVKQLIFRLLQRDPKKRLGC-------------------FEGANEVK---QHS
+KI82_YEAST     HDKEVSKNCKDLIKKLLNKNEAKRLGS-------------------KSGAADIK---RHP
+KN8R_YEAST     NNNEISRTCKDLIKKLLTKNESKRLGC-------------------KMGAADVK---KHP
+MRK3_HUMAN     ----MSTDCENLLKRFLVLNPIKRGTL-----------------------EQIM---KDR
+YAK1_YEAST     -MQN-RECLIHFLGGVLNLNPLERWTP-----------------------QQAM---LHP
+AFC3_ARATH     -VDNTRSRFADLLYGLLAYDPSERLTA-----------------------NEAL---DHP
+DSK1_SCHPO     FSAELAQQISDFLSPMLCFDPAKRTNA-----------------------GYMS---NSP
+ST23_HUMAN     WPLEQATQFSAFLLPMMEYIPEKRASA-----------------------ADCL---QHP
+YKD5_CAEEL     WSHEDAQQFESFLRPMLDFDQEKRSTA-----------------------KIAL---KHP
+CC2C_DROME     PQPITEHEAHELIMSMLCYDPNLRISA-----------------------KDAL---QHA
+KSGT_ARATH     FHKRMPPEAVDLVSRLLQYSPNLRCTA-----------------------LEAC---AHP
+MPK5_ARATH     RFPSMNSTAIDLLEKMLVFDPVKRITV-----------------------EEAL---CYP
+1gng_A         FRPRTPPEAIALCSRLLEYTPTARLTP-----------------------LEAC---AHS
+KC21_YEAST     KHLSGNDEIIDLIDNLLRYDHQERLTA-----------------------KEAM---GHP
+
+
+ST11_YEAST     WLDAHI------------------------------------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     -----------------------------------------------DRQNQSQRKVEFQ
+KBN8_YEAST     IFRKIDWKLLESGQLQKTTLGPIVPVITD------LELAENF-----DTEFTSMSYEETY
+NPH1_ARATH     FFKGINWALIRCTN------PP---------------------------------ELETP
+KI82_YEAST     FFKKVQWSFLRNQD------PPLIPALNDNGCELPFILSCNK-----HPKRNSVSEQETK
+KN8R_YEAST     FFKKVQWSLLRNQE------PPLIPVLSEDGYDFAKLSSNKKR-QTSQDSHKHLDEQEKN
+MRK3_HUMAN     WINAGHEEDEL------------KPFVEPE-----LDISDQKRIDIMVGMGYSQEEIQES
+YAK1_YEAST     FITKQEFTGEWFPP------GSSLP-----------------------GPSEKHDDAKGQ
+AFC3_ARATH     FFKSSS------------------------------------------------------
+DSK1_SCHPO     WLREVA------DP------TFKIE-----------------------TTGATGEDVPGW
+ST23_HUMAN     WLNP--------------------------------------------------------
+YKD5_CAEEL     FLLPFG------GR------APKSD-----------------------CP-------PEL
+CC2C_DROME     YFRNVQHV--------------------DH-----VALPVDP-------NAGSASRLTRL
+KSGT_ARATH     FFDDLRDPNVSLPN------GRALP---PL-----FNFTAQE-------LAGASTELRQR
+MPK5_ARATH     YLSALHDLN-------------DEPVCSNH-----FSFHFED-------PSSTEEEIKEL
+1gng_A         FFDELRDPNVKLPN------GRDTP---AL-----FNFTTQE-------LS-SNPPLATI
+KC21_YEAST     WFAPIREQIEK-------------------------------------------------
+
+
+ST11_YEAST     ------------------------------------------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     Q-----------------------------------------------------------
+KBN8_YEAST     TDSKPININSVSK-------------SPD-------------MFKGF-------------
+NPH1_ARATH     IFSGEAENGEKVV-------------DPE--------------LEDL-------------
+KI82_YEAST     MFCEKVANDDEID-------------EAD-------------PFHDF-------------
+KN8R_YEAST     MFEERVEYDDEVS-------------EDD-------------PFHDF-------------
+MRK3_HUMAN     L--SKMKYDEITATYLLLGRKSSELDASDSSSSSNLSLAKVRPSSDLNNSTGQSPHHKVQ
+YAK1_YEAST     Q--SEYG-----------------------------------------------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     A--TEIR-----------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     L--SKMFPDGLIP-----------------------------------EPFDGNEHQEVY
+CC2C_DROME     V-----------------------------------------------------------
+KSGT_ARATH     LIPAHCQGTGSSS-----------------------------------------------
+MPK5_ARATH     VWLESVKFNPLPS-----------------------------------------------
+1gng_A         LIPPHARI----------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ------------------------------------------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ---QDSGLVESATNQS--------------------------------------------
+KBN8_YEAST     ----SYKASG--------------SYLEKYF-----------------------------
+NPH1_ARATH     ----QTNVF---------------------------------------------------
+KI82_YEAST     ----NSMSLTKKDHNI-------LTYSENYTT--------EKFYTKQLVQGQGI------
+KN8R_YEAST     ----NSMSLMEQDNNS-------MIYGNT--------------------NSYGK------
+MRK3_HUMAN     RSVSSSQKQRRYSDHAGPAIPSVVAYPKRSQTSTADSDLKEDGISSRKSSGSAVGGKGIA
+YAK1_YEAST     -------SANDSSNNAGHN----YVYNPSSATGGADSV-DIGAISKRKENTSG-------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     RDENDSRSASERSAN-------------SRSAGGSDDD-DEEEFNMNRPGPSG-------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ------------------------------------------------------------
+PKN5_MYXXA     --------------------------------------------SE--------------
+SMA6_CAEEL     ------------------------------------------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     ------------------------------------------------------------
+KI82_YEAST     ------------------------------------------------------------
+KN8R_YEAST     ------------------------------------------------------------
+MRK3_HUMAN     PASPMLGNASNPNKADIPERKKSSTVPSSNTASGGMTRRNTYVCSERTTADRHSVIQNGK
+YAK1_YEAST     ------------------------------------------------------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     ------------------------------------------------------------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ------------------------------------------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ------------------------------------------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     ------------------------------------------------------------
+KI82_YEAST     -----------------------------------------------------------T
+KN8R_YEAST     -----------------------------------------------------------I
+MRK3_HUMAN     ENSTIPDQRTPVASTHSISSAATPDRIRFPRGTASRSTFHGQPRERRTATYNGPPASPSL
+YAK1_YEAST     ------DISNNFAVTHSV------------------------------------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     ----------HFPIFCS-------------------------------------------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ------------------------------------------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ------------------------------------------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     ------------------------------------------------------------
+KI82_YEAST     AH--IEVSLKTSYLNYNMF-----------------------------------------
+KN8R_YEAST     AY--TPNSNRSRSNSHRTF-----------------------------------------
+MRK3_HUMAN     SHEATPLSQTRSRGSTNLFSKLTSKLTRRNMSFRFIKRLPTEYERNGRYEGSSRNVSAEQ
+YAK1_YEAST     -----------QEGPTSAFNKLHI------------------------------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     --------------------RVFT------------------------------------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ------------------------------------------------------------
+PKN5_MYXXA     ------------------------------------------------------------
+SMA6_CAEEL     ------------------------------------------------------------
+KBN8_YEAST     ------------------------------------------------------------
+NPH1_ARATH     ------------------------------------------------------------
+KI82_YEAST     ------------------------------------------------------------
+KN8R_YEAST     ------------------------------------------------------------
+MRK3_HUMAN     KDENKEAKPRSLRFTWSMKTTSSMDPGDMMREIRKVLDANNCDYEQRERFLLFCVHGDGH
+YAK1_YEAST     ------------------------------------------------------------
+AFC3_ARATH     ------------------------------------------------------------
+DSK1_SCHPO     ------------------------------------------------------------
+ST23_HUMAN     ------------------------------------------------------------
+YKD5_CAEEL     ------------------------------------------------------------
+CC2C_DROME     ------------------------------------------------------------
+KSGT_ARATH     ------------------------------------------------------------
+MPK5_ARATH     ------------------------------------------------------------
+1gng_A         ------------------------------------------------------------
+KC21_YEAST     ------------------------------------------------------------
+
+
+ST11_YEAST     ----------------------------------------------I
+PKN5_MYXXA     -----------------------------------------------
+SMA6_CAEEL     -----------------------------------------------
+KBN8_YEAST     -----------------------------------------------
+NPH1_ARATH     -----------------------------------------------
+KI82_YEAST     --------------------------------------------TER
+KN8R_YEAST     --------------------------------------------FKR
+MRK3_HUMAN     AENLVQWEMEVCKLPRLSLNGVRFKRISGTSIAFKNIASKIANELKL
+YAK1_YEAST     --------------------------------------------VEE
+AFC3_ARATH     -----------------------------------------------
+DSK1_SCHPO     -----------------------------------------------
+ST23_HUMAN     -----------------------------------------------
+YKD5_CAEEL     --------------------------------------------FMF
+CC2C_DROME     -----------------------------------------------
+KSGT_ARATH     -----------------------------------------------
+MPK5_ARATH     ----------------------------------------------I
+1gng_A         -----------------------------------------------
+KC21_YEAST     -----------------------------------------------
+
+

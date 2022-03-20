@@ -1,0 +1,93 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ rrm_ref.msf  MSF: 157  Type: N  November 09, 2021 21:21  Check: 6513  ..
+
+ Name: 1jmta   Len:    157  Check: 9102  Weight: 1.00
+ Name: 1qm9a1  Len:    157  Check: 3522  Weight: 1.00
+ Name: 1a9nb   Len:    157  Check: 8805  Weight: 1.00
+ Name: 1nu4a   Len:    157  Check:  636  Weight: 1.00
+ Name: 2u1a    Len:    157  Check: 1354  Weight: 1.00
+ Name: 1qm9a2  Len:    157  Check: 4986  Weight: 1.00
+ Name: 1hd1a   Len:    157  Check: 8786  Weight: 1.00
+ Name: 1l3ka1  Len:    157  Check: 7327  Weight: 1.00
+ Name: 2msta   Len:    157  Check: 7626  Weight: 1.00
+ Name: 1iqta   Len:    157  Check: 6644  Weight: 1.00
+ Name: 2u2fa   Len:    157  Check: 6018  Weight: 1.00
+ Name: 1oo0b   Len:    157  Check: 1576  Weight: 1.00
+ Name: 1cvja1  Len:    157  Check: 7917  Weight: 1.00
+ Name: 1h6kx   Len:    157  Check: 8998  Weight: 1.00
+ Name: 1fxla2  Len:    157  Check: 1291  Weight: 1.00
+ Name: 1fxla1  Len:    157  Check: 8443  Weight: 1.00
+ Name: 1cvja2  Len:    157  Check: 4746  Weight: 1.00
+ Name: 1fjeb2  Len:    157  Check: 1470  Weight: 1.00
+ Name: 1fjeb1  Len:    157  Check:   66  Weight: 1.00
+ Name: 1u2fa   Len:    157  Check: 7200  Weight: 1.00
+
+//
+
+1jmta      ------------SQTIALLNIYRNPQDGLRSAVSDVEMQEHYDEFFEEVFTEMEEKYG--
+1qm9a1     ---KNFQNIFPPSATLHLSNIPP---------------SVS----EEDLKVLFSSNGG--
+1a9nb      ---------IRPNHTIYINNMND---------------KIKKEELKRSLYALFSQ-FG--
+1nu4a      ----------RPNHTIYINNLNE---------------KIKKDELKKSLHAIFSR-FG--
+2u1a       MAPAQPLSENPPNHILFLTNLPE---------------ETN----ELMLSMLFNQ-FP--
+1qm9a2     ----------MGNSVLLVSNLNPE--------------RVT----PQSLFILFGV-YG--
+1hd1a      --------------KMFIGGLSW---------------DTT----KKDLKDYFSK-FG--
+1l3ka1     ----KEPE--QLR-KLFIGGLSF---------------ETT----DESLRSHFEQ-WG--
+2msta      --------------KIFVGGLSV---------------NTT----VEDVKHYFEQ-FG--
+1iqta      --------------KIFVGGLSP---------------DTP----EEKIREYFGG-FG--
+2u2fa      ------------AHKLFIGGLPN---------------YLN----DDQVKELLTS-FG--
+1oo0b      ----PGPQRSVEGWILFVTSIHE---------------EAQ----EDEIQEKFCD-YG--
+1cvja1     ------------A-SLYVGDLHP---------------DVT----EAMLYEKFSP-AG--
+1h6kx      -----------KSCTLYVGNLSF---------------YTT----EEQIYELFSK-SG--
+1fxla2     ----------SKT-NLIVNYLPQ---------------NMT----QEEFRSLFGS-IG--
+1fxla1     ----SASI--RDA-NLYVSGLPK---------------TMT----QKELEQLFSQ-YG--
+1cvja2     ----PSLRKSGVG-NIFIKNLDK---------------SID----NKALYDTFSA-FG--
+1fjeb2     ----DSKKVRAAR-TLLAKNLSF---------------NIT----EDELKEVFE------
+1fjeb1     GSHMVEGSESTTPFNLFIGNLNP---------------NKSVAELKVAISELFAKNDL--
+1u2fa      ------------ARRLYVGNIPF---------------GIT----EEAMMDFFNAQMRLG
+
+
+1jmta      --------EVEEMNVCDNLG--DHLVGNVYVKFRREEDAEKAVIDLNNRWFNG--QPIHA
+1qm9a1     --------VVKGFKFFQKDR------KMALIQMGSVEEAVQALIDLHN-HDLGENHHLRV
+1a9nb      --------HVVDIVAL--KTMKM--RGQAFVIFKELGSSTNALRQLQGFPFYG--KPMRI
+1nu4a      --------QILDILVS--RSLKM--RGQAFVIFKEVSSATNALRSMQGFPFYD--KPMRI
+2u1a       --------GFKEVRLVPG------RHDIAFVEFDNEVQAGAARDALQGFK-ITQNNAMKI
+1qm9a2     --------DVQRVKILFNK------KENALVQMADGNQAQLAMSHLNGHKL--HGKPIRI
+1hd1a      --------EVVDCTLKLDP-ITGRSRGFGFVLFKESESVDKVMDQ-KEHKLNG--KVIDP
+1l3ka1     --------TLTDCVVMRDP-NTKRSRGFGFVTYATVEEVDAAMN-ARPHKVDG--RVVEP
+2msta      --------KVDDAMLMFDK-TTNRHRGFGFVTFESEDIVEKVCE-IHFHEINN--KMVEC
+1iqta      --------EVESIELPMD-NKTNKRRGFCFITFKEEEPVKKIMEK-KYHNVGL--SKCEI
+2u2fa      --------PLKAFNLVKDS-ATGLSKGYAFCEYVDINVTDQAIAGLNGMQL--GDKKLLV
+1oo0b      --------EIKNIHLNLDR-RTGFSKGYALVEYETHKQALAAKEALNGAEIMG--QTIQV
+1cvja1     --------PILSIRVCRDM-ITRRSLGYAYVNFQQPADAERALDTMNFDVIKG--KPVRI
+1h6kx      --------DIKKIIMGLDK-M----CGFCFVEYYSRADAENAMRYINGTRLDD--RIIRT
+1fxla2     --------EIESCKLVRDK-ITGQSLGYGFVNYIDPKDAEKAINTLNGLRLQT--KTIKV
+1fxla1     --------RIITSRILVDQ-VTGVSRGVGFIRFDKRIEAEEAIKGLNGQKPSGATEPITV
+1cvja2     --------NILSCKVVCD--EN-GSKGYGFVHFETQEAAERAIEKMNGMLLND--RKVFV
+1fjeb2     --------DALEIRLVSQDG---KSKGIAYIEFKSEADAEKNLEEKQGAEIDG--RSVSL
+1fjeb1     --------AVVDVRTGT-------NRKFGYVDFESAEDLEKALELTG-LKVFG--NEIKL
+1u2fa      GLTQAPGNPVLAVQINQD-------KNFAFLEFRSVDETTQAMA-FDGIIFQG--QSLKI
+
+
+1jmta      ELSP---------------------------------
+1qm9a1     SFSKSTI------------------------------
+1a9nb      QYAKTDSDIISKMRG----------------------
+1nu4a      QYAKTDSDIIAKM------------------------
+2u1a       SFAKK--------------------------------
+1qm9a2     TLSKHQNVQLPREGQEDQGLTKDYGNSPLHRFKKPGS
+1hd1a      KRA----------------------------------
+1l3ka1     KRAV-------S-------------------------
+2msta      KKA----------------------------------
+1iqta      KVA----------------------------------
+2u2fa      QRASVGAKNA---------------------------
+1oo0b      DWCFV------KGPK----------------------
+1cvja1     MWSQR------D-------------------------
+1h6kx      DWDA----------G----------------------
+1fxla2     SYARP------S-------------------------
+1fxla1     KFA----------------------------------
+1cvja2     GRFKS------RKER----------------------
+1fjeb2     YYTGE--------KG----------------------
+1fjeb1     EKPKGR-------------------------------
+1u2fa      RRPHDYQPLPG--------------------------
+
+

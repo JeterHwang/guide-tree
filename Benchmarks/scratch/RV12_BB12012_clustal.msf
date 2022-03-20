@@ -1,0 +1,81 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 588  Type: P  December 21, 2021 20:32  Check: 9508  ..
+
+ Name: 1bqb_A      Len:    588  Check: 4565  Weight: -1.00
+ Name: PRT1_ERWCA  Len:    588  Check: 1570  Weight: -1.00
+ Name: 1ezm_       Len:    588  Check: 9981  Weight: -1.00
+ Name: PRZN_RENSA  Len:    588  Check: 3392  Weight: -1.00
+
+//
+
+            1                                                   50
+1bqb_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PRT1_ERWCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ezm_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PRZN_RENSA  MKKYYAVTGI ALAVGMLCTT QLAGATQAAD PSVGSLDSSN VVTEFSAQGN
+
+            51                                                 100
+1bqb_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PRT1_ERWCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ezm_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PRZN_RENSA  VEQITFKSAI KSAPMSSARS AQTSAIIPGL KNLFVSAPGS DFSLNDSSNN
+
+            101                                                150
+1bqb_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PRT1_ERWCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ezm_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PRZN_RENSA  YIKRFTQNIA GIPVLGSSIT EVLDGQGAVT SAIGAVTSAT KGAFPADLAA
+
+            151                                                200
+1bqb_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PRT1_ERWCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MKS RPICSVIPPY
+1ezm_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PRZN_RENSA  GQAAALASAT KIASAGKDAS AISLVDQKAI WFDAVLIGKG ATGSVAVPAY
+
+            201                                                250
+1bqb_A      ~~~~AAATGT GKG......V LG.DTKDINI N......... SIDGG...FS
+PRT1_ERWCA  ILHRIIANGT DEQRHCAQQT LM.HVQSLMV SHHPRPEPHE KLPAGQANRS
+1ezm_       ~~~~AEAGGP GGNQKIGKYT YGSDYGPLIV ND........ RCEMDDGNVI
+PRZN_RENSA  QFSF..TTGF AESRVLT..V AA.NDGAILN DRTDRKDIN. RVV.CDANSK
+
+            251                                                300
+1bqb_A      LEDLTHQGKL SAYNFNDQTG QATLITNEDE NFVKDDQRAG VDANY.....
+PRT1_ERWCA  IHDAEQQQQL P......... .GKLVRAE.. GQPSNGDIAV DEAYS.....
+1ezm_       TVDMNSSTDD S......... KTTPFRF... ACPTNTYKQV NGAYSPLNDA
+PRZN_RENSA  VIDLEASNAD ALLKC.GKTQ ANKPTRI..E GQAASSVADV NSVYN.....
+
+            301                                                350
+1bqb_A      ..YAKQTYDY YKNTF..... ....GRESYD NHGSPIVSL. ...THVNHYG
+PRT1_ERWCA  ..YLGVTYDF FWKIF..... ....QRNSLD AEGLPLAGT. ...VH...YG
+1ezm_       HFFGGVVFKL YRDWFGT... .......... ...SPLTHKL YM...KVHYG
+PRZN_RENSA  ..FLNDTASF YGANTKANDL TALIGNDEGD GLGKAMRAVV RICVTDSQNG
+
+            351                                                400
+1bqb_A      GQDNRNNAAW IGDKMIYGDG DGRTFTNLSG ANDVVAHEIT HGVTQQTANL
+PRT1_ERWCA  ..QDYQNAFW NGQQMVFGDG DGKIFNRFTI ALDVVAHELT HGITENEAGL
+1ezm_       ..RSVENAYW DGTAMLFGDG ATMFYPL..V SLDVAAHEVS HGFTEQNSGL
+PRZN_RENSA  EQCPFANAFW YNGQMTYGQG VT........ TDDITGHELT HGVTEKTNGL
+
+            401                                                450
+1bqb_A      EYKDQSGALN ESFSDVFGYF VD........ ..DEDFLMGE DVYTPGKEGD
+PRT1_ERWCA  IYFRQSGALN ESLSDVFGSM VKQYHLG.QT TEQADWLIGA ELLADGIHGM
+1ezm_       IYRGQSGGMN EAFSDMAGEA AEFYMRG... ..KNDFLIGY DIK...KGSG
+PRZN_RENSA  VYANESGAIN ESMSDVFGEF IDLSNGSSDD TAANRWAIGE G.....SSLG
+
+            451                                                500
+1bqb_A      ALRSMSNPEQ .......... FGQPSHMKDY VYTEKDNGGV HTNSGIPNKA
+PRT1_ERWCA  GLRSMSHPGT AYDDELLG.I DPQPSHMNEY VNTREDNGGV HLNSGIPNRA
+1ezm_       ALRYMDQPSR DGRSI..... ........DN ASQYYNGIDV HHSSGVYNRA
+PRZN_RENSA  VIRSMKDPGK YGEPAIYKGS NWKP..TATN PNDNNDQGGV HSNSGVGNKL
+
+            501                                                550
+1bqb_A      AYNVIQA... ....IGKS.. .KSEQIYYRA LTE.YLTSNS NFKDLKDALY
+PRT1_ERWCA  FYLAAIA... ....LGGHSW EKAGRIWYDT LCDKTLPQNA DFEIFARHTI
+1ezm_       FYLLANSPGW DTRKAFE.VF VDANRYYWTA TSN....... .YNSGACGVI
+PRZN_RENSA  AFLITDGQTF NGQTVTGIGI AKAAQLYWAA Q..RQLTANA TYSSLGKALN
+
+            551                                   588
+1bqb_A      QAAKDLYEQQ T.......AE QVYEAWNEVG VE~~~~~~
+PRT1_ERWCA  QHAAKRFNHT V.......AD IVQQSWETVG VEVRQEFL
+1ezm_       RSAQN..... ....RNYSAA DVTRAFSTVG VTCP~~~~
+PRZN_RENSA  SACSANVSNN VAGTTAANCT QVANAIKAVG IK~~~~~~

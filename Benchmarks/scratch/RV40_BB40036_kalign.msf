@@ -1,0 +1,470 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40036_kalign.msf  MSF: 788  Type: N  December 21, 2021 20:32  Check: 2164  ..
+
+ Name: 1aiq_A      Len:    788  Check: 5248  Weight: 1.00
+ Name: 1b02_A      Len:    788  Check: 7128  Weight: 1.00
+ Name: TYSY_FUSNN  Len:    788  Check: 8653  Weight: 1.00
+ Name: TYSY_CLOAB  Len:    788  Check:  422  Weight: 1.00
+ Name: TYSY_STRP8  Len:    788  Check: 2852  Weight: 1.00
+ Name: TYSY_LACLA  Len:    788  Check: 4995  Weight: 1.00
+ Name: DUHM_BPSP1  Len:    788  Check: 4374  Weight: 1.00
+ Name: 1ci7_A      Len:    788  Check: 1604  Weight: 1.00
+ Name: 1j3i_C      Len:    788  Check: 9705  Weight: 1.00
+ Name: 1qzf_A      Len:    788  Check: 5714  Weight: 1.00
+ Name: TYSY_HUMAN  Len:    788  Check: 1783  Weight: 1.00
+ Name: TYSY_HSVE2  Len:    788  Check: 8877  Weight: 1.00
+ Name: TYSY_KSHV   Len:    788  Check: 5809  Weight: 1.00
+ Name: TYSY_HSVAT  Len:    788  Check: 2642  Weight: 1.00
+ Name: TYSY_VZVD   Len:    788  Check: 3923  Weight: 1.00
+ Name: TYSY_ASCSU  Len:    788  Check:  950  Weight: 1.00
+ Name: DRTS_SOYBN  Len:    788  Check: 3155  Weight: 1.00
+ Name: TYSY_DROME  Len:    788  Check: 9571  Weight: 1.00
+ Name: TYSY_ENCCU  Len:    788  Check: 3433  Weight: 1.00
+ Name: TYSY_YEAST  Len:    788  Check:  954  Weight: 1.00
+ Name: TYSY_CANAL  Len:    788  Check: 9307  Weight: 1.00
+ Name: TYSY_AGABI  Len:    788  Check: 4297  Weight: 1.00
+ Name: TYSY_CRYNE  Len:    788  Check:  329  Weight: 1.00
+ Name: DRTS_TRYCR  Len:    788  Check: 9036  Weight: 1.00
+ Name: DRTS_TOXGO  Len:    788  Check: 9826  Weight: 1.00
+ Name: DRTS_PARTE  Len:    788  Check: 1901  Weight: 1.00
+ Name: TYSY_HAEIN  Len:    788  Check: 9488  Weight: 1.00
+ Name: 1tis_       Len:    788  Check: 1264  Weight: 1.00
+ Name: TYSY_ZYMMO  Len:    788  Check: 4924  Weight: 1.00
+
+//
+
+1aiq_A         ------------------------------------------------------------
+1b02_A         ------------------------------------------------------------
+TYSY_FUSNN     ------------------------------------------------------------
+TYSY_CLOAB     ------------------------------------------------------------
+TYSY_STRP8     ------------------------------------------------------------
+TYSY_LACLA     ------------------------------------------------------------
+DUHM_BPSP1     ------------------------------------------------------------
+1ci7_A         ------------------------------------------------------------
+1j3i_C         ------------------------------------------------------------
+1qzf_A         ------------------------------------------------------------
+TYSY_HUMAN     ------------------------------------------------------------
+TYSY_HSVE2     ------------------------------------------------------------
+TYSY_KSHV      ------------------------------------------------------------
+TYSY_HSVAT     ------------------------------------------------------------
+TYSY_VZVD      ------------------------------------------------------------
+TYSY_ASCSU     ------------------------------------------------------------
+DRTS_SOYBN     ------------------------------------------------------------
+TYSY_DROME     ------------------------------------------------------------
+TYSY_ENCCU     ------------------------------------------------------------
+TYSY_YEAST     ------------------------------------------------------------
+TYSY_CANAL     ------------------------------------------------------------
+TYSY_AGABI     ------------------------------------------------------------
+TYSY_CRYNE     ------------------------------------------------------------
+DRTS_TRYCR     ------------------------------------------------------------
+DRTS_TOXGO     MQKPVCLVVAMTPKRGIGINNGLPWPHLTTDFKHFSRVTKTTPEEASRLNGWLPRKFAKT
+DRTS_PARTE     ------------------------------------------------------------
+TYSY_HAEIN     ------------------------------------------------------------
+1tis_          ------------------------------------------------------------
+TYSY_ZYMMO     ------------------------------------------------------------
+
+
+1aiq_A         ------------------------------------------------------------
+1b02_A         ------------------------------------------------------------
+TYSY_FUSNN     ------------------------------------------------------------
+TYSY_CLOAB     ------------------------------------------------------------
+TYSY_STRP8     ------------------------------------------------------------
+TYSY_LACLA     ------------------------------------------------------------
+DUHM_BPSP1     ------------------------------------------------------------
+1ci7_A         ------------------------------------------------------------
+1j3i_C         ------------------------------------------------------------
+1qzf_A         ----------------------------------EKNVSIVVAASVLSSGIGINGQLPWS
+TYSY_HUMAN     ------------------------------------------------------------
+TYSY_HSVE2     ------------------------------------------------------------
+TYSY_KSHV      ------------------------------------------------------------
+TYSY_HSVAT     ------------------------------------------------------------
+TYSY_VZVD      ------------------------------------------------------------
+TYSY_ASCSU     ------------------------------------------------------------
+DRTS_SOYBN     ----------------------MPSDSSVISNGHSNGSVNPLPNLQRTYQVVVAATQDWG
+TYSY_DROME     ------------------------------------------------------------
+TYSY_ENCCU     ------------------------------------------------------------
+TYSY_YEAST     ------------------------------------------------------------
+TYSY_CANAL     ------------------------------------------------------------
+TYSY_AGABI     ------------------------------------------------------------
+TYSY_CRYNE     ------------------------------------------------------------
+DRTS_TRYCR     ----------------------MSLFKIRMPETVAEGTRLAL----RAFSLVVAVDEHGG
+DRTS_TOXGO     GDSGLPSPSVGKRFNAVVMGRKTWESMPRKFRPLVDRLNIVVSSSLKEEDIAAEKPQAEG
+DRTS_PARTE     ------------------------------------------------------------
+TYSY_HAEIN     ------------------------------------------------------------
+1tis_          ------------------------------------------------------------
+TYSY_ZYMMO     ------------------------------------------------------------
+
+
+1aiq_A         ------------------------------------------------------------
+1b02_A         ------------------------------------------------------------
+TYSY_FUSNN     ------------------------------------------------------------
+TYSY_CLOAB     ------------------------------------------------------------
+TYSY_STRP8     ------------------------------------------------------------
+TYSY_LACLA     ------------------------------------------------------------
+DUHM_BPSP1     ------------------------------------------------------------
+1ci7_A         ------------------------------------------------------------
+1j3i_C         ------------------------------------------------------------
+1qzf_A         ISEDLKFFSKITNNKCDSNKKNALIMGRKTWDSIGRRPLKNRIIVVISSSLPQDEADPNV
+TYSY_HUMAN     ------------------------------------------------------------
+TYSY_HSVE2     ------------------------------------------------------------
+TYSY_KSHV      ------------------------------------------------------------
+TYSY_HSVAT     ------------------------------------------------------------
+TYSY_VZVD      ------------------------------------------------------------
+TYSY_ASCSU     ------------------------------------------------------------
+DRTS_SOYBN     IGKDGKLPWRLPTDLKFFKEITMKTSEPGKKNAIVMGRKTWESIPLEYRPLSGRLNVVLT
+TYSY_DROME     ------------------------------------------------------------
+TYSY_ENCCU     ------------------------------------------------------------
+TYSY_YEAST     ------------------------------------------------------------
+TYSY_CANAL     ------------------------------------------------------------
+TYSY_AGABI     ------------------------------------------------------------
+TYSY_CRYNE     ------------------------------------------------------------
+DRTS_TRYCR     IGDGRSIPWNVPEDMKFFRDLTTKLRGKNVKPS-PAKRNAVVMGRKTWDSIPPKFRPLPG
+DRTS_TOXGO     QQRVRVCASLPAALSLLEEEYKDSVDQIFVVGGAGLYEAALSLGVASHL-YITRVAREFP
+DRTS_PARTE     ------------------------------MTTNKTFSMVLAMTLNGGIGYQNRLPWKLK
+TYSY_HAEIN     ------------------------------------------------------------
+1tis_          ------------------------------------------------------------
+TYSY_ZYMMO     ------------------------------------------------------------
+
+
+1aiq_A         ------------------------------------------------------------
+1b02_A         ------------------------------------------------------------
+TYSY_FUSNN     ------------------------------------------------------------
+TYSY_CLOAB     ------------------------------------------------------------
+TYSY_STRP8     ------------------------------------------------------------
+TYSY_LACLA     ------------------------------------------------------------
+DUHM_BPSP1     ------------------------------------------------------------
+1ci7_A         ------------------------------------------------------------
+1j3i_C         ------------------------------------------------------------
+1qzf_A         VVFRNLEDSIENLMNDDSIENI-FVCGGESIYRDALKDNFVDRIYLTRVALEDIEFDTYF
+TYSY_HUMAN     ------------------------------------------------------------
+TYSY_HSVE2     ------------------------------------------------------------
+TYSY_KSHV      ------------------------------------------------------------
+TYSY_HSVAT     ------------------------------------------------------------
+TYSY_VZVD      ------------------------------------------------------------
+TYSY_ASCSU     ------------------------------------------------------------
+DRTS_SOYBN     RSGSFDIATAENVVICGSMSSALELLAASPYSLSIEKVFVIGGGQIFREALNVPGCEAIH
+TYSY_DROME     ------------------------------------------------------------
+TYSY_ENCCU     ------------------------------------------------------------
+TYSY_YEAST     ------------------------------------------------------------
+TYSY_CANAL     ------------------------------------------------------------
+TYSY_AGABI     ------------------------------------------------------------
+TYSY_CRYNE     ------------------------------------------------------------
+DRTS_TRYCR     RLNVVLSSTLTTQHLLDGLPDE-EKRNLHADSIVAVNGGLEQALRLLASPNYTPSIETVY
+DRTS_TOXGO     CDV--FFPAFPGDDILSNKSTAAQAAAPAESVFVPFCPELGREKDNEATYRPIFISKTFS
+DRTS_PARTE     EDLQRFKKITTGGIVIMGRKTFESMNSKPLPNRVNVVISKNMKSSNEVQVFPRIEDALQF
+TYSY_HAEIN     ------------------------------------------------------------
+1tis_          ------------------------------------------------------------
+TYSY_ZYMMO     ------------------------------------------------------------
+
+
+1aiq_A         ------------------------------------------------------------
+1b02_A         ------------------------------------------------------------
+TYSY_FUSNN     ------------------------------------------------------------
+TYSY_CLOAB     ------------------------------------------------------------
+TYSY_STRP8     ------------------------------------------------------------
+TYSY_LACLA     ------------------------------------------------------------
+DUHM_BPSP1     ------------------------------------------------------------
+1ci7_A         ------------------------------------------------------------
+1j3i_C         ----------------------------------------DDDEEEDDFVYFNFNKEKEE
+1qzf_A         PEIPETFLPVYMSQTFCTKNISYDFMIFEKQEKKTLQNCDPARGQLKSIDDTVDLLGEIF
+TYSY_HUMAN     ------------------------------------------------------------
+TYSY_HSVE2     ------------------------------------------------------------
+TYSY_KSHV      -----------------------------------MFPFVPLSLYVAKKLFRARGFRFCQ
+TYSY_HSVAT     ------------------------------------------------------------
+TYSY_VZVD      ------------------------------------------------------------
+TYSY_ASCSU     ------------------------------------------------------------
+DRTS_SOYBN     LTEIQSSIECDTFMPPVDFTIFRPWYSSFPKVENNIRYSFTTYVRVRSSAAESAGQNIDP
+TYSY_DROME     --------------------------------------------MVLTPTKDGPDQESMP
+TYSY_ENCCU     ------------------------------------------------------------
+TYSY_YEAST     ------------------------------------------------------------
+TYSY_CANAL     ------------------------------------------------------------
+TYSY_AGABI     ------------------------------------------------------------
+TYSY_CRYNE     ------------------------------------------------------------
+DRTS_TRYCR     CIG-GGSVYAEALRPPC-VHLLQAIYRTTIRA---SESSCSVFFRVPESGTEAAAGIEWQ
+DRTS_TOXGO     DNGVPYDFVVLEKRRKTDDAATAEPSNAMSSLTSTRETTPVHGLQAPSSAAAIAPVLAWM
+DRTS_PARTE     YNTSHQKLYLIGGKRIFEEGLATDKCSDVHLTRIGVETKCDVYLNKNIFSTFQVNKTSQT
+TYSY_HAEIN     ------------------------------------------------------------
+1tis_          ------------------------------------------------------------
+TYSY_ZYMMO     ------------------------------------------------------------
+
+
+1aiq_A         -----------------------------XKQYLELMQKVLDEGT-QKND---RTGT---
+1b02_A         ------------------------M-TQFDKQYNSIIKDIINNGI-SDEEFDVRTKWDSD
+TYSY_FUSNN     ------------------------MKARFDKIYKDIVDTIAEKGI-WSEG-NVRTKY-AD
+TYSY_CLOAB     ------------------------M-SKADEKYLDIIENILENGY-YDNN---RTGIETY
+TYSY_STRP8     ------------------------M-TKADQIFKANIQKIINEGS-LSEQ--ARPKY-KD
+TYSY_LACLA     ------------------------M-TYADKIFKQNIQNILDNGV-FSEN--ARPKY-KD
+DUHM_BPSP1     --------------------MYTFSGSKPTQLYMDILSTVIKEGD-VLAP---RGKR---
+1ci7_A         --------------------------NAEEQQYLNLVQYIINHGE-DRPD---RTGT---
+1j3i_C         KNKNSIHPNDFQIYN------SLKYKYHPEYQYLNIIYDIMMNGN-KQSD---RTGV---
+1qzf_A         GIRKMGNRHKFPKEEIYNTPSIRFGREHYEFQYLDLLSRVLENGA-YREN---RTGI---
+TYSY_HUMAN     -PVAGSELPRRPLPPAAQERDAEPRPPHGELQYLGQIQHILRCGV-RKDD---RTGT---
+TYSY_HSVE2     ------------------------MVTHCEHQYLNTVREILANGV-RRGD---RTGV---
+TYSY_KSHV      KPGVLALAPEVD-PCSIQHEVTGAETPHEELQYLRQLREILCRGS-DRLD---RTGI---
+TYSY_HSVAT     -----------------------MEELHAEHQYLSQVKHILNCGN-FKHD---RTGV---
+TYSY_VZVD      ---------MGDLSCWTK---VPGFTLTGELQYLKQVDDILRYGV-RKRD---RTGI---
+TYSY_ASCSU     --------------------MEGANVNEDERKYLRQIKHIIDEGD-KVID---RTGV---
+DRTS_SOYBN     LLDNNSESMKFEVKDFSF-LPKMISERHEEYLYLKLVQDIIAEGT-TKGD---RTGT---
+TYSY_DROME     LPADNGESPS----------KQQAPVNRDEMHYLDLLRHIIANGE-QRMD---RTEV---
+TYSY_ENCCU     ---------------------MPQDPRHPEHQYLDLVKHILENGA-RRMD---RTGT---
+TYSY_YEAST     --------------------MTMDGKNKEEEQYLDLCKRIIDEGE-FRPD---RTGT---
+TYSY_CANAL     ---------------------TVS-PNTAEQAYLDLCKRIIDEGE-HRPD---RTGT---
+TYSY_AGABI     --------------------------MHDEDQYLHLIRRVLDTGD-LRPD---RTGT---
+TYSY_CRYNE     ----------MTATIDDQEKNQRSNPDHEEYQYLDLIRRIINVGE-VRPD---RTGT---
+DRTS_TRYCR     RETISEELTSANGNETKYYFEKLIPRNREEEQYLSLVDRIIREGN-VKHD---RTGV---
+DRTS_TOXGO     DEEDRKKREQKELIRAVP---HVHFRGHEEFQYLDLIADIINNGR-TMDD---RTGV---
+DRTS_PARTE     KSENGINYDYQHLINKNSHEQSYIDEEHQENQYLDMITKIMKEGV-SKDD---RTGV---
+TYSY_HAEIN     -----------------------------MKQYLELCRRIVSEGEWVANE---RTGK---
+1tis_          -----------------------------MKQYQDLIKDIFENGY-ETDD---RTGT---
+TYSY_ZYMMO     ------------------------MSEH---QYLRLVSDILEKGD-QRHD---RTGV---
+
+
+1aiq_A         ----GTLSIFG-HQMRFNLQDG-FPLVTTKRCHLRSIIHELLWFLQGDTNIAYL----HE
+1b02_A         GTPAHTLSVIS-KQMRFD-NS-EVPILTTKKVAWKTAIKELLWIWQLKSNDVND--LNMM
+TYSY_FUSNN     GTAAHYKSYIG-YQFRLDNSDDEAHLITSRFAPSKAPIRELYWIWILQSNNVDV--LNEL
+TYSY_CLOAB     KLP-HQI-------MQFDLSK-EFPILTTKFVAFKTSVKELLWIYKDQSNDVRK--LQNE
+TYSY_STRP8     GRTAHSKYITG-AFAEYDLAKGEFPITTLRPIPIKSAIKELFWIYQDQSNSLDV--LEAK
+TYSY_LACLA     GQTANSKYVTG-SFVTYDLQKGEFPITTLRPIPIKSAIKELMWIYQDQTSELAI--LEEK
+DUHM_BPSP1     ------IKEIRPVMIEFKNPIRRTTFLKGRNINPFFQVAESLWILAGRSDVGFL--LDYN
+1ci7_A         ----GTLSVFAPSPLKFSLRNKTFPLLTTKRVFIRGVIEELLWFIRGETDSLKL----RE
+1j3i_C         ----GVLSKFG-YIMKFDLS-QYFPLLTTKKLFLRGIIEELLWFIRGETNGNTL----LN
+1qzf_A         ----STYSIFG-QMMRFDMRES-FPLLTTKKVAIRSIFEELIWFIKGDTNGNHL----IE
+TYSY_HUMAN     ----GTLSVFG-MQARYSLRDE-FPLLTTKRVFWKGVLEELLWFIKGSTNAKEL----SS
+TYSY_HSVE2     ----GTLSVFG-DQAKYSLRGQ-FPLLTTKRVFWRGVLEELLWFIRGSTDSNEL----SA
+TYSY_KSHV      ----GTLSLFG-MQARYSLRDH-FPLLTTKRVFWRGVVQELLWFLKGSTDSREL----SR
+TYSY_HSVAT     ----GTLSVFG-MQSRYSLEKD-FPLLTTKRVFWRGVVEELLWFIRGSTDSKEL----AA
+TYSY_VZVD      ----GTLSLFG-MQARYNLRNE-FPLLTTKRVFWRAVVEELLWFIRGSTDSKEL----AA
+TYSY_ASCSU     ----GTLSLFG-LHSTYSLRNGVIPLLTTKRVYWKGVVEELLWFIKGDTDAKRL----SA
+DRTS_SOYBN     ----GTLSKFG-CQMRFNLRGN-FPLLTTKKVFWRGVVEELLWFISGSTNAKVL----QE
+TYSY_DROME     ----GTLSVFG-SQMRFDMRNS-FPLLTTKRVFFRAVAEELLWFVAGKTDAKLL----QA
+TYSY_ENCCU     ----GALSVFG-ATMRFSLEDNTFPLLTTRRVFYRGVVEELLFFLRGETDSKVL----EK
+TYSY_YEAST     ----GTLSLFAPPQLRFSLRDDTFPLLTTKKVFTRGIILELLWFLAGDTDANLL----SE
+TYSY_CANAL     ----GTKSLFAPPQLRFDLSNDTFPLLTTKKVFSKGIIHELLWFVAGSTDAKIL----SE
+TYSY_AGABI     ----GTISLFAPPNLRFSLRESTVPLLTTKRTFLRGIVEELLWFTNGLTDSKIL----SD
+TYSY_CRYNE     ----GTVALFAPPSFRFSLADNTLPLLTTKRVFLRGVIAELLWFVSGCTDAKML----SS
+DRTS_TRYCR     ----GTLSIFG-AQMRFSLRNNRLPLLTTKRVFWRGVCEELLWFLRGETYAKKL----SD
+DRTS_TOXGO     ----GVISKFG-CTMRYSLD-QAFPLLTTKRVFWKGVLEELLWFIRGDTNANHL----SE
+DRTS_PARTE     ----GTMSIFG-QTMRFNLA-QSFPLLTTKKVFFRGVVEELLWFLRGNTNGKLL----LD
+TYSY_HAEIN     ----HCLTVIN-ADLEYDVANNQFPLITTRKSYWKAAIAEFLGYIRGYDNAADF----RA
+1tis_          ----GTIALFG-SKLRWDLTKG-FPAVTTKKLAWKACIAELIWFLSGSTNVNDLRLIQHD
+TYSY_ZYMMO     ----GTLSLFG-AMMRFDLSKGRIPILTTKKVSYRLAIREMLWFLSGDTNIRPL----VE
+
+
+1aiq_A         NNV---TIWDEWADEN----------------------------G-DLGPVYGKQWRAWP
+1b02_A         -GV---HIWDQWKQE----------------------------DG-TIGHAYGFQLGKKN
+TYSY_FUSNN     -GC---KFWDEWKMQ----------------------------DG-TIGKAYGYQIAQET
+TYSY_CLOAB     -NV---TIWDEWMLE----------------------------DG-TIGKAYGYQVAK--
+TYSY_STRP8     YNV---HYWNEWEVD----------------------------QTRTIGQRYGAVVKK--
+TYSY_LACLA     YGV---KYWGEWGIG----------------------------DG-TIGQRYGATVKK--
+DUHM_BPSP1     KNM---GQFSDDGV--------------------------------FFNAPYGERLRFWN
+1ci7_A         KNI---HIWDANGSREYLDSIG--LTKRQ--------------EG-DLGPIYGFQWRHFG
+1j3i_C         KNV---RIWEANGTREFLDNRK--LFHRE--------------VN-DLGPIYGFQWRHFG
+1qzf_A         KKV---YIWSGNGSKEYLERIG--LGHRE--------------EN-DLGPIYGFQWRHYN
+TYSY_HUMAN     KGV---KIWDANGSRDFLDSLG--FSTRE--------------EG-DLGPVYGFQWRHFG
+TYSY_HSVE2     RGV---KIWDANGSRDFLARAG--LGHRE--------------PG-DLGPVYGFQWRHFG
+TYSY_KSHV      TGV---KIWDKNGSREFLAGRG--LAHRR--------------EG-DLGPVYGFQWRHFG
+TYSY_HSVAT     SGV---HIWDANGSRSYLDKLG--LFDRE--------------EG-DLGPVYGFQWRHFG
+TYSY_VZVD      KDI---HIWDIYGSSKFLNRNG--FHKRH--------------TG-DLGPIYGFQWRHFG
+TYSY_ASCSU     KGV---KIWDANGSREFLDSQG--FKDRP--------------EG-DLGPIYGFQWRHFG
+DRTS_SOYBN     KGI---HIWDGNASREYLDGVG--LTERE--------------EG-DLGPVYGFQWRHFG
+TYSY_DROME     KNV---HIWDGNSSREFLDKMG--FTGRA--------------VG-DLGPVYGFQWRHFG
+TYSY_ENCCU     KGV---RIWEKNGAKQFLQSVG--ID-RE--------------EG-DLGPIYGFQWRHFG
+TYSY_YEAST     QGV---KIWDGNGSREYLDKMG--FKDRK--------------VG-DLGPVYGFQWRHFG
+TYSY_CANAL     KGV---KIWEGNGSREFLDKLG--LTHRR--------------EG-DLGPVYGFQWRHFG
+TYSY_AGABI     KGV---KIWDGNGSKAFLESRG--LGHRR--------------EG-DLGPVYGFQWRHFG
+TYSY_CRYNE     QGV---GIWDGNGSKEFLEKVG--LGHRR--------------EG-DLGPVYGFQWRHFG
+DRTS_TRYCR     KGV---HIWDDNGSRAFLDSRG--LTEYE--------------EM-DLGPVYGFQWRHFG
+DRTS_TOXGO     KGV---KIWDKNVTREFLDSRN--LPHRE--------------VG-DIGPGYGFQWRHFG
+DRTS_PARTE     KGV---KIWEGNGTREYLDTIG--LQHRQ--------------EH-DLGPVYGFQWRHFG
+TYSY_HAEIN     LGT---KTWDANANENAAWLAN---PHRR-------------GVD-DMGRVYGVQGRAWR
+1tis_          SLIQGKTVWDENYENQAKD------LGYH--------------SG-ELGPIYGKQWR---
+TYSY_ZYMMO     QGV---SIWSDWPLARYQAETGALLSKKEFEAKILADTEFAKKWG-DLGPVYGRQWRRWQ
+
+
+1aiq_A         TP--------DGRHIDQITTVLNQLKNDPDSERIIVSAWNV--GELDKM-ALAPCHAFFQ
+1b02_A         RS-------LNGEKVDQVDYLLHQLKNNPSSRRHITMLWNP--DELDAM-ALTPCVYETQ
+TYSY_FUSNN     ----------FGQ-KSQLHYVINELKKNPNSRRIMTEIWIP--NELSEM-ALTPCVHLTQ
+TYSY_CLOAB     --------------FKQIDNLIDTLKTDPQSRRMLISLWNI--ADLKDM-SLTPCCYETL
+TYSY_STRP8     --------------HDIISKILKQLAENPWNRRNVISLWDY--EAFEETKGLLPCAFQIM
+TYSY_LACLA     --------------YNIIGKLLDGLAKNPWNRRNIINLWQY--EDFEETEGLLPCAFQTM
+DUHM_BPSP1     RSDAN---NFIYNPLDQLRDVYEKIKADPDTRQAVAVIYNPLFDNINNDTKDRPCNLLLS
+1ci7_A         AEYIDCKTNYIGQGVDQLANIIQKIRTSPYDRRLILSAWNP--ADLEKM-ALPPCHMFCQ
+1j3i_C         AEYTNMYDNYENKGVDQLKNIINLIKNDPTSRRILLCAWNV--KDLDQM-ALPPCHILCQ
+1qzf_A         GEYKTMHDDYTGVGVDQLAKLIETLKNNPKDRRHILTAWNP--SALSQM-ALPPCHVLSQ
+TYSY_HUMAN     AEYRDMESDYSGQGVDQLQRVIDTIKTNPDDRRIIMCAWNP--RDLPLM-ALPPCHALCQ
+TYSY_HSVE2     AAYVDSKTDYRGQGVDQLRDLIGEIKRNPESRRLVLTAWNP--ADLPAM-ALPPCHLLCQ
+TYSY_KSHV      AAYVDADADYTGQGFDQLSYIVDLIKNNPHDRRIIMCAWNP--ADLSLM-ALPPCHLLCQ
+TYSY_HSVAT     AEYQGLKHNYGGEGVDQLKQIINTIHTNPTDRRMLMCAWNV--LDVPKM-ALPPCHVLSQ
+TYSY_VZVD      AEYKDCQSNYLQQGIDQLQTVIDTIKTNPESRRMIISSWNP--KDIPLM-VLPPCHTLCQ
+TYSY_ASCSU     AEYHGTDADYKGQGVDQLADVIEQIKNNPNSRRIILNAWNV--KDLHQM-ALPPCHTLAQ
+DRTS_SOYBN     ARYTDMHHDYSGQGFDQLLDVINKIKRNPDDRRIILSAWNP--VDLKLM-ALPPCHMFAQ
+TYSY_DROME     AQYGTCDDDYSGKGIDQLRQVIDTIRNNPSDRRIIMSAWNP--LDIPKM-ALPPCHCLAQ
+TYSY_ENCCU     ARYETSASSYEGKGVDQIASAIAAIRANPASRRIVVSAWNP--TDLGSM-ALPPCHVLFQ
+TYSY_YEAST     AKYKTCDDDYTGQGIDQLKQVIHKLKTNPYDRRIIMSAWNP--ADFDKM-ALPPCHIFSQ
+TYSY_CANAL     AEYKDCDSDYTGQGFDQLQDVIKKLKTNPYDRRIIMSAWNP--PDFAKM-ALPPCHVFCQ
+TYSY_AGABI     AEYEDCDADYAGKGVDQLRECIRKIKENPTDRRIILSAWNP--KDIPSM-ALPPCHMLCQ
+TYSY_CRYNE     AEYTDADGDYKGKGVDQLQRVIDTIKNNPTDRRIILSAWNP--KDLPLM-ALPPCHMFCQ
+DRTS_TRYCR     AAYTHHDANYDGQGVDQIKAIVETLKTNPDDRRMLFTAWNP--SALPRM-ALPPCHLLAQ
+DRTS_TOXGO     AAYKDMHTDYTGQGVDQLKNVIQMLRTNPTDRRMLMTAWNP--AALDEM-ALPPCHLLCQ
+DRTS_PARTE     AKYKDCQTDYSNQGVDQVKEIIQLLKNNPDSRRIILSAWNP--IDLKQM-ALPPCHVMSQ
+TYSY_HAEIN     KP--------NGETIDQLRKIVNNLTKGIDDRGEILTFFNP--GEFDLG-CLRPCMHTHT
+1tis_          ----------DFGGVDQIIEVIDRIKKLPNDRRQIVSAWNP--AELKYM-ALPPCHMFYQ
+TYSY_ZYMMO     GS--------DGQVYDQIATLIETLKSNPSSRRMLFHGWNV--AELKDM-ALPPCHMVYQ
+
+
+1aiq_A         FYV------------------ADGK-LSCQ--LYQRSCDVFLG-LPFNIASYALLVHMMA
+1b02_A         WYVK------------------HGK-LHLE--VRARSNDMALG-NPFNVFQYNVLQRMIA
+TYSY_FUSNN     WSVI------------------GNK-LYLE--VRQRSCDVALG-LVANVFQYSVLHKLVA
+TYSY_CLOAB     WDVQ------------------NGK-LNCM--LVQRSGDMPLG-VPFNMCQYAVLVHLIA
+TYSY_STRP8     FDVRR---------------VGE-D-LYLDASLTQRSNDILVA-HHINAMQYVALQMMIA
+TYSY_LACLA     FDVRR---------------EQDGQ-IYLDATLIQRSNDMLVA-HHINAMQYVALQMMIA
+DUHM_BPSP1     FKL------------------RNGK-LDLS--VYNRSNDLHWGTFGANLCQFSTILEAMA
+1ci7_A         FYVHI---------------PSRPE-LSCQ--LYQRSCDMGLG-VPFNIASYALLTCMIA
+1j3i_C         FYV------------------FDGK-LSCI--MYQRSCDLGLG-VPFNIASYSIFTHMIA
+1qzf_A         YYV-----------------TNDNC-LSCN--LYQRSCDLGLG-SPFNIASYAILTMMLA
+TYSY_HUMAN     FYV------------------VNSE-LSCQ--LYQRSGDMGLG-VPFNIASYALLTYMIA
+TYSY_HSVE2     FYV------------------AGGE-LSCQ--LYQRSGDMGLG-VPFNIASYSLLTYMVA
+TYSY_KSHV      FYV------------------ADGE-LSCQ--LYQRSGDMGLG-VPFNIASYSLLTYMLA
+TYSY_HSVAT     FYV------------------CDGK-LSCQ--LYQRSADMGLG-VPFNIASYSLLTCMIA
+TYSY_VZVD      FYV------------------ANGE-LSCQ--VYQRSGDMGLG-VPFNIAGYALLTYIVA
+TYSY_ASCSU     FAV------------------KNGE-LSCQ--LYQRSGDMGLG-VPFNLASYGLLTHMIA
+DRTS_SOYBN     FYV------------------AHGE-LSCQ--MYQRSADMGLG-IPFNIASYALLTCMIA
+TYSY_DROME     FYVS----------------EKRGE-LSCQ--LYQRSADMGLG-VPFNIASYALLTHMIA
+TYSY_ENCCU     FNV------------------TDGK-LSCA--MYQRSGDMGLG-VPFNIASYSLLTILVA
+TYSY_YEAST     FYVSF-PKEGEG--------SGKPR-LSCL--LYQRSCDMGLG-VPFNIASYALLTRMIA
+TYSY_CANAL     FYVNF-PTSSPDPNNPKQAKTAKPK-LSCL--LYQRSCDMGLG-VPFNIASYALLTKMIA
+TYSY_AGABI     FYVHL-PADT-----------AKPE-LSCL--MFQRSADLGLG-IPFNIASYALLTHMIA
+TYSY_CRYNE     FFVSLPPADSPG---------SKPK-LSCL--MYQRSCDLGLG-VPFNIASYALLTHMIA
+DRTS_TRYCR     FYV------------------SNGE-LSCM--LYQRSCDMGLG-VPFNIASYALLTILIA
+DRTS_TOXGO     FYV------------------NDQKELSCI--MYQRSCDVGLG-VPFNIASYSLLTLMVA
+DRTS_PARTE     FFV------------------ANGK-LSCM--MYQRSCDFGLG-IPFNIASYALLTYMLA
+TYSY_HAEIN     FSL------------------VGDT-LHLT--SYQRSCDVPLG-LNFNQIQVFTFLALMA
+1tis_          FNV------------------RNGY-LDLQ--WYQRSVDVFLG-LPFNIASYATLVHIVA
+TYSY_ZYMMO     YHV-----------------TSDGR-LNSL--LYQRSADVFLG-AAFQFGRRGRLQAMLA
+
+
+1aiq_A         QQCDLEVGDFVWTGGDTHLYSNHMDQTHL-QLSR----------EP--RPLPKLIIKRKP
+1b02_A         QVTGYELGEYIFNIGDCHVYTRHIDNLKI-QMER----------EQ--FEAPELWIN---
+TYSY_FUSNN     LECGLEPAEIIWNIHNMHIYDRHYDKLIE-QVNR----------ET--FEPAKIKIN---
+TYSY_CLOAB     QVTGLKPGLFTHVINNAHIYKNQIEGMKI-QLKR----------RDKAYEAPKLWIN---
+TYSY_STRP8     KHFGWKIGKFFYFVNNLHIYDNQFDQAQE-LLKR----------QP-VASQPKLVLNV--
+TYSY_LACLA     KHFSWKVGKFFYFVNNLHIYDNQFEQANE-LVKR----------TA-SDKEPRLVLNV--
+DUHM_BPSP1     TWLGVEVGSYYQITDSLHVYLDDYGAKITEDIQKVYGVNLETDEAPVVEDFEELLDPNPR
+1ci7_A         HVCDLDPGDFIHVMGDCHIYKDHIEALQQ-QLTR----------SP--RPFPTLSLNR--
+1j3i_C         QVCNLQPAQFIHVLGNAHVYNNHIDSLKI-QLNR----------IP--YPFPTLKLNP--
+1qzf_A         QVCGYEPGELAIFIGDAHIYENHLTQLKE-QLSR----------TP--RPFPQLKFKR--
+TYSY_HUMAN     HITGLKPGDFIHTLGDAHIYLNHIEPLKI-QLQR----------EP--RPFPKLRILR--
+TYSY_HSVE2     HLTGLEPGDFIHVLGDAHVYLNHVEPLKL-QLTR----------SP--RPFPRLRILR--
+TYSY_KSHV      HVTGLRPGEFIHTLGDAHIYKTHIEPLRL-QLTR----------TP--RPFPRLEILR--
+TYSY_HSVAT     HVTDLVPGEFIHTLGDAHVYVNHVDALTE-QLTR----------TP--RPFPTLKFAR--
+TYSY_VZVD      HVTGLKTGDLIHTMGDAHIYLNHIDALKV-QLAR----------SP--KPFPCLKIIR--
+TYSY_ASCSU     HVCALKTGFLHHVLGDAHVYLNHIDALKE-QLSR----------DP--RPFPTVHFEG--
+DRTS_SOYBN     HVCDLIPGDFIHVIGDAHIYRNHVRPLQE-QLHN----------QP--KPFPTLKINP--
+TYSY_DROME     HVTGLKPGDFVHTMGDTHVYLNHVEPLKE-QLER----------TP--RPFPKLIIKR--
+TYSY_ENCCU     HLTGLQPGEFVHFLGDAHVYLDHVDSLRQ-QIQR----------PP--RAFPKLFVSP--
+TYSY_YEAST     KVVDMEPGEFIHTLGDAHVYKDHIDALKE-QITR----------NP--RPFPKLKIKR--
+TYSY_CANAL     HVVDMDCGEFIHTLGDAHVYLDHIDALKE-QFER----------IP--KQFPKLVIKEER
+TYSY_AGABI     HVTGTTARELIIQLGDAHVYRDHVEALEV-QLQR----------EP--RPFPKLRWAR--
+TYSY_CRYNE     LITDTEPHEFILQMGDAHVYRDHVEPLKT-QLER----------EP--RDFPKLKWARS-
+DRTS_TRYCR     KATGLRPGELVHTLGDAHVYSNHVEPCNE-QLKR----------VP--RAFPYLVFRR--
+DRTS_TOXGO     HVCNLKPKEFIHFMGNTHVYTNHVEALKE-QLRR----------EP--RPFPIVNILN--
+DRTS_PARTE     KECNLNLGEFVHVLGDTHIYSNHVEALKK-QIER----------VP--YPFPLLKI----
+TYSY_HAEIN     QITGKKAGKAYHKIVNAHIYEDQLELMRDVQLKR----------EP--FPLPKLEINP--
+1tis_          KMCNLIPGDLIFSGGNTHIYMNHVEQCKE-ILRR----------EP--KELCELVISGLP
+TYSY_ZYMMO     DQAGLALGDLVWTGGDVHIYRNHIDQMKN-SLPV----------TS---GFSRLELTR--
+
+
+1aiq_A         ------------ESIFDY----RFEDFEIEGYDP-HPGIKAPVAI---------------
+1b02_A         ---------PEVKDFYDF----TIDDFKLINYKH-GDKLLFEVAV---------------
+TYSY_FUSNN     ----------NFKSIFDF----KPDDIEIIDYKY-GEKVSYEVAI---------------
+TYSY_CLOAB     ---------PNIKNFYDF----TADDIKLIDYKH-HDKIKMEVAV---------------
+TYSY_STRP8     ---------PDGTNFFDI----KPDDFELQNYDPVKPQLHFDLAI---------------
+TYSY_LACLA     ---------PDGTNFFDI----KPEDFELVDYEPVKPQLKFDLAI---------------
+DUHM_BPSP1     M-------SYTMNELNQF----LNEYFGIVDSLMRDDETYMHDGDCAQMLLNQIRHEPDE
+1ci7_A         ----------SITDIEDF----TLDDFNIQNYHP-YETIKMKMSI---------------
+1j3i_C         --------D-IKNIED-F----TISDFTIQNYVH-HEKISMDMAA---------------
+1qzf_A         ----------KVENIEDF----KWEDIELIGYYP-YPTIKMDMAV---------------
+TYSY_HUMAN     ----------KVEKIDDF----KAEDFQIEGYNP-HPTIKMEMAV---------------
+TYSY_HSVE2     ----------RVEDIDDF----RAEDFALEGYHP-HAAIPMEMAV---------------
+TYSY_KSHV      ----------SVSSMEEF----TPDDFRLVDYCP-HPTIRMEMAV---------------
+TYSY_HSVAT     ----------KVASIDDF----KANDIILENYNP-YPSIKMPMAV---------------
+TYSY_VZVD      ----------NVTDINDF----KWDDFQLDGYNP-HPPLKMEMAL---------------
+TYSY_ASCSU     ----------RIDSIDDF----TAESIILNGYNP-MAPIKMPMAV---------------
+DRTS_SOYBN     ----------KKKDIDSF----VAADFKLIGYDP-HQKIDMKLSV---------------
+TYSY_DROME     ----------QVQDIEDF----RFEDFQIVDYNP-HPKIQMDMAV---------------
+TYSY_ENCCU     --------KGPRTEPEHF----QYEDFELVGYDP-HPAIKMNMSA---------------
+TYSY_YEAST     ----------DVKDIDDF----KLTDFEIEDYNP-HPRIQMKMSV---------------
+TYSY_CANAL     --------KNEIKSIDDF----KFEDFEIVGYEP-YPPIKMKMSV---------------
+TYSY_AGABI     ---------DGITDIEDF----EYSDFVIEGYNP-HPSIAMKMSV---------------
+TYSY_CRYNE     --------KEEIGDIDGF----KVEDFVVEGYKP-WGKIDMKMSA---------------
+DRTS_TRYCR     ----------EREFLEDY----EEGDMEVIDYAP-YPPISMKMAV---------------
+DRTS_TOXGO     --------KERIKEIDDF----TAEDFEVVGYVP-HGRIQMEMAV---------------
+DRTS_PARTE     --------KGNKSLFD-Y----TYEDFELVGYNA-HDKIEMKMAV---------------
+TYSY_HAEIN     ----------DIKTLEDLETWVTMDDFKVVGYQS-HEPIKYPFSV---------------
+1tis_          YKFRYLSTKEQLKYVLKL----RPKDFVLNNYVS-HPPIKGKMAV---------------
+TYSY_ZYMMO     ----------HPNSITDY----KSRILRLQDMIL-IPPIKGAVAV---------------
+
+
+1aiq_A         ------------------------------------------------------------
+1b02_A         ------------------------------------------------------------
+TYSY_FUSNN     ------------------------------------------------------------
+TYSY_CLOAB     ------------------------------------------------------------
+TYSY_STRP8     ------------------------------------------------------------
+TYSY_LACLA     ------------------------------------------------------------
+DUHM_BPSP1     YIKVTLLLMVAKQALNRGMKDTVATAMNWIPLCEIKVSALRFLYKSYPEYINQYDLDEKL
+1ci7_A         ------------------------------------------------------------
+1j3i_C         ------------------------------------------------------------
+1qzf_A         ------------------------------------------------------------
+TYSY_HUMAN     ------------------------------------------------------------
+TYSY_HSVE2     ------------------------------------------------------------
+TYSY_KSHV      ------------------------------------------------------------
+TYSY_HSVAT     ------------------------------------------------------------
+TYSY_VZVD      ------------------------------------------------------------
+TYSY_ASCSU     ------------------------------------------------------------
+DRTS_SOYBN     ------------------------------------------------------------
+TYSY_DROME     ------------------------------------------------------------
+TYSY_ENCCU     ------------------------------------------------------------
+TYSY_YEAST     ------------------------------------------------------------
+TYSY_CANAL     ------------------------------------------------------------
+TYSY_AGABI     ------------------------------------------------------------
+TYSY_CRYNE     ------------------------------------------------------------
+DRTS_TRYCR     ------------------------------------------------------------
+DRTS_TOXGO     ------------------------------------------------------------
+DRTS_PARTE     ------------------------------------------------------------
+TYSY_HAEIN     ------------------------------------------------------------
+1tis_          ------------------------------------------------------------
+TYSY_ZYMMO     ------------------------------------------------------------
+
+
+1aiq_A         --------
+1b02_A         --------
+TYSY_FUSNN     --------
+TYSY_CLOAB     --------
+TYSY_STRP8     --------
+TYSY_LACLA     --------
+DUHM_BPSP1     MKYIRREE
+1ci7_A         --------
+1j3i_C         --------
+1qzf_A         --------
+TYSY_HUMAN     --------
+TYSY_HSVE2     --------
+TYSY_KSHV      --------
+TYSY_HSVAT     --------
+TYSY_VZVD      --------
+TYSY_ASCSU     --------
+DRTS_SOYBN     --------
+TYSY_DROME     --------
+TYSY_ENCCU     --------
+TYSY_YEAST     --------
+TYSY_CANAL     --------
+TYSY_AGABI     --------
+TYSY_CRYNE     --------
+DRTS_TRYCR     --------
+DRTS_TOXGO     --------
+DRTS_PARTE     --------
+TYSY_HAEIN     --------
+1tis_          --------
+TYSY_ZYMMO     --------
+
+

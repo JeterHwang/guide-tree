@@ -1,0 +1,753 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40017_mafft.fa.msf  MSF: 933  Type: N  December 21, 2021 21:48  Check: 9051  ..
+
+ Name: 1a7x_A      Len:    933  Check: 2399  Weight: 1.00
+ Name: 1fd9_A      Len:    933  Check: 2791  Weight: 1.00
+ Name: 1jvw_A      Len:    933  Check: 9622  Weight: 1.00
+ Name: FKB4_HUMAN  Len:    933  Check: 9714  Weight: 1.00
+ Name: 1q6h_A      Len:    933  Check: 6065  Weight: 1.00
+ Name: 1r9h_A      Len:    933  Check: 2616  Weight: 1.00
+ Name: 1yat_       Len:    933  Check: 9180  Weight: 1.00
+ Name: FKB2_NEUCR  Len:    933  Check: 6139  Weight: 1.00
+ Name: FKB2_HUMAN  Len:    933  Check: 2575  Weight: 1.00
+ Name: FKB2_VICFA  Len:    933  Check: 3095  Weight: 1.00
+ Name: FK22_ARATH  Len:    933  Check: 8165  Weight: 1.00
+ Name: FK21_ARATH  Len:    933  Check: 8099  Weight: 1.00
+ Name: FKB2_YEAST  Len:    933  Check: 9303  Weight: 1.00
+ Name: FK14_HUMAN  Len:    933  Check: 3252  Weight: 1.00
+ Name: FKBP_SCHPO  Len:    933  Check: 3021  Weight: 1.00
+ Name: FKB1_DROME  Len:    933  Check: 8369  Weight: 1.00
+ Name: FKBP_NEUCR  Len:    933  Check: 3048  Weight: 1.00
+ Name: FKBP_NEIMA  Len:    933  Check: 1842  Weight: 1.00
+ Name: FKBP_STRCH  Len:    933  Check: 2200  Weight: 1.00
+ Name: FKBP_CORGL  Len:    933  Check:  746  Weight: 1.00
+ Name: FKB6_HUMAN  Len:    933  Check: 1199  Weight: 1.00
+ Name: FKB3_ARATH  Len:    933  Check: 9097  Weight: 1.00
+ Name: FKB2_ARATH  Len:    933  Check: 2873  Weight: 1.00
+ Name: FKBB_ECOLI  Len:    933  Check:   85  Weight: 1.00
+ Name: FKBA_AERHY  Len:    933  Check: 7611  Weight: 1.00
+ Name: FKBY_HAEIN  Len:    933  Check: 5991  Weight: 1.00
+ Name: MIP_COXBU   Len:    933  Check: 5825  Weight: 1.00
+ Name: FKBA_BUCAI  Len:    933  Check: 8208  Weight: 1.00
+ Name: FKBA_BUCAP  Len:    933  Check: 4004  Weight: 1.00
+ Name: FK11_HUMAN  Len:    933  Check: 1107  Weight: 1.00
+ Name: MIP_CHLPN   Len:    933  Check: 4590  Weight: 1.00
+ Name: MIP_CHLMU   Len:    933  Check: 2780  Weight: 1.00
+ Name: FKBZ_PSEAE  Len:    933  Check: 4003  Weight: 1.00
+ Name: FKB4_DROME  Len:    933  Check: 2156  Weight: 1.00
+ Name: FKB4_SPOFR  Len:    933  Check: 9567  Weight: 1.00
+ Name: FKB4_SCHPO  Len:    933  Check: 7947  Weight: 1.00
+ Name: FKB3_YEAST  Len:    933  Check:   30  Weight: 1.00
+ Name: FKBH_SCHPO  Len:    933  Check: 6402  Weight: 1.00
+ Name: 1hxv_A      Len:    933  Check: 6456  Weight: 1.00
+ Name: TIG_SYNP7   Len:    933  Check: 4032  Weight: 1.00
+ Name: TIG_RHILO   Len:    933  Check:  131  Weight: 1.00
+ Name: 1l1p_A      Len:    933  Check: 2716  Weight: 1.00
+
+//
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1jvw_A         AASH--------------------------------------------------------
+FKB4_HUMAN     TAE---------------------------------------------------------
+1q6h_A         ------------------------------------------------------------
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     MK----------------------------------------------------------
+FKB2_HUMAN     MR----------------------------------------------------------
+FKB2_VICFA     MK----------------------------------------------------------
+FK22_ARATH     MAS---------------------------------------------------------
+FK21_ARATH     MMS---------------------------------------------------------
+FKB2_YEAST     MM----------------------------------------------------------
+FK14_HUMAN     MRLF--------------------------------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     M-----------------------------------------------------------
+FKBP_STRCH     MS----------------------------------------------------------
+FKBP_CORGL     M-----------------------------------------------------------
+FKB6_HUMAN     MG----------------------------------------------------------
+FKB3_ARATH     MSSL--------------------------------------------------------
+FKB2_ARATH     MAAS-----------------------------------------SPSLLLPLG------
+FKBB_ECOLI     T-----------------------------------------------------------
+FKBA_AERHY     MNNF---------------------------------LKVSLLAAAVAVSLTAC-QKDEK
+FKBY_HAEIN     MLKI---------------------------------QKLSIAALMVSAVISG-------
+MIP_COXBU      M------------------------------------KRLILPFLSVGLLL---------
+FKBA_BUCAI     M----------------------------------------------ILYVP----KSFS
+FKBA_BUCAP     MIVF---------------------------------LLKRILLLYLIFFVP----KSFS
+FK11_HUMAN     MTLR--------------------------------PSLLPLHLLLLLLL----------
+MIP_CHLPN      MNRR---------------------------------WNLVLATVALALSVASCDVRSKD
+MIP_CHLMU      MKNI---------------------------------LSWML-MFAVALPILGC------
+FKBZ_PSEAE     MLQA------TCARIARRFVWRNRMP-----------RRLFIGLFLLPLPLFAA------
+FKB4_DROME     MSMFWGLNMKPERKYSQTIIK-------------------SFHISGVAL-------D---
+FKB4_SPOFR     --MFWGLIMEPNKRYTQVVEK-------------------PFHISQAAM-------DIST
+FKB4_SCHPO     MS-------LPIAVYSLSVKG-KDVPAVEES------TDASIHLTMASI-------DAGE
+FKB3_YEAST     MSD-----LLPLATYSLNVEPYTPVPAIDVT------MPITVRITMAALN-----PEAID
+FKBH_SCHPO     MSK-------EETLYSVKVDQ-ERVPLFDEDFYKGFRSELSVRFTMAAL-------DPRA
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      MSIKV-------------------------------------------------------
+TIG_RHILO      MQVTE-------------------------------------------------------
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1jvw_A         ------------------------------------------------------------
+FKB4_HUMAN     ------------------------------------------------------------
+1q6h_A         ------------------------------------------------------------
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     ------------------------------------------------------------
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     ------------------------------------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     ------------------------------------------------------------
+FKB3_ARATH     ------------------------------------------------------------
+FKB2_ARATH     ------------------------------------------------------------
+FKBB_ECOLI     ------------------------------------------------------------
+FKBA_AERHY     TAANTAEV--KAEASKPA------------------------------------------
+FKBY_HAEIN     ----------QVFAE---------------------------------------------
+MIP_COXBU      ----------GTTAHA--------------------------------------------
+FKBA_BUCAI     ISAPISDIHLQSVLET--------------------------------------------
+FKBA_BUCAP     ENLPFFKI--KSYSEK--------------------------------------------
+FK11_HUMAN     ------------------------------------------------------------
+MIP_CHLPN      KDKDQGSL--VEYKDNKD------------------------------------------
+MIP_CHLMU      -DNNGGSQ--TSAMGKDM------------------------------------------
+FKBZ_PSEAE     ------------------------------------------------------------
+FKB4_DROME     -KGQEAKL--YLAAEK--------------------------------------------
+FKB4_SPOFR     GDNDPCQV--MVVVDG--------------------------------------------
+FKB4_SCHPO     KSNKPTTL---LVKVRPRIPVE-----DEDDEELDEQMQELLEESQ--------------
+FKB3_YEAST     EENKPSTL--RIIKRNPDFEDDDFLGGDFDEDEIDEESSEEEEEEKTQKKKKSKGKKAES
+FKBH_SCHPO     KSNDAVTV--NVITRLEH--------PEEDGEESDEELFQE-------------------
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      ------------------------------------------------------------
+TIG_RHILO      ------------------------------------------------------------
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ---------------------TDKDKLSYSIGADL----------------------GKN
+1jvw_A         ------------------------------------------------------------
+FKB4_HUMAN     ------------------------------------------------------------
+1q6h_A         ------------------AFKNDDQKSAYALGASL----------------------GRY
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     ------------------------------------------------------------
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     ---------------------------LWNAVLTLFVT----------------SLIGAL
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     ---------------------------------------------------------GSA
+FKB3_ARATH     ---------------------------------------------------------G-F
+FKB2_ARATH     -------------SASRNGLTTKNPNSSRYIAARVI---------------------ASE
+FKBB_ECOLI     ----------------TPTFDTIEAQASYGIGLQV----------------------GQQ
+FKBA_AERHY     -------------EAPKAEAKSFEEQSGYAIGLSM----------------------GRY
+FKBY_HAEIN     ----------------DNTF--DEKAASYAVGTLM----------------------GSQ
+MIP_COXBU      ----------------ATPLKTEQDKLSYSMGVMT----------------------GKA
+FKBA_BUCAI     ----------------KNTFHNNNEKLGYILGLSF----------------------GNY
+FKBA_BUCAP     ----------------KEFFQNDNEKVGYSLGVSL----------------------GNY
+FK11_HUMAN     ---------------------------------------------------------SAA
+MIP_CHLPN      ---------------TNDIELSDNQKLSRTFGHLL----------------------ARQ
+MIP_CHLMU      ---------------VEDSVLTDNQKLSRTFGHLL----------------------ARQ
+FKBZ_PSEAE     ---------------------PPKDELAYAVGARL----------------------GMR
+FKB4_DROME     ---------------QEYIVATVTKA-IPQVALDLNFSKGDRIMF-YTAGDASVSLLG-Y
+FKB4_SPOFR     ---------------KNFLVCTLQKGKIIQVPLDLYFKSGDSVSF-LTNGKCNVHLTG-Y
+FKB4_SCHPO     ---------------REFVLCTLKPGSLYQQPLNLTITPGDEVFF-SASGDATIHLSGNF
+FKB3_YEAST     ESEDDEEDDDEDDEFQESVLLTLSPEAQYQQSLDLTITPEEEVQF-IVTGSYAISLSGNY
+FKBH_SCHPO     ---------------EKFTLCTLKKGSVYQQPIDIIFSPGEEVFFERVGGDIPVYLSGTC
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      ---------------------TQEKLPASRVGLQIEVS-------------------GEQ
+TIG_RHILO      ---------------------TLNSGLKREIKITVP-A-------------------GDM
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         F-----------------------------------------------------------
+1jvw_A         ------------------------------------------------------------
+FKB4_HUMAN     ------------------------------------------------------------
+1q6h_A         X-----------------------------------------------------------
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     ------------------------------------------------------------
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     I-----------------------------------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     L-----------------------------------------------------------
+FKB3_ARATH     ------------------------------------------------------------
+FKB2_ARATH     T-----------------------------------------------------------
+FKBB_ECOLI     L-----------------------------------------------------------
+FKBA_AERHY     I-----------------------------------------------------------
+FKBY_HAEIN     M-----------------------------------------------------------
+MIP_COXBU      F-----------------------------------------------------------
+FKBA_BUCAI     V-----------------------------------------------------------
+FKBA_BUCAP     V-----------------------------------------------------------
+FK11_HUMAN     V-----------------------------------------------------------
+MIP_CHLPN      L-----------------------------------------------------------
+MIP_CHLMU      L-----------------------------------------------------------
+FKBZ_PSEAE     L-----------------------------------------------------------
+FKB4_DROME     L-HDIDS---EDDEDDDQM-------------------TIENLLNSKAIKNSKKSEDDED
+FKB4_SPOFR     L-DPEFE---EDLEDEEEAEEEEEEEEAPPLVPAKNKRKLENANDATANKKAKPDKKAGK
+FKB4_SCHPO     L---------VDEEDEEEEE----------------------------------------
+FKB3_YEAST     VKHPFDTPMGVEGEDEDEDADI--------------------------------------
+FKBH_SCHPO     I---------ITNIPEEEDS----------------------------------------
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      S-----------------------------------------------------------
+TIG_RHILO      E-----------------------------------------------------------
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         --------------------------------------KNQ-------GID-VNPEAMAK
+1jvw_A         -------------------------------------------------------EE---
+FKB4_HUMAN     ------------------------------------------------------------
+1q6h_A         --------------------------------------ENSLKEQEKLGIK-LDKDQLIA
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     ------------------------------------------------------------
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     ------------------------------------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     ------------------------------------------------------------
+FKB3_ARATH     ------------------------------------------------------------
+FKB2_ARATH     --------------------------------------REQSCKISNLSSR-REAMLLVL
+FKBB_ECOLI     --------------------------------------SES-------GLEGLLPEALVA
+FKBA_AERHY     --------------------------------------ANTLERQQELGIK-LDNSVILK
+FKBY_HAEIN     --------------------------------------KDLVDSHKEV-IK-YDNARILD
+MIP_COXBU      --------------------------------------RKH-------DIK-IDPQTFSM
+FKBA_BUCAI     --------------------------------------NQTFEKQKKIGIE-LDRNSLLK
+FKBA_BUCAP     --------------------------------------NESFERQKKMGIN-LDKYNILL
+FK11_HUMAN     ------------------------------------------------------------
+MIP_CHLPN      --------------------------------------------RKSEDMF-FDIAEVAK
+MIP_CHLMU      --------------------------------------------SSTEDFT-LDLTEVIK
+FKBZ_PSEAE     ----------------------------------------------QQEMPGLELSELLL
+FKB4_DROME     ENESGEEDEEDTDDDSQII------------EEYESF-LENGEEEDDDDVD-EDNEE--S
+FKB4_SPOFR     NSAPAAESDSDDDDEDQLQKFLDG-EDIDTDENDESF-KMNTSAEGDDSDE-EDDDE--D
+FKB4_SCHPO     -------SDEDYD--------------LSPTEEDLVE-TVSGDEESEEESE-SEDNS--A
+FKB3_YEAST     ------YDSEDYD--------------LTPDEDEIIG-DDMDDLDDEEEEE-VRIEE--V
+FKBH_SCHPO     -------SDLEND-------FLYGADEFSSDEEEMDDISVTSSEEEEEENG-ARIEELNS
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      ---------------RQVYE------------------RTLTRLSREVRFPGFRPGKVPR
+TIG_RHILO      ---------------AKLMA------------------R-LSDARNKVRINGFRPGKVPV
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         GMQDAMSGAQLA--------------------------------LTEQQMKDVLNKFQKD
+1jvw_A         ------------------------------------------------------------
+FKB4_HUMAN     ------------------------------------------------------------
+1q6h_A         GVQDAFADKSKL---------------------------------SDQEIEQTLQAFEAR
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     ------------------------------------------------------------
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     ------------------------------------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     ------------------------------------------------------------
+FKB3_ARATH     ----------------------------------------SVGTCSPPSEKRKCRFLV--
+FKB2_ARATH     GVSGGLSMSSLAAYAAG-------------------------------------------
+FKBB_ECOLI     GIADALEGKHPA--------------------------------VPVDVVHRALREIHER
+FKBA_AERHY     GVTDGLGKEAKM---------------------------------TDEEIQKVLQQYDAK
+FKBY_HAEIN     GLKDALEGKVDV--------------------------------RKDEKIQKTLESIEAK
+MIP_COXBU      GLSDAYLGKETQ--------------------------------MTEAEMRQTLQQFEKQ
+FKBA_BUCAI     GIQDAISGNLKL---------------------------------SHQDISSGLKELEKK
+FKBA_BUCAP     GVQDAISGNLKL---------------------------------SNEEISTILQKLEKN
+FK11_HUMAN     ------------------------------------------------------------
+MIP_CHLPN      GLQAELVCKSAP--------------------------------LTETE-------YEEK
+MIP_CHLMU      GMQSEIEGKSAP--------------------------------LTDSE-------YETQ
+FKBZ_PSEAE     GLRQAYRGEALE--------------------------------IPPERIEQLLLQHENA
+FKB4_DROME     GEEDEQDSDDSEAEEEQPKAK--------------------VAKLSPGASAKKSGKEQ--
+FKB4_SPOFR     EEDEEDDDEDDEEEEEAPKKKKKQPAAEQDSTLDTSKESVDMSKLSKSQKRRLKKKLQQQ
+FKB4_SCHPO     SEEDELDSAPAK--KAQVKKKRTKDESEQEEAASPKKNN------TKKQKVEGTPVKE--
+FKB3_YEAST     QEEDEEDNDGE-------EEQEEEEEEEQKEEVKPEPKK------SKKEKKRKHEEKEEE
+FKBH_SCHPO     DEEDAEQAEEEILEKPVPKDE-------------------VAEKHSKDKLKKEEKEKKTA
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      PVLIQRLGETAL------KAN-------------------AIEDLVQQSLESAIAQESIP
+TIG_RHILO      QHLRKVYGKSFM-------AE-------------------VVNEILNDSTRSIITGRGEK
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         LMAK---------RTAEFN-KKADENKVKGEAFLTE------------------------
+1jvw_A         --------------------RMNNYRKRVGRLFMEQ------------------------
+FKB4_HUMAN     --------------------------------------EMKATESG--------------
+1q6h_A         VKSS---------AQAKXE-KDAADNEAKGKEYREK------------------------
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     -----------------------------------------------------SIFLSLS
+FKB2_HUMAN     ------------------------------------------LSWF-------RVLTVLS
+FKB2_VICFA     ------------------------------------------LFSI-------FLIFTIF
+FK22_ARATH     --------------------------------------KMSLRYSL-------FLIF--F
+FK21_ARATH     --------------------------------------SASAMKAV------GFLLL--L
+FKB2_YEAST     ------------------------------------------FNIY-------LFVTFFS
+FK14_HUMAN     ------------------------------------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ---------------------------------IEK------------------------
+FKBP_CORGL     ----------------------------------EK------------------------
+FKB6_HUMAN     -------NQ-----------GVLEGDDAPGQSLYER------------------------
+FKB3_ARATH     -------NNSLN-KAEAINLRNKQKVSSDPELSFAQLSSCGRREAIIGFGFSIGLLDNVS
+FKB2_ARATH     --------------------LPPEDKPRLCEAECEK------------------------
+FKBB_ECOLI     ADAV---------RRQRFQ-AMAAE----GVKYLEE------------------------
+FKBA_AERHY     INEL---------TKAKAD-KDAVENQKKGEEYLAA------------------------
+FKBY_HAEIN     LVAA---------SKAKAE-SIAKQAKEEGDKFRAE------------------------
+MIP_COXBU      SLQK---------MQHKMK-QTAQQNAEKSRAFLTA------------------------
+FKBA_BUCAI     LKHA---------TKIQLK-KNAKENFIQGELYMKN------------------------
+FKBA_BUCAP     LKNA---------AKIEFE-KSEKENLIQGKLYMKK------------------------
+FK11_HUMAN     -------------CRAEAG-----------------------------------------
+MIP_CHLPN      MAEV---------QKLVFE-KKSKENLSLAEKFLKE------------------------
+MIP_CHLMU      MALV---------QKASFE-KKCSENLASAEKFLKE------------------------
+FKBZ_PSEAE     TTETP--------RTTPAE-----------ARFLAN------------------------
+FKB4_DROME     -------NGVAK-KEEA---KQQQKKKEKPEAKKEQ-----------------------P
+FKB4_SPOFR     AKQQPQVNGVDKPKKEE---PQQKAEKKKPEAKKEE-----------------------A
+FKB4_SCHPO     -------------KKVAFA-EKLEQGPTGPAAKKEK-QQAS-------------------
+FKB3_YEAST     KKAK-------KVKKVEFK-KDLEEGPTKPKSKKEQ-DK---------------------
+FKBH_SCHPO     VDVSDS--------------VNGKKRKTEPAGEGEQ-TEKK-------------------
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      AIGNYQ---------LSSDFETLVAAFQPGESFSFE-ASVDVQPTATLAQY--TGLTV--
+TIG_RHILO      AAMQPE-------VIMTEDEKEAEKILAGGTDFEFR-LNYEVIPAIEIKDF--SDIKVTR
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ---------------------GVQVETISPGDGRTFPKRG-QTCVVHYTGM-L-ED-GKK
+1fd9_A         --------NKNKPGVVVLP-SGLQYKVINSGNGV-KPGKS-DTVTVEYTGR-L-ID-GTV
+1jvw_A         --------KAAQPDAVKLP-SGLVFQRIARGSGKRAPAID-DKCEVHYTGR-L-RD-GTV
+FKB4_HUMAN     --AQSAPLPMEGVDISPKQDEGVLKVIKREGTGTEMPMIG-DRVFVHYTGW-L-LD-GTK
+1q6h_A         --------FAKEKGVKTSS-TGLVYQVVEAGKGE-APKDS-DTVVVNYKGT-L-ID-GKE
+1r9h_A         -----------KIDITPKKDGGVLKLIKKEGQGVVKPTTG-TTVKVHYVGT-L-EN-GTK
+1yat_          --------------------GNVKIDRISPGDGATFPKTG-DLVTIHYTGT-L-EN-GQK
+FKB2_NEUCR     LLASA---TVGVLAAEELG-IDV---TVPVE-CDRKTRKG-DKINVHYRGT-L-QSNGQQ
+FKB2_HUMAN     ICLSAVATATGAEGKRKLQ-IGV---KKRVDHCPIKSRKG-DVLHMHYTGK-L-ED-GTE
+FKB2_VICFA     IIASALVAAKSAADVTELQ-IGV---KYKPASCEVQAHKG-DKVKVHYRGK-L-TD-GTV
+FK22_ARATH     SLISLQGFAKKTGDVSELQ-IGV---KFKPKTCEVQAHKG-DTIKVHYRGK-L-TD-GTV
+FK21_ARATH     TILTL-AYAKKSGDVTELQ-IGV---KYKPQKCDLQAHKG-DKIKVHYRGK-L-TD-GTV
+FKB2_YEAST     TIL--------AGSLSDLE-IGII-KRIPVEDCLIKAMPG-DKVKVHYTGS-L-LESGTV
+FK14_HUMAN     --------PEPEVKIEVLQ---------KPFICHRKTKGG-DLMLVHYEGY-L-EKDGSL
+FKBP_SCHPO     --------------------MGVEKQVISSGNGQDFPKPG-DRITMHYTGT-L-TN-GKK
+FKB1_DROME     --------------------MGVQVVPIAPGDGSTYPKNG-QKVTVHYTGT-L-DD-GTK
+FKBP_NEUCR     ---------MTIPQLDGLQ-IEV---QQEGQ-GTRETRRG-DNVDVHYKGV-L-TS-GKK
+FKBP_NEIMA     ----------GSLIIEDLQ-EGF---GK-------EAVKG-KEITVHYTGW-L-EN-GTK
+FKBP_STRCH     --------PEVDFPGGEPP-ADLAIKDIWEGDGP-VAQAG-QTVSVHYVGVAF-ST-GEE
+FKBP_CORGL     --------PQIELPVGPAP-EDLVISDIIVGEGA-EARPG-GEVEVHYVGVDF-ET-GEE
+FKB6_HUMAN     --------LSQRMLDISGD-RGVLKDVIREGAGD-LVAPD-ASVLVKYSGY-L-EHMDRP
+FKB3_ARATH     ALAET---TSCEFSVSP---SGLAFCDKVVGYGP-EAVKG-QLIKAHYVGK-L-EN-GKV
+FKB2_ARATH     --------ELENVPMVTTE-SGLQYKDIKVGRGP-SPPVG-FQVAANYVAM-V-PS-GQI
+FKBB_ECOLI     --------NAKKEGVNSTE-SGLQFRVINQGEGA-IPART-DRVRVHYTGK-L-ID-GTV
+FKBA_AERHY     --------NAKKEGVKSTE-SGLQYQVEKMGTGA-KPKAT-DIVKVHYTGT-L-TD-GTK
+FKBY_HAEIN     --------FAKGKDVKTTQ-SGLMYKIESAGKGD-TIKST-DTVKVHYTGK-L-PN-GKV
+MIP_COXBU      --------NKNKPGVKTLA-NGLQYKVLQAGQGQ-SPTLN-DEVTVNYEGR-L-IN-GTV
+FKBA_BUCAI     --------FSKLKGVKKTS-SGLLYLLERAGEGE-ALKDE-TKITVHYKGT-L-IN-GLE
+FKBA_BUCAP     --------FSEMKGVSKTS-SGLLYIIDKLGEGE-EIKTKNAEITVHYKGS-L-IN-GTE
+FK11_HUMAN     --------LETESPVRTLQ---VETLVEPPEPCAEPAAFG-DTLHIHYTGS-L-VD-GRI
+MIP_CHLPN      --------NSKNAGVVEVQPSKLQYKIIKEGAGK-AISGK-PSALLHYKGS-F-IN-GQV
+MIP_CHLMU      --------NKDKEGVIELEPNKLQYRIVKEGTGR-VLTGK-PNALLHYTGS-F-IN-GKV
+FKBZ_PSEAE     --------EKARFGVRELT-GGVLVSELRRGQGN-GIGAA-TQVHVRYRGL-L-AD-GQV
+FKB4_DROME     KAKEPAKQQPASKDPRTIT-GGVKIVDQVVGKGE-EAKQG-KRVSVYYIGR-L-QS-NNK
+FKB4_SPOFR     PVEKKEKKQ--------IA-GGVSIEDLKVGSGP-VAKAG-KVVMVYYEGR-L-KQ-NNK
+FKB4_SCHPO     ------SNAPSSPKTRTLK-GGVVVTDVKTGSGA-SATNG-KKVEMRYIGK-L-EN-GKV
+FKB3_YEAST     ----------HKPKSKVLE-GGIVIEDRTIGDGP-QAKRG-ARVGMRYIGK-L-KN-GKV
+FKBH_SCHPO     ------SKSTKTYPKQVLE-GNVTVQDKVKGDGP-AAKRK-KRVSMRYIGR-L-TN-GKV
+1hxv_A         ---------------------------------K--LANG-DIAIIDFTGI-V--D-NKK
+TIG_SYNP7      EVAEV-PFDANRVDNVLAE-QQKQMATLVPVEGR-NAAIG-DVAVIDFQGI-LVES-GEE
+TIG_RHILO      QVFDV-P-DA-EIDDQVKR-VAESARSYEPKTGK--AAEG-DRVSIDYVGK-I--D-GEA
+1l1p_A         --------------------GSHMQATWKEKDGA--VEAE-DRVTIDFTGS-V--D-GEE
+
+
+1a7x_A         FDSSR--DRNKPFKFMLGKQEVIRGWEEGVAQ------MSVGQRAKLTISPDYAY--GAT
+1fd9_A         FDSTE--KTGKPATFQV--SQVIPGWTEALQL------MPAGSTWEIYVPSGLAY--GPR
+1jvw_A         FDSSR--ERGKPTTFR--PNEVIKGWTEALQL------MREGDRWRLFIPYDLAY--GVT
+FKB4_HUMAN     FDSSL--DRKDKFSFDLGKGEVIKAWDIAIAT------MKVGEVCHITCKPEYAY--GSA
+1q6h_A         FDNSY--TRGEPLSFRL--DGVIPGWTEGLKN------IKKGGKIKLVIPPELAY--GKA
+1r9h_A         FDSSR--DRGDQFSFNLGRGNVIKGWDLGVAT------MTKGEVAEFTIRSDYGY--GDA
+1yat_          FDSSV--DRGSPFQCNIGVGQVIKGWDVGIPK------LSVGEKARLTIPGPYAY--GPR
+FKB2_NEUCR     FDASY--DRGTPFSFKLGGGQVIKGWDEGLVD------MCIGEKRTLTVPPSYGY--GQR
+FKB2_HUMAN     FDSSL--PQNQPFVFSLGTGQVIKGWDQGLLG------MCEGEKRKLVIPSELGY--GER
+FKB2_VICFA     FDSSF--ERNSPIDFELGGGQVIKGWDQGLLG------MCLGEKRKLKIPAKLGY--GEQ
+FK22_ARATH     FDSSF--ERGDPFEFKLGSGQVIKGWDQGLLG------ACVGEKRKLKIPAKLGY--GEQ
+FK21_ARATH     FDSSF--ERGDPIEFELGTGQVIPGWDQGLLG------ACVGEKRKLKIPSKLGY--GDN
+FKB2_YEAST     FDSSY--SRGSPIAFELGVGRVIKGWDQGVAG------MCVGEKRKLQIPSSLAY--GER
+FK14_HUMAN     FHSTHKHNNGQPIWFTLGILEALKGWDQGLKG------MCVGEKRKLIIPPALGY--GKE
+FKBP_SCHPO     FDSSV--DRGSPFVCTIGVGQLIRGWDEGVPK------MSLGEKAKLTITPDYGY--GPR
+FKB1_DROME     FDSSR--DRNKPFKFTIGKGEVIRGWDEGVAQ------LSVGQSAKLICSPDYAY--GSR
+FKBP_NEUCR     FDASY--DRGEPLNFTVGQGQVIKGWDEGLLG------MKIGEKRKLTIAPHLAY--GNR
+FKBP_NEIMA     FDSSL--DRRQPLTITLGVGQVIKGWDEGFGG------MKEGGKRKLTIPSEMGY--GAR
+FKBP_STRCH     FDASW--NRGTPLQFQLGAGQVISGWDQGVQG------MKVGGRRELIIPAHLAY--GDR
+FKBP_CORGL     FDSSW--DRGQTSQFPLNG--LIAGWQEGIPG------MKVGGRRQLTIPPEAAY--GPE
+FKB6_HUMAN     FDSNY--FRKTPRLMKLGEDITLWGMELGLLS------MRRGELARFLFKPNYAY--GTL
+FKB3_ARATH     FDSSY--NRGKPLTFRIGVGEVIKGWDQGILGSDGIPPMLTGGKRTLRIPPELAY--GDR
+FKB2_ARATH     FDSSL--EKGLPYLFRVGSGQVIKGLDEGILS------MKAGGKRRLYIPGPLAFPKGLV
+FKBB_ECOLI     FDSSV--ARGEPAEFPV--NGVIPGWIEALTL------MPVGSKWELTIPQELAY--GER
+FKBA_AERHY     FDSSV--DRGEPATFPL--NQVIPGWTEGVQL------MPVGSKFKFFLPSKLAY--GEH
+FKBY_HAEIN     FDSSV--ERGQPVEFQL--DQVIKGWTEGLQL------VKKGGKIQFVIAPELGY--GEQ
+MIP_COXBU      FDSSY--KRGQPATFPL--KSVIKGWQEALTR------MKPGAIWEIYVPPQLAY--GEQ
+FKBA_BUCAI     FDNSY--KRGRPVSLRL--KDVILGWKEGLKY------IKKGGKIKLVIPPNLAY--GTE
+FKBA_BUCAP     FDSSY--KRGKPITLML--KDVILGWQEGLKY------IKKGGKIKLIIPPNLGY--GSN
+FK11_HUMAN     IDTSL--TR-DPLVIELGQKQVIPGLEQSLLD------MCVGEKRRAIIPSHLAY--GKR
+MIP_CHLPN      FSSSE--GNNEPILLPL--GQTIPGFALGMQG------MKEGETRVLYIHPDLAY--GTA
+MIP_CHLMU      FDTSE--KNKDPILLPL--TKVISGFSQGMQG------MREGEVRVLYIHPDLAY--GTS
+FKBZ_PSEAE     FDQSE-----SAEWFAL--DSVIEGWRTALRA------MPVGARWRVVIPSAQAY--GHE
+FKB4_DROME     TFDSL--LKGKPFKFALGGGEVIKGWDVGVAG------MKVGGKRVITCPPHMAY--GAR
+FKB4_SPOFR     MFDNC--VKGPGFKFRLGSKEVISGWDVGIAG------MKVGGKRKIVCPPAMAY--GAK
+FKB4_SCHPO     FDKN---TKGKPFAFILGRGEVIRGWDVGVAG------MQEGGERKITIPAPMAY--GNQ
+FKB3_YEAST     FDKN---TSGKPFAFKLGRGEVIKGWDIGVAG------MSVGGERRIIIPAPYAY--GKQ
+FKBH_SCHPO     FDKNI--T-GKPFTFNLGLEEVIKGWDVGIVG------MQVGGERTIHIPAAMAY--GSK
+1hxv_A         LASAS----AQNYELTIGSNSFIKGFETGLIA------MKVNQKKTLALTFPSDY--HVK
+TIG_SYNP7      IPGGS----GTDFQIEVEEDRFIPGFISGIVG------MAIEETRTVDATFPETY--AQE
+TIG_RHILO      FAGGA----GTDQLLVLGSKEFIPGFEDQLIG------TKAGDEKQVTVTFPENY--QAA
+1l1p_A         FEGGK----ASDFVLAMGQGRMIPGFEDGIKG------HKAGEEFTIDVTFPEEY--HAE
+
+
+1a7x_A         GHP-----GIIPPHATLVFDVELLKLE---------------------------------
+1fd9_A         SVG-----GPIGPNETLIFKIHLISVKK--------------------------------
+1jvw_A         GGG-----GMIPPYSPLEFDVELISIKDGGKG--------------RTAEEVDE-ILRK-
+FKB4_HUMAN     GSP-----PKIPPNATLVFEVELFEFKGEDL-----------------TEEEDGGIIRRI
+1q6h_A         GVP------GIPPNSTLVFDVELLDVK---------------------------------
+1r9h_A         GSP-----PKIPGGATLIFEVELFEWSA--------------------------------
+1yat_          GFP-----GLIPPNSTLVFDVELLKVN---------------------------------
+FKB2_NEUCR     SIG-----P-IPAGSTLIFETELIGIDGVPK-----------------PESIVY---KQA
+FKB2_HUMAN     GAP-----PKIPGGATLVFEVELLKIERR-------------------------------
+FKB2_VICFA     GSP-----PTIPGGATLIFDTELVGVNDKSL-----------------SEEKS-------
+FK22_ARATH     GSP-----PTIPGGATLIFDTELIAVNEKPAGGEEYGG-------DEDDEGYG-------
+FK21_ARATH     GSP-----PKIPGGATLIFDTELVAVNGEPS-----------------SEAKS-------
+FKB2_YEAST     GVP-----GVIPPSADLVFDVELVDVKSAA------------------------------
+FK14_HUMAN     GK------GKIPPESTLIFNIDLLEIRNGPRSHESFQEMDLNDDWKLSKDEVKAYLKKEF
+FKBP_SCHPO     GFP-----GLIPPNSTLLFDVELLAINDKK------------------------------
+FKB1_DROME     GHP-----GVIPPNSTLTFDVELLKVE---------------------------------
+FKBP_NEUCR     AVG-----GIIPANSTLIFETELVGIKGVQK-----------------GE----------
+FKBP_NEIMA     GAG-----GVIPPHATLIFEVELLKVYE--------------------------------
+FKBP_STRCH     GAG--G--GKIAPGETLIFVCDLVAV----------------------------------
+FKBP_CORGL     GS------GHPLSGRTLVFIIDLISA----------------------------------
+FKB6_HUMAN     GCP-----PLIPPNTTVLFEIELLDFLDCAESDKFC---------ALSAEQQDQFPLQKV
+FKB3_ARATH     GAGCKGGSCLIPPASVLLFDIEYIGKA---------------------------------
+FKB2_ARATH     SAP---GRPRVAPNSPVIFDVSLEFIPGLD------------------------------
+FKBB_ECOLI     GAG-----ASIPPFSTLVFEVELLEIL---------------------------------
+FKBA_AERHY     GAG------SIPANAVLVFDVELLAIEKPAADG---------------------------
+FKBY_HAEIN     GAG-----ASIPPNSTLIFDVEVLDVNP--------------------------------
+MIP_COXBU      GAP-----GVIGPNEALIFKVNLISVKK--------------------------------
+FKBA_BUCAI     EVN------GIPANSTLIFDIELLDVVNG-------------------------------
+FKBA_BUCAP     RIN------EIPANSILIFDIELLDIKN--------------------------------
+FK11_HUMAN     GFP-----PSVPADAVVQYDVELIALIRANYWLKLVKG-----------------ILPLV
+MIP_CHLPN      --------GQLPPNSLLIFEINLIQASADEVAAVPQEG----------------------
+MIP_CHLMU      --------GQLPPNSLLIFEVKLIEANDDNVSV---------------------------
+FKBZ_PSEAE     GAG-----DLIPPDAPLVFEIDLLGFR---------------------------------
+FKB4_DROME     GAP-----PKIGPNSTLVFEVELKAVH---------------------------------
+FKB4_SPOFR     GSP-----PVIPPNSTLVFEVDLKNVK---------------------------------
+FKB4_SCHPO     SIP-----G-IPKNSTLVFEVKLVRV-H--------------------------------
+FKB3_YEAST     ALP-----G-IPANSELTFDVKLVSMKN--------------------------------
+FKBH_SCHPO     RLP-----G-IPANSDLVFDVKLLAVN---------------------------------
+1hxv_A         ELQ----------SKPVTFEVVLKAIK---------------------------------
+TIG_SYNP7      EVA----------GKAAQFTITLKELKTRDLPELDDAFAQ-EASQYETIEELKTALTERF
+TIG_RHILO      HLA----------GKEATFDVTVKEVSKPGELEINDETAK-NLG-LESLERLR----EIV
+1l1p_A         NLK----------GKAAKFAINLKKVEERELPELT-------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1jvw_A         ------------------------------------------------------------
+FKB4_HUMAN     QTRGEG-YAKPNEGAIVEVALEGYYKDKLFDQRELRFEIGEGENLDLPYGLERAIQRMEK
+1q6h_A         ------------------------------------------------------------
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     AEKAEE-AASAVEEKVAEAT------DK-----------AGGKIADATKKVE---EKAEE
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     EKHGAV-VNESHHDALVEDIF-----DK--------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     LKVAAT--------------------ER--------------------------------
+FKB3_ARATH     ------------------------------------------------------------
+FKB2_ARATH     ------------------------------------------------------------
+FKBB_ECOLI     ------------------------------------------------------------
+FKBA_AERHY     ------------------------------------------------------------
+FKBY_HAEIN     ------------------------------------------------------------
+MIP_COXBU      ------------------------------------------------------------
+FKBA_BUCAI     ------------------------------------------------------------
+FKBA_BUCAP     ------------------------------------------------------------
+FK11_HUMAN     GM------------AMVPALL---------------------------------------
+MIP_CHLPN      ------------------------------------------------------------
+MIP_CHLMU      ------------------------------------------------------------
+FKBZ_PSEAE     ------------------------------------------------------------
+FKB4_DROME     ------------------------------------------------------------
+FKB4_SPOFR     ------------------------------------------------------------
+FKB4_SCHPO     ------------------------------------------------------------
+FKB3_YEAST     ------------------------------------------------------------
+FKBH_SCHPO     ------------------------------------------------------------
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      QAEHESEVKASKRDAILTALA-----DQL----------------DV----EIPESLLQR
+TIG_RHILO      RGQIENQFGSMTRQKVKRQLL-----DQL----------------DAAYSFEAPSKLIDA
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1jvw_A         ------------------------------------------------------------
+FKB4_HUMAN     GEHSIVYLKPSYAFGSVGKEKFQIPPNAELKYELHLKSFEKAKESWEMNSEEKLEQSTIV
+1q6h_A         ------------------------------------------------------------
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     ASANVVEKVASVVSGAA-------------------------------------------
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     ------------------------------------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     ------------------------------------------------------------
+FKB3_ARATH     ------------------------------------------------------------
+FKB2_ARATH     ------------------------------------------------------------
+FKBB_ECOLI     ------------------------------------------------------------
+FKBA_AERHY     ------------------------------------------------------------
+FKBY_HAEIN     ------------------------------------------------------------
+MIP_COXBU      ------------------------------------------------------------
+FKBA_BUCAI     ------------------------------------------------------------
+FKBA_BUCAP     ------------------------------------------------------------
+FK11_HUMAN     --------------GLIG-------------YHLY-------------------------
+MIP_CHLPN      ------------------------------------------------------------
+MIP_CHLMU      ------------------------------------------------------------
+FKBZ_PSEAE     ------------------------------------------------------------
+FKB4_DROME     ------------------------------------------------------------
+FKB4_SPOFR     ------------------------------------------------------------
+FKB4_SCHPO     ------------------------------------------------------------
+FKB3_YEAST     ------------------------------------------------------------
+FKBH_SCHPO     ------------------------------------------------------------
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      EISAMINETASRLSGQGMDVR-------------------------KLFTEEVLER----
+TIG_RHILO      EFNNIWAQVTRDLEAAGRTFA-------------------------DEETTE--EE----
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1jvw_A         ------------------------------------------------------------
+FKB4_HUMAN     KERGTVYFKEGKYKQALLQYKKIVSWLEYESSFSNEEAQKAQALRLASHLNLAMCHLKLQ
+1q6h_A         ------------------------------------------------------------
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     ------------------------------------------------------------
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     ------------------------------------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     -EFGNYLFRQNRFYDAKVRYKRALLLLRRRSA-PPEEQHLVEAAKLPVLLNLSFTYLKLD
+FKB3_ARATH     ------------------------------------------------------------
+FKB2_ARATH     ------------------------------------------------------------
+FKBB_ECOLI     ------------------------------------------------------------
+FKBA_AERHY     ------------------------------------------------------------
+FKBY_HAEIN     ------------------------------------------------------------
+MIP_COXBU      ------------------------------------------------------------
+FKBA_BUCAI     ------------------------------------------------------------
+FKBA_BUCAP     ------------------------------------------------------------
+FK11_HUMAN     ------------------------------------------------------------
+MIP_CHLPN      ------------------------------------------------------------
+MIP_CHLMU      ------------------------------------------------------------
+FKBZ_PSEAE     ------------------------------------------------------------
+FKB4_DROME     ------------------------------------------------------------
+FKB4_SPOFR     ------------------------------------------------------------
+FKB4_SCHPO     ------------------------------------------------------------
+FKB3_YEAST     ------------------------------------------------------------
+FKBH_SCHPO     ------------------------------------------------------------
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      -------LRENSKDEAEQRLRRTIALGELAKV----------------------------
+TIG_RHILO      -------ARAEYLRLAERRVRLGLVLAEIGEK----------------------------
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1jvw_A         ------------------------------------------------------------
+FKB4_HUMAN     AFSAAIESCNKALELDSNNEKGLFRRGEAHLAVNDFELARA----DFQKVLQLYPNNKAA
+1q6h_A         ------------------------------------------------------------
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     ---------------------------------------------------------EAV
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     ------------------------------------------------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     RPTIALCYGEQALIIDQKNAKALFRCGQACLLLTEYQKAR-----DFL--------VRAQ
+FKB3_ARATH     ------------------------------------------------------------
+FKB2_ARATH     ------------------------------------------------------------
+FKBB_ECOLI     ------------------------------------------------------------
+FKBA_AERHY     ------------------------------------------------------------
+FKBY_HAEIN     ------------------------------------------------------------
+MIP_COXBU      ------------------------------------------------------------
+FKBA_BUCAI     ------------------------------------------------------------
+FKBA_BUCAP     ------------------------------------------------------------
+FK11_HUMAN     --------------------------------------------------------RKAN
+MIP_CHLPN      ------------------------------------------------------------
+MIP_CHLMU      ------------------------------------------------------------
+FKBZ_PSEAE     ------------------------------------------------------------
+FKB4_DROME     ------------------------------------------------------------
+FKB4_SPOFR     ------------------------------------------------------------
+FKB4_SCHPO     ------------------------------------------------------------
+FKB3_YEAST     ------------------------------------------------------------
+FKBH_SCHPO     ------------------------------------------------------------
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      ---------TETQVDDEAVKARAAE------LLSNYPRPQEIDR----------------
+TIG_RHILO      ---------AGVTVSDEELQRGLFE------QVRRFPANQQQEAFEF---------YRSN
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1jvw_A         ------------------------------------------------------------
+FKB4_HUMAN     KTQLAVCQQRIRRQLAREKKLYANMFE--------RLAEEENKAK---------------
+1q6h_A         ------------------------------------------------------------
+1r9h_A         ------------------------------------------------------------
+1yat_          ------------------------------------------------------------
+FKB2_NEUCR     KTVVA-------------------------------------------------------
+FKB2_HUMAN     ------------------------------------------------------------
+FKB2_VICFA     ------------------------------------------------------------
+FK22_ARATH     ------------------------------------------------------------
+FK21_ARATH     ------------------------------------------------------------
+FKB2_YEAST     ------------------------------------------------------------
+FK14_HUMAN     --------------------------------------EDE-------------------
+FKBP_SCHPO     ------------------------------------------------------------
+FKB1_DROME     ------------------------------------------------------------
+FKBP_NEUCR     ------------------------------------------------------------
+FKBP_NEIMA     ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKBP_CORGL     ------------------------------------------------------------
+FKB6_HUMAN     KEQPF--NHDINNEL---KKL-ASCY------------RDY-------------------
+FKB3_ARATH     ------------------------------------------------------------
+FKB2_ARATH     ------------------------------------------------------------
+FKBB_ECOLI     ------------------------------------------------------------
+FKBA_AERHY     ------------------------------------------------------------
+FKBY_HAEIN     ------------------------------------------------------------
+MIP_COXBU      ------------------------------------------------------------
+FKBA_BUCAI     ------------------------------------------------------------
+FKBA_BUCAP     ------------------------------------------------------------
+FK11_HUMAN     RPKVS------------KKKL-----------------KEE-------------------
+MIP_CHLPN      ------------------------------------------------------------
+MIP_CHLMU      ------------------------------------------------------------
+FKBZ_PSEAE     ------------------------------------------------------------
+FKB4_DROME     ------------------------------------------------------------
+FKB4_SPOFR     ------------------------------------------------------------
+FKB4_SCHPO     ------------------------------------------------------------
+FKB3_YEAST     ------------------------------------------------------------
+FKBH_SCHPO     ------------------------------------------------------------
+1hxv_A         ------------------------------------------------------------
+TIG_SYNP7      -DRLNT---VVREELL-EDKL-LEWFEANNSVTFVAPKAAETEVD---------------
+TIG_RHILO      PEALNA----LRAPMF-EEKV-VDHLLGQISVTDVKVSKEELMADDEDAETTTKAKPAKK
+1l1p_A         ------------------------------------------------------------
+
+
+1a7x_A         ---------------------------------
+1fd9_A         --------------------------------S
+1jvw_A         -----------------------------AEED
+FKB4_HUMAN     AEASSGDHPTDTEMKEEQKSNTAGSQSQVETEA
+1q6h_A         ---------------------------------
+1r9h_A         ---------------------------------
+1yat_          ---------------------------------
+FKB2_NEUCR     ----------DTD------------DVQEHNEL
+FKB2_HUMAN     ------------------------------TEL
+FKB2_VICFA     ----------------------------TSSEL
+FK22_ARATH     -----------------------------NDEL
+FK21_ARATH     -----------------------------KNEL
+FKB2_YEAST     ---------------------------------
+FK14_HUMAN     ----------DKD-----GFISAREFTYKHDEL
+FKBP_SCHPO     --------------------------------A
+FKB1_DROME     ---------------------------------
+FKBP_NEUCR     ---------------------------------
+FKBP_NEIMA     ---------------------------------
+FKBP_STRCH     ---------------------------------
+FKBP_CORGL     ---------------------------------
+FKB6_HUMAN     ---------VDKEKEMWHRMFAPCGDGSTAGES
+FKB3_ARATH     ---------------------------------
+FKB2_ARATH     -----------------------------SEEE
+FKBB_ECOLI     ---------------------------------
+FKBA_AERHY     ----------------------------DNAKK
+FKBY_HAEIN     -----------------------------KSEK
+MIP_COXBU      --------------------------------K
+FKBA_BUCAI     --------------------------------V
+FKBA_BUCAP     --------------------------------I
+FK11_HUMAN     ----------KRN---------------KSKKK
+MIP_CHLPN      -----------------------------NQGE
+MIP_CHLMU      -------------------------------AE
+FKBZ_PSEAE     ---------------------------------
+FKB4_DROME     ---------------------------------
+FKB4_SPOFR     ---------------------------------
+FKB4_SCHPO     ---------------------------------
+FKB3_YEAST     ---------------------------------
+FKBH_SCHPO     ---------------------------------
+1hxv_A         ---------------------------------
+TIG_SYNP7      AASATVETTATETAEEAPE---APKAKKGKKKA
+TIG_RHILO      AAAKKAEAKANEDEAEEPKKKAAPKKKAAKDAE
+1l1p_A         ---------------------------------
+
+

@@ -1,0 +1,845 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40001_kalign.msf  MSF: 1581  Type: N  December 21, 2021 20:32  Check: 2826  ..
+
+ Name: 1j46_A      Len:   1581  Check: 8497  Weight: 1.00
+ Name: SX15_HUMAN  Len:   1581  Check: 8704  Weight: 1.00
+ Name: SX15_MOUSE  Len:   1581  Check: 1290  Weight: 1.00
+ Name: SRY_PIG     Len:   1581  Check: 3567  Weight: 1.00
+ Name: SRY_BISBO   Len:   1581  Check: 6510  Weight: 1.00
+ Name: AES2_ALLMI  Len:   1581  Check: 3950  Weight: 1.00
+ Name: ADW2_ALLMI  Len:   1581  Check: 5130  Weight: 1.00
+ Name: SX14_DROME  Len:   1581  Check: 6392  Weight: 1.00
+ Name: SOX8_HUMAN  Len:   1581  Check: 5820  Weight: 1.00
+ Name: SOX8_CHICK  Len:   1581  Check: 5789  Weight: 1.00
+ Name: SOX9_CHICK  Len:   1581  Check: 7838  Weight: 1.00
+ Name: SX10_CHICK  Len:   1581  Check: 3149  Weight: 1.00
+ Name: SRY_SMIMA   Len:   1581  Check: 7593  Weight: 1.00
+ Name: SX17_HUMAN  Len:   1581  Check: 4655  Weight: 1.00
+ Name: SOX7_HUMAN  Len:   1581  Check: 7363  Weight: 1.00
+ Name: SX18_HUMAN  Len:   1581  Check: 3976  Weight: 1.00
+ Name: POP1_CAEEL  Len:   1581  Check: 7311  Weight: 1.00
+ Name: SX15_DROME  Len:   1581  Check: 8260  Weight: 1.00
+ Name: MTMC_SCHPO  Len:   1581  Check: 7140  Weight: 1.00
+ Name: SX30_HUMAN  Len:   1581  Check: 3906  Weight: 1.00
+ Name: SX13_MOUSE  Len:   1581  Check: 7119  Weight: 1.00
+ Name: SX13_HUMAN  Len:   1581  Check: 2634  Weight: 1.00
+ Name: SX12_XENLA  Len:   1581  Check: 9621  Weight: 1.00
+ Name: SOX5_HUMAN  Len:   1581  Check: 8982  Weight: 1.00
+ Name: SOX6_HUMAN  Len:   1581  Check: 4518  Weight: 1.00
+ Name: 2lef_A      Len:   1581  Check: 9008  Weight: 1.00
+ Name: ST11_SCHPO  Len:   1581  Check: 5320  Weight: 1.00
+ Name: CIC_DROME   Len:   1581  Check: 8784  Weight: 1.00
+
+//
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     ------------------------------------------------------------
+SX13_HUMAN     ------------------------------------------------------------
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     MLTDPDLPQEFERMSSKRPASPYG-EADGEVAM---VTSRQKVEEEESDGLPAFHLPLHV
+SOX6_HUMAN     -------------MSSKQATSPFACAADGEDAMTQDLTSREK--EEGSDQHVASHLPLHP
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      --------------------------------------------------MNAFQ---DF
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     ----------MVNCTIKSEEKKEPCHEAPQGAAPAVETQPGDPAPASQDAATAKAPPQ--
+SX13_HUMAN     ----------MVNCTIKSEEKKEPCHEAPQGSATAAEPQPGDPARASQDSADPQAPAQGN
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     SFPNKPHSEEFQPVSLLTQETCGHRTPTSQHNTMEVDGNKVMSSFAPHNSSTSPQKAEEG
+SOX6_HUMAN     IMHNKPHSEELPTLVSTIQQDADWDSVLSSQQRMESENNKLCSLYSFRNTSTSPHKPDEG
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      ELGAKLYLQCLLSLSSSRSATPSYTSPVNHAGASPLNAIAHSPVNVSATHRQNFFTPIAN
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     -----DCASPESSGSPEPKRPAASEAASGSQERL--DFNRNLQEVVPAIEKLLSSDWKER
+SX13_HUMAN     FRGSWDCSSPEGNGSPEPKRPGVSEAASGSQEKL--DFNRNLKEVVPAIEKLLSSDWKER
+SX12_XENLA     ---------------------------------------------MPALEKFLSNDWKEI
+SOX5_HUMAN     GRQSGESLSSTALGTPERRKGSLADVVDTLKQRKMEELIKNEPEETPSIEKLLSKDWKDK
+SOX6_HUMAN     SRDR-EIMTSVTFGTPERRKGSLADVVDTLKQKKLEEMTRTEQEDSSCMEKLLSKDWKEK
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      QSQQQQQQQPVAVPLDSKWKTTPSPVLYNANNNSSNNNTSSSNNNNNSNWEVGSNSNTHV
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ----------------------MERARPEPPPQPRPLRPAPPPLPVEGTSFWAAAMEPPP
+SX13_MOUSE     FLGRSNVEA-KDVKGTQESLAEKELQLLVMIHQLSALRDQLLTAHSEQKNMAAMLFEKQQ
+SX13_HUMAN     FLGRNSMEA-KDVKGTQESLAEKELQLLVMIHQLSTLRDQLLTAHSEQKNMAAMLFEKQQ
+SX12_XENLA     LLGNSTVGS-KDFKGTKESLAEKELQLLLMIHQLTGLRDQLLSAHSEHRNLAAMLFEKQQ
+SOX5_HUMAN     LLAMGSGNF-GEIKGTPESLAEKERQLMGMINQLTSLREQLLAAHDEQKKLAASQIEKQR
+SOX6_HUMAN     MERLNTSELLGEIKGTPESLAEKERQLSTMITQLISLREQLLAAHDEQKKLAASQIEKQR
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      AATAAATST-VGAQPLPPQTTPVSLVMHAPPPQQQPLQQQ-HHHHQPPPPPPASLPAPSA
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     SSPTLSAAASATLASSCGEAVASGLQPAVRRLL---QVKPEQVLLLPQPQAQNEEAAASS
+SX13_MOUSE     QQMELARQQQEQIAKQQQQLIQQQHKINLLQQQIQ-QVNMPYVMIPAFPPSHQPLPVTPD
+SX13_HUMAN     QQMELARQQQEQIAKQQQQLIQQQHKINLLQQQIQ-QVNMPYVMIPAFPPSHQPLPVTPD
+SX12_XENLA     QQMDLARQQQEQIAKQQQQLIQQQHKINMLQQQIQ-QVNMPYVMIPAFPSAQT---VSAE
+SOX5_HUMAN     QQMELAKQQQEQIARQQQQLLQQQHKINLLQQQIQVQGQLPPLMIPVFPPDQRTLAAAA-
+SOX6_HUMAN     QQMDLARQQQEQIARQQQQLLQQQHKINLLQQQIQVQGHMPPLMIPIFPHDQRTLAAAAA
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      PPTSGSSSSHNSVGHATSVIRISSSQQQHQQQQQHQQQAHPHVVVSGGQTFHP--VIVDA
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     AQARLLQ----------FRPDLRLLQPPTASDGATSRPELHPVQPLA-------------
+SX13_MOUSE     SQLAL----------------PIQPIPCK--------PVEYPLQLL--------------
+SX13_HUMAN     SQLAL----------------PIQPIPCK--------PVEYPLQLL--------------
+SX12_XENLA     PQMSL----------------PIQPIPCK--------PVEYPMPLL--------------
+SOX5_HUMAN     -QQGFLLPPGFSYKAGCSDPYPVQLIPTTMAAAAAATPGLGPLQLQ--------------
+SOX6_HUMAN     AQQGFLFPPGITYKPG--DNYPVQFIPSTMAAAAAS--GLSPLQLQKGHASHPQINQRLK
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      TQLSVPLPP----------TTVSFHQPNTPTSTAASVASMSQDKMLA-------------
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ---------------------------------------------------MMADEELGD
+SX15_DROME     -----------------------------------MEPSYDHEHPHHLLTNYNSKKYPHV
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ---------------------LH------------------------------VKAKKQK
+SX13_MOUSE     ----------------------H-----------------------------------SP
+SX13_HUMAN     ----------------------H-----------------------------------SP
+SX12_XENLA     ----------------------H-----------------------------------NS
+SOX5_HUMAN     ---------------------------QLYAAQLAAMQVSPGGKLPGIPQG-NLGAAVSP
+SOX6_HUMAN     GLSDRFGRNLDTFEHGGGHSYNHKQIEQLYAAQLASMQVSPGAKMPSTPQPPNTAGTVSP
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      ---------------------KN------------GYNAPWFKLLPHM--TPMSKASPAP
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     --MIAKPNQATTEPPLSLRPGTVPTVPATTPARPATITIQRRHPAPKADSTPHTLPPFSP
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------MNLLDP
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     EVKVFRRDEDADDDPMISGETSEQQLADDKKEAVMEAELDGAGRNPSIDVLKSAFPKVEP
+SX15_DROME     SRTPEYSHSTGSDYPEHGGYLTDGRLMHESNSDAGIYHV-RQGSEHSSPSLHSPAIQSSG
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     LGPSLDQSVGPRGAVETGPRASRVVKLEGPGPALGYFRGDEKGKLEAEEVMRDSMQGGAG
+SX13_MOUSE     PAPVVKRSG-VAAHHPLQEP-PQPLNLTAKPKVPE---LPNTSSS---PSLK--MNSCGP
+SX13_HUMAN     PAPVVKRPGAMATHHPLQEP-SQPLNLTAKPKAPE---LPNTSSS---PSLK--MSSCVP
+SX12_XENLA     HA---GRGSASAKH---QET-SQPLNLTAKPKCPD--QFPNSSSS---PEFR--MS---P
+SOX5_HUMAN     TSIHTDKSTNSPPPKSKDEV-AQPLNLSAKPKTSDG-KSPTSPTSPHMPALR--INS-GA
+SOX6_HUMAN     TGIKNEKRGTSPVTQVKDEAAAQPLNLSSRPKTAEPVKSPTSPTQNLFPASK--TSP-VN
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      VTPTLTTSASSYNVVMMQQQQQHQQLQQQQQLQQQQQSPPQMPLNHNNNHLIVSAPLSSP
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     SPSPASSPSPAPAQTPGAQKTQSQAA------ITHPAAVASPSAPVAAAAPKTPKTPEPR
+SOX8_HUMAN     MLDMSEARS---QPPCSPSGTASSMS------HVEDSDSDAP-PSPAGSEGLGRA-----
+SOX8_CHICK     MLNMTEEHDKALEAPCSPAGTTSSMS------HV-DSDSDSP-LSPAGSEGLGCAPAPAP
+SOX9_CHICK     FMKMTEEQDKGLSGAPSP-----TMS---------DDSAGSPCPSGSGSDTENTRP---P
+SX10_CHICK     ---MADDQDLS-EVEMSPVGS-------------EDHHCLSPGPSMASDNSSHLASS---
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------MQRSPPGYGAQD
+POP1_CAEEL     MSPSFPGLMSHFSPGYSAAALPMFMP------LFMNPYAAALRSPSLMFPMGAMSPTFPM
+SX15_DROME     YENEHLNEAVLAAHSHSHSPMPMVSS------AYVGGGTASGSLINSNIPLLGGGGNSVL
+MTMC_SCHPO     ----------------------------------MDSHQELSAGSPISYDFLDPDWCFKR
+SX30_HUMAN     KSPAAIREGVIKTEEPERLLEDCRLG--------AEPASNGLVHGSAEVILAPTSGAFGP
+SX13_MOUSE     RPASHGAPTRDLQSS-PPSLPLGFL---------GEGDAVTKAIQDARQL----------
+SX13_HUMAN     RPPSHGGPTRDLQSS-PPSLPLGFL---------GEGDAVTKAIQDARQL----------
+SX12_XENLA     VGSQCGGTMDSASSSQKANLPLGFL---------GEGDAITKAIQEACQL----------
+SOX5_HUMAN     GPLKASVPAALASPS-ARVSTIGYLN---------DHDAVTKAIQEARQMKEQLRREQQV
+SOX6_HUMAN     LPNKSSIPSPIGGSL-GRGSSLDILSSLNSPALFGDQDTVMKAIQEARKMREQIQREQQQ
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      GKPLNCSMNDAKVAAAAAAAAVANQR--------QKQQQEEPDDQLDDDVFETTTPGISA
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     -------------------------MALPGSSQDQAWSLEPP--AATAAASSSSGP-QE-
+SX15_MOUSE     -------------------------MALTSSSQAETWSLHPR--ASTA--SLPLGP-QE-
+SRY_PIG        --------MVQSYASAMFRVLKADDYSPA-AQQQNILAL-GK--GSSLFPTDNH---SS-
+SRY_BISBO      ----------------MFRVLNDDVYSPAVVQQQTTLAF-RK--DSSLC-TDSH---SA-
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     STHTHTHTHSQHFSPPPRESEMDGERSPSHSGHEMTLSMDGI--DSSLVFGSARVPVNS-
+SOX8_HUMAN     ---GV--AVGGA---RGDPAEAADERFPACIRDAVSQVLKGY--DWSLV--------PM-
+SOX8_CHICK     RPPGA--APLGA---KVDAAEV-DERFPACIRDAVSQVLKGY--DWSLV--------PM-
+SOX9_CHICK     QE-NT--FPKGD---PDLKKESDEDKFPVCIREAVSQVLKGY--DWTLV--------PM-
+SX10_CHICK     ---GN--GEMGKVKKEQQDSEADDDKFPVCIREAVSQVLSGY--DWTLV--------PM-
+SRY_SMIMA      ---------------------------------MCSFLDVEV--KDRFVEGD-----FG-
+SX17_HUMAN     -------MSSPDAGYASDDQSQTQSALPAVMAGLGPCPWAES--LSPIGDMKVKGEAPA-
+SOX7_HUMAN     -----------------MASLLGAYPWP------EGLECPAL--DAELSDGQ-----SP-
+SX18_HUMAN     DPPAR-RDCAWAPGHGAAADTRGLAAGPAALAAPAAPASPPS--PQRSPPRSPE---PG-
+POP1_CAEEL     FPPS---PVYGAAIAAAAAKQHFENMAPLNMRAGHPMNQMGM--PPYMHPSSMA---PQ-
+SX15_DROME     NKFLS-HPHAGMVGGGTGQMEDCTSHSPIEAASMWSYDYKGDLCAPNCGYLERHKPLPA-
+MTMC_SCHPO     YLTKD--ALHSIETGKGAAYFVPDGFTPILIPNSQSYLLDGN--SAQLPRPQPIS--FT-
+SX30_HUMAN     HQQDL-RIPLTLHTVPPGARIQFQGAPPSELIRLTKVPLTPVPTKMQSLLEPSVKIETK-
+SX13_MOUSE     ------LHSH-----SGALENSPNTPFRKDLISLDSSPAKERLEESCVHPLEEAMLSC--
+SX13_HUMAN     ------LHSH-----SGALDGSPNTPFRKDLISLDSSPAKERLEDGCVHPLEEAMLSC--
+SX12_XENLA     ------LHGQ-----NTSPEHCQQN-YRKEL--LDTLPEKNIQDVTSLHHTEASLLRCSM
+SOX5_HUMAN     ------LDGKVAVVNSLGLNNCRTEKEKTTLESLTQQLAVKQNEEGKFSHAMMDFNLSG-
+SOX6_HUMAN     QQPHG-VDGKLSSINNMGLNSCRNEKERTRFENLGPQLTGKSNEDGKLGPGVIDLTRPE-
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      NSKKQ-TAAMRLPTHNSNIRKLEECHDDGAAGAPATSAAKRR--SQSLSALQQQQ--QQ-
+
+
+1j46_A         ------------------------------------------MQDRVKRPMNAFIVWSRD
+SX15_HUMAN     REGAG-----------------------SPA------APGTLPLEKVKRPMNAFMVWSSA
+SX15_MOUSE     QEAGG-----------------------SPG------ASGGLPLEKVKRPMNAFMVWSSV
+SRY_PIG        NDGRE-----------------------TRG------SGRESGQDRVKRPMNAFIVWSRD
+SRY_BISBO      NDQCE-----------------------RGE------HVRESSQDHVKRPMNAFIVWSRE
+AES2_ALLMI     ----------------------------------------------VKRPMNAFMVGSQI
+ADW2_ALLMI     ----------------------------------------------VKRPMNAFMVWSQH
+SX14_DROME     STPYS-----------------------DAT------RTKKHSPGHIKRPMNAFMVWSQM
+SOX8_HUMAN     PVRGG-----------------------GGG--------ALKAKPHVKRPMNAFMVWAQA
+SOX8_CHICK     PVR-------------------------GNG--------SLKAKPHVKRPMNAFMVWAQA
+SOX9_CHICK     PVR-------------------------VNG--------SSKNKPHVKRPMNAFMVWAQA
+SX10_CHICK     PVR-------------------------VNG--------SNKSKPHVKRPMNAFMVWAQA
+SRY_SMIMA      MSEMV-----------------------KSN--------LANCSSRVKRPMNAFMVWSQT
+SX17_HUMAN     NSGAP-----------------------AGA------AGRAKGESRIRRPMNAFMVWAKD
+SOX7_HUMAN     PAVPR-----------------------PPG--------DKGSESRIRRPMNAFMVWAKD
+SX18_HUMAN     RYGLS-----------------------PAGRG----ERQAADESRIRRPMNAFMVWAKD
+POP1_CAEEL     NVDRR-----------------------AQG------GGKAKKDDHVKKPLNAFVWFMKE
+SX15_DROME     DLKYR-----------------------PGGT-----QSKSAKESRIRRPMNAFMVWAKI
+MTMC_SCHPO     LDQCK-----------------------VPGYILKSLRKDTTSTERTPRPPNAFILYRKE
+SX30_HUMAN     DVPLT---------------------VLPSDAGIPDTPFSKDRNGHVKRPMNAFMVWARI
+SX13_MOUSE     DMDGS--------------------------RHFSESR----NSSHIKRPMNAFMVWAKD
+SX13_HUMAN     DMDGS--------------------------RHFPESR----NSSHIKRPMNAFMVWAKD
+SX12_XENLA     DIDGS--------------------------R-----------GNHIKRPMNAFMVWAKD
+SOX5_HUMAN     DSDGS--------------------AGVSESRIYRESRGRGSNEPHIKRPMNAFMVWAKD
+SOX6_HUMAN     DAEGSKAMNGSAAKLQQYYCWPTGGATVAEARVYRDARGRASSEPHIKRPMNAFMVWAKD
+2lef_A         --------------------------------------------MHIKKPLNAFMLYMKE
+ST11_SCHPO     -------------------------------MSASLTAEQKDQKSSVKRPLNSFMLYRRD
+CIC_DROME      QQQAG-----------------------AAGT-----AAGQPANKKIRRPMNAFMIFSKK
+
+
+1j46_A         QRRKMALE--NPRMRNSEISKQLGYQWKMLTEAEKWPFFQEAQKLQAMHREKYPNYKYRP
+SX15_HUMAN     QRRQMAQQ--NPKMHNSEISKRLGAQWKLLDEDEKRPFVEEAKRLRARHLRDYPDYKYRP
+SX15_MOUSE     QRRQMAQQ--NPKMHNSEISKRLGAQWKLLGDEEKRPFVEEAKRLRARHLRDYPDYKYRP
+SRY_PIG        QRRKVALE--NPQMQNSEISKWLGCKWKMLTEAEKRPFFEEAQRLQAVHRDKYPGYKYRP
+SRY_BISBO      RRRKVALE--NPKMKNSDISKQLGYEWKRLTDAEKRPFFEEAQRLLAIHRDKYPGYKYRP
+AES2_ALLMI     ERRKIMEQ--SPDMHNAEISKRLGKRWKLLKGSDKIPFIREAERLRIKHMADYPDYKYRP
+ADW2_ALLMI     ERRKIMDQ--WPDMHNAEISKRLGRRWQLLQDSEKIPFVKGAERLRLKHMADYADYKYRP
+SX14_DROME     ERRKICER--TPDLHNAEISKELGRRWQLLSKDDKQPYIIEAEKLRKLHMIEYPNYKYRP
+SOX8_HUMAN     ARRKLADQ--YPHLHNAELSKTLGKLWRLLSESEKRPFVEEAERLRVQHKKDHPDYKYQP
+SOX8_CHICK     ARRKLADQ--YPHLHNAELSKTLGKLWRLLSENEKRPFVEEAERLRVQHKKDHPDYKYQP
+SOX9_CHICK     ARRKLADQ--YPHLHNAELSKTLGKLWRLLNESEKRPFVEEAERLRVQHKKDHPDYKYQP
+SX10_CHICK     ARRKLADQ--YPHLHNAELSKTLGKLWRLLNESDKRPFIEEAERLRMQHKKDHPDYKYQP
+SRY_SMIMA      QRRKVALQ--NPKMHNSEISKQLGVTWKLLSDSEKRPFIDEAKRLRDKHKQ-VSDYKYQP
+SX17_HUMAN     ERKRLAQQ--NPDLHNAELSKMLGKSWKALTLAEKRPFVEEAERLRVQHMQDHPNYKYRP
+SOX7_HUMAN     ERKRLAVQ--NPDLHNAELSKMLGKSWKALTLSQKRPYVDEAERLRLQHMQDYPNYKYRP
+SX18_HUMAN     ERKRLAQQ--NPDLHNAVLSKMLGKAWKELNAAEKRPFVEEAERLRVQHLRDHPNYKYRP
+POP1_CAEEL     NRKALLEEIGNNEKQSAELNKELGKRWHDLSKEEQAKYFEMAKKDKETHKERYPEWSARE
+SX15_DROME     ERKKLADE--NPDLHNADLSKMLGKKWRSLTPQDRRPYVEEAERLRVIHMTEHPNYKYRP
+MTMC_SCHPO     KHATLLKS--NPSINNSQVSKLVGEMWRNESKEVRMRYFKMSEFYKAQHQKMYPGYKYQP
+SX30_HUMAN     HRPALAKA--NPAANNAEISVQLGLEWNKLSEEQKKPYYDEAQKIKEKHREEFPGWVYQP
+SX13_MOUSE     ERRKILQA--FPDMHNSSISKILGSRWKSMTNQEKQPYYEEQARLSRQHLEKYPDYKYKP
+SX13_HUMAN     ERRKILQA--FPDMHNSSISKILGSRWKSMTNQEKQPYYEEQARLSRQHLEKYPDYKYKP
+SX12_XENLA     ERRKILQA--FPDMHNSSISKILGSRWKSMSNGEKQPYYEEQARLSRQHLERYPDYKYKP
+SOX5_HUMAN     ERRKILQA--FPDMHNSNISKILGSRWKAMTNLEKQPYYEEQARLSKQHLEKYPDYKYKP
+SOX6_HUMAN     ERRKILQA--FPDMHNSNISKILGSRWKSMSNQEKQPYYEEQARLSKIHLEKYPNYKYKP
+2lef_A         MRANVVAE--STLKESAAINQILGRRWHALSREEQAKYYELARKERQLHMQLYPGWSARD
+ST11_SCHPO     RQAEI------PTSNHQSISRIIGQLWRNESAQVKKYYSDLSALERQKHMLENPEYKYTP
+CIC_DROME      HRKMVHKK--HPNQDNRTVSKILGEWWYALKPEQKAQYHELASSVKDAHFKLHPEWKWCS
+
+
+1j46_A         RRKAK----ML-PK----------------------------------------------
+SX15_HUMAN     RRKAKSSGAG--PSRCGQGRGNLASGGPL------WGPGYATTQPSRGFGYRPPSYSTAY
+SX15_MOUSE     RRKSKNSSTG--SVPFSQEGGGLACGGSH------WGPGYTTTQGSRGFGYQPPNYSTAY
+SRY_PIG        RRKGERAQNLL-PAEAAVLCSQVRVEERM------YPFTYT--VAKAKCSGTESQLSHS-
+SRY_BISBO      RRRAKRPQKSL-PADSSILCNPMHV-ETL------HPFTYRDGCAKTTYSQMESQLSRS-
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     QKKQTRSPGSLKPNQDADGCEARNDTTNN------NNSLTTLAINGTTTAGRKSKRSTST
+SOX8_HUMAN     RRRKSAKA--------GHSDSDSG--AEL------GPHPGGGAVYKA-----EAGLG---
+SOX8_CHICK     RRRKSVKA--------GQSDSDSG--AEL------SHH-AGTQIYKA-----DSGLGGM-
+SOX9_CHICK     RRRKTVKN--------GQSEQEEG--SE-------QTHISPNAIFKALQADSPQSSSSI-
+SX10_CHICK     RRRKNGKATQ--GEGEGQVEGEAGGAASI------QAHYKNAHLDHR----HPGEGSPM-
+SRY_SMIMA      RRKTKSFLKNVYNHKDHLTKATDQLIKTQ------HLKEDSTTIYENTMKCPEISSFYCA
+SX17_HUMAN     RRRKQVKRLKR-VEGGFLHGLAEPQAAAL------GPEGGRVAMDGLGLQFPEQGFPAGP
+SOX7_HUMAN     RRKKQAKRLCK-RVDPGFLLSSLSRDQNA------LPEKRSG--SRGALGEKEDRGEYS-
+SX18_HUMAN     RRKKQARKARR-LEPGLLLPGLAPPQPPP------EPFPAASGSARAFRELPPLGAEFDG
+POP1_CAEEL     NYAVNKKKTKK-RRDKSIPSENNDQKKCR------ARFGVNNTEMWCKFCKRKKKCEYA-
+SX15_DROME     RRRKQSKLRAM--QPGGKEQSESSPNPGT------GGSKSNPKLATPPLATASSSYTTP-
+MTMC_SCHPO     RKNKVKR-----------------------------------------------------
+SX30_HUMAN     ------RPGKR-KRFPLSVSNVFSGTT--------QNIISTNPT--TVYPYRSPTYSVVI
+SX13_MOUSE     RPKRTCVVEGR-RLRVGEYKALMRTRRPGCSPKLHHPVSRPSLVARGGLWLLPQAGQAQV
+SX13_HUMAN     RPKRTCIVEGK-RLRVGEYKALMRTRRQD---------------ARQSYVIPPQAGQVQM
+SX12_XENLA     RPKRTCIVEGK-RLRVGEYKVLMKNRRQD---------------TRS-------LGSLQC
+SOX5_HUMAN     RPKRTCLVDGK-KLRIGEYKAIMRNRRQE---------------MRQ-YFNVGQQAQIPI
+SOX6_HUMAN     RPKRTCIVDGK-KLRIGEYKQLMRSRRQE---------------MRQ-FFTVGQQPQIPI
+2lef_A         NYG---KKKKR-KREK--------------------------------------------
+ST11_SCHPO     KKRSTVRRRHK-KVSPSSGSFVASDYVVL------QQIAQSSKTLKQTEPEKPVNEEETL
+CIC_DROME      KDRRKSSTSTATPGGKASGAAGTGDAKQRL-----VSVDGSDSLEHDMCPSTPGGSGSCG
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     -LPGSYGSSHCKLEAPSPCSLPQSDPRLQGELLPT---YTHYLPPGSPTPYNPPLAGAPM
+SX15_MOUSE     -LPGSYTSSHCRPEAPLPCTFPQSDPRLQGELRPS---FSPYLSPDSSTPYNTSLAGAPM
+SRY_PIG        -QPMNITSSLLQQEDRCNWTGLCTVG----------------------------------
+SRY_BISBO      -QSVIITNSLLQKEHHSSWTSLGHNKVTLATRISADFPFNKSLEPGLSYAYFQY------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     CQSGSASKRLRNDSGDTSSKPKYEVKMESAEQLNSADIILPSADNLISYQSSEYLPLSTL
+SOX8_HUMAN     --DGHHHGDHT-GQTHGPPTPPTTPKTELQQAGAKPELKLEGRRPVDSGRQ--NIDFSNV
+SOX8_CHICK     -ADGHHHGEHA-GQPHGPPTPPTTPKTDLHH-GSKQELKHEGRRLVESGRQ--NIDFSNV
+SOX9_CHICK     -SEVHSPGEHS-GQSQGPPTPPTTPKTDAQQPG-KQDLKREG-PLAEGGRQPPHIDFRDV
+SX10_CHICK     -SDGHP--EHSSGQSHGPPTPPTTPKTELQA-G-KADSKREGRSLGEGGKP--HIDFGNV
+SRY_SMIMA      -QESTYLDNWMNLPPEQENTEFWQGLFTNETETCRSLPHGQMDCNECRSI----------
+SX17_HUMAN     PLLPPHMGGHYRDCQSLGAPPLDGYPLPTPDTSPLDGVDPDPAFFAAPMPGDCPAAGTYS
+SOX7_HUMAN     --PGTALPSLRGCYHEGPAGGGGGGTPSSVDTYPYGLPTPPEMSPLDVLEPEQTFFSSPC
+SX18_HUMAN     -LGLPTPERSPLDGLEPGEAAFFPPPAAPEDCALRPFRAPYAPTELSRDPGGCY--GAPL
+POP1_CAEEL     -TDRSGGSDITDSQDGRGTSGAYSSSSESPSPKANAGIALTTQQQQAAMMHTMLMQMRLG
+SX15_DROME     -TDESTCNSTNQNHGQSTPGGLYEQPLKPTYSPSSVDCYSNADSTEQIESLAANCPPALL
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     PSLQNP-ITHPVGETSPAIQLPTPAVQSPSPVTLFQ--PSVSSAAQVAVQDPSLPVYPAL
+SX13_MOUSE     -S-SDILFPRA---AGLPLARPLVEHYDP--QGLDPNMPVIINTCSLREEGEGT--DDRH
+SX13_HUMAN     SS-SDVLYPRA---AGMPLAQPLVEHYVP--RSLDPNMPVIVNTCSLREEGEGT--DDRH
+SX12_XENLA     -------PPSP---SGFS-SQSLLGNLSQ--SPQECNIQVVTSQCLMSHELHGA----IH
+SOX5_HUMAN     AT-AGVVYPGAIAMAGM-PSPHLPSEHSSVSSSPEPGMPVIQSTYGVKGEEPHI--KEEI
+SOX6_HUMAN     TTGTGVVYPGAITMATTTPSPQMTSDCSSTSASPEPSLPVIQSTYGMKTDGGSLAGNEMI
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     AALLAPALSYPKSGKSNLIETSELSCLSSSPMIRSHTIPSLSFTDQVSTTISTLDKSEQA
+CIC_DROME      GQGISSDLQGDIIPLTIDNYNSTCDEAPTTISMKGNGNGKLMKNELPSDEDEQMLVVEEE
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     PLTHL-------------------------------------------------------
+SX15_MOUSE     PVTHL-------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     SNADCDEKLHSELSS--GPLESRENLSEVVNRFLPLFLGGNEDSQLGVSSLTQSQHNQSD
+SOX8_HUMAN     DISELSSEVMGTMDA--FDVHEFDQYLPLGG-----PAPPEPGQA-YGGAY--FHA----
+SOX8_CHICK     DISELSSEVINNMET--FDVHEFDQYLPLNGH-TAMPADHGPGAGFYSTSY--SHSAAGA
+SOX9_CHICK     DIGELSSDVISNIET--FDVNEFDQYLPPNGH-PGVPATHGQVTT-YSGTYGISSSASSP
+SX10_CHICK     DIGEISHEVMSNMET--FDVNEFDQYLPPNGH-AGHPGHVGGYAA--AAGYGLGSALAAA
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     YAQVSDYAGPPEPPA--GPMHPRLGPEPAGPSIPGLLAPPSALHVYYGAMGSPGAGGGRG
+SOX7_HUMAN     QEEHGHPRRIPHLPG--HPYSPEYAPSPLHCSHPLGSLALGQSP--GVSMMSPVPGCPPS
+SX18_HUMAN     AEALRTAPPAAPLAG--LYYGTLGTPGPYPG---PLSPPPEAPPLESAEPLGPAADLWAD
+POP1_CAEEL     STTGASTHVPSPLAS--SSAGRSPLDANASDS--ESDVEEEEDEQIDPTVMQQTHDMLMQ
+SX15_DROME     NESSPTGGGYDNSLL--LKKLTKPSPSRAAKS-RQEKLAKSEEKNKGSQSQGQSQQGIYA
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     PPQ---RFTGPS------QTDTHQLHSEATHTVKQPTPVSLESANRISSSASTAHARFAT
+SX13_MOUSE     SVADGEMYRYSEDED--SEGDEKSDESWWYSQTDPQLAGPARHRWGKDLVPIRTAQPDLP
+SX13_HUMAN     SVADGEMYRYSEDED--SEGEEKSDGSWWCSQTDPRLGGPGPFSSGEDLVPTRWAQPANL
+SX12_XENLA     MAKD-------ICSD--SEDSVKSDGE-LVVITD--------------------------
+SOX5_HUMAN     QAEDINGEIYDEYDE--EEDDPDVD---YGSDSENHIAGQAN------------------
+SOX6_HUMAN     NGED-EMEMYDDY-----EDDPKSD---YSSENEAPEAVSAN------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     PSSLGIYYRSPSSGSPIGRTKSVCLANKARIVPKR----SMSSDGCVDKSYQMSKTPSLE
+CIC_DROME      QQQQTVKKIDLHCRE--RVNDSDMDDTPFDYRKQQPEANQRSAEEHSTSGANGQAINAPP
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     PTAGLMDNISDISPINDREELTEEVMVPALPGGESIERRAHP------------------
+SOX8_HUMAN     -GASPVWAHKSAPSASASPT-------------ETGP--PRPHIKTE-QPSPG-HYGDQP
+SOX8_CHICK     GGAGQVWTHKSPASASPSSA-------------DSGQ--QRPHIKTE-QLSPS-HYSDQS
+SOX9_CHICK     AGAGHAWMAKQQPQPPQPPAQPPAQHTLPSTEREQGPAQQRPHIKTE-QLSPS-HNSEQQ
+SX10_CHICK     SGHS-AWISKQHGVSLSATT------------SPVVD--SKAQVKTE-GSAPGGHYTDQP
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     FQMQPQHQHQHQHQHHPPGPGQPSPPPEALPCRDGTDPSQPAELLGEVDRTEFEQYLHFV
+SOX7_HUMAN     PAYYSPATYHPLHS-NLQAHLGQLSPPPEHPGFDALDQLSQVELLGDMDRNEFDQYLNTP
+SX18_HUMAN     VDLTEFDQYLNCSRTRPDAPGLPYHVALAKLGPRAMSCPEESSLISALSDASSAVY-YSA
+POP1_CAEEL     ESMCTI------------------------------------------------------
+SX15_DROME     ATYPLAPT--SVAVVAARGMYVTCNNRGLLDHGHSVKGTFYPPVSVSEDDNSTSMRNSIS
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     STIQPPREYSSVSPCPR---SAPIPQASPIPHPHVYQPPPLGHPATLFGTPPRFSFHHPY
+SX13_MOUSE     ELSWYLDLGVGQVMGETA-LVDTFPRWGSSSSSHLWAHRRCQWPGWVGVMWPWWTKLA-E
+SX13_HUMAN     RLCWYLDLFVPQKMGKAVHLADTFMR-GEAPS---LPEERVGLGGQELQYGHGLSRLSTS
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ANLPQNSSNCSARRVPKFDSKGTVSEQSNSDSPELSADKVLSHCSPIDARPSTPSCPNAS
+CIC_DROME      LSGGEREITLKPKAIKAHPVLESNMLPYTQMSIYTQYTSPKNPIGVTPFQPTGGAFKSMP
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     RGSP-----D------YGSCSGQ---SSATPAAPAGPFAGSQGDYGDLQAS-SYYGAYPG
+SOX8_CHICK     HGSPA--HSD------YGSYSTQACATTASTATAAASFSSSQCDYTDLQSS-NYYNPYPG
+SOX9_CHICK     QHPEQ--QQQQQQQLGYGSFNLQ------HYGFSYPPITRSEYDYTEHQNSGSYYSHAAG
+SX10_CHICK     STSQ----------IAYTSLSLP------HYGSAFPSISRPQFDYPDHQPSGPYYSH-SS
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     CKPEM-----GLPYQGHDSGVNLPDSHGAISSVVSDA--SSAVYYCNYPDV---------
+SOX7_HUMAN     GHPDS--ATGAMALSGHVPVSQVTPTGPTETSLISVLADATATYYNSYSVS---------
+SX18_HUMAN     CISG--------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ALQQH--C--NVVTSTPSSSGGTMPTSEMSSYTVSMADNCGNLRLSMNELSGNEYLPSAN
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     FLP-------GPHYFPSSTCPYS--RPPFGYGNFPSSM----PECLS--YYEDRYPKHEG
+SX13_MOUSE     GFSPWDNGQGPLDVFPSVCPPIQ-GDGRDTPAPLRSHALFPFLPGPDQPLWDSTPALQAP
+SX13_HUMAN     AFRAY--GQGTLYDSPLLQVSIHLGYGIYRPVSLGSHALFPFLSWLDQPLWDQHPSHTPP
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ISPKT--PNTGDHYGFDGA-EYL--GTPLSVGSTTAYLYGQETELLSTPYCHTSYPAMSR
+CIC_DROME      ISPKG--SGGKPEDAGSLQAHIKQEDIKQEPPSPYKLNNGSGSASGGGVVSAPPPNSGSV
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     YAPGLY-QYPCFHSPRRPYASPLLN--GL-A----------LPPAHSPTSHWDQPVYTTL
+SOX8_CHICK     YPSSIY-QYPYFHSSRRPYATPILN--GL-S----------IPPAHSPTANWDQPVYTTL
+SOX9_CHICK     QSGSLYSTFTYMNPTQRPMYTPIADTSGVPT----------IPQTHSPQQHWEQPVYTQL
+SX10_CHICK     QASGLYSAFSYMGPSQRPLYTAISD--PAPS----------VPQSHSPT-HWEQPVYTTL
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     AYGMQYEDFLRYQSNDMDYSTSAVEHKETTSDSASGQKCLKYPDTNQNYDDYEAEAYSNA
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     IFSTLNRDYSFRDYSSECTHSENS--RSCENMNG----TSYYNSHSHSGEENLNPVPQLD
+SX13_MOUSE     R-SPLCHLG-YFELCSLAV--LVFVFQVHVPLATVCLCEAHTCSSRHSW---QKAFAECH
+SX13_HUMAN     DCSSITRIALYFVQKGLAVPCCFHLCQAYCALAAVCV-RVHVCVF-HLFIHCTRYLLSAH
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     LNSSSGYTCVSSSSVTNSGHTENNTWRSDEQSKG----FVDINSFSQSLFSNGNYEFAAH
+CIC_DROME      GAIFNFNVPTATALSQKQFHYPMHHPHRSPTDLRA---AHQACVPSSPAGMGLGHAANIA
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     TRP---------------------------------------------------------
+SOX8_CHICK     TRP---------------------------------------------------------
+SOX9_CHICK     TRP---------------------------------------------------------
+SX10_CHICK     SRP---------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     MLPATAASYYTQLPYPPTSLAAFPLQLAVPFQQTTSGAYGAQPIQSGYLHYGNYGGYEGM
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     IGTLENVF---TAPTST-P--SSIQQVNVTDSDEEEEEKVLRDL----------------
+SX13_MOUSE     CEPGTPVSSV-MCV---LMLLWGLL-LCSFVPKLLPLCQSGVSGSVYFLPMYTSPSSSSV
+SX13_HUMAN     YVPGTVAEFLWVCLSMPLLLLWGPLSVLLFVPKLLPLCQSG------CLRFCVS------
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     SQELDDLFSQITDFTSTDPIASSLKDANSLGPSLLEPWLPNSNLF---------------
+CIC_DROME      TPPASAPAQIMGGGPASQKMFFAMTHPYTLLQRSHQPGTPSLEHL--QLDAFAPGGYTLR
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     AQSQPQNQAPVHHQQASHSAPPSLSVPPNQTVTSNSAAISMQQHHHHHFGPAPGMVGVGV
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     CPCSHHTRCILWVFVGPSLPLGLAVPDPHDPFPPFRLCQSVPTEPFLAPRTVRASPGLQG
+SX13_HUMAN     -LCAFLSLSVLVSLQGPLFLSYLGV----CPLPPVPSGFSGSM-----------------
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      NHNGLSSLPPPVSAQPTMLLHGYPPSHGVEPPARSPSYKSMPSTPKSATYLMSAPPERGM
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     GVGVGVGVGEMLFEQQQRKDDEISNILAGVRKTCYSN-----------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     GSALIPNVCAAVMRIFFSVTALQRGPHGSWSPSLLHELRVASSPPPSPPKLASWLYPKEI
+SX13_HUMAN     ------------------------------------------------------------
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      DGGM-SGCASAAASGGDESDIDADGQQFILAPTPAQLGRA----PLQRRKNLSQSKSESN
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     IST---------------------------------------------------------
+SX13_HUMAN     ------------------------------------------------------------
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      VSFGANLGASNGQHISRKLHSPTMMESSSPIIGHVNSSNLSSALPTPTSSTTTPNSDEQL
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     ------------------------------------------------------------
+SX13_HUMAN     ------------------------------------------------------------
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      PLTPTTSSSNSNLNQQQPKSPMKGAPGSTAAALKKKNDEMNNSVLKQVDFEKKYKALPQF
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     ------------------------------------------------------------
+SX13_HUMAN     ------------------------------------------------------------
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      QPEDCQSPSAIAVPSSPRVYGTNYRKKNTAPPPVQKLMCEDDSIDEPASAPPTTTQRFFG
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     ------------------------------------------------------------
+SX13_HUMAN     ------------------------------------------------------------
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      PDFNNELKELESSDQTGRSPRTPKTPLQSARSDASEKGHRKVLETRRSLVLQLFAEHGNF
+
+
+1j46_A         ------------------------------------------------------------
+SX15_HUMAN     ------------------------------------------------------------
+SX15_MOUSE     ------------------------------------------------------------
+SRY_PIG        ------------------------------------------------------------
+SRY_BISBO      ------------------------------------------------------------
+AES2_ALLMI     ------------------------------------------------------------
+ADW2_ALLMI     ------------------------------------------------------------
+SX14_DROME     ------------------------------------------------------------
+SOX8_HUMAN     ------------------------------------------------------------
+SOX8_CHICK     ------------------------------------------------------------
+SOX9_CHICK     ------------------------------------------------------------
+SX10_CHICK     ------------------------------------------------------------
+SRY_SMIMA      ------------------------------------------------------------
+SX17_HUMAN     ------------------------------------------------------------
+SOX7_HUMAN     ------------------------------------------------------------
+SX18_HUMAN     ------------------------------------------------------------
+POP1_CAEEL     ------------------------------------------------------------
+SX15_DROME     ------------------------------------------------------------
+MTMC_SCHPO     ------------------------------------------------------------
+SX30_HUMAN     ------------------------------------------------------------
+SX13_MOUSE     ------------------------------------------------------------
+SX13_HUMAN     ------------------------------------------------------------
+SX12_XENLA     ------------------------------------------------------------
+SOX5_HUMAN     ------------------------------------------------------------
+SOX6_HUMAN     ------------------------------------------------------------
+2lef_A         ------------------------------------------------------------
+ST11_SCHPO     ------------------------------------------------------------
+CIC_DROME      PTAQATMAFQSKHSDVFPRKQDLQLKIREVRQKLLGQASCTPHSAGPNTPSDSNSSSTTL
+
+
+1j46_A         ---------------------
+SX15_HUMAN     ---------------------
+SX15_MOUSE     ---------------------
+SRY_PIG        ---------------------
+SRY_BISBO      ---------------------
+AES2_ALLMI     ---------------------
+ADW2_ALLMI     ---------------------
+SX14_DROME     ---------------------
+SOX8_HUMAN     ---------------------
+SOX8_CHICK     ---------------------
+SOX9_CHICK     ---------------------
+SX10_CHICK     ---------------------
+SRY_SMIMA      ---------------------
+SX17_HUMAN     ---------------------
+SOX7_HUMAN     ---------------------
+SX18_HUMAN     ---------------------
+POP1_CAEEL     ---------------------
+SX15_DROME     ---------------------
+MTMC_SCHPO     ---------------------
+SX30_HUMAN     ---------------------
+SX13_MOUSE     ---------------------
+SX13_HUMAN     ---------------------
+SX12_XENLA     ---------------------
+SOX5_HUMAN     ---------------------
+SOX6_HUMAN     ---------------------
+2lef_A         ---------------------
+ST11_SCHPO     ---------------------
+CIC_DROME      SASSTSLNMQTTSAADVFQYY
+
+

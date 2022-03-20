@@ -1,0 +1,35 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11022_mafft.fa.msf  MSF: 224  Type: N  December 21, 2021 21:49  Check: 1496  ..
+
+ Name: 1r69_   Len:    224  Check: 8140  Weight: 1.00
+ Name: 1neq_   Len:    224  Check: 5992  Weight: 1.00
+ Name: 1au7_A  Len:    224  Check: 8889  Weight: 1.00
+ Name: 1a04_A  Len:    224  Check: 8475  Weight: 1.00
+
+//
+
+1r69_      ------------------------------------------------------------
+1neq_      ------------------------------------------------------------
+1au7_A     ------------------------------------------------------------
+1a04_A     EPATILLIDDHPMLRTGVKQLISMAPDITVVGEASNGEQGIELAESLDPDLILLDLNMPG
+
+
+1r69_      --------SISSRVKSKRIQLGLNQAELAQKVGT-------TQQSIEQLENGKTKRPRFL
+1neq_      ----------------------------------------------CSNEKARD-----W
+1au7_A     --GMRALEQFANEFKVRRIKLGYTQTNVGEALAAV-HGSEFSQTTICRFENLQLS----F
+1a04_A     MNGLETLDKLREKSLSGRIVVFSVSNHEEDVVTALKRGADGYLLKDMEPEDLLKA----L
+
+
+1r69_      PELASALGVSVDWLLNGT------------------------------------------
+1neq_      HRADVIAGLKKRKLSLSALSRQFGYAPTTLAN--ALERHW-----PKGEQIIANALETKP
+1au7_A     KNACKLKAILSKWLEEAEQKRR---TTISIAAKDALERHFGEHSKPSSQEIMRM------
+1a04_A     HQAAAGEMVLSEAL------------TPVLAA--SLERDVNQLT-PRERDILKLIAQGLP
+
+
+1r69_      --------------------------------------------
+1neq_      EVIWPSRYQAGE--------------------------------
+1au7_A     ----AEELNLEKEVVRVWFCNRRQR--------------EKRVK
+1a04_A     NKMIARRLDITESTVKVHVKHMLKKMKLKSRVEAAVWVHQERIF
+
+

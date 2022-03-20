@@ -1,0 +1,469 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV20_BB20012_kalign.msf  MSF: 882  Type: N  December 21, 2021 20:25  Check: 1561  ..
+
+ Name: 1kjz_A      Len:    882  Check: 5266  Weight: 1.00
+ Name: IF2G_METTH  Len:    882  Check: 8862  Weight: 1.00
+ Name: IF2G_METJA  Len:    882  Check: 1295  Weight: 1.00
+ Name: IF2G_ARCFU  Len:    882  Check: 5271  Weight: 1.00
+ Name: IF2G_METAC  Len:    882  Check: 3350  Weight: 1.00
+ Name: IF2G_METKA  Len:    882  Check:  144  Weight: 1.00
+ Name: IF2G_HALHA  Len:    882  Check: 2052  Weight: 1.00
+ Name: IF2G_THEAC  Len:    882  Check:  840  Weight: 1.00
+ Name: IF2G_AERPE  Len:    882  Check: 6290  Weight: 1.00
+ Name: IF2G_SPIVO  Len:    882  Check: 3540  Weight: 1.00
+ Name: IF2G_SCHPO  Len:    882  Check: 9531  Weight: 1.00
+ Name: IF2G_YEAST  Len:    882  Check: 8554  Weight: 1.00
+ Name: IF2G_HUMAN  Len:    882  Check: 2985  Weight: 1.00
+ Name: IF2G_DROME  Len:    882  Check: 9985  Weight: 1.00
+ Name: IF2G_ENCCU  Len:    882  Check:  352  Weight: 1.00
+ Name: EFTU_SPIPL  Len:    882  Check: 3593  Weight: 1.00
+ Name: EFT1_PASMU  Len:    882  Check: 5976  Weight: 1.00
+ Name: EFTU_LACPL  Len:    882  Check: 8930  Weight: 1.00
+ Name: EFTU_LACLA  Len:    882  Check: 8298  Weight: 1.00
+ Name: EFTU_BRELN  Len:    882  Check: 9712  Weight: 1.00
+ Name: EFTU_YEAST  Len:    882  Check: 5585  Weight: 1.00
+ Name: SELB_MOOTH  Len:    882  Check: 6423  Weight: 1.00
+ Name: SELB_DESBA  Len:    882  Check: 9421  Weight: 1.00
+ Name: SELB_ECOLI  Len:    882  Check: 5112  Weight: 1.00
+ Name: 1ega_A      Len:    882  Check:  581  Weight: 1.00
+ Name: 1g7r_A      Len:    882  Check:  965  Weight: 1.00
+ Name: 1mky_A      Len:    882  Check: 8648  Weight: 1.00
+
+//
+
+1kjz_A         ------------------------------------------------------------
+IF2G_METTH     ------------------------------------------------------------
+IF2G_METJA     ------------------------------------------------------------
+IF2G_ARCFU     ------------------------------------------------------------
+IF2G_METAC     ------------------------------------------------------------
+IF2G_METKA     ------------------------------------------------------------
+IF2G_HALHA     ------------------------------------------------------------
+IF2G_THEAC     ------------------------------------------------------------
+IF2G_AERPE     ------------------------------------------------------------
+IF2G_SPIVO     ------------------------------------------------------------
+IF2G_SCHPO     ------------------------------------------------------------
+IF2G_YEAST     MSDLQDQEPSIIINGNLEPVGEPDIVEETEVVAQETQETQDADKPKKKVAFTGLEEDGET
+IF2G_HUMAN     ------------------------------------------------------------
+IF2G_DROME     ------------------------------------------------------------
+IF2G_ENCCU     ------------------------------------------------------------
+EFTU_SPIPL     ------------------------------------------------------------
+EFT1_PASMU     ------------------------------------------------------------
+EFTU_LACPL     ------------------------------------------------------------
+EFTU_LACLA     ------------------------------------------------------------
+EFTU_BRELN     ------------------------------------------------------------
+EFTU_YEAST     ------------------------------------------------------MSALLP
+SELB_MOOTH     ------------------------------------------------------------
+SELB_DESBA     ------------------------------------------------------------
+SELB_ECOLI     ------------------------------------------------------------
+1ega_A         ------------------------------------------------------------
+1g7r_A         ------------------------------------------------------------
+1mky_A         ------------------------------------------------------------
+
+
+1kjz_A         -------------------------------------SRQAEVNIGMVGHVDHGKTTLTK
+IF2G_METTH     ----------------------------------MKNQS--EINIGLVGHVDHGKTTLTK
+IF2G_METJA     ----MHFSKIIYL-KNTYILQINKKFIKGIIMAKKKQAKQAEVNIGMVGHVDHGKTSLTK
+IF2G_ARCFU     -----------------MRRNPSTFKYIPLRIDFMSEVPLPEVNIGLVGHVDHGKTTLVA
+IF2G_METAC     -MKSADPGVKIPG-GTDFGKNTCLISDYLHSTGGNYNLSQPCVNIGMVGHVDHGKTTLVK
+IF2G_METKA     --------------------------------MDDERFQQAEMNIGMVGHVDHGKTTLTK
+IF2G_HALHA     ---------------------------------MADEHRQPEVNIGLVGHVDHGKTTLVR
+IF2G_THEAC     -------------------------------MISKLKMPQPSVNIGMVGHVDHGKSTLTL
+IF2G_AERPE     --------------------------MPGFSALSGGDKRQPEVNIGVVGHVDHGKTTLVQ
+IF2G_SPIVO     -----------------------------------------------IGHVAHGKSTLCK
+IF2G_SCHPO     -------------------MAENLDISELSPIHPAIISRQATINIGTIGHVAHGKSTVVK
+IF2G_YEAST     EEEKRKREFEEGG-GLPEQPL-NPDFSKLNPLSAEIINRQATINIGTIGHVAHGKSTVVR
+IF2G_HUMAN     --AGGEAGVTLGQPHLSRQDLTTLDVTKLTPLSHEVISRQATINIGTIGHVAHGKSTVVK
+IF2G_DROME     -MATAEAQIGVNR-NLQKQDLSNLDVSKLTPLSPEVISRQATINIGTIGHVAHGKSTVVK
+IF2G_ENCCU     -----------------------------MNDALEIMKRQATLNIGTIGHVAHGKSTIVK
+EFTU_SPIPL     ------------------------------MARAKFERNKPHVNIGTIGHVDHGKTTLTA
+EFT1_PASMU     ------------------------------MSKEKFERTKPHVNVGTIGHVDHGKTTLTA
+EFTU_LACPL     ------------------------------MAKEHYERTKPHVNIGTIGHVDHGKTTLTA
+EFTU_LACLA     ------------------------------MAKEVYDRSKPHVNIGTIGHVDHGKTTLSA
+EFTU_BRELN     ------------------------------MAKASFERTKPHVNIGTIGHVDHGKTTLTA
+EFTU_YEAST     RLLTRTAFKASGKLLRLSSVISRTFSQTTTSYAAAFDRSKPHVNIGTIGHVDHGKTTLTA
+SELB_MOOTH     ---------------------------------------MDYIVVGTAGHVDHGKTVLVK
+SELB_DESBA     ---------------------------------------MP-VIMGTAGHIDHGKTSLIK
+SELB_ECOLI     ------------------------------------------MIIATAGHVDHGKTTLLQ
+1ega_A         -------------------------------------DKSYCGFIAIVGRPNVGKSTLLN
+1g7r_A         ---------------------------------------------------XKIRSPIVS
+1mky_A         ------------------------------------------ATVLIVGRPNVGKSTLFN
+
+
+1kjz_A         ALTGVWTD-HSEELRRGITIKIGFADAEIRRCPN--CGR---YST-------SPVCPY--
+IF2G_METTH     ALSGVWTDTHSEETKRGISIRLGYADITFRKCPQ--CEAPMCYTT-------AEICER--
+IF2G_METJA     ALTGVWTDRHSEELRRGISIRLGYADCEIRKCPQ--CGT---YTT-------KPRCPN--
+IF2G_ARCFU     ALSGVWTDRHSEELKRGISIKLGYADATFRKCPE--CEPPEAYTV-------EEICPI--
+IF2G_METAC     ALSGVWTDTHSEEVKRGISIRLGYADSPFMKCPK--CPAPQCYTV-------EKTCPN--
+IF2G_METKA     ALSGVWTDTHSEETRRGISIRLGYADTVLTRCPE--CDT---YSV-------EEKCPE--
+IF2G_HALHA     ALSGEWTDQHSEEMKRGISIRLGYADATLRRCPD--CDDPECYTV-------AETCPE--
+IF2G_THEAC     ALTGTKTDTHSEEIKRGISIKLGYADTPIYRCYD--SSGNVHYTR-------EKGE-N--
+IF2G_AERPE     ALTGVWTMRHSEEIRRGMTIKLGYADGEVWECEG--CGFPERFSP-------EPVC-E--
+IF2G_SPIVO     VLTGVDPIKFAAEKVNNITIKLGFANAKIFECKD--CAAPKNYFSQKSSSPDQPPCPT--
+IF2G_SCHPO     AISGVHTVRFKNELERNITIKLGYANAKIYKCSNEECPRPGCYRSYSSNKEDHPPCEI--
+IF2G_YEAST     AISGVQTVRFKDELERNITIKLGYANAKIYKCQEPTCPEPDCYRSFKSDKEISPKCQRPG
+IF2G_HUMAN     AISGVHTVRFKNELERNITIKLGYANAKIYKLDDPSCPRPECYRSCGSSTPDEFPTDIPG
+IF2G_DROME     AISGVQTVRFKNELERNITIKLGYANAKIYKCDNPKCPRPASFVSDASSKDDSLPCTRLN
+IF2G_ENCCU     AISGISTIKFKAELERNITIKLGYANAKIYKCDS-KCVRPNCYQSFGSSSPDRLSCKK--
+EFTU_SPIPL     AITMTLAASG--GAKARKYDDIDAAPEEKQRGIT-INTAHVEYET---------------
+EFT1_PASMU     AITTVLAKHY--GGAARAFDQIDNAPEEKARGIT-INTSHVEYDT---------------
+EFTU_LACPL     AITKVLASKG--LAKEQDFASIDAAPEERERGIT-INTAHVEYET---------------
+EFTU_LACLA     AISKVLSDKG--YSKATDFASIDAAPEERERGIT-INTAHIEYET---------------
+EFTU_BRELN     AITKVLADQYPDLNEARAFDQVDNAPEEKERGIT-INVSHVEYQT---------------
+EFTU_YEAST     AITKTLAAKG--GANFLDYAAIDKAPEERARGIT-ISTAHVEYET---------------
+SELB_MOOTH     ALTGVDTDRLKEEKERGISIELGFAPLTLPSG----------------------------
+SELB_DESBA     ALTGINCDRLAEEQKRGITIELGFAYLDLTPE----------------------------
+SELB_ECOLI     AITGVNADRLPEEKKRGMTIDLGYAYWPQPDG----------------------------
+1ega_A         KLLGQKISITSRKAQTTRHRIVGIHTEGAYQAIY--VDTPGLHME---------------
+1g7r_A         VLGTTLLDHIRGSAVASQHIGATEIPXDVIEG---ICGDFLKKFSI--------------
+1mky_A         KLVKDPVQDT-------------VEWYGKTFKL---VDTCGVFDN---------------
+
+
+1kjz_A         CG--HETEFVRRVSFIDAPGHEALMTTMLAGASLMDGAILVIAANEPCPRPQTREHLMAL
+IF2G_METTH     CG--TETELLRKVSFVDAPGHETLMATMLSGAALMDGAILVIAANEPCPQPQTKEHLMAL
+IF2G_METJA     CL--AETEFLRRVSFVDSPGHETLMATMLSGASLMDGAILVIAANEPCPQPQTKEHLMAL
+IF2G_ARCFU     HG--VETEILRTVSFVDSPGHEMLMATMLSGAAIMDGAVLVIAANEKCPRPQTKEHLMAL
+IF2G_METAC     CG--EKTEEHRIVSFVDAPGHETLMATMLSGAAIMDGAVLVIAANEECPQPQTKEHLMAL
+IF2G_METKA     CG--AETEWLRRVSFVDSPGHETLMATMLSGAAIMDAAILVIAANEPCPQPQTREHLMAL
+IF2G_HALHA     HD--TATEIERTVSFVDAPGHETLMATMLSGAALMDGAVLVVGANEPVPQPQTEEHLMAL
+IF2G_THEAC     CD------LERVISIVDAPGHETLMATMLSGSALMNGALLVIAANEHCPQPQTREHLTAL
+IF2G_AERPE     CDPQASASLRRRVSYVDAPGHEILMATMLSGAALMDGALLVVAANEPCPQPQTKEHLVAL
+IF2G_SPIVO     CK-GTHTQLLRHISIIDCPGHHDYMTTMLSGVAAMDGTLLLISAEQRCPQEQTREHFQAI
+IF2G_SCHPO     CN-SP-MNLVRHVSFVDCPGHDILMATMLNGAAVMDAALLLIAGNESCPQPQTSEHLAAI
+IF2G_YEAST     CP-GR-YKLVRHVSFVDCPGHDILMSTMLSGAAVMDAALLLIAGNESCPQPQTSEHLAAI
+IF2G_HUMAN     TK-GN-FKLVRHVSFVDCPGHDILMATMLNGAAVMDAALLLIAGNESCPQPQTSEHLAAI
+IF2G_DROME     CS-GN-FRLVRHVSFVDCPGHDILMATMLNGAAVMDAALLLIAGNESCPQPQTSEHLAAI
+IF2G_ENCCU     CG-GT-LKLVRHVSFVDCPGHDVLMATMLNGTAIMDAVLLLIAANEPCPQPQTTEHLFAV
+EFTU_SPIPL     --------EQRHYAHVDCPGHADYVKNMITGAAQMDGAILVVSAADG-PMPQTREHILLA
+EFT1_PASMU     --------PTRHYAHVDCPGHADYVKNMITGAAQMDGAILVVAATDG-PMPQTREHILLG
+EFTU_LACPL     --------EKRHYAHIDAPGHADYVKNMITGAAQMDGAILVVAATDG-PMPQTREHILLA
+EFTU_LACLA     --------EKRHYAHIDAPGHADYVKNMITGAAQMDGAILVVAATDG-PMPQTREHILLS
+EFTU_BRELN     --------EKRHYAHVDAPGHADYVKNMITGAAQMDGAILVVAATDG-PMPQTREHVLLA
+EFTU_YEAST     --------AKRHYSHVDCPGHADYIKNMITGAAQMDGAIIVVAATDG-QMPQTREHLLLA
+SELB_MOOTH     ----------RQLGLVDVPGHERFIRQMLAGVGGMDLVMLVVAADEG-VMPQTREHLAII
+SELB_DESBA     ----------VRLGIIDVPGHERFVKNMVSGAAGIDFVLLVIAADEG-IMPQTREHLEIC
+SELB_ECOLI     ----------RVPGFIDVPGHEKFLSNMLAGVGGIDHALLVVACDDG-VMAQTREHLAIL
+1ega_A         --------EKRAIN-------RLMNKAASSSIGDVELVIFVVEGTR---WTPDDEMVLNK
+1g7r_A         ------RETLPGLFFIDTPGAFTTLRK--RGGALADLAILIVDINEG-FKPQTQEALNIL
+1mky_A         --------PQDIIS-------QKXKEVTLNXIREADLVLFVVDGKRG--ITKEDESLADF
+
+
+1kjz_A         QIIGQKNIIIAQNKIELVDKEKALE----------------------NYR----------
+IF2G_METTH     DVIGVKDVIVVQNKIDIVSKERALE----------------------SYR----------
+IF2G_METJA     EILGIDKIIIVQNKIDLVDEKQAEE----------------------NYE----------
+IF2G_ARCFU     QIIGIDKIVIAQNKIDIVSRERVLE----------------------NYQ----------
+IF2G_METAC     DIIGIKNIVIVQNKIDLVSREKLVE----------------------NYH----------
+IF2G_METKA     EIIGTEDVIVVQNKIDLVTPEEARE----------------------HYE----------
+IF2G_HALHA     DIIGIENIVIAQNKVDLVDAEEARQ----------------------NYE----------
+IF2G_THEAC     EIMGIKNIIIVQNKIDLVTRERAIE----------------------SYR----------
+IF2G_AERPE     EIIGIKNIVIVQNKVDVVSRERAKE----------------------SYQ----------
+IF2G_SPIVO     QATGQKKIIIAQNKIDLVTEQQAQN----------------------NYQ----------
+IF2G_SCHPO     EIMQLKHIIILQNKVDLIRESAAEE----------------------HYQ----------
+IF2G_YEAST     EIMKLKHVIILQNKVDLMREESALE----------------------HQK----------
+IF2G_HUMAN     EIMKLKHILILQNKIDLVKESQAKE----------------------QYE----------
+IF2G_DROME     EIMKLKQILILQNKIDLIKESQAKE----------------------QYE----------
+IF2G_ENCCU     EIMDLKKVLVVQNKIDLVSREQALE----------------------QHD----------
+EFTU_SPIPL     KQVGVPSIVVFLNKADMVDDEELLE----------------------LVEL---------
+EFT1_PASMU     RQVGVPYIIVFLNKCDMVDDEELLE----------------------LVEM---------
+EFTU_LACPL     RQVGVDYIVVFLNKTDLVDDDELVD----------------------LVEM---------
+EFTU_LACLA     RQVGVKYLIVFLNKADLVDDEELME----------------------LVEM---------
+EFTU_BRELN     RQVGVPYIVVALNKSDMVDDEELLE----------------------LVEF---------
+EFTU_YEAST     RQVGVQHIVVFVNKVDTIDDPEMLE----------------------LVEM---------
+SELB_MOOTH     DLLQIKKGIIVITKIDLVEADWLEL----------------------VRE----------
+SELB_DESBA     SLLGIRAGLVALTKTDMVEEDWLEL----------------------VHE----------
+SELB_ECOLI     QLTGNPMLTVALTKADRVDEARVDE----------------------VER----------
+1ega_A         LREGKAPVILAVNKVDNVQE-KA-------------------------------------
+1g7r_A         RXYRTP-FVVAANKIDRIHGWRVHEGRPFXETFSKQDIQVQQKLDTKVYELVGKLHEEGF
+1mky_A         LRKSTVDTILVANKAENLREFER-------------------------------------
+
+
+1kjz_A         QIKEFIEGTV---AENAPIIPISALHGAN--------------------IDVLVKAIEDF
+IF2G_METTH     EIKEFVKGTC---AEDAPIIPVSAQQGAN--------------------IDILIETIEER
+IF2G_METJA     QIKEFVKGTI---AENAPIIPISAHHEAN--------------------IDVLLKAIQDF
+IF2G_ARCFU     EIKEFVKGTV---AENAPIIPISAQQKVN--------------------MDALIEAIEET
+IF2G_METAC     QIKEFVKGTV---AENAPIIPISAQQNIN--------------------IDVLIDALETQ
+IF2G_METKA     QIVQFLEEETHLDPDKTPIIPVSAQHKAN--------------------LDVLVEAMYEH
+IF2G_HALHA     EIQAFVEGTV---AEDAPVVPVSAEQEIN--------------------VDLVIDALQTE
+IF2G_THEAC     EIKNFVKGSI---AENAPIIPVSAYHSTN--------------------IDALFEAIEKY
+IF2G_AERPE     EILNFIKGTI---AEGSPIIPVSALKRAN--------------------IDAVLAAIEKF
+IF2G_SPIVO     EIQAFVHG-----ISDINVVPISAIQNLN--------------------IDYILKHLVET
+IF2G_SCHPO     SILKFIKGTV---AENSPIVPISAQLKYN--------------------IDAILEYIVKK
+IF2G_YEAST     SILKFIRGTI---ADGAPIVPISAQLKYN--------------------IDAVNEFIVKT
+IF2G_HUMAN     QILAFVQGTV---AEGAPIIPISAQLKYN--------------------IEVVCEYIVKK
+IF2G_DROME     EITKFVQGTV---AEGAPIIPISAQLKYN--------------------IDVLCEYIVNK
+IF2G_ENCCU     QIQKFLKTSN---VSG-PVIPTAAQIGVN--------------------IPALLDFIVNY
+EFTU_SPIPL     EVRELLSSYD-FPGDDIPIVSGSALKALDFLTENPKTTRG-ENDW-VDKIHALMDEVDAY
+EFT1_PASMU     EVRELLSQYD-FPGDDTPIVRGSALQALN----------G-VAEW-EEKILELANHLDTY
+EFTU_LACPL     EVRELLSEYD-FPGDDIPVIRGSALKALE----------G-DPEQ-EKVIMHLMDVVDEY
+EFTU_LACLA     EVRDLLSEYD-FPGDDIPVIAGSALGALN----------G-EPQW-VAKVEELMDIVDEY
+EFTU_BRELN     EVRDLLSSQD-FDGDNAPVIPVSALKALE----------G-DEKW-VKSVQDLMAAVDDN
+EFTU_YEAST     EMRELLNEYG-FDGDNAPIIMGSALCALE----------GRQPEIGEQAIMKLLDAVDEY
+SELB_MOOTH     EVRQAVKGTV---LEDAPLVEVSALTGEG--------------------IAELREQLDAL
+SELB_DESBA     EVQTYLAGSF---LEGAPIVPVSAHTGAG--------------------LEELKGYIAEL
+SELB_ECOLI     QVKEVLREYG---FAEAKLFITAATEGRG--------------------MDALREHLLQL
+1ega_A         DLLPHLQFLA-SQMNFLDIVPISAETGLN--------------------VDTIAAIVRKH
+1g7r_A         ESERFDRVTD-F-ASQVSIIPISAITGEG------------IPEL----LTXLXGLAQQY
+1mky_A         EVKPELYSL-----GFGEPIPVSAEHNIN--------------------LDTXLETIIKK
+
+
+1kjz_A         IPTPKR-DPNKP-PKMLV-LRSFDVNKPG----KLVGGV-LDGSIVQGKLKVGDEIEIRP
+IF2G_METTH     IKTPKR-DVDKP-ARMYV-ARSFDINKPGADPEHLAGGV-IGGSLVQGRLRVGDEIEIRP
+IF2G_METJA     IPTPKR-DPDAT-PRMYV-ARSFDINKPGTEIKDLKGGV-LGGAIIQGVFKVGDEIEIRP
+IF2G_ARCFU     IPTPER-DLDSP-PLMHV-ARSFDVNKPGTPPEKLLGGV-LGGSLSRGRIRVGDEIEIRP
+IF2G_METAC     IPTPVH-KVDKP-ASMLI-ARSFDINKPGASIDEIRGGV-IGGTLTEGVLHPGDELEIRP
+IF2G_METKA     FEPPEY-DLDAP-FRMYI-ARSFDVNKPGTRPSDLKGGV-IGGAIVQGEVEIGDEIEIRP
+IF2G_HALHA     IATPDR-DPSAD-PLLYA-ARSFDINRPGTEWGGLLGGV-IGGSLVDGELEAGDELELRP
+IF2G_THEAC     IPSPKF-NENDD-PIMYI-ARSFDINRPGTPVSELKGGV-IGGSLTQGEFALGDEIEIVP
+IF2G_AERPE     IPTPPR-DLDKP-PVMYI-SRSFDVNRPGTPPERLVGGV-VGGSIIQGVFRVGDEIEISP
+IF2G_SPIVO     ITPPRR-NLKAH-PRFTI-IRS--------------------------------------
+IF2G_SCHPO     IPIPVR-DFTTA-PRLIV-IRSFDVNKPGAEVDDLKGGV-AGGSILTGVLRLNDEIEIRP
+IF2G_YEAST     IPVPPR-DFMIS-PRLIV-IRSFDVNKPGAEIEDLKGGV-AGGSILNGVFKLGDEIEIRP
+IF2G_HUMAN     IPVPPR-DFTSE-PRLIV-IRSFDVNKPGCEVDDLKGGV-AGGSILKGVLKVGQEIEVRP
+IF2G_DROME     IPVPPR-DFNAP-PRLIV-IRSFDVNKPGCEVADLKGGV-AGGSILSGVLKVGQEIEVRP
+IF2G_ENCCU     IPEPVR-DSTAR-PKMIV-IRSFDVNRPGTRVCEMSGGV-IGGSLVTGMLRVGDKIEIRP
+EFTU_SPIPL     IPTPER-DIDKG-LLDGLWEDVFSITGRGT--------V-STAGIERGKVKVGDTVELI-
+EFT1_PASMU     IPEPQR-AIDQP-FLLPI-EDVFSISGRGT--------V-VTGRVERGIIRTGEEVEIV-
+EFTU_LACPL     IPTPVR-DTEKP-FLMPV-EDVFSITGRGT--------V-ASGRIDRGTVKVGDEVEIV-
+EFTU_LACLA     IPTPER-DTDKP-LLLPV-EDVFSITGRGT--------V-ASGRIERGTVKVGDEVEIV-
+EFTU_BRELN     VPEPER-DVDKP-FLMPV-EDVFTITGRGT--------V-VTGRVERGVLLPNDEIEIV-
+EFTU_YEAST     IPTPER-DLNKP-FLMPV-EDIFSISGRGT--------V-VTGRVERGNLKKGEELEIV-
+SELB_MOOTH     AAVTPP-RPAAGRVRLPI-DRVFSVTGFGT--------V-VTGTLWSGTIKVGDELEVQP
+SELB_DESBA     SSTFAP-DRRSDLFRLPV-DRVFTMKGHGT--------V-VTGTSISGALRLGEEIEIVP
+SELB_ECOLI     PEREHA-SQHS--FRLAI-DRAFTVKGAGL--------V-VTGTALSGEVKVGDSLWLTG
+1ega_A         LPEATH-HF-PE-DYITD----------------------RSQRFMASEI-------IRE
+1g7r_A         LREQLKIEEDSP-ARGTI-LEVKEETGLGX--------T-IDAVIYDGILRKDDTIAXXT
+1mky_A         LEEKGL-DLESK-PEITDAIKVAIVGRPNVGKSTLFNAILNKERALVSPIPVDDEVFIDG
+
+
+1kjz_A         G--VPYEE-HGRIKYEPITTEIVSLQAGGQFVEEAYPG-GLVGVGTKLDPYLTKGDLMAG
+IF2G_METTH     G--IQVKK-DGKQTWMSLHSTITGLVAGGEEMEEVGPG-GLVGVGTLLDPALTKADSLSG
+IF2G_METJA     G--IKVTE-GNKTFWKPLTTKIVSLAAGNTILRKAHPG-GLIGVGTTLDPYLTKSDALTG
+IF2G_ARCFU     G--V---K-DERGNWNPLFTEVQSIVASGRFVDEATPG-GLVGIATKLDPTLTKSDALVG
+IF2G_METAC     G--IKVTT-EGSTKWIPIVTTISSIYAGPTKVEEATPG-GLLAVGTYLDPTLTKGDSLTG
+IF2G_METKA     G--IRVER-YGRTEWEPVYTEVVSLHANVTPVERARPG-GLVGIGTKLDPTMTKADRLSG
+IF2G_HALHA     G--REVEE-GGKTEWRPVTTDVRSLQAGGEDVDSASPG-GLLGVGTGLDPSLTKGDALAG
+IF2G_THEAC     G--IQTTK-GNKTVWNNVTTEVVSLMAGKYSYDRIRPG-GLAAIGTKLDPFLTKGDAFTG
+IF2G_AERPE     G--VAVRKPGGRVEYVRLHTTITSLRFGSIEVEEARPG-GLVAIGTQLDPSVTKADNLVG
+IF2G_SPIVO     ------------------------------------------------------------
+IF2G_SCHPO     G--IVTKDDDGRIRCQPIFSRIISLFAEHNDLKIAVPG-GLIGVGTTVDPTLCRADRLVG
+IF2G_YEAST     G--IVTKDDKGKIQCKPIFSNIVSLFAEQNDLKFAVPG-GLIGVGTKVDPTLCRADRLVG
+IF2G_HUMAN     G--IVSKDSEGKLMCKPIFSKIVSLFAEHNDLQYAAPG-GLIGVGTKIDPTLCRADRMVG
+IF2G_DROME     G--VVTKDSDGNITCRPIFSRIVSLFAEQNELQYAVPG-GLIGVGTKIDPTLCRADRLVG
+IF2G_ENCCU     G--LVIRKGN-RFVCRPFVSEIVFLKAESIDLSEAYPG-GLIGVGTTMDPSFCKADKLVG
+EFTU_SPIPL     G--IKD-T---------RTTTVTGAEMFQKTLEEGMAG-DNVGL---LLRGIQKNDVQRG
+EFT1_PASMU     G--IKA-T---------TKTTVTGVEMFRKLLDEGRAG-ENVGA---LLRGTKREEIERG
+EFTU_LACPL     G--LHEDV---------LKSTVTGLEMFRKTLDLGEAG-DNVGA---LLRGVNREQVVRG
+EFTU_LACLA     G--IKEET---------KKAVVTGIEMFRKTLTEGLAG-DNVGA---LLRGIQRDEIERG
+EFTU_BRELN     G--IKEKS---------SKTTVTAIEMFRKTLPDARAG-ENVGL---LLRGTKREDVERG
+EFTU_YEAST     G--HNSTP---------LKTTVTGIEMFRKELDSAMAG-DNAGV---LLRGIRRDQLKRG
+SELB_MOOTH     ---------------EGLKTRARNLQVHGRTVKEARAG-QRVAVN--LAG-IETEAVHRG
+SELB_DESBA     ---------------SGHRSKVRGLQVHGTAAEVARAG-ERTAVN--LYG-LEVAELERG
+SELB_ECOLI     ---------------VNKPMRVRALHAQNQPTETANAG-QRIALN--IAGDAEKEQINRG
+1ega_A         KL-MRFL---GAEL--PYSVTVEIER-----FVSNERG-G---YDI-NGLILVEREGQKK
+1g7r_A         SKDVISTRIRSLLKPRPLKFQKVDEVVAAAGIKIVAPGIDDVXAGSPL-RVVTDPEKVRE
+1mky_A         RK-YVFVDTAGLEKYSNYRVVDSIEKADVVVIVLDATQ-GITRQDQ-RXAGLXERRGRAS
+
+
+1kjz_A         -NVVGKPGKLPPVWDSLRLEVHLLERVVGTEQE-----LKVE-PIKRKEV------LLLN
+IF2G_METTH     -SVAGEPGTLPPVRHSFTMETHLLERVVGTKEE-----TKVE-PIKTGEP------LMIN
+IF2G_METJA     -SVVGLPGTLPPIREKITIRANLLDRVVGTKEE-----LKIE-PLRTGEV------LMLN
+IF2G_ARCFU     -NVVGHPGNLPDVLTSFTMEVNLLERVVGLDEE-----MEVE-KIKMNEP------LMLA
+IF2G_METAC     -QIAGVPGTLPETRHQFVMELHLLDRVVGVTRE-----EKIN-EIKTSEP------LMLN
+IF2G_METKA     -QVAGEPDTLPPVRHELLLEVELLERVVGTEEE-----RKVE-PIRTNEV------LMLT
+IF2G_HALHA     PGRRGRPAGLPPTWESFEMDVDLLERLVGAAAA-----EQID-DISTGEP------LMPT
+IF2G_THEAC     -RIAGHVGKVPPVAFSMRLESHLLKRVVGSDQE-----LNVE-PIRPKET------LMFT
+IF2G_AERPE     -NVVGKPGELPEPLTTLRIEHHLLEKVVGMKEE-----ARVE-PIRRGEM------LMLS
+IF2G_SPIVO     ------------------------------------------------------------
+IF2G_SCHPO     -QVLGSKGNLPEVYTELEINYFLLRRLLGVKS-GDKNTTKVQ-KLAKNEV------LMVN
+IF2G_YEAST     -QVVGAKGHLPNIYTDIEINYFLLRRLLGVKTDGQKQ-AKVR-KLEPNEV------LMVN
+IF2G_HUMAN     -QVLGAVGALPEIFTELEISYFLLRRLLGVRTEGDKKAAKVQ-KLSKNEV------LMVN
+IF2G_DROME     -QVLGAVGQLPDIYQELEISYYLLRRLLGVRTDGDKKGARVE-KLQKNEI------LLVN
+IF2G_ENCCU     -QVMGKLGFLPSIFHKITVEYSLFPK---TTIQGSSN-------LKEGEH------VLLN
+EFTU_SPIPL     -MVIAKPKSITP-HTKFEAEVYILKKEEGGRHTPFFKGYRPQFYVRTTDVTGTIDEFTAD
+EFT1_PASMU     -QVLAKPGSITP-HTDFESEVYVLSKEEGGRHTPFFKGYRPQFYFRTTDVTGTIE---LP
+EFTU_LACPL     -QVLAKPGSIQT-HKKFKGEVYILSKEEGGRHTPFFSNYRPQFYFHTTDITGVIE---LP
+EFTU_LACLA     -QVIAKPGSITP-HKLFEGEVYVLSKEEGGRHTPFFDNYRPQFYFHTTDVTGSVK---LP
+EFTU_BRELN     -QVIVKPGSITP-HTKFEAQVYILSKDEGGRHNPFYSNYRPQFYFRTTDVTGVIT---LP
+EFTU_YEAST     -MVLAKPGTVKA-HTKILASLYILSKEEGGRHSGFGENYRPQMFIRTADVTVVMR---FP
+SELB_MOOTH     -SSLLTPGFLTP-TYRLDASFKLLNGA-RPLANR----DRVHFYLGTSEALGRV--VLLD
+SELB_DESBA     -EVLAHPQTLFP-SPVWDVEMTCLSSSPNPLKHR----TEVHFHHGSREILAKL--FFLD
+SELB_ECOLI     -DWLLAD--VPP-EPFTRVIVELQTHT--PLTQW----QPLHIHHAASHVTGRV--SLL-
+1ega_A         -MVIGNKGAKIK-TIGIEARKD-MQEMFEAPVHL-----ELWVKVKSGWADDERALRSL-
+1g7r_A         -EILSEIEDIK--IDTDEAGVVVKADTLGSLEAVVKILRDXYVPIKVADIGDVSRRDVVN
+1mky_A         -VVVFNKWDLV---VHREKRYDEFTKLFREKLYFIDYSPLIFTSADKGWNID-RXIDAXN
+
+
+1kjz_A         VGTARTMGLVTGLGKDEIEVKLQIPVCAEPGDRVAISRQIGSRWRLIG--YGIIKE----
+IF2G_METTH     VGTTTTVGVVKSARADDADVVLKLPACAEEGQRIALSRRVGARWRLIG--YGIIK-----
+IF2G_METJA     IGTATTAGVITSARGDIADIKLKLPICAEIGDRVAISRRVGSRWRLIG--YGTIEG----
+IF2G_ARCFU     VGTAITLGVVTSARDDIVEVKLRRPVCADKGSRVAISRRVGSRWRLIG--AGIIR-----
+IF2G_METAC     IGTATTVGIVTSARKNEAQVALKRPISAAVGAMVAISRRIDSRWRLIG--VGVIKS----
+IF2G_METKA     VGTATTVGVVTSARDDEIEIKLKQPVCAEEGDRVAISRRI-QRWRLIG--HGVIKG----
+IF2G_HALHA     VGTATTVGSVTRPRDGECEVALKRPVCAPAG-KIAINRRVGARWRLIG--VGTLTESE--
+IF2G_THEAC     VATANTVGVVNAMKGSEIEVSLKYPVAAFNGMRVAIGRRVMNRWRLIG--YGIIQSLE--
+IF2G_AERPE     VGTAITLGVVTRAGKDEIEVQLRRPVVTWPKARVALSRRIMGRWRLIG--WGLIK-----
+IF2G_SPIVO     ------------------------------------------------------------
+IF2G_SCHPO     IGSTSTGGRVMMVKADMAKILLTAPACTEIGEKVALSRRIEKHWRLIG--WAKVVEGKTL
+IF2G_YEAST     IGSTATGARVVAVKADMARLQLTSPACTEINEKIALSRRIEKHWRLIG--WATIKKGTTL
+IF2G_HUMAN     IGSLSTGGRVSAVKADLGKIVLTNPVCTEVGEKIALSRRVEKHWRLIG--WGQIRRGVTI
+IF2G_DROME     IGSLSTGGRISATKGDLAKIVLTTPVCTEKGEKIALSRRVENHWRLIG--WGQIFGGKTI
+IF2G_ENCCU     IGSTTTGSVIGRINETSGEFDLVKPACCEIGERIAISRKINNHWRLIG--HGEIKDGTCI
+EFTU_SPIPL     DGSTPE--MVIPGDRINMTVQLICPIAIEQGMRFAI-REGG---RTVG--AGVVAKILA-
+EFT1_PASMU     EGVE----MVMPGDNIKMTVSLIHPIAMDQGLRFAI-REGG---RTVG--AGVVAKIIK-
+EFTU_LACPL     DGVE----MVMPGDNVTFTVELIQPAAIEKGTKFTV-REGG---HTVG--AGVVSEIDD-
+EFTU_LACLA     EGTE----MVMPGDNVHIDVELIHPVAIEQGTTFSI-REGG---RTVG--SGIVAEIKA-
+EFTU_BRELN     EGTE----MVMPGDNTDMSVELIQPIAMEDRLRFAI-REGG---RTVG--AGRVTKITA-
+EFTU_YEAST     KEVEDHSMQVMPGDNVEMECDLIHPTPLEVGQRFNI-REGG---RTVG--TGLITRIIE-
+SELB_MOOTH     RD------ELNGGEEALIQLLMEKPVVASREDRFIL-RSYSPMETIGG--GIIIDPVPPK
+SELB_DESBA     RD------KLEPGETAVCQVRFPRPLPGVYGDRCIV-RSFSPLQTVAG--GRIINPLGRK
+SELB_ECOLI     -------------EDNLAELVFDTPLWLADNDRLVL-RDISARNTLAG--ARVVMLNPPR
+1ega_A         ------------------------------------------------------------
+1g7r_A         AGIALQEDRVYGA-IIAFNVKVIPSAAQELKNSDIKLFQGNVIYRLXEEYEEWVRGIEEE
+1mky_A         LAYASYTTKVPSSAINSALQKVLAFTNLPRGLKIFFGVQVDIKPPTFLFFVNSIEKVKNP
+
+
+1kjz_A         ------------------------------------------------------------
+IF2G_METTH     ------------------------------------------------------------
+IF2G_METJA     ------------------------------------------------------------
+IF2G_ARCFU     ------------------------------------------------------------
+IF2G_METAC     ------------------------------------------------------------
+IF2G_METKA     ------------------------------------------------------------
+IF2G_HALHA     ------------------------------------------------------------
+IF2G_THEAC     ------------------------------------------------------------
+IF2G_AERPE     ------------------------------------------------------------
+IF2G_SPIVO     ------------------------------------------------------------
+IF2G_SCHPO     KV----------------------------------------------------------
+IF2G_YEAST     EPIA--------------------------------------------------------
+IF2G_HUMAN     KPTVDDD-----------------------------------------------------
+IF2G_DROME     TPVLDSQVAKK-------------------------------------------------
+IF2G_ENCCU     EPEYDAEIDDAQRKAD--------------------------------------------
+EFTU_SPIPL     ------------------------------------------------------------
+EFT1_PASMU     ------------------------------------------------------------
+EFTU_LACPL     ------------------------------------------------------------
+EFTU_LACLA     ------------------------------------------------------------
+EFTU_BRELN     ------------------------------------------------------------
+EFTU_YEAST     ------------------------------------------------------------
+SELB_MOOTH     HRRFQPEVLVSLQRRLEGSPEKILAQIIQEHREGLDWQEAATRASLSLEETRKLLQSMAA
+SELB_DESBA     VRRHSKDMETLSTLGAATGEELLLAQLRLAGRGGLTVAELRIMTDMESKLLDKTLQILGG
+SELB_ECOLI     RGKRKPEYLQWLASLARAQSDADALSVHLE-RGAVNLADFAWARQLNGEGMRELLQQPG-
+1ega_A         ------------------------------------------------------------
+1g7r_A         KKKKWXEAIIKPASIRLI-PKLVFRQSKPA-IGGVEVLTGVIRQGYPLXNDDG--ETVGT
+1mky_A         QKIFLRKLIRDYVFPFEGSPIFLKFKRSR-------------------------------
+
+
+1kjz_A         ------------------------------------------------------------
+IF2G_METTH     ------------------------------------------------------------
+IF2G_METJA     ------------------------------------------------------------
+IF2G_ARCFU     ------------------------------------------------------------
+IF2G_METAC     ------------------------------------------------------------
+IF2G_METKA     ------------------------------------------------------------
+IF2G_HALHA     ------------------------------------------------------------
+IF2G_THEAC     ------------------------------------------------------------
+IF2G_AERPE     ------------------------------------------------------------
+IF2G_SPIVO     ------------------------------------------------------------
+IF2G_SCHPO     ------------------------------------------------------------
+IF2G_YEAST     ------------------------------------------------------------
+IF2G_HUMAN     ------------------------------------------------------------
+IF2G_DROME     ------------------------------------------------------------
+IF2G_ENCCU     ------------------------------------------------------------
+EFTU_SPIPL     ------------------------------------------------------------
+EFT1_PASMU     ------------------------------------------------------------
+EFTU_LACPL     ------------------------------------------------------------
+EFTU_LACLA     ------------------------------------------------------------
+EFTU_BRELN     ------------------------------------------------------------
+EFTU_YEAST     ------------------------------------------------------------
+SELB_MOOTH     AGQVTLLRVENDLYAISTERYQAWWQAVTRALEEFHSRYPLRPGLAREELRSRYFSRLPA
+SELB_DESBA     K-QLAFQFDRDDKRFVGADVLDGLAGACLEYLGEYHRREPMRQGLSRAELISGFGRGMHP
+SELB_ECOLI     -------YIQAGYSLLNAPVAARWQRKILDTLATYHEQHRDEPGPGRERLRRMALPMEDE
+1ega_A         ------------------------------------------------------------
+1g7r_A         V----ESXQDKGENLKSASRGQKVAXAIKDAV----------YGKTIHEGDTLYVD-IPE
+1mky_A         ------------------------------------------------------------
+
+
+1kjz_A         ------------------------------------------------------------
+IF2G_METTH     ------------------------------------------------------------
+IF2G_METJA     ------------------------------------------------------------
+IF2G_ARCFU     ------------------------------------------------------------
+IF2G_METAC     ------------------------------------------------------------
+IF2G_METKA     ------------------------------------------------------------
+IF2G_HALHA     ------------------------------------------------------------
+IF2G_THEAC     ------------------------------------------------------------
+IF2G_AERPE     ------------------------------------------------------------
+IF2G_SPIVO     ------------------------------------------------------------
+IF2G_SCHPO     ------------------------------------------------------------
+IF2G_YEAST     ------------------------------------------------------------
+IF2G_HUMAN     ------------------------------------------------------------
+IF2G_DROME     ------------------------------------------------------------
+IF2G_ENCCU     ------------------------------------------------------------
+EFTU_SPIPL     ------------------------------------------------------------
+EFT1_PASMU     ------------------------------------------------------------
+EFTU_LACPL     ------------------------------------------------------------
+EFTU_LACLA     ------------------------------------------------------------
+EFTU_BRELN     ------------------------------------------------------------
+EFTU_YEAST     ------------------------------------------------------------
+SELB_MOOTH     RVYQALLEEWSREGRLQLAANTVALAGFTPSFSETQKKLLKDLEDKYRVSRWQPPSFKEV
+SELB_DESBA     KLVHFLVERLVKSGQVLLEADILRLPGHVVSLASDQSGLRTLMETTYVQAGLMPPTTKAF
+SELB_ECOLI     ALVLLLIEKMRESGDIHSHHGWLHLPDHKAGFSEEQQAIWQKAEPLF---GDEPWWVRDL
+1ega_A         ------------------------------------------------------------
+1g7r_A         NHYHILKEQLLTDEELDLXDKIAEIKRKKN------------------------------
+1mky_A         ------------------------------------------------------------
+
+
+1kjz_A         ------------------------------------------------------------
+IF2G_METTH     ------------------------------------------------------------
+IF2G_METJA     ------------------------------------------------------------
+IF2G_ARCFU     ------------------------------------------------------------
+IF2G_METAC     ------------------------------------------------------------
+IF2G_METKA     ------------------------------------------------------------
+IF2G_HALHA     ------------------------------------------------------------
+IF2G_THEAC     ------------------------------------------------------------
+IF2G_AERPE     ------------------------------------------------------------
+IF2G_SPIVO     ------------------------------------------------------------
+IF2G_SCHPO     ------------------------------------------------------------
+IF2G_YEAST     ------------------------------------------------------------
+IF2G_HUMAN     ------------------------------------------------------------
+IF2G_DROME     ------------------------------------------------------------
+IF2G_ENCCU     ------------------------------------------------------------
+EFTU_SPIPL     ------------------------------------------------------------
+EFT1_PASMU     ------------------------------------------------------------
+EFTU_LACPL     ------------------------------------------------------------
+EFTU_LACLA     ------------------------------------------------------------
+EFTU_BRELN     ------------------------------------------------------------
+EFTU_YEAST     ------------------------------------------------------------
+SELB_MOOTH     AGSFNLDPSELEELLHYLVREGVLVKINDEFYWHRQALGEAREVIKN-LASTGPFGLAEA
+SELB_DESBA     LEENGLTAKDVAQMFRLLMEEGVLIKVSEEFYYAKTAMDEIIGRVRSFFESNQEMGPQDF
+SELB_ECOLI     AKETGTDEQAMRLTLRQAAQQGIITAIVKDRYYRNDRIVEFANMIRDLDQECGSTCAADF
+1ega_A         ------------------------------------------------------------
+1g7r_A         ------------------------------------------------------------
+1mky_A         ------------------------------------------------------------
+
+
+1kjz_A         ------------------------------------------
+IF2G_METTH     ------------------------------------------
+IF2G_METJA     ------------------------------------------
+IF2G_ARCFU     ------------------------------------------
+IF2G_METAC     ------------------------------------------
+IF2G_METKA     ------------------------------------------
+IF2G_HALHA     ------------------------------------------
+IF2G_THEAC     ------------------------------------------
+IF2G_AERPE     ------------------------------------------
+IF2G_SPIVO     ------------------------------------------
+IF2G_SCHPO     ------------------------------------------
+IF2G_YEAST     ------------------------------------------
+IF2G_HUMAN     ------------------------------------------
+IF2G_DROME     ------------------------------------------
+IF2G_ENCCU     ------------------------------------------
+EFTU_SPIPL     ------------------------------------------
+EFT1_PASMU     ------------------------------------------
+EFTU_LACPL     ------------------------------------------
+EFTU_LACLA     ------------------------------------------
+EFTU_BRELN     ------------------------------------------
+EFTU_YEAST     ------------------------------------------
+SELB_MOOTH     RDALGSSRKYVLPLLEYLDQVKFTRRVGDKRVVVGN------
+SELB_DESBA     RDLTELTRKFAIPVLEYLDKEKITMRIGDKRQIRKR------
+SELB_ECOLI     RDRLGVGRKLAIQILEYFDRIGFTRRRGNDHLLRDALLFPEK
+1ega_A         ------------------------------------------
+1g7r_A         ------------------------------------------
+1mky_A         ------------------------------------------
+
+

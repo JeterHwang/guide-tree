@@ -1,0 +1,269 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV20_BB20038_kalign.msf  MSF: 255  Type: N  December 21, 2021 20:24  Check: 598  ..
+
+ Name: 1akk_       Len:    255  Check: 8847  Weight: 1.00
+ Name: 155c_       Len:    255  Check: 6278  Weight: 1.00
+ Name: CYC_EISFO   Len:    255  Check: 3249  Weight: 1.00
+ Name: CYC1_DROME  Len:    255  Check: 8635  Weight: 1.00
+ Name: CYC2_ARATH  Len:    255  Check: 1053  Weight: 1.00
+ Name: CY2_RHOAC   Len:    255  Check: 9206  Weight: 1.00
+ Name: CYCY_RHOCA  Len:    255  Check: 2567  Weight: 1.00
+ Name: CYC_TETPY   Len:    255  Check: 6242  Weight: 1.00
+ Name: CY2_RHOPH   Len:    255  Check: 8048  Weight: 1.00
+ Name: CYC_CRIFA   Len:    255  Check: 5473  Weight: 1.00
+ Name: C550_THINO  Len:    255  Check: 8021  Weight: 1.00
+ Name: C550_PARPN  Len:    255  Check: 3595  Weight: 1.00
+ Name: CYC_ASPNG   Len:    255  Check: 7754  Weight: 1.00
+ Name: CYC_SCHPO   Len:    255  Check: 5344  Weight: 1.00
+ Name: CY2_RHOGL   Len:    255  Check:  162  Weight: 1.00
+ Name: CY2_RHOVA   Len:    255  Check: 1003  Weight: 1.00
+ Name: CY22_RHOFU  Len:    255  Check: 2688  Weight: 1.00
+ Name: CY21_RHOCE  Len:    255  Check: 1462  Weight: 1.00
+ Name: CY2_RHOCA   Len:    255  Check: 4855  Weight: 1.00
+ Name: C551_ROSDE  Len:    255  Check: 9710  Weight: 1.00
+ Name: CY2_RHOSH   Len:    255  Check: 5125  Weight: 1.00
+ Name: CYC_CROAT   Len:    255  Check:  474  Weight: 1.00
+ Name: CYC_APIME   Len:    255  Check: 3045  Weight: 1.00
+ Name: CYC_SAMCY   Len:    255  Check: 1307  Weight: 1.00
+ Name: CYC_MACMA   Len:    255  Check:   61  Weight: 1.00
+ Name: CYC_HELAS   Len:    255  Check:  596  Weight: 1.00
+ Name: CYC_GINBI   Len:    255  Check: 1420  Weight: 1.00
+ Name: CYC_ENTIN   Len:    255  Check: 3982  Weight: 1.00
+ Name: CYC_THELA   Len:    255  Check: 8172  Weight: 1.00
+ Name: CYC_NEUCR   Len:    255  Check: 8489  Weight: 1.00
+ Name: CYC1_ARATH  Len:    255  Check:  220  Weight: 1.00
+ Name: CYC_USTSP   Len:    255  Check: 1839  Weight: 1.00
+ Name: CYC1_YEAST  Len:    255  Check: 4503  Weight: 1.00
+ Name: CYC_ISSOR   Len:    255  Check: 9054  Weight: 1.00
+ Name: CYC1_ASCSU  Len:    255  Check: 6745  Weight: 1.00
+ Name: CYC2_CAEEL  Len:    255  Check: 3166  Weight: 1.00
+ Name: CYC2_ASCSU  Len:    255  Check: 6989  Weight: 1.00
+ Name: CYC_EUGGR   Len:    255  Check: 5226  Weight: 1.00
+ Name: CY2_RHOVI   Len:    255  Check: 5641  Weight: 1.00
+ Name: C550_BRAJA  Len:    255  Check: 3291  Weight: 1.00
+ Name: CYCM_BRAJA  Len:    255  Check: 4909  Weight: 1.00
+ Name: 1dvh_       Len:    255  Check: 2152  Weight: 1.00
+
+//
+
+1akk_          ------------------------------------------------------------
+155c_          ------------------------------------------------------------
+CYC_EISFO      ------------------------------------------------------------
+CYC1_DROME     ------------------------------------------------------------
+CYC2_ARATH     ------------------------------------------------------------
+CY2_RHOAC      ------------------------------------------------------------
+CYCY_RHOCA     MLVKTHITKIGVTLFAVALFYGFIYMLSNSLFATRPATAVAVGADGKALLPSVDEAAMPA
+CYC_TETPY      ------------------------------------------------------------
+CY2_RHOPH      ------------------------------------------------------------
+CYC_CRIFA      ------------------------------------------------------------
+C550_THINO     ------------------------------------------------------------
+C550_PARPN     ------------------------------------------------------------
+CYC_ASPNG      ------------------------------------------------------------
+CYC_SCHPO      ------------------------------------------------------------
+CY2_RHOGL      ------------------------------------------------------------
+CY2_RHOVA      ------------------------------------------------------------
+CY22_RHOFU     ------------------------------------------------------------
+CY21_RHOCE     ------------------------------------------------------------
+CY2_RHOCA      ------------------------------------------------------------
+C551_ROSDE     ------------------------------------------------------------
+CY2_RHOSH      ------------------------------------------------------------
+CYC_CROAT      ------------------------------------------------------------
+CYC_APIME      ------------------------------------------------------------
+CYC_SAMCY      ------------------------------------------------------------
+CYC_MACMA      ------------------------------------------------------------
+CYC_HELAS      ------------------------------------------------------------
+CYC_GINBI      ------------------------------------------------------------
+CYC_ENTIN      ------------------------------------------------------------
+CYC_THELA      ------------------------------------------------------------
+CYC_NEUCR      ------------------------------------------------------------
+CYC1_ARATH     ------------------------------------------------------------
+CYC_USTSP      ------------------------------------------------------------
+CYC1_YEAST     ------------------------------------------------------------
+CYC_ISSOR      ------------------------------------------------------------
+CYC1_ASCSU     ------------------------------------------------------------
+CYC2_CAEEL     ------------------------------------------------------------
+CYC2_ASCSU     ------------------------------------------------------------
+CYC_EUGGR      ------------------------------------------------------------
+CY2_RHOVI      ------------------------------------------------------------
+C550_BRAJA     ------------------------------------------------------------
+CYCM_BRAJA     ------------------------------MDSFELNKILGAVLGTCLILLVTSFTANAL
+1dvh_          ------------------------------------------------------------
+
+
+1akk_          ---------------------------------------------GDVEK-GKKIFVQKC
+155c_          -------------------------------------------NEGDAAK-GEKEFN-KC
+CYC_EISFO      --------------------------------GGIP--------AGDVEK-GKTIFKQRC
+CYC1_DROME     -----------------------------------G--------SGDAEN-GKKIFVQKC
+CYC2_ARATH     ----------------------------MASFDEAP--------PGNAKA-GEKIFRTKC
+CY2_RHOAC      --------------------------------------------AGDPDA-GQKVFL-KC
+CYCY_RHOCA     KAPAAAAPAAETAEAAAPAEPAAPPPPAYVEVDPAT-------ITGDAKA-GEEKFNKTC
+CYC_TETPY      --------------------------GPKEPEVTVP--------EGDASA-GRDIFDSQC
+CY2_RHOPH      -------------------------------------A----GDAAVGEK-IAKA---KC
+CYC_CRIFA      ---------------------------PPKARAPLP--------PGDAAR-GEKLFKGRA
+C550_THINO     -----------------------------------------------PAK-GANVFW-KC
+C550_PARPN     -------------------------------------------QEGDAAK-GEKEFN-KC
+CYC_ASPNG      -----------------------------GKDASFA--------PGDSAK-GAKLFQTRC
+CYC_SCHPO      ---------------------------------PYA--------PGDEKK-GASLFKTRC
+CY2_RHOGL      --------------------------------GSAP--------PGDPVE-GKHLFHTIC
+CY2_RHOVA      --------------------------------------------AGDPVK-GEQVFK-QC
+CY22_RHOFU     --------------------------------------------ADAP-----PAFG-MC
+CY21_RHOCE     -------------------------------------------QDGDPVK-GEAVFK-KC
+CY2_RHOCA      ------------------MKISLTAATVAALVLAAPAF------AGDAAK-GEKEFN-KC
+C551_ROSDE     --------------------------------------------EGDIEA-GEKAFN-KC
+CY2_RHOSH      ------------------MKFQVKALAAIAAFAALPAL----AQEGDPEA-GAKAFN-QC
+CYC_CROAT      ---------------------------------------------GDVEK-GKKIFSMKC
+CYC_APIME      ---------------------------------GIP--------AGDPEK-GKKIFVQKC
+CYC_SAMCY      ---------------------------------GVP--------AGNAEN-GKKIFVQRC
+CYC_MACMA      ---------------------------------------------GDVEK-GKKIFVQRC
+CYC_HELAS      ---------------------------------------------GZAZK-GKKIFTQKC
+CYC_GINBI      -----------------------------ATFSEAP--------PGDPKA-GEKIFKTKC
+CYC_ENTIN      -----------------------------STFABAP--------PGBPAK-GAKIFKAKC
+CYC_THELA      -----------------------------AKGGSFE--------PGDASK-GANLFKTRC
+CYC_NEUCR      ---------------------------------GFS--------AGDSKK-GANLFKTRC
+CYC1_ARATH     -----------------------------MQVADIS-------LQGDAKK-GANLFKTRC
+CYC_USTSP      ------------------------------GFED-----------GDAKK-GARIFKTRC
+CYC1_YEAST     --------------------------------TEFK--------AGSAKK-GATLFKTRC
+CYC_ISSOR      -------------------------------PAPFE--------QGSAKK-GATLFKTRC
+CYC1_ASCSU     --------------------------------PEIP--------EGDYES-GKKVFKQRC
+CYC2_CAEEL     ---------------------MGKKKSDTASGGAIP--------EGDNEK-GKKIFKQRC
+CYC2_ASCSU     --------------------------------TEIP--------EGDYES-GKQIFKTRC
+CYC_EUGGR      ---------------------------------------------GDAER-GKKLFESRA
+CY2_RHOVI      -----------------MRKLVFGLFVLAASVAPAA--------AQDAAS-GEQVFK-QC
+C550_BRAJA     -----------------MTKLTFGALVALAMTAAASTAMSSKAMAQDAAA-GKTSFN-KC
+CYCM_BRAJA     FSPKMPEKPGFEIAVKEDAGHGKEGGAAAAASEPIEKL----LQTASVEK-GAAAAK-KC
+1dvh_          -------------------------------------------------ADGAALYK-SC
+
+
+1akk_          AQCHTV-EKGGK------HKTGPNLHGLFGRKTGQ-APGFT-YTDANKN---KG--ITWK
+155c_          KACHMIQAPDGTDI-KG-GKTGPNLYGVVGRKIAS-EEGFK-YGEGILEVAEKNPDLTWT
+CYC_EISFO      AQCHTV-DKGGP------HKTGPNLHGIFGRATGQ-AAGFA-YTDANKS---KG--ITWT
+CYC1_DROME     AQCHTY-EVGGK------HKVGPNLGGVVGRKCGT-AAGYK-YTDANIK---KG--VTWT
+CYC2_ARATH     AQCHTV-EAGAG------HKQGPNLNGLFGRQSGT-TAGYS-YSAANKN---KA--VEWE
+CY2_RHOAC      AACHKI-GPGAK------NGVGPSLNGVANRKAGQ-AEGFA-YSDANKN---SG--LTWD
+CYCY_RHOCA     KACHKI-D--GK------NAVGPHLNGVIGRATAT-VEGFK-YSTAMKN---HV--GNWT
+CYC_TETPY      SACHAI-E--GD------STAAPVLGGVIGRKAGQ--EKFA-YSKGMKG---SG--ITWN
+CY2_RHOPH      TACHDL-NKGGP------IKVGPPLFGVFGRTTGT-FAGYS-YSPGYTVMGQKG--HTWD
+CYC_CRIFA      AQCHTA-NQGGA------NGVGPNLYGLVGRHSGT-IEGYA-YSKANAE---SG--VVWT
+C550_THINO     MACHAV-GEGAK------NKVGPELNGIIGRKMGS-IEGFN-YSDTLKEHNAKG--DVWT
+C550_PARPN     KACHMVQAPDGTDIVKG-GKTGPNLYGVVGRKIAS-EEGFK-YGDGILEVAEKNPDLVWT
+CYC_ASPNG      AQCHTV-EAGGP------HKVGPNLHGLFGRKTGQ-SEGYA-YTDANKQ---AG--VTWD
+CYC_SCHPO      AQCHTV-EKGGA------NKVGPNLHGVFGRKTGQ-AEGFS-YTEANRD---KG--ITWD
+CY2_RHOGL      ILCHT--DIKGR------NKVGPSLYGVVGRHSGI-EPGYN-YSEANIK---SG--IVWT
+CY2_RHOVA      KICHQV-GPTAK------NGVGPEQNDVFGQKAGA-RPGFN-YSDAMKN---SG--LTWD
+CY22_RHOFU     KACHSV--EAGK------NGVGPSLAGVYGRKAGT-LAGFK-FSDPHAK---SG--LTWD
+CY21_RHOCE     MACHRI-GPDAK------NLVGPVLTGVVGRQAGV-APGFS-YSALNHAAGEAG--LHWT
+CY2_RHOCA      KTCHSIIAPDGTEIVKG-AKTGPNLYGVVGRTAGT-YPEFK-YKDSIVALGASG--FAWT
+C551_ROSDE     KSCHQIVSDAGEEIVKG-GRTGPNLYGVLGRQAGT--ADFR-YGDDLVAAGEAG--LVWD
+CY2_RHOSH      QTCHVIVDESGTTIAGRNAKTGPNLYGVVGRTAGT-QADFKGYGEGMKEAGAKG--LAWD
+CYC_CROAT      GTCHTV-EEGGK------HKTGPNLHGLFGRKTGQ-AVGYS-YTAANKN---KG--IIWG
+CYC_APIME      AQCHTI-ESGGK------HKVGPNLYGVYGRKTGQ-APGYS-YTDANKG---KG--ITWN
+CYC_SAMCY      AQCHTV-EAGGK------HKVGPNLHGFYGRKTGQ-APGFS-YSNANKA---KG--ITWG
+CYC_MACMA      AQCHSA-QANLK------HKTGPNLNGLFGRQTGQ-ASGYV-YTDANKA---KG--ITWQ
+CYC_HELAS      LQCHTV-EAGGK------HKTGPNLSGLFGRKQGQ-APGFA-YTDANKG---KG--ITWK
+CYC_GINBI      AZCHTV-ZKGAG------HKQGPNLHGLFGRQSGT-TAGYS-YSTGNKN---KA--VNWG
+CYC_ENTIN      AZCHTV-BAGAG------HKQGPNLNGAFGRTSGT-AAGFS-YSAABKB---KT--ADWB
+CYC_THELA      AQCHSV-EQGGA------NKIGPNLHGLFGRKTGS-VEGYS-YTDANKQ---AG--ITWN
+CYC_NEUCR      AQCHTL-EEGGG------NKIGPALHGLFGRKTGS-VDGYA-YTDANKQ---KG--ITWD
+CYC1_ARATH     AQCHTL-KAGEG------NKIGPELHGLFGRKTGS-VAGYS-YTDANKQ---KG--IEWK
+CYC_USTSP      AQCHTL-GAGEP------NKVGPNLHGLFGRKSGT-VEGFS-YTDANKK---AG--QVWE
+CYC1_YEAST     LQCHTV-EKGGP------HKVGPNLHGIFGRHSGQ-AEGYS-YTDANIK---KN--VLWD
+CYC_ISSOR      AQCHTI-EAGGP------HKVGPNLHGIFSRHSGQ-AEGYS-YTDANKR---AG--VEWA
+CYC1_ASCSU     LQCHVV-DS-KA------TKTGPTLHGIIGRKSGA-VPGFD-YSTANKN---KG--VVWT
+CYC2_CAEEL     EQCHVV-NS-LQ------TKTGPTLNGVIGRQSGQ-VAGFD-YSAANKN---KG--VVWD
+CYC2_ASCSU     LMCHVV-DS-DK------AKSGPSLNGIFGSSAGT-VKGYD-YSNANKN---AN--IVWT
+CYC_EUGGR      AQCHSA--QKGV------NSTGPSLWGVYGRTSGS-VPGYA-YSNANKN---AA--IVWE
+CY2_RHOVI      LVCHSI-GPGAK------NKVGPVLNGLFGRHSGT-IEGFA-YSDANKN---SG--ITWT
+C550_BRAJA     LACHAI-GEGAK------NKVGPELNGLNGRKSGT-APDYS-YSDANKN---SG--ITWD
+CYCM_BRAJA     GACHTF-EKGGP------NRVGPNLYGVVGEARGEGRNGFN-FS---AAMKGKG--GTWT
+1dvh_          IGCH---GADGSKAAMGSAK--P----VKGQGAEELYKKMKGYADG--SYGGER--KAMM
+
+
+1akk_          EETLMEYLENPKKYIP--------------GTKMIFAGIKKKTEREDLIAYLK-KATNE-
+155c_          EANLIEYVTDPKPLVK---KMTDDKGA---KTKMTFK-MGKNQA--DVVAFLA-QDDPDA
+CYC_EISFO      KDTLYEYLENPKKYIP--------------GTKMVFAGLKNEKQRANLIAYLE-QETK--
+CYC1_DROME     EGNLDEYLKDPKKYIP--------------GTKMVFAGLKKAEERADLIAFLK-SNK---
+CYC2_ARATH     EKALYDYLLNPKKYIP--------------GTKMVFPGLKKPQDRADLIAYLK-ESTAPK
+CY2_RHOAC      EATFKEYITAPQKKVP--------------GTKMTFPGLPNEADRDNIWAYLS-QFKADG
+CYCY_RHOCA     PERLDIYLVSPKAEVP--------------GTKMSFVGLPEAADRANVIAYLN-TLPR--
+CYC_TETPY      EKHLFVFLKNPSKHVP--------------GTKMAFAGLPADKDRADLIAYLKSV-----
+CY2_RHOPH      DNALKAYLLDPKGYVQ---AKSGDPKA---NSKMIFR-LEKDDDVANVIAYLH-TMK---
+CYC_CRIFA      PDVLDVYLENPKKFMP--------------GTKMSFAGMKKPQERADVIAYLE-TLKG--
+C550_THINO     AEILSQYLANPKGYMP--------------GVKMVFAGLPKEIRADDLEAYLK-TFNADG
+C550_PARPN     EADLIEYVTDPKPWLV---EKTGDSAA---KTKMTFK-LGKNQA--DVVAFLA-QNSPDA
+CYC_ASPNG      ENTLFSYLENPKKFIP--------------GTKMAFGGLKKGKERNDLITYLK-ESTA--
+CYC_SCHPO      EETLFAYLENPKKYIP--------------GTKMAFAGFKKPADRNNVITYLK-KATSE-
+CY2_RHOGL      PDVLFKYIEHPQKIVP--------------GTKMGYPGQPDPQKRADIIAYLE-TLK---
+CY2_RHOVA      EATLDKYLENPKAVVP--------------GTKMVFVGLKNPQDRADVIAYLK-QLSGK-
+CY22_RHOFU     EPTLTKYLADPKGVIP--------------GNKMVFAGLKNPADVAAVIAYLK-SL----
+CY21_RHOCE     AENIMAYLPDPNAFLRKFVTDAGNPEAAKGSTKMVFK-LPNEQERKDVVAYLK-TFSN--
+CY2_RHOCA      EEDIATYVKDPGAFLK---EKLDDKKA---KTGMAFK-LAKGGE--DVAAYLA-SVVK--
+C551_ROSDE     ADNFVEYVTDPRAFLR---AYLDDSKA---KSKMAYK-LRSGGE--DIAAYLA-SVSGSS
+CY2_RHOSH      EEHFVQYVQDPTKFLK---EYTGDAKA---KGKMTFK-LKKEADAHNIWAYLQ-QVAVRP
+CYC_CROAT      DDTLMEYLENPKKYIP--------------GTKMVFTGLKSKKERTDLIAYLK-EATAK-
+CYC_APIME      KETLFEYLENPKKYIP--------------GTKMVFAGLKKPQERADLIAYIE-QASK--
+CYC_SAMCY      DDTLFEYLENPKKYIP--------------GTKMVFAGLKKANERADLIAYLK-ESTK--
+CYC_MACMA      ADTLDVYLENPKKYIP--------------GTKMVFAGLKKANERADLIAYLK-QATNL-
+CYC_HELAS      NQTLFEYLENPKKYIP--------------GTKMVFAGLKBZTERVHLIAYLZ-ZATKK-
+CYC_GINBI      ZZTLYEYLLNPKKYIP--------------GTKMVFPGLKKPZZRADLISYLK-QATSQE
+CYC_ENTIN      ZBTLYDYLLNPKKYIP--------------GTKMVFAGLKKPZBRADLIAFLK-DATA--
+CYC_THELA      EDTLFEYLENPKKFIP--------------GTKMAFGGLKKNKDRNDLITYLK-EATK--
+CYC_NEUCR      ENTLFEYLENPKKYIP--------------GTKMAFGGLKKDKDRNDIITFMK-EATA--
+CYC1_ARATH     DDTLFEYLENPKKYIP--------------GTKMAFGGLKKPKDRNDLITFLE-EETK--
+CYC_USTSP      EETFLEYLENPKKYIP--------------GTKMAFGGLKKEKDRNDLVTYLR-EETK--
+CYC1_YEAST     ENNMSEYLTNPKKYIP--------------GTKMAFGGLKKEKDRNDLITYLK-KACE--
+CYC_ISSOR      EPTMSDYLENPKKYIP--------------GTKMAFGGLKKAKDRNDLVTYML-EASK--
+CYC1_ASCSU     RETLFEYLLNPKKYIP--------------GTKMVFAGLKKADERADLIKYIE-EECKKP
+CYC2_CAEEL     RQTLFDYLADPKKYIP--------------GTKMVFAGLKKADERADLIKFIEVEAAKKP
+CYC2_ASCSU     KETMFDYLANPKKYMP--------------GSKMIFAGLKKVEDRADLISYIEVESSK--
+CYC_EUGGR      EETLHKFLENPKKYVP--------------GTKMAFAGIKAKKDRQDIIAYMK-TLKD--
+CY2_RHOVI      EEVFREYIRDPKAKIP--------------GTKMIFAGVKDEQKVSDLIAYIK-QFNADG
+C550_BRAJA     EATFKEYIKDPKAKIP--------------GTKMAFAGIKNETEINNLWTFVS-QFDKDG
+CYCM_BRAJA     FDDLNKFIANPKGFI---------P-----GTAMGFAGIPKDSERADVIAYLN-SLSEHP
+1dvh_          TNAVKKYSDEELKALA---DYMSKL-----------------------------------
+
+
+1akk_          ---------------
+155c_          X--XXXXXXXXXXXX
+CYC_EISFO      ---------------
+CYC1_DROME     ---------------
+CYC2_ARATH     ---------------
+CY2_RHOAC      SK-------------
+CYCY_RHOCA     ---------------
+CYC_TETPY      ---------------
+CY2_RHOPH      ---------------
+CYC_CRIFA      ---------------
+C550_THINO     TK-------------
+C550_PARPN     G--AEAAPAEDAAD-
+CYC_ASPNG      ---------------
+CYC_SCHPO      ---------------
+CY2_RHOGL      ---------------
+CY2_RHOVA      ---------------
+CY22_RHOFU     ---------------
+CY21_RHOCE     ---------------
+CY2_RHOCA      ---------------
+C551_ROSDE     S--------------
+CY2_RHOSH      ---------------
+CYC_CROAT      ---------------
+CYC_APIME      ---------------
+CYC_SAMCY      ---------------
+CYC_MACMA      ---------------
+CYC_HELAS      ---------------
+CYC_GINBI      ---------------
+CYC_ENTIN      ---------------
+CYC_THELA      ---------------
+CYC_NEUCR      ---------------
+CYC1_ARATH     ---------------
+CYC_USTSP      ---------------
+CYC1_YEAST     ---------------
+CYC_ISSOR      ---------------
+CYC1_ASCSU     IS-------------
+CYC2_CAEEL     SA-------------
+CYC2_ASCSU     ---------------
+CYC_EUGGR      ---------------
+CY2_RHOVI      SKK------------
+C550_BRAJA     KIKQ-----------
+CYCM_BRAJA     K--PLPTASK-----
+1dvh_          ---------------
+
+

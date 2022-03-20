@@ -1,0 +1,66 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 262  Type: P  December 21, 2021 20:30  Check: 2633  ..
+
+ Name: 1uky_   Len:    262  Check:  189  Weight: -1.00
+ Name: 1dvr_A  Len:    262  Check: 8786  Weight: -1.00
+ Name: 1gky_   Len:    262  Check: 9361  Weight: -1.00
+ Name: 1kgd_A  Len:    262  Check: 9262  Weight: -1.00
+ Name: 1e2d_A  Len:    262  Check: 1469  Weight: -1.00
+ Name: 4tmk_A  Len:    262  Check: 3931  Weight: -1.00
+ Name: 1bif_   Len:    262  Check: 9635  Weight: -1.00
+
+//
+
+        1                                                   50
+1uky_   VSVIFVLGGP GAGKGTQCEK LVKDYS.FVH LSAGDLLRAE QGRAGSQYGE
+1dvr_A  SIRMVLIGPP GAGKGTQAPN LQERFH.AAH LATGDMLRSQ IA.KGTQLGL
+1gky_   SRPIVISGPS GTGKSTLLKK LFAEYPDSFG FSVSSTTRTP ..RAGEVNGK
+1kgd_A  RKTLVLLGAH GVGRRHIKNT LITKHPDRFA YPIPHTTRPP .....EENGK
+1e2d_A  GALIVLEGVD RAGKSTQSRK LVEALC.AAG HRAELLRFP. ..ERSTEIGK
+4tmk_A  SKYIVIEGLE GAGKTTARNV VVETLE.QLG IRDMVFTRE. ..PGGTQLAE
+1bif_   PTLIVMVGLP ARGKTYISKK LTRYLN.FIG VPTREFNVGQ YRRDMVK...
+
+        51                                                 100
+1uky_   LIKNCIKEGQ IVPQEI.... .......... ...TLALLRN AISDN.....
+1dvr_A  EAKKIMDQGG LVSDDI.... .......... ...MVNMIKD ELTNN.....
+1gky_   DY.......N FVSVDE.... .......... ...FKSMIKN NEFIE.....
+1kgd_A  NY.......Y FVSHDQ.... .......... ...MMQDISN NEYLE.....
+1e2d_A  LLSSYLQKKS DV.....EDH SVHLLFSANR WE.QVPLIKE KLSQG.....
+4tmk_A  KLRSLLLDIK SVGDEVITDK AEVLMFYAAR VQLVETVIKP ALANG.....
+1bif_   TYKSF...EF FLPDN..... EEGLKIRKQC ALAALNDVRK FLSEEGGHVA
+
+        101                                                150
+1uky_   ....VKA.NK HKFLIDGFPR KMDQAISFER DIVESKF... ..........
+1dvr_A  .....PA.CK NGFILVGFPR TIPQAEKLDQ MLKEQGTPLE KAIELKVDDE
+1gky_   .....WAQFS GN.......Y YGSTVASVKQ V.SKSGKTCI ....LDIDMQ
+1kgd_A  .....YGSHE DA.......M YGTKLETIRK I.HEQGLIAI ....LDVEPQ
+1e2d_A  ....VTL.VV DRYAFSGVAF TG.AKENFS. ..LD...... ..........
+4tmk_A  ....TWV.IG DRHDLSTQAY QG.GGRGIDQ HMLA...... ..........
+1bif_   VFDATNTTRE RRAMIFNFG. ...EQNGYKT FFVE...... ..........
+
+        151                                                200
+1uky_   .......... .......... ..ILFFDCPE DIMLERLLER GKTSGRSDDN
+1dvr_A  LLVARITGRL IHPAS...GR SYHKIFNPPK EDMKDDV.TG EALVQISDDN
+1gky_   ....GVKSVK AIPE...LNA RFLFIAPPSV EDLKKRLEGR GT......ET
+1kgd_A  ....ALKVLR TA.E...FAP FVVFIAAPTI TPGLN..... .........E
+1e2d_A  ........WC KQPDVGLPKP DLVLFLQLQL ADAA....KR GAFGHERYEN
+4tmk_A  ........TL RDAVLGDFRP DLTLYLDVTP EVGLKRARAR GELDRIEQES
+1bif_   .......SIC VDPEVIAA.. .......... NIVQVKLGSP DYVNRDSDEA
+
+        201                                                250
+1uky_   IESIKKRFNT FKETSM.PVI EYFETKSKVV RV.R..CDRS VEDVYKDVQD
+1dvr_A  ADALKKRLAA YHAQTE.PIV DFYKKTGIWA GV.D..ASQP PATVWADILN
+1gky_   EESINKRLSA AQAELAYAET GAHDKVIVND DL.D...... ..KAYKELKD
+1kgd_A  DESLQ.RLQK ESDILQRTYA HYFDLTIINN EI.D...... ..ETIRHLEE
+1e2d_A  GAFQERALRC FHQLMK.... ...DTTLNWK MV.D..ASKS IEAVHEDIRV
+4tmk_A  FDFFNRTRAR YLELAA.... ....QDKSIH TI.D..ATQP LEAVMDAIRT
+1bif_   TEDFMRRIEC YENSYE.SLD EEQDRDLSYI KIMDVGQSYV VNRVADHIQS
+
+        251       262
+1uky_   AIRDS~~~~~ ~~
+1dvr_A  KLGKN~~~~~ ~~
+1gky_   FIFAE~~~~~ ~~
+1kgd_A  AVELV~~~~~ ~~
+1e2d_A  LSEDA~~~~~ ~~
+4tmk_A  TVTHW~~~~~ ~~
+1bif_   RIVYYLMNIH VT

@@ -1,0 +1,435 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 801  Type: P  December 21, 2021 20:35  Check: 4000  ..
+
+ Name: 1a53_       Len:    801  Check: 5480  Weight: -1.00
+ Name: 1vc4_A      Len:    801  Check: 5654  Weight: -1.00
+ Name: 1i4n_A      Len:    801  Check: 3049  Weight: -1.00
+ Name: TRPC_BACAA  Len:    801  Check: 1725  Weight: -1.00
+ Name: TRPC_STRPN  Len:    801  Check: 3351  Weight: -1.00
+ Name: TRPC_LISIN  Len:    801  Check: 5182  Weight: -1.00
+ Name: TRPC_AQUAE  Len:    801  Check: 4610  Weight: -1.00
+ Name: TRPC_STAEP  Len:    801  Check: 4354  Weight: -1.00
+ Name: TRPC_STAAC  Len:    801  Check: 8173  Weight: -1.00
+ Name: TRPC_METTM  Len:    801  Check:  820  Weight: -1.00
+ Name: 1jcm_P      Len:    801  Check: 2125  Weight: -1.00
+ Name: TRC2_STRCO  Len:    801  Check: 9697  Weight: -1.00
+ Name: TRPC_YERPE  Len:    801  Check: 1121  Weight: -1.00
+ Name: TRPG_SCHPO  Len:    801  Check: 2085  Weight: -1.00
+ Name: TRPC_RHIME  Len:    801  Check: 7921  Weight: -1.00
+ Name: TRPC_CORGL  Len:    801  Check: 5186  Weight: -1.00
+ Name: TRPC_BRAJA  Len:    801  Check: 8332  Weight: -1.00
+ Name: TRC2_RALSO  Len:    801  Check: 4473  Weight: -1.00
+ Name: TRPC_DEIRA  Len:    801  Check: 3830  Weight: -1.00
+ Name: TRPC_SYNY3  Len:    801  Check: 7085  Weight: -1.00
+ Name: TRPC_ARATH  Len:    801  Check: 1950  Weight: -1.00
+ Name: TRPC_AERPE  Len:    801  Check: 7797  Weight: -1.00
+
+//
+
+            1                                                   50
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPG_SCHPO  MSEKVDVGES VKGDASENAV KEVAERPIVM IDNYDSFTWN VVQYLSNLEK
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPG_SCHPO  RYPIMVFRND EITVDELEKL NPLKLVLSPG PGHPARDGGI CNEAISRFAG
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MEG
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPG_SCHPO  KIPILGVCMG LQCIFETMGG KVDSAGEIIH GKVSKINHDG LGFYQGIPQN
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_ARATH  LVPVQRLPIK V......... ..ASPSLYRC NNSVSIRRSI SGFAMDRKIN
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            151                                                200
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPG_SCHPO  ISVTRYHSLA GKISSLPDCL DVTSW..TEN GVIMGARHKK YAIEGVQYHP
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_ARATH  FRAPSQFSIR AQQSDLKESL AVSSSSVEDK GNVLR..... ..........
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  ~~~~~~~~~~ ~~~~~~MQET GGYKTEG... .......... .....YNVGS
+TRPG_SCHPO  ESILSEYGKE YIQNFLNLTA GTWEENGIVM PTK..NNAFN AAMRENSNSV
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MTF
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MEI RRRPPNPPIK VDI..LQY.Q
+TRPC_ARATH  ...IKEWEVE MYQEELAISQ G......IRI RRKPPSKAPL GYSGPFELRL
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1a53_       ~~~~PRYLKG WLKDVVQ... .....LSLRR PS........ FRASRQRPII
+1vc4_A      MRPDLSRVPG VLGEIARKRA SEVAPYPL.. PE........ ....PP.SVP
+1i4n_A      ~~~~~~~~~R RLWEIVEAKK KDILEIDG.. .E........ .NLIVQRRNH
+TRPC_BACAA  ~~~~~~~MGT ILDKIVNQKK KEVAALYE.. TYTPV..... K...EKRKTR
+TRPC_STRPN  ~~~~~~MSQE FLARILEQKA REVEQMK... .LEQI..... Q...PLRQTY
+TRPC_LISIN  ~~~~~~~~MT FLEEILAQKA VEVAEMP... .LEQV..... A...EKRKTY
+TRPC_AQUAE  ~~~~~~~~MG FLEEVRSYKE SQIDTSPE.. YLRKL..E.. ELIEERKEFY
+TRPC_STAEP  ~~~~~~~~MT ILNEIIEYKK TLLERKYYDK KLEIL..... QDN.GNVKRR
+TRPC_STAAC  ~~~~~~~~MT ILSEIVKYKQ SLLQNGYYQD KLNTL..... KSV.KIQNKK
+TRPC_METTM  ~~~~~~~~MS ILQEIIRSRK LEIKNLSRKK PLEELR.... DELTSLDEPL
+1jcm_P      ~~~~~~~MQC VLAKIVADKA IWVEARKQQQ PLASF..... .QNEVQPSTR
+TRC2_STRCO  ~~~~~~~MSG ILAGLVAEAE SQTGRRRALR TEAKL..T.. ELAAAAPPAR
+TRPC_YERPE  DKVDSDKTKT VLHQIVHDKE IWVAARKLQQ PLTRF..... .QNEITQSQR
+TRPG_SCHPO  SSTKIRKQES ILEKIHAQRL IDIAESKRKP GLSVGDLQTY LNLNIAPPCI
+TRPC_RHIME  ~~~~~~~MTD ILRRIEAYKR EEIAAAKARV PLEEL..K.. ARAADQSAPR
+TRPC_CORGL  ~~MTSNNLPT VLESIVEGRR GHLEEIRARI A.HVD..... .VDALPKSTR
+TRPC_BRAJA  ~~~~~~~MSD ILTKIETYKR EEIAAAKRAQ PLSVV..E.. ATAKAQGAPR
+TRC2_RALSO  ~~~~~~~~MG ILDAIKLGKE KEVAHAKTVR KLSGL..E.. QAIKQRPPPR
+TRPC_DEIRA  SPPDLSRVPG VLGRIVTERE ADYRNADASL GE........ ....ARAPHR
+TRPC_SYNY3  IKHPEAAPRH ILEEIVWHKE KEVAQRRELV PLVKL..Q.. SLVKDMTPPL
+TRPC_ARATH  HNNDADSPRN ILEEITWYKD VEVSRMKELN PLDVL..K.. KAVEDAPPTR
+TRPC_AERPE  ~~~~~~MRDS FLQKAIASAK DRTS...... LLEEI..A.. GNCSPKPGRP
+
+            301                                                350
+1a53_       SLNERILEF. .NKRNITAII AEYKRKSPSG LDV..ERDPI EYSKFME.RY
+1vc4_A      SFKE...... ALLRPGLSVI AEVKRQSPSE GLIR.EVDPV EAALAYARGG
+1i4n_A      RFLEVLSG.. ...KERVKII AEFKKASPSA GDINADASLE DFIRMYDE.L
+TRPC_BACAA  S....LVKA. ...LEQFTVI AEVKRASPSK GDINLHVDVR KQVKTYEECG
+TRPC_STRPN  RLAEFLKNH. ...QDRLQVI AEVKKASPSL GDINLDVDIV QQAQTYEENG
+TRPC_LISIN  SFYDFLKEN. ...TEQMQLI AEVKRASPSK GEINMDVNPV AQAKSYEAAG
+TRPC_AQUAE  DFEKALTS.. ....CGTKII AEVKKASPSE GNIK.EVNPE EQAKLYEKAG
+TRPC_STAEP  KLID.SLNY. ...DRTLSVI AEIKSKSPSV PQLP.QRDLV QQVKDYQKYG
+TRPC_STAAC  SFIN.AIEK. ...EPKLAII AEIKSKSPTV NDLP.ERDLS QQISDYDQYG
+TRPC_METTM  SFTDALTG.. ....NRVSLI CEYKRASPSS GRTY.GRGLH EMMEVYRE.G
+1jcm_P      HFYDALQG.. ....ARTAFI LECKKASPSK GVIRDDFDPA RIAAIYKH.Y
+TRC2_STRCO  DFAAALRE.. ....PGLAVI AEMKPRSPSK GPLTDDYRPA ELARAYQGGG
+TRPC_YERPE  DFYHALQG.. ....DKTVFI LECKKASPSK GVIRDNFNPA EIAGVYKH.Y
+TRPG_SCHPO  NFYERLKQ.. ....SKPALM AEVKRASPSK GDIKLDANAA IQALTYAQVG
+TRPC_RHIME  GFHAALAA.. RRDKGEFGLI AEIKKASPSK GLIRPDFDPP ELAKAYAAGG
+TRPC_CORGL  SLFDSLNQG. ...RGGARFI MECKSASPSL GMIREHYQPG EIARVYSR.Y
+TRPC_BRAJA  GFLRAIKA.. KHTNGDFALI AEVKKASPSK GLIRADFDPP QLAKAYEAGG
+TRC2_RALSO  DFVGAVAE.. RAGNGTVALI AEIKKASPSK GLIRSDFQVA AIAEAYRDGG
+TRPC_DEIRA  RFEQALRLSP DDRGARLALI AEVKQASPSE GAIA.ALDPA QAARAYAEGG
+TRPC_SYNY3  DFVGALRQSP ....RQPALI AEVKKASPSK GIIRADFDPV AIAKAYEAGG
+TRPC_ARATH  DFVGALRMAH KRT.GFPGLI AEVKKASPSR GILKENFDPV EIAQAYEKGG
+TRPC_AERPE  SLSSSIREW. .VYRVGGAVI AEYKRCSPSA GAIS.TLDPV SYVQATRD.A
+
+            351                                                400
+1a53_       AVGLSILTEE KYFNGSYETL RKIAS.SVS. ....IPILMK DFIVKESQID
+1vc4_A      ARAVSVLTEP HRFGGSLLDL KRVRE.AVD. ....LPLLRK DFVVDPFMLE
+1i4n_A      ADAISILTEK HYFKGDPAFV RAARN.LTC. ....RPILAK DFYIDTVQVK
+TRPC_BACAA  AGAVSVLTDG QFFKGSFYDL QTARE.ESS. ....IPLLCK DFIIDKIQID
+TRPC_STRPN  AVMISVLTDE VFFKGHLDYL REISS.QVE. ....IPTLNK DFIIDEKQII
+TRPC_LISIN  AGMISVLTDP IFFKGSIEDL REVAK.NVA. ....IPVLCK DFIISEKQLI
+TRPC_AQUAE  AIAISVLTDE KYFKGSLEDL RNVRE.SVK. ....LPLLRK DFTVHKVQIL
+TRPC_STAEP  ANAISILTDE KYFGGSFERL NQLSK.ITS. ....LPVLCK DFIIDKIQID
+TRPC_STAAC  ANAVSILTDE KYFSGSFERL QALTT.KTT. ....LPVLCK DFIIDPLQID
+TRPC_METTM  ADAVSVITEN RYFHGSIEFL REASE..YG. ....IPLLMK DFVVDEYQIY
+1jcm_P      ASAISVLTDE KYFQGSFNFL PIVSQ.IAP. ....QPILCK DFIIDPYQIY
+TRC2_STRCO  AHAVSVLTHE AGFGGSPDHL AVARA.ACE. ....LPVLRK DFVVDEYQIL
+TRPC_YERPE  ASAISVLTDE KYFQGSFDFL PQVSA.AVT. ....QPVLCK DFIIDAYQIQ
+TRPG_SCHPO  ASVISVLTEP KWFKGSLNDL FVARK.AVEH VANRPAILRK DFIIDPYQIM
+TRPC_RHIME  AACLSVLTDA PSFQGAPEFL TKARE.ACP. ....LPALRK DFMFDTYQVF
+TRPC_CORGL  ASGISVLCEP DRFGGDYDHL ATVAA.TSH. ....LPVLCK DFIIDPVQVH
+TRPC_BRAJA  AACLSVLTDT PSFQGHLDFM VAARA.ATS. ....LPVLRK DFMFDAYQVV
+TRC2_RALSO  AACLSVLTDQ TFFQGKPADL ELAKA.VSG. ....LPVLRK DFMIDPYQVH
+TRPC_DEIRA  AAAISCLTEP RHFGGSPEAL RAVVA.ASE. ....VPVLRK DFVVHPAMLR
+TRPC_SYNY3  ANCLSVLTDE KFFQGSFENL QLVRS.AVQ. ....LPLLCK EFIIYPYQIY
+TRPC_ARATH  AACLSVLTDQ KYFQGGFENL EAIRSAGVK. ....CPLLCK EFVVDPWQIY
+TRPC_AERPE  SAAYSVLTEP NWFCGSIELI PYFAR...Y. ....KPVLAK DFIVSETQIR
+
+            401                                                450
+1a53_       DAYNLGADTV LLIVKILTER ELESLLEYAR SYGMEPLIEI NDENDLDIAL
+1vc4_A      EARAFGASAA LLIVALLGEL TG.AYLEEAR RLGLEALVEV HTERELEIAL
+1i4n_A      LASSVGADAI LIIARILTAE QIKEIYEAAE ELGMDSLVEV HSREDLEKVF
+TRPC_BACAA  RAYEAGADII LLIVAALTKE KLKELYSYVL EKGLEAIVEV HDEQELEIAI
+TRPC_STRPN  RARNAGATVI LLIVAALSEE RLKELYDYAT ELGLEVLVET HNLAELEVAH
+TRPC_LISIN  RARNAGATVV LLIISALTED ELALLFKQAS ALDLEVLVEV HDRDELALAQ
+TRPC_AQUAE  EAKAYGADIV LLIVRMLSDK ELKELLDFSE ELGLSPLVEV FTLDEAKRAL
+TRPC_STAEP  VAKRAGASII LLIVNILSDD QLKELYSYAI NHNLEVLVEV HTIRELERAH
+TRPC_STAAC  VAKQAGASMI LLIVNILSDK QLKDLYNYAI SQNLEVLVEV HDRHELERAY
+TRPC_METTM  QARASGASSV LIITGVFPDL ..ESGIETCR ELSMEPLVEC HSAIDIYRAI
+1jcm_P      LARYYQADAC LLMLSVLDDD QYRQLAAVAH SLEMGVLTEV SNEEEQERAI
+TRC2_STRCO  EARALGADAL LLIVAALAPA RLAALLARTR ACGMEALVEV HDEREVDVAL
+TRPC_YERPE  LARFYHADAI LLMLSVLDDE AYRQLAAVAH SLNMGVLTEA SNAEELERAI
+TRPG_SCHPO  EARLNGADSV LLIVAMLSRE QLESLYKFSK SLGMEPLVEV NCAEEMKTAI
+TRPC_RHIME  EARAWGADCI LLIMASLGDN DARRLEEAAF ALGMDVLVEV HDAEEMERAL
+TRPC_CORGL  AARYFGADAI LLMLSVLDDE EYAALAAEAA RFDLDILTEV IDEEEVARAI
+TRPC_BRAJA  EARAHGADCI LIIMAALDDA TAKDLEDTAI AFGMDVLIEI HDRAELDRAL
+TRC2_RALSO  EARAMGADAI LLILAMLDHG QAIELEAAAQ AMGMGVLIEI HDEPELERAM
+TRPC_DEIRA  EAAEWGAGAA LLMVSVLGER LP.EFLAMTE HLGLDALVEV HDERELDIAL
+TRPC_SYNY3  LARSRGADAV LLIAAILSDK DLRYFLKIIE GLGMAALVEV HTLEEMDRVL
+TRPC_ARATH  YARTKGADAV LLIAAVLADL EITFLLKICK KLSLAALVEV HDEREMGRVL
+TRPC_AERPE  IAACMGASAA LLIMEALTPR ELQELAAAAS RYGVEVLVET PDASHAVEAS
+
+            451                                                500
+1a53_       RI.GARFIGI NSRDLETLEI NKENQRKLIS M......IPS NVVKVAESGI
+1vc4_A      EA.GAEVLGI NNRDLATLHI NLETAPRLGR LAR...KRGF GGVLVAESGY
+1i4n_A      SVIRPKIIGI NTRDLDTFEI KKNVLWELLP L......VPD DTVVVAESGI
+TRPC_BACAA  QL.NPHVIGI NNRNLKTFEV DLSQTEKLGK R.....LNEE KLLWISESGI
+TRPC_STRPN  RL.GAEIIGV NNRNLTTFEV DLQTSVDLAP Y.....FEE. GRYYISESAI
+TRPC_LISIN  KI.GAKLIGV NNRNLHTFEV DIAVSEMVAN D.....FST. EACFISESGF
+TRPC_AQUAE  DA.GAKIIGI NNRDLETFKV DINKTKELAP KIK...DLG. AKFVISESGI
+TRPC_STAEP  QI.NPKIIGV NNRDLKRFET DVLHTNKLLK F.....KKS. NCCYISESGI
+TRPC_STAAC  KV.NAKLIGV NNRDLKRFVT NVEHTNTILE N.....KKT. NHYYISESGI
+TRPC_METTM  EA.GAELIGV NNRNLETLEV DLERTRALAP L......VPD ELLLVSESGV
+1jcm_P      AL.GAKVVGI NNRDLCDLSI DLNRTRELAP K......LGH NVTVISESGI
+TRC2_STRCO  EA.GADVIGV NHRDLRDFSI DRTLSARLRG R......VGT GRVMVGESGV
+TRPC_YERPE  TL.GAKVVGI NNRDLRDLSI DLNRTRELAP R......LPE GVTIISESGI
+TRPG_SCHPO  EL.GAKVIGV NNRNLHSFEV DLSTTSKLAE M......VPD DVILAALSGI
+TRPC_RHIME  RL.SSPLVGI NNRNLRTFEV DLAVSERLAA M......VSA DRLLVGESGV
+TRPC_CORGL  KL.GAKIFGV NHRNLHDLSI DLDRSRRLSK L......IPA DAVLVSESGV
+TRPC_BRAJA  KL.RSPMIGV NNRNLRTFET TLATSEALAP L......IPG DRLMVGESGI
+TRC2_RALSO  AM.QSRLIGI NNRDLATFAA DLTTSERLAS K......VDR NRIVISESGI
+TRPC_DEIRA  AA.GPRILGI NNRDLTTLKI DLGVSPHLMA RAR...AAGF SGVLVAESGY
+TRPC_SYNY3  ALDGVQLIGV NNRNLQTFTV DLQTTEDLFA Q.RREQLTQG DITLVSESGI
+TRPC_ARATH  GIEGIELVGI NNRSLETFEV DISNTKKLLE GEHGRQIRER DMIVVGESGL
+TRPC_AERPE  RLAPGSIIGV NSRDLKTLRV DYEAMLREVS ..KAREQLPG EVILVAESGI
+
+            501                                                550
+1a53_       SERNEIEELR KLGVNAFLIG SSLMRNPEKI KEFIL~~~~~ ~~~~~~~~~~
+1vc4_A      SRKEELKALE G.LFDAVLIG TSLMRAPDLE AALRELVG~~ ~~~~~~~~~~
+1i4n_A      KDPRELKDLR G.KVNAVLVG TSIMKAENPR RFLEEMRAWS E~~~~~~~~~
+TRPC_BACAA  HSKEDIIRVK RAGAKGVLVG EALMTSSSIH TFFEDCKVNI ~~~~~~~~~~
+TRPC_STRPN  FTGQDAERLA P.YFNGILVG TALMQAENVA QRIKELQIDK G~~~~~~~~~
+TRPC_LISIN  KTADDVNRVS K.EFNAVLVG EALMRDKTPQ KAAESLKVKR ~~~~~~~~~~
+TRPC_AQUAE  SKREEILELM NYQVDGFLIG TSLMKSENPY RKLKELLGF~ ~~~~~~~~~~
+TRPC_STAEP  HTKEDVEKIV DSNIDGLLVG EALMKTNDLS QFLPSLKLKK NLYDS~~~~~
+TRPC_STAAC  HDASDVRKIL HSGIDGLLIG EALMRCDNLS EFLPQLKMQK VKS~~~~~~~
+TRPC_METTM  MGPEDAEILA GCGADALLIG TSLMLASDPR ELLDEIMAAV KSCKPGRKRY
+1jcm_P      NTYAQVRELS H.FANGFLIG SALMAHDDLH AAVRRVLLGE N.........
+TRC2_STRCO  RGAPDARALE AAGVDAVLVG ELLMRAGDPG TTIKGLVG~~ ~~~~~~~~~~
+TRPC_YERPE  SHYRQVRELS Q.FANGFLIG SALMSEPDLN AAVRRVLLGE N.........
+TRPG_SCHPO  SSPADVAHYS SQGVSAVLVG ESLMRASDPA AFARELLNLS SSEISNGKKT
+TRPC_RHIME  FTHEDCRRLE KSGITTFLVG ESLMRKDDVE AATRALLTGS ASIMAAE~~~
+TRPC_CORGL  RDTETVRQLG G.HSNAFLVG SQLTSQENVD LAARELVYGP N.........
+TRPC_BRAJA  FTPADLARLE RVGMSTFLVG ESLMRQADVT AATRTLLARE TTARATGTR~
+TRC2_RALSO  GGHGDVIRLM EAGINGFLIG EQLLRARHIE SATREIAQAR LHACP~~~~~
+TRPC_DEIRA  RAPADLREVY G.LADAVLVG TSLAGSGDLA GAARALLAR~ ~~~~~~~~~~
+TRPC_SYNY3  YELADLQRLQ QAGARAVLVG ESLVKQPDPQ QAIAALYGEV ~~~~~~~~~~
+TRPC_ARATH  FTPDDIAYVQ AAGVKAVLVG ESIVKQNDPE KGIAGLFGRN ISHT~~~~~~
+TRPC_AERPE  DSPDKALKAF KAGAQAILVG TAFMKNPQLR EKILAELLQI P~~~~~~~~~
+
+            551                                                600
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  SGDEFFEQFA ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ......KV~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  ......KVCG LTRAQDAATA YHAGAVYGGL IFVDSSPRYV DIASARTVIS
+TRPG_SCHPO  STPLV.KVCG TRSLLAAKTI VESGGDLIGL IFVEKSKRKV DLSVAKEISH
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  ......KVCG LTSPSAAQTA RAAGAVYGGL IFEEASPRNV SRETLQKIIA
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            601                                                650
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  G......... .......... .......... .AP.LKYVGV FRHAEIETVR
+TRPG_SCHPO  FVHTTNRKHI SPKKAVTGQS WFDHQYENLA SSPHPLLVGV FQNQPLEYIR
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  A......... .......... .......... .EPNLRYVAV SRRTSGYKDL
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            651                                                700
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  QTAEQLSLAA VQLH...... GHEDQQYINQ LRKVLPADCQ IWKALSVGDT
+TRPG_SCHPO  SIIAEVNLDI VQLH...... GQEPFEWIHM LDR...PVIK VFP...LNSS
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  ...LVDGIFA VQIHAPLQDS VEAEKALIAA VREEVGPQVQ VWRAISMSSP
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            701                                                750
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  MPE....RNL QQVERYVLDH GTGGTGQRFD WSLLADQALD NVLLAGGLGP
+TRPG_SCHPO  EISRPNYHIV PLID.AYVGG ESGGLGKKVD WEAASF.IPV SYVLAGGLTP
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  LGAEVAAAVE GDVDKLILDA HEGGSGEVFD WATVPAAVKA KSLLAGGISP
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            751                                                800
+1a53_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1vc4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1i4n_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAEP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_STAAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_METTM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jcm_P      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_YERPE  DNCDVAAQLG C.AGLDVNSG VESAPGIK.. ....DPQRIA AVFQALRVY~
+TRPG_SCHPO  KNVQDAISVS RPAVVDVSSG VETDGKQ... ....DLEKIK AFINAVKEL~
+TRPC_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_CORGL  DNAAQALAVG C.AGLDINSG VEYPAGAGTW AGAKDAGALL KIFATISTFH
+TRPC_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRC2_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRPC_AERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            801   
+1a53_       ~
+1vc4_A      ~
+1i4n_A      ~
+TRPC_BACAA  ~
+TRPC_STRPN  ~
+TRPC_LISIN  ~
+TRPC_AQUAE  ~
+TRPC_STAEP  ~
+TRPC_STAAC  ~
+TRPC_METTM  ~
+1jcm_P      ~
+TRC2_STRCO  ~
+TRPC_YERPE  ~
+TRPG_SCHPO  ~
+TRPC_RHIME  ~
+TRPC_CORGL  Y
+TRPC_BRAJA  ~
+TRC2_RALSO  ~
+TRPC_DEIRA  ~
+TRPC_SYNY3  ~
+TRPC_ARATH  ~
+TRPC_AERPE  ~

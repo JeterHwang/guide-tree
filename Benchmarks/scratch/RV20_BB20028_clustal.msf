@@ -1,0 +1,899 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 746  Type: P  December 21, 2021 20:24  Check: 4972  ..
+
+ Name: 1aiq_A      Len:    746  Check: 9358  Weight: -1.00
+ Name: 1bo7_A      Len:    746  Check: 7048  Weight: -1.00
+ Name: 1ci7_A      Len:    746  Check: 1627  Weight: -1.00
+ Name: 1j3i_C      Len:    746  Check: 1882  Weight: -1.00
+ Name: 1qzf_A      Len:    746  Check: 3747  Weight: -1.00
+ Name: 1tis_       Len:    746  Check:  413  Weight: -1.00
+ Name: TYSY_CLOAB  Len:    746  Check: 9325  Weight: -1.00
+ Name: TYSY_HUMAN  Len:    746  Check: 9238  Weight: -1.00
+ Name: TYSY_HSVE2  Len:    746  Check: 3475  Weight: -1.00
+ Name: TYSY_KSHV   Len:    746  Check: 9958  Weight: -1.00
+ Name: TYSY_HSVAT  Len:    746  Check: 5450  Weight: -1.00
+ Name: TYSY_VZVD   Len:    746  Check:  901  Weight: -1.00
+ Name: TYSY_ASCSU  Len:    746  Check: 9333  Weight: -1.00
+ Name: DRTS_SOYBN  Len:    746  Check: 1218  Weight: -1.00
+ Name: DRTS_MAIZE  Len:    746  Check: 6967  Weight: -1.00
+ Name: DRTS_DAUCA  Len:    746  Check: 3132  Weight: -1.00
+ Name: DRT1_ARATH  Len:    746  Check: 9007  Weight: -1.00
+ Name: TYSY_DROME  Len:    746  Check: 9554  Weight: -1.00
+ Name: TYSY_ENCCU  Len:    746  Check: 3796  Weight: -1.00
+ Name: TYSY_YEAST  Len:    746  Check: 9473  Weight: -1.00
+ Name: TYSY_CANAL  Len:    746  Check: 2994  Weight: -1.00
+ Name: TYSY_AGABI  Len:    746  Check: 2197  Weight: -1.00
+ Name: TYSY_CRYNE  Len:    746  Check:  620  Weight: -1.00
+ Name: DRTS_TRYCR  Len:    746  Check: 2831  Weight: -1.00
+ Name: DRTS_TRYBB  Len:    746  Check: 9377  Weight: -1.00
+ Name: DRTS_CRIFA  Len:    746  Check: 8661  Weight: -1.00
+ Name: DRTS_TOXGO  Len:    746  Check: 3103  Weight: -1.00
+ Name: DRTS_PARTE  Len:    746  Check: 5846  Weight: -1.00
+ Name: TYSY_HAEIN  Len:    746  Check: 4831  Weight: -1.00
+ Name: TYSY_VIBCH  Len:    746  Check: 8451  Weight: -1.00
+ Name: TYSY_HAEDU  Len:    746  Check: 7078  Weight: -1.00
+ Name: TYSY_MYCPN  Len:    746  Check: 2254  Weight: -1.00
+ Name: TYSY_MYCGE  Len:    746  Check: 3700  Weight: -1.00
+ Name: TYSY_MYCGA  Len:    746  Check: 4126  Weight: -1.00
+ Name: TYSY_MYCPE  Len:    746  Check:  799  Weight: -1.00
+ Name: TYSY_ZYMMO  Len:    746  Check: 1482  Weight: -1.00
+ Name: TYSY_SHEON  Len:    746  Check: 1282  Weight: -1.00
+ Name: TYSY_NEIGO  Len:    746  Check: 6526  Weight: -1.00
+ Name: TYSY_AGRT5  Len:    746  Check: 7732  Weight: -1.00
+ Name: TYSY_METFL  Len:    746  Check: 7203  Weight: -1.00
+ Name: TYSY_CAUCR  Len:    746  Check: 4459  Weight: -1.00
+ Name: TYSB_BACAM  Len:    746  Check:  200  Weight: -1.00
+ Name: TYSY_XANAC  Len:    746  Check: 8975  Weight: -1.00
+ Name: TYSY_XYLFA  Len:    746  Check:  846  Weight: -1.00
+ Name: TYSY_MYCLE  Len:    746  Check:  523  Weight: -1.00
+ Name: TYSY_LISIN  Len:    746  Check: 3275  Weight: -1.00
+ Name: TYSY_LACPL  Len:    746  Check: 3423  Weight: -1.00
+ Name: TYSY_BACAA  Len:    746  Check: 9585  Weight: -1.00
+ Name: TYSY_OCEIH  Len:    746  Check: 1776  Weight: -1.00
+ Name: TYSY_STAAM  Len:    746  Check: 5657  Weight: -1.00
+ Name: TYSY_BUCAI  Len:    746  Check: 3502  Weight: -1.00
+ Name: TYSY_BUCBP  Len:    746  Check: 5533  Weight: -1.00
+ Name: TYSY_WIGBR  Len:    746  Check: 2331  Weight: -1.00
+ Name: 1b49_A      Len:    746  Check: 8892  Weight: -1.00
+
+//
+
+            1                                                   50
+1aiq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bo7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ci7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j3i_C      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qzf_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~EKNV SIVVAASVLS SGIGINGQLP
+1tis_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CLOAB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVE2  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_KSHV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VZVD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_SOYBN  ~~~MPSDSSV ISNGHSNGSV NPLPNLQRTY QV.VVAATQD WGIGKDGKLP
+DRTS_MAIZE  ~~~~~~MAAV LANGDSQG.. ....RPQRNY QV.VVAGTRD MGIGKDGVLP
+DRTS_DAUCA  ~~~~~~MASE LLANPTNGSG ITRPDPQRTY QV.VVAATQN MGIGKDGKLP
+DRT1_ARATH  ~~~~~~MATT TLN..DSVTT TLASEPQRTY QV.VVAATKE MGIGKDGKLP
+TYSY_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ENCCU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGABI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CRYNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_TRYCR  ~~~~~~MSLF KIRMP.ETVA EGTRLALRAF SL.VVAVDEH GGIGDGRSIP
+DRTS_TRYBB  MLSLTRILRK KIPVH.ELAG KISRPPLRPF SV.VVASDEK GGIGDGGTIP
+DRTS_CRIFA  ~~MSRAAAKF KIPMP.VTKA DFAFPSLRAF SI.VVAADQQ HGIGDGETIP
+DRTS_TOXGO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MQKPV CL.VVAMTPK RGIGINNGLP
+DRTS_PARTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~MTTNKTF SM.VLAMTLN GGIGYQNRLP
+TYSY_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HAEDU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_NEIGO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_METFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CAUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSB_BACAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XYLFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCLE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_WIGBR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b49_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1aiq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bo7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ci7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j3i_C      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qzf_A      WS.ISEDLKF FSKITNNKCD .......... .......... ......SNKK
+1tis_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CLOAB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVE2  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_KSHV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VZVD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_SOYBN  WR.LPTDLKF FKEITMKTSE .......... .......... ......PGKK
+DRTS_MAIZE  WK.LPGDLKF FKELTLTTSD .......... .......... ......PVKK
+DRTS_DAUCA  WR.LPSDMKF FKDVTMTTSD .......... .......... ......PLKR
+DRT1_ARATH  WN.LPTDLKF FKDITLTTSD .......... .......... ......SSKK
+TYSY_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ENCCU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGABI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CRYNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_TRYCR  WN.VPEDMKF FRDLTTKLRG .......... .......... KNVKPSPAKR
+DRTS_TRYBB  WE.IPEDMQY FRRVTTNLRG .......... .......... KNVKPSPSKR
+DRTS_CRIFA  WT.VPETLAF FKDQTTLLRN .......... .......... KK.PPTEKKR
+DRTS_TOXGO  WPHLTTDFKH FSRVTKTTPE EASRLNGWLP RKFAKTGDSG LPSPSVGKRF
+DRTS_PARTE  WK.LKEDLQR FKKITT.... .......... .......... .........G
+TYSY_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HAEDU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_NEIGO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_METFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CAUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSB_BACAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XYLFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCLE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_WIGBR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b49_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+1aiq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bo7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ci7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j3i_C      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qzf_A      NALIMGRKTW DSIG..RRPL KNRIIVVISS SLPQDE.... ..........
+1tis_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CLOAB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVE2  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_KSHV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VZVD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_SOYBN  NAIVMGRKTW ESIPLEYRPL SGRLNVVLTR SGSFDI.... .........A
+DRTS_MAIZE  NAVIMGRKTW ESIPVKSRPL PGRLNVILTR SGSFDF.... .........A
+DRTS_DAUCA  NAVIMGRKTW ESIPIQHRPL PGRLNVVLTR SGSFDI.... .........A
+DRT1_ARATH  NAVVMGRKTW ESIPIKYRPL SGRLNVVLTR SGGFDI.... .........A
+TYSY_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ENCCU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGABI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CRYNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_TRYCR  NAVVMGRKTW DSIPPKFRPL PGRLNVVLSS TLTTQHLLDG LPDEEKRNLH
+DRTS_TRYBB  NAVVMGRKTW DSLPPKFRPL SNRLNVVLSR SATKEQLLAG IPDPIKRAEA
+DRTS_CRIFA  NAVVMGRKTW E.VPLKFRPL KGRLNVVLSC RRPVDDLLAQ LPEEKRAAAA
+DRTS_TOXGO  NAVVMGRKTW ESMPRKFRPL VDRLNIVVSS SLKEEDIAAE KPQ.....AE
+DRTS_PARTE  GIVIMGRKTF ESMN..SKPL PNRVNVVISK NMKSSN.... ..........
+TYSY_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HAEDU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_NEIGO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_METFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CAUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSB_BACAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XYLFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCLE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_WIGBR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b49_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            151                                                200
+1aiq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bo7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ci7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j3i_C      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qzf_A      ADPNVVVFRN LEDSIENLM. ..NDDSIENI FVCGGESIYR DALKDNFV..
+1tis_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CLOAB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVE2  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_KSHV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VZVD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_SOYBN  TAENVVICGS MSSALELLAA SPYSLSIEKV FVIGGGQIFR EALNVPGC..
+DRTS_MAIZE  TVENVVICGS MESALELLAS TPYCLSIEKV FVIGGGQVLR EYLKGPAC..
+DRTS_DAUCA  TVENVVICGS MISALELLAG SPYCVSVEKV FVIGGGQIYR EALNAPGC..
+DRT1_ARATH  NTENVVTCSS VDSALDLLAA PPYCLSIERV FVIGGGDILR EALNRPSC..
+TYSY_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ENCCU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGABI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CRYNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_TRYCR  ADSIVAVNGG LEQALRLLAS PNYTPSIETV YCIGGGSVYA EALRPPCVHL
+DRTS_TRYBB  ANDVVAVNGG LEDALRMLVS KEHTSSIETV FCIGGGTIYK QALCAPCVNV
+DRTS_CRIFA  A..DVVINGG LKEALHLLAR PPYCSSIETA YCIGGARVYT EAMQSPCVEK
+DRTS_TOXGO  GQQRVRVCAS LPAALSLLE. EEYKDSVDQI FVVGGAGLYE AALSLGVA..
+DRTS_PARTE  ...EVQVFPR IEDAL..... QFYNTSHQKL YLIGGKRIFE EGLATDKC..
+TYSY_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HAEDU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_NEIGO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_METFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CAUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSB_BACAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XYLFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCLE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_WIGBR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b49_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1aiq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bo7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ci7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j3i_C      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1qzf_A      .DRIYLTRVA LEDIEFDTYF PEIPE..... .......... ..........
+1tis_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CLOAB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVE2  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_KSHV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VZVD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_SOYBN  .EAIHLTEIQ S.SIECDTFM PPVDF..... .......... ..........
+DRTS_MAIZE  .EAIHLTDIQ S.SIECDTFI PPVDF..... .......... ..........
+DRTS_DAUCA  .DAVHITEIE E.HIECDTFI PLLDE..... .......... ..........
+DRT1_ARATH  .DAIHLTEID T.SVDCDTFI PAIDT..... .......... ..........
+TYSY_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ENCCU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGABI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CRYNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_TRYCR  LQAIYRTTIR ASESSCSVFF RVPESGT... .......... ..........
+DRTS_TRYBB  LQAIHRTVVR PASNSCSVFF DIPAAGT... .......... ..........
+DRTS_CRIFA  LKEVYLTRVH TA.PTCNRFY EFVRRRR... .......... ..........
+DRTS_TOXGO  .SHLYITRVA R.EFPCDVFF PAFPGDDILS NKSTAAQAAA PAESVFVPFC
+DRTS_PARTE  .SDVHLTRIG V.ETKCDVYL NKNIF..... .......... ..........
+TYSY_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HAEDU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_NEIGO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_METFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CAUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSB_BACAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XYLFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCLE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_WIGBR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b49_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1aiq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bo7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ci7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j3i_C      ~~~~~~~~~~ ~~~~~~~~~~ ~~DDDEEEDD FVYFN..... ..........
+1qzf_A      .......... .TFLPVYMSQ TFCTKNISYD FMIFEKQEKK TLQNCDPARG
+1tis_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CLOAB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HSVE2  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_KSHV   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~MFP FVPL...... ..........
+TYSY_HSVAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VZVD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_SOYBN  .......... TIFRPWYSSF PKVENNIRYS FTTYVRVRSS AAESAGQNID
+DRTS_MAIZE  .......... SVFQPWYSSF PVIESNIRHS FVSFVRVRKS VAETHESNGK
+DRTS_DAUCA  .......... SVFQPWYSSF PLVENKIRYC FTTYVRVRNS VAELTSQTNG
+DRT1_ARATH  .......... SVYQPWSSSF PVTENGLRFC FTTFVRVKSS ADESSDE...
+TYSY_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ENCCU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGABI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CRYNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_TRYCR  .......... .......... .EAAAGIEWQ RETISEELT. ..........
+DRTS_TRYBB  .......... .......... .KTPEGLELV RESITDERV. ..........
+DRTS_CRIFA  .......... .......... .AR...AAVD LESTSGVKV. ..........
+DRTS_TOXGO  PELGREKDNE ATYRPIFISK TFSDNGVPYD FVVLEKRRKT DDAATAEPSN
+DRTS_PARTE  .......... STFQVNKTSQ TKSENGINYD YQHLINK... ..........
+TYSY_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HAEDU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_NEIGO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_METFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CAUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSB_BACAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XYLFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCLE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_WIGBR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b49_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+1aiq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bo7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ci7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j3i_C      ....FN.... .......... .......... ..KEKEEKNK NSIHPND.FQ
+1qzf_A      QLKSIDDTVD LLGEIFGIR. .......... ....KMG.NR HKFPKEEIYN
+1tis_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CLOAB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HUMAN  ~~~~~~~~~~ ~~~PVAGS.. .......... ..ELPRRPLP P.....A.AQ
+TYSY_HSVE2  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_KSHV   ...SLYVAKK L.FRARGFRF CQKPG..... VLALAPEVDP C.....S.IQ
+TYSY_HSVAT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VZVD   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MGDLS C.........
+TYSY_ASCSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DRTS_SOYBN  PLLDNNSES. .......... .......... .......... MKFEVKD.FS
+DRTS_MAIZE  ESTEVDTKN. .......... .......... .......... DKFETEN.FS
+DRTS_DAUCA  CSSDSKSDS. .......... .......... .......... GNFEIQN.FS
+DRT1_ARATH  ...SNGSQS. .......... .......... .......... LQFDGKK.FL
+TYSY_DROME  ~~~~~~~~MV L.TPTK.... .DGPD..... QESMPL.PAD N.....G.ES
+TYSY_ENCCU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CANAL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGABI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CRYNE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MTATID.DQ
+DRTS_TRYCR  ...S...... .......... .......... .......... ..ANGNETKY
+DRTS_TRYBB  ...S...... .......... .......... .......... ..TGAGGKKY
+DRTS_CRIFA  ...S...... .......... .......... .......... ..DAAAHLSY
+DRTS_TOXGO  AMSSLTSTRE T.TPVHGLQA PSSAAAIAPV LAWMDEEDRK KREQKEL.IR
+DRTS_PARTE  .......... .......... .......... .......... ........NS
+TYSY_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_HAEDU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCGA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_NEIGO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_METFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_CAUCR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MSTAV
+TYSB_BACAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_XYLFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_MYCLE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LISIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCAI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_BUCBP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TYSY_WIGBR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b49_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                                400
+1aiq_A      ~~~~~~~~~~ ~~XKQYLELM QKVLDEGTQ. KNDRTGTGTL SIFG.HQMRF
+1bo7_A      ~~~~~~~~~~ MLEQPYLDLA KKVLDEGHF. KPDRTHTGTY SIFG.HQMRF
+1ci7_A      ~~~~~~~~N. AEEQQYLNLV QYIINHGED. RPDRTGTGTL SVFAPSPLKF
+1j3i_C      IYNSLKYKY. HPEYQYLNII YDIMMNGNK. QSDRTGVGVL SKFG.YIMKF
+1qzf_A      TPSIRFGRE. HYEFQYLDLL SRVLENGAY. RENRTGISTY SIFG.QMMRF
+1tis_       ~~~~~~~~~~ ~~MKQYQDLI KDIFENGYE. TDDRTGTGTI ALFG.SKLRW
+TYSY_CLOAB  ~~~~~~~MS. KADEKYLDII ENILENGYY. DNNRTGIETY KLPH.QIMQF
+TYSY_HUMAN  ERDAEPRPP. HGELQYLGQI QHILRCGVR. KDDRTGTGTL SVFG.MQARY
+TYSY_HSVE2  ~~~~~~MVT. HCEHQYLNTV REILANGVR. RGDRTGVGTL SVFG.DQAKY
+TYSY_KSHV   HEVTGAETP. HEELQYLRQL REILCRGSD. RLDRTGIGTL SLFG.MQARY
+TYSY_HSVAT  ~~~~~MEEL. HAEHQYLSQV KHILNCGNF. KHDRTGVGTL SVFG.MQSRY
+TYSY_VZVD   WTKVPGFTL. TGELQYLKQV DDILRYGVR. KRDRTGIGTL SLFG.MQARY
+TYSY_ASCSU  ~~MEGANVN. EDERKYLRQI KHIIDEGDK. VIDRTGVGTL SLFG.LHSTY
+DRTS_SOYBN  FLPKMISER. HEEYLYLKLV QDIIAEGTT. KGDRTGTGTL SKFG.CQMRF
+DRTS_MAIZE  FLPKMVYDR. HEEYQYLNLV EDIIRSGAQ. KNDRTGTGTL SKFG.CQMRF
+DRTS_DAUCA  FLPKTVFEK. HEEYLYLGLV ENIISNGVT. KNDRTRTGTV SIFG.CQMRF
+DRT1_ARATH  FLPKMVFDQ. HEEFLYLNMV EDIISNGNV. KNDRTGTGTL SKFG.CQMKF
+TYSY_DROME  PSKQQAPVN. RDEMHYLDLL RHIIANGEQ. RMDRTEVGTL SVFG.SQMRF
+TYSY_ENCCU  ~~~MPQDPR. HPEHQYLDLV KHILENGAR. RMDRTGTGAL SVFG.ATMRF
+TYSY_YEAST  ~~MTMDGKN. KEEEQYLDLC KRIIDEGEF. RPDRTGTGTL SLFAPPQLRF
+TYSY_CANAL  ~~~~TVSPN. TAEQAYLDLC KRIIDEGEH. RPDRTGTGTK SLFAPPQLRF
+TYSY_AGABI  ~~~~~~~~M. HDEDQYLHLI RRVLDTGDL. RPDRTGTGTI SLFAPPNLRF
+TYSY_CRYNE  EKNQRSNPD. HEEYQYLDLI RRIINVGEV. RPDRTGTGTV ALFAPPSFRF
+DRTS_TRYCR  YFEKLIPRN. REEEQYLSLV DRIIREGNV. KHDRTGVGTL SIFG.AQMRF
+DRTS_TRYBB  QFEKLVPRN. SEEEQYLNLV GRIIDEGCT. KCDRTGVGTR SLFG.AQMRF
+DRTS_CRIFA  EIMKYVPHN. AEERQYLELI DRIMKTGLV. KEDRTGVGTI SLFG.AQM.F
+DRTS_TOXGO  AVPHVHFRG. HEEFQYLDLI ADIINNGRT. MDDRTGVGVI SKFG.CTMRY
+DRTS_PARTE  HEQSYIDEE. HQENQYLDMI TKIMKEGVS. KDDRTGVGTM SIFG.QTMRF
+TYSY_HAEIN  ~~~~~~~~~~ ~~MKQYLELC RRIVSEGEWV ANERTGKHCL TVIN.ADLEY
+TYSY_VIBCH  ~~~~~~~~~~ ~~MRQYLDLC QRIVDQGVWV ENERTGKRCL TVIN.ADLTY
+TYSY_HAEDU  ~~~~~~~~~~ ~~MKQYLDLC HRILNEGKWV KNKRTDKLCL TVIN.ADLTY
+TYSY_MYCPN  ~~~~~~~~~~ ~~MQQYLDLA RYVLEHGKY. RPNRTDTAGI GVFG.YQMHF
+TYSY_MYCGE  ~~~~~~~~~~ ~~MKQYLDLA SYVLANGKK. RKNRTDTDTL SVFG.YQMKF
+TYSY_MYCGA  ~~~~~~~~~~ ~~MKTYLDLL EKVMTKGEV. KKDRTNTGTI SYFG.TQSRY
+TYSY_MYCPE  ~~~~~~~~~~ ~~MKEYKDLL KLVLDNGIM. QENRTDTDAI AYFG.TQSRY
+TYSY_ZYMMO  ~~~~~~~~~~ MSEHQYLRLV SDILEKGDQ. RHDRTGVGTL SLFG.AMMRF
+TYSY_SHEON  ~~~~~~~~~~ ~~MQQYLDLM KHILAEGVD. KSDRTGTGTR SVFG.YQMRF
+TYSY_NEIGO  ~~~~~~~~~~ ~~MKAYLDLM RHVLDNGTD. KSDRTGTGTL SVFG.YQMRF
+TYSY_AGRT5  ~~~~~~~~~~ ~~MKQYLDLL RHVMETGSD. RGDRTGTGTR SVFG.YQMRF
+TYSY_METFL  ~~~~~~~~~~ ~~MKVYHDLM RHVLEQGHK. KEDRTGTGTL SVFG.YQMRF
+TYSY_CAUCR  LDAPKAATD. HPERQYLTLL ADILENGVQ. RGDRTGTGTL GVFG.RQIRF
+TYSB_BACAM  ~~~~~~~~~~ ~~MKQYKDLC RHVLENGEK. KGDRTGTGTI STFG.YQMRF
+TYSY_XANAC  ~~~~~~~~~~ ~~MKPYLELL QHVLDHGAE. KSDRTGTGTR SVFG.WQMRF
+TYSY_XYLFA  ~~~~~~~~~~ ~~MKQYLELL NDVLVHGIQ. KPDRTGTGTR SVFG.WQMRF
+TYSY_MYCLE  ~~~~~~~~M. LIATPYEDLL RLVLDCGVA. KMDRTGTGTR SLFG.QQLRY
+TYSY_LISIN  ~~~~~~~~~~ ~~MKQYLDLE KYVLENGTQ. KGDRTGTGTI STFG.YQMRF
+TYSY_LACPL  ~~~~~~~~~~ MLEDSYLQLA RTILEHGTY. KDDRTGTGTY SVFG.YQMRF
+TYSY_BACAA  ~~~~~~~MK. HAENEYLNLC RHVMEHGTK. KEDRTGTGTV SVFG.YQMRF
+TYSY_OCEIH  ~~~~~~~~M. LGEQAYLDLC KQIFKTGEQ. RGDRTNTGTH SIFG.HQIRF
+TYSY_STAAM  ~~~~~~MLN. SFDAAYHSLC EEVLEIGNT. RNDRTNTGTI SKFG.HQLRF
+TYSY_BUCAI  ~~~~~~~~~~ ~~MKQYIKLI KKIIRVGNQ. KKDRTGTGTL SIFG.YNMKF
+TYSY_BUCBP  ~~~~~~~~~~ ~~MKSYLVLL KKILKEGSN. RKDRTGIGTL SVFG.YHMEF
+TYSY_WIGBR  ~~~~~~~~~~ ~~MKEYLDLL NLILKNGYP. KIDRTKTGTL SMFG.YQIRI
+1b49_A      ~~~~MISDSM TVEEIRLH.L GLALKEKDF. VVDKTGVKTI EIIG.ASFVA
+
+            401                                                450
+1aiq_A      NLQDG.FPLV TTKRCHLRSI IHELLWFLQG DTN.IAYLHE .......NNV
+1bo7_A      DLSKG.FPLL TTKKVPFGLI KSELLWFLHG DTN.IRFLLQ .......HRN
+1ci7_A      SLRNKTFPLL TTKRVFIRGV IEELLWFIRG ETD.SLKLRE .......KNI
+1j3i_C      DLSQ.YFPLL TTKKLFLRGI IEELLWFIRG ETN.GNTLLN .......KNV
+1qzf_A      DMRE.SFPLL TTKKVAIRSI FEELIWFIKG DTN.GNHLIE .......KKV
+1tis_       DLTKG.FPAV TTKKLAWKAC IAELIWFLSG STN.VNDLRL IQHDSLIQGK
+TYSY_CLOAB  DLSKE.FPIL TTKFVAFKTS VKELLWIYKD QSNDVRKLQN .......ENV
+TYSY_HUMAN  SLRD.EFPLL TTKRVFWKGV LEELLWFIKG STN.AKELSS .......KGV
+TYSY_HSVE2  SLRG.QFPLL TTKRVFWRGV LEELLWFIRG STD.SNELSA .......RGV
+TYSY_KSHV   SLRD.HFPLL TTKRVFWRGV VQELLWFLKG STD.SRELSR .......TGV
+TYSY_HSVAT  SLEK.DFPLL TTKRVFWRGV VEELLWFIRG STD.SKELAA .......SGV
+TYSY_VZVD   NLRN.EFPLL TTKRVFWRAV VEELLWFIRG STD.SKELAA .......KDI
+TYSY_ASCSU  SLRNGVIPLL TTKRVYWKGV VEELLWFIKG DTD.AKRLSA .......KGV
+DRTS_SOYBN  NLRG.NFPLL TTKKVFWRGV VEELLWFISG STN.AKVLQE .......KGI
+DRTS_MAIZE  NLRK.NFPLL TTKRVFWRGV VEELLWFISG STN.AKVLQE .......KGI
+DRTS_DAUCA  NLRK.SFPLL TTKKVFWRGV VEELLWFISG STN.AKILKE .......KGV
+DRT1_ARATH  NLRR.SFPLL TTKRVFWRGV VEELLWFISG STN.AKVLQE .......KGI
+TYSY_DROME  DMRN.SFPLL TTKRVFFRAV AEELLWFVAG KTD.AKLLQA .......KNV
+TYSY_ENCCU  SLEDNTFPLL TTRRVFYRGV VEELLFFLRG ETD.SKVLEK .......KGV
+TYSY_YEAST  SLRDDTFPLL TTKKVFTRGI ILELLWFLAG DTD.ANLLSE .......QGV
+TYSY_CANAL  DLSNDTFPLL TTKKVFSKGI IHELLWFVAG STD.AKILSE .......KGV
+TYSY_AGABI  SLRESTVPLL TTKRTFLRGI VEELLWFTNG LTD.SKILSD .......KGV
+TYSY_CRYNE  SLADNTLPLL TTKRVFLRGV IAELLWFVSG CTD.AKMLSS .......QGV
+DRTS_TRYCR  SLRNNRLPLL TTKRVFWRGV CEELLWFLRG ETY.AKKLSD .......KGV
+DRTS_TRYBB  SLRNNRLPLL TTKRVFWRGV CEELLWFLRG ETN.AKLLSD .......KGI
+DRTS_CRIFA  SLRDNQLPLL TTKRVFWRGV CEELIWFLRG ETN.AHVLAD .......KDI
+DRTS_TOXGO  SLDQ.AFPLL TTKRVFWKGV LEELLWFIRG DTN.ANHLSE .......KGV
+DRTS_PARTE  NLAQ.SFPLL TTKKVFFRGV VEELLWFLRG NTN.GKLLLD .......KGV
+TYSY_HAEIN  DVANNQFPLI TTRKSYWKAA IAEFLGYIRG YDN.AADFRA .......LGT
+TYSY_VIBCH  DVGNNQFPLV TTRKSFWKAA VAELLGYIRG YDN.AADFRQ .......LGT
+TYSY_HAEDU  DVAKGEFPLI TTRKSFWKAA IAELLGYIRG YDN.AADFRQ .......LGT
+TYSY_MYCPN  DISKH.FPLL TTKKVHWKSI VHELLWFIKG DTN.IKYLVD .......NKV
+TYSY_MYCGE  DLTNS.FPLL TTKKVNWKAI VHELLWFIKG DTN.IKYLVD .......NGV
+TYSY_MYCGA  DLREG.FPLL TTKKMAWKAI CHELLWFLKG DTN.IKYLVD .......HNV
+TYSY_MYCPE  DLTKG.FPLL TTKKMAYKAI FHELLWFLKG ETN.IKYLVD .......NNV
+TYSY_ZYMMO  DLSKGRIPIL TTKKVSYRLA IREMLWFLSG DTN.IRPLVE .......QGV
+TYSY_SHEON  DLSKG.FPLV TTKKCHMRSI IHELLWFLKG DTN.IAYLRD .......NKV
+TYSY_NEIGO  DLGKG.FPLL TTKKLHLRSI IHELLWFLKG DTN.IKYLKD .......NNV
+TYSY_AGRT5  DLSEG.FPVL TTKKLHLRSI IHELLWFLNG DTN.IAYLKE .......NGV
+TYSY_METFL  DLSEG.FPLL TTKKVHLNAI IHELLWFLQG STN.IAYLKE .......NGV
+TYSY_CAUCR  DLAKG.FPVL TTKKLHLRSI IIELLWFLKG DTN.IAYLKD .......NGV
+TYSB_BACAM  NLQGG.FPML TTKKLHFKSI AHELLWFLKG DTN.VRYLQE .......NGV
+TYSY_XANAC  DLNDG.FPLV TTKKLHLRSI IHELLWFLKG DTN.IGYLSD .......HQV
+TYSY_XYLFA  DLSQG.FPLV TTKKLHLRSI IHELLWFLRG ETN.IAYLKK .......HQV
+TYSY_MYCLE  DLSVG.FPLV TTKKVHFKSV VYELLWFLRG DSN.VAWLHE .......HGV
+TYSY_LISIN  DLQEG.FPIM TTKRVPFKLV VSELLWFLHG DTN.IRYLLQ .......HNN
+TYSY_LACPL  DLSQG.FPLL TTKKVPFGLI KSELLWFLHG DTN.IQYLLQ .......HHN
+TYSY_BACAA  DLSKG.FPLL TTKRVPFRLV ASELLWFMKG DTN.IRYLLQ .......HNN
+TYSY_OCEIH  DLNKG.FPLL TTKRVPFRLV ASELLWFIKG DTN.IRYLLK .......HNN
+TYSY_STAAM  DLSKG.FPLL TTKKVSFKLV ATELLWFIKG DTN.IQYLLK .......YNN
+TYSY_BUCAI  DLKKG.FPLL TTKKCHIASI IYELLWFLKG DTN.ISYLNE .......NKI
+TYSY_BUCBP  NLKLG.FPLI TTKKCHFPAI VHELLWFLKG DTN.IKYLND .......HNI
+TYSY_WIGBR  NLNEG.FPLL TTKYCHFKSI VYELLWFLRG DTN.ISFLKK .......NNI
+1b49_A      DEP...FIF. ..GALNDEYI QRELEWYKSK SLF.VKDIPG .......ETP
+
+            451                                                500
+1aiq_A      TIWD.EWAD. .......... .......... .......... ..........
+1bo7_A      HIWD.EWAFE ..KWVKSDEY HGPDMTDFGH RSQKDPEFAA VYHEEMAKFD
+1ci7_A      HIWDA.NGSR ..EYLDSIGL .......... .......... ..........
+1j3i_C      RIWEA.NGTR ..EFLDNRKL .......... .......... ..........
+1qzf_A      YIWSG.NGSK ..EYLERIGL .......... .......... ..........
+1tis_       TVWDENYEN. .......... .......... .......... ..........
+TYSY_CLOAB  TIWD.EWML. .......... .......... .......... ..........
+TYSY_HUMAN  KIWDA.NGSR ..DFLDSLGF .......... .......... ..........
+TYSY_HSVE2  KIWDA.NGSR ..DFLARAGL .......... .......... ..........
+TYSY_KSHV   KIWDK.NGSR ..EFLAGRGL .......... .......... ..........
+TYSY_HSVAT  HIWDA.NGSR ..SYLDKLGL .......... .......... ..........
+TYSY_VZVD   HIWDI.YGSS ..KFLNRNGF .......... .......... ..........
+TYSY_ASCSU  KIWDA.NGSR ..EFLDSQGF .......... .......... ..........
+DRTS_SOYBN  HIWDG.NASR ..EYLDGVGL .......... .......... ..........
+DRTS_MAIZE  HIWDG.NASR ..EYLNSVGL .......... .......... ..........
+DRTS_DAUCA  NIWEG.NGSR ..EYLDSIGL .......... .......... ..........
+DRT1_ARATH  HIWDG.NASR ..EYLDGIGL .......... .......... ..........
+TYSY_DROME  HIWDG.NSSR ..EFLDKMGF .......... .......... ..........
+TYSY_ENCCU  RIWEK.NGAK ..QFLQSVGI .......... .......... ..........
+TYSY_YEAST  KIWDG.NGSR ..EYLDKMGF .......... .......... ..........
+TYSY_CANAL  KIWEG.NGSR ..EFLDKLGL .......... .......... ..........
+TYSY_AGABI  KIWDG.NGSK ..AFLESRGL .......... .......... ..........
+TYSY_CRYNE  GIWDG.NGSK ..EFLEKVGL .......... .......... ..........
+DRTS_TRYCR  HIWDD.NGSR ..AFLDSRGL .......... .......... ..........
+DRTS_TRYBB  HIWDG.NGSR ..AFLDSRGL .......... .......... ..........
+DRTS_CRIFA  HIWDG.NGSR ..EFLDSRGL .......... .......... ..........
+DRTS_TOXGO  KIWDK.NVTR ..EFLDSRNL .......... .......... ..........
+DRTS_PARTE  KIWEG.NGTR ..EYLDTIGL .......... .......... ..........
+TYSY_HAEIN  KTWDA.NANE NAAWLA.... .......... .......... ..........
+TYSY_VIBCH  KTWDA.NANL NQAWLN.... .......... .......... ..........
+TYSY_HAEDU  KSWDA.NANQ NADWLA.... .......... .......... ..........
+TYSY_MYCPN  NIWN.EWPYE ..SFKKSPHF NGESQKEFI. .......... ..........
+TYSY_MYCGE  NIWN.EWPYE ..NFKKSPSF QNETLQEFI. .......... ..........
+TYSY_MYCGA  NIWN.EWPYE ..AFKKSNDF KGESLQDFV. .......... ..........
+TYSY_MYCPE  KIWN.EWPYE ..NYKKSPYF KNESIDEFI. .......... ..........
+TYSY_ZYMMO  SIWS.DWPLA ..RYQAETG. .......... .......... .ALLSKKEFE
+TYSY_SHEON  SIWD.EWAD. .......... .......... .......... ..........
+TYSY_NEIGO  SIWDDEWAD. .......... .......... .......... ..........
+TYSY_AGRT5  SIWD.EWAD. .......... .......... .......... ..........
+TYSY_METFL  TIWD.EWAD. .......... .......... .......... ..........
+TYSY_CAUCR  RIWD.EWAD. .......... .......... .......... ..........
+TYSB_BACAM  RIWN.EWAD. .......... .......... .......... ..........
+TYSY_XANAC  RIWD.EWAD. .......... .......... .......... ..........
+TYSY_XYLFA  HIWD.EWAD. .......... .......... .......... ..........
+TYSY_MYCLE  NIWD.EWAS. .......... .......... .......... ..........
+TYSY_LISIN  NIWN.EWAFE ..RFVKSADY KGEDMTDFGL RAERDPAFKE VYQAEMEKFK
+TYSY_LACPL  HIWD.EWAFK ..NWVTSADY DGPDMTNFEH RRLDDPDFAP IYQAQMQTFD
+TYSY_BACAA  NIWN.EWAFK ..SWVESDEY TGPDMIDFGL RSQQDEEFKV QYDEQMELFK
+TYSY_OCEIH  NIWN.EWAFE ..KWVNSADY QGPDMANFGL RSQKDENFNK QYQEQMELFK
+TYSY_STAAM  NIWN.EWAFE ..NYIKSDEY NGPDMTDFGH RALSDPEFNE QYKEQMKQFK
+TYSY_BUCAI  SIWN.NWAN. .......... .......... .......... ..........
+TYSY_BUCBP  SIWN.PWAD. .......... .......... .......... ..........
+TYSY_WIGBR  SIWN.KWAD. .......... .......... .......... ..........
+1b49_A      KIWQQ.V... .......... .......... .......... ..........
+
+            501                                                550
+1aiq_A      .......... .ENGDLGPVY GKQWRAWPT. .......PDG RHIDQITTVL
+1bo7_A      DRVLHDDAFA AKYGDLGLVY GSQWRAWHT. .......SKG DTIDQLGDVI
+1ci7_A      ........TK RQEGDLGPIY GFQWRHFGAE YIDCKTNYIG QGVDQLANII
+1j3i_C      ........FH REVNDLGPIY GFQWRHFGAE YTNMYDNYEN KGVDQLKNII
+1qzf_A      ........GH REENDLGPIY GFQWRHYNGE YKTMHDDYTG VGVDQLAKLI
+1tis_       ....QAKDLG YHSGELGPIY GKQWRDFG.. .......... .GVDQIIEVI
+TYSY_CLOAB  .......... .EDGTIGKAY GYQVAKFK.. .......... ....QIDNLI
+TYSY_HUMAN  ........ST REEGDLGPVY GFQWRHFGAE YRDMESDYSG QGVDQLQRVI
+TYSY_HSVE2  ........GH REPGDLGPVY GFQWRHFGAA YVDSKTDYRG QGVDQLRDLI
+TYSY_KSHV   ........AH RREGDLGPVY GFQWRHFGAA YVDADADYTG QGFDQLSYIV
+TYSY_HSVAT  ........FD REEGDLGPVY GFQWRHFGAE YQGLKHNYGG EGVDQLKQII
+TYSY_VZVD   ........HK RHTGDLGPIY GFQWRHFGAE YKDCQSNYLQ QGIDQLQTVI
+TYSY_ASCSU  ........KD RPEGDLGPIY GFQWRHFGAE YHGTDADYKG QGVDQLADVI
+DRTS_SOYBN  ........TE REEGDLGPVY GFQWRHFGAR YTDMHHDYSG QGFDQLLDVI
+DRTS_MAIZE  ........AH REEGDLGPIY GFQWRHFGAE YTDMHADYTG KGFDQLMDVI
+DRTS_DAUCA  ........TD REEGDLGPIY GFQWRHFGAR YTDMHADYSG QGFDQLLDVI
+DRT1_ARATH  ........TE REEGDLGPVY GFQWRHFGAK YTDMHADYTG QGFDQLVDVI
+TYSY_DROME  ........TG RAVGDLGPVY GFQWRHFGAQ YGTCDDDYSG KGIDQLRQVI
+TYSY_ENCCU  .........D REEGDLGPIY GFQWRHFGAR YETSASSYEG KGVDQIASAI
+TYSY_YEAST  ........KD RKVGDLGPVY GFQWRHFGAK YKTCDDDYTG QGIDQLKQVI
+TYSY_CANAL  ........TH RREGDLGPVY GFQWRHFGAE YKDCDSDYTG QGFDQLQDVI
+TYSY_AGABI  ........GH RREGDLGPVY GFQWRHFGAE YEDCDADYAG KGVDQLRECI
+TYSY_CRYNE  ........GH RREGDLGPVY GFQWRHFGAE YTDADGDYKG KGVDQLQRVI
+DRTS_TRYCR  ........TE YEEMDLGPVY GFQWRHFGAA YTHHDANYDG QGVDQIKAIV
+DRTS_TRYBB  ........TD YDEMDLGPVY GFQWRHFGAD YISCKVDSEG KGVDQIANIV
+DRTS_CRIFA  ........TE NKEMDLGPVY GFQWRHFGAD YKGFDANYD. EGVDQIKTIV
+DRTS_TOXGO  ........PH REVGDIGPGY GFQWRHFGAA YKDMHTDYTG QGVDQLKNVI
+DRTS_PARTE  ........QH RQEHDLGPVY GFQWRHFGAK YKDCQTDYSN QGVDQVKEII
+TYSY_HAEIN  ......NPHR RGVDDMGRVY GVQGRAWRK. .......PNG ETIDQLRKIV
+TYSY_VIBCH  ......NPYR KGEDDMGRVY GVQGRAWAK. .......PDG GHIDQLKKIV
+TYSY_HAEDU  ......NPYR KGVDDMGLVY GAIGRKFPK. .......ADH GSLDLLKQIV
+TYSY_MYCPN  ERIRQDAKFA QQFGNLGPVY GKQWRDFN.. .......... .GVDQLKKVI
+TYSY_MYCGE  LKVKTDNEFA KQFADLGPVY GKQWRNFN.. .......... .GVDQLKKVI
+TYSY_MYCGA  EKIKTDNQFA QQYGKLGPVY GKQWRDFN.. .......... .GVDQIEWVI
+TYSY_MYCPE  LKIKEDDSFA KQFGELGPVY GRQWRNFN.. .......... .GVDQITNLI
+TYSY_ZYMMO  AKILADTEFA KKWGDLGPVY GRQWRRWQG. .......SDG QVYDQIATLI
+TYSY_SHEON  .......... .ENGDLGPVY GAQWRSWPT. .......QSG EAIDQISQVI
+TYSY_NEIGO  .......... .ENGDLGPVY GYQWRSWPA. .......PDG RHIDQIANVV
+TYSY_AGRT5  .......... .ENGDLGPVY GAQWRSWPA. .......PDG RHIDQIALLI
+TYSY_METFL  .......... .AEGNLGPVY GYQWRNWPK. .......PDG GHIDQISEVI
+TYSY_CAUCR  .......... .ENGDLGPVY GKQWRSWAT. .......PDG RVIDQISALV
+TYSB_BACAM  .......... .ENGELGPVY GSQWRSWRG. .......ADG ETIDQISRLI
+TYSY_XANAC  .......... .DNGDLGPVY GKQWRRWTG. .......PDG VEIDQMQWLV
+TYSY_XYLFA  .......... .ATGELGPVY GKQWRRWAG. .......ADG HEIDQIRWLL
+TYSY_MYCLE  .......... .STGDLGPIY GVQWRSWPT. .......SSG DYIDQISTAL
+TYSY_LISIN  TRILEDETFA NKYGELGNIY GKQWREWKT. .......SQG ETIDQLADLI
+TYSY_LACPL  DQILTDDAFA AKYGNLGDVY GAQWRHWQT. .......RQG KTIDQIANVI
+TYSY_BACAA  KNVLEDDEFS NKYGYLGDVY GKQWRAWKT. .......TAG ETLDQLKDVI
+TYSY_OCEIH  TRILEDDSFA DKYGDLGSVY GKQWRNWKT. .......TQN ETIDQLKDVI
+TYSY_STAAM  QRILEDDTFA KQFGDLGNVY GKQWRDWVD. .......KDG NHFDQLKTVI
+TYSY_BUCAI  .......... .ESGDVGPIY GKQWRNWST. .......PEG HEIDQIKNVL
+TYSY_BUCBP  .......... .ERGYLGPIY GEQWRSWKT. .......KDG RVIDQIDNVI
+TYSY_WIGBR  .......... .KNGNLGPIY GKQWRAWED. .......KKN NTIDQIEIAL
+1b49_A      .........A SSKGEINSNY G..WAIWSE. .......... DNYAQYDMCL
+
+            551                                                600
+1aiq_A      NQLKNDPDSE RIIVSAWNVG E.....LDKM ALAPCHAFFQ FYVAD.....
+1bo7_A      EQIKTHPYSR TLIVSAWNPE D.....VPTM ALPPCHTLYQ FYVND.....
+1ci7_A      QKIRTSPYDR RLILSAWNPA D.....LEKM ALPPCHMFCQ FYVHIPS...
+1j3i_C      NLIKNDPTSR RILLCAWNVK D.....LDQM ALPPCHILCQ FYVF......
+1qzf_A      ETLKNNPKDR RHILTAWNPS A.....LSQM ALPPCHVLSQ YYVTN.....
+1tis_       DRIKKLPNDR RQIVSAWNPA E.....LKYM ALPPCHMFYQ FNVRN.....
+TYSY_CLOAB  DTLKTDPQSR RMLISLWNIA D.....LKDM SLTPCCYETL WDVQN.....
+TYSY_HUMAN  DTIKTNPDDR RIIMCAWNPR D.....LPLM ALPPCHALCQ FYVV......
+TYSY_HSVE2  GEIKRNPESR RLVLTAWNPA D.....LPAM ALPPCHLLCQ FYVA......
+TYSY_KSHV   DLIKNNPHDR RIIMCAWNPA D.....LSLM ALPPCHLLCQ FYVA......
+TYSY_HSVAT  NTIHTNPTDR RMLMCAWNVL D.....VPKM ALPPCHVLSQ FYVC......
+TYSY_VZVD   DTIKTNPESR RMIISSWNPK D.....IPLM VLPPCHTLCQ FYVA......
+TYSY_ASCSU  EQIKNNPNSR RIILNAWNVK D.....LHQM ALPPCHTLAQ FAVK......
+DRTS_SOYBN  NKIKRNPDDR RIILSAWNPV D.....LKLM ALPPCHMFAQ FYVA......
+DRTS_MAIZE  DKIKNDPEDR RIILSAWNPS D.....LKKM ALPPCHMFAQ FYVE......
+DRTS_DAUCA  SKIKNNPDDR RIIQSAWNPS D.....LRLM ALPPCHMFAQ FYVA......
+DRT1_ARATH  DKIKNNPDDR RIIMSAWNPS D.....LKLM ALPPCHMFAQ FYVA......
+TYSY_DROME  DTIRNNPSDR RIIMSAWNPL D.....IPKM ALPPCHCLAQ FYVSE.....
+TYSY_ENCCU  AAIRANPASR RIVVSAWNPT D.....LGSM ALPPCHVLFQ FNVT......
+TYSY_YEAST  HKLKTNPYDR RIIMSAWNPA D.....FDKM ALPPCHIFSQ FYVSFPKEGE
+TYSY_CANAL  KKLKTNPYDR RIIMSAWNPP D.....FAKM ALPPCHVFCQ FYVNFPTSSP
+TYSY_AGABI  RKIKENPTDR RIILSAWNPK D.....IPSM ALPPCHMLCQ FYVHLPAD..
+TYSY_CRYNE  DTIKNNPTDR RIILSAWNPK D.....LPLM ALPPCHMFCQ FFVSLPPADS
+DRTS_TRYCR  ETLKTNPDDR RMLFTAWNPS A.....LPRM ALPPCHLLAQ FYVSN.....
+DRTS_TRYBB  KSLIENPDDR RMICTAWNPA A.....LPRM ALPPCHMMAQ FYVSN.....
+DRTS_CRIFA  ETLKT..NDR RLLVTAWNPC A.....LHKM AVRPCHLLGQ FYVNT.....
+DRTS_TOXGO  QMLRTNPTDR RMLMTAWNPA A.....LDEM ALPPCHLLCQ FYVND.....
+DRTS_PARTE  QLLKNNPDSR RIILSAWNPI D.....LKQM ALPPCHVMSQ FFVA......
+TYSY_HAEIN  NNLTKGIDDR GEILTFFNPG E.....FDLG CLRPCMHTHT FSLVG.....
+TYSY_VIBCH  DDLSRGVDDR GEILNFYNPG E.....FHMG CLRPCMYSHH FSLLG.....
+TYSY_HAEDU  DDLSNGIDNR GEIYTFYHPG A.....FHMG CLRPCLYSHH FSLLD.....
+TYSY_MYCPN  AQIKVNPFSR RLIVSSWNPN E.....VDQM LLPPCHSLYQ FYVQD.....
+TYSY_MYCGE  QEIKENPNSR RLIVSSWNPS E.....LEKM ALAPCHSLFQ FYVEE.....
+TYSY_MYCGA  NEIKTNPFSR RLIVSAWNPG E.....IKEM ALPPCHSFFQ FFVNE.....
+TYSY_MYCPE  EEIKKNKYSR RLIVSVWNPS E.....IKNM LLPPCHCLFQ FFVNS.....
+TYSY_ZYMMO  ETLKSNPSSR RMLFHGWNVA E.....LKDM ALPPCHMVYQ YHVTS.....
+TYSY_SHEON  AQIKSQPDSR RLIVSAWNVG E.....LDKM ALAPCHAFFQ FYVAD.....
+TYSY_NEIGO  EQIKKNPDSR RLIVSAWNPA L.....VDEM ALPPCHALFQ FYVAD.....
+TYSY_AGRT5  EALKTNPNSR RHIVSAWNPA L.....VDEM ALPPCHCLFQ FYVSD.....
+TYSY_METFL  AAIKSNPDSR RLIVSAWNVA D.....VDKM ELPPCHALFQ FYVAE.....
+TYSY_CAUCR  ENLKANPNSR RHIVTAWNPA D.....VDDM ALPPCHCLFQ FFVAD.....
+TYSB_BACAM  HDIKTNPNSR RLIVSAWNVG E.....IDRM ALPPCHCLFQ FYVAD.....
+TYSY_XANAC  DEIKRNPDSR RLVISAWNVG E.....LPQM ALMPCHSLFQ FYVVN.....
+TYSY_XYLFA  EEIKRNPDSR RLVISAWNVA D.....LPQM ALVPCHALFQ FYVAN.....
+TYSY_MYCLE  DLLRTEPDSR RIIVSAWNVG E.....IPQM ALPPCHAFFQ FYVAQ.....
+TYSY_LISIN  EMIKTNPNSR RLIVSAWNPE D.....IPNM ALPPCHSLFQ FYVAD.....
+TYSY_LACPL  EMIKTHPDSR RLIVSAWNPE D.....VPNM ALPPCHTLFQ FYVAD.....
+TYSY_BACAA  EMIKKTPDSR RLIVSAWNPE D.....VPSM ALPPCHTLFQ FYVAD.....
+TYSY_OCEIH  HSIKTNPNSR RHIVSAWNPE D.....IPTM ALPPCHTLFQ FYVSN.....
+TYSY_STAAM  EQIKHNPDSR RHIVSAWNPT E.....IDTM ALPPCHTMFQ FYVQD.....
+TYSY_BUCAI  IQLKKNPDSR RMLVSSWNVG D.....IDKM RLPPCHVLFQ FYVFN.....
+TYSY_BUCBP  HLIKNNPNSR RIVVSSWNVG D.....LHKM ALLPCHVLFQ FHVVD.....
+TYSY_WIGBR  NKLKKEPSSR RILVSSWNVG E.....LDLM SIPPCHVLFQ LYVIN.....
+1b49_A      AELGQNPDSR RGIMIYTRPS MQFDYNKDGM SDFMCTNTVQ YLIRD.....
+
+            601                                                650
+1aiq_A      .......... ..GKLSCQLY QRSCDVFLGL PFNIASYAL. LVHMMA....
+1bo7_A      .......... ..GKLSLQLY QRSADIFLGV PFNIASYAL. LTHLVA....
+1ci7_A      .......... .RPELSCQLY QRSCDMGLGV PFNIASYAL. LTCMIA....
+1j3i_C      .......... .DGKLSCIMY QRSCDLGLGV PFNIASYSI. FTHMIA....
+1qzf_A      .......... .DNCLSCNLY QRSCDLGLGS PFNIASYAI. LTMMLA....
+1tis_       .......... ..GYLDLQWY QRSVDVFLGL PFNIASYAT. LVHIVA....
+TYSY_CLOAB  .......... ..GKLNCMLV QRSGDMPLGV PFNMCQYAV. LVHLIA....
+TYSY_HUMAN  .......... .NSELSCQLY QRSGDMGLGV PFNIASYAL. LTYMIA....
+TYSY_HSVE2  .......... .GGELSCQLY QRSGDMGLGV PFNIASYSL. LTYMVA....
+TYSY_KSHV   .......... .DGELSCQLY QRSGDMGLGV PFNIASYSL. LTYMLA....
+TYSY_HSVAT  .......... .DGKLSCQLY QRSADMGLGV PFNIASYSL. LTCMIA....
+TYSY_VZVD   .......... .NGELSCQVY QRSGDMGLGV PFNIAGYAL. LTYIVA....
+TYSY_ASCSU  .......... .NGELSCQLY QRSGDMGLGV PFNLASYGL. LTHMIA....
+DRTS_SOYBN  .......... .HGELSCQMY QRSADMGLGI PFNIASYAL. LTCMIA....
+DRTS_MAIZE  .......... .NGELSCQMY QRSADMGLGV PFNIASYSL. LTYMIA....
+DRTS_DAUCA  .......... .NGELSCQMY QRSADMGLGV PFNIAAYAL. LTCMIA....
+DRT1_ARATH  .......... .EGELSCQMY QRSADMGLGV PFNIASYSL. LTCMLA....
+TYSY_DROME  .......... KRGELSCQLY QRSADMGLGV PFNIASYAL. LTHMIA....
+TYSY_ENCCU  .......... .DGKLSCAMY QRSGDMGLGV PFNIASYSL. LTILVA....
+TYSY_YEAST  ........GS GKPRLSCLLY QRSCDMGLGV PFNIASYAL. LTRMIA....
+TYSY_CANAL  DPNNPKQAKT AKPKLSCLLY QRSCDMGLGV PFNIASYAL. LTKMIA....
+TYSY_AGABI  .........T AKPELSCLMF QRSADLGLGI PFNIASYAL. LTHMIA....
+TYSY_CRYNE  ........PG SKPKLSCLMY QRSCDLGLGV PFNIASYAL. LTHMIA....
+DRTS_TRYCR  .......... ..GELSCMLY QRSCDMGLGV PFNIASYAL. LTILIA....
+DRTS_TRYBB  .......... ..GELSCMLY QRSCDMGLGV PFNIASYAL. LTFLMA....
+DRTS_CRIFA  .......... QTKELSCMLY QRCCDMGLGV PFNIASYAL. LTILIA....
+DRTS_TOXGO  .......... .QKELSCIMY QRSCDVGLGV PFNIASYSL. LTLMVA....
+DRTS_PARTE  .......... .NGKLSCMMY QRSCDFGLGI PFNIASYAL. LTYMLA....
+TYSY_HAEIN  .......... ..DTLHLTSY QRSCDVPLGL NFNQIQVFT. FLALMA....
+TYSY_VIBCH  .......... ..DTLYLNST QRSCDVPLGL NFNMVQVYV. FLALMA....
+TYSY_HAEDU  .......... ..GTLYLNST QRSADVPLGL NWNMVQCYT. FLALMA....
+TYSY_MYCPN  .......... ..GQLSCQLY QRSGDIFLGI PFNIASYSL. LVYLVA....
+TYSY_MYCGE  .......... ..DKLSLQLY QRSGDIFLGV PFNIASYAL. LVYLVA....
+TYSY_MYCGA  .......... .KYEISLQLY QRSGDLFLGV PFNIASYSL. LLLMVA....
+TYSY_MYCPE  .......... .KNELSCQLY QRSADLFLGV PFNIASYSL. LTYMIA....
+TYSY_ZYMMO  .......... .DGRLNSLLY QRSADVFLGA AFQFGRRGR. LQAMLA....
+TYSY_SHEON  .......... ..GKLSCQLY QRSCDVFLGL PFNIASYAL. LTMMVA....
+TYSY_NEIGO  .......... ..GNLSCQLY QRSADIFLGV PFNIASYAL. LTMMMA....
+TYSY_AGRT5  .......... ..GKLSCQLY QRSADIFLGV PFNIASYAL. LTLMVA....
+TYSY_METFL  .......... ..GKLSCQLY QRSADIFLGV PFNIASYAL. LTMMVA....
+TYSY_CAUCR  .......... ..GKLSCQLY QRSADVFLGV PFNIASYAL. LTLMVA....
+TYSB_BACAM  .......... ..GKLSCQLY QRSADVFLGV PFNIASYAL. LTMMIA....
+TYSY_XANAC  .......... ..GKLSCQLY QRSGDIFLGV PFNIASYAL. LTHMVA....
+TYSY_XYLFA  .......... ..GKLSCQLY QRSADIFLGV PFNIASYAL. LTHMLA....
+TYSY_MYCLE  .......... ..GRLSCQLY QRSADMFLGV PFNIASYAL. LTHMMA....
+TYSY_LISIN  .......... ..GKLSCQLY QRSADIFLGV PFNIASYAL. LTHLIA....
+TYSY_LACPL  .......... ..GKLSCQLY QRSGDVFLGV PFNIASYAL. LTHLIA....
+TYSY_BACAA  .......... ..GKLSCQLY QRSGDIFLGI PFNIASYSL. LTHLIA....
+TYSY_OCEIH  .......... ..GKLSCQLY QRSADVFLGV PFNIASYAL. LTHLIA....
+TYSY_STAAM  .......... ..GKLSCQLY QRSADIFLGV PFNIASYAL. LTHLIA....
+TYSY_BUCAI  .......... ..NTLSCQLY QRSCDVFLGL PFNIASYSI. LIHMIA....
+TYSY_BUCBP  .......... ..HVLHCQLY QRSCDVFLGL PFNIASYSL. LTHMIA....
+TYSY_WIGBR  .......... ..NKLSCQVY QRSCDIFLGL PFNIGSYAL. LTHIFA....
+1b49_A      .......... ..KKINAVVN MRSNDVVFGF RNDYAWQKYV LDKLVSDLNA
+
+            651                                                700
+1aiq_A      ..QQCDLEVG DFVWTGGDTH LYSNHMDQTH L.QLSREPRP ..LPKLIIKR
+1bo7_A      ..HECGLEVG EFIHTFGDAH LYVNHLDQIK E.QLSRTPRP ..APTLQLNP
+1ci7_A      ..HVCDLDPG DFIHVMGDCH IYKDHIEALQ Q.QLTRSPRP ..FPTLSLNR
+1j3i_C      ..QVCNLQPA QFIHVLGNAH VYNNHIDSLK I.QLNRIPYP ..FPTLKLNP
+1qzf_A      ..QVCGYEPG ELAIFIGDAH IYENHLTQLK E.QLSRTPRP ..FPQLKFKR
+1tis_       ..KMCNLIPG DLIFSGGNTH IYMNHVEQCK E.ILRREPKE ..LCELVISG
+TYSY_CLOAB  ..QVTGLKPG LFTHVINNAH IYKNQIEGMK I.QLKRRDKA YEAPKLWINP
+TYSY_HUMAN  ..HITGLKPG DFIHTLGDAH IYLNHIEPLK I.QLQREPRP ..FPKLRILR
+TYSY_HSVE2  ..HLTGLEPG DFIHVLGDAH VYLNHVEPLK L.QLTRSPRP ..FPRLRILR
+TYSY_KSHV   ..HVTGLRPG EFIHTLGDAH IYKTHIEPLR L.QLTRTPRP ..FPRLEILR
+TYSY_HSVAT  ..HVTDLVPG EFIHTLGDAH VYVNHVDALT E.QLTRTPRP ..FPTLKFAR
+TYSY_VZVD   ..HVTGLKTG DLIHTMGDAH IYLNHIDALK V.QLARSPKP ..FPCLKIIR
+TYSY_ASCSU  ..HVCALKTG FLHHVLGDAH VYLNHIDALK E.QLSRDPRP ..FPTVHFEG
+DRTS_SOYBN  ..HVCDLIPG DFIHVIGDAH IYRNHVRPLQ E.QLHNQPKP ..FPTLKINP
+DRTS_MAIZE  ..QVCDLSPG DFVHVIGDAH VYRNHVRALE E.QIQKMPKP ..FPILKINP
+DRTS_DAUCA  ..HVCDLVPG DFVHSIGDAH VYSNHLSDLF ETSFRMLPKT ..FPVLKINS
+DRT1_ARATH  ..HVCDLVPG DFIHVLGDAH VYKTHVRPLQ E.QLLNLPKP ..FPVMKINP
+TYSY_DROME  ..HVTGLKPG DFVHTMGDTH VYLNHVEPLK E.QLERTPRP ..FPKLIIKR
+TYSY_ENCCU  ..HLTGLQPG EFVHFLGDAH VYLDHVDSLR Q.QIQRPPRA ..FPKLFVSP
+TYSY_YEAST  ..KVVDMEPG EFIHTLGDAH VYKDHIDALK E.QITRNPRP ..FPKLKIKR
+TYSY_CANAL  ..HVVDMDCG EFIHTLGDAH VYLDHIDALK E.QFERIPKQ ..FPKLVIKE
+TYSY_AGABI  ..HVTGTTAR ELIIQLGDAH VYRDHVEALE V.QLQREPRP ..FPKLRWAR
+TYSY_CRYNE  ..LITDTEPH EFILQMGDAH VYRDHVEPLK T.QLEREPRD ..FPKLKWAR
+DRTS_TRYCR  ..KATGLRPG ELVHTLGDAH VYSNHVEPCN E.QLKRVPRA ..FPYLVFRR
+DRTS_TRYBB  ..KASGLRPG ELVHTLGDAH VYSNHVEPCR K.QLKRVPRP ..FPFIVFKQ
+DRTS_CRIFA  ..KATGLRPG ELVHTLGTAH VYSNHVEALK E.QLQRVPVA ..FPVLVFKK
+DRTS_TOXGO  ..HVCNLKPK EFIHFMGNTH VYTNHVEALK E.QLRREPRP ..FPIVNILN
+DRTS_PARTE  ..KECNLNLG EFVHVLGDTH IYSNHVEALK K.QIERVPYP ..FPLLKIKG
+TYSY_HAEIN  ..QITGKKAG KAYHKIVNAH IYEDQLELMR DVQLKREPFP ..LPKLEINP
+TYSY_VIBCH  ..QITGKKPG LAYHKIVNAH IYQDQLELMR DVQLKREPFP ..APQFHINP
+TYSY_HAEDU  ..QITNHKAG QVFHKIVNAH IYEDQLALMR DVQLKREPFA ..TPTLTINP
+TYSY_MYCPN  ..KETNLKPG SFVHTIGDAH IYENHLEQIK L.QLTRQPKP ..LPKVVLKS
+TYSY_MYCGE  ..HETKLKPG YFIHTLGDAH IYENHIEQIK L.QLTRTTLD ..PPQVVLKS
+TYSY_MYCGA  ..QVTGLKPA EFIHTIGDTH IYSNHLEQVK I.QLQREPKK ..LPKVTLNP
+TYSY_MYCPE  ..QVTNTTAK EFVHTIGVAH IYNNHIDQVK E.QLTREPLQ ..LPTLVLNK
+TYSY_ZYMMO  ..DQAGLALG DLVWTGGDVH IYRNHIDQMK N.SLPVTS.G ..FSRLELTR
+TYSY_SHEON  ..QQCDLALG DFVWTGGDTH LYSNHMEQTA L.QLSREPRP ..LPTMTILR
+TYSY_NEIGO  ..QVCGLEAG EFVHTFGDAH LYRNHFEQAA L.QLEREPRA ..LPVMKINP
+TYSY_AGRT5  ..QVVGLKPG DFVHTLGDAH IYANHFEQAQ L.QMTRTPKA ..LPTMRLNP
+TYSY_METFL  ..RVCDLELG DFVHTLGDAH IYLNHLEQVK E.QLSREPYP ..LPVMRINP
+TYSY_CAUCR  ..KVVGLEPG EFVHTFGDAH LYLNHLDQAR E.QLTREPFD ..FPTMKIA.
+TYSB_BACAM  ..HVTGLEPG EFVHTFGDVH IYQNHVEQVN L.QLTRDVRP ..LPKLRFAR
+TYSY_XANAC  ..QATGLGVG DFVHTLGDAH LYSNHFEQAR E.QLTRTPRA ..LPSLRLNP
+TYSY_XYLFA  ..QVTGLAVG DFVHTLGDAH LYANHVEQAS V.QLERVPRP ..QPVLMLNP
+TYSY_MYCLE  ..AQSGLLVG EFVWTGGDCH IYDNHVEQVQ L.QLSREPRA ..YPELFLA.
+TYSY_LISIN  ..REVGLDVG EFIHTMGDAH LYNNHIEQVK E.QLSRTPHA ..LPKLVLSD
+TYSY_LACPL  ..KETGLAVG EFVHTLGDAH IYTNHVEQVK T.QLTRQPRP ..APQLTLSG
+TYSY_BACAA  ..HECGLEVG EFVHTIGDAH IYTNHFEQVE K.QLAREPRP ..FPKLTLNP
+TYSY_OCEIH  ..HECGLEVG DFVHTFGDAH IYSNHVEQVE T.QLEREIRD ..FPQLIINK
+TYSY_STAAM  ..KECGLEVG EFVHTFGDAH IYSNHIDAIQ T.QLARESFN ..PPTLKINS
+TYSY_BUCAI  ..QQCDLKVG DFLWTGGDVH LYNNHIELAK K.QILRIPRT ..LPKLTILK
+TYSY_BUCBP  ..QQCNLKVG NFIWTGGDVH LYKNHIKQAK K.QILRRPYL ..LPKLVINR
+TYSY_WIGBR  ..NQCDLLVE DLIWTGGDIH LYKNHLNQAK L.QLTRSPLP ..LPKIFIKK
+1b49_A      GDSTRQYKAG SIIWNVGSLH VYSRHFYLVD H.WWK..... ..TGETHISK
+
+            701                                            746
+1aiq_A      K......... ...PESIFDY ....RFEDFE IEGYDPHPGI KAPVAI
+1bo7_A      D......... ...KHDIFDF ....DMKDIK LLNYDPYPAI KAPVAV
+1ci7_A      .......... ..SITDIEDF ....TLDDFN IQNYHPYETI KMKMSI
+1j3i_C      .......... ..DIKNIEDF ....TISDFT IQNYVHHEKI SMDMAA
+1qzf_A      .......... ..KVENIEDF ....KWEDIE LIGYYPYPTI KMDMAV
+1tis_       LPYKFRYLST KEQLKYVLKL ....RPKDFV LNNYVSHPPI KGKMAV
+TYSY_CLOAB  N......... ...IKNFYDF ....TADDIK LIDYKHHDKI KMEVAV
+TYSY_HUMAN  .......... ..KVEKIDDF ....KAEDFQ IEGYNPHPTI KMEMAV
+TYSY_HSVE2  .......... ..RVEDIDDF ....RAEDFA LEGYHPHAAI PMEMAV
+TYSY_KSHV   .......... ..SVSSMEEF ....TPDDFR LVDYCPHPTI RMEMAV
+TYSY_HSVAT  .......... ..KVASIDDF ....KANDII LENYNPYPSI KMPMAV
+TYSY_VZVD   .......... ..NVTDINDF ....KWDDFQ LDGYNPHPPL KMEMAL
+TYSY_ASCSU  .......... ..RIDSIDDF ....TAESII LNGYNPMAPI KMPMAV
+DRTS_SOYBN  .......... ..KKKDIDSF ....VAADFK LIGYDPHQKI DMKLSV
+DRTS_MAIZE  .......... ..SKKDIDSF ....MASDFK LVGYDPHQKI EMKMAV
+DRTS_DAUCA  .......... ..GEKDIDSF ....EAADFK LIGYDPHQKI EMKMAV
+DRT1_ARATH  .......... ..EKKQIDSF ....VASDFD LTGYDPHKKI EMKMAV
+TYSY_DROME  .......... ..QVQDIEDF ....RFEDFQ IVDYNPHPKI QMDMAV
+TYSY_ENCCU  .......... KGPRTEPEHF ....QYEDFE LVGYDPHPAI KMNMSA
+TYSY_YEAST  .......... ..DVKDIDDF ....KLTDFE IEDYNPHPRI QMKMSV
+TYSY_CANAL  E........R KNEIKSIDDF ....KFEDFE IVGYEPYPPI KMKMSV
+TYSY_AGABI  D......... ..GITDIEDF ....EYSDFV IEGYNPHPSI AMKMSV
+TYSY_CRYNE  S......... KEEIGDIDGF ....KVEDFV VEGYKPWGKI DMKMSA
+DRTS_TRYCR  .......... ..EREFLEDY ....EEGDME VIDYAPYPPI SMKMAV
+DRTS_TRYBB  .......... ..DKEFLEDF ....QESDIE VIDYSPYPVI SMEMAV
+DRTS_CRIFA  .......... ..EREFLEDY ....ESTDME VVDYVPYPPI KMEMAV
+DRTS_TOXGO  .......... KERIKEIDDF ....TAEDFE VVGYVPHGRI QMEMAV
+DRTS_PARTE  .......... ...NKSLFDY ....TYEDFE LVGYNAHDKI EMKMAV
+TYSY_HAEIN  D......... ...IKTLEDL ETWVTMDDFK VVGYQSHEPI KYPFSV
+TYSY_VIBCH  K......... ...IKTLQDL ETWVTLDDFD VTGYQFHDPI QYPFSV
+TYSY_HAEDU  A......... ...IKSLEDL EIWVTLDDFK VENYFYHPSI QYPFSI
+TYSY_MYCPN  D......... ....KSIFDY ....QFDDIE LVDYDHHPTI KGEVAV
+TYSY_MYCGE  D......... ....KSIFAY ....SFDDIE LVGYNYHPFI YGRVAV
+TYSY_MYCGA  D......... ...IKNIFDF ....RFEDIS LENYEHHDPI KGKVAV
+TYSY_MYCPE  N......... ...IKNIFDF ....KIEDIE IKDYNSHPAI KGKVAV
+TYSY_ZYMMO  H......... ...PNSITDY ....KSRILR LQDMILIPPI KGAVAV
+TYSY_SHEON  K......... ...PASIFDY ....QFDDFA LSNYDPHPHI KAPVAV
+TYSY_NEIGO  E......... ...VKDLFAF ....KFEDFE LEGYDPHPHI KAVVSV
+TYSY_AGRT5  D......... ...VKNLFGF ....KFEDFT LENYEADSSI KAPIAV
+TYSY_METFL  E......... ...VKDIFAF ....RFEDFT LENYQSHPAI KAPVAV
+TYSY_CAUCR  D......... ...KRDLFGF ....EYEDFT LEGYQAHPHI KAEVSV
+TYSB_BACAM  N......... ...VDSIFDF ....AFEDFI IEDYDPHPHI KGAVSV
+TYSY_XANAC  E......... ...VTDLFAF ....RFEDIA IEGYDPHPAI KAPVAV
+TYSY_XYLFA  A......... ...VTDLFDF ....TYDDIV IEGYDPYPAI KAPVAV
+TYSY_MYCLE  Q......... ...RDSIFDY ....VYEDVV VTNYDPHPAI KAPVAI
+TYSY_LISIN  K......... ...PATIFDF ....EVADIS LDGYNPDPAI KAPISV
+TYSY_LACPL  A......... ...HDSIFDY ....QMSDIK LSGYDPAPAI KAPVAI
+TYSY_BACAA  D......... ...VKSVFDF ....EMEDLT IEGYDPHPAI KAPVAV
+TYSY_OCEIH  D......... ...KNSIFEM ....DLDDLV IENYNPHPSI KAPIAV
+TYSY_STAAM  D......... ....KSIFDI ....NYEDLE IVDYESHPAI KAPIAV
+TYSY_BUCAI  K......... ...PQSLFQY ....CFEDFK IIGYHPYPAI KGEISI
+TYSY_BUCBP  K......... ...PTQIFNY ....LLQDFN LLNYKYHPSI HAKIAI
+TYSY_WIGBR  K......... ...PKNLFNY ....AFNDFL LIDYNHHPKI KAPISI
+1b49_A      KDY~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~

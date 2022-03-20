@@ -1,0 +1,1028 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV20_BB20036_kalign.msf  MSF: 541  Type: N  December 21, 2021 20:25  Check: 1602  ..
+
+ Name: 1erv_       Len:    541  Check: 3648  Weight: 1.00
+ Name: 1r26_A      Len:    541  Check: 7789  Weight: 1.00
+ Name: THIO_STAAM  Len:    541  Check: 8154  Weight: 1.00
+ Name: THIO_BACSU  Len:    541  Check: 5867  Weight: 1.00
+ Name: THIO_LISMO  Len:    541  Check: 7313  Weight: 1.00
+ Name: THI1_ANASP  Len:    541  Check: 2471  Weight: 1.00
+ Name: THIO_CYACA  Len:    541  Check: 5637  Weight: 1.00
+ Name: THIO_PORPU  Len:    541  Check: 6212  Weight: 1.00
+ Name: THIO_RICCN  Len:    541  Check: 5842  Weight: 1.00
+ Name: THIO_STRAU  Len:    541  Check: 6676  Weight: 1.00
+ Name: THIO_RHOSH  Len:    541  Check: 4270  Weight: 1.00
+ Name: THIO_PASMU  Len:    541  Check: 8292  Weight: 1.00
+ Name: THIO_HAEIN  Len:    541  Check: 1080  Weight: 1.00
+ Name: THIO_PSEAE  Len:    541  Check: 4191  Weight: 1.00
+ Name: THIO_STRCL  Len:    541  Check: 2359  Weight: 1.00
+ Name: THI2_CHLTE  Len:    541  Check:  779  Weight: 1.00
+ Name: THIO_ALIAC  Len:    541  Check: 3115  Weight: 1.00
+ Name: THIO_SCHPO  Len:    541  Check: 1147  Weight: 1.00
+ Name: THIO_CHLMU  Len:    541  Check: 2249  Weight: 1.00
+ Name: THIO_CHICK  Len:    541  Check: 7634  Weight: 1.00
+ Name: THIO_OPHHA  Len:    541  Check: 9220  Weight: 1.00
+ Name: THIT_DROME  Len:    541  Check: 8987  Weight: 1.00
+ Name: THI2_CORNE  Len:    541  Check: 9729  Weight: 1.00
+ Name: THIO_MYCGA  Len:    541  Check: 5936  Weight: 1.00
+ Name: THIO_MYCGE  Len:    541  Check: 2245  Weight: 1.00
+ Name: THIO_MYCPN  Len:    541  Check: 3189  Weight: 1.00
+ Name: TRX2_YEAST  Len:    541  Check:  675  Weight: 1.00
+ Name: THIO_COPCM  Len:    541  Check: 7811  Weight: 1.00
+ Name: THIO_CHLPN  Len:    541  Check:  912  Weight: 1.00
+ Name: THIO_CHLCV  Len:    541  Check: 3929  Weight: 1.00
+ Name: THIO_ICTPU  Len:    541  Check: 1554  Weight: 1.00
+ Name: TXL2_HUMAN  Len:    541  Check: 9921  Weight: 1.00
+ Name: THIM_CHLRE  Len:    541  Check: 2003  Weight: 1.00
+ Name: THIO_GRIPA  Len:    541  Check: 3306  Weight: 1.00
+ Name: THIM_PEA    Len:    541  Check: 7833  Weight: 1.00
+ Name: THIM_SPIOL  Len:    541  Check: 8336  Weight: 1.00
+ Name: THIM_ORYSA  Len:    541  Check:  584  Weight: 1.00
+ Name: THIM_MAIZE  Len:    541  Check: 1120  Weight: 1.00
+ Name: THIO_BUCAI  Len:    541  Check: 6286  Weight: 1.00
+ Name: THIO_RHORU  Len:    541  Check: 9518  Weight: 1.00
+ Name: THM4_ARATH  Len:    541  Check: 2007  Weight: 1.00
+ Name: THIM_BRANA  Len:    541  Check: 5297  Weight: 1.00
+ Name: THM2_ARATH  Len:    541  Check: 2374  Weight: 1.00
+ Name: THIO_ECHGR  Len:    541  Check: 6589  Weight: 1.00
+ Name: TRX1_YEAST  Len:    541  Check: 5558  Weight: 1.00
+ Name: THIO_EMENI  Len:    541  Check: 5819  Weight: 1.00
+ Name: THH1_ARATH  Len:    541  Check: 6600  Weight: 1.00
+ Name: THH2_TOBAC  Len:    541  Check: 8849  Weight: 1.00
+ Name: THH1_TOBAC  Len:    541  Check: 6220  Weight: 1.00
+ Name: THH5_ARATH  Len:    541  Check: 6478  Weight: 1.00
+ Name: THIH_FAGES  Len:    541  Check: 9422  Weight: 1.00
+ Name: THIH_ORYSA  Len:    541  Check: 8881  Weight: 1.00
+ Name: THIH_WHEAT  Len:    541  Check: 3498  Weight: 1.00
+ Name: THH2_ARATH  Len:    541  Check: 4766  Weight: 1.00
+ Name: THI3_DICDI  Len:    541  Check: 1563  Weight: 1.00
+ Name: THI2_SYNY3  Len:    541  Check: 6382  Weight: 1.00
+ Name: THIM_WHEAT  Len:    541  Check: 8654  Weight: 1.00
+ Name: THI1_CORNE  Len:    541  Check: 1012  Weight: 1.00
+ Name: THIO_THIFE  Len:    541  Check: 3066  Weight: 1.00
+ Name: THIO_MYCTU  Len:    541  Check: 1362  Weight: 1.00
+ Name: THIO_MYCSM  Len:    541  Check: 9282  Weight: 1.00
+ Name: THIO_CHLLT  Len:    541  Check: 8578  Weight: 1.00
+ Name: THI1_SYNY3  Len:    541  Check: 8252  Weight: 1.00
+ Name: THI1_CHLTE  Len:    541  Check: 2895  Weight: 1.00
+ Name: THI2_ECOLI  Len:    541  Check: 3485  Weight: 1.00
+ Name: THIO_PENCH  Len:    541  Check: 5819  Weight: 1.00
+ Name: TRX3_YEAST  Len:    541  Check: 7770  Weight: 1.00
+ Name: THIO_TREPA  Len:    541  Check: 5780  Weight: 1.00
+ Name: THIO_GEOCY  Len:    541  Check: 6704  Weight: 1.00
+ Name: THH3_ARATH  Len:    541  Check: 6436  Weight: 1.00
+ Name: THIH_CHLRE  Len:    541  Check: 7206  Weight: 1.00
+ Name: THIF_SPIOL  Len:    541  Check: 4684  Weight: 1.00
+ Name: THI2_BOVIN  Len:    541  Check: 1301  Weight: 1.00
+ Name: THIO_NEUCR  Len:    541  Check: 5113  Weight: 1.00
+ Name: THI2_DROME  Len:    541  Check: 8929  Weight: 1.00
+ Name: THI1_CAEEL  Len:    541  Check: 7584  Weight: 1.00
+ Name: THI1_DICDI  Len:    541  Check: 5932  Weight: 1.00
+ Name: YE04_YEAST  Len:    541  Check: 1452  Weight: 1.00
+ Name: YD98_YEAST  Len:    541  Check: 6325  Weight: 1.00
+ Name: THIF_MESCR  Len:    541  Check: 2485  Weight: 1.00
+ Name: THF1_ARATH  Len:    541  Check: 2799  Weight: 1.00
+ Name: THIF_PEA    Len:    541  Check: 5607  Weight: 1.00
+ Name: TXNL_HUMAN  Len:    541  Check: 5076  Weight: 1.00
+ Name: THH1_BRANA  Len:    541  Check: 9609  Weight: 1.00
+ Name: THIH_PICMA  Len:    541  Check: 1128  Weight: 1.00
+ Name: THH2_BRANA  Len:    541  Check: 8677  Weight: 1.00
+ Name: THI1_DROME  Len:    541  Check: 2884  Weight: 1.00
+ Name: 2trc_P      Len:    541  Check: 8936  Weight: 1.00
+ Name: 1j0f_A      Len:    541  Check: 8386  Weight: 1.00
+ Name: 1fov_A      Len:    541  Check: 9929  Weight: 1.00
+ Name: 1a8l_       Len:    541  Check:  343  Weight: 1.00
+
+//
+
+1erv_          ------------------------------------------------------------
+1r26_A         ------------------------------------------------------------
+THIO_STAAM     ------------------------------------------------------------
+THIO_BACSU     ------------------------------------------------------------
+THIO_LISMO     ------------------------------------------------------------
+THI1_ANASP     ------------------------------------------------------------
+THIO_CYACA     ------------------------------------------------------------
+THIO_PORPU     ------------------------------------------------------------
+THIO_RICCN     ------------------------------------------------------------
+THIO_STRAU     ------------------------------------------------------------
+THIO_RHOSH     ------------------------------------------------------------
+THIO_PASMU     ------------------------------------------------------------
+THIO_HAEIN     ------------------------------------------------------------
+THIO_PSEAE     ------------------------------------------------------------
+THIO_STRCL     ------------------------------------------------------------
+THI2_CHLTE     ------------------------------------------------------------
+THIO_ALIAC     ------------------------------------------------------------
+THIO_SCHPO     ------------------------------------------------------------
+THIO_CHLMU     ------------------------------------------------------------
+THIO_CHICK     ------------------------------------------------------------
+THIO_OPHHA     ------------------------------------------------------------
+THIT_DROME     ------------------------------------------------------------
+THI2_CORNE     ------------------------------------------------------------
+THIO_MYCGA     ------------------------------------------------------------
+THIO_MYCGE     ------------------------------------------------------------
+THIO_MYCPN     ------------------------------------------------------------
+TRX2_YEAST     ------------------------------------------------------------
+THIO_COPCM     ------------------------------------------------------------
+THIO_CHLPN     ------------------------------------------------------------
+THIO_CHLCV     ------------------------------------------------------------
+THIO_ICTPU     ------------------------------------------------------------
+TXL2_HUMAN     MAAGAAEAAVAAVEEVGSAGQFEELLRLKAKSLLVVHFWAPWAPQCAQMNEVMAELAKEL
+THIM_CHLRE     ------------------------------------------------------------
+THIO_GRIPA     ------------------------------------------------------------
+THIM_PEA       ------------------------------------------------------------
+THIM_SPIOL     ------------------------------------------------------------
+THIM_ORYSA     ------------------------------------------------------------
+THIM_MAIZE     ------------------------------------------------------------
+THIO_BUCAI     ------------------------------------------------------------
+THIO_RHORU     ------------------------------------------------------------
+THM4_ARATH     ------------------------------------------------------------
+THIM_BRANA     ------------------------------------------------------------
+THM2_ARATH     ------------------------------------------------------------
+THIO_ECHGR     ------------------------------------------------------------
+TRX1_YEAST     ------------------------------------------------------------
+THIO_EMENI     ------------------------------------------------------------
+THH1_ARATH     ------------------------------------------------------------
+THH2_TOBAC     ------------------------------------------------------------
+THH1_TOBAC     ------------------------------------------------------------
+THH5_ARATH     ------------------------------------------------------------
+THIH_FAGES     ------------------------------------------------------------
+THIH_ORYSA     ------------------------------------------------------------
+THIH_WHEAT     ------------------------------------------------------------
+THH2_ARATH     ------------------------------------------------------------
+THI3_DICDI     ------------------------------------------------------------
+THI2_SYNY3     ------------------------------------------------------------
+THIM_WHEAT     ------------------------------------------------------------
+THI1_CORNE     ------------------------------------------------------------
+THIO_THIFE     ------------------------------------------------------------
+THIO_MYCTU     ------------------------------------------------------------
+THIO_MYCSM     ------------------------------------------------------------
+THIO_CHLLT     ------------------------------------------------------------
+THI1_SYNY3     ------------------------------------------------------------
+THI1_CHLTE     ------------------------------------------------------------
+THI2_ECOLI     ------------------------------------------------------------
+THIO_PENCH     ------------------------------------------------------------
+TRX3_YEAST     ------------------------------------------------------------
+THIO_TREPA     ------------------------------------------------------------
+THIO_GEOCY     ------------------------------------------------------------
+THH3_ARATH     ------------------------------------------------------------
+THIH_CHLRE     ------------------------------------------------------------
+THIF_SPIOL     ------------------------------------------------------------
+THI2_BOVIN     ------------------------------------------------------------
+THIO_NEUCR     ------------------------------------------------------------
+THI2_DROME     ------------------------------------------------------------
+THI1_CAEEL     ------------------------------------------------------------
+THI1_DICDI     ------------------------------------------------------------
+YE04_YEAST     ------------------------------------------------------------
+YD98_YEAST     ------------------------------------------------------------
+THIF_MESCR     ------------------------------------------------------------
+THF1_ARATH     ------------------------------------------------------------
+THIF_PEA       ------------------------------------------------------------
+TXNL_HUMAN     ------------------------------------------------------------
+THH1_BRANA     ------------------------------------------------------------
+THIH_PICMA     ------------------------------------------------------------
+THH2_BRANA     ------------------------------------------------------------
+THI1_DROME     ------------------------------------------------------------
+2trc_P         ------------------------------------------------------------
+1j0f_A         ------------------------------------------------------------
+1fov_A         ------------------------------------------------------------
+1a8l_          ------------------------------------------------------------
+
+
+1erv_          ------------------------------------------------------------
+1r26_A         ------------------------------------------------------------
+THIO_STAAM     ------------------------------------------------------------
+THIO_BACSU     ------------------------------------------------------------
+THIO_LISMO     ------------------------------------------------------------
+THI1_ANASP     ------------------------------------------------------------
+THIO_CYACA     ------------------------------------------------------------
+THIO_PORPU     ------------------------------------------------------------
+THIO_RICCN     ------------------------------------------------------------
+THIO_STRAU     ------------------------------------------------------------
+THIO_RHOSH     ------------------------------------------------------------
+THIO_PASMU     ------------------------------------------------------------
+THIO_HAEIN     ------------------------------------------------------------
+THIO_PSEAE     ------------------------------------------------------------
+THIO_STRCL     ------------------------------------------------------------
+THI2_CHLTE     ------------------------------------------------------------
+THIO_ALIAC     ------------------------------------------------------------
+THIO_SCHPO     ------------------------------------------------------------
+THIO_CHLMU     ------------------------------------------------------------
+THIO_CHICK     ------------------------------------------------------------
+THIO_OPHHA     ------------------------------------------------------------
+THIT_DROME     ------------------------------------------------------------
+THI2_CORNE     ------------------------------------------------------------
+THIO_MYCGA     ------------------------------------------------------------
+THIO_MYCGE     ------------------------------------------------------------
+THIO_MYCPN     ------------------------------------------------------------
+TRX2_YEAST     ------------------------------------------------------------
+THIO_COPCM     ------------------------------------------------------------
+THIO_CHLPN     ------------------------------------------------------------
+THIO_CHLCV     ------------------------------------------------------------
+THIO_ICTPU     ------------------------------------------------------------
+TXL2_HUMAN     PQVSFVKLEAEGVPEVSEKYEISSVPTFLFFKNSQKIDRLDGAHAPELTKKVQRHASSGS
+THIM_CHLRE     ------------------------------------------------------------
+THIO_GRIPA     ------------------------------------------------------------
+THIM_PEA       ------------------------------------------------------------
+THIM_SPIOL     ------------------------------------------------------------
+THIM_ORYSA     ------------------------------------------------------------
+THIM_MAIZE     ------------------------------------------------------------
+THIO_BUCAI     ------------------------------------------------------------
+THIO_RHORU     ------------------------------------------------------------
+THM4_ARATH     ------------------------------------------------------------
+THIM_BRANA     ------------------------------------------------------------
+THM2_ARATH     ------------------------------------------------------------
+THIO_ECHGR     ------------------------------------------------------------
+TRX1_YEAST     ------------------------------------------------------------
+THIO_EMENI     ------------------------------------------------------------
+THH1_ARATH     ------------------------------------------------------------
+THH2_TOBAC     ------------------------------------------------------------
+THH1_TOBAC     ------------------------------------------------------------
+THH5_ARATH     ------------------------------------------------------------
+THIH_FAGES     ------------------------------------------------------------
+THIH_ORYSA     ------------------------------------------------------------
+THIH_WHEAT     ------------------------------------------------------------
+THH2_ARATH     ------------------------------------------------------------
+THI3_DICDI     ------------------------------------------------------------
+THI2_SYNY3     ------------------------------------------------------------
+THIM_WHEAT     ------------------------------------------------------------
+THI1_CORNE     ------------------------------------------------------------
+THIO_THIFE     ------------------------------------------------------------
+THIO_MYCTU     ------------------------------------------------------------
+THIO_MYCSM     ------------------------------------------------------------
+THIO_CHLLT     ------------------------------------------------------------
+THI1_SYNY3     ------------------------------------------------------------
+THI1_CHLTE     ------------------------------------------------------------
+THI2_ECOLI     ------------------------------------------------------------
+THIO_PENCH     ------------------------------------------------------------
+TRX3_YEAST     ------------------------------------------------------------
+THIO_TREPA     ------------------------------------------------------------
+THIO_GEOCY     ------------------------------------------------------------
+THH3_ARATH     ------------------------------------------------------------
+THIH_CHLRE     ------------------------------------------------------------
+THIF_SPIOL     ------------------------------------------------------------
+THI2_BOVIN     ------------------------------------------------------------
+THIO_NEUCR     ------------------------------------------------------------
+THI2_DROME     ------------------------------------------------------------
+THI1_CAEEL     ------------------------------------------------------------
+THI1_DICDI     ------------------------------------------------------------
+YE04_YEAST     ------------------------------------------------------------
+YD98_YEAST     ------------------------------------------------------------
+THIF_MESCR     ------------------------------------------------------------
+THF1_ARATH     ------------------------------------------------------------
+THIF_PEA       ------------------------------------------------------------
+TXNL_HUMAN     ------------------------------------------------------------
+THH1_BRANA     ------------------------------------------------------------
+THIH_PICMA     ------------------------------------------------------------
+THH2_BRANA     ------------------------------------------------------------
+THI1_DROME     ------------------------------------------------------------
+2trc_P         ------------------------------------------------------------
+1j0f_A         ------------------------------------------------------------
+1fov_A         ------------------------------------------------------------
+1a8l_          ---------------------------------------------MGLISDADKKVIKEE
+
+
+1erv_          ------------------------------------------------------------
+1r26_A         ------------------------------------------------------------
+THIO_STAAM     ------------------------------------------------------------
+THIO_BACSU     ------------------------------------------------------------
+THIO_LISMO     ------------------------------------------------------------
+THI1_ANASP     ------------------------------------------------------------
+THIO_CYACA     ------------------------------------------------------------
+THIO_PORPU     ------------------------------------------------------------
+THIO_RICCN     ------------------------------------------------------------
+THIO_STRAU     ------------------------------------------------------------
+THIO_RHOSH     ------------------------------------------------------------
+THIO_PASMU     ------------------------------------------------------------
+THIO_HAEIN     ------------------------------------------------------------
+THIO_PSEAE     ------------------------------------------------------------
+THIO_STRCL     ------------------------------------------------------------
+THI2_CHLTE     ------------------------------------------------------------
+THIO_ALIAC     ------------------------------------------------------------
+THIO_SCHPO     ------------------------------------------------------------
+THIO_CHLMU     ------------------------------------------------------------
+THIO_CHICK     ------------------------------------------------------------
+THIO_OPHHA     ------------------------------------------------------------
+THIT_DROME     ------------------------------------------------------------
+THI2_CORNE     ------------------------------------------------------------
+THIO_MYCGA     ------------------------------------------------------------
+THIO_MYCGE     ------------------------------------------------------------
+THIO_MYCPN     ------------------------------------------------------------
+TRX2_YEAST     ------------------------------------------------------------
+THIO_COPCM     ------------------------------------------------------------
+THIO_CHLPN     ------------------------------------------------------------
+THIO_CHLCV     ------------------------------------------------------------
+THIO_ICTPU     ------------------------------------------------------------
+TXL2_HUMAN     FLPSANEHLKEDLNLRLKKLTHAAPCMLFMKGTPQEPRCGFSKQMVEILHKHNIQFSSFD
+THIM_CHLRE     ------------------------------------------------------------
+THIO_GRIPA     ------------------------------------------------------------
+THIM_PEA       ---------------------------------------MALESLFKSIHTKTSLSSSIV
+THIM_SPIOL     --------------------------------MAIENCLQLSTSASVGTVAVKSHVHHLQ
+THIM_ORYSA     --------------------------------MALETCFRAWATLHAPQPPSSGGSRDRL
+THIM_MAIZE     --------------------------------MAMETCFRAWA-LHAP-----AGSKDR-
+THIO_BUCAI     ------------------------------------------------------------
+THIO_RHORU     ------------------------------------------------------------
+THM4_ARATH     --------------------MASLLDSVTVTRVFSLPIAASVSSSSAAPSVSRRRISPAR
+THIM_BRANA     --------------------MAAF----TCT-SSPPISLRSEMMIASS--KTVSLSTRQM
+THM2_ARATH     --------------------MAAF----TCT-SRPPISLRSETRIVSSSPSASSLSSRRM
+THIO_ECHGR     ------------------------------------------------------------
+TRX1_YEAST     ------------------------------------------------------------
+THIO_EMENI     ------------------------------------------------------------
+THH1_ARATH     ------------------------------------------------------------
+THH2_TOBAC     ------------------------------------------------------------
+THH1_TOBAC     ------------------------------------------------------------
+THH5_ARATH     ------------------------------------------------------------
+THIH_FAGES     ------------------------------------------------------------
+THIH_ORYSA     ------------------------------------------------------------
+THIH_WHEAT     ------------------------------------------------------------
+THH2_ARATH     ------------------------------------------------------------
+THI3_DICDI     ------------------------------------------------------------
+THI2_SYNY3     ------------------------------------------------------------
+THIM_WHEAT     --------------------------------MALETCLRGWA-LYAPQ----AGIRER-
+THI1_CORNE     ------------------------------------------------------------
+THIO_THIFE     ------------------------------------------------------------
+THIO_MYCTU     ------------------------------------------------------------
+THIO_MYCSM     ------------------------------------------------------------
+THIO_CHLLT     ------------------------------------------------------------
+THI1_SYNY3     ------------------------------------------------------------
+THI1_CHLTE     ------------------------------------------------------------
+THI2_ECOLI     ------------------------------------------------------------
+THIO_PENCH     ------------------------------------------------------------
+TRX3_YEAST     ------------------------------------------------------------
+THIO_TREPA     ------------------------------------------------------------
+THIO_GEOCY     ------------------------------------------------------------
+THH3_ARATH     ------------------------------------------------------------
+THIH_CHLRE     ------------------------------------------------------------
+THIF_SPIOL     --------------MAL-HLSLSHQSW-TSPAHPITSSDPTRSSVPGTGLSRRVDFLGSC
+THI2_BOVIN     -------------------------------------------MAQRLLLRRFLTSIISG
+THIO_NEUCR     ------------------------------------------------------------
+THI2_DROME     ------------------------------------------------------------
+THI1_CAEEL     ------------------------------------------------------------
+THI1_DICDI     ------------------------------------------------------------
+YE04_YEAST     ------------------------------------------------------------
+YD98_YEAST     ------------------------------------------------------------
+THIF_MESCR     --------------MAM-QLSLSHQSWAKSLASPITSFDPARS--P----PKRVELGPNC
+THF1_ARATH     --------------MPL-SLRLSPSP------TALSPTTGGFG--P----SRKQCRIPY-
+THIF_PEA       --------------MAL-NLCTSPKWIGTTVFDSASSSKPSLA--S----SFSTTSFSS-
+TXNL_HUMAN     ------------------------------------------------------------
+THH1_BRANA     ------------------------------------------------------------
+THIH_PICMA     ------------------------------------------------------------
+THH2_BRANA     ------------------------------------------------------------
+THI1_DROME     ------------------------------------------------------------
+2trc_P         --EGQATHTGP---KGVINDWRKFKLESEDGDSIPPSKKEILRQMSSPQSRDDKDSKERX
+1j0f_A         ------------------------------------------------------------
+1fov_A         ------------------------------------------------------------
+1a8l_          FFSKMVNPVK----LIV-FVRKDHCQYCDQLKQLVQELSELTDKLSYEIVDFDTPEGKEL
+
+
+1erv_          ----------------------------------------MVKQIES--------KTAFQ
+1r26_A         ---------------------------------------PSVVDVYS--------VEQFR
+THIO_STAAM     ---------------------------------------------MA-------IVKVTD
+THIO_BACSU     ----------------------------------------------A-------IVKATD
+THIO_LISMO     ----------------------------------------------M-------VKEITD
+THI1_ANASP     ---------------------------------------------SA-------AAQVTD
+THIO_CYACA     --------------------------------------------MPS-------PIQVTD
+THIO_PORPU     ---------------------------------------------MS-------VSQVTD
+THIO_RICCN     ----------------------------------------------M-------ANNVMD
+THIO_STRAU     ---------------------------------------------GA-------TVKVTN
+THIO_RHOSH     ----------------------------------------------S-------TVPVTD
+THIO_PASMU     --------------------------------------------M-E-------VLHSTD
+THIO_HAEIN     --------------------------------------------MSE-------VLHIND
+THIO_PSEAE     -------------------------------------------MSEH-------IVNVTD
+THIO_STRCL     -------------------------------------------MAGV-------LKNVTD
+THI2_CHLTE     --------------------------------------------SGK-------YFEATD
+THIO_ALIAC     ----------------------------------------------A-------TMTLTD
+THIO_SCHPO     -----------------------------------------VKQVSD--------SSEFK
+THIO_CHLMU     --------------------------------------------MVQ--------I-VSQ
+THIO_CHICK     -----------------------------------------VKSVGN--------LADFE
+THIO_OPHHA     -----------------------------------------VKIVGD--------LTEFR
+THIT_DROME     ----------------------------------------MVYPVRN--------KDDLD
+THI2_CORNE     --------------------------------------------SAT-------IVNTTD
+THIO_MYCGA     --------------------------------------------M-K--------HITNK
+THIO_MYCGE     --------------------------------------------MVT--------EIRSL
+THIO_MYCPN     --------------------------------------------MVT--------EIKSL
+TRX2_YEAST     -----------------------------------------VTQFKT--------ASEFD
+THIO_COPCM     ----------------------------------------MVQVISN--------LDEFN
+THIO_CHLPN     --------------------------------------------MVK--------I-ISS
+THIO_CHLCV     --------------------------------------------MVK--------V-VSA
+THIO_ICTPU     ----------------------------------------MVVHIEN--------LNAFS
+TXL2_HUMAN     IFSDEEVRQGLKAYSSWPTYPQLYVSGELIGGLDIIKELEASEELDTICP-KAPKLEERL
+THIM_CHLRE     ------------MALVARRAAVPSARSSARPAFARAAPRRSVVVRAE-------AGAVND
+THIO_GRIPA     ---------------------------------------------MS-------ISQVID
+THIM_PEA       FIFKGKACLLTSKSRIQESFAELNSFTSLVLLIENHVLLHAREAVNE-------VQVVND
+THIM_SPIOL     PSSKVNVPTFRGLKRSFPALSSSVSSSSPRQFRYSSVVCKASEAVKE-------VQDVND
+THIM_ORYSA     LLSGAGSSQSKPRLSVASPSP---------LRPASRFACQCSNVVDE-------VVVADE
+THIM_MAIZE     LLVGNLVLPSKRALAPLSVGR-------VATRRP-RHVCQSKNAVDE-------VVVADE
+THIO_BUCAI     --------------------------------------------MNK-------IIELTD
+THIO_RHORU     ------------------------------------------------------MKQVSD
+THM4_ARATH     FLEFRGLKSSRSLVTQSASLGANRRTRIARGGRIACEAQDTTAAAVE-------VPNLSD
+THIM_BRANA     FSV----GGLRTRVSLSSVSKNS----RASRLRRGGIICEAQDTATG-------IPMVND
+THM2_ARATH     FAVLPESSGLRIRLSLSPASLTSIHQPRVSRLRRA-VVCEAQETTTD-------IQVVND
+THIO_ECHGR     -----------------------------------------MSVEAV--------VKQVD
+TRX1_YEAST     -----------------------------------------VTQLKS--------ASEYD
+THIO_EMENI     ------------------------------------GASEHVPPITS--------KAEFQ
+THH1_ARATH     -----------------------MA------SE-----EGQVIACHT--------VETWN
+THH2_TOBAC     -----------------------MA-------E-----EGQVIGVHT--------VDAWN
+THH1_TOBAC     -----------------------MAANDATSSE-----EGQVFGCHK--------VEEWN
+THH5_ARATH     -----------------------MA------GE------GEVIACHT--------LEVWN
+THIH_FAGES     -----------------------MA-------E-----EAQVIACHT--------VQEWN
+THIH_ORYSA     -----------------------MA------AE-----EGVVIACHN--------KDEFD
+THIH_WHEAT     -----------------------AASAATATATAAAVGAGEVISVHS--------LEQWT
+THH2_ARATH     ------MGGALSTVFGSGEDATAAG------TE---SEPSRVLKFSS--------SARWQ
+THI3_DICDI     -------------------------------------MS-KVIHVTS--------NEELD
+THI2_SYNY3     ---------------------------------------------MS-------LLEITD
+THIM_WHEAT     LSSGSYAPSRPRTAAPAVVSPSPYKSALVAARRPSRFVCKCKNVVDE-------VIVADE
+THI1_CORNE     ----------------------------------------------A-------TVKVDN
+THIO_THIFE     -------------------------------------------MSDA-------ILYVSD
+THIO_MYCTU     ----------------------------------------TDSEKSA-------TIKVTD
+THIO_MYCSM     -----------------------------------------MSEDSA-------TVAVTD
+THIO_CHLLT     --------------------------------------------AGK-------YFEATD
+THI1_SYNY3     --------------------------------------------MAV--------KKQFA
+THI1_CHLTE     ----------------------------------------------------------MA
+THI2_ECOLI     -----------MNTVCTHCQAINRIPDDRIEDAAKCGRCGHDLFDGE-------VINATG
+THIO_PENCH     ---------------------------------------MGVTPIKS--------VAEYK
+TRX3_YEAST     ------MLFYKPVMRMAVRPLKSIR------FQ---SSYTSITKLTN--------LTEFR
+THIO_TREPA     --------------------------------------------MAL--------LDISS
+THIO_GEOCY     ----------------------------------------MVNFLKT--------KADFD
+THH3_ARATH     -----------------------MA------AE------GEVIACHT--------VEDWT
+THIH_CHLRE     ------------------------------------G--GSVIVIDS--------KAAWD
+THIF_SPIOL     KINGVF---VVKRK--DRRRMRGGE--VRASMEQALGTQEMEAIVGK-------VTEVNK
+THI2_BOVIN     KPSQSRW-APVASRALKTPQYSPGYLTVTPSQARSIYTTRVCSTTFN--------IQDGP
+THIO_NEUCR     -------------------------------------MSDGVKHINS--------AQEFA
+THI2_DROME     ----------------------------------------MMILLRDSTNLHFHLQADLD
+THI1_CAEEL     -----------------------ML------KR-----CNFKNQVKY-------FQSDFE
+THI1_DICDI     -------------------------------------MSNRVIHVSS--------CEELD
+YE04_YEAST     ------------------------------------------MTVVE-------IKSQDQ
+YD98_YEAST     -------MCSFQVPSAFSFNYTSYCYKRHQARYYTAAKLFQEMPVIE-------INDQEQ
+THIF_MESCR     LNGGATAGKLMREKVGERMRMSGRSCCVKASLETAVGA-ESETLVGK-------VTEVDK
+THF1_ARATH     --SGVPTTKIGFCSLDSRKRGDSSV--VRCSLETV----N--VSVGQ-------VTEVDK
+THIF_PEA       --SILCSKRVGLQRL-SLRRSISVS--VRSSLETA----GPTVTVGK-------VTEVNK
+TXNL_HUMAN     -------------------------------------------MVGV-------KPVGSD
+THH1_BRANA     -----------------------MA------ATAEVIPAGEVIACHT--------VEDWN
+THIH_PICMA     -----------------------MA-------E------GNVFACHS--------TEGWR
+THH2_BRANA     -----------------------MA------AE-----EGQVIGCHE--------IDVWA
+THI1_DROME     -----------------------------------------MASVRT--------MNDYH
+2trc_P         SRKXSIQEYELIHQDKEDEGCLRKYRRQCXQDXHQKLSFGPRYGFVY-------ELETGE
+1j0f_A         -------------------------------------------------------GSEGA
+1fov_A         ------------------------------------------------------------
+1a8l_          AKRYRIDRAPATTITQDGKDFGVRYFGLPAGHEFAAFLEDIVDVSRE-------ETNLMD
+
+
+1erv_          EA-LDAAGD---KLVVVDFSATWCGPCKMIKPFFHSLS--EKY-SN--VIFLEVDVD--D
+1r26_A         NI-MSE-----DILTVAWFTAVWCGPCKTIERPMEKIA--YEF--PT-VKFAKVDAD--N
+THIO_STAAM     ADFDSKV--E-SGVQLVDFWATWCGPCKMIAPVLEELA--ADY-EGK-ADILKLDVD--E
+THIO_BACSU     QSFSAET--S-EGVVLADFWAPWCGPCKMIAPVLEELD--QEM-GDK-LKIVKIDVD--E
+THIO_LISMO     ATFEQET--S-EGLVLTDFWATWCGPCRMVAPVLEEIQ--EER-GEA-LKIVKMDVD--E
+THI1_ANASP     STFKQEVLDS-DVPVLVDFWAPWCGPCRMVAPVVDEIA--QQY-EGK-IKVVKVNTD--E
+THIO_CYACA     FSFEKEVVNS-EKLVLVDFWAPWCGPCRMISPVIDELA--QEY-VEQ-VKIVKINTD--E
+THIO_PORPU     ASFKQEVINN-DLPVLVDFWAPWCGPCRMVSPVVDAIA--EEY-ESS-IKVVKINTD--D
+THIO_RICCN     SSFKKEVLES-DLPVLVDFWAEWCGPCKMLTPIIDEIS--KEL-QGK-VKVLKMNID--E
+THIO_STRAU     ATFKSDVLES-DKPVLVHFEGPWCGPCKMVAPVLDEIA--NEY-EGK-VKVAKVNTD--E
+THIO_RHOSH     ATFDTEVRKS-DVPVVVDFWAEWCGPCRQIGPALEELS--KEY-AGK-VKIVKVNVD--E
+THIO_PASMU     ATFTADVVNS-DVPVLLDFWAPWCGPCRMISPILDEIA--AEF-SGK-VKVVKINID--E
+THIO_HAEIN     ADFESVVVNS-DIPILLDFWAPWCGPCKMIAPVLDELA--PEF-AGK-VKIVKMNVD--D
+THIO_PSEAE     ASFEQDVLKA-DGPVLVDYWAEWCGPCKMIAPVLDEVA--RDY-QGK-LKVCKLNID--E
+THIO_STRCL     DTFEADVLKS-EKPVLVDFWAEWCGPCRQIAPSLEAI---TEH-GGQ-IEIVKLNID--Q
+THI2_CHLTE     QNFQAEILNS-DKVALVDFWAAWCGPCMMLGPVIEELA--GDY-EGK-AIIAKLNVD--E
+THIO_ALIAC     ANFQQAIQG--DKPVLVDFWAAWCGPCRMMAPVLEEFA--EAH-ADK-VTVAKLNVD--E
+THIO_SCHPO     SI-VCQDK-----LVVVDFFATWCGPCKAIAPKFEQFS--NTY--SD-ATFIKVDVD--Q
+THIO_CHLMU     DN-FADSIAS-G-LVLVDFFAEWCGPCKMLTPVLEALA--AEL--PY-VTILKLDID--A
+THIO_CHICK     AE-LKAAGE---KLVVVDFSATWCGPCKMIKPFFHSLC--DKF-GD--VVFIEIDVD--D
+THIO_OPHHA     AE-LSNAGS---KLIVVDFSATWCGPCKMIKPFFHSMV--EKY-PD--VVFIEIDVD--D
+THIT_DROME     QQ-LILAED---KLVVIDFYADWCGPCKIIAPKLDELA--HEY-SDR-VVVLKVNVD--E
+THI2_CORNE     ENFQADVLDA-ETPVLVDFWAGWCAPCKAIAPVLEELS--NEY-AGK-VKIVKVDVT--S
+THIO_MYCGA     AE-LDQLLST-NKKVVVDFYANWCGPCKILGPIFEEVA--QDK--KD-WTFVKVDVD--Q
+THIO_MYCGE     KQ-LEEIFSA-KKNVIVDFWAAWCGPCKLTSPEFQKAA--DEF--SD-AQFVKVNVD--D
+THIO_MYCPN     KQ-LGELFAS-NNKVIIDFWAEWCGPCKITGPEFAKAA--SEV--ST-VAFAKVNVD--E
+TRX2_YEAST     S----AIAQ--DKLVVVDFYATWCGPCKMIAPMIEKFS--EQY--PQ-ADFYKLDVD--E
+THIO_COPCM     KL-TNSGK-----IIIIDFWATWCGPCRVISPIFEKFS--EKYGANN-IVFAKVDVD--T
+THIO_CHLPN     EN-FDSFIAS-G-LVLVDFFAEWCGPCRMLTPILENLA--AEL--PH-VTIGKINID--E
+THIO_CHLCV     EN-FNSFIAT-G-LVLIDFFAEWCGPCKMLTPVLESLE--AEV--SS-VLIGKVNID--D
+THIO_ICTPU     AA-LKNAGD---KLVVVDFTATWCGPCQKIGPIFETLSKSEDY-QN--VVFLKVDVD--D
+TXL2_HUMAN     KV-LTNKASV-MLFMKGNKQEAKCGFSKQILEILNSTG----------VEYETFDIL--E
+THIM_CHLRE     DTFKNVVLES-SVPVLVDFWAPWCGPCRIIAPVVDEIA--GEY-KDK-LKCVKLNTD--E
+THIO_GRIPA     TSFHEEVINS-RQPVLVDFWAPWCGPCRMIASTIDEIA--HDY-KDK-LKVVKVNTD--Q
+THIM_PEA       SSWDELVIGS-ETPVLVDFWAPWCGPCRMIAPIIDELA--KEY-AGK-IKCYKLNTD--E
+THIM_SPIOL     SSWKEFVLES-EVPVMVDFWAPWCGPCKLIAPVIDELA--KEY-SGK-IAVYKLNTD--E
+THIM_ORYSA     KNWDSMVLGS-EAPVLVEFWAPWCGPCRMIAPVIDELA--KEY-VGK-IKCCKVNTD--D
+THIM_MAIZE     KNWDGLVMAC-ETPVLVEFWAPWCGPCRMIAPVIDELA--KDY-AGK-ITCCKVNTD--D
+THIO_BUCAI     QNFEEQVLNS-KSFFLVDFWAQWCNPCKILAPILEEIS--KEY-SNK-VIVGKLNIE--E
+THIO_RHORU     ASFEEDVLKA-DGPNXVDFWAEWCGPCRQXAPALEELA--TAL-GDK-VTVAKINID--E
+THM4_ARATH     SEWQTKVLES-DVPVLVEFWAPWCGPCRMIHPIVDQLA--KDF-AGK-FKFYKINTD--E
+THIM_BRANA     STWESLVLKA-DEPVVVDFWAPWCGPCKMIDPIVNELA--QQY-TGK-IKFFKLNTD--D
+THM2_ARATH     STWDSLVLKA-TGPVVVDFWAPWCGPCKMIDPLVNDLA--QHY-TGK-IKFYKLNTD--E
+THIO_ECHGR     GDALEAAIKG-DKLLVCDFFATWCGPCKSLAPKLDAMA--KEN--EK-VIFVKLDVD--E
+TRX1_YEAST     S----ALASG-DKLVVVDFFATWCGPCKMIAPMIEKFA--EQY--SD-AAFYKLDVD--E
+THIO_EMENI     EK-VLNAK----GFVVVDCFATWCGPCKAIAPTVEKFA--QTY--TD-ASFYQIDVD--E
+THH1_ARATH     EQ-LQKANES-KTLVVVDFTASWCGPCRFIAPFFADLA--KKL--PN-VLFLKVDTD--E
+THH2_TOBAC     EH-LQKGIDD-KKLIVVDFTASWCGPCKFIASFYAELA--KKM--PT-VTFLKVDVD--E
+THH1_TOBAC     EY-FKKGVET-KKLVVVDFTASWCGPCRFIAPILADIA--KKM--PH-VIFLKVDVD--E
+THH5_ARATH     EK-VKDANES-KKLIVIDFTASWCPPCRFIAPVFAEMA--KKF--TN-VVFFKIDVD--E
+THIH_FAGES     EK-FQKAKDS-GKLIVIDFTASWCGPCRVITPYVSELA--KKF--PH-VAFFKVDVD--D
+THIH_ORYSA     AQ-MTKAKEA-GKVVIIDFTASWCGPCRFIAPVFAEYA--KKF--PG-AVFLKVDVD--E
+THIH_WHEAT     MQ-IEEANAA-KKLVVIDFTASWCGPCRIMAPIFADLA--KKF--PA-AVFLKVDVD--E
+THH2_ARATH     LH-FNEIKES-NKLLVVDFSASWCGPCRMIEPAIHAMA--DKF--ND-VDFVKLDVD--E
+THI3_DICDI     KY-LQH------QRVVVDFSAEWCGPCRAIAPVFDKLS--NEF-TT--FTFVHVDID--K
+THI2_SYNY3     AEFEQETQGQ-TKPVLVYFWASWCGPCRLMAPAIQAIA--KDY-GDK-LKVLKLEVD--P
+THIM_WHEAT     KNWDNMVIAC-ESPVLVEFWAPWCGPCRMIAPVIDELA--KDY-VGK-IKCCKVNTD--D
+THI1_CORNE     SNFQSDVLQS-SEPVVVDFWAEWCGPCKMIAPALDEIA--TEM-AGQ-VKIAKVNID--E
+THIO_THIFE     DSFETDVLKS-SKPVLVDFWAEWCGPCKMIAPILEEIA--DEY-ADR-LRVAKFNID--E
+THIO_MYCTU     ASFATDVLSS-NKPVLVDFWATWCGPCKMVAPVLEEIA--TER-ATD-LTVAKLDVD--T
+THIO_MYCSM     DSFSTDVLGS-SKPVLVDFWATWCGPCKMVAPVLEEIA--AEK-GDQ-LTVAKIDVDVDA
+THIO_CHLLT     KNFQTEXXDS-DKAVLVDFWASWCGPCMMXGPVXEQXA--DDY-EGK-AXXAKXNVD--E
+THI1_SYNY3     NF-AEMLAGS-PKPVLVDFYATWCGPCQMMAPILEQVG--SHL-RQQ-IQVVKIDTD--K
+THI1_CHLTE     QTLDDLIRTS-ELPVFIDFWADWCGPCKMVAPSVKQLA--SEF-KGR-LIVVKVNVD--Q
+THI2_ECOLI     ETLDK-LLKD-DLPVVIDFWAPWCGPCRNFAPIFEDVA--QER-SGK-VRFVKVNTE--A
+THIO_PENCH     EK-VTDAT----GPVVVDFHATWCGPCKAIAPALEKLS--ETH--TG-IQFYKVDVD--E
+TRX3_YEAST     N----LIKQN-DKLVI-DFYATWCGPCKMMQPHLTKLI--QAY--PD-VRFVKCDVD--E
+THIO_TREPA     GN-VRKTIET-NPLVIVDFWAPWCGSCKMLGPVLEEVE--SEV-GSG-VVIGKLNVD--D
+THIO_GEOCY     QA-LKDAGD---KLVVIDFTASWCGPCQRIAPKYVEMA--KEF-PD--VIFYKVDVD--E
+THH3_ARATH     EK-LKAANES-KKLIVIDFTATWCPPCRFIAPVFADLA--KKH--LD-VVFFKVDVD--E
+THIH_CHLRE     AQ-LAKGKEE-HKPIVVDFTATWCGPCKMIAPLFETLS--NDY-AGK-VIFLKVDVD--A
+THIF_SPIOL     DTFWPIVKAAGDKPVVLDMFTQWCGPCKAMAPKYEKLA--EEY--LD-VIFLKLDCN-QE
+THI2_BOVIN     DF-QDRVVNS-ETPVVVDFHAQWCGPCKILGPRLEKVV--AKQ-HGK-VVMAKVDID--D
+THIO_NEUCR     NL-LNT-----TQYVVADFYADWCGPCKAIAPMYAQFA--KTFSIPNFLAFAKINVD--S
+THI2_DROME     GQ-LTKASG---KLVVLDFFATWCGPCKMISPKLVELS--TQF-ADN-VVVLKVDVD--E
+THI1_CAEEL     QL-IRQHPE---KIIILDFYATWCGPCKAIAPLYKELA--TTH--KG-IIFCKVDVD--E
+THI1_DICDI     KH-LRD------ERVVVDFSAVWCGPCRAISPVFEKLS--NEF-IT--FTFLHVDID--K
+YE04_YEAST     FTQLTTTNAA-NKLIVLYFKAQWADPCKTMSQVLEAVS--EKVRQED-VRFLSIDAD--E
+YD98_YEAST     FTYLTTTAAG-DKLIVLYFHTSWAEPCKALKQVFEAIS--NEPSNSN-VSFLSIDAD--E
+THIF_MESCR     DTFWPIANGAGDKPVVLDMYTQWCGPCKVMAPKYQELA--EKL--LD-VVFLKLDCN-QE
+THF1_ARATH     DTFWPIVKAAGEKLVVLDMYTQWCGPCKVIAPKYKALS--EKY--DD-VVFLKLDCN-PD
+THIF_PEA       DTFWPIVNAAGDKTVVLDMFTKWCGPCKVIAPLYEELS--QKY--LD-VVFLKLDCN-QD
+TXNL_HUMAN     PDFQPELSGAGSRLAVVKFTMRGCGPCLRIAPAFSSMS--NKY--PQ-AVFLEVDVH--Q
+THH1_BRANA     NK-LKAAKES-NKLIVIDFTAVWCPPCRFIAPIFVELA--KKH--LD-VVFFKVDVD--E
+THIH_PICMA     SK-LQEAIDT-KRLVAVDFTATWCGPCRVIGPVFVELS--KKF--PE-IFFLKVDVD--E
+THH2_BRANA     VQ-LDTAKQS-NKLIVIDFTASWCPPCRMIAPVFADLA--KKF-MSS-AIFFKVDVD--E
+THI1_DROME     KR-IEAADD---KLIVLDFYATWCGPCKEMESTVKSLA--RKY-SSK-AVVLKIDVD--K
+2trc_P         QFLETIEKEQKVTTIVVNIYEDGVRGCDALNSSLECLA--AEY--PX-VKFCKIRA---S
+1j0f_A         AT-MSGLRVY-STSVTGSR--EIKSQQSEVTRILDGKR----------IQYQLVDIS--Q
+1fov_A         -------ANV-EIYTK-----ETCPYCHRAKALLSSKG----------VSFQELPID--G
+1a8l_          ET-KQAIRNIDQDVRILVFVTPTCPYCPLAVRMAHKFAI-ENTKAGK-GKILGDMVEAIE
+
+
+1erv_          CQDVASECEVKSMPTF----QFFKKGQKV---GEF-S--G-ANKEKLEATINELV-----
+1r26_A         NSEIVSKCRVLQLPTF----IIARSGKML---GHV-I--G-ANPGMLR---QKLRDIIKD
+THIO_STAAM     NPSTAAKYEVMSIPTL----IVFKDGQPV---DKV-V--GFQPKENLAEVLDKHL-----
+THIO_BACSU     NQETAGKYGVMSIPTL----LVLKDGEVV---ETS-V--GFKPKEALQELVNKHL-----
+THIO_LISMO     NPETPGSFGVMSIPTL----LIKKDGEVV---ETI-I--GYRPKEELDEVINKYV-----
+THI1_ANASP     NPQVASQYGIRSIPTL----MIFKGGQKV---DMV-V--GAVPKTTLSQTLEKHL-----
+THIO_CYACA     NPSISAEYGIRSIPTL----MLFKDGKRV---DTV-I--GAVPKSTLTNALKKYL-----
+THIO_PORPU     NPTIAAEYGIRSIPTL----MIFKSGERV---DTV-I--GAVPKSTLESTLNKYIS----
+THIO_RICCN     NPNTPSEYGIRSIPTI----MLFKNGEQK---DTK-I--GLQQKNSLLDWINKSI-----
+THIO_STRAU     NPQLASQYGVRSIPTR----LMFKGGEVA---ANM-V--GAAPKTRLAAFLDASL-----
+THIO_RHOSH     NPESPAMLGVRGIPAL----FLFKNGQVV---SNK-V--GAAPKAALATWIASAL-----
+THIO_PASMU     NQATPAQLGVRSIPTL----VLFKNGKAV---ATQ-V--GALPKNQLANFINQNI-----
+THIO_HAEIN     NQATPAQFGVRSIPTL----LLIKNGQVV---ATQ-V--GALPKTQLANFINQHI-----
+THIO_PSEAE     NQDTPPKYGVRGIPTL----MLFKDGNVE---ATK-V--GALSKSQLAAFLDANI-----
+THIO_STRCL     NPATAAKYGVMSIPTL----NVYQGGEVV---KTI-V--GAKPKAALLRPGPVPR-----
+THI2_CHLTE     NPNTAGQYGIRSIPTM----LIIKGGKVV---DQM-V--GALPKNMIAKKLDEHIG----
+THIO_ALIAC     NPETTSQFGIMSIPTL----ILFKGGRPV---KQL-I--GYQPKEQLEAQLADVLQ----
+THIO_SCHPO     LSEIAAEAGVHAMPSF----FLYKNGEKI---EEI-V--G-ANPAKLEASIKANL-----
+THIO_CHLMU     SPRPAEQFGVSSIPTL----ILFKDGKEV---ERS-V--GLKDKDSLVKLISKHQ-----
+THIO_CHICK     AQDVATHCDVKCMPTF----QFYKNGKKV---QEF-S--G-ANKEKLEETIKSLV-----
+THIO_OPHHA     AQDVASHCDVKCMPTF----QFYKNNEKV---HEF-S--G-ANKEKLEEAIKKYM-----
+THIT_DROME     NEDITVEYNVNSMPTF----VFIKGGNVL---ELF-V--G-CNSDKLAKLMEKHAGVYTD
+THI2_CORNE     CEDTAVKYNIRNIPAL----LMFKDGEVV---AQQ-V--GAAPRSKLAAFIDQNI-----
+THIO_MYCGA     ANEISSEYEIRSIPTV----IFFQDGKMA---DKR-I--GFIPKNELKELLK--------
+THIO_MYCGE     HTDIAAAYNITSLPTI----VVFENGVEK---KRA-I--GFMPKTKIIDLFNN-------
+THIO_MYCPN     QTDIAAAYKITSLPTI----VLFEKGQEK---HRA-I--GFMPKAKIVQLVSQ-------
+TRX2_YEAST     LGDVAQKNEVSAMPTL----LLFKNGKEV---AKV-V--G-ANPAAIKQAIAA-NA----
+THIO_COPCM     ASDISEEAKIRAMPTF----QVYKDGQKI---DEL-V--G-ANPTALESLVQKSLA----
+THIO_CHLPN     NSKPAETYEVSSIPTL----ILFKDGNEV---ARV-V--GLKDKEFLTNLINKHA-----
+THIO_CHLCV     HPAPAEQYGVSSIPTL----ILFKDGKEV---DRV-V--GLKDKDSLIRLINQHS-----
+THIO_ICTPU     AADVSSHCDIKCMPTF----HFYKNGQKI---DEF-S--G-ANEQTLKQKINDHK-----
+TXL2_HUMAN     DEEVRQGLKAYSNWP--TYPQLYVKGELVGGLDIV-K--ELKENGELLPILRGEN-----
+THIM_CHLRE     SPNVASEYGIRSIPTI----MVFKGGKKC---ETI-I--GAVPKATIVQTVEKYLN----
+THIO_GRIPA     NPTIATEYGIRSIPTV----MIFINGKKV---DTV-V--GAVPKLTLLNTLQKHLKST--
+THIM_PEA       SPNTATKYGIRSIPTV----LFFKNGERK---DSV-I--GAVPKATLSEKVEKYI-----
+THIM_SPIOL     APGIATQYNIRSIPTV----LFFKNGERK---ESI-I--GAVPKSTLTDSIEKYLSP---
+THIM_ORYSA     SPNIATNYGIRSIPTV----LMFKNGEKK---ESV-I--GAVPKTTLATIIDKYVSS---
+THIM_MAIZE     SPNVASTYGIRSIPTV----LIFKGGEKK---ESV-I--GAVPKSTLTTLIDKYIGSS--
+THIO_BUCAI     NPNTAPVYSIRSIPTL----LLFNNSEVL---ATK-V--GAVSKLELKEFLDENIN----
+THIO_RHORU     NPQTPSKYGVRGIPTL----MIFKDGQVA---ATK-I--GALPKTKLFEWVEASV-----
+THM4_ARATH     SPNTANRYGIRSVPTV----IIFKGGEKK---DSI-I--GAVPRETLEKTIERFLVE---
+THIM_BRANA     SPATPGKYGVRSIPTI----MIFVKGEKK---DTI-I--GAVPKTTLATSIDKFLQ----
+THM2_ARATH     SPNTPGQYGVRSIPTI----MIFVGGEKK---DTI-I--GAVPKTTLTSSLDKFLP----
+THIO_ECHGR     CQDVAEKYRVTAMPTL----IVFKNGCEI---GHV-V--G-ANEAGIRELIQA-NA----
+TRX1_YEAST     VSDVAQKAEVSSMPTL----IFYKGGKEV---TRV-V--G-ANPAAIKQAIAS-NV----
+THIO_EMENI     LSEVAAELGIRAMPTF----LLFKDGQKV---SDV-V--G-ANPGALEAGIKALLA----
+THH1_ARATH     LKSVASDWAIQAMPTF----MFLKEGKIL---DKV-V--G-AKKDELQSTIAKHLA----
+THH2_TOBAC     LKSVATDWAVEAMPTF----MFLKEGKIV---DKV-V--G-AKKDELQQTIAKHIS-STS
+THH1_TOBAC     LKTVSAEWSVEAMPTF----VFIKDGKEV---DRV-V--G-AKKEELQQTIVKHAAPATV
+THH5_ARATH     LQAVAQEFKVEAMPTF----VFMKEGNII---DRV-V--G-AAKDEINEKLMKHGGLVAS
+THIH_FAGES     LKDVAEEYKVEAMPSF----VILKEGQEV---ERI-V--G-ARKDELLHKIAVHA-----
+THIH_ORYSA     LKEVAEKYNVEAMPTF----LFIKDGAEA---DKV-V--G-ARKDDLQNTIVKHVGATAA
+THIH_WHEAT     LKPIAEQFSVEAMPTF----LFMKEGDVK---DRV-V--G-AIKEELTTKVGLHAAQ---
+THH2_ARATH     LPDVAKEFNVTAMPTF----VLVKRGKEI---ERI-I--G-AKKDELEKKVSKLRA----
+THI3_DICDI     VNTHPIGKEIRSVPTF----YFYVNGAKV---SEF-S--G-ANEATLRSTLEANI-----
+THI2_SYNY3     NPAAVAQCKVEGVPAL----RLFKNNELV---MTH-E--GAIAKPKLLELLKEELDFI--
+THIM_WHEAT     CPNIASTYGIRSIPTV----LMFKDGEKK---ESV-I--GAVPKTTLCTIIDKYIGS---
+THI1_CORNE     NPELAAQFGVRSIPTL----LMFKDGELA---ANM-V--GAAPKSRLADWIKASA-----
+THIO_THIFE     NPNTPPQYAIRGIPTL----LLFKAGKLE---ATK-V--GALSKAQLTAFLDSQL-----
+THIO_MYCTU     NPETARNFQVVSIPTL----ILFKDGQPV---KRI-V--GAKGKAALLRELSDVVPNLN-
+THIO_MYCSM     NPATARDFQVVSIPTM----ILFKDGAPV---KRI-V--GAKGKAALLRELSDAL-----
+THIO_CHLLT     NPNXAGQYGXRSXPTM----XXXKGGKVV---DQM-V--GAXPKNMXAKKXDEHIG----
+THI1_SYNY3     YPAIATQYQIQSLPTL----VLFKQGQPV---HRM-E--GVQQAAQLIQQLQVFV-----
+THI1_CHLTE     QPDAAARFQVQGIPAL----MLFVGGQLK---WRT-A--GAIPYQQMRQEVLKAIG----
+THI2_ECOLI     ERELSSRFGIRSIPTI----MIFKNGQVV---DML-N--GAVPKAPFDSWLNESL-----
+THIO_PENCH     LSEVAASNGVSAMPTF----HFYKGGERN---EEV-K--G-ANPAAIQAGVKAILE----
+TRX3_YEAST     SPDIAKECEVTAMPTF----VLGKDGQLI---GKI-I--G-ANPTALEKGIK--DL----
+THIO_TREPA     DQDLAVEFNVASIPTL----IVFKDGKEV---DRS-I--GFVDKSKILTLIQKNA-----
+THIO_GEOCY     NDETAEAEKIQAMPTF----KFYKSGKAL---SDYVQ--G-ANEAGLREKIKKNK-----
+THH3_ARATH     LNTVAEEFKVQAMPTF----IFMKEGEIK---ETV-V--G-AAKEEIIANLEKHKTVVAA
+THIH_CHLRE     VAAVAEAAGITAMPTF----HVYKDGVKA---DDL-V--G-ASQDKLKALVAKHAAA---
+THIF_SPIOL     NKTLAKELGIRVVPTF----KILKENSVV---GEV-T--G-AKYDKLLEAIQAARSS---
+THI2_BOVIN     HTDLALEYEVSAVPTV----LAMKNGDVV---DKF-V--GIKDEDQLEAFLKKLIG----
+THIO_NEUCR     VQQVAQHYRVSAMPTF----LFFKNGKQVAVNGSV-MIQG-ADVNSLRAAAEKMGRLAKE
+THI2_DROME     CEDIAMEYNISSMPTF----VFLKNGVKV---EEF-A--G-ANAKRLEDVIKANI-----
+THI1_CAEEL     AEDLCSKYDVKMMPTF----IFTKNGDAI---EAL-E--G-CVEDELRQKVLEHVSAQ--
+THI1_DICDI     LNVHPIVSKIKSVPTF----HFYRNGSKV---SEF-S--G-ASESILRSTLEANK-----
+YE04_YEAST     HPEISDLFEIAAVPYF----VFIQNGTIV---KEI----SAADPKEFVKSLEILSNASAS
+YD98_YEAST     NSEISELFEISAVPYF----IIIHKGTIL---KEL----SGADPKEYVSLLEDCKNSVNS
+THIF_MESCR     NKPLAKELGIRVVPTF----KILKGGKIV---DEV-T--G-AKFDKLVAAIEAARSS---
+THF1_ARATH     NRPLAKELGIRVVPTF----KILKDNKVV---KEV-T--G-AKYDDLVAAIETARSAASG
+THIF_PEA       NKSLAKELGIKVVPTF----KILKDNKIV---KEV-T--G-AKFDDLVAAIDTVRSS---
+TXNL_HUMAN     CQGTAATNNISATPTF----LFFRNKVRI---DQY-Q--G-ADAVGLEEKIKQHLENDPG
+THH1_BRANA     LATVAQEFDVQAMPTF----VYMKGEEKL---DKV-V--G-AAKEEIEAKLLKHSQ-VAA
+THIH_PICMA     LRDVAQEWDVEAMPTF----IFIKDGKAV---DKV-V--G-AKKDDLERKVAALAAAATT
+THH2_BRANA     LQNVAQEFGVEAMPTF----VLIKDGNVV---DKV-V--G-ARKEDLHATIAKHTGVATA
+THI1_DROME     FEELTERYKVRSMPTF----VFLRQNRRL---ASF-A--G-ADEHKLTNMMAKLVKA---
+2trc_P         NTGAGDRFSSDVLPTL----LVYKGGELIS--NFISV-AEQFAEDFFAADVESFLNEYGL
+1j0f_A         DNALRDEMRTLAGNPKATPPQIVNGNHYCGDYELF-V--EAVEQDTLQEFLKLA------
+1fov_A         NAAKREEMIKRSGRT--TVPQIFIDAQHIGGYDDL-Y--ALDARGGLDPLLK--------
+1a8l_          YPEWADQYNVMAVPKI----VIQVNGEDR---VEF-E--GAYPEKMFLEKLLSALS----
+
+
+1erv_          ------------------------------------------------------------
+1r26_A         ------------------------------------------------------------
+THIO_STAAM     ------------------------------------------------------------
+THIO_BACSU     ------------------------------------------------------------
+THIO_LISMO     ------------------------------------------------------------
+THI1_ANASP     ------------------------------------------------------------
+THIO_CYACA     ------------------------------------------------------------
+THIO_PORPU     ------------------------------------------------------------
+THIO_RICCN     ------------------------------------------------------------
+THIO_STRAU     ------------------------------------------------------------
+THIO_RHOSH     ------------------------------------------------------------
+THIO_PASMU     ------------------------------------------------------------
+THIO_HAEIN     ------------------------------------------------------------
+THIO_PSEAE     ------------------------------------------------------------
+THIO_STRCL     ------------------------------------------------------------
+THI2_CHLTE     ------------------------------------------------------------
+THIO_ALIAC     ------------------------------------------------------------
+THIO_SCHPO     ------------------------------------------------------------
+THIO_CHLMU     ------------------------------------------------------------
+THIO_CHICK     ------------------------------------------------------------
+THIO_OPHHA     ------------------------------------------------------------
+THIT_DROME     EAADVKAVHIDGECIVDLTAESSESDNDNNNVNEVSAHDENAVLEH--------------
+THI2_CORNE     ------------------------------------------------------------
+THIO_MYCGA     ------------------------------------------------------------
+THIO_MYCGE     ------------------------------------------------------------
+THIO_MYCPN     ------------------------------------------------------------
+TRX2_YEAST     ------------------------------------------------------------
+THIO_COPCM     ------------------------------------------------------------
+THIO_CHLPN     ------------------------------------------------------------
+THIO_CHLCV     ------------------------------------------------------------
+THIO_ICTPU     ------------------------------------------------------------
+TXL2_HUMAN     ------------------------------------------------------------
+THIM_CHLRE     ------------------------------------------------------------
+THIO_GRIPA     ------------------------------------------------------------
+THIM_PEA       ------------------------------------------------------------
+THIM_SPIOL     ------------------------------------------------------------
+THIM_ORYSA     ------------------------------------------------------------
+THIM_MAIZE     ------------------------------------------------------------
+THIO_BUCAI     ------------------------------------------------------------
+THIO_RHORU     ------------------------------------------------------------
+THM4_ARATH     ------------------------------------------------------------
+THIM_BRANA     ------------------------------------------------------------
+THM2_ARATH     ------------------------------------------------------------
+THIO_ECHGR     ------------------------------------------------------------
+TRX1_YEAST     ------------------------------------------------------------
+THIO_EMENI     ------------------------------------------------------------
+THH1_ARATH     ------------------------------------------------------------
+THH2_TOBAC     TA----------------------------------------------------------
+THH1_TOBAC     TA----------------------------------------------------------
+THH5_ARATH     A-----------------------------------------------------------
+THIH_FAGES     -----PITA---------------------------------------------------
+THIH_ORYSA     SASA--------------------------------------------------------
+THIH_WHEAT     ------------------------------------------------------------
+THH2_ARATH     ------------------------------------------------------------
+THI3_DICDI     ------------------------------------------------------------
+THI2_SYNY3     ------------------------------------------------------------
+THIM_WHEAT     ------------------------------------------------------------
+THI1_CORNE     ------------------------------------------------------------
+THIO_THIFE     ------------------------------------------------------------
+THIO_MYCTU     ------------------------------------------------------------
+THIO_MYCSM     ------------------------------------------------------------
+THIO_CHLLT     ------------------------------------------------------------
+THI1_SYNY3     ------------------------------------------------------------
+THI1_CHLTE     ------------------------------------------------------------
+THI2_ECOLI     ------------------------------------------------------------
+THIO_PENCH     ------------------------------------------------------------
+TRX3_YEAST     ------------------------------------------------------------
+THIO_TREPA     ------------------------------------------------------------
+THIO_GEOCY     ------------------------------------------------------------
+THH3_ARATH     A-----------------------------------------------------------
+THIH_CHLRE     ------------------------------------------------------------
+THIF_SPIOL     ------------------------------------------------------------
+THI2_BOVIN     ------------------------------------------------------------
+THIO_NEUCR     KAAAAGSS----------------------------------------------------
+THI2_DROME     ------------------------------------------------------------
+THI1_CAEEL     ------------------------------------------------------------
+THI1_DICDI     ------------------------------------------------------------
+YE04_YEAST     ---------------------------------------------LANNAKGPKSTSDEE
+YD98_YEAST     ---------------------------------------------GSSQTHTMENANVNE
+THIF_MESCR     ------------------------------------------------------------
+THF1_ARATH     ------------------------------------------------------------
+THIF_PEA       ------------------------------------------------------------
+TXNL_HUMAN     SNEDTDIPKGYMDLMPFINKAGCECLNESDEHGFDNCLRKDT---TFLESDCDEQLLITV
+THH1_BRANA     A-----------------------------------------------------------
+THIH_PICMA     TEATLPAQA---------------------------------------------------
+THH2_BRANA     ------------------------------------------------------------
+THI1_DROME     ------------------------------------------------------------
+2trc_P         LPER--------------------------------------------------------
+1j0f_A         ------------------------------------------------------------
+1fov_A         ------------------------------------------------------------
+1a8l_          ------------------------------------------------------------
+
+
+1erv_          ------------------------------------------------------------
+1r26_A         ------------------------------------------------------------
+THIO_STAAM     ------------------------------------------------------------
+THIO_BACSU     ------------------------------------------------------------
+THIO_LISMO     ------------------------------------------------------------
+THI1_ANASP     ------------------------------------------------------------
+THIO_CYACA     ------------------------------------------------------------
+THIO_PORPU     ------------------------------------------------------------
+THIO_RICCN     ------------------------------------------------------------
+THIO_STRAU     ------------------------------------------------------------
+THIO_RHOSH     ------------------------------------------------------------
+THIO_PASMU     ------------------------------------------------------------
+THIO_HAEIN     ------------------------------------------------------------
+THIO_PSEAE     ------------------------------------------------------------
+THIO_STRCL     ------------------------------------------------------------
+THI2_CHLTE     ------------------------------------------------------------
+THIO_ALIAC     ------------------------------------------------------------
+THIO_SCHPO     ------------------------------------------------------------
+THIO_CHLMU     ------------------------------------------------------------
+THIO_CHICK     ------------------------------------------------------------
+THIO_OPHHA     ------------------------------------------------------------
+THIT_DROME     ------------------------------------------------------------
+THI2_CORNE     ------------------------------------------------------------
+THIO_MYCGA     ------------------------------------------------------------
+THIO_MYCGE     ------------------------------------------------------------
+THIO_MYCPN     ------------------------------------------------------------
+TRX2_YEAST     ------------------------------------------------------------
+THIO_COPCM     ------------------------------------------------------------
+THIO_CHLPN     ------------------------------------------------------------
+THIO_CHLCV     ------------------------------------------------------------
+THIO_ICTPU     ------------------------------------------------------------
+TXL2_HUMAN     ------------------------------------------------------------
+THIM_CHLRE     ------------------------------------------------------------
+THIO_GRIPA     ------------------------------------------------------------
+THIM_PEA       ------------------------------------------------------------
+THIM_SPIOL     ------------------------------------------------------------
+THIM_ORYSA     ------------------------------------------------------------
+THIM_MAIZE     ------------------------------------------------------------
+THIO_BUCAI     ------------------------------------------------------------
+THIO_RHORU     ------------------------------------------------------------
+THM4_ARATH     ------------------------------------------------------------
+THIM_BRANA     ------------------------------------------------------------
+THM2_ARATH     ------------------------------------------------------------
+THIO_ECHGR     ------------------------------------------------------------
+TRX1_YEAST     ------------------------------------------------------------
+THIO_EMENI     ------------------------------------------------------------
+THH1_ARATH     ------------------------------------------------------------
+THH2_TOBAC     ------------------------------------------------------------
+THH1_TOBAC     ------------------------------------------------------------
+THH5_ARATH     ------------------------------------------------------------
+THIH_FAGES     ------------------------------------------------------------
+THIH_ORYSA     ------------------------------------------------------------
+THIH_WHEAT     ------------------------------------------------------------
+THH2_ARATH     ------------------------------------------------------------
+THI3_DICDI     ------------------------------------------------------------
+THI2_SYNY3     ------------------------------------------------------------
+THIM_WHEAT     ------------------------------------------------------------
+THI1_CORNE     ------------------------------------------------------------
+THIO_THIFE     ------------------------------------------------------------
+THIO_MYCTU     ------------------------------------------------------------
+THIO_MYCSM     ------------------------------------------------------------
+THIO_CHLLT     ------------------------------------------------------------
+THI1_SYNY3     ------------------------------------------------------------
+THI1_CHLTE     ------------------------------------------------------------
+THI2_ECOLI     ------------------------------------------------------------
+THIO_PENCH     ------------------------------------------------------------
+TRX3_YEAST     ------------------------------------------------------------
+THIO_TREPA     ------------------------------------------------------------
+THIO_GEOCY     ------------------------------------------------------------
+THH3_ARATH     ------------------------------------------------------------
+THIH_CHLRE     ------------------------------------------------------------
+THIF_SPIOL     ------------------------------------------------------------
+THI2_BOVIN     ------------------------------------------------------------
+THIO_NEUCR     ------------------------------------------------------------
+THI2_DROME     ------------------------------------------------------------
+THI1_CAEEL     ------------------------------------------------------------
+THI1_DICDI     ------------------------------------------------------------
+YE04_YEAST     SSGSSDD-----EEDETEEEINARLVKLVQAAPVMLFMKGSPSEPKCGFSRQLVGILREH
+YD98_YEAST     GSHNDEDDDDEEEEEETEEQINARLTKLVNAAPVMLFMKGSPSEPKCGFSRQLVGILREH
+THIF_MESCR     ------------------------------------------------------------
+THF1_ARATH     ------------------------------------------------------------
+THIF_PEA       ------------------------------------------------------------
+TXNL_HUMAN     AFNQPVKLYSMKFQGPDNGQGPKYVKIFINLPRSMDFEEAERSEPTQALELTEDDIKEDG
+THH1_BRANA     ------------------------------------------------------------
+THIH_PICMA     ------------------------------------------------------------
+THH2_BRANA     ------------------------------------------------------------
+THI1_DROME     ------------------------------------------------------------
+2trc_P         ------------------------------------------------------------
+1j0f_A         ------------------------------------------------------------
+1fov_A         ------------------------------------------------------------
+1a8l_          ------------------------------------------------------------
+
+
+1erv_          ------------------------------------------------------------
+1r26_A         ------------------------------------------------------------
+THIO_STAAM     ------------------------------------------------------------
+THIO_BACSU     ------------------------------------------------------------
+THIO_LISMO     ------------------------------------------------------------
+THI1_ANASP     ------------------------------------------------------------
+THIO_CYACA     ------------------------------------------------------------
+THIO_PORPU     ------------------------------------------------------------
+THIO_RICCN     ------------------------------------------------------------
+THIO_STRAU     ------------------------------------------------------------
+THIO_RHOSH     ------------------------------------------------------------
+THIO_PASMU     ------------------------------------------------------------
+THIO_HAEIN     ------------------------------------------------------------
+THIO_PSEAE     ------------------------------------------------------------
+THIO_STRCL     ------------------------------------------------------------
+THI2_CHLTE     ------------------------------------------------------------
+THIO_ALIAC     ------------------------------------------------------------
+THIO_SCHPO     ------------------------------------------------------------
+THIO_CHLMU     ------------------------------------------------------------
+THIO_CHICK     ------------------------------------------------------------
+THIO_OPHHA     ------------------------------------------------------------
+THIT_DROME     ------------------------------------------------------------
+THI2_CORNE     ------------------------------------------------------------
+THIO_MYCGA     ------------------------------------------------------------
+THIO_MYCGE     ------------------------------------------------------------
+THIO_MYCPN     ------------------------------------------------------------
+TRX2_YEAST     ------------------------------------------------------------
+THIO_COPCM     ------------------------------------------------------------
+THIO_CHLPN     ------------------------------------------------------------
+THIO_CHLCV     ------------------------------------------------------------
+THIO_ICTPU     ------------------------------------------------------------
+TXL2_HUMAN     ------------------------------------------------------------
+THIM_CHLRE     ------------------------------------------------------------
+THIO_GRIPA     ------------------------------------------------------------
+THIM_PEA       ------------------------------------------------------------
+THIM_SPIOL     ------------------------------------------------------------
+THIM_ORYSA     ------------------------------------------------------------
+THIM_MAIZE     ------------------------------------------------------------
+THIO_BUCAI     ------------------------------------------------------------
+THIO_RHORU     ------------------------------------------------------------
+THM4_ARATH     ------------------------------------------------------------
+THIM_BRANA     ------------------------------------------------------------
+THM2_ARATH     ------------------------------------------------------------
+THIO_ECHGR     ------------------------------------------------------------
+TRX1_YEAST     ------------------------------------------------------------
+THIO_EMENI     ------------------------------------------------------------
+THH1_ARATH     ------------------------------------------------------------
+THH2_TOBAC     ------------------------------------------------------------
+THH1_TOBAC     ------------------------------------------------------------
+THH5_ARATH     ------------------------------------------------------------
+THIH_FAGES     ------------------------------------------------------------
+THIH_ORYSA     ------------------------------------------------------------
+THIH_WHEAT     ------------------------------------------------------------
+THH2_ARATH     ------------------------------------------------------------
+THI3_DICDI     ------------------------------------------------------------
+THI2_SYNY3     ------------------------------------------------------------
+THIM_WHEAT     ------------------------------------------------------------
+THI1_CORNE     ------------------------------------------------------------
+THIO_THIFE     ------------------------------------------------------------
+THIO_MYCTU     ------------------------------------------------------------
+THIO_MYCSM     ------------------------------------------------------------
+THIO_CHLLT     ------------------------------------------------------------
+THI1_SYNY3     ------------------------------------------------------------
+THI1_CHLTE     ------------------------------------------------------------
+THI2_ECOLI     ------------------------------------------------------------
+THIO_PENCH     ------------------------------------------------------------
+TRX3_YEAST     ------------------------------------------------------------
+THIO_TREPA     ------------------------------------------------------------
+THIO_GEOCY     ------------------------------------------------------------
+THH3_ARATH     ------------------------------------------------------------
+THIH_CHLRE     ------------------------------------------------------------
+THIF_SPIOL     ------------------------------------------------------------
+THI2_BOVIN     ------------------------------------------------------------
+THIO_NEUCR     ------------------------------------------------------------
+THI2_DROME     ------------------------------------------------------------
+THI1_CAEEL     ------------------------------------------------------------
+THI1_DICDI     ------------------------------------------------------------
+YE04_YEAST     QIRFGFFDILRDENVRQSLKKFSDWPTFPQLYINGEFQGGLDIIKESIEEDPEYFQHALQ
+YD98_YEAST     QVRFGFFDILRDESVRQNLKKFSEWPTFPQLYINGEFQGGLDIIKESLEEDPDFLQHALQ
+THIF_MESCR     ------------------------------------------------------------
+THF1_ARATH     ------------------------------------------------------------
+THIF_PEA       ------------------------------------------------------------
+TXNL_HUMAN     IVPLRYVKFQNVNSVTIFVQSNQGEEETTRISYF-TFIGTPVQATNMNDFKRVVGKKGES
+THH1_BRANA     ------------------------------------------------------------
+THIH_PICMA     ------------------------------------------------------------
+THH2_BRANA     ------------------------------------------------------------
+THI1_DROME     ------------------------------------------------------------
+2trc_P         ------------------------------------------------------------
+1j0f_A         ------------------------------------------------------------
+1fov_A         ------------------------------------------------------------
+1a8l_          ------------------------------------------------------------
+
+
+1erv_          -
+1r26_A         -
+THIO_STAAM     -
+THIO_BACSU     -
+THIO_LISMO     -
+THI1_ANASP     -
+THIO_CYACA     -
+THIO_PORPU     -
+THIO_RICCN     -
+THIO_STRAU     -
+THIO_RHOSH     -
+THIO_PASMU     -
+THIO_HAEIN     -
+THIO_PSEAE     -
+THIO_STRCL     -
+THI2_CHLTE     -
+THIO_ALIAC     -
+THIO_SCHPO     -
+THIO_CHLMU     -
+THIO_CHICK     -
+THIO_OPHHA     -
+THIT_DROME     -
+THI2_CORNE     -
+THIO_MYCGA     -
+THIO_MYCGE     -
+THIO_MYCPN     -
+TRX2_YEAST     -
+THIO_COPCM     -
+THIO_CHLPN     -
+THIO_CHLCV     -
+THIO_ICTPU     -
+TXL2_HUMAN     -
+THIM_CHLRE     -
+THIO_GRIPA     -
+THIM_PEA       -
+THIM_SPIOL     -
+THIM_ORYSA     -
+THIM_MAIZE     -
+THIO_BUCAI     -
+THIO_RHORU     -
+THM4_ARATH     -
+THIM_BRANA     -
+THM2_ARATH     -
+THIO_ECHGR     -
+TRX1_YEAST     -
+THIO_EMENI     -
+THH1_ARATH     -
+THH2_TOBAC     -
+THH1_TOBAC     -
+THH5_ARATH     -
+THIH_FAGES     -
+THIH_ORYSA     -
+THIH_WHEAT     -
+THH2_ARATH     -
+THI3_DICDI     -
+THI2_SYNY3     -
+THIM_WHEAT     -
+THI1_CORNE     -
+THIO_THIFE     -
+THIO_MYCTU     -
+THIO_MYCSM     -
+THIO_CHLLT     -
+THI1_SYNY3     -
+THI1_CHLTE     -
+THI2_ECOLI     -
+THIO_PENCH     -
+TRX3_YEAST     -
+THIO_TREPA     -
+THIO_GEOCY     -
+THH3_ARATH     -
+THIH_CHLRE     -
+THIF_SPIOL     -
+THI2_BOVIN     -
+THIO_NEUCR     -
+THI2_DROME     -
+THI1_CAEEL     -
+THI1_DICDI     -
+YE04_YEAST     -
+YD98_YEAST     S
+THIF_MESCR     -
+THF1_ARATH     -
+THIF_PEA       -
+TXNL_HUMAN     H
+THH1_BRANA     -
+THIH_PICMA     -
+THH2_BRANA     -
+THI1_DROME     -
+2trc_P         -
+1j0f_A         -
+1fov_A         -
+1a8l_          -
+
+

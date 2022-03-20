@@ -1,0 +1,597 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40013_kalign.msf  MSF: 888  Type: N  December 21, 2021 20:40  Check: 4042  ..
+
+ Name: 1i7h_A      Len:    888  Check: 5909  Weight: 1.00
+ Name: FER_PSEAE   Len:    888  Check: 8987  Weight: 1.00
+ Name: FER_HAEIN   Len:    888  Check: 7347  Weight: 1.00
+ Name: FER_BUCAI   Len:    888  Check: 7263  Weight: 1.00
+ Name: ETP1_SCHPO  Len:    888  Check: 9508  Weight: 1.00
+ Name: ADXH_DROME  Len:    888  Check: 6264  Weight: 1.00
+ Name: THCC_RHOER  Len:    888  Check: 8366  Weight: 1.00
+ Name: FER6_RHOCA  Len:    888  Check: 6633  Weight: 1.00
+ Name: TERP_PSESP  Len:    888  Check: 3519  Weight: 1.00
+ Name: DMPP_PSESP  Len:    888  Check: 8675  Weight: 1.00
+ Name: XYLZ_PSEPU  Len:    888  Check: 5068  Weight: 1.00
+ Name: ASCD_YERPE  Len:    888  Check: 5060  Weight: 1.00
+ Name: PAAE_ECOLI  Len:    888  Check: 9772  Weight: 1.00
+ Name: YFAE_HAEIN  Len:    888  Check:  291  Weight: 1.00
+ Name: 1frr_A      Len:    888  Check: 8739  Weight: 1.00
+ Name: 1krh_A      Len:    888  Check: 3124  Weight: 1.00
+ Name: CBDC_BURCE  Len:    888  Check: 6958  Weight: 1.00
+ Name: YFAE_ECOLI  Len:    888  Check: 3789  Weight: 1.00
+ Name: HCR_ECOLI   Len:    888  Check: 5190  Weight: 1.00
+ Name: 1iue_A      Len:    888  Check: 8209  Weight: 1.00
+ Name: 1jq4_A      Len:    888  Check: 8006  Weight: 1.00
+ Name: FER1_ANASP  Len:    888  Check: 9233  Weight: 1.00
+ Name: FER2_EQUAR  Len:    888  Check: 4537  Weight: 1.00
+ Name: FER_RHOPL   Len:    888  Check: 7252  Weight: 1.00
+ Name: FER2_SYNP6  Len:    888  Check: 9542  Weight: 1.00
+ Name: RFBI_SALTY  Len:    888  Check: 1548  Weight: 1.00
+ Name: YCBX_ECOLI  Len:    888  Check: 9239  Weight: 1.00
+ Name: 2pia_       Len:    888  Check: 9911  Weight: 1.00
+ Name: CBAB_COMTE  Len:    888  Check: 4663  Weight: 1.00
+ Name: Y177_BUCAI  Len:    888  Check:  378  Weight: 1.00
+ Name: 1frd_       Len:    888  Check: 9763  Weight: 1.00
+ Name: 1a70_       Len:    888  Check: 5980  Weight: 1.00
+ Name: FER_SILPR   Len:    888  Check: 2501  Weight: 1.00
+ Name: FER6_MAIZE  Len:    888  Check: 1135  Weight: 1.00
+ Name: FERV_ANAVA  Len:    888  Check: 1683  Weight: 1.00
+
+//
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     MNISRSSGLMRQFLLQPLRKGCDISCLGRSSWRMSRSFSGSSVLNEINLSRTKNLFLNDC
+ADXH_DROME     ------------------------------------------------------------
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+PAAE_ECOLI     ------------------------------------------------------------
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+YCBX_ECOLI     ------------------------------------------------------------
+2pia_          ------------------------------------------------------------
+CBAB_COMTE     ------------------------------------------------------------
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     KFNKNSFEKFFARRLSNSVAPTPGGILQETEKIPSKKVAFWLLGSSALVLAIVVVGGITR
+ADXH_DROME     ------------------------------------------------------------
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+PAAE_ECOLI     ------------------------------------------------------------
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+YCBX_ECOLI     ------------------------------------------------------------
+2pia_          ------------------------------------------------------------
+CBAB_COMTE     ------------------------------------------------------------
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     LTESGLSITEWKPITGVIPPLTDEQWNQEFELYKKSPEFEKLNSHMTVDEFKNIFFWEWF
+ADXH_DROME     ------------------------------------------------------------
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+PAAE_ECOLI     ------------------------------------------------------------
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+YCBX_ECOLI     ------------------------------------------------------------
+2pia_          ------------------------------------------------------------
+CBAB_COMTE     ------------------------------------------------------------
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     HRVLGRGIGLTILLPSIYMIVTKRASPWLSKRLIGLTGLVGLQGVIGWWMVKSGLSEELF
+ADXH_DROME     ------------------------------------------------------------
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+PAAE_ECOLI     -----------------------------------MTTFHSLTVAKVESETRDAVT-ITF
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ---------------------------------------------------------MTM
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+YCBX_ECOLI     ----------------MATLIRLFIHPVKSMRGIGLT--HALADVSGLAFDR-----IFM
+2pia_          ------------------------------------------------------------
+CBAB_COMTE     ----------------------------------------------------------MV
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     SDGSHPRVSHYRLATHLAAAVALYIGLVWTGHGILQRHAFLKSMKSGSTSQLTSMVSSVQ
+ADXH_DROME     ------------------------------------------------------------
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+PAAE_ECOLI     AVPQ-PLQEAYRFRPG--QHLTLKAS--FDGEELRRCYSICRSYLPGEISVAVKAIEGGR
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      PTNQCP----WRMQVH---HITQETPDVWTIS--LICHDYY-PYRAGQYA-LVSVRNSAE
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+YCBX_ECOLI     ITEPDGTFITARQFPQMVRFTPSPVHDGLHLTAPDGSSAYVRFADFATQDAPTEVWGTHF
+2pia_          TTPQEDGFLRLKIASK--EKIARD---IWSFELTDPQGAPLPPFEAGANLTVAVPNGSRR
+CBAB_COMTE     AIDQHDTY-SVRVISR--SHLSKD---IVQVELEESSQRPLPDYEPGSHVDIYVQDDLVR
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     KMKGFRTSVNSFVGLVLITLLSGAFVAGLDAGMIYCTFPEMGEGRLAPSKSELFDQRFCR
+ADXH_DROME     ------------------------------------------------------------
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+PAAE_ECOLI     FSRYAREHIRQGMTLE-VMVPQGHFGYQPQAERQGRYLAIAAGSGITPMLAIIA------
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      TLRAYTISSTPGVS-EYITLTVRRIDDGVGSQWLTRDVKRGDYLWLSDAMGEFT----C-
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+YCBX_ECOLI     TARIAPDAINKWLS----GFFSREVQLRWVGPQMTRRVKRHNTVPLSFADGYPYL-----
+2pia_          TYSLCNDSQERNRYVIA--VKRDSNGRGGSISFIDDTSE-GDAVEVSLPRNEFP------
+CBAB_COMTE     QYSLVKASDAQASYQIAFKVKRD---QGSATELMCELLRVGATTRISAPRNAFA------
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     KDDKSDLIWRNMIDNPSLVQLEHRILAITTFVAACGLFIFSRAKRNILPKKIKTSINVVT
+ADXH_DROME     ------------------------------------------------------------
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+PAAE_ECOLI     TTLQTE---------P-----ESQFTLIY----GNRTSQSMMFRQALADLKDKYPQRLQL
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      -DDKA----------------EDKFLLLA---AGCGVTPIMSMRRWLAKNRPQADVRVIY
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+YCBX_ECOLI     LANEASLR-----------DLQQRCPASV---KMEQFRPNLVVSGASAWEEDRWKVIRIG
+2pia_          LDKRAK-----------------SFILVA---GGIGITPMLSMARQLRAEGLRSFRLYYL
+CBAB_COMTE     LDPQAR-----------------ETVLIC---GGIGITPMVHMAMTL-VKAKRPWSMHIA
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     GVVTAQATLGIMTLIYVVPVPLAALHQAGSLVTLTAALSLAQRLHPEYALKNIRSWTKLI
+ADXH_DROME     --------------MFCLLLRRSAVHNSCKLISKQIA-------KPAF-------YT---
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     ------------------------------------------------------------
+XYLZ_PSEPU     ------------------------------------------------------------
+ASCD_YERPE     ------------------------------------------------------------
+PAAE_ECOLI     LCIFSQETL--DSDLLHGRIDGEKLQSLGASLINFRLYDEAFICGPAAMMDDAETALKAL
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      NVRTPQDVI-FADEWRNYPVTLVAENNVTEGFIAGRLTRELLAGVPDLASRTVMTCGPAP
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     ------------------------------------------------------------
+YCBX_ECOLI     DVVFDVVKPCSRCIFTTVSPEKGQKHPAGEPLKTLQSFRTAQDNGDVDFGQNLIARNSGV
+2pia_          TRDPEGTAFFDELTSDEWRSDVKIHHDHGDPTKAFDFWSVFEKSKPAQHVYCCGPQALMD
+CBAB_COMTE     SRDGDELDLLGPLGSCSEIS--RYISSQGDRLPIRDL---AERAPANAHLYFCGPEGMLQ
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ---------------------------------------MASTLSTLSVSASLLPKQQPM
+FER6_MAIZE     -----------------------------MSTATAPRLPAPRSGASYHYQTTAAPAANTL
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ----------------------------PKIVILPHQDL-----CPDG---AVLEANSGE
+FER_PSEAE      ---------------------------MPQIVILPHADH-----CPEG---AVFEAKPGE
+FER_HAEIN      ----------------------------PKVIFLPNEDF-----CPEG---MVVDAATGD
+FER_BUCAI      ---------------------------MPKVLFLPHKIL-----LPKS---IECEAQTGE
+ETP1_SCHPO     SSPPKSSISSSILTQQRQFHTFRPSFHSEIKKPLPGTGIKVFFVTPEGRE-IMIEGNEGD
+ADXH_DROME     ---PHNALHTTIPRRHGEFEWQDPK-STDEIVNITYVDK-------DGKR-TKVQGKVGD
+THCC_RHOER     ----------------------------PTVTYV----------HPDGTK-HEVEVPTGK
+FER6_RHOCA     ----------------------------AKIIFI----------EHNGTR-HEVEAKPGL
+TERP_PSESP     ----------------------------PRVVFI----------DEQSGE-YAVDAQDGQ
+DMPP_PSESP     ----------------------------SYNVTI----------EPTGE---VIEVEDGQ
+XYLZ_PSEPU     ---------------------------MTHKVATD---------FEDGVT-RFIDANTGE
+ASCD_YERPE     ----------------------------SLNVKLH----------PSGI----IFTSDGT
+PAAE_ECOLI     GMPDKTIHLERFNTPGTRVKRSVNVQSDGQKVTVR----------QDGRD-REIVLNADD
+YFAE_HAEIN     ----------------------------M-KIHLI----------RHN---TTLEFNNET
+1frr_A         ----------------------------AYKTVLKT---------PSG-E-FTLDVPEGT
+1krh_A         ---------------------------SNHQVALQ---------FEDGVT-RFICIAQGE
+CBDC_BURCE     ---------------------------MLHSIALR---------FEDDVT-YFITSSEHE
+YFAE_ECOLI     ----------------------------MARVTLR----------ITG---TQLLCQDEH
+HCR_ECOLI      YMDWVEQEVKALGVTRFFKEKFFTPVAEAATSGLKF--------TKLQPA-REFYAPVGT
+1iue_A         ---------------------------AFYNITL----------RTNDGE-KKIECNEDE
+1jq4_A         -------------------------MQRVHTITAV---------TEDGESLRFECRSDED
+FER1_ANASP     ---------------------------ATFKVTLIN--------EAEGTK-HEIEVPDDE
+FER2_EQUAR     ----------------------------AYKVTLKT---------PDG-D-ITFDVEPGE
+FER_RHOPL      --------------------------AVKYTVTLST---------PGGVE--EIEGDETT
+FER2_SYNP6     ---------------------------ATYQVEVI----------YQGQS-QTFTADSDQ
+RFBI_SALTY     ---------------------------MSHIIKIF----------PSNI---EFSGREDE
+YCBX_ECOLI     I---RVGDEVEILATAPAKIYGAAAADDTANITQQPDAN-----VDIDWQGQAFRGNNQQ
+2pia_          TVRDMTGHWPSGTVHFESFGATNTNARENTPFTVRL--------SRSG---TSFEIPANR
+CBAB_COMTE     EFLAATQHRDPATVHYEQFQAAPSTGNE---FTVNL--------ARSG---AQYVVREGE
+Y177_BUCAI     ----------------------------MQSSIIE----------ITNIK-KKIVYQTQI
+1frd_          ---------------------------ASYQVRLIN--------KKQDID-TTIEIDEET
+1a70_          ---------------------------AAYKVTLVT---------PTGNV--EFQCPDDV
+FER_SILPR      VASSLPTNMGQALFGLKAGSRGRVTAMATYKVTLIT--------KESGTV--TFDCPDDV
+FER6_MAIZE     SFAGHARQAARASGPRLSSRFVASAAAVLHKVKLVG---------PDGTE-HEFEAPDDT
+FERV_ANAVA     ---------------------------TTYQVRLIN--------KKRAID-ITIPVDENT
+
+
+1i7h_A         -TILDAALRNGIEIEHA-CEKSCACTTCHCIVR-EGFDSL-PESSE--------QEDDML
+FER_PSEAE      -TILDAALRNGIEIEHA-CEKSCACTTCHVIVR-EGLDSM-EPSDE--------LEDDML
+FER_HAEIN      -NLLEVAHNAGVEIHHA-CDGSCACTTCHVIVR-EGFDSL-NETSD--------QEEDML
+FER_BUCAI      -TILTVALRNNIKLEHA-CEQSCACSTCHCIIK-KGFFSL-SGWSE--------KEDDIL
+ETP1_SCHPO     -SILDLAHANNIDLEGA-CEGSVACSTCHVIVDPEHYELL-DPPEE--------DEEDML
+ADXH_DROME     -NVLYLAHRHGIEMEGA-CEASLACTTCHVYVQHDYLQKL-KEAEE--------QEDDLL
+THCC_RHOER     -RVMQAAIGAGIDGIVAECGGQAMCATCHVYVESPWADKF-PSISE--------EEDEML
+FER6_RHOCA     -TVMEAARDNGVPGIDADCGGACACSTCHAYVDPAWVDKL-PKALP--------TETDMI
+TERP_PSESP     -SLMEVATQNGVPGIVAECGGSCVCATCRIEIEDAWVEIV-GEANP--------DENDLL
+DMPP_PSESP     -TILQAALRQGVWLPFA-CGHG-TCATCKVQVVEGEVD-I-GEASPFALMDIERDERKVL
+XYLZ_PSEPU     -TVADAAYRQGINLPLD-CRDG-ACGACKCFAESGRYSLG-EEYIEDALSEAEAEQGYVL
+ASCD_YERPE     STILDAALDSNIHIEYS-CKDG-TCGSCKAILISGEVDSA-ENTFL---TEEDVAKGAIL
+PAAE_ECOLI     ESILDAALRQGADLPYA-CKGG-VCATCKCKVLRGKVAME-TNYSL---EPDELAAGYVL
+YFAE_HAEIN     -SLLDHLEKNNIHHEYQ-CRSG-YCGSCRVKIKKGKVSY--KEMPL-----AFIQPDEIL
+1frr_A         -TILDAAEEAGYDLPFS-CRAG-ACSSCLGKVVSGSVDES-EGSFL---DDGQMEEGFVL
+1krh_A         -TLSDAAYRQQINIPMD-CREG-ECGTCRAFCESGNYDMPEDNYIEDALTPEEAQQGYVL
+CBDC_BURCE     -TVADAAYQHGIRIPLD-CRNG-VCGTCKGFCEHGEYDGG--DYIEDALSADEAREGFVL
+YFAE_ECOLI     PSLLAALESHNVAVEYQ-CREG-YCGSCRTRLVAGQVDW--IAEPL-----AFIQPGEIL
+HCR_ECOLI      -TLLEALESNNVPVVAA-CRAG-VCGCCKTKVVSGEYTVS-STMTL---TDAEIAEGYVL
+1iue_A         -YILDASERQNVELPYS-CRGG-SCSTCAAKLVEGEVDND-DQSYL---DEEQIKKKYIL
+1jq4_A         -VIT-AALRQNIFLMSS-CREG-GCATCKALCSEGDYDL--KGCSVQALPPEEEEEGLVL
+FER1_ANASP     -YILDAAEEQGYDLPFS-CRAG-ACSTCAGKLVSGTVDQS-DQSFL---DDDQIEAGYVL
+FER2_EQUAR     -RLIDIGSEKA-DLPLS-CQAG-ACSTCLGKIVSGTVDQS-EGSFL---DDEQIEQGYVL
+FER_RHOPL      -YVLDSAEDQGIDLPYS-CRAG-ACSTCAGIVELGTVDQS-DQSFL---DDDQLNDSFVL
+FER2_SYNP6     -SVLDSAQAAGVDLPAS-CLTG-VCTTCAARILSGEVDQP-DAMGV---GPEPAKQGYTL
+RFBI_SALTY     -SILDAALSAGIHLEHS-CKAG-DCGICESDLLAGEVVDS-KGNIF---GQGD----KIL
+YCBX_ECOLI     -VLLEQLENQGIRIPYS-CRAG-ICGSCRVQLLEGEVTPL-KKSAM-------GDDGTIL
+2pia_          -SILEVLRDANVRVPSS-CESG-TCGSCKTALCSGEADHR-DMVLR---DDEK--GTQIM
+CBAB_COMTE     -TILDVLRNAGHHVTSS-CRQG-ICGMCETTLISGVPDHR-DRLLT---DSEKASGRTML
+Y177_BUCAI     -TLLLVLELNNIHLEYQ-CRSG-YCGICRIELIKGEVFYL-IKQPM---A-ALFKEREIF
+1frd_          -TILDGAEENGIELPFS-CHSG-SCSSCVGKVVEGEVDQS-DQIFL---DDEQMGKGFAL
+1a70_          -YILDAAEEEGIDLPYS-CRAG-SCSSCAGKLKTGSLNQD-DQSFL---DDDQIDEGWVL
+FER_SILPR      -YVLDQAEEEGIDLPYS-CRAG-SCSSCAGKVVAGSVDQS-DQSFL---DDDQIEAGWVL
+FER6_MAIZE     -YILEAAETAGVELPFS-CRAG-SCSTCAGRMSAGEVDQS-EGSFL---DDGQMAEGYLL
+FERV_ANAVA     -TILDAAEQQDIELPFS-CQSG-SCSSCVAKVVEGEVDQS-EQVFL---DEEQMAKGFIV
+
+
+1i7h_A         --------------DKAWGLEPE-SRL--------SCQA----RVTDE--DLVVEIPRY-
+FER_PSEAE      --------------DKAWGLEPD-SRL--------SCQA----VVADE--DLVVEIPKY-
+FER_HAEIN      --------------DKAWGLEMD-SRL--------SCQC----VVGNE--DLVVEIPKY-
+FER_BUCAI      --------------DKAWGLQSE-SRL--------SCQA----VIGKS--DIEVEIPLY-
+ETP1_SCHPO     --------------DLAFGLEET-SRL--------GCQV----LLRKDLDGIRVRIPAQ-
+ADXH_DROME     --------------DMAPFLREN-SRL--------GCQI----LLDKSMEGMELELPKA-
+THCC_RHOER     --------------DDTVSPRTEASRL--------SCQL----VVSDDVDGLIVRLPEE-
+FER6_RHOCA     --------------DFAYEPNPATSRL--------TCQI----KVTSLLDGLVVHLPEK-
+TERP_PSESP     --------------QSTGEPMTAGTRL--------SCQV----FIDPSMDGLIVRVPLP-
+DMPP_PSESP     ACCAIPLSDLVIEADVDADPDFLGHPVEDY-RGVVSALV----DLSPTIKGLHIKLDRP-
+XYLZ_PSEPU     TCQMRA------ESDCVIRVPAA-SDVCKTQQAGYQAAISNVRQLSESTIALSIK-SASL
+ASCD_YERPE     TCCSKA------KSDIELDVNYY-PELSHIQKKTYPCKLDSIEFIGEDIAILSLRLPPT-
+PAAE_ECOLI     SCQALPL-----TSDVVVDFDAK-GMA---------------------------------
+YFAE_HAEIN     LCCCHV------ESDIEIDL----------------------------------------
+1frr_A         TCIAIP------ESDLVIETHKE-EELF--------------------------------
+1krh_A         ACQCRP------TSDAVFQIQAS-SEVCKTKIHHFEGTLARVENLSDSTITFDIQLDDGQ
+CBDC_BURCE     PCQMQA------RTDCVVRILAS-SSACQVKKSTMTGQMTEIDRGSSSTLQFTLAIDPS-
+YFAE_ECOLI     PCCCRA------KGDIEIEM----------------------------------------
+HCR_ECOLI      ACSCHP------QGDLVLA-----------------------------------------
+1iue_A         LCTCYP------KSDCVIETHKE-DELHDM------------------------------
+1jq4_A         LCRTYP------KTDLEIELPYT-H-----------------------------------
+FER1_ANASP     TCVAYP------TSDVVIQTHKE-EDLY--------------------------------
+FER2_EQUAR     TCIAIP------ESDVVIETHKE-DEL---------------------------------
+FER_RHOPL      TCVAYP------TSDCQIKTHQE-EKLY--------------------------------
+FER2_SYNP6     LCVAYP------RSDLKIETHKE-DELYALQFGQPG------------------------
+RFBI_SALTY     TCCCKP------KTALELNAHFF-PELAGQTKKIVPCKVNSAVLVSGDVMTLKLRTPPT-
+YCBX_ECOLI     CCSCVP------KTALKLAR----------------------------------------
+2pia_          VCVSRAK-----SAELVLDL----------------------------------------
+CBAB_COMTE     ICCSRAL-----SPELTLDL----------------------------------------
+Y177_BUCAI     PCCCKP------KGNITIKI----------------------------------------
+1frd_          LCVTYP------RSNCTIKTHQE-PYLA--------------------------------
+1a70_          TCAAYP------VSDVTIETHKK-EELTA-------------------------------
+FER_SILPR      TCAAYP------SADVTIETHKE-EELTA-------------------------------
+FER6_MAIZE     TCISYP------KADCVIHTHKE-EDLY--------------------------------
+FERV_ANAVA     LCVSYP------RSDCTIRTHQE-PYLV--------------------------------
+
+
+1i7h_A         --TINHARE---------------------------------------------------
+FER_PSEAE      --TINQVSEG-H------------------------------------------------
+FER_HAEIN      --NLNHANEAAH------------------------------------------------
+FER_BUCAI      --NLNYTVEY--------------------------------------------------
+ETP1_SCHPO     --TRNIRLERPKA-----------------------------------------------
+ADXH_DROME     --TRNFYVDGHKPKPH--------------------------------------------
+THCC_RHOER     --QV--------------------------------------------------------
+FER6_RHOCA     --QI--------------------------------------------------------
+TERP_PSESP     --A---------------------------------------------------------
+DMPP_PSESP     --MPFQAGQYVNLALPGIDGTRAFSLANPPSRNDEVELHVRLVEGGAATGFIHKQLKVGD
+XYLZ_PSEPU     NQLAFLPGQYVNLQVPGSDQTRAYSFSSLQKDGE-VSFLIRKLPGGLMSSFLTSLAKVGD
+ASCD_YERPE     --AKIQYLAGQYIDLIINGQRRSYSIANAPGGNGNIELHVRKVVNGVFSNIIFNELKLQQ
+PAAE_ECOLI     ------------------------------------------------------------
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         PDIHFLAGQYVNVTLPGTTETRSYSFSSQPGNRL-TGFVVRNVPQGKMSEYLSVQAKAGD
+CBDC_BURCE     SKVDFLPGQYAQLRIPGTTESRAYSYSSMPGSSH-VTFLVRDVPNGKMSGYLRNQATITE
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     --AKIGFLPGQYINLHYKGVTRSYSIANSDESNG-IELHVRNVPNGQMSSLIFGELQENT
+YCBX_ECOLI     ------------------------------------------------------------
+2pia_          ------------------------------------------------------------
+CBAB_COMTE     ------------------------------------------------------------
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     ------------------------------------------------------------
+ADXH_DROME     ------------------------------------------------------------
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     AVELSGPYGQFFVRDSQAGDLIFIAGGSGLSSPQSMILDLL--ERGDTRRITLFQGARNR
+XYLZ_PSEPU     SVSLAGPLGAFYLREIKR-PLLLLAGGTGLAPFTAMLEKIA--EQGGEHPLHLIYGVTHD
+ASCD_YERPE     LLRIEGPQGTFFVREDNL-PIVFLAGGTGFAPVKSMVEALI--NKNDQRQVHIYWGMPAG
+PAAE_ECOLI     ------------------------------------------------------------
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         KMSFTGPFGSFYLRDVKR-PVLMLAGGTGIAPFLSMLQVLE--QKGSEHPVRLVFGVTQD
+CBDC_BURCE     TFTFDGPYGAFYLREPVR-PILMLAGGTGLAPFLSMLQYMAGLQRNDLPSVRLVYGVNRD
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     LMRIEGPCGTFFIRESDR-PIIFLAGGTGFAPVKSMVEHLI--QGKCRREIYIYWGMQYS
+YCBX_ECOLI     ------------------------------------------------------------
+2pia_          ------------------------------------------------------------
+CBAB_COMTE     ------------------------------------------------------------
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER_PSEAE      ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+ETP1_SCHPO     ------------------------------------------------------------
+ADXH_DROME     ------------------------------------------------------------
+THCC_RHOER     ------------------------------------------------------------
+FER6_RHOCA     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+DMPP_PSESP     AELYNCELFEELAARHPNFSYVPALNQANDDPEWQGFKGFVHDAAKAHFDGRFGGQKAYL
+XYLZ_PSEPU     HDLVEMDKLEAFAARIPNFSYSACVA--SPDSAYP-QKGYVTQYIEPKQLN-GGEVDIYL
+ASCD_YERPE     HNFYS-DIANEWAIKHPNIHYVPVVS--GDDSTWTGATGFVHQAVLEDIPD-LSLFNVYA
+PAAE_ECOLI     ------------------------------------------------------------
+YFAE_HAEIN     ------------------------------------------------------------
+1frr_A         ------------------------------------------------------------
+1krh_A         CDLVALEQLDALQQKLPWFEYRTVVA--HAESQHE-RKGYVTGHIEYDWLN-GGEVDVYL
+CBDC_BURCE     DDLVGLDKLDELATQLSGFSYITTVV--DKDSAQL-RRGYVTQQITNDDMN-GGDVDIYV
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+1iue_A         ------------------------------------------------------------
+1jq4_A         ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER2_EQUAR     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+FER2_SYNP6     ------------------------------------------------------------
+RFBI_SALTY     KDFYS-ALPQQWSEQHDNVHYIPVVS--GDDAEWGGRKGFVHHAVMDDFDS-LEFFDIYA
+YCBX_ECOLI     ------------------------------------------------------------
+2pia_          ------------------------------------------------------------
+CBAB_COMTE     ------------------------------------------------------------
+Y177_BUCAI     ------------------------------------------------------------
+1frd_          ------------------------------------------------------------
+1a70_          ------------------------------------------------------------
+FER_SILPR      ------------------------------------------------------------
+FER6_MAIZE     ------------------------------------------------------------
+FERV_ANAVA     ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------
+FER_PSEAE      ------------------------------------------------
+FER_HAEIN      ------------------------------------------------
+FER_BUCAI      ------------------------------------------------
+ETP1_SCHPO     ------------------------------------------------
+ADXH_DROME     ------------------------------------------------
+THCC_RHOER     ------------------------------------------------
+FER6_RHOCA     ------------------------------------------------
+TERP_PSESP     ------------------------------------------------
+DMPP_PSESP     CGPPPMIDAAITTLMQGRLFERDIFMERFYTAADGAGESSRSALFKRI
+XYLZ_PSEPU     CGPPPMVEAVSQYIRAQGIQPANFYYEKFAASA---------------
+ASCD_YERPE     CGSLAMITAARNDFINHGLAENKFFSDAFVPSK---------------
+PAAE_ECOLI     ------------------------------------------------
+YFAE_HAEIN     ------------------------------------------------
+1frr_A         ------------------------------------------------
+1krh_A         CGPVPMVEAVRSWLDTQGIQPANFLFEKFSAN----------------
+CBDC_BURCE     CGPPPMVEAVRSWLAAEKLNPVNFYFEKFAPTVGN-------------
+YFAE_ECOLI     ------------------------------------------------
+HCR_ECOLI      ------------------------------------------------
+1iue_A         ------------------------------------------------
+1jq4_A         ------------------------------------------------
+FER1_ANASP     ------------------------------------------------
+FER2_EQUAR     ------------------------------------------------
+FER_RHOPL      ------------------------------------------------
+FER2_SYNP6     ------------------------------------------------
+RFBI_SALTY     CGSPVMIDASKKDFMMKNLSVEHFYSDAFTASNNIEDNL---------
+YCBX_ECOLI     ------------------------------------------------
+2pia_          ------------------------------------------------
+CBAB_COMTE     ------------------------------------------------
+Y177_BUCAI     ------------------------------------------------
+1frd_          ------------------------------------------------
+1a70_          ------------------------------------------------
+FER_SILPR      ------------------------------------------------
+FER6_MAIZE     ------------------------------------------------
+FERV_ANAVA     ------------------------------------------------
+
+

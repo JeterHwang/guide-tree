@@ -1,0 +1,835 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 1239  Type: P  December 21, 2021 20:24  Check: 3647  ..
+
+ Name: 1au7_A      Len:   1239  Check: 4553  Weight: -1.00
+ Name: PO21_CHICK  Len:   1239  Check: 1017  Weight: -1.00
+ Name: PO22_HUMAN  Len:   1239  Check: 5465  Weight: -1.00
+ Name: PDM2_DROME  Len:   1239  Check: 7898  Weight: -1.00
+ Name: PDM1_DROME  Len:   1239  Check:  775  Weight: -1.00
+ Name: BR31_BRARE  Len:   1239  Check: 1783  Weight: -1.00
+ Name: UN86_CAEEL  Len:   1239  Check: 4692  Weight: -1.00
+ Name: POU1_XENLA  Len:   1239  Check: 7829  Weight: -1.00
+ Name: ZP50_BRARE  Len:   1239  Check: 5518  Weight: -1.00
+ Name: PO31_HUMAN  Len:   1239  Check:  776  Weight: -1.00
+ Name: PO34_HUMAN  Len:   1239  Check: 4330  Weight: -1.00
+ Name: ZP47_BRARE  Len:   1239  Check: 5744  Weight: -1.00
+ Name: PO3A_XENLA  Len:   1239  Check: 6773  Weight: -1.00
+ Name: PO32_HUMAN  Len:   1239  Check: 7571  Weight: -1.00
+ Name: PO33_HUMAN  Len:   1239  Check: 7264  Weight: -1.00
+ Name: PO33_BRARE  Len:   1239  Check: 4723  Weight: -1.00
+ Name: SGF3_BOMMO  Len:   1239  Check: 5691  Weight: -1.00
+ Name: CF1A_DROME  Len:   1239  Check: 9000  Weight: -1.00
+ Name: HM06_CAEEL  Len:   1239  Check: 2148  Weight: -1.00
+ Name: POU1_DUGJA  Len:   1239  Check: 7192  Weight: -1.00
+ Name: PO51_BOVIN  Len:   1239  Check: 8678  Weight: -1.00
+ Name: SPM1_HUMAN  Len:   1239  Check: 4877  Weight: -1.00
+ Name: SPM1_MOUSE  Len:   1239  Check: 7572  Weight: -1.00
+ Name: POU2_BRARE  Len:   1239  Check: 2992  Weight: -1.00
+ Name: HM18_CAEEL  Len:   1239  Check: 4390  Weight: -1.00
+ Name: PO61_HUMAN  Len:   1239  Check: 8624  Weight: -1.00
+ Name: POUC_BRARE  Len:   1239  Check: 1551  Weight: -1.00
+ Name: RPF1_HUMAN  Len:   1239  Check: 4267  Weight: -1.00
+ Name: 1a04_A      Len:   1239  Check: 1986  Weight: -1.00
+ Name: 1neq_       Len:   1239  Check: 7968  Weight: -1.00
+
+//
+
+            1                                                   50
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MN
+PO22_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM1_DROME  MVMSELRWHT ASPEDNKNSL KRDLLKSTPT SAR..EA.AV HIMQNRYISR
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ZP50_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MATTAQYIPR
+PO31_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MATTAQYLPR
+PO34_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MA TAASNPYS..
+ZP47_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MA TTASNHYNI.
+PO3A_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MA TTASNHYNL.
+PO32_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MA TAASNHYSL.
+PO33_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MA TAASNPYLPG
+PO33_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~ASNPYLAS
+SGF3_BOMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CF1A_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM06_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_DUGJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~M..TQ.VS HIGSSHFNIN
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M TER..AQSPT AADCRPYEVN
+HM18_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  MDTEDLPANN A.....PLTV NEQLLGSCTL KFPAQDAQVI VMSG.QET..
+RPF1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MIAG.QVS..
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  NPSETSKPSM E..S.....G ......DGNT GTQTNGLDFQ KQPV......
+PO22_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM1_DROME  LSR..SPSPL QSNASDCD.. ......DNNS SVGTS.SDRC R.........
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~ME ..........
+POU1_XENLA  ~~~~~~~~~M HPDSDR.... .......... ........MH Q.........
+ZP50_BRARE  NNSLPSNPLM HPDSDR.... .......... ........MH Q.........
+PO31_HUMAN  G......... ...P...... ........GG GAGGTGPLMH PDAAAA....
+PO34_HUMAN  ..ILSSTSLV HADSAG.... .......... ........MQ QG........
+ZP47_BRARE  ..LTSSPSIV HSEPG..... .......... .......SMQ .Q........
+PO3A_XENLA  ..LGSGSSIV HADPG..... .......... .......GMQ .Q........
+PO32_HUMAN  ..LTSSASIV HAEPPG.... .......... .......GMQ QG........
+PO33_HUMAN  NSLLAAGSIV HSDAAGAGGG GGGGGGGGGG GAGGGGGGMQ PGSAAV....
+PO33_BRARE  STILSSASLV HSESGG.... .......... ......GGMQ PGSGAV....
+SGF3_BOMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CF1A_DROME  ~~~MAATSYM TPPSGDLD.. .......... .MALGGGGYH TSSPRS....
+HM06_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_DUGJA  SSIKTA.... .......... .......... .......... ..........
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  R.......AM YPQAAGLDGL GGA....... SLQFA.HGML QDPS......
+HM18_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  IRVLEVEVDT ALSSAGAAES GGDEEGSGQS LEATEEAQLD .GPVTTS...
+RPF1_HUMAN  KPLLSVRSEM NA......EL RGED...... KAATSDSELN .EPLLAPVES
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  .......... .......... .......... .....PVGGP ISTA......
+PO22_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MMV.
+PDM1_DROME  .......... .......... .......... ........SP LSPA...LS.
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  .......... .......... ........KA HRFRLPFCSF .FPVPLLVSV
+POU1_XENLA  .......... .......... .......... .......GTT YREV...QK.
+ZP50_BRARE  .......... .......... .......... .......GTT YREV...QK.
+PO31_HUMAN  .......... .......... .......AAA AAERLHAGAA YREV...QK.
+PO34_HUMAN  .......... .......... .......... ........SP FRNP...QK.
+ZP47_BRARE  .......... .......... .......... .......ATA YRDA...QT.
+PO3A_XENLA  .......... .......... .......... .......AQS YRDA...QT.
+PO32_HUMAN  .......... .......... .......... .......AGG YREA...QS.
+PO33_HUMAN  .......... .......... .......... ......TSGA YRGDPSSVK.
+PO33_BRARE  .......... .......... .......T.. .....SVSGG YRGDPT.VK.
+SGF3_BOMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CF1A_DROME  .......... .......... .......A.. .....ADAG. ........E.
+HM06_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_DUGJA  .......... .......... .......... .......... .......LP.
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  .......... .......... .......... .......... .......LI.
+HM18_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  .STTAVTVEV SAPVVQTVVS .KAAISVSPA QQTSVPI..T VQACPQVLT.
+RPF1_HUMAN  NDSEDTPSKL FGARGNPALS DPGTPDQHQA SQTHPPF..P VGPQP.LLT.
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            151                                                200
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  ...QAQ.AFL GHLHQVQLAG TSLQAAAQSL NVQS...... ..........
+PO22_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM2_DROME  ..LQQQ.Q.Q QRLWDATTTS NTNTQTQQSA NV........ ..........
+PDM1_DROME  ..LSHQ.QAK RQLMSLQPHP AHHHHNPHHL NHLNHHQYK. QEED......
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  LIFHHSAPFL IQLFF..... ....PSPLFN PLLRPSKI.. ...S......
+POU1_XENLA  ..MMHQ.EYL QGLA.TNAGH HMSLTPHQWL PNPASDWGSG S.........
+ZP50_BRARE  ..MMHH.EYL QGLA.TNTGH PMSLTHHQWL PTSNTDWTSG T.........
+PO31_HUMAN  ..LMHH.EWL G....AGAGH PVGLAHPQWL PTGGGGGGDW AGAH......
+PO34_HUMAN  ..LLQS.DYL QGVPSN...G HP..LGHHWV TSLS...... ..........
+ZP47_BRARE  ..LLQS.DY. ...S.LQSNS HPLSHAHQWI TALSHG.... ..........
+PO3A_XENLA  ..LVQS.DY. ...T.LQSNG HPLSHAHQWI TALSHG.... ..........
+PO32_HUMAN  ..LVQG.DY. ...GALQSNG HPLSHAHQWI TALSHGGGGG GGG.......
+PO33_HUMAN  ..MVQS.DFM QGAMAASNGG HMLSHAHQWV TALPHAAAAA AAA.......
+PO33_BRARE  ..MVQS.DFM QGAMAASNGG HMLSHAHQWV TSLPHAAAAA AAA.......
+SGF3_BOMMO  ~~MAAT.TYM PAEMELGN.. .......... .......... ..........
+CF1A_DROME  ..MKYM.QHH .....HHHHA AAAAAAHHQL PSSPSPNG.. ..........
+HM06_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~MLIPSSSSI PSSLSAS... ..........
+POU1_DUGJA  ..LINS.QYN SL........ .......... .......... ..........
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  ..FNKA.HFN G......... ITPATAQTFF PF........ ..........
+HM18_CAEEL  ~~~~~~~~~~ ~~~~~~~~~M NTLENTFQFL AE........ ...V......
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  ....QD.GLA SLMTG.MLAQ QSSLGQPLLI PLSMAGSVGG QGGLAVLTLP
+RPF1_HUMAN  ....AQ.QLA SAVAGVMPGG PPALNQPILI PFNMAGQLGG QQGL.VLTLP
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  .......... .......... .......... ......KSNE ES....GDS.
+PO22_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM2_DROME  .......... .......... .........E STPTKVCHQE NA....ATHT
+PDM1_DROME  .......... .YDDANGGA. ....LNLTSD NSRHSTQSPS NSVKSATASP
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  .......... .RGSENGACT SHSTLQRTRK IIQWELPKRG GD........
+POU1_XENLA  .......... .......... .......... .......HLG VQ....AEH.
+ZP50_BRARE  .......... .......... .......... .......HIG QA....E.H.
+PO31_HUMAN  .......... .LEHGKAGGG G...TGRADD GGGGG..... ......GFH.
+PO34_HUMAN  .......... .......... .........D GGPWSSTLAT .S....PLD.
+ZP47_BRARE  .......... .......... .........E GGPWSSSPLG EQ....DIK.
+PO3A_XENLA  .......... .......... .........D GAPWATSPLG QQ....DIK.
+PO32_HUMAN  .......... ...GGGGGGG G...GGGGGD GSPWSTSPLG QP....DIK.
+PO33_HUMAN  .......... ...AA..... .....AAVEA SSPWSGSAVG MA....GSP.
+PO33_BRARE  .......... ...AA..... ....AAAAEA GSPWSSSPVG MA....GSP.
+SGF3_BOMMO  .......... .......... .......... .......... ..........
+CF1A_DROME  .......... ...QGNGGGL G...LGSGSG LGSWSALHPD ..........
+HM06_CAEEL  .......... .......... .......ASD SEPSS...LN GS....GIS.
+POU1_DUGJA  .......... .......... .......... .......... ..........
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  .......... .......... .......... ....S..... ..........
+HM18_CAEEL  .......... ..FEANGGCL V...TERVSP SLSGASKRKS RP.....VK.
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  TATVATLPGL AAASPAGGLL KLPFAGLQAA TVLNS...VQ TQLQA.PAQA
+RPF1_HUMAN  TANLTNIQGL VAAAAAGGIM TLPLQNLQAT SSLNS...QL QQLQL.QLQQ
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  ...QQ..... ......PSQP SQQP....SV Q..AAIPQTQ LMLAGGQIT.
+PO22_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~V H..SSMGAPE .IRMSKP...
+PDM2_DROME  FMRHM..... ......SNSP TPPSPLRSLS DCGKSFEEEE .LELGENCEM
+PDM1_DROME  V..PV..... ......ISVP SPVPPMISPV L..APSGC.. ..........
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  .......... .......... .......... ........QD .IG.......
+POU1_XENLA  ...AK..... ......SG.. ......V... ....QSNRED .LSSG.....
+ZP50_BRARE  ...NK..... ......AS.. ......V... .....QSRED .LGNG.....
+PO31_HUMAN  .......... .......... .......... .......... ...AR.....
+PO34_HUMAN  ...QQ..... ......DVKP .......... ......GRED .LQLG.....
+ZP47_BRARE  .......... .........P A.....VQSP R.......DE .MHNSSN...
+PO3A_XENLA  .......... .........P T.....VQSS R.......DE .LHVSGT...
+PO32_HUMAN  .......... .........P S.....VVVQ Q..GG.RGDE .LHGPGALQ.
+PO33_HUMAN  ...QQ..... ......PPQP PPPPPQGPDV K..GGAGRDD .LHAGT....
+PO33_BRARE  ...QQ..... ......Q... ........DV K..SSSNRED .LHSGTAL..
+SGF3_BOMMO  .......... .......... .......... .......... ..........
+CF1A_DROME  .......... .........P W.....MQTH H......THH .LPAAAAVA.
+HM06_CAEEL  ...DQ..... ......NILP N.....YHLH H..HLINENE .MEAA.....
+POU1_DUGJA  .......... .......... .......... .....VNEST .I........
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  .......... .......... .......... ...GDFKTND .LQG......
+HM18_CAEEL  .......... .......... .......... ...RIITEDE VIPEEEVVE.
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  VLQPQ..... .......... ......M... .......... ..........
+RPF1_HUMAN  QQQQQQQQQP PPSTNQHPQP APQAPSQ... .......... ..........
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  GLTLTPAQQQ LLLQQAQA.. ..QLLAAAVQ HSAS...... ..........
+PO22_HUMAN  ...LEAEKQG LD..SPSEHT DTERNGPDTN HQNP...... ....QNKTSP
+PDM2_DROME  PQNLSSKRQA RELDSELENE VLDLAPP... .......... .........P
+PDM1_DROME  .......... .......... .......... .......... .....GSTTP
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  .......... ....DP.RPF RIHLSPPSFK VPL....... .....FSTD.
+POU1_XENLA  .......... .......... .FHHHRSHLV HQQS...... .......PSS
+ZP50_BRARE  .......... .......... .YH..RSHLV HQPT...... .....QNSHH
+PO31_HUMAN  .......... .......... ........LV HQ........ ....GAAHAG
+PO34_HUMAN  .......... .........A IIHHRSPHVA HHSP...... .....HTNHP
+ZP47_BRARE  .......... .........L QHQSRPPHLV HQTH...... ....GNHHDS
+PO3A_XENLA  .......... .........L QHQSRAPHLV HPAH...... ....GNHHGP
+PO32_HUMAN  QQHQQQQQQQ QQQQQQQQQQ QQQQRPPHLV HHAA...... ....NHHPGP
+PO33_HUMAN  .......... .........A LHHRGPPHLG PPPPP..... ....PHQGHP
+PO33_BRARE  .......... .......... ..HHRPSHLG .......... ....AHQSHQ
+SGF3_BOMMO  .......... .......... .......... .......... .........I
+CF1A_DROME  SAADTVKQ.E MSHLSQQTRI QQGMASP... .......... .........H
+HM06_CAEEL  .......... .......... .......... .......... ..........
+POU1_DUGJA  .......... ....SSNINL PFRLDAPS.. .......... ....LFNGLP
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  .......... .......... .......... .......... ....GDFTQP
+HM18_CAEEL  ......EEEE EKVEQPSE.. ..EVTCPAMQ .......... ..........
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  .......... .SALQAMQQT QTTAA..... ...TTASIVQ KASEPSVS..
+RPF1_HUMAN  .......... .SQQQPLQPT PPQQPPPASQ QPPAPTSQLQ QAPQPQQHQP
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                                400
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  Q......... .QHSAAGATI SASAATP... ....MTQIPL ..........
+PO22_HUMAN  F......... .SVSPTGPST KIKAEDP.SG DSAPAAPLPP QPA.Q.....
+PDM2_DROME  K......... .RLAEEQEE. EKVASV.... .......N.. ..........
+PDM1_DROME  N......... .SMAAAAAAA AAVASTMGSG IS.PLLALPG MSS.PQAQLA
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  .......... ..MQN..... .......... ....TAPVPT TTTASKMQPF
+POU1_XENLA  H......... .AWAQSG... .......... ....GHHLA. PMS.PSS...
+ZP50_BRARE  G......... .SWAPTT... .......... ....THHLS. PLS.PAS...
+PO31_HUMAN  A......... .AWAQGS... .......... ...TAHHLGP AMS.PSP...
+PO34_HUMAN  N......... .AWGASPAP. .......... .......NPS IT........
+ZP47_BRARE  R......... .AWRTTT... .......... ...A.AHIPS MAT.S.....
+PO3A_XENLA  G......... .AWRSTG... .......... ...S.THLSS MAS.S.....
+PO32_HUMAN  G......... .AWRTAA... .......... ...AAAHLPP SMG.A.....
+PO33_HUMAN  G......... .GWGAAAAAA AAAAAAA... ...AAAHLPS MAG.GQQ...
+PO33_BRARE  S......... .AWGGTT... .......... ....ASHIST ITG.GQQ...
+SGF3_BOMMO  G......... .GYHAAS... .......... .......... ....PRS...
+CF1A_DROME  A......... .AWHAPH... .......... ....AGHYAP T.........
+HM06_CAEEL  .......... .NY....... .......... ...AQVIKPT CEA.FQD...
+POU1_DUGJA  E......... .EWGPTDAEL STHSNVNYPG LTEATIDYKF CST.LNSYFD
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  K......... .HWYPFAAPE FTGQVAGATA ATQPANISPP IGE.TRE...
+HM18_CAEEL  .......... ..VDATDAIL ASLRQIANND LSEHCIRE.D EGN.TSAEVF
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  .......... .......... VATLQTAGLS I......... NP....AIIS
+RPF1_HUMAN  HSHSHNQNQP SPTQQSSSPP QKPSQSPGHG LPSPLTP..P NP....LQLV
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            401                                                450
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  .........S .QPIQIAQHL Q......... ........QL QQ....Q...
+PO22_HUMAN  .....PHLPQ AQLMLTGSQL AGDI...... .....Q.... ..........
+PDM2_DROME  ........PP .QPVA..... ...F...... .....APEEM HQALQL....
+PDM1_DROME  AAGLG....M NNPLLTGSLS PQDF...... .....A..QF HQLLQQRQVA
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  NNSLFGSFD. .DPILNARAA QVALADIDVK NV.....PQL TNPLMRPHD.
+POU1_XENLA  .......NSH .QPLI..... .......... .........Y SQ....S...
+ZP50_BRARE  .......NGH .QSLV..... .......... .........Y SQ....T...
+PO31_HUMAN  .GASGGHQPQ .PLGL..... .......... .........Y AQ....AAYP
+PO34_HUMAN  ......SSGQ .PLNV..... .......... .........Y SQ....P...
+ZP47_BRARE  ........NG .QSLI..... .......... .........Y SQ....P...
+PO3A_XENLA  ........NG .QGLL..... .......... .........Y SQ....P...
+PO32_HUMAN  ........SN .GGLL..... .......... .........Y SQ....P...
+PO33_HUMAN  .......PPP .QSLL..... .......... .........Y SQ....P...
+PO33_BRARE  .......QSQ .QSLI..... .......... .........Y SQ....P...
+SGF3_BOMMO  .......AEP .ADMK..... .......... .........Y QH....P...
+CF1A_DROME  ........GG .SPLQ..... .......... .........Y H.........
+HM06_CAEEL  .......WPH .TPML..... .......... .........Y QQ....P...
+POU1_DUGJA  TNQRFGNVPN .DTYLMANSM AANI...... .....ENNSW HN....SRYY
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~MAGHL ASDF...... .......... ..........
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~MAGH. .......... .......... ..........
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~MAGR. .......... .......... ..........
+POU2_BRARE  .......... ..QIKMPSEV KTEKDVEEYG NEENKPPSQY HLTAGTSSI.
+HM18_CAEEL  SNGNGEDME. .QAGLAGTDL LRRVADMLQG NHNGSLNSHF LQ........
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MPGIS SQILTNAQ..
+POUC_BRARE  AA....SLGA .QPQFISSLT TTP....IIT SAMSNVAGLT SQLITNAQ..
+RPF1_HUMAN  NNPLASQAAA .AAAAMSSIA SSQ....AFG NALSSLQGVT GQLVTNAQ..
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            451                                                500
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  ...NLNL.QQ FVLVHPT... .......... .......... ..........
+PO22_HUMAN  ..QLLQL.QQ LVLVPGH... .......... .......... ..........
+PDM2_DROME  ...QLHSYIE MVRQLAP... ....EAFPNP NL.ATQFLLQ NSLQALAQ..
+PDM1_DROME  LTQQFNSYME LLRSG.SLGL AQDDPALTAQ VA.AAQFLMQ SQLQALSQAS
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  MFSYSNYFSG IHDTSAA... .......... .......... ....TN....
+POU1_XENLA  ..SYTNL.NG MLGPQ..... .........A SS.LHHSMRD PLHDDPGV..
+ZP50_BRARE  ..GYTML.S. ....P..... .........Q PS.LHHGLRD PLHDDAGS..
+PO31_HUMAN  GGGGGGL.AG MLAAG..... ....GGGAGP GL..HHALHE DG........
+PO34_HUMAN  ...GFTV.SG MLEHGGL... .TPPPAAASA QS.LHPVLRE ..........
+ZP47_BRARE  ...SFSV.NG LI.PG..... .......SGQ GI.HHHSMRD AHEDHHSP..
+PO3A_XENLA  ...SFTV.NG MINPG..... .......SGQ GI.HHHGLRD SHDDHHGD..
+PO32_HUMAN  ...SFTV.NG MLGAG..... ......GQPA GL.HHHGLRD AHDEPHHA..
+PO33_HUMAN  ..GGFTV.NG MLSAPPGPGG GGGGAGGGAQ SL.VHPGLVR GDT.PELA..
+PO33_BRARE  ..GGFTV.NG MLNPP..... .........G SL.VHPGLMR GESPEMDH..
+SGF3_BOMMO  .......... .LHSG..... GSPSPGAPVI GN.PWTSLP. .PADPWAM..
+CF1A_DROME  ....HAM.NG MLHHPAH... .......... .......... ....AVAA..
+HM06_CAEEL  ..QLHFM.LP ...Q...... .......... .......... ...HDWAY..
+POU1_DUGJA  FDGNHPL.SQ WLPVPVN... .........C WS.NNNYIRD DFYDKSIQ..
+PO51_BOVIN  .......... .A.FSPPPGG GGDGPGGPEP GW.VDPRTWM SFQGPPGGSG
+SPM1_HUMAN  ..RPSNH... ...FCPLPGS GGGGPRGPMP LR.VDTLTWL STQAAPGRVM
+SPM1_MOUSE  ..RSSNV... ...F.PLSGN SGGG...... LE.VDTPTWL SSQAATSRLM
+POU2_BRARE  .PTGVNYYTP WNPN...... .......... ...FWPGLSQ ITAQAN....
+HM18_CAEEL  ..QQFAAFKE TVDPTPV.S. .TNG.....N GL.LTPITTQ ..........
+PO61_HUMAN  .GQVIGT.LP WVVNSASVAA .....PAPAQ SLQVQAVTPQ LLLNAQGQ..
+POUC_BRARE  .GQVIGT.LP LLVNPASLAG AAAASALPAQ GLQVQTVAPQ LLLNSQGQ..
+RPF1_HUMAN  .GQIIGT.IP LMPNPGPSSQ A....ASGTQ GLQVQPITPQ LLTNAQGQ..
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            501                                                550
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  .......... .......... ..TNLQPAQ. FIISQTPQGQ QG.LL.....
+PO22_HUMAN  .......... .......... ...HLQPPAQ FLLPQAQQSQ PG........
+PDM2_DROME  ..FQALQQMK QQQREDPL.. ......PSYS TPLAKSP... ..........
+PDM1_DROME  QQLQALQKQQ QRQVDEPLQL NHKMTQQPRS S....TPHS. .......IRS
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  .......... ......IY.. ...QGLPSSS EPFDA..... ..........
+POU1_XENLA  ..HD....TQ .......... ....VD.... .......... ..........
+ZP50_BRARE  ..HD....NQ .......... ....ME.... .......... ..........
+PO31_HUMAN  .......... .......... HEAQLEP..S PPPHLGAHGH AHGHAHAGGL
+PO34_HUMAN  .......... .......... .......... .......... ..........
+ZP47_BRARE  ..HL....SD H.....GH.. ......PP.. ....SQHQH. ..........
+PO3A_XENLA  ..HG....HQ Q.....VS.. ......QA.. ....QQQHS. ..........
+PO32_HUMAN  ..DH....HP H.....PH.. SHPHQQPPP. PPPPQGPPG. ..........
+PO33_HUMAN  ..EH....HH H.....HH.. HHAHPHPPH. PHHAQGPPHH GGGG......
+PO33_BRARE  ..HH....HH H.....HH.. QQQH...... PHHHHHQHH. ..........
+SGF3_BOMMO  ..HQ....HH A.....HA.. HQPDVKPPPA PHDHRHLQHA AHGWHAP...
+CF1A_DROME  ..AH....HQ S.....VA.. ..PLHHTLRG ESPQLHIHHH MG........
+HM06_CAEEL  ..PH....LA .......... ...QSLP... PPHHLTPST. AAVAAATIAS
+POU1_DUGJA  ..EEE...FK SR...SVLQT NEKNSTNVSS DINHYKPLIT DE......NE
+PO51_BOVIN  IGPG...... ......VVPG AEVWGLPPCP PP..YDL... CGGMA.....
+SPM1_HUMAN  VWPA...... ..VRPGICPG PDVWRIPLG. .......... ..........
+SPM1_MOUSE  VRPS...... ..MGPGICPG PEVWGVPLG. .......... ..........
+POU2_BRARE  .......... .......... ...ISQAPP. TPSA...... ..........
+HM18_CAEEL  .......... .......... ....LSPLF. .......... ........TS
+PO61_HUMAN  .......... ..VIATL... ...ASSPLPP PVA....... .........V
+POUC_BRARE  .......... ..IIATI... ...GNGPTAA IPS....... .........T
+RPF1_HUMAN  .......... ..IIATV... ...IGNQILP VIN....... .........T
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            551                                                600
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  ......QAQN L......... .LTQLPQQSQ .........A NLLQSQPSIT
+PO22_HUMAN  .......... ..LL...PTP NLFQLPQQTQ .........G ALLTSQPRAG
+PDM2_DROME  ...LRSPSLS PVPR...HSK SQQRTPPNSM TANSLGMSSA VMTPNTPSMQ
+PDM1_DROME  PIAIRSPASS PQQLHHHHHH PLQITPPSSA A..SLKLS.G MLTPSTPTSG
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  ..SVVVPTSS D......... .......... .........D QMTPLQQVMA
+POU1_XENLA  .......... .......... .......... .......... ..........
+ZP50_BRARE  .......... .......... .......... .......... ..........
+PO31_HUMAN  H......... .......... .......... .......... ..........
+PO34_HUMAN  .......... .......... .......... .......... ..........
+ZP47_BRARE  .......... .......... .......... .......... ..........
+PO3A_XENLA  .......... .......... .......... .......... ..........
+PO32_HUMAN  .......... .......... .......... .......... ..........
+PO33_HUMAN  .......... ..G....... .......... .......... ..........
+PO33_BRARE  .......... .......... .......... .......... ..........
+SGF3_BOMMO  ...VVSPHY. ..GA...ARP SHCM...... .......... ..........
+CF1A_DROME  .......... .......... .......... .......... ..........
+HM06_CAEEL  QSSIINQTS. ..VV...TST PSCQIK.QE. .......... .V..ERPEII
+POU1_DUGJA  NLKMTKPTHN LLNN...DSI NLCRFPQNE. .......... .I..IMPDLI
+PO51_BOVIN  ...YCAPQ.. .........V GVGPVPP... .........G GLETPQPEGE
+SPM1_HUMAN  .......... .......... ...PLP.... .....HEFRG WIAPCRPRLG
+SPM1_MOUSE  .......... .......... ...SSP.... .....YEFRG GIAPYR....
+POU2_BRARE  .......... .......SSP SLSPSPPGNG .FGSPGFFSG GTAQNIPSAQ
+HM18_CAEEL  TDAFNSPEKL LQAI...MTP SLGFLGANGL GASNSGLLSS PLIAPSPTLL
+PO61_HUMAN  R....KPSTP ESPA.KSEVQ PIQPTPTVPQ ....PAVV.I ..ASPAP.A.
+POUC_BRARE  ASVLPKATVP LTLT.KTT.. TQGPVGKVA. ....PSKV.I ..IAPQP.SV
+RPF1_HUMAN  QGITLSPIKP GQQL.HQP.. SQTSVGQAAS ....QGNL.L HLAHSQASMS
+1a04_A      ~~~~~EPATI .......... .......... .......... LLIDDHPMLR
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            601                                                650
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  L.ASQP.ATP TRTIAATPIQ PLPQS..Q.. .......... STPKRI....
+PO22_HUMAN  L.PTQAVTRP T...LPDPHL ....SHPQ.. .......... PPKCLE....
+PDM2_DROME  QQPQLQQSTP K......PTS ....GLTV.. .......... ASAMAK....
+PDM1_DROME  TQMSQGTTTP Q......PK. .T..VASA.. .......... AAARAA....
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  MQQSYGAPPP FQYNMTHPFS TT....SI.. .A........ SSNNLA....
+POU1_XENLA  .......... .......... ....SP.P.. .......... QHLGHH....
+ZP50_BRARE  .......... .......... ....SP.Q.. .......... QPFSHH....
+PO31_HUMAN  .......... ......AAAA HLHPGAGG.. .......... G.GSSV....
+PO34_HUMAN  .......... .......... ..PPDHGE.. .......... LGSHHC....
+ZP47_BRARE  .......... .......... .......Q.. .......... SHQSH.....
+PO3A_XENLA  .......... .......... .......Q.. .......... LQGGH.....
+PO32_HUMAN  .......... .......... .......H.. .......... PGAHH.....
+PO33_HUMAN  .......... .......... ....GAGP.. .......... GLNSH.....
+PO33_BRARE  .......... .......... .......A.. .......... GVNSH.....
+SGF3_BOMMO  ....EDTQCP C.TNTICSET SSPRDPLH.. .......... HHAME.....
+CF1A_DROME  .......... .......... .......G.. .......... GDRDA.....
+HM06_CAEEL  Q.RLMPPWPP A.YQFSCDDS GSVSGAGG.. .......... PHQPLS....
+POU1_DUGJA  N.APSPTLTN NNLFYSC... .......... .......... ...GDH....
+PO51_BOVIN  AGAGVESNSE GASPDPCAAP ...AGA.P.. .......... KLDKEK....
+SPM1_HUMAN  ASEA.GDWLR RPSEGALPG. .....PYI.. .......... ALRSIP....
+SPM1_MOUSE  ACEA.RAWSQ SSSEDTCPG. .....PYI.. .......... ALRYMP....
+POU2_BRARE  A......... .........Q .SAPRSSG.. .......... SSSGGC....
+HM18_CAEEL  QSLMNTPTQP TASLTPKKAE NRPPVVSQTL KASKRRLFDD TSRIEA....
+PO61_HUMAN  AK..PS.A.S APIPITCSE. ..TPTVSQ.. .......... LVSKPH....
+POUC_BRARE  VKPVTS.L.T AAGVIACGE. ..MPTVGQ.. .......... LVNKPS....
+RPF1_HUMAN  QSPVRQ.ASS SSSSSSSSS. ..ALSVGQ.. .......... LVSNPQ....
+1a04_A      TG.VKQ.... ..LISMAPD. ..ITVVGE.. .......... ASNGEQGIEL
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            651                                                700
+1au7_A      ~~~~~~~~~~ ~~~~~~GMRA LEQFAN.... EFKVRRIKLG YTQ..TNVGE
+PO21_CHICK  DTPSLEE... ....PSDLEE LEQFAK.... TFKQRRIKLG FTQ..GDVGL
+PO22_HUMAN  PPSHPEE... ....PSDLEE LEQFAR.... TFKQRRIKLG FTQ..GDVGL
+PDM2_DROME  LEQSPEE... ....TTDLEE LEQFAK.... TFKQRRIKLG FTQ..GDVGL
+PDM1_DROME  GEPSPEE... ....TTDLEE LEQFAK.... TFKQRRIKLG FTQ..GDVGL
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ VTQ..ADVGS
+UN86_CAEEL  RYPIAPPTSD M...DTDPRQ LETFAE.... HFKQRRIKLG VTQ..ADVGK
+POU1_XENLA  QDHSDED... ....APSSDD LEQFAK.... QFKQRRIKLG FTQ..ADVGL
+ZP50_BRARE  QDHSDED... ....APSSDD LEQFAK.... QFKQRRIKLG FTQ..ADVGL
+PO31_HUMAN  GEHSDED... ....APSSDD LEQFAK.... QFKQRRIKLG FTQ..ADVGL
+PO34_HUMAN  QDHSDEE... ....TPTSDE LEQFAK.... QFKQRRIKLG FTQ..ADVGL
+ZP47_BRARE  HDHSDED... ....TPTSDD LEQFAK.... QFKQRRIKLG FTQ..ADVGL
+PO3A_XENLA  QDHSDED... ....TPTSDD LEQFAK.... QFKQRRIKLG FTQ..ADVGL
+PO32_HUMAN  DPHSDED... ....TPTSDD LEQFAK.... QFKQRRIKLG FTQ..ADVGL
+PO33_HUMAN  DPHSDED... ....TPTSDD LEQFAK.... QFKQRRIKLG FTQ..ADVGL
+PO33_BRARE  DSHSDED... ....TPTSDD LEQFAK.... QFKQRRIKLG FTQ..ADVGL
+SGF3_BOMMO  RDQPEED... ....TPTSDD LEAFAK.... QFKQRRIKLG FTQ..ADVGL
+CF1A_DROME  ISGGEED... ....TPTSDD LEAFAK.... QFKQRRIKLG FTQ..ADVGL
+HM06_CAEEL  DISDDSE... ....QTCPDD LEGFAK.... QFKQRRIKLG YTQ..ADVGV
+POU1_DUGJA  RSGKTED... ....LPSSDD LEQFAK.... MFKQRRIKLG YTQ..ADVGL
+PO51_BOVIN  LEPNPEESQD I...KALQKD LEQFAK.... LLKQKRITLG YTQ..ADVGL
+SPM1_HUMAN  KLPPPE...D I...SGILKE LQQLAK.... ELRQKRLSLG YSQ..ADVGI
+SPM1_MOUSE  NLALPE...D V...SAIQKE MEQLAK.... ELRQKRMTLG YSQ..ADVGF
+POU2_BRARE  SNSEEEE... ....TLTTED LEQFAK.... ELKHKRITLG FTQ..ADVGL
+HM18_CAEEL  ASMSGDD... ....RIDMNE LEAFAQ.... TFKKQRIKFG FTQ..GDVGV
+PO61_HUMAN  TPSLDED... ....GINLEE IREFAK.... NFKIRRLSLG LTQ..TQVGQ
+POUC_BRARE  A.VKDEE... ....AINLEE IREFAK.... NFKIRRLSLG LTQ..TQVGQ
+RPF1_HUMAN  TAAGEVD... ....GVNLEE IREFAK.... AFKIRRLSLG LTQ..TQVGQ
+1a04_A      AESLDPDLIL LDLNMPGMNG LETLDKLREK SLSGRIVVFS VSNHEEDVVT
+1neq_       ~~CSNEK... ....ARDW.H RADVIA.... GLKKRKLSLS ALS..RQFGY
+
+            701                                                750
+1au7_A      ALAAVHG... SEFSQTTICR .......... .......... ..........
+PO21_CHICK  AMGKLYG... NDFSQTTISR .......... .......... ..........
+PO22_HUMAN  AMGKLYG... NDFSQTTISR .......... .......... ..........
+PDM2_DROME  AMGKLYG... NDFSQTTISR .......... .......... ..........
+PDM1_DROME  AMGKLYG... NDFSQTTISR .......... .......... ..........
+BR31_BRARE  ALANLKIPGV GSLSQSTICR .......... .......... ..........
+UN86_CAEEL  ALAHLKMPGV GSLSQSTICR .......... .......... ..........
+POU1_XENLA  ALGTLYG... NVFSQTTICR .......... .......... ..........
+ZP50_BRARE  ALGTLYG... NVFSQTTICR .......... .......... ..........
+PO31_HUMAN  ALGTLYG... NVFSQTTICR .......... .......... ..........
+PO34_HUMAN  ALGTLYG... NVFSQTTICR .......... .......... ..........
+ZP47_BRARE  ALGTLYG... NVFSQTTICR .......... .......... ..........
+PO3A_XENLA  ALGTLYG... NVFSQTTICR .......... .......... ..........
+PO32_HUMAN  ALGTLYG... NVFSQTTICR .......... .......... ..........
+PO33_HUMAN  ALGTLYG... NVFSQTTICR .......... .......... ..........
+PO33_BRARE  ALGTLYG... NVFSQTTICR .......... .......... ..........
+SGF3_BOMMO  ALGTLYG... NVFSQTTICR .......... .......... ..........
+CF1A_DROME  ALGTLYG... NVFSQTTICR .......... .......... ..........
+HM06_CAEEL  ALGTLYG... NIFSQTTICR .......... .......... ..........
+POU1_DUGJA  ALGTLYG... NVFSQTTICR .......... .......... ..........
+PO51_BOVIN  TLGVLFG... KVFSQTTICR .......... .......... ..........
+SPM1_HUMAN  AVGALFG... KVLSQTTICR .......... .......... ..........
+SPM1_MOUSE  AVGAMFG... KVLSQTTICR .......... .......... ..........
+POU2_BRARE  ALGNLYG... KMFSQTTICR .......... .......... ..........
+HM18_CAEEL  ALGKRYG... TDFSQTTISR .......... .......... ..........
+PO61_HUMAN  ALTATEG... PAYSQSAICR .......... .......... ..........
+POUC_BRARE  ALTATEG... PAYSQSAICR .......... .......... ..........
+RPF1_HUMAN  ALSATEG... PAYSQSAICR HTILRSHFFL PQEAQENTIA SSLTAKLNPG
+1a04_A      ALK..RG..A DG........ .......YLL .......... ....KDMEPE
+1neq_       APT....... .......... .......... .......... ..........
+
+            751                                                800
+1au7_A      ......FENL QLSFKNACKL KAILSKWLEE AEQ....... ..........
+PO21_CHICK  ......FEAL NLSFKNMCKL KPLLEKWLND AENLSSDST. .LS.......
+PO22_HUMAN  ......FEAL NLSFKNMCKL KPLLEKWLND AETMSVDSS. .LP.......
+PDM2_DROME  ......FEAL NLSFKNMCKL KPLLQKWLED ADSTVAKSGG GVF.......
+PDM1_DROME  ......FEAL NLSFKNMCKL KPLLQKWLDD ADRTIQATGG .VF.......
+BR31_BRARE  ......FESL TLSHNNMIAL KPVLQAWLEE AEAAYREKNG .KP.......
+UN86_CAEEL  ......FESL TLSHNNMVAL KPILHSWLEK AEEAMKQKDT .IG.......
+POU1_XENLA  ......FEAL QLSFKNMCKL KPLLNKWLEE TDSTT..... ..G.......
+ZP50_BRARE  ......FEAL QLSFKNMCKL KPLLNKWLEE TDSNT..... ..G.......
+PO31_HUMAN  ......FEAL QLSFKNMCKL KPLLNKWLEE TDSSS..... ..G.......
+PO34_HUMAN  ......FEAL QLSFKNMCKL KPLLNKWLEE ADSST..... ..G.......
+ZP47_BRARE  ......FEAL QLSFKNMCKL KPLLNKWLEE ADSTS..... ..G.......
+PO3A_XENLA  ......FEAL QLSFKNMCKL KPLLNKWLEE ADSSS..... ..G.......
+PO32_HUMAN  ......FEAL QLSFKNMCKL KPLLNKWLEE ADSSS..... ..G.......
+PO33_HUMAN  ......FEAL QLSFKNMCKL KPLLNKWLEE ADSST..... ..G.......
+PO33_BRARE  ......FEAL QLSFKNMCKL KPLLNKWLEE ADSTT..... ..G.......
+SGF3_BOMMO  ......FEAL QLSFKNMCKL KPLLQKWLEE ADSTT..... ..G.......
+CF1A_DROME  ......FEAL QLSFKNMCKL KPLLQKWLEE ADSTT..... ..G.......
+HM06_CAEEL  ......FEAL QLSFKNMCKL KPLLFKWLEE ADSTT..... ..G.......
+POU1_DUGJA  ......FEAL QLSFKNMCKL RPLLQKWLHE ADSSS..... ..E.......
+PO51_BOVIN  ......FEAL QLSFKNMCKL RPLLQKWVEE ADNNE..... ..........
+SPM1_HUMAN  ......FEAQ QLSVANMWKL RPLLKKWLKE VEAENLLG.. ..........
+SPM1_MOUSE  ......FEAQ QLSLANMWKL RPLLKMWLEE VDEKNLLG.. ..........
+POU2_BRARE  ......FEAL QLSFKNMCKL KPLLQRWLNE AENSE..... ..........
+HM18_CAEEL  ......FEAL NLSFKNMCKL RPLLKEWLAD VEMAIEGGAT .VTDLIDKKT
+PO61_HUMAN  ......FEKL DITPKSAQKL KPVLEKWLNE AELRNQEGQQ NLM.......
+POUC_BRARE  ......FEKL DITPKSAQKL KPVLERWLAE AELWNQKGQQ NLM.......
+RPF1_HUMAN  LLYPARFEKL DITPKSAQKI KPVLERWMAE AEARHRAGMQ NLT.......
+1a04_A      DLLKALHQAA AGEMVLSEAL TPVLAASLER DVNQLTPRER DIL.......
+1neq_       .......... .......... .......... .......... ..........
+
+            801                                                850
+1au7_A      .......... .......... .......... .......... ..KRRTTISI
+PO21_CHICK  .......... .......... .SPSALNSPG .QGIE.GVNR RRKKRTSIET
+PO22_HUMAN  .......... .......... .SPNQLSSPS .LGFDGLPGR RRKKRTSIET
+PDM2_DROME  .......... .......... .NINTMTSTL SSTPESILGR RRKKRTSIET
+PDM1_DROME  .......... .......... .DPAALQATV ..STPEIIGR RRKKRTSIET
+BR31_BRARE  .......... .......... .......... ...DLFNGNE RKRKRTSIAA
+UN86_CAEEL  .......... .......... .D...IN... ...GILPNTD KKRKRTSIAA
+POU1_XENLA  .......... .......... .SPTNLD..K ...IA.AQGR KRKKRTSIEV
+ZP50_BRARE  .......... .......... .SPTNLD..K ...IA.AQGR KRKKRTSIEV
+PO31_HUMAN  .......... .......... .SPTNLD..K ...IA.AQGR KRKKRTSIEV
+PO34_HUMAN  .......... .......... .SPTSID..K ...IA.AQGR KRKKRTSIEV
+ZP47_BRARE  .......... .......... .SPTSLD..K ...IA.AQGR KRKKRTSIEV
+PO3A_XENLA  .......... .......... .SPTSID..K ...IA.AQGR KRKKRTSIEV
+PO32_HUMAN  .......... .......... .SPTSID..K ...IA.AQGR KRKKRTSIEV
+PO33_HUMAN  .......... .......... .SPTSID..K ...IA.AQGR KRKKRTSIEV
+PO33_BRARE  .......... .......... .SPTSID..K ...IA.AQGR KRKKRTSIEV
+SGF3_BOMMO  .......... .......... .SPTSID..K ...IA.AQGR KRKKRTSIEV
+CF1A_DROME  .......... .......... .SPTSID..K ...IA.AQGR KRKKRTSIEV
+HM06_CAEEL  .......... .......... .SPNSTF..E .KMTG.QAGR KRKKRTSIEV
+POU1_DUGJA  .......... .......... .SPTNFD..K ...IS.AQSR KRKKRTSIEA
+PO51_BOVIN  .......... .......... .NLQEIC..K ...AETLVQA RKRKRTSIEN
+SPM1_HUMAN  .......... .......... .....LCKME ..MI..LQQS GKWRRASRER
+SPM1_MOUSE  .......... .......... .....ICRME ..MI..LEQA RKRRRASRER
+POU2_BRARE  .......... .......... .NPQDMYKIE ...RVFVDTR KRKRRTSLEG
+HM18_CAEEL  IHNGNHHTIH HVDIHETSIS NSISSVTASS .LLSREQHVK RRRKRTNLDM
+PO61_HUMAN  .......... .......... .........E ..FVGGEPSK KRKRRTSFTP
+POUC_BRARE  .......... .......... .........E ..FVGGEPSK KRKRRTSFTP
+RPF1_HUMAN  .......... .......... .........E ..FIGSEPSK KRKRRTSFTP
+1a04_A      .......... .......... .........K .LIAQGLPNK MIARRLDITE
+1neq_       .......... .......... .......... .......... ..........
+
+            851                                                900
+1au7_A      AAKDALERHF GEHSKPSSQE IMRMAEELNL E.KEVVRVWF CNRRQREKRV
+PO21_CHICK  NIRVALEKSF LENQKPTSEE ITMIADQLNM E.KEVIRVWF CNRRQKEKRI
+PO22_HUMAN  NVRFALEKSF LANQKPTSEE ILLIAEQLHM E.KEVIRVWF CNRRQKEKRI
+PDM2_DROME  TVRTTLEKAF LMNCKPTSEE ISQLSERLNM D.KEVIRVWF CNRRQKEKRI
+PDM1_DROME  TIRGALEKAF LANQKPTSEE ITQLADRLSM E.KEVVRVWF CNRRQKEKRI
+BR31_BRARE  PEKRSLEAYF AIQPRPSSEK IARIAEKLDL K.KNVV~~~~ ~~~~~~~~~~
+UN86_CAEEL  PEKRELEQFF KQQPRPSGER IASIADRLDL K.KNVVRVWF CNQRQKQKRD
+POU1_XENLA  GVKGALENHF LKCPKPSAHE ITSLADSLQL E.KEVVRVWF CNRRQKEKRM
+ZP50_BRARE  GVKGALENHF LKCPKPSAHE ITTLAGTLQL E.KEVVRVWF CNRRQKEKRM
+PO31_HUMAN  GVKGALESHF LKCPKPSAHE ITGLADSLQL E.KEVVRVWF CNRRQKEKRM
+PO34_HUMAN  SVKGVLETHF LKCPKPAAQE ISSLADSLQL E.KEVVRVWF CNRRQKEKRM
+ZP47_BRARE  SVKGALESHF LKCPKPAASE ITSLADSLQL E.KEVVRVWF CNRRQKEKRM
+PO3A_XENLA  SVKGALESHF LKCPKPSAPE ITSLADSLQL E.KEVVRVWC CNRRQKEKRM
+PO32_HUMAN  SVKGALESHF LKCPKPSAQE ITSLADSLQL E.KEVVRVWF CNRRQKEKRM
+PO33_HUMAN  SVKGALESHF LKCPKPSAQE ITNLADSLQL E.KEVVRVWF CNRRQKEKRM
+PO33_BRARE  SVKGALESHF LKCPKPSAQE ITSLADNLQL E.KEVVRVWF CNRRQKEKRM
+SGF3_BOMMO  SVKGALEQHF HKQPKPSAQE ITSLADSLQL E.KEVVRVWF CNRRQKEKRM
+CF1A_DROME  SVKGALEQHF HKQPKPSAQE ITSLADSLQL E.KEVVRVWF CNRRQKEKRM
+HM06_CAEEL  NVKSRLEFHF QSNQKPNAQE ITQVAMELQL E.KEVVRVWF CNRRQKEKRI
+POU1_DUGJA  NVKSILESSF MKLSKPSAQD ISSLAEKLSL E.KEVVRVWF CNRRQKEKRI
+PO51_BOVIN  RVRGNLESMF LQCPKPTLQQ ISHIAQQLGL E.KDVVRVWF CNRRQKGKRS
+SPM1_HUMAN  RIGNSLEKFF QRCPKPTPQQ ISHIAGCLQL Q.KDVVRVWF YNRSKMGSRP
+SPM1_MOUSE  RIGSNLEKLF LQCPEPTPQQ ISYIAGRLRL Q.KDLVQVWF SNRSQMGSWP
+POU2_BRARE  TVRSALESYF VKCPKPNTLE ITHISDDLGL E.RDVVRVWF CNRRQKGKRL
+HM18_CAEEL  NQRNALDTFF ALNPRPDHDK MTDIANSLEL D.RDVVRVWF CNRRQKMRRV
+PO61_HUMAN  QAIEALNAYF EKNPLPTGQE ITEIAKELNY D.REVVRVWF CNRRQTLKNT
+POUC_BRARE  QAIEVLNTYF EKNSLPTGQE ITEIAKELNY D.REVVRVWF CNRRQTLKNT
+RPF1_HUMAN  QALEILNAHF EKNTHPSGQE MTEIAEKLNY D.REVVRVWF CNKRQALKNT
+1a04_A      STVKVHV... .......... .KHMLKKMKL KSRVEAAVWV HQERIF~~~~
+1neq_       TLANALERHW P.....KGEQ I..IANALET K.PEV..IWP S.RYQAGE~~
+
+            901                                                950
+1au7_A      K~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  NPPSSGGTSS .SP.I..... ..KAI.FPSP .TSL...... VATTPSLVTS
+PO22_HUMAN  NPCSAAPM.L PSP.GKPAS. ..YSPHMVTP .QGG...... AGTLP.LSQA
+PDM2_DROME  NPSLDLDSPT GTP.L..... ..SSHA.... .......... .FGYPPQALN
+PDM1_DROME  NPSLDSPTGA DDD.E..SS. ..YMMH~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  FRSQFRARSA AAV.MGP... ..RVMPVLNG NNSNNNLKQG QTTYNGLPG.
+POU1_XENLA  TPAGVPHP.P MED.V..... ..YSQ.AETP .......... ..........
+ZP50_BRARE  TPVGVPHP.T MED.V..... ..YSQ.AETP .......... ..........
+PO31_HUMAN  TPAAGAGHPP MDD.V..... ..YAP.GELG .PGG...... GGA.......
+PO34_HUMAN  TPPGDQQP.. .HE.V..... ..YSH.TVKT .DTS...... ........CH
+ZP47_BRARE  TPPGGPLP.G TED.V..... ..YG...... .......... ..........
+PO3A_XENLA  TPPGGTIP.G AED.I..... ..YGA.S... .......... ..........
+PO32_HUMAN  TPPGGTLP.G AED.V..... ..YGG.S... .......... ..........
+PO33_HUMAN  TPPGIQQQ.T PDD.V..... ..YSQ.VGTV .SA....... ..........
+PO33_BRARE  TPPGVPQ..T PED.V..... ..YTH.AGNG .SFV...... ........VD
+SGF3_BOMMO  TPPNTLGG.E M......... ..MEG.MGHA .HYG...... ........HG
+CF1A_DROME  TPPNTLGG.D MMD.G..... ..MP....PG .HMH...... HGGYH..PHH
+HM06_CAEEL  APNQYDAP.H PMA.L..... ..NNG.YPMT .ADL...... .FPYQAVVNH
+POU1_DUGJA  TPSFDVNEQF DNE.V..... ..SST..... .......... .MPYSTLNDD
+PO51_BOVIN  SSDYSQREDF EAA.GSPFTG GPVSSPLAPG PHFG...... TPGYGGPHFT
+SPM1_HUMAN  TNDASPREIV GTA.GPPCPG APVCFHLGLG LPVD...... IPHYTRLYSA
+SPM1_MOUSE  TNDTSRREDV GAT.GSPFPG PPVCFPMAPG LHFD...... FTHYEGSCLT
+POU2_BRARE  ALPFDDECVE A.Q.Y..... ..YEQSPPPP PHMGGTV.LP GQGYPGPAHP
+HM18_CAEEL  DEPIEGEMVT PSV.S.P... ........VF PHFS...... ........S.
+PO61_HUMAN  SKLNVFQIP~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  SKINVFQSQ~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RPF1_HUMAN  IKRLKQHEPA TAVPLEPLT. ....D..... .SLE...... ........EN
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            951                                               1000
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  SAATTLTVNP VLPLTSPAVT SLS.VTGTTE T......... TSNNTATV..
+PO22_HUMAN  .......... .SSSLSTTVT TLSSAVGTLH PSRTAGGGGG GGGAAPPLNS
+PDM2_DROME  .......MS. .......... .......... HMQMEGGSGS FCGSSISSGE
+PDM1_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  .....FFD~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_XENLA  .......... .......... .......... .......... ..........
+ZP50_BRARE  .......... .......... .......... .......... ..........
+PO31_HUMAN  ........SP ...PSA.... .......... .......... ..........
+PO34_HUMAN  ....DL~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ZP47_BRARE  .......... ...D...... .......... .......... ..........
+PO3A_XENLA  .......... ..RD...... .......... .......... ..........
+PO32_HUMAN  .......... ..RD...... .......... .......... ..........
+PO33_HUMAN  .......... ..DT...... .......... .......... ..........
+PO33_BRARE  ....YLKGAS LKDE...... .......... .......... ..........
+SGF3_BOMMO  ....DVHGSP LQHS...... .......... .......... ..........
+CF1A_DROME  ....DMHGSP MGTHSH.... .......... .......... ..........
+HM06_CAEEL  ....YTQQSP RQQ~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_DUGJA  .....RNEKT IKNSFENHEK LIK.QTGETN H......... EQNNNSSVKR
+PO51_BOVIN  ....TLYSS. .......... .VPFPEGEVF PSV....... ......SVTA
+SPM1_HUMAN  ....G..... ........VA HSSAPATTLG L......... ........LR
+SPM1_MOUSE  ....PLYSST PF...PVRGA LLSAPTTTLG L......... ........PR
+POU2_BRARE  GGAPALYMPS LHR....... .......... .......... ..........
+HM18_CAEEL  .......MSA LEQI.QEAAR LASCQAS... NDDSDGTSG. ..........
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RPF1_HUMAN  .........S ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            1001                                              1050
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  ...ISTAPPA SSAVTSPSLS PSPSASASIS EASSASETST TQTTSTPLSS
+PO22_HUMAN  IPSVTPPPPA TT..NSTN.. .......... .......... ........PS
+PDM2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM1_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_XENLA  .......PLH HT.LQTSV.. .......... .......... ........Q~
+ZP50_BRARE  .......PLH HT.LQSPV.. .......... .......... ........Q~
+PO31_HUMAN  ....PPPPPP AA.LHHHH.. .......... .......... ..........
+PO34_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ZP47_BRARE  ......TPPH HG.VQTPV.. .......... .......... ..........
+PO3A_XENLA  ......TPPH LG.VQTSV.. .......... .......... ..........
+PO32_HUMAN  ......TPPH HG.VQTPV.. .......... .......... ..........
+PO33_HUMAN  ......PPPH HG.LQTSV.. .......... .......... ..........
+PO33_BRARE  ......PDSN HN.VTTAS.. .......... .......... ..........
+SGF3_BOMMO  ......PP.G LS.PQHGL.. .......... .......... ..........
+CF1A_DROME  ....SHSPPM LS.PQNMQ.. .......... .......... ........SS
+HM06_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_DUGJA  LK.IRKEPDQ IS.INDENTS CRAESSGIVP .......... ....DTHYRQ
+PO51_BOVIN  L.....GSPM HA.....N~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  F~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  L......... .S........ .....S~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  .......... .......... .......... .......... ..........
+HM18_CAEEL  ......SPDA PS.....NDG CSDL~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RPF1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            1051                                              1100
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  PLGTSQVMVT .ASGLQTAAA AALQGAAQLP ANASLAAMAA AAGLNPGLMA
+PO22_HUMAN  PQGSHSAIGL SGLNPSTGPG LWWNPAPYQP ~~~~~~~~~~ ~~~~~~~~~~
+PDM2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM1_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ZP50_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO31_HUMAN  ...HHTLPGS VQ~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO34_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ZP47_BRARE  Q~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO3A_XENLA  Q~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO32_HUMAN  Q~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO33_HUMAN  Q~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO33_BRARE  SYGQEILVH~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SGF3_BOMMO  PQGAHTLAAH ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CF1A_DROME  AVAAHQLAAH ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM06_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_DUGJA  ECDNHSICGY NIHDIHESSV LMSDPVSFYP RSFFMKNNIY SNGTTPTLFD
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  .......... .......... .......... ......PDVF KNGFHPGLVG
+HM18_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RPF1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            1101                                              1150
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  SSQFAAGGAL LSLNPGTLGG ALSPALMSNS TLATIQALAS SGSLPITSLD
+PO22_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM1_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ZP50_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO31_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO34_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ZP47_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO3A_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO32_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO33_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO33_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SGF3_BOMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CF1A_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM06_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_DUGJA  HSQMI~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  HLNS~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM18_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RPF1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            1151                                              1200
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO21_CHICK  ASGNLVFANA GGTPNIVTAP LFLNPQNLSL LTSNPVSLVS AAAASAGASG
+PO22_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PDM1_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+UN86_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ZP50_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO31_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO34_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+ZP47_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO3A_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO32_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO33_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO33_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SGF3_BOMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CF1A_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM06_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU1_DUGJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POU2_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HM18_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+POUC_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+RPF1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            1201                                  1239
+1au7_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PO21_CHICK  PVASLHATST SAESIQNSLL TVASASGATS TTTTASKAQ
+PO22_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PDM2_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PDM1_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+BR31_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+UN86_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+POU1_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+ZP50_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PO31_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PO34_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+ZP47_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PO3A_XENLA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PO32_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PO33_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PO33_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+SGF3_BOMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+CF1A_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+HM06_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+POU1_DUGJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PO51_BOVIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+SPM1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+SPM1_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+POU2_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+HM18_CAEEL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+PO61_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+POUC_BRARE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+RPF1_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+1a04_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~
+1neq_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~

@@ -1,0 +1,52 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 255  Type: P  December 21, 2021 20:30  Check: 9014  ..
+
+ Name: 1csp        Len:    255  Check: 4632  Weight: -1.00
+ Name: CSPD_HAEIN  Len:    255  Check: 2079  Weight: -1.00
+ Name: GR2B_ARATH  Len:    255  Check: 8561  Weight: -1.00
+ Name: CSPF_ECOLI  Len:    255  Check: 9227  Weight: -1.00
+ Name: PIPI_HUMAN  Len:    255  Check: 4515  Weight: -1.00
+
+//
+
+            1                                                   50
+1csp        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CSPD_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GR2B_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CSPF_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIPI_HUMAN  MTSESTSPPV VPPLHSPKSP VWPTFPFHRE GSRVWERGGV PPRDLPSPLP
+
+            51                                                 100
+1csp        ~~~~~~~~~~ ~~~~~~~MLE GKVKWFNSEK GFGFIEVEGQ D.DVFVHFSA
+CSPD_HAEIN  ~~~~~~~~~~ ~~~~~~~MEI GIVKWFNNAK GFGFISAEGV DADIFAHYSV
+GR2B_ARATH  ~~~~MSGGGD VNMSGGDRRK GTVKWFDTQK GFGFITPSDG GDDLFVHQSS
+CSPF_ECOLI  ~~~~~~~~~~ ~~~~MSRKMT GIVKTFDGKS GKGLITPSDG RIDVQLHVSA
+PIPI_HUMAN  TKRTRTYSAT ARASAGPVFK GVCKQFSRSQ GHGFITPENG SEDIFVHVSD
+
+            101                                                150
+1csp        IQGEGFKTLE EGQAVSFEIV EGNRGPQAAN VTKEA~~~~~ ~~~~~~~~~~
+CSPD_HAEIN  IEMDGYRSLK AGQKVQFEVL HSDKGSHATK IIPIADTQE~ ~~~~~~~~~~
+GR2B_ARATH  IRSEGFRSLA AEESVEFDVE VDNSGRPKAI EVSGPDGAPV QGNSGGGGSS
+CSPF_ECOLI  LNLRDAEEIT TGLRVEFCRI NGLRGPSAAN VYLS~~~~~~ ~~~~~~~~~~
+PIPI_HUMAN  IEGEYVPVEG DEVTYKMCPI PPKNQKFQAV EVVLTQLAPH TPHETWSGQV
+
+            151                                                200
+1csp        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CSPD_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GR2B_ARATH  GGRGGFGGGG GRGGGRGGGS YGGGYGGRGS GGRGGGGGDN SCFKCGEPGH
+CSPF_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIPI_HUMAN  VGS~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1csp        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CSPD_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GR2B_ARATH  MARECSQGGG GYSGGGGGGR YGSGGGGGGG GGGLSCYSCG ESGHFARDCT
+CSPF_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PIPI_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251   
+1csp        ~~~~~
+CSPD_HAEIN  ~~~~~
+GR2B_ARATH  SGGAR
+CSPF_ECOLI  ~~~~~
+PIPI_HUMAN  ~~~~~

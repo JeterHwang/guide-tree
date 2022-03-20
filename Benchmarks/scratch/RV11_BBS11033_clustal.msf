@@ -1,0 +1,55 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 134  Type: P  December 21, 2021 20:30  Check: 6455  ..
+
+ Name: 1thx_   Len:    134  Check: 8651  Weight: -1.00
+ Name: 1grx_   Len:    134  Check:  843  Weight: -1.00
+ Name: 1erv_   Len:    134  Check: 6355  Weight: -1.00
+ Name: 1a8l_   Len:    134  Check: 2131  Weight: -1.00
+ Name: 1ewx_A  Len:    134  Check: 9341  Weight: -1.00
+ Name: 1j0f_A  Len:    134  Check:  585  Weight: -1.00
+ Name: 2trc_P  Len:    134  Check: 2854  Weight: -1.00
+ Name: 1jfu_A  Len:    134  Check: 8600  Weight: -1.00
+ Name: 1kng_A  Len:    134  Check: 3468  Weight: -1.00
+ Name: 1se1_A  Len:    134  Check: 7685  Weight: -1.00
+ Name: 1mek_   Len:    134  Check: 5942  Weight: -1.00
+
+//
+
+        1                                                   50
+1thx_   ~~~~~PVLVY FWASWCGPCQ LMSPLINLAA NT..YSDRLK VVKLE.....
+1grx_   ~~~~~MQTVI FGRSGCPYSV RAKDLAEKLS N...ERDDFQ YQYV..DIRA
+1erv_   ~~~~~LVVVD FSATWCGPCK MIKPFFHSLS EK.....YSN VIFLEVD...
+1a8l_   ~~~~~VRILV FVTPTCPYCP LAVRMAHKFA IENTKAGKGK ILGDMVE...
+1ewx_A  ~~~~~LVFFY FSASWCPPCR GFTPQLIEFY DKFHESKNFE VVFCTWDEEE
+1j0f_A  SGLRVYSTSV TGSR....EI KSQQSEVTRI L...DGKRIQ YQLV..DISQ
+2trc_P  ~~~~~TIVVN IYEDGVRGCD ALNSSLECLA AE.....YPX VKFCKIRASN
+1jfu_A  ~~~~~TLLVN LWATWCVPCR KEMPALDELQ GK.LSGPNFE VVAINIDTRD
+1kng_A  ~~~~~VSLVN VWASWCVPCH DEAPLLTELG KD..K..RFQ LVGINYKDAA
+1se1_A  ~~~~~PVMLD LYADWCVASK EFEKYTFSDP QV..QKALAD TVL.......
+1mek_   ~~~~~YLLVE FYAPWCGHCK ALAPEYAKAA GK.LKAEGSE IRLAKVD...
+
+        51                                                 100
+1thx_   .......... .........I DPNPTT.... ....VKKYKV EGVPALRLVK
+1grx_   EGITKEDL.. .......... .......... ...QQKAGKP VETVPQIFVD
+1erv_   .......... .......... .....VDDC. .QDVASECEV KSMPTFQFFK
+1a8l_   .......... .......... .....AIEY. .PEWADQYNV MAVPKIVIQV
+1ewx_A  DGFAGYFAKM PW.....L.A VPFAQSEAV. .QKLSKHFNV ESIPTLIGVD
+1j0f_A  DNALRDEM.. .......... .......... ...RTLAGNP KATPPQIVNG
+2trc_P  TGA....... .......... .......... ....GDRFSS DVLPTLLVYK
+1jfu_A  PEKPKTFLKE AN..LTRLGY FNDQKAKVF. .QDLKAIGRA LGMPTSVLVD
+1kng_A  DNA.RRFLGR YGNPFGRVGV DANGRA.... ....SIEWGV YGVPETFVVG
+1se1_A  .......... .........L QANVTANDAQ DVALLKHLNV LGLPTILFFD
+1mek_   .......... .......... .....ATEE. .SDLAQQYGV RGYPTIKFFR
+
+        101                               134
+1thx_   GE.QILDSTE GVISKDKLLS FLDT~~~~~~ ~~~~
+1grx_   QQHIGGYTDF AAWVKENLDA ~~~~~~~~~~ ~~~~
+1erv_   KGQK.....V GEFSGANKEK L..EATINE~ ~~~~
+1a8l_   NGED.....R VEFEGAYPEK MFLEKLLS~~ ~~~~
+1ewx_A  ADS....... GDVVTTRARA TLVKD~~~~~ ~~~~
+1j0f_A  NHYCGDYELF VEAVEQ~~~~ ~~~~~~~~~~ ~~~~
+2trc_P  GGELISNFIS ..VAEQFAED FFAADVESFL NE~~
+1jfu_A  PQGCEIATIA GPAEWASEDA LKLIRA~~~~ ~~~~
+1kng_A  REGTIVYKLV GPITPDNLRS VLLPQMEK~~ ~~~~
+1se1_A  GQGQEHPQAR VT.......G F..MDAETFS AHLR
+1mek_   NGDT.....A SPKEYTAGRE A..DDIVNWL KK~~

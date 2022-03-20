@@ -1,0 +1,549 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 1000  Type: P  December 21, 2021 20:21  Check: 6620  ..
+
+ Name: 1lvl_       Len:   1000  Check: 3935  Weight: -1.00
+ Name: DLDH_MYCPN  Len:   1000  Check: 6579  Weight: -1.00
+ Name: DLDH_ALCEU  Len:   1000  Check:  591  Weight: -1.00
+ Name: DLD2_PSEPU  Len:   1000  Check:  556  Weight: -1.00
+ Name: DLD1_BACST  Len:   1000  Check: 3221  Weight: -1.00
+ Name: DLD1_BACSU  Len:   1000  Check: 8424  Weight: -1.00
+ Name: DLDH_STAAM  Len:   1000  Check: 5503  Weight: -1.00
+ Name: DLDH_HALVO  Len:   1000  Check: 2091  Weight: -1.00
+ Name: DLDH_RHOCA  Len:   1000  Check: 3249  Weight: -1.00
+ Name: DLDH_TRYBB  Len:   1000  Check: 6306  Weight: -1.00
+ Name: DLDH_PEA    Len:   1000  Check: 1634  Weight: -1.00
+ Name: DLD3_PSEPU  Len:   1000  Check: 9284  Weight: -1.00
+ Name: DLDH_YEAST  Len:   1000  Check: 2093  Weight: -1.00
+ Name: DLDH_SCHPO  Len:   1000  Check: 3877  Weight: -1.00
+ Name: DLHD_MANSE  Len:   1000  Check: 1389  Weight: -1.00
+ Name: DLDH_CANFA  Len:   1000  Check: 6708  Weight: -1.00
+ Name: DLDH_ECOLI  Len:   1000  Check: 7839  Weight: -1.00
+ Name: DLDH_BUCAP  Len:   1000  Check: 4843  Weight: -1.00
+ Name: DLDH_CHLTE  Len:   1000  Check: 8473  Weight: -1.00
+ Name: DLDH_ZYMMO  Len:   1000  Check: 2877  Weight: -1.00
+ Name: DLD2_BACSU  Len:   1000  Check: 8662  Weight: -1.00
+ Name: 1djn_A      Len:   1000  Check: 9948  Weight: -1.00
+ Name: 1gv4_A      Len:   1000  Check:  173  Weight: -1.00
+ Name: 1fcd_A      Len:   1000  Check: 8365  Weight: -1.00
+
+//
+
+            1                                                   50
+1lvl_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ALCEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_HALVO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_RHOCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_TRYBB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD3_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLHD_MANSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1djn_A      ARDPKHDILF EPIQIGPKTL RNRFYQVPHC IGAGSDKPGF QSAHRSVKAE
+1gv4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fcd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1lvl_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ALCEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_HALVO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_RHOCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_TRYBB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD3_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLHD_MANSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1djn_A      GGWAALNTEY CSINPESDDT HRLSARIWDE GDVRNLKAMT DEVHKYGALA
+1gv4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fcd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+1lvl_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ALCEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_HALVO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_RHOCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_TRYBB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD3_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLHD_MANSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1djn_A      GVELWYGGAH APNMESRATP RGPSQYASEF ETLSYCKEMD LSDIAQVQQF
+1gv4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fcd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            151                                                200
+1lvl_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ALCEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_HALVO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_RHOCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_TRYBB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD3_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLHD_MANSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1djn_A      YVDAAKRSRD AGFDIVYVYG AHSYLPLQFL NPYYNKRTDK YGGSLENRAR
+1gv4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fcd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1lvl_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ALCEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_HALVO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_RHOCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_TRYBB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD3_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLHD_MANSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1djn_A      FWLETLEKVK HAVGSDCAIA TRFGVDTVYG PGQIEAEVDG QKFVEMADSL
+1gv4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fcd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1lvl_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ALCEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_HALVO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_RHOCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_TRYBB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD3_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLHD_MANSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1djn_A      VDMWDITIGD IAEWGEDAGP SRFYQQGHTI PWVKLVKQVS KKPVLGVGRY
+1gv4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fcd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+1lvl_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ALCEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD1_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_HALVO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_RHOCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_TRYBB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_PEA    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD3_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_SCHPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~ML NSVIK..... ........RS
+DLHD_MANSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CANFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLDH_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DLD2_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1djn_A      TDPEKMIEIV TKGYADIIGC ARPSIADPFL PQKVEQGRYD DIRVCIGCNV
+1gv4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1fcd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                                400
+1lvl_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~QQTIQTT
+DLDH_MYCPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MNYD
+DLDH_ALCEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~MSKQFD
+DLD2_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~TQKFD
+DLD1_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M VVGDFAIETE
+DLD1_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M VVGDFPIETD
+DLDH_STAAM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M VVGDFPIETD
+DLDH_HALVO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ VVGDIATGTE
+DLDH_RHOCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MAEFD
+DLDH_TRYBB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MF.R RCFPIFNPYD
+DLDH_PEA    ~~~~~~M... ..AMANLARR KGYSLLSSET LRYSFSLRSR AFASGSDEND
+DLD3_PSEPU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MKSYD
+DLDH_YEAST  ~~~~~~~~~~ ~~~MLR.... .IRS.LLNNK RAF.S..STV RTLTINKSHD
+DLDH_SCHPO  ALCRFKF... ..TCLQVSEC RPAQ.IEISK RLY.S..A.. .KASGNGEYD
+DLHD_MANSE  ~~~~MGY... ..KFLKLAS. ..ASFRNGGV RI......VS RQYSTTHDAD
+DLDH_CANFA  ~MQSWSR... ..VYCSLAKR GHFSRISHGL QAV.SAVPLR TYADQPIDAD
+DLDH_ECOLI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~STEIKTQ
+DLDH_BUCAP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MHQEIQSE
+DLDH_CHLTE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~MQ QADTLAAQFD
+DLDH_ZYMMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~MADHFD
+DLD2_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~MATEYD
+1djn_A      CISRWEIGGP PMICTQNATA G......... EEYRRGWHPE KFRQTKNKDS
+1gv4_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~TV PQIRAPSHVP
+1fcd_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~AGRK
+
+            401                                                450
+1lvl_       LLIIGGGPGG YVAAI..RAG QLGIPTVLVE G........Q .ALGGTCLNI
+DLDH_MYCPN  LIIIGAGPAG YVAAE..YAG KHKLKTLVVE K......... EYFGGVCLNV
+DLDH_ALCEU  VLVIGAGPGG YIAAI..RAG QLGLNVACCE GNPYDDPKGE ARLGGTCLNV
+DLD2_PSEPU  VVVIGAGPGG YVAAI..KAA QLGLKTACIE ..KYTDAEGK LALGGTCLNV
+DLD1_BACST  TLVVGAGPGG YVAAI..RAA QLGQKVTIVE K........G .NLGGVCLNV
+DLD1_BACSU  TLVIGAGPGG YVAAI..RAA QLGQKVTVVE K........A .TLGGVCLNV
+DLDH_STAAM  TIVIGAGPGG YVAAI..RAA QLGQKVTIVE K........G .NLGGVCLNV
+DLDH_HALVO  LLVIGAGPGG YVAAI..RAA QNGIDTTLVE K........D .AYGGTCLNY
+DLDH_RHOCA  VIIIGGGPGG YVCAI..RCA QLGLKTACVE G........R GALGGTCLNV
+DLDH_TRYBB  VVVVGGGPGG YVAAI..KAA QLGLKTACVE K........R GALGGTCLNV
+DLDH_PEA    VVIIGGGPGG YVAAI..KAA QLGFKTTCIE K........R GALGGTCLNV
+DLD3_PSEPU  VVIIGGGPGG YNAAI..RAG QLGLTVACVE G........R STLGGTCLNV
+DLDH_YEAST  VVIIGGGPAG YVAAI..KAA QLGFNTACVE K........R GKLGGTCLNV
+DLDH_SCHPO  LCVIGGGPGG YVAAI..RGA QLGLKTICVE K........R GTLGGTCLNV
+DLHD_MANSE  LVVIGAGPGG YVAAI..KAA QLGMKVVSVE K........E PSLGGTCLNV
+DLDH_CANFA  VTVIGSGPGG YVAAI..KAA QLGFKTVCVE K........N ETLGGTCLNV
+DLDH_ECOLI  VVVLGAGPAG YSAAF..RCA DLGLETVIVE R........Y NTLGGVCLNV
+DLDH_BUCAP  VVIIGSGPAG YSAAF..RCA DLGLETVLIE H........Q ERLGGVCLNV
+DLDH_CHLTE  VAVIGSGPGG YEAAI..HAA RYGLKTCIVE K......... AVLGGVCVNW
+DLDH_ZYMMO  LIVLGGGPGG YVAAI..RAA QLNLKVALVE R......... VHLGGICLNW
+DLD2_BACSU  VVILGGGTGG YVAAI..RAA QLGLKTAVVE K......... EKLGGTCLHK
+1djn_A      VLIVGAGPSG SEAAR..VLM ESGYTVHLTD T........A EKIGGHLNQV
+1gv4_A      FLLIGGGTAA FAAARSIRAR DPGARVLIVS EDPELP.... ........YM
+1fcd_A      VVVVGGGTGG ATAAKYIKLA DPSIEVTLIE PN........ .T.....DYY
+
+            451                                                500
+1lvl_       GCIPSKALIH VAEQFHQASR .F..TEPSPL GISVA.SPRL DIGQSVAWKD
+DLDH_MYCPN  GCIPTKTLLK RAKIVDYLRH ......AQDY GISINGQVAL NWNQLLEQKG
+DLDH_ALCEU  GCIPSKALLA SSEEFENVQ. ....HHLGDH GITVG.DVKV DVAKMLKRKD
+DLD2_PSEPU  GCIPSKALLD SSWKYKEAK. ....ESFNVH GISTG.EVKM DVAAMVGRKA
+DLD1_BACST  GCIPSKALIS ASHRYEQAKH ......SEEM GIKAE.NVTI DFAKVQEWKA
+DLD1_BACSU  GCIPSKALIN AGHRYENAKH ......SDDM GITAE.NVTV DFTKVQEWKA
+DLDH_STAAM  GCIPSKALLH ASHRFVEAQH ......SENL GVIAE.SVSL NFQKVQEFKS
+DLDH_HALVO  GCIPSKALIT GANLAHEAGN ......AEEM GIHAD.PV.V DMSQLRDWKS
+DLDH_RHOCA  GCIPSKALLH ATHELHEVH. ....ENFEKM GLMGAKV.KV D........W
+DLDH_TRYBB  GCIPSKALLH ATHMYHDAH. ....ANFERY GLMGGAGVTM DVAKMQQQKE
+DLDH_PEA    GCIPSKALLH SSHMYHEAK. ....HSFANH GVKVSN.VEI DLAAMMGQKD
+DLD3_PSEPU  GCMPSKALLH ASELYEAASG ....DEFAHL GIEVKP..TL NLAQMMKQKD
+DLDH_YEAST  GCIPSKALLN NSHLFHQMH. ....TEAQKR GIDVNGDIKI NVANFQKAKD
+DLDH_SCHPO  GCIPSKALLN NSHIYHTVK. ....HDTKRR GIDVSG.VSV NLSQMMKAKD
+DLHD_MANSE  GCIPSKALLH NTHLYHMAK. ....HDFKHR GIETG.EVKF NFKAMMDYKV
+DLDH_CANFA  GCIPSKALLN NSHYYHMAHG ....KDFASR GIEMS.EVRL NLEKMMEQKS
+DLDH_ECOLI  GCIPSKALLH VAKVIEEAKA ......LAEH GIVFG.EPKT DIDKIRTWKE
+DLDH_BUCAP  GCIPSKSLLH IAKIIKDASE ......LSES GVFFN.KPII DIKKINNWKE
+DLDH_CHLTE  GCIPTKALLR SAEVFDLAKN ......PETF GVNVG.NVSF DLAQAVKRSR
+DLDH_ZYMMO  GCIPTKSLLR SAEVYHEMQN ......AEAY GLTSF.KPDF DLDKIIARSR
+DLD2_BACSU  GCIPSKALLR SAEVYRTARE ......ADQF GVETA.GVSL NFEKVQQRKQ
+1djn_A      AALPGLGEWS YHRDYRETQI TKLLKKNKES .......... ..........
+1gv4_A      RPPLSKELWF SDDPNVTKTL QFRQWNGKER SIYFQ.PPSF Y.....VSAQ
+1fcd_A      TCYLSNEVIG GDRKLESIKH GY..DGLRAH GIQVVHDSAT G....IDP.D
+
+            501                                                550
+1lvl_       GIVDRLTTGV AALLKKHGV. ...K....VV HGWAKVLDGK QV.......E
+DLDH_MYCPN  KVVSKLVGGV KAIIASAKA. ...E....TV MGEAKVLDPN TV.......E
+DLDH_ALCEU  DIVGKMTKGI EFLFRKNKV. ...T....LL KGYGKFVG.K SA.......E
+DLD2_PSEPU  GIVKNLTGGV ATLFKANGV. ...T....SI QGHGKLLAGK KV.......E
+DLD1_BACST  SVVKKLTGGV EGLLKGNKV. ...E....IV KGEAYFVDAN TV.......R
+DLD1_BACSU  SVVNKLTGGV AGLLKGNKV. ...D....VV KGEAYFVDSN SV.......R
+DLDH_STAAM  SVVNKLTGGV EGLLKGNKV. ...N....IV KGEAYFVDNN SL.......R
+DLDH_HALVO  GVVDQLTGGV EKLCKANGV. ...N....LV EGTARFKDEN AV.......R
+DLDH_RHOCA  AKIDGNTKGI EFLFKKNKV. ...T....YL RGWGSIPAPG QV.......K
+DLDH_TRYBB  KSVNGLTSGV EYLLKKNKV. ...T....YY KGEAGFVTPN TL.......N
+DLDH_PEA    KAVSNLTRGI EGLFKKNKV. ...T....YV KGYGKFVSPS EI.......S
+DLD3_PSEPU  ESVTGLTKGI EYLFRKNKV. ...D....WI KGWGRLDGVG KV.......V
+DLDH_YEAST  DAVKQLTGGI ELLFKKNKV. ...T....YY KGNGSFEDET KI.......R
+DLDH_SCHPO  DSVKSLTSGI EYLFKKNKV. ...E....YA KGTGSFIDPQ TL.......S
+DLHD_MANSE  NAVKALTGGI AMLFQKNKV. ...K....LV RGAGTIVAPN KV.......E
+DLDH_CANFA  TAVKALTGGI AHLFKQNKV. ...V....HV NGYGKITGKN QV.......T
+DLDH_ECOLI  KVINQLTGGL AGMAKGRKV. ...K....VV NGLGKFTGAN TL.......E
+DLDH_BUCAP  KIIKKLTTGL SNMGEKRKV. ...R....IV QGKALFNTDH SV.......L
+DLDH_CHLTE  NVALKSSKGV AYLLKKAAV. ...E....VL AGEAVLTGGA GV.......M
+DLDH_ZYMMO  EVAARLASGV KTLLRKNKV. ...E....VI SGVGQLTGNQ QM.......R
+DLD2_BACSU  AVVDKLAAGV NHLMKKGKI. ...D....VY TGYGRILGPS IFSPLPGTIS
+1djn_A      ....QLALGQ KPMTAD.... .......... .......... ..........
+1gv4_A      DLPNIENGGV AVLTGKKVV. ...H.....L DV.....RGN ..........
+1fcd_A      KKLVKTAGGA EFGYDRCVVA PGIELIYDKI EGYSEEAAA. ...KLPHAWK
+
+            551                                                600
+1lvl_       V......... ......DGQR IQCEHLLLAT GSSSVEL... .......PML
+DLDH_MYCPN  VAG....... ........KT YTTKSIVVAT GSRPRYL... ..T...LPGF
+DLDH_ALCEU  GFQV.DVAG. ........EV VTAKQVIIAT GSKARHL... .......PGI
+DLD2_PSEPU  VTKA.DGTT. ........EV IEAENVILAS GSRPIDI... .......PPA
+DLD1_BACST  VVNG.D.... ......SAQT YTFKNAIIAT GSRPIEL... .......PNF
+DLD1_BACSU  VMDE.N.... ......SAQT YTFKNAIIAT GSRPIEL... .......PNF
+DLDH_STAAM  VMDE.K.... ......SAQT YNFKNAIIAT GSRPIEI... .......PNF
+DLDH_HALVO  IAHG.GEGQ. ......GSET IEFEHCIIAT GSRVIQI... .......PGF
+DLDH_RHOCA  V......GD. ........EV HTAKNIVIAT GSESSGL... .......PGI
+DLDH_TRYBB  VKGI.DGKD. ........EA IEAKNTIIAT GSEPTAL... .......PFL
+DLDH_PEA    VDTI.EGEN. ........TV VKGKHIIIAT GSDVKSL... .......PGV
+DLD3_PSEPU  VKAE.DGSE. ........TA LQAKDIVIAT GSEPTPL... .......PGV
+DLDH_YEAST  VTPV.DGLEG TV...KEDHI LDVKNIIVAT GSEVTPF... .......PGI
+DLDH_SCHPO  VKGI.DGAA. .......DQT IKAKNFIIAT GSEVKPF... .......PGV
+DLHD_MANSE  VKGE.KG.V. ........ET VNTKNILIAT GSEVTPF... .......PGV
+DLDH_CANFA  AKKA.DGST. ........QV IDTKNILIAT GSEVTPF... .......PGI
+DLDH_ECOLI  VEGE.N.... ......GKTV INFDNAIIAA GSRPIQL... .......PFI
+DLDH_BUCAP  VKNK.K.... ......NDFT IFFKHAIIAT GSKPIKI... .......PSL
+DLDH_CHLTE  VTMP.DGSV. ........RM LGAKNIIVAT GSTPRVI... .......PGL
+DLDH_ZYMMO  VETT.EGEE. ........KI LEAKDIIIAT GARARQL... .......PNV
+DLD2_BACSU  VERGNGEEN. ........DM LIPKQVIIAT GSRPRML... .......PGL
+1djn_A      .......... ......DVLQ YGADKVIIAT GARWNTDGTN CLTHDPIPGA
+1gv4_A      .......... .MVKLNDGSQ ITFEKCLIAT GGTPRSL... .......SAI
+1fcd_A      A.....GEQT AILRKQLEDM ADGGTVVIAP PAAPFRC... .......PPG
+
+            601                                                650
+1lvl_       PL..GGP.VI SST....... ..EALAPKA. LPQHLVVVGG GYI....GLE
+DLDH_MYCPN  AEARQNGFVI DST....... ..QALSLEG. VPRKLVVVGG GVI....GIE
+DLDH_ALCEU  KV..DNDLVS DNE....... ..GALKFPA. VPKKLGVIGA GVI....GLE
+DLD2_PSEPU  PV..DQNVIV DST....... ..GALEFQA. VPKRLGVIGA GVI....GLE
+DLD1_BACST  KF..SNR.IL DST....... ..GALNLGE. VPKSLVVIGG GYI....GIE
+DLD1_BACSU  KY..SER.VL NST....... ..GALALKE. IPKKLVVIGG GYI....GTE
+DLDH_STAAM  KF..GKR.VI DST....... ..GALNLQE. VPGKLVVVGG GYI....GSE
+DLDH_HALVO  DF..GDEPVW SSR....... ..DALEADT. VPERLVVVGG GYI....GME
+DLDH_RHOCA  EI..DEQTVV TST....... ..GALSLAK. VPKSMVVIGA GVI....GLE
+DLDH_TRYBB  PF..DEKVVL SST....... ..GALALQQ. VPKKMVVIGG GVI....GLE
+DLDH_PEA    TI..DEKKIV SST....... ..GALALSE. IPKKLVVIGA GYI....GLE
+DLD3_PSEPU  TI..DNQRII DST....... ..GALSLPQ. VPKHLVVIGA GVI....GLE
+DLDH_YEAST  EI..DEEKIV SST....... ..GALSLKE. IPKRLTIIGG GII....GLE
+DLDH_SCHPO  TI..DEKKIV SST....... ..GALSLSE. VPKKMTVLGG GII....GLE
+DLHD_MANSE  TF..DEKQII TST....... ..GALSLES. VPKKMLVIGA GVI....GLE
+DLDH_CANFA  TI..DEDTIV SST....... ..GALSLKK. VPEKMVVIGA GVI....GVE
+DLDH_ECOLI  PH..EDPRIW DST....... ..DALELKE. VPERLLVMGG GII....GLE
+DLDH_BUCAP  PN..EDNRIW NST....... ..DALSLKS. IPNRFLIIGG GII....GLE
+DLDH_CHLTE  EP..DGKKII TSR....... ..EALILKE. VPKSMIVVGG GAI....GVE
+DLDH_ZYMMO  HS..DGKHIW TYH....... ..HALKPPA. MPKKLLVIGS GAI....GIE
+DLD2_BACSU  EV..DGKSVL TSD....... ..EALQMEE. LPQSIIIVGG GVI....GIE
+1djn_A      DA..SLPDQL TPE....... ..QVMDGKKK IGKRVVILNA DTYF..MAPS
+1gv4_A      DR..AGAEVK SRTTLFRKIG DFRALEKISR EVKSITVIGG GFL....GSE
+1fcd_A      PYERAS.... ..Q....... ..VAYYLKAH KPMSKVIILD SSQTFSKQSQ
+
+            651                                                700
+1lvl_       LGIAYR...K LGAQVSVVEA RERILP.... .TYDSELTAP VAESLKKLG.
+DLDH_MYCPN  FAFLYA...S LGSEVTILQG VDRILE.... .IFDTEVSDL VAKLLQTKN.
+DLDH_ALCEU  LGSVWR...R LGSDVTVLEA LPAFLG.... .AADEGVAKE AQKQLTKQG.
+DLD2_PSEPU  LGSVWA...R LGAEVTVLEA LDTFLM.... .AADTAVSKE AQKTLTKQG.
+DLD1_BACST  LGTAYA...N FGTKVTILEG AGEILS.... .GFEKQMAAI IKKRLKKKG.
+DLD1_BACSU  LGTAYA...N FGTELVILEG GDEILP.... .GFEKQMSSL VTRRLKKKGN
+DLDH_STAAM  LGTAFA...N FGSEVTILEG AKDILG.... .GFEKQMTQP VKKGMKEKG.
+DLDH_HALVO  LSTTFA...K LGADVTVVEM LDDILP.... .GYESDVARV VRKRAEELG.
+DLDH_RHOCA  LGSVYA...R LGAEVTVVEY LDAITP.... .GMDAEVAKG LQRILTRQG.
+DLDH_TRYBB  LGSVWA...R LGSDVTVVEF APRCAP.... .TLDSDVTDA LVGALKRNG.
+DLDH_PEA    MGSVWG...R IGSEVTVVEF ASEIVP.... .TMDAEIRKQ FQRSLEKQG.
+DLD3_PSEPU  LGSVWR...R LGSQVTVIEY LDRICP.... .GTDTETAKT LQKALAKQG.
+DLDH_YEAST  MGSVYS...R LGSKVTVVEF QPQIGA.... .SMDGEVAKA TQKFLKKQG.
+DLDH_SCHPO  MGSVWS...R LGAEVTVVEF LPAVGG.... .PMDADISKA LSRIISKQG.
+DLHD_MANSE  LGSVYQ...R LGADVTAIEF LGSIGGI... .GIDMEVSKD Y.RILAKQG.
+DLDH_CANFA  LGSVWQ...R LGADVTAVEF LGHVGGV... .GIDMEISKN FQRILQKQG.
+DLDH_ECOLI  MGTVYH...A LGSQIDVVEM FDQVIP.... .AADKDIVKV FTKRISKKFN
+DLDH_BUCAP  MATIYS...A LGSKVDIVDR FNAFLP.... .SVDKDITDI YIKSIKKRFK
+DLDH_CHLTE  MAWFYA...K AGSKVTIVEL MPRMLP.... .AEEAEVSEA LKRSFEKAG.
+DLDH_ZYMMO  FASLYA...D FGAEVSIVEH APQILP.... .MEDAEVSAY VAKAFKKRG.
+DLD2_BACSU  WASMLH...D FGVKVTVIEY ADRILP.... .TEDLEISKE MESLLKKKG.
+1djn_A      LAEKLA...T AGHEVTIVSG VHLANYMHFT LEYPNMMRRL HELHVEELGD
+1gv4_A      LACALGRK.S QASGIEVIQL FPEKGNMGK. .ILPQYLSNW TMEKVKREG.
+1fcd_A      FSKGWERLYG FGTENAMIEW HPGP...... ...DSAV... ..........
+
+            701                                                750
+1lvl_       ...IALHLGH SVEGY...EN G.CLLAN... D.....GKGG QLRLEADRVL
+DLDH_MYCPN  ...VKIITNA QVTRANN... N..EVFY... S.....QNGQ EGSVVGDRIL
+DLDH_ALCEU  ...LKFSLGV NVNEVTTGKN G.VTVKY... TD....KDGK AQTLEVDRLI
+DLD2_PSEPU  ...LDIKLGA RVTGSKVNGN E.VEVTY... TN....AEGE .QKITFDKLI
+DLD1_BACST  ...VEVVTNA LAKGAEERED G.VTVTY... E.....ANGE TKTIDADYVL
+DLD1_BACSU  ...VEIHTNA MAKGVEERPD G.VTVTF... E.....VKGE EKTVDADYVL
+DLDH_STAAM  ...VEIVTEA MAKSAEETDN G.VKVTY... E.....AKGE EKTIEADYVL
+DLDH_HALVO  ...IDMHLGE GATGWREEDD G.IMVTT... E....TEDGE ENEYRADKVL
+DLDH_RHOCA  ...LKFVLGA AVQGVDKAKG K.NTVRY... TLR...KDES AHAIEAEVVL
+DLDH_TRYBB  ...EDEVPMT GIEGVNGTNN G..SIAL... TLEVEQAGGQ AETLHCDALL
+DLDH_PEA    ...MKFKLKT KVVGVDTSGD G.V..KL... TVEP.SAGGE QTIIEADVVL
+DLD3_PSEPU  ...MVFKLGS KVTQATASAD G.VSL..... VLEP.AAGGT AESLQADYVL
+DLDH_YEAST  ...LDFKLST KVISAKRNDD K..NVVE... IVVEDTKTNK QENLEAEVLL
+DLDH_SCHPO  ...IKFKTST KLLSAKVNGD S....VE... VEIENMKNNK RETYQTDVLL
+DLHD_MANSE  ...MKFKLET KVLGVKKEGS T.VKVED... VSIEGAKGGN KETMDCDVVL
+DLDH_CANFA  ...FKFKLNT KVTGATKKSD ...GKID... VSIEGASGGK AEVITCDVLL
+DLDH_ECOLI  .....LMLET KVTAVEAKED G.IYVTM... E....GKKAP AEPQRYDAVL
+DLDH_BUCAP  .....LLLNT HVKSVEKSKD NDLIVKI... A....EENSD ENVCCYDNIL
+DLDH_CHLTE  ...ITVHCGA KLDNVAVSES G.VS...... A.ELVVEGSA PQTLNASCLL
+DLDH_ZYMMO  ...IRILTQS ALQNLTPDDE G.VT...... A.EIAGADGK VTKERFSHAI
+DLD2_BACSU  ...IQFITGA KVLPDTMTKT S.DD...... ISIQAEKDGE TVTYSAEKML
+1djn_A      HFCSRIEPGR .MEIYNIWGD G.SKRTYRGP GVSPRDANTS HRWIEFDSLV
+1gv4_A      ...VKVMPNA IVQSVGVSGG R.LLIKL... ......KDG. .RKVETDHIV
+1fcd_A      .......... ....VKVD.G GEMMVET... ......AFG. .DEFKADVIN
+
+            751                                                800
+1lvl_       VAVGRRPRTK GFNLECLDLK MNGA.AIAID ER..CQTSMH NVWAIGDVAG
+DLDH_MYCPN  VSIGRIPNTE CL..DGLNLQ RDERNRIVLN QD..LQTSIP NIYIVGDAN.
+DLDH_ALCEU  VSVGRVPNTD NLGLDAVGLA ADQRGFIEVD DH..CATKVP GLWAIGDVV.
+DLD2_PSEPU  VAVGRRPVTT DLLAADSGVT IDERGYIFVD DY..CATSVP GVYAIGDVV.
+DLD1_BACST  VTVGRRPNTD ELGLEQIGIK MTNRGLIEVD QQ..CRTSVP NIFAIGDIVP
+DLD1_BACSU  ITVGRRPNTD ELGLEQVGIE MTDRGIVKTD KQ..CRTNVP NIYAIGDIIE
+DLDH_STAAM  VTVGRRPNTD ELGLEELGVK FADRGLLEVD KQ..SRTSIS NIYAIGDIVP
+DLDH_HALVO  VAVGRSPVTD TMDIENAGLE ADDRGFLSVD DR..RRTDVE HIYAVGDVVE
+DLDH_RHOCA  VATGRKPFTK GLGLEALGVE MLPRGQVKAD SH..WATNVP GLYAIGDAI.
+DLDH_TRYBB  VSVGRRPYTA GLGLEKNNVS LNERGFVKIG SH..FETNVA GVYAIGDVVD
+DLDH_PEA    VSAGRTPFTS GLNLDKIGVE TDKLGRILVN ER..FSTNVS GVYAIGDVI.
+DLD3_PSEPU  VAIGRRPYTK GLNLESVGLE TDKRGMLAQ. RT..PPTSVP GVWVIGDVT.
+DLDH_YEAST  VAVGRRPYIA GLGAEKIGLE VDKRGRLVID DQ..FNSKFP HIKVVGDVT.
+DLDH_SCHPO  VAIGRVPYTE GLGLDKLGIS MDKSNRVIMD SE..YRTNIP HIRVIGDAT.
+DLHD_MANSE  ISIGRRPYTK DLGLDKVGIA LDDRGRVPVN NK..FQTTVP GIYAIGDVI.
+DLDH_CANFA  VCIGRRPFTQ NLGLEELGIE LDPRGRIPVN TR..FQTKIP NIYAIGDVV.
+DLDH_ECOLI  VAIGRVPNGK NLDAGKAGVE VDDRGFIRVD KQ..LRTNVP HIFAIGDIVG
+DLDH_BUCAP  VAIGRSPNVD FLGLEKIGLK LNESGFIEIN QQ..LKTNIS HIYAIGDVTG
+DLDH_CHLTE  VAVGVTGAID GLGLDAVGVE T.ERGFIRTD GQ..CRTSAP GIYAIGDVR.
+DLDH_ZYMMO  VAIGVVANVE NIGLDKLGIK L.DRGFIAVD GF..GRTNVD HVWAIGDVA.
+DLD2_BACSU  VSIGRQANIE GIGLENTDIV T.ENGMISVN ES..CQTKES HIYAIGDVI.
+1djn_A      LVTGRHSECT LWN....EL. .......KAR ESEWAENDIK GIYLIGDAEA
+1gv4_A      TAVGLEPNVE LAKTGGLEID SDFGGFR.VN AE...LQARS NIWVAGDAAC
+1fcd_A      L....IPPQR AGKIAQIAGL TNDAGWCPVD IKTFESSIHK GIHVIGDASI
+
+            801                                                850
+1lvl_       E.P......M LAH..RAMAQ GEMVAEIIA. GKARR..FEP AAIAAVCFTD
+DLDH_MYCPN  AQL......M LAH..FAYQQ GRYAVNHIL. NKKQVKPAQK LTCPSCIYTN
+DLDH_ALCEU  RGP......M LAH..KAEDE GVAVAERIA. GQKPH..IDY NCVPWVIYTF
+DLD2_PSEPU  RGM......M LAH..KASEE GIMVVERIK. GHKAQ..MNY DLIPSVIYTH
+DLD1_BACST  GP.......A LAH..KASYE GKVAAEAIA. GHPSA..VDY VAIPAVVFSD
+DLD1_BACSU  GP.......P LAH..KASYE GKIAAEAIA. GEPAE..IDY LGIPAVVFSE
+DLDH_STAAM  GL.......P LAH..KASYE AKVAAEAID. GQAAE..VDY IGMPAVCFTE
+DLDH_HALVO  DTP......M LAH..VASKE GIVAAEHVA. GEPVA..FDS QAVPAAVFTD
+DLDH_RHOCA  VGP......M LAH..KAEDE GMAVAEVIA. GKHGH..VNY DVIPGVIYTT
+DLDH_TRYBB  KGP......M LAH..KAEDE GVACAEILA. GRPGH..VNY DVIPGVIYTM
+DLDH_PEA    PGP......M LAH..KAEED GVACVEYLA. GKVGH..VDY DKVPGVVYTN
+DLD3_PSEPU  SGP......M LAH..KAEDE AVACIERIA. GKPHE..VNY NLIPGVIYTR
+DLDH_YEAST  FGP......M LAH..KAEEE GIAAVEMLK. TGHGH..VNY NNIPSVMYSH
+DLDH_SCHPO  LGP......M LAH..KAEDE GIAAVEYIA. KGQGH..VNY NCIPAVMYTH
+DLHD_MANSE  HGP......M LAH..KAEDE GIVCVEGIK. GMPVH..FNY DAIPSVIYTS
+DLDH_CANFA  AGP......M LAH..KAEDE GIICVEGMA. GGAVP..IDY NCVPSVIYTH
+DLDH_ECOLI  Q.P......M LAH..KGVHE GHVAAEVIA. GKKHY..FDP KVIPSIAYTE
+DLDH_BUCAP  F.P......M LAH..KAVQQ AHIAAEVIS. GKKHY..FEP KVIPSVAYTD
+DLDH_CHLTE  GGM......L LAH..KASAE AAIAVEAIA. GK.SPEPLSE PLIPRCVYAQ
+DLDH_ZYMMO  GAP......C LAH..KASHQ GVIAAEDIA. GCDHVHPLNT QNIPGCTYAR
+DLD2_BACSU  GGL......Q LAH..VASHE GIIAVEHFA. GL.NPHPLDP TLVPKCIYSS
+1djn_A      PR.......L IA...DATFT GHRVAREIEE ANP..QIAIP YKRETIAWGT
+1gv4_A      FYDIKLGRRR VEHHDHAVVS GRLAGENMT. GAA.....KP YWHQSMFWSD
+1fcd_A      ANP......M PKSGYSANSQ GKVAAAAVVV LLKGEEPGTP SYLNT.CYSI
+
+            851                                                900
+1lvl_       PEV....VVV GKTPEQASQQ GLDCIVAQFP FAANGRAMSL ESKSGFVRVV
+DLDH_MYCPN  PEV....ASV GYTEMELKKQ GIPYVKTNLV LAHCGKAIAD NETNGFVKMM
+DLDH_ALCEU  PEI....AWV GKTEAQLKAE GREYKAGQFP FMANGRALGM GHADGFVKML
+DLD2_PSEPU  PEI....AWV GKTEQALKAE GVEVNVGTFP FAASGRAMAA NDTGGFVKVI
+DLD1_BACST  PEC....ASV GYFEQQAKDE GIDVIAAKFP FAANGRALAL NDTDGFLKLV
+DLD1_BACSU  PEL....ASV GYTEAQAKEE GLDIVAAKFP FAANGRALSL NETDGFMKLI
+DLDH_STAAM  PEL....ATV GYSEAQAKEE GLAIKASKFP YAANGRALSL DDTNGFVKLI
+DLDH_HALVO  PEI....GTV GMTEADAEEA GFTPVVGQMP FRASGRALTT NHADGFVRVV
+DLDH_RHOCA  PEV....AAV GKTEDALKQE GRAYKVGKFS FMGNGRAKAV FQAEGFVKIL
+DLDH_TRYBB  PEV....ASV GKTEEELKKA GVAYKVGKFP FNANSRAKAV ATEDGFVKVL
+DLDH_PEA    PEV....ASV GKTEEQVKET GVEYRVGKFP FMANSRAKAI DNAEGLVKII
+DLD3_PSEPU  PEL....ATV GKTEEQLKAE GRAYKVGKFP FTANSRAKIN HETEGFAKVI
+DLDH_YEAST  PEV....AWV GKTEEQLKEA GIDYKIGKFP FAANSRAKTN QDTEGFVKIL
+DLDH_SCHPO  PEV....AWV GITEQKAKES GIKYRIGTFP FSANSRAKTN MDADGLVKVI
+DLHD_MANSE  PEV....GWV RKTEEDLKKE GKAYKVRKFP FLANSRAKTN GEPDGFVKVL
+DLDH_CANFA  PEV....AWV GKSEEQLKEE GIEYKVGKFP FAANSRAKTN ADTDGMVKIL
+DLDH_ECOLI  PEV....AWV GLTEKEAKEK GISYETATFP WAASGRAIAS DCADGMTKLI
+DLDH_BUCAP  PEI....AWV GLSEKEAENN DIDYEVSLFP WSASGRAHAS NCTLGMTKLI
+DLDH_CHLTE  PSV....ASV GLTEEAAVNA GYQVAVGRSQ FAASGKANAY GQLEGFVKLV
+DLDH_ZYMMO  PQV....ASV GLTEEKARQQ GYNVKIGNFP FIANGKAIAQ GATDGFVKTV
+DLD2_BACSU  PEA....ASV GLTEDEAKAN GHNVKIGKFP FMAIGKALVY GESDGFVKIV
+1djn_A      PHMPGG.... ........NF KIEYKV~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1gv4_A      LGPDVGYEAI GLVDSSLPTV GVFAKAT... ..AQDNPKSA TEQSG.TGIR
+1fcd_A      LAP....... ........AY GISVAAI.YR PNADGSAIES VPDSGGVTPV
+
+            901                                                950
+1lvl_       ARRDNHLILG WQAVGVAVSE LSTAFAQSLE M......... .....GACLE
+DLDH_MYCPN  FDPQTGKILG CCIIAATASD MIAELALAMG A......... .....GLTVF
+DLDH_ALCEU  ADAKTDEILG VHIVAANASD LIAEAVVAME F......... .....KAASE
+DLD2_PSEPU  ADAKTDRVLG VHVIGPSAAE LVQQGAIAME F......... .....GTSAE
+DLD1_BACST  VRKEDGVIIG AQIIGPNASD MIAELGLAIE A......... .....GMTAE
+DLD1_BACSU  TRKEDGLVIG AQIAGASASD MISELSLAIE G......... .....GMTAE
+DLDH_STAAM  TLKEDDTLIG AQVVGTGASD IISELGLAIE A......... .....GMNAE
+DLDH_HALVO  ADEESGFVLG AQIVGPEASE LIAELAFAIE M......... .....GATLE
+DLDH_RHOCA  ADAATDRILG AHIIGPSAGD MIHEICVAME F......... .....GASAQ
+DLDH_TRYBB  TDKATDRILG VHIVCSAAGE LIAGALLAME Y......... .....GASSE
+DLDH_PEA    AEKETDKILG VHIMAPNAGE LIHEAAIALQ Y......... .....DASSE
+DLD3_PSEPU  ADAETDEVLG VHLVGPSVSE MIGEFCVAME F......... .....SASAE
+DLDH_YEAST  IDSKTERILG AHIIGPNAGE MIAEAGLALE Y......... .....GASAE
+DLDH_SCHPO  VDAETDRLLG VHMIGPMAGE LIGEATLALE Y......... .....GASAE
+DLHD_MANSE  SDKATDVILG THIIGPGGGE LINEAVLAQE Y......... .....GAAAE
+DLDH_CANFA  GQKSTDRVLG AHILGPGAGE MVNEAALALE Y......... .....GASCE
+DLDH_ECOLI  FDKESHRVIG GAIVGTNGGE LLGEIGLAIE M......... .....GCDAE
+DLDH_BUCAP  FNKNTNKIIG GSIIGTNASE LISEIGLAIE M......... .....GSDAE
+DLDH_CHLTE  FDAATGKMLG GHLIGHDAVE LIGELGLACR Y......... .....GVTAG
+DLDH_ZYMMO  FDADSGALLG AHMVGAEVTE MIHGYTVART L......... .....ETTEA
+DLD2_BACSU  ADRDTDDILG VHMIGPHVTD MISEAGLAKV L......... .....DATPW
+1djn_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1gv4_A      SESETESEAS EITIPPSAPA VPQVPVEGED YGKGVIFYLR DKVVVGIVLW
+1fcd_A      D......... .......APD WVLEREVQYA Y......... .....SWYN.
+
+            951                                               1000
+1lvl_       ......DVAG TI....HAHP TLGEAVQEAA LRALGHA.LH I~~~~~~~~~
+DLDH_MYCPN  ......DIAN SI....SPHP TINEMIADVC KKALFDH.FK ~~~~~~~~~~
+DLDH_ALCEU  ......DIGR VC....HPHP SMSEVMREAA LAVDKRH.VN M~~~~~~~~~
+DLD2_PSEPU  ......DLGM MV....FSHP TLSEALHEAA LAVNGGA.IH VANRKKR~~~
+DLD1_BACST  ......DIAL TI....HAHP TLGEIAMEAA EVALGTP.IH IITK~~~~~~
+DLD1_BACSU  ......DIAM TI....HAHP TLGEITMEAA EVAIGSP.IH IVK~~~~~~~
+DLDH_STAAM  ......DIAL TI....HAHP TLGEMTMEAA EKAIGYP.IH TM~~~~~~~~
+DLDH_HALVO  ......DVAS TI....HTHP TLAEAVMEAA ENALGQA.IH TLNR~~~~~~
+DLDH_RHOCA  ......DLAL TC....HAHP TYSEAVREAA LACGDGA.IH A~~~~~~~~~
+DLDH_TRYBB  ......DVGR TC....HAHP TMSEAVKEAC MACFAKT.IN F~~~~~~~~~
+DLDH_PEA    ......DIAR VC....HAHP TMSEAIKEAA MATYDKP.IH I~~~~~~~~~
+DLD3_PSEPU  ......DIAL TC....HPHP TRSEALRQAA MNVDGMA.MQ I~~~~~~~~~
+DLDH_YEAST  ......DVAR VC....HAHP TLSEAFKEAN MAAYDKA.IH C~~~~~~~~~
+DLDH_SCHPO  ......DVAR VC....HAHP TLSEATKEAM MAAWCGKSIH F~~~~~~~~~
+DLHD_MANSE  ......DVAR VC....HAHP TCAEALREAN LAAYCGKPIN F~~~~~~~~~
+DLDH_CANFA  ......DIAR VC....HAHP TLSEAFREAN LAASFGKSIN F~~~~~~~~~
+DLDH_ECOLI  ......DIAL TI....HAHP TLHESVGLAA EVFEGSI.TD LPNPKAKKK~
+DLDH_BUCAP  ......DISL TI....HPHP TLSESISLAS EVFQGTI.TD LLNLKKSLLN
+DLDH_CHLTE  ......GLVN TV....HAHP TLSETVREAA FDALQSM.G~ ~~~~~~~~~~
+DLDH_ZYMMO  ......EIME TI....FPHP TLSEAMHESV LAAYGRA.LH F~~~~~~~~~
+DLD2_BACSU  ......EVGQ TI....HPHP TLSEAIGEAA LAADGKA.IH F~~~~~~~~~
+1djn_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1gv4_A      NVFNRMPIAR KIIKDGEQHE DLNEVAKLFN ........IH ~~~~~~~~~~
+1fcd_A      .......... .N....IVHD TFG~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~

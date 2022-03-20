@@ -1,0 +1,255 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV50_BB50007_mafft.fa.msf  MSF: 493  Type: N  December 21, 2021 21:49  Check: 7754  ..
+
+ Name: 1ags_A      Len:    493  Check: 2264  Weight: 1.00
+ Name: 1b4p_A      Len:    493  Check: 8628  Weight: 1.00
+ Name: GT28_SCHJA  Len:    493  Check: 1804  Weight: 1.00
+ Name: 1oe7_A      Len:    493  Check: 8113  Weight: 1.00
+ Name: 1m0u_A      Len:    493  Check: 9987  Weight: 1.00
+ Name: SC18_OMMSL  Len:    493  Check: 3085  Weight: 1.00
+ Name: 10gs_A      Len:    493  Check: 9281  Weight: 1.00
+ Name: GTT2_MOUSE  Len:    493  Check: 5357  Weight: 1.00
+ Name: 1gwc_A      Len:    493  Check: 1284  Weight: 1.00
+ Name: 1eem_A      Len:    493  Check: 4731  Weight: 1.00
+ Name: 1jlv_A      Len:    493  Check: 8287  Weight: 1.00
+ Name: 1a0f_A      Len:    493  Check: 3705  Weight: 1.00
+ Name: 1aw9_       Len:    493  Check: 2288  Weight: 1.00
+ Name: 1k0m_A      Len:    493  Check: 2270  Weight: 1.00
+ Name: 1g6w_A      Len:    493  Check: 5226  Weight: 1.00
+ Name: GT_PROMI    Len:    493  Check: 8645  Weight: 1.00
+ Name: IN21_MAIZE  Len:    493  Check: 8993  Weight: 1.00
+ Name: GTA_PLEPL   Len:    493  Check: 3933  Weight: 1.00
+ Name: GTH3_SCHPO  Len:    493  Check: 3027  Weight: 1.00
+ Name: YFCG_ECOLI  Len:    493  Check: 3404  Weight: 1.00
+ Name: YGHU_ECOLI  Len:    493  Check: 8555  Weight: 1.00
+ Name: YNCG_ECOLI  Len:    493  Check: 6730  Weight: 1.00
+ Name: EXC4_CAEEL  Len:    493  Check: 8157  Weight: 1.00
+
+//
+
+1ags_A         A--------------------------------------------EKPKLHYF-------
+1b4p_A         ----------------------------------------------PMILGYW-------
+GT28_SCHJA     -----------------------------------------------VKLIYF-------
+1oe7_A         D--------------------------------------------H-IKVIYF-------
+1m0u_A         K--------------------------------------------HSYTLFYF-------
+SC18_OMMSL     M--------------------------------------------PKYTLYYF-------
+10gs_A         ----------------------------------------------PYTVVYF-------
+GTT2_MOUSE     G----------------------------------------------LELYLD-------
+1gwc_A         --------------------------------------------GDDLKLLGA-------
+1eem_A         SA----------------------------RSLGKGSAPPGPVPEGSIRIYSM-------
+1jlv_A         -----------------------------------------------MDFYYL-------
+1a0f_A         M-----------------------------------------------KLFYK-------
+1aw9_          A---------------------------------------------PLKLYGM-------
+1k0m_A         ---------------------------------------------PQVELFVKA-GSDGA
+1g6w_A         S------------------------------------RITKFFQEQPLEGYTLF------
+GT_PROMI       M-----------------------------------------------KLYYT-------
+IN21_MAIZE     MAA--------------AAGPSSSVKESLPPALGSTSQPP-PVFDGTTRLYIC-------
+GTA_PLEPL      M-------------------------------------------AKDMTLLWG-------
+GTH3_SCHPO     M----------------------------------------------IVLHHL-------
+YFCG_ECOLI     M----------------------------------------------IDLYFA-------
+YGHU_ECOLI     MTDNTYQPAKVWTWDKSAGGAFANINR---PVSGPTHEKTLPVGKHPLQLYSL-------
+YNCG_ECOLI     M----------------------------------------------IKVYGV-------
+EXC4_CAEEL     MAE--------------AYQIQSNGD---------------PQSKPLLELYVKASGIDAR
+
+
+1ags_A         --NARGRMESTRWLLAA--------AGV--E-FEEKFIKSA-------EDLDKLRNDGYL
+1b4p_A         --NVRGLTHPIRLLLEY--------TDS--S-YEEKRYAMGDAPDYDRSQWLNEKFKLGL
+GT28_SCHJA     --NGRGRAEPIRMILVA--------AGV--E-FEDERIEF--------QDWP--KIKPTI
+1oe7_A         --NGRGRAESIRMTLVA--------AGV--N-YEDERISF--------QDWP--KIKPTI
+1m0u_A         --NVKALAEPLRYLFAY--------GNQ--E-YEDVRVTR--------DEWP--ALKPTM
+SC18_OMMSL     --NSRGRAEICRMLFAA--------ANI--P-YNDVRIDY--------SEWD--IYRSKM
+10gs_A         --PVRGRCAALRMLLAD--------QGQ--S-WKEEVVTV--------ETWQEGSLKASC
+GTT2_MOUSE     --LLSQPSRAVYIFAKK--------NGI--P-FQTRTVDILKGQ----HMSE--QFSQVN
+1gwc_A         --WPSPFVTRVKLALAL--------KGL--S-YEDVEEDLYKKS-------E--LLLKSN
+1eem_A         --RFCPFAERTRLVLKA--------KGI--R-HEVININLKNKP-------E--WFFKKN
+1jlv_A         --PGSAPCRAVQMTAAA--------VGV--E-LNLKLTNLMAGE----HMKP--EFLKIN
+1a0f_A         ---PGACSLASHITLRE--------SGK--D-FTLVSVDLMKKRL---ENGD--DYFAVN
+1aw9_          --PLSPNVVRVATVLNE--------KGL--D-FEIVPVDLTTGA----HKQP--DFLALN
+1k0m_A         KIGNCPFSQRLFMVLW----L----KGV--T-FNVTTVDTK-------RRTE--TVQKLC
+1g6w_A         SHRSAPNGFKVAIVLSE--------LGF--H-YNTIFLDFNLGE----HRAP--EFVSVN
+GT_PROMI       ---PGSCSLSPHIVLRE--------TGL--D-FSIERIDLRTKKT---ESGK--DFLAIN
+IN21_MAIZE     --YFCPFAQRAWVTRNL--------KGLQDK-MELVAIDLQDKP-------A--WYKDKV
+GTA_PLEPL      --SGSPPCWRVMIVLEE--------KNL--QAYNSKLLSFEKGE----HKSA--EVMSMN
+GTH3_SCHPO     ---KNSRSTRIVWMLEE--------LKV--P-YEIKVYDRVDG-----RAPP--AYTKLS
+YFCG_ECOLI     ---PTPNGHKITLFLEE--------AEL--D-YRLIKVDLGKGG----QFRP--EFLRIS
+YGHU_ECOLI     ---GTPNGQKVTIMLEELLALGVTGAEY--D-AWLIRI--GDGD----QFSS--GFVEVN
+YNCG_ECOLI     ---PGWGSTISELMLTL--------ADI--P-YQFVDVSGFDHEG---ASRE--LLKTLN
+EXC4_CAEEL     RIGADLFCQEFWMELYALYEI----GVA--R-VEVKTVNVN---------SE--AFKKNF
+
+
+1ags_A         MF-QQVPMV-EID-G-------MKLVQTRAILNYIASKY-------NLYRKDIKEKA---
+1b4p_A         DF-PNLPYL-IDG-S-------RKITQSNAIMRYLARKH-------HLCGETEEERI---
+GT28_SCHJA     PG-GRLPIV-KIT-D--KRGDVKTMSESLAIARFIARKH-------NMMGDTDDEYY---
+1oe7_A         PG-GRLPAV-KIT-D--NHGHVKWMVESLAIARYMAKKH-------HMMGGTEEEYY---
+1m0u_A         PM-GQMPVL-EVD-G--KRVH-----QSISMARFLAKTV-------GLCGATPWEDL---
+SC18_OMMSL     PG-SCLPVL-EIN-D--S----IQIPQTMAIARYLARQF-------GFYGKHHLDMA---
+10gs_A         LY-GQLPKF-QDG-D-------LTLYQSNTILRHLGRTL-------GLYGKDQQEAA---
+GTT2_MOUSE     CL-NKVPVL-KDG-S-------FVLTESTAILIYLSSKY--QVA-DHWYPADLQARA---
+1gwc_A         PVHKKIPVL-IHN-G-------APVCESMIILQYIDEVF-ASTG-PSLLPADPYERA---
+1eem_A         PF-GLVPVL-ENSQG-------QLIYESAITCEYLDEAY-P--G-KKLLPDDPYEKA---
+1jlv_A         PQ-HCIPTL-VDN-G-------FALWESRAICTYLAEKY--GKD-DKLYPKDPQKRA---
+1a0f_A         PK-GQVPALLLDD-G-------TLLTEGVAIMQYLADSV--PDR-QLLAPVNSISRY---
+1aw9_          PF-GQIPAL-VDG-D-------EVLFESRAINRYIASKY--ASE-GTDLLPATASAA---
+1k0m_A         PG-GELPFL-LYG-T--E-----VHTDTNKIEEFLEAVL-CPPRYPKLAALNPESNT---
+1g6w_A         PN-ARVPAL-IDH-----GMDNLSIWESGAILLHLVNKYYKETGNPLLWSDDLADQS---
+GT_PROMI       PK-GQVPVLQLDN-G-------DILTEGVAIVQYLADLK--PDR-NLIAPPKALERY---
+IN21_MAIZE     YAQGTVPSL-EHD-S-------EVRGESLDLIRYIDSNF-D--G-PALLPEDAAKRQ---
+GTA_PLEPL      PR-GQLPSF-KHG-S-------KVLNESYAACMYLESQF-KSQG-NKLIPDCPAEQA---
+GTH3_SCHPO     PL-GKSPIV-VDD-G-------VTYIESAAILEHLVRKY--GPS-FKPSEEDVAELE---
+YFCG_ECOLI     PN-NKIPAI-VDH-SPADGGEPLSLFESGAILLYLAEKT------GLFLSHETRERA---
+YGHU_ECOLI     PN-SKIPAL-RDH-T---HNPPIRVFESGSILLYLAEKF------GYFLPQDLAKRT---
+YNCG_ECOLI     PL-CQVPTLALEN-D-------EIMTETAAIALMVLDRR--PD---LAPPVGRAERQLFQ
+EXC4_CAEEL     LG-AQPPIM-IEE-E--KE---LTYTDNREIEGRIFHLA-KEFNVP-LFEKDPSAEK---
+
+
+1ags_A         LIDMYIE---GIADLGEMILLLP-------------------------------------
+1b4p_A         RVDVLEN---QAMDTRLQLAMVC-------------------------------------
+GT28_SCHJA     IIEKMIG---QVEDVESEYHKTL-------------------------------------
+1oe7_A         NVEKLIG---QAEDLEHEYYKTL-------------------------------------
+1m0u_A         QIDIVVD---TINDFRLKIAVVS-------------------------------------
+SC18_OMMSL     RVDFICD---SFYDIFNDYMRMYHDQKGRVMFELMSQMREWYAARNENSGYEECYMQPSM
+10gs_A         LVDMVND---GVEDLRCKYISLI-------------------------------------
+GTT2_MOUSE     QVHEYL--GWHADNIRGTFGVLLWTKV--------------------------------L
+1gwc_A         IARFWV--AYVDDKLVAPWRQWLR------------------------------------
+1eem_A         CQKM-I--LELFSKVPSLVGSFIR------------------------------------
+1jlv_A         VVNQRL--YFDMGTLYQRFADYYY------------------------------------
+1a0f_A         KTIEWL--NYIATELHKGFTPL-------------------------------------F
+1aw9_          KLEVWL--EVESHHFYPNASPLVFQLL--------------------------------V
+1k0m_A         ----------AGLDIFAKFSAYIKNSN---------------------------------
+1g6w_A         QINAWL--FFQTSGHAPMIGQALHFRY--------------------------------F
+GT_PROMI       HQIEWL--NFLASEVHKGYSPL-------------------------------------F
+IN21_MAIZE     FA----------DELFASANAFTK------------------------------------
+GTA_PLEPL      MMYQRM---FEGLTLAQKMADVIYYSW--------------------------------K
+GTH3_SCHPO     KYELWM--HFSEASLMPFIWASHVLDLS-----------------------------VNM
+YFCG_ECOLI     ATLQWL--FWQVGGLGPMLGQNHHFNH--------------------------------A
+YGHU_ECOLI     ETMNWL--FWLQGAAPFLGGGFGHFYH--------------------------------Y
+YNCG_ECOLI     RLLVWLVANVYPTFTFADYPER-------------------------------------W
+EXC4_CAEEL     ----------RIENLYRNFKLFLRAKV---------------------------------
+
+
+1ags_A         ---------------------FT-QPEE-QDAK-----LALIKEK---------------
+1b4p_A         ---------------------YSPDFERKKPEY-----LEGLPEK---------------
+GT28_SCHJA     ---------------------IK-PPEEKEKIS-----KEILNGK---------------
+1oe7_A         ---------------------MK-PEEEKQKII-----KEILNGK---------------
+1m0u_A         ---------------------YE-PEDEIKEKK-----LVTLNAE---------------
+SC18_OMMSL     APSAQMSQEVDNSDTLADCSEMR-SQDSMVEPP-----SQKLSPELESQSSLCSERPQCG
+10gs_A         ---------------------YT-NYEAGKDDY-----VKALPGQ---------------
+GTT2_MOUSE     GPLIG----------------VQ-VPQEKVERN---------RDR---------------
+1gwc_A         ----------------------G-KTEE--EKS-------EGKKQ---------------
+1eem_A         ----------------------S-QNKE--DYA-------GLKEE---------------
+1jlv_A         -PQI------------------F-AKQPANAEN---------EKK---------------
+1a0f_A         RPD---------------------TPEEYKPTV---------RAQ---------------
+1aw9_          RPLLG----------------GA-PDAAVVDKH---------AEQ---------------
+1k0m_A         -PALN--DNLEKGLL---------KALKVLDNYL----TSPLPEG---------------
+1g6w_A         HSQ---------------------KIASAVERY---------TDE---------------
+GT_PROMI       SSD---------------------TPESYLPVV---------KNK---------------
+IN21_MAIZE     ----------------------A-LYSPLLSHA-------AVSDE---------------
+GTA_PLEPL      VPEA------------------E-RHDSAVKRN---------KEN---------------
+GTH3_SCHPO     TPI---------------------FFRYIVRQFVNGIKSKYLSKE---------------
+YFCG_ECOLI     APQ---------------------TIPYAIERY---------QVE---------------
+YGHU_ECOLI     APV---------------------KIEYAINRF---------TME---------------
+YNCG_ECOLI     APD---------------------APEQLKKNV---------IEY---------------
+EXC4_CAEEL     --------EFDKGKK---------EPSRVED----------LPAQ---------------
+
+
+1ags_A         ---------------------------------IKNRYFPAF-EKVLKSH--G-------
+1b4p_A         ---------------------------------MK----------LYSEFLGK-------
+GT28_SCHJA     ---------------------------------V-PILLQAI-CETLKESTG--------
+1oe7_A         ---------------------------------V-PVLLDII-CESLKASTG--------
+1m0u_A         ---------------------------------VIPFYLEKL-EQTVKDNDG--------
+SC18_OMMSL     PPDPMMGSDFERLSFNEGRMLEMRRRYDETCRRVLPF----L-EGTLKQRYGG-------
+10gs_A         ---------------------------------LK-----PF-ETLLSQNQGG-------
+GTT2_MOUSE     ---------------------------------MVLV-LQQLEDKFLR--DRA-------
+1gwc_A         ---------------------------------AFAA-VGVL-EGALRECSKG-------
+1eem_A         ---------------------------------FRKE-FTKL-EEVL--TNKK-------
+1jlv_A         ---------------------------------MKDA-VDFL-NTFLD--GHK-------
+1a0f_A         ---------------------------------LEKK-LQYV-NEALK--DEH-------
+1aw9_          ---------------------------------LAKV-LDVY-EAHLA--RNK-------
+1k0m_A         ----------------------V------------DE-TSAE-DEGVS--QRK-------
+1g6w_A         ---------------------------------VRRV-YGVV-EMALA--ERREALVMEL
+GT_PROMI       ---------------------------------LKSK-FVYI-NDVLS--KQK-------
+IN21_MAIZE     ---------------------------------VVAA-LDKL-EADLSKFDDG-------
+GTA_PLEPL      ---------------------------------LSTE-LKLW-EEYLQKTSGS-------
+GTH3_SCHPO     ---------------------------------TFLN-LDYI-DNHLA--SNE-------
+YFCG_ECOLI     ---------------------------------TQRL-YHVL-NKRLE--NSP-------
+YGHU_ECOLI     ---------------------------------AKRL-LDVL-DKQLA--QHK-------
+YNCG_ECOLI     ---------------------------------RKSL-YIWL-NSQLT--AEP-------
+EXC4_CAEEL     ----------------------IKVHYNR----VCEQ-LSNI-DQLLS--ERK-------
+
+
+1ags_A         ---QDYLVGNKLSRADIH---LVELLYYV------E-ELDSSLIS--SFPLLKALKTRIS
+1b4p_A         ---QPWFAGNKITYVDFL---VYDVLDQH------R-IFEPKCLD--AFPNLKDFVARFE
+GT28_SCHJA     ----NLTVGDKVTLADVV---LIASIDHI------TDLDKEFLTG--KYPEIHKHRKHLL
+1oe7_A         ----KLAVGDKVTLADLV---LIAVIDHV------TDLDKEFLTG--KYPEIHKHRENLL
+1m0u_A         ----HLALG-KLTWADVY---FAGITDYM------NYMVKRDLLE--PYPALRGVVDAVN
+SC18_OMMSL     ---DRYFMGEYMTMCDLM---CYCALENP------L-LDNAYLLH--PYPKLRGLRDRVS
+10gs_A         ---KTFIVGDQISFADYN---LLDLLLIH------E-VLAPGCLD--AFPLLSAYVGRLS
+GTT2_MOUSE     -----FLVGQQVTLADLM---SLEELMQP-------VGLGYNLFE--GRPQLTAWRERV-
+1gwc_A         ---GGFFGGDGVGLVDVALGGVLSWMKVTEA------LSGDKIFDAAKTPLLAAWVERFI
+1eem_A         ---TTFFGGNSISMIDYL---IWPWFERLEA------MKLNECVD--HTPKLKLWM----
+1jlv_A         -----YVAGDSLTIADLT---VLATVSTY-------DVAGFELAK---YPHVAAWYERTR
+1a0f_A         -----WICGQRFTIADAY---LFTVLRWA-------YAVKLNLEG---LEHIAAFMQRMA
+1aw9_          -----YLAGDEFTLADAN---HASYLLYL------SKTPKAGLVA--ARPHVKAWWEAIV
+1k0m_A         -----FLDGNELTLADCN---LLPKLHIVQVVC--KKYRGFTIPE--AFRGVHRYLSNAY
+1g6w_A         DDYPVWLVGDKLTIADLA---FVPWNNVV-------DRIGINIKI--EFPEVYKWTKHMM
+GT_PROMI       -----CVCGDHFTVADAY---LFTLSQWA-------PHVALDLTD---LSHLQDYLARIA
+IN21_MAIZE     ---PFFLG--QFSLADVA---YVTILERVQIY--YSHLRNYDIAQ--GRPNLQEFIDEMN
+GTA_PLEPL      -----FVAGKSFSLADVS---VFPGVAYL-------FRFGLTEER---YPQLTAYYNSLK
+GTH3_SCHPO     -----YFAGEQFTAADPQ---MCFPIFAA-------QRDYLSQKP---YKNIKRWMRVVS
+YFCG_ECOLI     -----WLGGENYSIADIA---CWPWVNAW-------TRQRIDLAM---YPAVKNWHERIR
+YGHU_ECOLI     -----FVAGDEYTIADMA---IWPWFGNVVLGGVYDAAEFLDAGS---YKHVQRWAKEVG
+YNCG_ECOLI     -----YAFGEQLTLVDCY---LCTMRTWG-------PGHEWFQDN---ATNISAIADAVC
+EXC4_CAEEL     ---SRYLLGNSMTEYDCE---LMPRLHHIRIIG--LSLLGFDIPH--NFTHLWAYILTAY
+
+
+1ags_A         NLPT-VKKFLQPGSPRKP--PMDEKSLEEARKIF--------------------------
+1b4p_A         GLKK-ISDYMKSGRFLSK--PIFAKMAFWNPK----------------------------
+GT28_SCHJA     ATSPKLAKYLSERHATA-------------------------------------------
+1oe7_A         ASSPRLAKYLSDRA----------------------------------------------
+1m0u_A         ALEP-IKAWIEKRPVTE-------------------------------------------
+SC18_OMMSL     RNQR-INSYFTLRNYTD-------------------------------------------
+10gs_A         ARPK-LKAFLASPEYVNL--PINGN----GKQ----------------------------
+GTT2_MOUSE     -------EAF------------LGAELYQEAHST-ILSILGQAAKKMLPVPPPEVHASMQ
+1gwc_A         ELDA-AKAALPDVGRLL----EFAKAREA-------------------------------
+1eem_A         ---A-AMKEDPTVSALL----TSEKDWQGFLELY--------------LQNSPEACDYG-
+1jlv_A         KEA-------PGAAIN-------EAGIEEFRKYF--------------------------
+1a0f_A         ERPE-VQDALSAEGL---------------------------------------------
+1aw9_          ARPA-FQKTVAAIPLP-----------------------------------PP-------
+1k0m_A         AREE-FASTCPDDEEIELAYEQVAKAL---------------------------------
+1g6w_A         RRPA-VIKAL-----------------------------------R--------------
+GT_PROMI       QRPN-VHSALVTEGLI--------------------------------------------
+IN21_MAIZE     KIEA-YAQTKNDPLFLL----DLAKS------------------------HLKIA-----
+GTA_PLEPL      ERPS-IKASWPPTWLE-------SPQGQDMLKDV--------------------------
+GTH3_SCHPO     DRPA-CRIAAEKVEDNT-----LTLFSDVERYSH-------------PPTPPPEQVRSD-
+YFCG_ECOLI     SRPA-TGQAL------------LKAQLGDERSDS--------------------------
+YGHU_ECOLI     ERPA-VKRGRIVNRTNG----PLNEQL-HERHDASDFETNTEDKRQ--------------
+YNCG_ECOLI     QLPK-LQEVLKRNEI---------------------------------------------
+EXC4_CAEEL     RTAA-FIESCPADQDIIHHYKEQMNLFTNQRETL-------QSPTK--THTIPEKVLSD-
+
+
+1ags_A         -----------RF
+1b4p_A         -------------
+GT28_SCHJA     ------------F
+1oe7_A         -------------
+1m0u_A         ------------V
+SC18_OMMSL     ------------F
+10gs_A         -------------
+GTT2_MOUSE     LRI------ARIP
+1gwc_A         -------------
+1eem_A         ------------L
+1jlv_A         -------------
+1a0f_A         ------------K
+1aw9_          ------------P
+1k0m_A         -------------
+1g6w_A         ------------G
+GT_PROMI       -----------KE
+IN21_MAIZE     -------------
+GTA_PLEPL      -------------
+GTH3_SCHPO     ------------E
+YFCG_ECOLI     -------------
+YGHU_ECOLI     ------------G
+YNCG_ECOLI     ------------I
+EXC4_CAEEL     IRVKGLAPDVNVH
+
+

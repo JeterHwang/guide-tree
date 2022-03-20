@@ -1,0 +1,317 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV30_BB30007_mafft.fa.msf  MSF: 601  Type: N  December 21, 2021 21:48  Check: 2997  ..
+
+ Name: 1i7h_A      Len:    601  Check: 5909  Weight: 1.00
+ Name: FER5_AQUAE  Len:    601  Check: 1467  Weight: 1.00
+ Name: FER_HAEIN   Len:    601  Check: 7347  Weight: 1.00
+ Name: FER_BUCAI   Len:    601  Check: 7263  Weight: 1.00
+ Name: FER_BUCAP   Len:    601  Check: 4988  Weight: 1.00
+ Name: FER_BUCBP   Len:    601  Check: 1148  Weight: 1.00
+ Name: FDX2_RICCN  Len:    601  Check: 6913  Weight: 1.00
+ Name: ADRX_YEAST  Len:    601  Check: 6460  Weight: 1.00
+ Name: ADX_CHICK   Len:    601  Check: 1060  Weight: 1.00
+ Name: ADXH_DROME  Len:    601  Check: 6264  Weight: 1.00
+ Name: PUTX_PSEPU  Len:    601  Check: 8599  Weight: 1.00
+ Name: TERP_PSESP  Len:    601  Check: 3519  Weight: 1.00
+ Name: 1krh_A      Len:    601  Check: 3124  Weight: 1.00
+ Name: CBDC_BURCE  Len:    601  Check: 6958  Weight: 1.00
+ Name: YFAE_ECOLI  Len:    601  Check: 3789  Weight: 1.00
+ Name: HCR_ECOLI   Len:    601  Check: 5190  Weight: 1.00
+ Name: FER1_ANASP  Len:    601  Check: 9233  Weight: 1.00
+ Name: FER_SPIMA   Len:    601  Check: 8264  Weight: 1.00
+ Name: FER_MARPO   Len:    601  Check: 8731  Weight: 1.00
+ Name: FER_LEUGL   Len:    601  Check: 1756  Weight: 1.00
+ Name: FER_APHSA   Len:    601  Check: 2377  Weight: 1.00
+ Name: FER1_RAPSA  Len:    601  Check: 6599  Weight: 1.00
+ Name: FER3_MAIZE  Len:    601  Check: 8787  Weight: 1.00
+ Name: FER_RHOPL   Len:    601  Check: 7252  Weight: 1.00
+
+//
+
+1i7h_A         ------------------------------------------------------------
+FER5_AQUAE     ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      M-----------------------------------------------------------
+FER_BUCAP      M-----------------------------------------------------------
+FER_BUCBP      M-----------------------------------------------------------
+FDX2_RICCN     M-----------------------------------------------------------
+ADRX_YEAST     MLKIVTR---AGHTAR----------ISNI-------------------AAHLLRTS---
+ADX_CHICK      C--------------------------SAV-------------------AVRTLRPL---
+ADXH_DROME     MFCLLLR---RSAVHN---------SCKLI-------------------SKQIAKPA---
+PUTX_PSEPU     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      MTMPTNQCPWRMQVHHITQETPDVWTISLICHDYYPYRAGQYALVSVRNSAETLRAYTIS
+FER1_ANASP     ------------------------------------------------------------
+FER_SPIMA      ------------------------------------------------------------
+FER_MARPO      ------------------------------------------------------------
+FER_LEUGL      ------------------------------------------------------------
+FER_APHSA      ------------------------------------------------------------
+FER1_RAPSA     ------------------------------------------------------------
+FER3_MAIZE     MSTST-------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER5_AQUAE     ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+FER_BUCAP      ------------------------------------------------------------
+FER_BUCBP      ------------------------------------------------------------
+FDX2_RICCN     ------------------------------------------------------------
+ADRX_YEAST     ------------------------------------------------------------
+ADX_CHICK      ------------------------------------------------------------
+ADXH_DROME     ------------------------------------------------------------
+PUTX_PSEPU     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      STPGVSEYITLTVRRIDDGVGSQWLTRDVKRGDYLWLSDAMGEFTCDDKAEDKFLLLAAG
+FER1_ANASP     ------------------------------------------------------------
+FER_SPIMA      ------------------------------------------------------------
+FER_MARPO      ------------------------------------------------------------
+FER_LEUGL      ------------------------------------------------------------
+FER_APHSA      ------------------------------------------------------------
+FER1_RAPSA     ------------------------------------------------------------
+FER3_MAIZE     --------------------------------------------------------FATS
+FER_RHOPL      ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER5_AQUAE     ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+FER_BUCAP      ------------------------------------------------------------
+FER_BUCBP      ------------------------------------------------------------
+FDX2_RICCN     ------------------------------------------------------------
+ADRX_YEAST     ------------------------------------------------------------
+ADX_CHICK      ------------------------------------------------------------
+ADXH_DROME     ------------------------------------------------------------
+PUTX_PSEPU     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+CBDC_BURCE     ------------------------------------------------------------
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      CGVTPIMSMRRWLAKNRPQADVRVIYNVRTPQDVIFADEWRNYPVTLVAENNVTEGFIAG
+FER1_ANASP     ------------------------------------------------------------
+FER_SPIMA      ------------------------------------------------------------
+FER_MARPO      ------------------------------------------------------------
+FER_LEUGL      ------------------------------------------------------------
+FER_APHSA      ------------------------------------------------------------
+FER1_RAPSA     ------------------------------------------------------------
+FER3_MAIZE     C---------------------TLLGNVRTTQASQTAVK---SPSSLSFFSQVTK-----
+FER_RHOPL      ------------------------------------------------------------
+
+
+1i7h_A         --------------------------------------------------PKIVILPH-Q
+FER5_AQUAE     --------------------------------------------------PKVIVANI-N
+FER_HAEIN      --------------------------------------------------PKVIFLPN-E
+FER_BUCAI      --------------------------------------------------PKVLFLPH-K
+FER_BUCAP      --------------------------------------------------PKIFFLPH-K
+FER_BUCBP      --------------------------------------------------PKLIILPH-K
+FDX2_RICCN     -----------------------------------------------SGKIKVTFIIN-D
+ADRX_YEAST     ----------PSLLTRTTTTTRFLPFSTSSFLNHGHL--KKPK---PGEELKITFILK-D
+ADX_CHICK      -----------SLSARAACSS--------------------------EDKITVHFINR-D
+ADXH_DROME     -----------FYTPHNALHT-TIPRRHGEF----EW--QDPKS--TDEIVNITYVDK-D
+PUTX_PSEPU     --------------------------------------------------SKVVYVSH-D
+TERP_PSESP     --------------------------------------------------PRVVFIDE-Q
+1krh_A         ------------------------------------------------SNHQVALQFE-D
+CBDC_BURCE     ------------------------------------------------MLHSIALRFE-D
+YFAE_ECOLI     -------------------------------------------------MARVTLRIT--
+HCR_ECOLI      RLTRELLAGVPDLASRTVMTCGPAPYM--------DWVEQEVKALGVTRFFKEKFFTPVA
+FER1_ANASP     ------------------------------------------------ATFKVTLINEAE
+FER_SPIMA      ------------------------------------------------ATYKVTLISEAE
+FER_MARPO      -------------------------------------------------TFKVTLNTPTG
+FER_LEUGL      -------------------------------------------------AFKVKLLTP-D
+FER_APHSA      ------------------------------------------------ASYKVTL--KTP
+FER1_RAPSA     -----------------------------------------------SAVYKVKLIGP-D
+FER3_MAIZE     ---------VPSLKTSKKL---------------------DVS---AMAVYKVKLVGP-E
+FER_RHOPL      -----------------------------------------------AVKYTVTLSTP--
+
+
+1i7h_A         DLCPD------------GAVLEANSGETILDAALRNGI-EIE--HACEKSCACTTCHCIV
+FER5_AQUAE     ------------------AEFEGIENETIMQILYRNGI-EID--SACGGHGQCTSCKVLI
+FER_HAEIN      DFCPE------------GMVVDAATGDNLLEVAHNAGV-EIH--HACDGSCACTTCHVIV
+FER_BUCAI      ILLPK------------SIECEAQTGETILTVALRNNI-KLE--HACEQSCACSTCHCII
+FER_BUCAP      LLLPK------------GGCFECKEGETILNVALKNNI-KLE--HACEKSCACSTCHCII
+FER_BUCBP      ILLPK------------GGVFNAMKGESILNVALRNNV-EIE--HACEKSCVCTTCHCYI
+FDX2_RICCN     ---GE------------EKTVEAPIGLSILEIAHSNDL-DLE--GACEGSLACATCHVIL
+ADRX_YEAST     ---GS------------QKTYEVCEGETILDIAQGHNL-DME--GACGGSCACSTCHVIV
+ADX_CHICK      ---GD------------KLTAKGKPGDSLLDVVVENNL-DIDGFGACEGTLACSTCHLIF
+ADXH_DROME     ---GK------------RTKVQGKVGDNVLYLAHRHGI-EME--GACEASLACTTCHVYV
+PUTX_PSEPU     ---GT------------RRELDVADGVSLMQAAVSNGIYDIV--GDCGGSASCATCHVYV
+TERP_PSESP     ---SG------------EYAVDAQDGQSLMEVATQNGVPGIV--AECGGSCVCATCRIEI
+1krh_A         ---GV------------TRFICIAQGETLSDAAYRQQI-NIP--MDCREG-ECGTCRAFC
+CBDC_BURCE     ---DV------------TYFITSSEHETVADAAYQHGI-RIP--LDCRNG-VCGTCKGFC
+YFAE_ECOLI     --------G--------TQLLCQDEHPSLLAALESHNV-AVE--YQCREG-YCGSCRTRL
+HCR_ECOLI      ---EAATSGLKFTKLQPAREFYAPVGTTLLEALESNNV-PVV--AACRAG-VCGCCKTKV
+FER1_ANASP     ---GT------------KHEIEVPDDEYILDAAEEQGY-DLP--FSCRAG-ACSTCAGKL
+FER_SPIMA      ---GI------------NETIDCDDDTYILDAAEEAGL-DLP--YSCRAG-ACSTCAGKI
+FER_MARPO      -----------------QSVIDVEDDEYILDAAEEAGL-SLP--YSCRAG-ACSSCAGKV
+FER_LEUGL      ---G-------------PKEFECPDDVYILDQAEELGI-ELP--YSCRAG-SCSSCAGKL
+FER_APHSA      ---DG------------DNVITVPDDEYILDVAEEEGL-DLP--YSCRAG-ACSTCAGKL
+FER1_RAPSA     ---GQ------------ENEFDVPDDQYILDAAEEAGV-DLP--YSCRAG-ACSTCAGKI
+FER3_MAIZE     ---GE------------EHEFDAPDDAYILDAAETAGV-ELP--YSCRAG-ACSTCAGKI
+FER_RHOPL      ---GG------------VEEIEGDETTYVLDSAEDQGI-DLP--YSCRAG-ACSTCAGIV
+
+
+1i7h_A         REGF-DSLPESSEQED----DMLD-KAWGLEPESRLSCQARVTDE--DLVVEIPRYTINH
+FER5_AQUAE     ISGS-ENLYPAEFEEK----DTLE-ENGMDPETERLSCQAKLNGKG-DVVIYLP------
+FER_HAEIN      REGF-DSLNETSDQEE----DMLD-KAWGLEMDSRLSCQCVVGNE--DLVVEIPKYNLNH
+FER_BUCAI      KKGF-FSLSGWSEKED----DILD-KAWGLQSESRLSCQAVIGKS--DIEVEIPLYNLNY
+FER_BUCAP      RKGF-LSLSGWSEKEE----DVLD-KAWGLESTSRLSCQAIIGNI--DIEVQIPLYNTNY
+FER_BUCBP      WKGA-SSLSICEEKEE----DVLD-KAWNLQFNSRLSCQAKINNK--DIEIEIPKYTINQ
+FDX2_RICCN     EEEFYNKLKKPTEAEE----DMLD-LAFGLTDTSRLGCQIILTEELDGIKVRIPATTRNI
+ADRX_YEAST     DPDYYDALPEPEDDEN----DMLD-LAYGLTETSRLGCQIKMSKDIDGIRVALPQMTRNV
+ADX_CHICK      EDHIFEKLDAITDEEM----DMLD-LAYGLTETSRLGCQICLKKSMDNMTVRVPEAVADA
+ADXH_DROME     QHDYLQKLKEAEEQED----DLLD-MAPFLRENSRLGCQILLDKSMEGMELELPKATRNF
+PUTX_PSEPU     NEAFTDKVPAANEREI----GMLECVTAELKPNSRLCCQIIMTPELDGIVVDVPDRQW--
+TERP_PSESP     EDAWVEIVGEANPDEN----DLLQSTGEPMTAGTRLSCQVFIDPSMDGLIVRVPLPA---
+1krh_A         ESGNYDM-PEDNYIEDALTPEEAQ-------QGYVLACQCRPTS---DAVFQIQASSEVC
+CBDC_BURCE     EHGEYD---GGDYIEDALSADEAR-------EGFVLPCQMQART---DCVVRILASSSAC
+YFAE_ECOLI     VAGQVD------WIAEPL--AFIQ-------PGEILPCCCRAKG---DIEIEM-------
+HCR_ECOLI      VSGEYTV-SSTMTLTD----AEIA-------EGYVLACSCHPQG---DLVLA--------
+FER1_ANASP     VSGTVDQ-SDQSFLDD----DQIE-------AGYVLTCVAYPTS---DVVIQTHKEEDLY
+FER_SPIMA      TSGSIDQ-SDQSFLDD----DQIE-------AGYVLTCVAYPTS---DCTIQTHQEEGLY
+FER_MARPO      TAGEVDQ-SDESFLDD----DQMD-------EGYVLTCIAYPTS---DLTIDTHQEEALI
+FER_LEUGL      VEGDLDQ-SDQSFLDD----EQIE-------EGWVLTCAAYPRS---DVVIETHKEEELT
+FER_APHSA      VSGPAPD-EDQSFLDD----DQIQ-------AGYILTCVAYPTG---DCVIETHKEEALY
+FER1_RAPSA     EKGQVDQ-SDGSFLED----HHFE-------KGYVLTCVAYPQS---DLVIHTHKEEELF
+FER3_MAIZE     ESGSVDQ-SDGSFLDD----GQQE-------EGYVLTCVSYPKS---DCVIHTHKEGDLY
+FER_RHOPL      ELGTVDQ-SDQSFLDD----DQLN-------DSFVLTCVAYPTS---DCQIKTHQEEKLY
+
+
+1i7h_A         ARE---------------------------------------------------------
+FER5_AQUAE     ------------------------------------------------------------
+FER_HAEIN      ANEA--------------------------------------------------------
+FER_BUCAI      TVE---------------------------------------------------------
+FER_BUCAP      IIE---------------------------------------------------------
+FER_BUCBP      ------------------------------------------------------------
+FDX2_RICCN     KL----------------------------------------------------------
+ADRX_YEAST     NNN---------------------------------------------------------
+ADX_CHICK      RQSVDL------------------------------------------------------
+ADXH_DROME     YVDGHK------------------------------------------------------
+PUTX_PSEPU     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+1krh_A         KTKIHHFEGTLARVENLSDSTITFDIQLDDGQPDIHFLAGQYVNVTLPGTTETRSYSFSS
+CBDC_BURCE     QVKKSTMTGQMTEIDRGSSSTLQFTLAIDPSS-KVDFLPGQYAQLRIPGTTESRAYSYSS
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER_SPIMA      ------------------------------------------------------------
+FER_MARPO      ------------------------------------------------------------
+FER_LEUGL      G-----------------------------------------------------------
+FER_APHSA      ------------------------------------------------------------
+FER1_RAPSA     ------------------------------------------------------------
+FER3_MAIZE     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER5_AQUAE     ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+FER_BUCAP      ------------------------------------------------------------
+FER_BUCBP      ------------------------------------------------------------
+FDX2_RICCN     ------------------------------------------------------------
+ADRX_YEAST     ------------------------------------------------------------
+ADX_CHICK      ------------------------------------------------------------
+ADXH_DROME     ------------------------------------------------------------
+PUTX_PSEPU     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+1krh_A         QPGNRLTGFVVRNVPQGKMSEYLSVQAKAGDKMSFTGPFGSFYLRDVKRPVLMLAGGTGI
+CBDC_BURCE     MPGSSHVTFLVRDVPNGKMSGYLRNQATITETFTFDGPYGAFYLREPVRPILMLAGGTGL
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER_SPIMA      ------------------------------------------------------------
+FER_MARPO      ------------------------------------------------------------
+FER_LEUGL      ------------------------------------------------------------
+FER_APHSA      ------------------------------------------------------------
+FER1_RAPSA     ------------------------------------------------------------
+FER3_MAIZE     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER5_AQUAE     ------------------------------------------------------------
+FER_HAEIN      ------------------------------------------------------------
+FER_BUCAI      ------------------------------------------------------------
+FER_BUCAP      ------------------------------------------------------------
+FER_BUCBP      ------------------------------------------------------------
+FDX2_RICCN     ------------------------------------------------------------
+ADRX_YEAST     ------------------------------------------------------------
+ADX_CHICK      ------------------------------------------------------------
+ADXH_DROME     ------------------------------------------------------------
+PUTX_PSEPU     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+1krh_A         APFLSMLQVLE--QKGSEHPVRLVFGVTQDCDLVALEQLDALQQKLPWFEYRTVVAHAES
+CBDC_BURCE     APFLSMLQYMAGLQRNDLPSVRLVYGVNRDDDLVGLDKLDELATQLSGFSYITTVVDKDS
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER_SPIMA      ------------------------------------------------------------
+FER_MARPO      ------------------------------------------------------------
+FER_LEUGL      ------------------------------------------------------------
+FER_APHSA      ------------------------------------------------------------
+FER1_RAPSA     ------------------------------------------------------------
+FER3_MAIZE     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+
+
+1i7h_A         ------------------------------------------------------------
+FER5_AQUAE     ------------------------------------------------------------
+FER_HAEIN      -----------------------------------------------------------A
+FER_BUCAI      ------------------------------------------------------------
+FER_BUCAP      ------------------------------------------------------------
+FER_BUCBP      ------------------------------------------------------------
+FDX2_RICCN     ------------------------------------------------------------
+ADRX_YEAST     ----------------------------------------------------------DF
+ADX_CHICK      ---------------------------------------------------------SKN
+ADXH_DROME     ---------------------------------------------------------PKP
+PUTX_PSEPU     ------------------------------------------------------------
+TERP_PSESP     ------------------------------------------------------------
+1krh_A         QHERKGYVTGHIEYDWLNGGEVDVYLCGPVPMVEAVRSWLDTQGIQPANFLFEKFS---A
+CBDC_BURCE     AQLRRGYVTQQITNDDMNGGDVDIYVCGPPPMVEAVRSWLAAEKLNPVNFYFEKFAPTVG
+YFAE_ECOLI     ------------------------------------------------------------
+HCR_ECOLI      ------------------------------------------------------------
+FER1_ANASP     ------------------------------------------------------------
+FER_SPIMA      ------------------------------------------------------------
+FER_MARPO      ------------------------------------------------------------
+FER_LEUGL      ------------------------------------------------------------
+FER_APHSA      ------------------------------------------------------------
+FER1_RAPSA     ------------------------------------------------------------
+FER3_MAIZE     ------------------------------------------------------------
+FER_RHOPL      ------------------------------------------------------------
+
+
+1i7h_A         -
+FER5_AQUAE     -
+FER_HAEIN      H
+FER_BUCAI      Y
+FER_BUCAP      N
+FER_BUCBP      -
+FDX2_RICCN     -
+ADRX_YEAST     S
+ADX_CHICK      S
+ADXH_DROME     H
+PUTX_PSEPU     -
+TERP_PSESP     -
+1krh_A         N
+CBDC_BURCE     N
+YFAE_ECOLI     -
+HCR_ECOLI      -
+FER1_ANASP     -
+FER_SPIMA      -
+FER_MARPO      -
+FER_LEUGL      -
+FER_APHSA      -
+FER1_RAPSA     -
+FER3_MAIZE     -
+FER_RHOPL      -
+
+

@@ -1,0 +1,425 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV50_BB50008_kalign.msf  MSF: 807  Type: N  December 21, 2021 20:08  Check: 7199  ..
+
+ Name: 1cpj_A      Len:    807  Check: 9250  Weight: 1.00
+ Name: CATB_CHICK  Len:    807  Check: 8762  Weight: 1.00
+ Name: CYS1_OSTOS  Len:    807  Check: 7888  Weight: 1.00
+ Name: CYS1_HAECO  Len:    807  Check: 4752  Weight: 1.00
+ Name: CYS3_OSTOS  Len:    807  Check: 7443  Weight: 1.00
+ Name: CPR4_CAEEL  Len:    807  Check: 6143  Weight: 1.00
+ Name: CPR5_CAEEL  Len:    807  Check: 4217  Weight: 1.00
+ Name: CYS1_CAEEL  Len:    807  Check: 1946  Weight: 1.00
+ Name: CYSP_SCHMA  Len:    807  Check: 7064  Weight: 1.00
+ Name: CYSP_SCHJA  Len:    807  Check: 5545  Weight: 1.00
+ Name: CAL2_GIALA  Len:    807  Check:  610  Weight: 1.00
+ Name: CAL1_GIALA  Len:    807  Check: 3969  Weight: 1.00
+ Name: 1ppn_       Len:    807  Check: 8039  Weight: 1.00
+ Name: 1yal_       Len:    807  Check: 8136  Weight: 1.00
+ Name: 1cqd_A      Len:    807  Check:  356  Weight: 1.00
+ Name: 1s4v_A      Len:    807  Check: 3900  Weight: 1.00
+ Name: 1atk_       Len:    807  Check: 3844  Weight: 1.00
+ Name: 1iwd_A      Len:    807  Check: 9221  Weight: 1.00
+ Name: 1aec_       Len:    807  Check: 4234  Weight: 1.00
+ Name: CYS7_DICDI  Len:    807  Check: 7634  Weight: 1.00
+ Name: CYS2_DICDI  Len:    807  Check: 2639  Weight: 1.00
+ Name: ACP1_ENTHI  Len:    807  Check:  208  Weight: 1.00
+ Name: CPR1_DROME  Len:    807  Check: 4306  Weight: 1.00
+ Name: CATL_SCHMA  Len:    807  Check: 9709  Weight: 1.00
+ Name: CYSP_PEA    Len:    807  Check: 8764  Weight: 1.00
+ Name: CATV_NPVAP  Len:    807  Check: 8620  Weight: 1.00
+
+//
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+CYS1_OSTOS     ------------------------------------------------------------
+CYS1_HAECO     ------------------------------------------------------------
+CYS3_OSTOS     ------------------------------------------------------------
+CPR4_CAEEL     ------------------------------------------------------------
+CPR5_CAEEL     ------------------------------------------------------------
+CYS1_CAEEL     ------------------------------------------------------------
+CYSP_SCHMA     ------------------------------------------------------------
+CYSP_SCHJA     ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1ppn_          ------------------------------------------------------------
+1yal_          ------------------------------------------------------------
+1cqd_A         ------------------------------------------------------------
+1s4v_A         ------------------------------------------------------------
+1atk_          ------------------------------------------------------------
+1iwd_A         ------------------------------------------------------------
+1aec_          ------------------------------------------------------------
+CYS7_DICDI     ------------------------------------------------------------
+CYS2_DICDI     ------------------------------------------------------------
+ACP1_ENTHI     ------------------------------------------------------------
+CPR1_DROME     MRLFAAATVALVLLLGQAAGEELAEERAGQAQGDAESTESSETTTDQAVSEPPITLVHVL
+CATL_SCHMA     ------------------------------------------------------------
+CYSP_PEA       ------------------------------------------------------------
+CATV_NPVAP     ------------------------------------------------------------
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+CYS1_OSTOS     ------------------------------------------------------------
+CYS1_HAECO     ------------------------------------------------------------
+CYS3_OSTOS     ------------------------------------------------------------
+CPR4_CAEEL     ------------------------------------------------------------
+CPR5_CAEEL     ------------------------------------------------------------
+CYS1_CAEEL     ------------------------------------------------------------
+CYSP_SCHMA     ------------------------------------------------------------
+CYSP_SCHJA     ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1ppn_          ------------------------------------------------------------
+1yal_          ------------------------------------------------------------
+1cqd_A         ------------------------------------------------------------
+1s4v_A         ------------------------------------------------------------
+1atk_          ------------------------------------------------------------
+1iwd_A         ------------------------------------------------------------
+1aec_          ------------------------------------------------------------
+CYS7_DICDI     ------------------------------------------------------------
+CYS2_DICDI     ------------------------------------------------------------
+ACP1_ENTHI     ------------------------------------------------------------
+CPR1_DROME     NPGEREYLSPNLIGVQNIAMTFLPLSMNFVNIIDAFREITAGVRYEILLNALDTKAIQPA
+CATL_SCHMA     ------------------------------------------------------------
+CYSP_PEA       ------------------------------------------------------------
+CATV_NPVAP     ------------------------------------------------------------
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+CYS1_OSTOS     ------------------------------------------------------------
+CYS1_HAECO     ------------------------------------------------------------
+CYS3_OSTOS     ------------------------------------------------------------
+CPR4_CAEEL     ------------------------------------------------------------
+CPR5_CAEEL     ------------------------------------------------------------
+CYS1_CAEEL     ------------------------------------------------------------
+CYSP_SCHMA     ------------------------------------------------------------
+CYSP_SCHJA     ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1ppn_          ------------------------------------------------------------
+1yal_          ------------------------------------------------------------
+1cqd_A         ------------------------------------------------------------
+1s4v_A         ------------------------------------------------------------
+1atk_          ------------------------------------------------------------
+1iwd_A         ------------------------------------------------------------
+1aec_          ------------------------------------------------------------
+CYS7_DICDI     ------------------------------------------------------------
+CYS2_DICDI     ------------------------------------------------------------
+ACP1_ENTHI     ------------------------------------------------------------
+CPR1_DROME     EADIVCRLVILEKPWLRTQWGDKHRELVTSNCTDPAVNSVAGDPAEKARLLNEKYVHRSR
+CATL_SCHMA     ------------------------------------------------------------
+CYSP_PEA       ------------------------------------------------------------
+CATV_NPVAP     ------------------------------------------------------------
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+CYS1_OSTOS     ------------------------------------------------------------
+CYS1_HAECO     ------------------------------------------------------------
+CYS3_OSTOS     ------------------------------------------------------------
+CPR4_CAEEL     ------------------------------------------------------------
+CPR5_CAEEL     ------------------------------------------------------------
+CYS1_CAEEL     ------------------------------------------------------------
+CYSP_SCHMA     ------------------------------------------------------------
+CYSP_SCHJA     ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1ppn_          ------------------------------------------------------------
+1yal_          ------------------------------------------------------------
+1cqd_A         ------------------------------------------------------------
+1s4v_A         ------------------------------------------------------------
+1atk_          ------------------------------------------------------------
+1iwd_A         ------------------------------------------------------------
+1aec_          ------------------------------------------------------------
+CYS7_DICDI     ------------------------------------------------------------
+CYS2_DICDI     ------------------------------------------------------------
+ACP1_ENTHI     ------------------------------------------------------------
+CPR1_DROME     RSANDILGRHKPYDEEAAKAQLQKSLDKLTAGEGPHYKIVKVYSASRQVDSGILTRIDAD
+CATL_SCHMA     ------------------------------------------------------------
+CYSP_PEA       ------------------------------------------------------------
+CATV_NPVAP     ------------------------------------------------------------
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+CYS1_OSTOS     ---------------------------------------------------------MKY
+CYS1_HAECO     ---------------------------------------------------------MKY
+CYS3_OSTOS     ------------------------------------------------------------
+CPR4_CAEEL     ---------------------------------------------------------MKY
+CPR5_CAEEL     ---------------------------------------------------------MWK
+CYS1_CAEEL     ---------------------------------------------------------MKF
+CYSP_SCHMA     ------------------------------------------------------------
+CYSP_SCHJA     ------------------------------------------------------------
+CAL2_GIALA     ---------------------------------------------------------MKL
+CAL1_GIALA     ---------------------------------------------------------MAL
+1ppn_          ------------------------------------------------------------
+1yal_          ------------------------------------------------------------
+1cqd_A         ------------------------------------------------------------
+1s4v_A         ------------------------------------------------------------
+1atk_          ------------------------------------------------------------
+1iwd_A         ------------------------------------------------------------
+1aec_          ------------------------------------------------------------
+CYS7_DICDI     --------------------------------MKVLSALCVLLV---SVATAK---QQLS
+CYS2_DICDI     --------------------------------MRLLVFLILLIFVNFSFANVRPNGRRFS
+ACP1_ENTHI     --------------------------------------------------------MFAL
+CPR1_DROME     LIDGSEEQHRCIVDIWTKVWVRKDEHEITFKCRNQPVVQARHTRSVEWAEKKTHKKHSHR
+CATL_SCHMA     -----------------------------------------MPVNLEYLGFKLP------
+CYSP_PEA       --------------------MDRRFLFALFLFAAVATAVTDDTNNDDFIIRQVVDNEEDH
+CATV_NPVAP     ----------------------------------------MNKIVLYLLVYGATLGAAYD
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     -----MSWSRSILCLLGAFANA-RSIPYYPPLSSDLVNHINKLNTTGRAG------HNFH
+CYS1_OSTOS     LFFALCLYLYQGISEAEVPAEQ-IPLEAQALSGLPLVEYLQKNQRLFEVTATP---VPYF
+CYS1_HAECO     LVLALCTYLCSQTGADENAAQG-IPLEAQRLTGEPLVAYLRRSQNLFEVNSAP---TPNF
+CYS3_OSTOS     ------------------------------------------------------------
+CPR4_CAEEL     LILAALVAVTAGLV-IP---LV-P-----K-TQEAITEYVNSKQSLWKAEIPKDITIEQV
+CPR5_CAEEL     LSAILLVAAASAVV-IPGHREA-P-----ALTGQALIDYVNSAQKLWTAG-HQVIPKEKI
+CYS1_CAEEL     LILTALCAVTLAFVPINHQSAV-E-----TLTGQALVDYVNSAQSLFKTE-HVEITEEEM
+CYSP_SCHMA     -MLTSILCIASLITFLEAHISV-K-NEKFEPLSDDIISYINEHPNAGWRAEKSNRFHSLD
+CYSP_SCHJA     -MLKIAVYIVSLFTFLEAHVTT-RNNQRIEPLSDEMISFINEHPDAGWKADKSDRFHSLD
+CAL2_GIALA     FLLAAAAFSAPALTVSE----------------LNHIKSLNPRWKAGIPKRFEGLTKDEI
+CAL1_GIALA     SLLLAVVCAKPLVSRAE----------------LRRIQALNPPWKAGMPKRFENVTEDEF
+1ppn_          ------------------------------------------------------------
+1yal_          ------------------------------------------------------------
+1cqd_A         ------------------------------------------------------------
+1s4v_A         ------------------------------------------------------------
+1atk_          ------------------------------------------------------------
+1iwd_A         ------------------------------------------------------------
+1aec_          ------------------------------------------------------------
+CYS7_DICDI     EVEYRNAFTNWMIAHQRHYSSE-EFNGRYNIFKANMDYVNEWNTKG-SETVLGLNVFADI
+CYS2_DICDI     ESQYRTAFTEWTLKFNRQYSSS-EFSNRYSIFKSNMDYVDNWNSKGDSQTVLGLNNFADI
+ACP1_ENTHI     ILFVSLACANEVAFKQWAATHN-KVFANRAEYLYRFAVFLDNKKFVEANANTELNVFADM
+CPR1_DROME     FDKVDHLFYKFQVRFGRRYVSTAERQMRLRIFRQNLKTIEELNANEMGSAKYGITEFADM
+CATL_SCHMA     -GNVDEKYVQFKLKYRKQYHET-EDEIRFNIFKSNILKAQLYQVFVRGSAIYGVTPYSDL
+CYSP_PEA       LLNAEHHFTSFKSKFSKSYATK-EEHDYRFGVFKSNLIKAKLHQNRDPTAEHGITKFSDL
+CATV_NPVAP     LLKAPSYFEEFLHKFNKNYSSESEKLRRFKIFQHNLEEIINKNQN-DTSAQYEINKFSDL
+
+
+1cpj_A         -----------------------------------LPESFDAREQWSNCPTIAQIRDQGS
+CATB_CHICK     NTDMSYVKKLCGTFLGGPKA----PERVDFAEDMDLPDTFDTRKQWPNCPTISEIRDQGS
+CYS1_OSTOS     KQRLMDLKYIDQNNIPDEEV----EDEELEENNDDIPESYDPRIQWANCSSLFHIPDQAN
+CYS1_HAECO     EQKIMDIKYKHQK-LNLMVK----EDPDPEV---DIPPSYDPRDVWKNCTT-FYIRDQAN
+CYS3_OSTOS     ------------------------------------------------------------
+CPR4_CAEEL     KKRLMRTEFVAPH---TPDV----EVVKHDINEDTIPATFDARTQWPNCMSINNIRDQSD
+CPR5_CAEEL     TKKLMDVKYLVPH---K-DE----DIVATEVS-DAIPDHFDARDQWPNCMSINNIRDQSD
+CYS1_CAEEL     KFKLMDGKYAAAH---SDEI----RATEQEVVLASVPATFDSRTQWSECKSIKLIRDQAT
+CYSP_SCHMA     DARIQMGARREEPDLRRKRR----PTVDHNDWNVEIPSNFDSRKKWPGCKSIATIRDQSR
+CYSP_SCHJA     DARILMGARKEDAEMKRNRR----PTVDHHDLNVEIPSQFDSRKKWPHCKSISQIRDQSR
+CAL2_GIALA     SSLLMPVSFLKNAKGAAPRG----TFTD----KDDVPESFDFREEYPHC--IPEVVDQGG
+CAL1_GIALA     RSMLIRPDRLRARSGSLPPI----SITEVQELVDPIPPQFDFRDEYPQC--VKPALDQGS
+1ppn_          -----------------------------------IPEYVD----WRQKGAVTPVKNQGS
+1yal_          -----------------------------------YPQSID----WRAKGAVTPVKNQGA
+1cqd_A         -----------------------------------LPDSID----WRENGAVVPVKNQGG
+1s4v_A         ----------------------------------TVPASVD----WRKKGAVTSVKDQGQ
+1atk_          -----------------------------------APDSVD----YRKKGYVTPVKNQGQ
+1iwd_A         -----------------------------------LPSFVD----WRSKGAVNSIKNQKQ
+1aec_          -----------------------------------LPSYVD----WRSAGAVVDIKSQGE
+CYS7_DICDI     SNEEYRATYLGTPFDASSL------EMTESDKIFDASAQVD----WRTQGAVTPIKNQGQ
+CYS2_DICDI     TNEEYRKTYLGTRVNAHSYNGYDGREVLNVEDLQTNPKSID----WRTKNAVTPIKDQGQ
+ACP1_ENTHI     THEEFIQTHLGMTYEVPET------TSNVKAAVKAAPESVD----WRS--IMNPAKDQGQ
+CPR1_DROME     TSSEYKER--TGLWQRDEAKATGGSAAVVPAYHGELPKEFD----WRQKDAVTQVKNQGS
+CATL_SCHMA     TTDEFARTHLTASWVVPSSRSN--TPTSLGKEVNNIPKNFD----WREKGAVTEVKNQGM
+CYSP_PEA       TASEFRRQFLGLKKRLRLPA---HAQKAPILPTTNLPEDFD----WREKGAVTPVKDQGS
+CATV_NPVAP     SKDETISKYTGLSLPLQKQNFC--EVVVLDRPPDKGPLEFD----WRRLNKVTSVKNQGM
+
+
+1cpj_A         CGSCWAFGAVEAMSDRICIHTNGRVNVEVSAEDLLTCCGI--Q------CGDGCNGGYPS
+CATB_CHICK     CGSCWAFGAVEAISDRICVHTNAKVSVEVSAEDLLSCCGF--E------CGMGCNGGYPS
+CYS1_OSTOS     CGSCWAVSSAAAMSDRICIASKGAKQVLISAQDVVSCC-T--W------CGDGCEGGWPI
+CYS1_HAECO     CGSCWAVSTAAAISDRICIASKAEKQVNISATDIMTCCRP--Q------CGDGCEGGWPI
+CYS3_OSTOS     ------------------------------------------------------------
+CPR4_CAEEL     CGSCWAFAAAEAASDRFCIASNGAVNTLLSAEDVLSCCS---N------CGYGCEGGYPI
+CPR5_CAEEL     CGSCWAFAAAEAISDRTCIASNGAVNTLLSSEDLLSCCTGMFS------CGNGCEGGYPI
+CYS1_CAEEL     CGSCWAFGAAEMISDRTCIETKGAQQPIISPDDLLSCCGS--S------CGNGCEGGYPI
+CYSP_SCHMA     CGSCWSFGAVEAMSDRSCIQSGGKQNVELSAVDLLTCCE---S------CGLGCEGGILG
+CYSP_SCHJA     CGSCWAFGAVEAMTDRICIQSGGGQSAELSALDLISCCK---D------CGDGCQGGFPG
+CAL2_GIALA     CGSCWAFSSVATFGDRRCVAGLDKKPVKYSPQYVVSCDHG----------DMACNGGWLP
+CAL1_GIALA     CGSCWAFSAIGVFGDRRCAMGIDKEAVSYSQQHLISCSLE----------NFGCDGGDFQ
+1ppn_          CGSCWAFSAVVTIEGIIKIRTG--NLNEYSEQELLDCD--R-R-------SYGCNGGYPW
+1yal_          CGSXWAFSTIATVEGINKIVTG--NLLELSEQELVDCD--K-H-------SYGCKGGYQT
+1cqd_A         CGSCWAFSTVAAVEGINQIVTG--DLISLSEQQLVDCT-T--A-------NHGCRGGWMN
+1s4v_A         CGSCWAFSTIVAVEGINQIKTN--KLVSLSEQELVDCD-TD-Q-------NQGCNGGLMD
+1atk_          CGSCWAFSSVGALEGQLKKKTG--KLLNLSPQNLVDCV--S-E-------NDGCGGGYMT
+1iwd_A         CGSCWAFSAVAAVESINKIRTG--QLISLSEQELVDCD--T-A-------SHGCNGGWMN
+1aec_          CGGCWAFSAIATVEGINKIVTG--VLISLSEQELIDCGRTQ-N-------TRGCNGGYIT
+CYS7_DICDI     CGGCWSFSTTGATEGAQYLANGKKNLVSLSEQNLIDCSGSY-G-------NNGCEGGLMT
+CYS2_DICDI     CGSCWSFSTTGSTEGAHALKT--KKLVSLSEQNLVDCSGPE-E-------NFGCDGGLMN
+ACP1_ENTHI     CGSCWTFCTTAVLEGRVNKDLG--KLYSFSEQQLVDCD--A-S-------DNGCEGGHPS
+CPR1_DROME     CGSCWAFSVTGNIEGLYAVKTG--ELKEFSEQELLDCD------TT----DSACNGGLMD
+CATL_SCHMA     CGSCWAFSTTGNVESQWFRKTG--KLLSLSEQQLVDCD------GL----DDGCNGGLPS
+CYSP_PEA       CGSCWAFSTTGALEGAHYLATG--KLVSLSEQQLVDCDHVC-DPEQAGSCDSGCNGGLMN
+CATV_NPVAP     CGACWAFATLGSLESQFAIKHD--QLINLSEQQLIDCD--F-V-------DVGCDGGLLH
+
+
+1cpj_A         GAWNFWTRKG-LVSGGVYNSHIGCLPYTIPPCEHHVNGARP-PCTGEG-DTPKCNKMCEA
+CATB_CHICK     GAWRYWTERG-LVSGGLYDSHVGCRAYTIPPCEHHVNGSRP-PCTGEGGETPRCSRHCEP
+CYS1_OSTOS     SAFRFHADEG-VVTGGDYNTKGSCRPYEIHPCGHHGNETYYGECVGMA-DTPRCKRRCLL
+CYS1_HAECO     EAWKYFIYDG-VVSGGEYLTKDVCRPYPIHPCGHHGNDTYYGECRGTA-PTPPCKRKCRP
+CYS3_OSTOS     -AWQYFALEG-VVTGGNYRKQGCCRPYEFPPCGRHGKEPYYGECYDTA-KTPKCQKTCQR
+CPR4_CAEEL     NAWKYLVKSG-FCTGGSYEAQFGCKPYSLAPCGETVGNVTWPSCPDDGYDTPACVNKCTN
+CPR5_CAEEL     QAWKWWVKHG-LVTGGSYETQFGCKPYSIAPCGETVNGVKWPACPEDTEPTPKCVDSCTS
+CYS1_CAEEL     QALRWWDSKG-VVTGGDYHGA-GCKPYPIAPC--TSGN-----CPES--KTPSCSMSCQS
+CYSP_SCHMA     PAWDYWVKEG-IVTASSKENHTGCEPYPFPKCEHHTKGKYP-PCGSKIYNTPRCKQTCQR
+CYSP_SCHJA     VAWDYWVKRG-IVTGGSKENHTGCQPYPFPKCEHHTKGKYP-ACGTKIYKTPQCKQTCQK
+CAL2_GIALA     NVWKFLTKTG-TTTD-------ECVPYK--SGSTTLRGT--------------CPTKCAD
+CAL1_GIALA     PTWSFLTFTG-ATTA-------ECVKYV--DYGHTVASP--------------CPAVCDD
+1ppn_          SALQLVAQYG-IHYRNTY-------PYE-------------------GVQR-YCRSREKG
+1yal_          TSLQYVANNG-VHTSKVY-------PYQ-------------------AKQY-KCRATDKP
+1cqd_A         PAFQFIVNNGGINSEETY-------PYR-------------------GQDG-ICN-STVN
+1s4v_A         YAFEFIKQRGGITTEANY-------PYE-------------------AYDG-TCDVSKEN
+1atk_          NAFQYVQKNRGIDSEDAY-------PYV-------------------GQEE-SCMYN-PT
+1iwd_A         NAFQYIITNGGIDTQQNY-------PYS-------------------AVQG-SCKP--YR
+1aec_          DGFQFIINNGGINTEENY-------PYT-------------------AQDG-ECNVDLQN
+CYS7_DICDI     LAFEYIINNKGIDTESSY-------PYT-------------------AEDGKKCKFN-PK
+CYS2_DICDI     NAFDYIIKNKGIDTESSY-------PYT-------------------AETGSTCLFN-KS
+ACP1_ENTHI     NSLKFIQENNGLGLESDY-------PYK-------------------AVAG-TC--K-KV
+CPR1_DROME     NAYKAIKDIGGLEYEAEY-------PYK-------------------AKKN-QCHFN-RT
+CATL_SCHMA     NAYESIIKMGGLMLEDNY-------PYD-------------------AKNE-KCHLK-TD
+CYSP_PEA       NAFEYLLESGGVVQEKDY-------AYT-------------------GRDG-SCKFD-KS
+CATV_NPVAP     TAYEAVMNMGGIQAENDY-------PYE-------------------ANNG-PCRVN-AA
+
+
+1cpj_A         --GYSTSYKEDKHYGYTSYS-VSDSEKEIMAEIYKNGPVEGAFTVFS-DFLTYKSG-VYK
+CATB_CHICK     --GYSPSYKEDKHYGITSYG-VPRSEKEIMAEIYKNGPVEGAFIVYE-DFLMYKSG-VYQ
+CYS1_OSTOS     --GYPKSYPSDRYY-KKAYQ-LKNSVKAIQKDIMKNGPVVATYTVYE-DFAHYRSG-IYK
+CYS1_HAECO     --GVRKMYRIDKRYGKDAYI-VKQSVKAIQSEILRNGPVVASFAVYE-DFRHYKSG-IYK
+CYS3_OSTOS     --GYLKAYKEDKHFGKSAYR-LPNNVKAIQRDIMKNGPVVAGFIVYE-DFAHYKSG-IYK
+CPR4_CAEEL     K-NYNVAYTADKHFGSTAYA-VGKKVSQIQAEIIAHGPVEAAFTVYE-DFYQYKTG-VYV
+CPR5_CAEEL     KNNYATPYLQDKHFGSTAYA-VGKKVEQIQTEILTNGPIEVAFTVYE-DFYQYTTG-VYV
+CYS1_CAEEL     --GYSTAYAKDKHFGVSAYA-VPKNAASIQAEIYANGPVEAAFSVYE-DFYKYKSG-VYK
+CYSP_SCHMA     --KYKTPYTQDKHRGKSSYN-VKNDEKAIQKEIMKYGPVEASFTVYE-DFLNYKSG-IYK
+CYSP_SCHJA     --GYKTPYEQDKHYGDESYN-VQNNEKVIQRDIMMYGPVEAAFDVYE-DFLNYKSG-IYR
+CAL2_GIALA     --GSSKVHLATAT----SYKDYGLDIPAMMKALSTSGPLQVAFLVHS-DFMYYESG-VYQ
+CAL1_GIALA     --GSP-IQLYKAH----GYGQVSKSVPAIMGMLVAGGPLQTMIVVYA-DLSYYESG-VYK
+1ppn_          --PYAAKTDGVRQV-------QPYNEGALLYSIANQ-PVSVVLEAAGKDFQLYRGG-IFV
+1yal_          --GPKVKITGYKRV-------PSNXETSFLGALANQ-PLSVLVEAGGKPFQLYKSG-VFD
+1cqd_A         --APVVSIDSYENV-------PSHNEQSLQKAVANQ-PVSVTMDAAGRDFQLYRSG-IFT
+1s4v_A         --APAVSIDGHENV-------PENDENALLKAVANQ-PVSVAIDAGGSDFQFYSEG-VFT
+1atk_          --GKAAKCRGYREI-------PEGNEKALKRAVARVGPVSVAIDASLTSFQFYSKG-VYY
+1iwd_A         --LRVVSINGFQRV-------TRNNESALQSAVASQ-PVSVTVEAAGAPFQHYSSG-IFT
+1aec_          --EKYVTIDTYENV-------PYNNEWALQTAVTYQ-PVSVALDAAGDAFKQYSSG-IFT
+CYS7_DICDI     --NVAAQLSSYVNV-------TSGSESDLAAKVTQG-PTSVAIDASNQSFQLYVSG-IYN
+CYS2_DICDI     --DIGATIKGYVNI-------TAGSEISLENGAQHG-PVSVAIDASHNSFQLYTSG-IYY
+ACP1_ENTHI     --KNVATVTGSRRV-------TDGSETGLQTIIAENGPVAVGMDASRPSFQLYKKGTIYS
+CPR1_DROME     --LSHVQVAGFVDL-------PKGNETAMQEWLLANGPISIGINANA--MQFYRGG-VSH
+CATL_SCHMA     --GVAVYINSSVNL-------TQ-DETELAAWLYHNSTISVGMNALL--LQFYQHG-ISH
+CYSP_PEA       --KVVASVSNFSVV-------TLDEDQIAANLVKNG-PLAVAINAAW--MQTYMSG-VSC
+CATV_NPVAP     --KFVVRVKKCYRY-------VTLFEEKLKDLLRIVGPIPVAIDAS--DIVGYKRG-IIR
+
+
+1cpj_A         HEA--GDVM-GGHAIRILGWGI-ENG----------------------------------
+CATB_CHICK     HVS--GEQV-GGHAIRILGWGV-ENG----------------------------------
+CYS1_OSTOS     HKA--GRKT-GLHAVKVIGWGE-EKG----------------------------------
+CYS1_HAECO     HTA--GELR-GYHAVKMIGWGN-ENN----------------------------------
+CYS3_OSTOS     HTA--GRMT-GGHAVKIIGWGK-EKG----------------------------------
+CPR4_CAEEL     HTT--GQEL-GGHAIRILGWGT-DNG----------------------------------
+CPR5_CAEEL     HTA--GASL-GGHAVKILGWGV-DNG----------------------------------
+CYS1_CAEEL     HTA--GKYL-GGHAIKIIGWGT-ESG----------------------------------
+CYSP_SCHMA     HIT--GEAL-GGHAIRIIGWGV-ENK----------------------------------
+CYSP_SCHJA     HVT--GSIV-GGHAIRIIGWGV-EKR----------------------------------
+CAL2_GIALA     HTY--GYME-GGHAVEMVGYGTDDDG----------------------------------
+CAL1_GIALA     HTY--GTINLGFHALEIVGYGTTDDG----------------------------------
+1ppn_          G-P--CGNK-VDHAVAAVGY-----G----------------------------------
+1yal_          G-P--CGTK-LDHAVTAVGYGT-SDG----------------------------------
+1cqd_A         G-S--CNIS-ANHALTVVGYGT-END----------------------------------
+1s4v_A         G-S--CGTE-LDHGVAIVGYGT-TID----------------------------------
+1atk_          DES--CNSDNLNHAVLAVGYGI-QKG----------------------------------
+1iwd_A         G-P--CGTA-QNHGVVIVGYGT-QSG----------------------------------
+1aec_          G-P--CGTA-IDHAVTIVGYGT-EGG----------------------------------
+CYS7_DICDI     EPA--CSSTQLDHGVLAVGFGT-GSGSSGSHGGSQSQSAGSDSQSAGSESSQSESGSQSQ
+CYS2_DICDI     EPK--CSPTELDHGVLVVGYGV----------------QGKDDE--GPVLNRKQTIVIHK
+ACP1_ENTHI     DTK--CRSRMMNHCVTAVGYGS-NSN----------------------------------
+CPR1_DROME     PWKALCSKKNLDHGVLVVGYGV-SDYP---------------------------------
+CATL_SCHMA     PWWIFCSKYLLDHAVLLVGYGV-SE-----------------------------------
+CYSP_PEA       PYV--CAKSRLDHGVLLVGFGK-GAY--------------------AP------------
+CATV_NPVAP     Y----CENHGLNHAVLLVGYGV-ENG----------------------------------
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+CYS1_OSTOS     ------------------------------------------------------------
+CYS1_HAECO     ------------------------------------------------------------
+CYS3_OSTOS     ------------------------------------------------------------
+CPR4_CAEEL     ------------------------------------------------------------
+CPR5_CAEEL     ------------------------------------------------------------
+CYS1_CAEEL     ------------------------------------------------------------
+CYSP_SCHMA     ------------------------------------------------------------
+CYSP_SCHJA     ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1ppn_          ------------------------------------------------------------
+1yal_          ------------------------------------------------------------
+1cqd_A         ------------------------------------------------------------
+1s4v_A         ------------------------------------------------------------
+1atk_          ------------------------------------------------------------
+1iwd_A         ------------------------------------------------------------
+1aec_          ------------------------------------------------------------
+CYS7_DICDI     SESGSQSQSQSGSQSFSGSLYSGSYSGSQSGSQSGNSGAAVKQTGAGSGSGSGSGSGSGS
+CYS2_DICDI     NEDNKVESSDDSSDS---------------------------------------------
+ACP1_ENTHI     ------------------------------------------------------------
+CPR1_DROME     ------------------------------------------------------------
+CATL_SCHMA     ------------------------------------------------------------
+CYSP_PEA       ------------------------------------------------------------
+CATV_NPVAP     ------------------------------------------------------------
+
+
+1cpj_A         ----------------------------------VPYWLVANSWNADWGDNGFFKILRGE
+CATB_CHICK     ----------------------------------TPYWLAANSWNTDWGITGFFKILRGE
+CYS1_OSTOS     ----------------------------------TPYWIVANSWHDDWGENGFFRMHRGS
+CYS1_HAECO     ----------------------------------TDFWLIANSWHNDWGEKGYFRIIRGT
+CYS3_OSTOS     ----------------------------------TPYWLIANSWHDDWGEKGFYRMIRGI
+CPR4_CAEEL     ----------------------------------TPYWLVANSWNVNWGENGYFRIIRGT
+CPR5_CAEEL     ----------------------------------TPYWLVANSWNVAWGEKGYFRIIRGL
+CYS1_CAEEL     ----------------------------------SPYWLVANSWGVNWGESGFFKIYRGD
+CYSP_SCHMA     ----------------------------------TPYWLIANSWNEDWGENGYFRIVRGR
+CYSP_SCHJA     ----------------------------------TPYWLIANSWNEDWGEKGLFRMVRGR
+CAL2_GIALA     ----------------------------------VDYWIIKNSWGPDWGEDGYFRMIRGI
+CAL1_GIALA     ----------------------------------TDYWIIKNSWGPDWGENGYFRIVRGV
+1ppn_          ----------------------------------PNYILIKNSWGTGWGENGYIRIKRGT
+1yal_          ----------------------------------KNYIIIKNSWGPNWGEKGYMRLKRQS
+1cqd_A         ----------------------------------KDFWIVKNSWGKNWGESGYIRAERNI
+1s4v_A         ---------------------------------GTKYWTVKNSWGPEWGEKGYIRMERGI
+1atk_          ----------------------------------NKHWIIKNSWGENWGNKGYILMARNK
+1iwd_A         ----------------------------------KNYWIVRNSWGQNWGNQGYIWMERNV
+1aec_          ----------------------------------IDYWIVKNSWDTTWGEEGYMRILRNV
+CYS7_DICDI     GSGSVSGSASGSASGSASGSSSGSNSNGGVYPTAGDYWIVKNSWGTSWGMDGYILMTKGN
+CYS2_DICDI     -----------------------------VRPKANNYWIVKNSWGTSWGIKGYILMSKDR
+ACP1_ENTHI     ----------------------------------GKYWIIRNSWGTSWGDAGYFLLARDS
+CPR1_DROME     -----------------------------NFHKTLPYWIVKNSWGPRWGEQGYYRVYRGD
+CATL_SCHMA     --------------------------------KNEPFWIVKNSWGVEWGENGYFRMYRGD
+CYSP_PEA       -----------------------------IRLKEKPYWIIKNSWGQNWGEQGYYKICRGR
+CATV_NPVAP     ----------------------------------IPFWILKNTWGADWGEQGYFRVQQNI
+
+
+1cpj_A         NH----CGIESEIVAGIPRT-------
+CATB_CHICK     DH----CGIESEIVAGVPRMEQYWTRV
+CYS1_OSTOS     ND----CGFEERMAAGSVQ--------
+CYS1_HAECO     ND----CGIEGTIAAGIVDTESL----
+CYS3_OSTOS     NN----CRIEEMVFAGIV---------
+CPR4_CAEEL     NE----CGIEHAVVGGVPKV-------
+CPR5_CAEEL     NE----CGIEHSAVAGIPDLARHN---
+CYS1_CAEEL     DQ----CGIESAVVAGKAKV-------
+CYSP_SCHMA     DE----CSIESEVIAGRIN--------
+CYSP_SCHJA     DE----CSIESDVVAGLIKT-------
+CAL2_GIALA     ND----CSIEEQAYAGFFDE-------
+CAL1_GIALA     NE----CRIEDEIYAVYLD--------
+1ppn_          GNSYGVCGLYTSSFYPVKN--------
+1yal_          GNSQGTCGVYKSSYYPFKGFA------
+1cqd_A         ENPDGKCGITRFASYPVKK--------
+1s4v_A         SDKEGLCGIAMEASYPIKKSSNN----
+1atk_          NN---ACGIANLASFPKM---------
+1iwd_A         ASSAGLCGIAQLPSYPTKA--------
+1aec_          GG-AGTCGIATMPSYPVKY--------
+CYS7_DICDI     NN---QCGIATMASRPTAVASL-----
+CYS2_DICDI     KN---NCGIASVSSYPLA---------
+ACP1_ENTHI     NN---MCGIGRDSNYPTGVKLI-----
+CPR1_DROME     NT----CGVSEMATSAVLA--------
+CATL_SCHMA     GS----CGINTVATSAMIY--------
+CYSP_PEA       N----VCGVDSMVSTVAAAQSNH----
+CATV_NPVAP     N----ACGIKNELPSSAEIY-------
+
+

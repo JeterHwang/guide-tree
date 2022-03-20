@@ -1,0 +1,782 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 1970  Type: P  December 21, 2021 20:35  Check: 5680  ..
+
+ Name: 1euq_A      Len:   1970  Check: 2474  Weight: -1.00
+ Name: SYQ_HAEIN   Len:   1970  Check: 4775  Weight: -1.00
+ Name: SYQ_NEIMA   Len:   1970  Check: 1489  Weight: -1.00
+ Name: SYQ_PSEAE   Len:   1970  Check: 6584  Weight: -1.00
+ Name: SYQ_BUCAP   Len:   1970  Check:  632  Weight: -1.00
+ Name: SYQ_BUCAI   Len:   1970  Check: 1513  Weight: -1.00
+ Name: SYQ_BUCBP   Len:   1970  Check: 4992  Weight: -1.00
+ Name: SYQ_CLOPE   Len:   1970  Check: 5189  Weight: -1.00
+ Name: SYQ_XANAC   Len:   1970  Check: 6841  Weight: -1.00
+ Name: SYQ_XYLFA   Len:   1970  Check: 9186  Weight: -1.00
+ Name: SYQ_RALSO   Len:   1970  Check: 6741  Weight: -1.00
+ Name: SYQ_DROME   Len:   1970  Check: 6297  Weight: -1.00
+ Name: SYQ_DEIRA   Len:   1970  Check: 6544  Weight: -1.00
+ Name: SYQ_LUPLU   Len:   1970  Check: 7679  Weight: -1.00
+ Name: SYEC_YEAST  Len:   1970  Check: 4862  Weight: -1.00
+ Name: SYEP_HUMAN  Len:   1970  Check:  469  Weight: -1.00
+ Name: SYEP_DROME  Len:   1970  Check: 9413  Weight: -1.00
+
+//
+
+            1                                                   50
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~MA GDDLIAKFQA LGMSEQKAKE TLKNANVTKN LQLSLAAAGS
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   MPAKDDTSSD KEKSLELFLK IGLDERTAKN TVANNKVTTN LTSVINDAGV
+SYEC_YEAST  ~~~~~~~~~~ ~~~MTKLFSK V.......KE SIEGIKMPST LTINGKAPIV
+SYEP_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_DROME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MSIK LKANLNNP..
+
+            51                                                 100
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   A.TLSDGTGM LIYHMATKLK PQTADHLPLL VRYIVEHKLD NTQRVDAALE
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   TDGCSRTVGN LLYTVATKYP ANALPHRPTL LQYIVNSKVK TTAQLDAALS
+SYEC_YEAST  A.....YAEL IAARIVNALA PNS......I AIKLVDDKKA PAAKLD....
+SYEP_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_DROME  P.....ISGL ATAHLINGTV PVE......I V....WSKEE TSLQFPDNR.
+
+            101                                                150
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   YLLKCGQSLN ANIDLQALEK ECGVG..... VVVTPEQIER TVQAKIKA..
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   FLSATGS... ENLDLNKFEE ACGVG..... VEVSTEDIKH AVDEVV.E..
+SYEC_YEAST  .....DAT.. .EDVFNKITS KFA..AIF.. DNGDKEQVAK WVNLAQKELV
+SYEP_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MEHTEIDH WLEFSATKL.
+SYEP_DROME  .LLVCHSN.. .NDVLRALAR AAPDYKLYGE TAIERTQIDH WLSFSLTCE.
+
+            151                                                200
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   .......... .......SYK .EALL.EQRY HFNSFKILQD VRGELKWADA
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~MGAFGWEQD
+SYQ_LUPLU   .......... .......ENK .ATIL.ELRY RVNVGELLGH VRKRLPWADA
+SYEC_YEAST  IKNFAKLSQS LETLDSQLNL RTFILGGLKY SAADVACWGA LRSNGMCGSI
+SYEP_HUMAN  .SSCDSFTST INELNHCLSL RTYLVG.NSL SLADLCVWAT LKGNAAWQEQ
+SYEP_DROME  ....DDISWA LSFLTSPLPP VTYLVA.NKL TIADFALFNE MHSRY...EF
+
+            201                                                250
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MM..
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~M..
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~M..
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~M..
+SYQ_DROME   K...SVKAAI DVEIFDLLG. ........PK TEADLKPQTK ANDKPKAAKP
+SYQ_DEIRA   R...GAPF.. .......... .......... ...SGRSPR. ...ILTRMTD
+SYQ_LUPLU   K...VVKQLV DAKLYEILG. ........DR TAADNEKPKK KKEKPAKVED
+SYEC_YEAST  .IKNKVDVNV .SRWYTLLEM DPIFGEAHDF LSKSLLELK. ...K.....S
+SYEP_HUMAN  LKQKKAPVHV .KRWFGFLEA QQAFQSVGTK WDVST..... .........T
+SYEP_DROME  LAAKGIPQHV .QRWYDLITA QPLIQKVLQS LPEDAKVKR. ...SPQSSKE
+
+            251                                                300
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~TN
+SYQ_HAEIN   .........S .......HTE T......... .........S LGAENTRTHN
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M LNKDQFADNH
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M SKPETTAAPN
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M NNKIEKNDNN
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M DTKKEIKNNN
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MKKQHSKISN
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M S..NAEHSSN
+SYQ_XANAC   .........S .......ETL A......... .........T DATAPAEKKD
+SYQ_XYLFA   .........S .......EIT S......... .........T DARAQPEKKD
+SYQ_RALSO   .........S .......QDN .......... .........A TGAAAASTSN
+SYQ_DROME   KAEVTPAAQT AEAASDGATT ISELMKTKVH FHAPGENFKA DGYVVTE...
+SYQ_DEIRA   AP..RPTAGA .......DAP A......... .........R PPAAPLVAPN
+SYQ_LUPLU   KA..APVATS .......EKP LEEDLNPYLI FPNPEDNFKV HTEVPFSDGN
+SYEC_YEAST  A......... ........N. .......... .........V GKKKETHKAN
+SYEP_HUMAN  K......... ........A. .......... .........R VAPEKKQDVG
+SYEP_DROME  Q......... ........T. .......... .........P AKTGERKQEG
+
+            301                                                350
+1euq_A      FIRQIIDEDL ASGKH..... ......TTVH TRFPPEPNGY LHIGHAKSIC
+SYQ_HAEIN   FITQIIDEDL ASGKH..... ......KSVH TRFPPEPNGY LHIGHAKSIC
+SYQ_NEIMA   FIRTIIEDDL KSGKH..... ......EAVQ TRFPPEPNGY LHIGHAKSIC
+SYQ_PSEAE   FLRQIVQADL DAGKH..... ......AKIV TRFPPEPNGY LHIGHAKSIC
+SYQ_BUCAP   FIYKIINEDF KKNKN..... ......LLLH TRFPPEPNGY LHIGHAKSIC
+SYQ_BUCAI   FICQIINKDL NENKN..... ......LSFY TRFPPEPNGY LHIGHAKSIC
+SYQ_BUCBP   FIQKIISEDI QNKKI..... ......THVK TRFPPEPNGY LHLGHAKSIC
+SYQ_CLOPE   FIRNIIIDDL DSKKH..... ......DTII TRFPPEPNGY LHIGHAKSIV
+SYQ_XANAC   FIRQIVREDL ASGKH..... ......TVIR TRFPPEPNGY LHIGHAKAIC
+SYQ_XYLFA   FIRQIIREDL AHGTH..... ......THIR TRFPPEPNGY LHIGHAKAIC
+SYQ_RALSO   FLRQIIDTDL EQGTYAGRQD TAGHALPPII TRFPPEPNGY LHIGHAKSIW
+SYQ_DROME   .....HTERL .......LKE HLARTGGKVH TRFPPEPNGI LHIGHAKAIN
+SYQ_DEIRA   FITEIIERDL EAGKY..... ......PRVV TRFPPDPSGY AHLGHVFASL
+SYQ_LUPLU   ILRCCNTKAL LE.KH..... .LKATGGKVL TRFPPEPNGY LHIGHAKAMF
+SYEC_YEAST  F.....EIDL .......... .PDAKMGEVV TRFPPEPSGY LHIGHAKAAL
+SYEP_HUMAN  K.....FVEL .......... .PGAEMGKVT VRFPPEASGY LHIGHAKAAL
+SYEP_DROME  K.....FVDL .......... .PGAEMGKVV VRFPPEASGY LHIGHAKAAL
+
+            351                                                400
+1euq_A      LNFGIAQDYK GQCNLRFDDT NPVKEDIEYV ESIKNDVEWL GFHWSG....
+SYQ_HAEIN   LNFGLAKEYQ GLCNLRFDDT NPVKEDVEYV DSIKADVEWL GFKWEG....
+SYQ_NEIMA   LNFGLAYIYD GLCNLRFDDT NPEKENDEYV NAIKEDVEWL GFHWAG....
+SYQ_PSEAE   LNFGLAQEFA GDCHLRFDDT NPAKEDQEYI DAIEADIKWL GFQWSG....
+SYQ_BUCAP   LNFELANVYN GYCNLRFDDT NPVKENIKYI NSIKNDIKWL GYQWHK....
+SYQ_BUCAI   LNFELASLYK GRCNLRFDDT NPLKENIKYI ESIKHDINWL GYKWHG....
+SYQ_BUCBP   LNFDLAQEFK GTCNLRFDDT NPKNEDTCYI NSIIQDIKWL EYKWHN....
+SYQ_CLOPE   LNFELGKEFN GRTNLRFDDT NPTKEDTEYV ESIKEDVHWL GYNWS.....
+SYQ_XANAC   LDFGLAAEFG GLCNLRLDDT NPAKEDPEFV VAIQDDVRWL GYDWA.....
+SYQ_XYLFA   LDFGVAAEFG GHCTLRMDDT NPSKEDPAFA AAIQDDVSWL GFHWN.....
+SYQ_RALSO   VNFGLAKEYG GRCHLRFDDT NPVKEDTEYV DSIIDAVHWL GYSWQNGTGE
+SYQ_DROME   INFGYAAAHD GVCYLRYDDT NPEKEEEKFF LAIKEMVEWL GYKPF.....
+SYQ_DEIRA   LDFNTARQYG GQFNLRMDDT NPELARQEYV DSIADDLKWL GLDWGE....
+SYQ_LUPLU   VDFGLAKDRN GGCYLRFDDT NPEAEKKEYI DHIEEIVQWM GWEPF.....
+SYEC_YEAST  LNQYFAQAYK GKLIIRFDDT NPSKEKEEFQ DSILEDLDLL GIKGD.....
+SYEP_HUMAN  LNQHYQVNFK GKLIMRFDDT NPEKEKEDFE KVILEDVAML HIKPD.....
+SYEP_DROME  LNQYYALVCQ GTLIMRFDDT NPAKETVEFE NVILGDLEQL QIKPD.....
+
+            401                                                450
+1euq_A      NVRYSSDYFD QLHAYAIELI NKGLAYVDEL TPEQIREYRG TLTQPGKNSP
+SYQ_HAEIN   EPRYASDYFD ALYGYAVELI KKGLAYVDEL SPDEMREYRG TLTEPGKNSP
+SYQ_NEIMA   EPRFASNYFD QLYDYAVGLI KDGKAYVDDL TPEEMREYRG TLTEAGKNSP
+SYQ_PSEAE   EVCYASNYFD QLHAWAVELI KAGKAFVCDL GPEEMREYRG TLTEPGRNSP
+SYQ_BUCAP   KVRYSSEYFP ILYEYAKELI QKGLAYVDEL TKEEIREYRG TLSTVGKNSP
+SYQ_BUCAI   NVRYASEYFL KLYQYAQELI KKGLAYVDHL TKEQIREYRG TLNTPGKNSP
+SYQ_BUCBP   KIRYASLYFN KIYQYAIKLI KKGLAYVDQL SPEEIRTFRG TLTTSGIDSP
+SYQ_CLOPE   ELHFASNYFD EMYKRALLLI KKGKAYVCDL TPEEIKEYRG TLTEPGKESP
+SYQ_XANAC   QLRHASDYFQ VYYLAAQKLI RDGHAFVCDL SAEQVRQYRG TLTEPGRNSP
+SYQ_XYLFA   ALRHTSDYFE VLYLAAEKLI TDGKAYVCDL NSEQVREYRG TLTEAGRPSP
+SYQ_RALSO   HLYYASDYFE QLYGFAEVLI QRGAAYIDSQ SAEQIAANRG DFTRPGTPSP
+SYQ_DROME   KITYSSDNFQ QLYEWAVVLI NKGLAYVCHQ KAEELKGFN. .....PKPSP
+SYQ_DEIRA   HFYYASDYFD RYYAYAEQLI RQGDAYVESV SPEELSRLRG NATTPGTPSP
+SYQ_LUPLU   KITYTSNYFQ ELYEFAVELI RRGHAYVDHQ TADEIKEYRE K....KLNSP
+SYEC_YEAST  RITYSSDYFQ EMYDYCVQMI KDGKAYCDDT PTEKMREERM D....GVASA
+SYEP_HUMAN  QFTYTSDHFE TIMKYAEKLI QEGKAYVDDT PAEQMKAERE Q....RIESK
+SYEP_DROME  VFTHTSNYFD LMLDYCVRLI KESKAYVDDT PPEQMKLERE Q....RVESA
+
+            451                                                500
+1euq_A      YRDRSVEENL ALF.EKMRAG GFEEGKACLR AKIDMASPFI VMRDPVLYRI
+SYQ_HAEIN   YRDRTIEENL ALF.EKMKNG EFAEGKASLR AKIDMASPFM VMREPVIYRI
+SYQ_NEIMA   YRDRSVEENL DLF.TRMKNG EFPDGSKTLR LKIDMASGNI NMRDPVIYRI
+SYQ_PSEAE   YRDRSVEENL DLF.ARMKAG EFPDGARSLR AKIDMGSPNM NLRDPILYRI
+SYQ_BUCAP   YRNRSITENL KLF.EKMKKG EFKEGEACLR AKINMSSSFI VMRDPVLYRI
+SYQ_BUCAI   YRNRTIQENI ELF.EKMKKG DFSEGEACLR AKINMSSSSI IMRDPVLYRI
+SYQ_BUCBP   YRTQSIEKNL NLF.KKMKQG KMLEGTACLR AKIDMASNCI TMRDPVLYRI
+SYQ_CLOPE   YRNRSIEENL DLF.ERMRKG EFEDGSKVLR AKIDMSSPNI NFRDPIIYRI
+SYQ_XANAC   FRERSVEENL DLF.ARMRAG EFPDGARTLR AKIDMASGNI NLRDPALYRI
+SYQ_XYLFA   WRERSPDENL ELF.RQMRAG TFPDGTRTLR AKIDMASGNI NLRDPALYRI
+SYQ_RALSO   FRDRSVEENL ALF.RDMRAG KYQDGQHVLR ARIDMAAPNI VMRDPVLYRI
+SYQ_DROME   WRERPIEESL RLF.EDMKRG KIDEGAATLR MKVTLEEGKM ...DPVAYRI
+SYQ_DEIRA   YRDRSVEENL DLL.RRMKAG EFADGEHVLR AKIDLTAPNM KLRDPVLYRI
+SYQ_LUPLU   WRDRPISESL KLF.EDMRRG FIEEGKATLR MKQDMQSDNY NMYDLIAYRI
+SYEC_YEAST  RRDRSVEENL RIFTEEMKNG TEEGLKNCVR AKIDYKALNK TLRDPVIYRC
+SYEP_HUMAN  HRKNPIEKNL QMW.EEMKKG SQFGHSCCLR AKIDMSSNNG CMRDPTLYRC
+SYEP_DROME  NRSNSVEKNL SLW.EEMVKG SEKGQNTACA AKIDMSSPNG CMRDPTIYRC
+
+            501                                                550
+1euq_A      KFAEHHQTGN KWCIYPMYDF THCISDALEG ITHSLCTLEF QDNRRLYDWV
+SYQ_HAEIN   KFSSHHQTGD KWCIYPMYDF THCISDAIER ITHSICTLEF QDNRRLYDWV
+SYQ_NEIMA   RRAHHHNTGD KWCIYPMYDY THCISDAIEG ITHSLCTLEF EAHRPLYDWV
+SYQ_PSEAE   RHAHHHQTGD KWCIYPSYDF THGQSDAIEG ITHSICTLEF EDHRPLYEWF
+SYQ_BUCAP   IFSTHHQTKK KWCIYPTYDF AHCLSDSIEG ITHSFCTLEF QDNKNLYNWI
+SYQ_BUCAI   IFIKHHQTQN KWCIYPMYDF AHCLSDSIEG ITHSLCTLEF QDNKFLYNWI
+SYQ_BUCBP   IFSKHHQTNK KWCIYPTYDF THCISDALEK ITHSLCTLEF QDHRKLYEWI
+SYQ_CLOPE   AHASHHNTGD KWCIYPMYDF AHPLEDAIEG ITHSICTLEF ADHRPLYDWF
+SYQ_XANAC   KHVEHQNTGN AWPIYPMYDF AHSLGDAVEG ITHSLCTLEF EDHRPLYDWC
+SYQ_XYLFA   KHVEHQNTGN TWPIYPMYDF AHALSDAIEG ITHSLCTLEF EDHRPLYDWC
+SYQ_RALSO   RHAHHHRTGD AWCIYPMYDF THCISDALEN ITHSLCTLEF ENNRPLYDWV
+SYQ_DROME   KFISHHRTGS DWCIYPTYDY THCLCDSLED ITHSLCTKEF QSRRSSYYWL
+SYQ_DEIRA   VNKPHFRTSD EWHIYPAYDF EHPLQDAIEG VTHSMCSLEF VDNRAIYDWL
+SYQ_LUPLU   KFTPHPHAGD KWCIYPSYDY AHCIVDSIEN VTHSLCTLEF ETRRASYYWL
+SYEC_YEAST  NLTPHHRTGS TWKIYPTYDF CVPIVDAIEG VTHALRTIEY RDRNAQYDWM
+SYEP_HUMAN  KIQPHPRTGN KYNVYPTYDF ACPIVDSIEG VTHALRTTEY HDRDEQFYWI
+SYEP_DROME  KNEPHPRTGT KYKVYPTYDF ACPIVDAIEN VTHTLRTTEY HDRDDQFYWF
+
+            551                                                600
+1euq_A      LDNITIP... .......... .....VHPRQ YEFSRLNLEY TVMSKRKLNL
+SYQ_HAEIN   LENISIER.. .......... .....PLPHQ YEFSRLNLEG TLTSKRKLLK
+SYQ_NEIMA   LDNIHAPH.. .......... ....ATRPRQ YEFSRLELLY TITSKRKLNQ
+SYQ_PSEAE   LANLPVP... .......... .....AQPRQ YEFSRLNLNY TVTSKRKLKQ
+SYQ_BUCAP   LKNTSIK... .......... .....HYSKQ YEFSRLNLEY SILSKRKISI
+SYQ_BUCAI   LKNTSVK... .......... .....HYPKQ YEFSRLNLEF SILSKRKIKI
+SYQ_BUCBP   LKKIDIS... .......... .....CNTHQ YEFSRLKLEY SVLSKRKLNL
+SYQ_CLOPE   VKECEME... .......... .....SVPRQ IEFARLNITN TVMSKRKLKQ
+SYQ_XANAC   VDKVDLVGHP ELLQPLLDKG LPREAAKPRQ IEFSRLNINY TVMSKRKLTA
+SYQ_XYLFA   VNHVDLPNNS HLLKPLLDKG FPQEPSQPRQ IEFSRLNINY TVMSKRKLTA
+SYQ_RALSO   LDHLRDAG.. .......... .ALPAPLPHQ YEFARLHLTY AITSKRKLLQ
+SYQ_DROME   CNALGIY... .......... ......CPVQ WEYGRLNMNY ALVSKRKIAK
+SYQ_DEIRA   MEKLNFD... .......... .....PRPHQ YEFGRRGLEY TITSKRKLRE
+SYQ_LUPLU   LHALGIY... .......... ......QPYV WEYSRLNVSN TVMSKRKLNR
+SYEC_YEAST  LQALRLR... .......... ......KVHI WDFARINFVR TLLSKRKLQW
+SYEP_HUMAN  IEALGIR... .......... ......KPYI WEYSRLNLNN TVLSKRKLTW
+SYEP_DROME  IDALKLR... .......... ......KPYI WSYSRLNMTN TVLSKRKLTW
+
+            601                                                650
+1euq_A      LVTDKHVEGW DDPRMPTISG LRRRGYTAAS IREFCKRIGV TKQDN.TIEM
+SYQ_HAEIN   LVNDEIVDGW NDPRMPTISG LRRRGYTPAS LREFCRRIGV TKQDN.VVEY
+SYQ_NEIMA   LVVEKHVSGW DDPRMPTISG MRRRGYTPEG LRLFAKRAGI SKSEN.IVDM
+SYQ_PSEAE   LVDEGHVSGW DDPRMSTLSG YRRRGYTPES IRNFCEMIGV NRASG.VVDI
+SYQ_BUCAP   LIEKKIVNGW DDPRILTISG LRKKGYTASS IRDFCHRIGI TKQNN.LIEF
+SYQ_BUCAI   LIDKNIIEGW DDPRIPTLSA LRRKGYTPSS IKNFCQKIGV TKQNN.LIEF
+SYQ_BUCBP   LVNNKVVNGW DDPRMPTLSG LRNRGYTPSS IKLFCKKIGI TKQEN.TIQL
+SYQ_CLOPE   LVDEGIVDGW DDPRMPTVAG LRRRGYTPKS IRNFCKAIGV AKADS.TVDS
+SYQ_XANAC   LVEEQLVDGW DDPRMYTLQG LRRRGYTPAA MRLFVDRVGI SKQNS.LIDF
+SYQ_XYLFA   LVDEKLVEGW DDPRMYTLQG LRRRGYTPAA MRLFVERIGI SKQNS.IIDF
+SYQ_RALSO   LVNEKRVDGW DDPRMPTLVG IRRRGYTPES IQLFCERVGV SKADS.WIDM
+SYQ_DROME   LITEQIVHDW DDPRLFTLTA LRRRGFPAEA INNFCAQMGV TGAQI.AVDP
+SYQ_DEIRA   LVQAGRVSGW DDPRMPTLRA QRRLGVTPEA VRAFAAQIGV SRTNR.TVDI
+SYQ_LUPLU   LVTEKWVDGW DDPRLMTLAG LRRRGMTPTA INAFVRGMGI TRSDGTLISV
+SYEC_YEAST  MVDKDLVGNW DDPRFPTVRG VRRRGMTVEG LRNFVLSQGP SRNVI.NLEW
+SYEP_HUMAN  FVNEGLVDGW DDPRFPTVRG VLRRGMTVEG LKQFIAAQGS SRSVV.NMEW
+SYEP_DROME  FVDSGLVDGW DDPRFPTVRG IIRRGMTVEG LKEFIIAQGS SKSVV.FMNW
+
+            651                                                700
+1euq_A      ASLESCIRED LNENAPRAMA VIDPVKLVIE NYQGE.GE.. MVTMPNHPN.
+SYQ_HAEIN   SALEACIRED LNENAPRAMA VIDPVRVVIE NFESE.A... VLTAPNHPN.
+SYQ_NEIMA   SVLEGAIREE LENSAPRLMA VLNPLKVTLT NFEAGRTQ.. SRRAAFHPN.
+SYQ_PSEAE   GMLEFSIRDH LDATAPRAMC VLKPLKVVIT NYPEGQVE.. NLELPRHP..
+SYQ_BUCAP   SMLEYCIRKE LNKKAIRTMA VLEPIKIFLY NIDNDHEE.. KLIVPNHPK.
+SYQ_BUCAI   SMLEHCIRKE LNQTAIRTMA ILDPIKIFLY NLDSNYKE.. EFIVPNHPN.
+SYQ_BUCBP   SFLESCIRSD LNPIAPRYMA VIHPIKIQIC NLSDNYEE.. ILNIPNHPT.
+SYQ_CLOPE   QMLEHFIRED LQETAPRAMA VINPLKLVIT NYPEGESE.. ILEIENNPK.
+SYQ_XANAC   SVLEGCLRED LDAAAPRRMA VIDPLKLVLT NLPEGHTE.. TLQFSNHPK.
+SYQ_XYLFA   SVLENCLREN LDTIAPRRMA TIAPLKLVLT NLPEDHEE.. QLIFPNHPK.
+SYQ_RALSO   SILEAAVRDD LDARAPRSVA VLDPVKLILD NVPADFNE.. PCSAPVHPK.
+SYQ_DROME   AMLEAAVRDV LNVTAPRRLV VLEPLKVTIK NFPHAAPV.. QLEVPDFPQ.
+SYQ_DEIRA   AVYENAVRDD LNHRAPRVMA VLDPVKVTLT NLDGEKT... .LSLPYWPHD
+SYQ_LUPLU   ERLEYHVREE LNKTAPRAMV VLHPLKVVIT NLEAKSAI.. EVDAKKWPDA
+SYEC_YEAST  NLIWAFNKKV IDPIAPRHTA IVNPVKIHLE .GSEAPQEPK IEMKPKHKK.
+SYEP_HUMAN  DKIWAFNKKV IDPVAPRYVA LLKKEVIPVN .VPEAQEE.. MKEVAKHPK.
+SYEP_DROME  DKIWAFNKKV IDPIAPRYTA LEKEKRVIVN .VAGAKVE.. RIQVSVHPK.
+
+            701                                                750
+1euq_A      .......... ........KP EMGSRQVPFS GEIWIDRADF REEANKQYKR
+SYQ_HAEIN   .......... ........RP ELGERQLPFT KELYIDRADF REEANKQYKR
+SYQ_NEIMA   .......... ........HE EMGEREVPIS QTIYIEADDF AENPPKGFKR
+SYQ_PSEAE   .......... ........KE DMGVRVLPFG RELFIDAGDF EEVPPAGYKR
+SYQ_BUCAP   .......... ........HL HLGTHEIIFT NTIYIEREDF KEKYDKKYKR
+SYQ_BUCAI   .......... ........NP EMGTHKIIFT NTIYIDRSDF KEKYDKKYKR
+SYQ_BUCBP   .......... ........KP NMGCHKSIFS NTLYIDQNDF YENKSELLKK
+SYQ_CLOPE   .......... ........DE SAGKRAVTFS REVYIEREDF MENPPKKYFR
+SYQ_XANAC   .......... ........DD SFGTREVPFA RELWIEREDF AEVPPKGWKR
+SYQ_XYLFA   .......... ........DD TQGTRTMPFS RELWIERDDF SEIPPKGWKR
+SYQ_RALSO   .......... ........QP ELGRREFPLT RELWIEREDF TETPPKGYFR
+SYQ_DROME   .......... ........NP QQGTHKITLD KVIYIEQGDF KLEPEKGYRR
+SYQ_DEIRA   VVRDSPDGLV GMPGGGRVAP EEAVRDVPLT RELYIERDDF SPAPPKGFKR
+SYQ_LUPLU   Q......... .......ADD ASAFYKIPFS NVVYIERSDF RMQDSKDYYG
+SYEC_YEAST  .......... ........NP AVGEKKVIYY KDIVVDKDDA DV........
+SYEP_HUMAN  .......... ........NP EVGLKPVWYS PKVFIEGADA ET........
+SYEP_DROME  .......... ........DE SLGKKTVLLG PRIYIDYVDA EA........
+
+            751                                                800
+1euq_A      LVLGKEVRLR NAY.VIKAER VEK.DAEGNI TTIFCTYDAD TL........
+SYQ_HAEIN   LVLGKEVRLR NAY.VIKAER VEK.DANGEI TTIFCTYDPE TLGKNPAD.G
+SYQ_NEIMA   LIPGGEVRLR HGY.VIKCDE VVK.DEAGNV VELKCSIDHD TLGKNPEG..
+SYQ_PSEAE   LIPGGEVRLR GSY.VIRADE AIK.DADGNI VELRCSYDPD TLGKNPEG..
+SYQ_BUCAP   LKIGEEVRLR YAY.IIKAEK IEK.DESGNI IKIICFCDIN SLGKKPIN..
+SYQ_BUCAI   LKLGEKIRLR YSY.IIHAEK IEK.DEYGNI SNIICYCDLN TLGRKPKD..
+SYQ_BUCBP   LAIGKEIRLR YSY.VIKAHK IKK.DQNNNI KTIFCTYDKN TLGKNPKN..
+SYQ_CLOPE   LFPGNEVRLK GAY.FVKCNE VIK.DENGEV TEIHCTYDPE TKSGTGFT.G
+SYQ_XANAC   LVPGGEIRLR GAG.IARVDE VIK.NADGEI VELRGWLDPE SRPGMEGA.N
+SYQ_XYLFA   LVPGGEVRLR GAG.IARVDE VVK.NAAGDI IALHGWLDPT SRPGMEGA.H
+SYQ_RALSO   LFPGNKVRLR YGY.VIECTG CDK.DADGNI TAVHANIIPD TKSGTPGADS
+SYQ_DROME   LAPKQSVGLR HAGLVISVDE IVKDPATGQV VELICTSQPA EQ.......A
+SYQ_DEIRA   LTPGGTVRLR GAG.IIRADD FGT.DEAGQV THIRATLLGE .........D
+SYQ_LUPLU   LAPGKSVILR YAF.PIKCTE VILADDNETI LEIRAEYDPS KK........
+SYEC_YEAST  INVDEEVTLM DWG.NVIITK KND.DG.... .SMVAKLNLE GD.......F
+SYEP_HUMAN  FSEGEMVTFI NWG.NLNITK IHK.NADGKI ISLDAKFNLE NK.......D
+SYEP_DROME  LKEGENATFI NWG.NILIKK VNK.DASGNI TSVDAALNLE NK.......D
+
+            801                                                850
+1euq_A      ....GVIHWV SAA....HAL PVEIRLYDRL FSVPNPGAAD D.........
+SYQ_HAEIN   RKVKGVIHWV SAV....NNH PAEFRLYDRL FTVPNPGAED D.........
+SYQ_NEIMA   RKVKGVIHWV SAE....HAA EIKVRLYDRL FTIERPDAVR GE........
+SYQ_PSEAE   RKVKGVIHWV PAE....GSV ECEVRLYDRL FRSANPEKAE E.........
+SYQ_BUCAP   RKNPAVIHWI AVK....NSF PAKFKLYNQL FKIKNPDQEK N.........
+SYQ_BUCAI   NKNPAVIHWI SEK....NTL SAEFKLYDQL FNIKNPEQQE N.........
+SYQ_BUCBP   RKILGVIHWI SEK....NVL PARFFLYDKL FTIQSPETVK N.........
+SYQ_CLOPE   RKVKGTIHWV DAN....NCI PAEFRLYEPL ILDDCEE... NE........
+SYQ_XANAC   RKVKGTIHWV SAA....HAV EAEIRLYDRL FSVEKPDDES E.........
+SYQ_XYLFA   RKVKGTIHWV SAP....HAV AAEIRLYDRL FSVEKPDDNT D.........
+SYQ_RALSO   VKVKGNIHWV SAA....HAL EAEVRLYDRL FTDPQPDSGD ..........
+SYQ_DROME   EKPKAFVQWV SQP......I QLEVRLYEQL FKHKNPEDPN EV........
+SYQ_DEIRA   AKAAGVIHWV SAE....RAL PAEFRLYDRL FRVPHPEGEN ADVEDDSAGP
+SYQ_LUPLU   TKPKGVLHWV SQPSPGVDPL KVEVRLFERL FLSENPAELD N.........
+SYEC_YEAST  KKTKHKLTWL ADTKD...VV PVDLVDFDHL ITKDRLEEDE S.........
+SYEP_HUMAN  YKKTTKVTWL AETTHAL.PI PVICVTYEHL ITKPVLGKDE D.........
+SYEP_DROME  FKKTLKLTWL AVEDDPSAYP PTFCVYFDNI ISKAVLGKDE D.........
+
+            851                                                900
+1euq_A      .......... .........F LSVINPESLV IKQG.FAEPS LKDAV.....
+SYQ_HAEIN   .......... .........I ESVLNPNSLV IKQG.FVEQS LANAE.....
+SYQ_NEIMA   .......... ...DGEYLPF TDFLNPESVK EIT.AYAEPA AKDLP.....
+SYQ_PSEAE   .......... ...GGS...F LDNINADSLQ VLAGCRAEPS LGQAN.....
+SYQ_BUCAP   .......... .........F LSYLNSNSLI VKNG.FVEKK IAQKIIKKMS
+SYQ_BUCAI   .......... .........F LLYINSKSLI KKFG.FIEKK IGEEIQKKIS
+SYQ_BUCBP   .......... .........F LQYINTNSLV IKYG.FVEKD ILTNI.....
+SYQ_CLOPE   .......... ...G...KHF LEQINPNSLT ICKG.FIEPS AKDAK.....
+SYQ_XANAC   .......... ...G...KTY RDYLNPESKR NVRG.YVEPS AAMAA.....
+SYQ_XYLFA   .......... ...G...KTY RDVLNPDSKR VVHG.YIEPA AAQTA.....
+SYQ_RALSO   .......... .......KNF LDALNPDAKR VVTA.YLEPT LATAK.....
+SYQ_DROME   .......... ......PGGF LSDISEQSMS VVVA.FADRA LNQAK.....
+SYQ_DEIRA   AEHEAEPGAG QETAPVSQGF MRYLTPDSLR VLRG.YVEPS VAGDP.....
+SYQ_LUPLU   .......... .........W LGDLNPHSKV EISNAYGVSL LKDAK.....
+SYEC_YEAST  .......... .........F EDFLTPQTEF HTDA.IADLN VKDMK.....
+SYEP_HUMAN  .......... .........F KQYVNKNSKH EELM.LGDPC LKDLK.....
+SYEP_DROME  .......... .........F KQFIGHKTRD EVPM.LGDPE LKKCK.....
+
+            901                                                950
+1euq_A      ...AGKAFQF EREGYFCLD. ....SRH..S TAEKPVFNRT VGLRDT~~~~
+SYQ_HAEIN   ...AEKGYQF EREGYFCAD. ....SKD..S RPEHLVFNLT VSLKEGF~~~
+SYQ_NEIMA   ...AESRWQF ERIGYFVTD. ....RKD..H GKDTPVFNRT VTLKDSWQPK
+SYQ_PSEAE   ...PEDRFQF EREGYFVAD. ....LKD..S RPGKPVFNRT VTLRDSWGQG
+SYQ_BUCAP   NNFIKLFFQF ERTGYFCVD. ....EVD..S KENKLVFNRT VSLKDSWNLK
+SYQ_BUCAI   NNNIEIFFQF ERIGYFCID. ....FID..S KKNQLVFNRT VGLRDTWDSK
+SYQ_BUCBP   ...STTAYQF EREGYFCIN. ....KNF..S ITKNLTFNRI VTLKDKIK~~
+SYQ_CLOPE   ...PQDKYQL FRHGYFNVD. ....PNF..T SDDNLVFNRI VSLKSSFKLK
+SYQ_XANAC   ...PEQAFQF ERTGYFVAD. ....RRD..H SEATPVFNRS VTLRDTWAK~
+SYQ_XYLFA   ...PEHAFQF ERLGYFVTD. ....RHD..H DAAHPVFNRS VTLRDTWQRD
+SYQ_RALSO   ...PEDRFQF ERHGYFVAD. ....RID..S QPGKPVFNRV VGLKDSWGK~
+SYQ_DROME   ...VYDKFQF ERIGFFSVD. .....PD..T SANHLVFNRT VGLKEDAGKK
+SYQ_DEIRA   ...ADTRYQF ERQGYFWRDP VELERVD..S REDALVFGRI ITLKDTWGKQ
+SYQ_LUPLU   ...LGDRFQF ERLGYFAVD. .....QD..S TPEKLVFNRT VTLKDSYGKG
+SYEC_YEAST  ...IGDIIQF ERKGYYRLDA LP.......K DGKPYVFFT. ..IPDGKSVN
+SYEP_HUMAN  ...KGDIIQL QRRGFFICDQ PYEPVSPYSC KEAPCVLIY. ..IPDGHTKE
+SYEP_DROME  ...KGDIIQL QRRGFFKVDV AYLPPSGYTN VPSPIVLFS. ..IPDGHTKD
+
+            951                                               1000
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   K~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   KIKTKNITNN ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   GGGTQQKAEG KKRPSTKGRG PDEVRGEGSS SPAKAHAPKA QPLT......
+SYQ_LUPLU   GK~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  KY.......G AK.....K~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  MP.....TSG SK.....EKT KVEATKNETS APFKERP... ..........
+SYEP_DROME  VP.....TSG LK.....VNA PDAKATKKAS SPVSSSG.QA SELDSQITQQ
+
+            1001                                              1050
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   .......... ....PEQDAE FTRLLGLGAS EGDARTIARD PALLAFVGGA
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  .......... .......... .......... .......... ........TP
+SYEP_DROME  GDLVRDLKSK KAAKDQIDVA VKKLLALKAD YKSATGKDWK PGQTSATSAP
+
+            1051                                              1100
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   AP.......G DTFAQVASW. TVNELVAGLR AGE...VKVR AA..DLAPL.
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  SLNNNCTTSE DSLVLYNRVA VQGDVVRELK AKKAPKEDVD AAVKQLLSLK
+SYEP_DROME  VPAASSSSAN DAVSVNASIV KQGDLVRDLK GKKASKPEID AAVKTLLELK
+
+            1101                                              1150
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   .......AEG VASGQLSARI AREALARAAA SGDAPLTIIE REGLNAGLSA
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  AEYKEKTGQE YKPGNPPAEI GQNISSNSSA S.ILESKSLY DEVAAQ....
+SYEP_DROME  AQYKTLTGQD WKPGTVPPTA APSASAAPSV GGNDSVAQIL SQITAQ....
+
+            1151                                              1200
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   EALQQVVAQV IAANPDKA.. .......... .........E AYRGGKTALL
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  ...GEVVRKL KAEKSPKAKI NEAVECLLSL KAQYKEKTGK EYIPGQPPLS
+SYEP_DROME  ...GDKVREL KSAKADKATV DAAVKTLLSL KADYKAATGS DWKPGTTAPA
+
+            1201                                              1250
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   GFFTGQVMRA TAGKADPQAL AAALK....D ALA~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  QSSD.S...S PTRNSEPAGL ETPEAKVLFD KVASQGE... ..........
+SYEP_DROME  PAAA.PVKVK QEKNPDPA.. SVLTVNTLLN KIAQQGDKIR QLKSAKSEKS
+
+            1251                                              1300
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  .......... .......... .......... .......... ..........
+SYEP_DROME  LVEAEVKLLL ALKTDYKSLT GQEWKPGTVA PAPTTVNVID LTGGDSGSDV
+
+            1301                                              1350
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  .......... ..VVRKLKTE KAPKDQVDIA VQELLQLKAQ YKSLIGVEYK
+SYEP_DROME  GSVLSKIQAQ GDKIRKLKSE KAAKNVIDPE VKTLLALKGE YKTLSGKDWT
+
+            1351                                              1400
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  PVSATGAEDK DKKK...... ........KE KENKSE.... .KQNKPQK..
+SYEP_DROME  PDAKSEPAVV KKEASPVSMA SPAKDELTQE INAQGEKVRA AKGNKAAKEV
+
+            1401                                              1450
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  .......... ......QNDG QRKDPSKNQG GGLS...... ..........
+SYEP_DROME  IDAEVAKLLA LKAKYKEVTG T.DFPVAGRG GGGGGGSAKK APKEAQPKPA
+
+            1451                                              1500
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  ....SSGAGE GQGPKKQTRL GLEAKKEENL ADWYSQVITK SEMIEYHDIS
+SYEP_DROME  KPVKKEPADA SGAVKKQTRL GLEATKEDNL PDWYSQVITK GEMIEYYDVS
+
+            1501                                              1550
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  GCYILRPWAY AIWEAIKDFF DAEIKKLGVE NCYFPMFVSQ SALEKEKTHV
+SYEP_DROME  GCYILRQWSF AIWKAIKTWF DAEITRMGVK ECYFPIFVSK AVLEKEKTHI
+
+            1551                                              1600
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  ADFAPEVAWV TRSGKTELAE PIAIRPTSET VMYPAYAKWV QSHRDLPIKL
+SYEP_DROME  ADFAPEVAWV TKSGDSDLAE PIAVRPTSET VMYPAYAKWV QSYRDLPIRL
+
+            1601                                              1650
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  NQWCNVVRWE FKHPQPFLRT REFLWQEGHS AFATMEEAAE EVLQILDLYA
+SYEP_DROME  NQWNNVVRWE FKQPTPFLRT REFLWQEGHT AFADKEEAAK EVLDILDLYA
+
+            1651                                              1700
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  QVYEELLAIP VVKGRKTEKE KFAGGDYTTT IEAFISASGR AIQGGTSHHL
+SYEP_DROME  LVYTHLLAIP VVKGRKTEKE KFAGGDYTTT VEAFISASGR AIQGATSHHL
+
+            1701                                              1750
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  GQNFSKMFEI VFEDPKIPGE KQFAYQNSWG LTTRTIGVMT MVHGDNMGLV
+SYEP_DROME  GQNFSKMFEI VYEDPEKTQQ KKYVYQNSWG ITTRTIGVMI MVHADNQGLV
+
+            1751                                              1800
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  LPPRVACVQV VIIPCGITNA LSEEDKEALI AKCNDYRRRL LSVNIRVRAD
+SYEP_DROME  LPPHVACIQA IVVPCGITVN TKDDERAQLL DACKALEKRL VGGGVRCEGD
+
+            1801                                              1850
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  LRDNYSPGWK FNHWELKGVP IRLEVGPRDM KSCQFVAVRR DTGEKLTVAE
+SYEP_DROME  YRDNYSPGWK FNHWELKGVP LRLEVGPKDL KAQQLVAVRR DTGEKITIPL
+
+            1851                                              1900
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  NEAETKLQAI LEDIQVTLFT RASEDLKTHM VVANTMEDFQ KILDSGKIVQ
+SYEP_DROME  ADVEKKIPAL LETIHESMLN KAQEDMTSHT KKVTNWTDFC GFLEQKNILL
+
+            1901                                              1950
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  IPFCGEIDCE DWIKKTTARD QDLEPGAPSM GAKSLCIPFK PLCELQPGAK
+SYEP_DROME  APFCGEISCE DKIKADSARG EEAEPGAPAM GAKSLCIPFD QPAPIAASDK
+
+            1951             1970
+1euq_A      ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_HAEIN   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_NEIMA   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_PSEAE   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAP   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCAI   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_BUCBP   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_CLOPE   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XANAC   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_XYLFA   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_RALSO   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DROME   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_DEIRA   ~~~~~~~~~~ ~~~~~~~~~~
+SYQ_LUPLU   ~~~~~~~~~~ ~~~~~~~~~~
+SYEC_YEAST  ~~~~~~~~~~ ~~~~~~~~~~
+SYEP_HUMAN  CVCG..KNPA KYYTLFGRSY
+SYEP_DROME  CINPSCTNKP KFYTLFGRSY

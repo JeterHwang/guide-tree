@@ -1,0 +1,583 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40030_mafft.fa.msf  MSF: 960  Type: N  December 21, 2021 21:48  Check: 2832  ..
+
+ Name: 1cpj_A      Len:    960  Check: 9250  Weight: 1.00
+ Name: CATB_CHICK  Len:    960  Check: 8762  Weight: 1.00
+ Name: TNAG_HUMAN  Len:    960  Check: 6804  Weight: 1.00
+ Name: CATC_SCHMA  Len:    960  Check: 1653  Weight: 1.00
+ Name: 1jqp_A      Len:    960  Check: 5730  Weight: 1.00
+ Name: CAL2_GIALA  Len:    960  Check:  610  Weight: 1.00
+ Name: CAL1_GIALA  Len:    960  Check: 3969  Weight: 1.00
+ Name: 1nb3_A      Len:    960  Check: 1730  Weight: 1.00
+ Name: 1m6d_A      Len:    960  Check: 5213  Weight: 1.00
+ Name: CYS1_LEIPI  Len:    960  Check: 3150  Weight: 1.00
+ Name: CYSP_TRYBB  Len:    960  Check: 2421  Weight: 1.00
+ Name: CYS2_LEIPI  Len:    960  Check:  593  Weight: 1.00
+ Name: CATL_CHICK  Len:    960  Check: 2840  Weight: 1.00
+ Name: CYSP_THEPA  Len:    960  Check: 1163  Weight: 1.00
+ Name: ORYA_ORYSA  Len:    960  Check: 1235  Weight: 1.00
+ Name: PAP3_CARPA  Len:    960  Check:  740  Weight: 1.00
+ Name: PAP4_CARPA  Len:    960  Check: 3541  Weight: 1.00
+ Name: 1glo_A      Len:    960  Check: 4532  Weight: 1.00
+ Name: CATJ_MOUSE  Len:    960  Check: 9785  Weight: 1.00
+ Name: CATR_MOUSE  Len:    960  Check: 5717  Weight: 1.00
+ Name: CATQ_RAT    Len:    960  Check: 1641  Weight: 1.00
+ Name: CATM_MOUSE  Len:    960  Check: 5924  Weight: 1.00
+ Name: CYS1_DICDI  Len:    960  Check: 7591  Weight: 1.00
+ Name: CATL_SARPE  Len:    960  Check: 1527  Weight: 1.00
+ Name: CATL_DROME  Len:    960  Check: 7786  Weight: 1.00
+ Name: CATL_BRUPA  Len:    960  Check: 4634  Weight: 1.00
+ Name: CYS1_HOMAM  Len:    960  Check: 5366  Weight: 1.00
+ Name: CYS2_HOMAM  Len:    960  Check: 8005  Weight: 1.00
+ Name: CYS3_HOMAM  Len:    960  Check: 8324  Weight: 1.00
+ Name: CPR2_ARATH  Len:    960  Check: 8082  Weight: 1.00
+ Name: ACP1_ENTHI  Len:    960  Check:  208  Weight: 1.00
+ Name: CPR1_DROME  Len:    960  Check: 4306  Weight: 1.00
+
+//
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     MSW---------------------------------------------------------
+TNAG_HUMAN     MWTGYKFS-IFSYLTTEIWMEKQYLSQR----EVDLEA----------------------
+CATC_SCHMA     M----------------------------------------------HWV----------
+1jqp_A         ------------------------------------------------------------
+CAL2_GIALA     MK----------------------------------------------------------
+CAL1_GIALA     MA----------------------------------------------------------
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     MARRNPLL--FAI-----------------------------------------------
+CYSP_TRYBB     MPRTEMVR--FVR-----------------------------------------------
+CYS2_LEIPI     MATSRAALCAVAV-----------------------------------------------
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     MVSSVVSN-----------PNERLVNNR---VENDLESSDDTLSTQAKPVS---------
+ORYA_ORYSA     MRISMAL-----------------------------------------------------
+PAP3_CARPA     MAMIPS------------------------------------------------------
+PAP4_CARPA     MAIICS------------------------------------------------------
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     M-----------------------------------------------------------
+CATR_MOUSE     M-----------------------------------------------------------
+CATQ_RAT       M-----------------------------------------------------------
+CATM_MOUSE     M-----------------------------------------------------------
+CYS1_DICDI     MKV---------------------------------------------------------
+CATL_SARPE     M-----------------------------------------------------------
+CATL_DROME     M-----------------------------------------------------------
+CATL_BRUPA     MWTIAQLA-VFAILALADFA-----------VAGEIEQ------------------LKEV
+CYS1_HOMAM     M-----------------------------------------------------------
+CYS2_HOMAM     M-----------------------------------------------------------
+CYS3_HOMAM     M-----------------------------------------------------------
+CPR2_ARATH     MAISF-------------------------------------------------------
+ACP1_ENTHI     M-----------------------------------------------------------
+CPR1_DROME     MRLFAAAT-VALVLLLGQAAGEELAEERAGQAQGDAESTESSETTTDQAVSEPPITLVHV
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+TNAG_HUMAN     ---------------------YFTR---------------------NHTVLQGTRFKR--
+CATC_SCHMA     ----------------------------------------------FHCILIIL------
+1jqp_A         ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     ----------------------------------------------VVTILFVV------
+CYSP_TRYBB     ----------------------------------------------LPVVLLAM------
+CYS2_LEIPI     ----------------------------------------------VCVVLAAA------
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     ------------------------RLL-------------------TRKLLLGV------
+ORYA_ORYSA     ----------------------------------------------AAAALLLL------
+PAP3_CARPA     ----------------------------------------------ISKLLFVA------
+PAP4_CARPA     ----------------------------------------------FSKLLFVA------
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     ----------------------------------------------TPTVLLLI------
+CATR_MOUSE     ----------------------------------------------AAVVFIAF------
+CATQ_RAT       ----------------------------------------------TPAVFLVI------
+CATM_MOUSE     ----------------------------------------------TSAIFLAM------
+CYS1_DICDI     ------------------------------------------------ILLFVL------
+CATL_SARPE     ----------------------------------------------RT-VLVAL------
+CATL_DROME     ----------------------------------------------RTAVLLPL------
+CATL_BRUPA     LGKFNKDYKQGNMT----------RLASDFRS---ALKEYGDGQQGESTVVQEF------
+CYS1_HOMAM     ----------------------------------------------KVVAL--F------
+CYS2_HOMAM     ----------------------------------------------KVAVL--F------
+CYS3_HOMAM     ----------------------------------------------KVAAL--F------
+CPR2_ARATH     ----------------------------------------------RTLALLTL------
+ACP1_ENTHI     ----------------------------------------------FALILFVS------
+CPR1_DROME     LNPGEREYLSPNLIGVQNIAMTFLPLSMNFVNIIDAFREITAGVR-YEILLNALDTKAIQ
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+TNAG_HUMAN     ----------AIFQGQYCRNFGCCEDRD---DGCV-------------------------
+CATC_SCHMA     --------------------------------ACL-------------------------
+1jqp_A         ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     ---------------------------------CY-------------------------
+CYSP_TRYBB     ---------------------------------AA-------------------------
+CYS2_LEIPI     ---------------------------------CA-------------------------
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     ------------------------------------------------------------
+ORYA_ORYSA     ------------------------------------------------------------
+PAP3_CARPA     ------------------------------------------------------------
+PAP4_CARPA     ------------------------------------------------------------
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     ------------------------------------------------------------
+CATR_MOUSE     ------------------------------------------------------------
+CATQ_RAT       ------------------------------------------------------------
+CATM_MOUSE     ------------------------------------------------------------
+CYS1_DICDI     ------------------------------------------------------------
+CATL_SARPE     ------------------------------------------------------------
+CATL_DROME     ------------------------------------------------------------
+CATL_BRUPA     ------------------------------------------------------------
+CYS1_HOMAM     ------------------------------------------------------------
+CYS2_HOMAM     ------------------------------------------------------------
+CYS3_HOMAM     ------------------------------------------------------------
+CPR2_ARATH     ---------------------------------SV-------------------------
+ACP1_ENTHI     ---------------------------------LA-------------------------
+CPR1_DROME     PAEADIVCRLVILEKPWLRTQWGDKHRELVTSNCTDPAVNSVAGDPAEKARLLNEKYVHR
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+TNAG_HUMAN     ---------------------------------------TEFYAANALCYCD-------K
+CATC_SCHMA     -------------------------------------RFTCADTPANCTYED--------
+1jqp_A         ------------------------------------------DTPANCTYPD--------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     ---------------------------------------GSALIAQTPPPVD--------
+CYSP_TRYBB     ---------------------------------------CLASVALGSLHVE--------
+CYS2_LEIPI     ---------------------------------------PARAIHVGTP-----------
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     ---------------------------------------VVLFFLAGVSVVSYFLFSKYK
+ORYA_ORYSA     ---------------------------------------LSLAAADMSIVSY--------
+PAP3_CARPA     ---------------------------------------ICLFVHMSVSFGDF------S
+PAP4_CARPA     ---------------------------------------ICLFGHMSLSYCDF------S
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     ---------------------------------------LCFGVASGAQAHD--------
+CATR_MOUSE     ---------------------------------------LYLGVASGVPVLD--------
+CATQ_RAT       ---------------------------------------LCLGVVPGASALD--------
+CATM_MOUSE     ---------------------------------------LCLGMALPSPAPD--------
+CYS1_DICDI     ---------------------------------------AVFTVFVSSRGIP--------
+CATL_SARPE     ---------------------------------------LALVALTQAISPL--------
+CATL_DROME     ---------------------------------------LALLAVAQAVSFA--------
+CATL_BRUPA     ---------------------------------------LKKTEDNGEQRAM--------
+CYS1_HOMAM     ---------------------------------------LFGLALAAA------------
+CYS2_HOMAM     ---------------------------------------LCGVALAAA------------
+CYS3_HOMAM     ---------------------------------------LCGLALATA------------
+CPR2_ARATH     ---------------------------------------LLISISLGVVTAT--------
+ACP1_ENTHI     ------------------------------------------------------------
+CPR1_DROME     SRRSANDILGRHKPYDEEAAKAQLQKSLDKLTAGEGPHYKIVKVYSASRQVDS------G
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+TNAG_HUMAN     FCDRENSDCCPDYKSF-----CREEKE---------------------------------
+CATC_SCHMA     AHGRWKFHIGDYQSK----CPEKLNSKQSVVI----------------------------
+1jqp_A         LLGTWVFQVGPRHPRSHINCSVMEPTEEKVVI----------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     --------------------NFVASAH---------------------------------
+CYSP_TRYBB     --------------------ESL-EMR---------------------------------
+CYS2_LEIPI     -----------------------AAAL---------------------------------
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     MLNKFKRELDDHLTKD---FPNLERSKRDTCFDELTRLFGDGFLSDDPKLEY--------
+ORYA_ORYSA     ---------------------GERSEEE--------------------------------
+PAP3_CARPA     IVG-YSQD-------------DLTSTE---------------------------------
+PAP4_CARPA     IVG-YSQD-------------DLTSTE---------------------------------
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     ---------------------PKLDAE---------------------------------
+CATR_MOUSE     ---------------------SSLDAE---------------------------------
+CATQ_RAT       ---------------------LSLDVQ---------------------------------
+CATM_MOUSE     ---------------------PILDVE---------------------------------
+CYS1_DICDI     ---------------------PEEQSQ---------------------------------
+CATL_SARPE     ---------------------DLIKEE---------------------------------
+CATL_DROME     ---------------------DVVMEE---------------------------------
+CATL_BRUPA     ---------------------EKLETE---------------------------------
+CYS1_HOMAM     ------------------------NPS---------------------------------
+CYS2_HOMAM     ------------------------SPS---------------------------------
+CYS3_HOMAM     ------------------------SPS---------------------------------
+CPR2_ARATH     --------------------ESQRNEG---------------------------------
+ACP1_ENTHI     ---------------------CANEVA---------------------------------
+CPR1_DROME     ILTRIDADL--------I-DGSEEQHRCIVDIW--TKVW---VRKDEHEITFKCRNQPVV
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     --------------------------------------------------SRS------I
+TNAG_HUMAN     ---------WPP------------HTQPWYPEGCFKDGQHYEEGSVIKENCNSCTCSGQQ
+CATC_SCHMA     --------------SLLYPDIAIDEFGN-RGHWTLIYNQGFEV---TIN-------HRKW
+1jqp_A         --------------HLKKLDTAYDEVGN-SGYFTLIYNQGFEI---VLN-------DYKW
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     -----------------------------YGSFKKRHGKAFGG---DAE-------EGHR
+CYSP_TRYBB     -----------------------------FAAFKKKYGKVYKD---AKE-------EAFR
+CYS2_LEIPI     -----------------------------FEEFKRTYGRAYET---LAE-------EQQR
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     ------------------------EVYREFEEFNSKYNRRHAT---QQE-------RLNR
+ORYA_ORYSA     -------------------------ARRLYAEWKAEHGKSYNA---VGE-------EERR
+PAP3_CARPA     ------------------------RLIQLFNSWMLNHNKFYEN---VDE-------KLYR
+PAP4_CARPA     ------------------------RLIQLFNSWMLKHNKNYKN---VDE-------KLYR
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     -----------------------------WKDWKTKYAKSYS-----PE-------EALR
+CATR_MOUSE     -----------------------------WQDWKIKYNKSYS----LKE-------EKLK
+CATQ_RAT       -----------------------------WQEWKIKYEKLYS----PEE-------EVLK
+CATM_MOUSE     -----------------------------WQKWKIKYGKAYS----LEE-------EGQK
+CYS1_DICDI     -----------------------------FLEFQDKFNKKY-S---HEE-------YLER
+CATL_SARPE     -----------------------------WHTYKLQHRKNYAN---EVE-------ERFR
+CATL_DROME     -----------------------------WHTFKLEHRKNYQD---ETE-------ERFR
+CATL_BRUPA     -----------------------------WKDYVTALGKHYD----QKE-------NNFR
+CYS1_HOMAM     -----------------------------WEEFKGKFGRKYVD---LEE-------ERYR
+CYS2_HOMAM     -----------------------------WEHFKGKYGRQYVD---AEE-------DSYR
+CYS3_HOMAM     -----------------------------WDHFKTQYGRKYGD---AKE-------ELYR
+CPR2_ARATH     ------------------------EVLTMYEQWLVENGKNYNG---LGE-------KERR
+ACP1_ENTHI     -----------------------------FKQWAATHNKVFAN---RAE-------YLYR
+CPR1_DROME     QARHTRSVEWAEKKTHKKHSHRFDKVDHLFYKFQVRFGRRYVS---TAE-------RQMR
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     LCLLG------------------------------------------------AFANARS
+TNAG_HUMAN     WKCSQ------------------------------------------------HVCLVR-
+CATC_SCHMA     LVIFAYKSNGEFN---CHKSMPMWTHDTLIDSGSVCSGKIGVHDKFHINKLFGSKSFGRT
+1jqp_A         FAFFKYEVKGSRAISYCHETMTGWVHDVL----------------------------GRN
+CAL2_GIALA     LFLLA------------------------------------------------AAAFSA-
+CAL1_GIALA     LSLLL------------------------------------------------AVVCAK-
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     FNAFK-------------------------------------------------------
+CYSP_TRYBB     FRAFE-------------------------------------------------------
+CYS2_LEIPI     LANFE-------------------------------------------------------
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     LVTFR-------------------------------------------------------
+ORYA_ORYSA     YAAFR-------------------------------------------------------
+PAP3_CARPA     FEIFK-------------------------------------------------------
+PAP4_CARPA     FEIFK-------------------------------------------------------
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     RAVWE-------------------------------------------------------
+CATR_MOUSE     RVVWE-------------------------------------------------------
+CATQ_RAT       RVVWE-------------------------------------------------------
+CATM_MOUSE     RAVWE-------------------------------------------------------
+CYS1_DICDI     FEIFK-------------------------------------------------------
+CATL_SARPE     MKIFN-------------------------------------------------------
+CATL_DROME     LKIFN-------------------------------------------------------
+CATL_BRUPA     MAIFE-------------------------------------------------------
+CYS1_HOMAM     LNVFL-------------------------------------------------------
+CYS2_HOMAM     RVIFE-------------------------------------------------------
+CYS3_HOMAM     QRVFQ-------------------------------------------------------
+CPR2_ARATH     FKIFK-------------------------------------------------------
+ACP1_ENTHI     FAVFL-------------------------------------------------------
+CPR1_DROME     LRIFR-------------------------------------------------------
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     IPYYPPLSSDLVNHINKLN-------TTGRAG--HNFHNTDMSYVKKLCG--TFLGGP--
+TNAG_HUMAN     ----PEL----IEQVNKGD-------YGWTAQNYSQFWGMTLE---------DGFKFR--
+CATC_SCHMA     LY------HINPSFVGKINAHQ----KSWRGEIYPELSKYTIDELRNRAGG-VKSMVT--
+1jqp_A         W----------ACFVG--------------------------------------------
+CAL2_GIALA     ----PALTVSELNHIKSLN-------PRWKAGIPKRFEGLTKDEISSLLMPVSFLKNA--
+CAL1_GIALA     ----PLVSRAELRRIQALN-------PPWKAGMPKRFENVTEDEFRSMLIRPDRLRAR--
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     ---------QNMQTAYFLNTQNPHA----HYDVSGKFADLTPQEFAKLYLN-PDYYA---
+CYSP_TRYBB     ---------ENMEQAKIQAAANPYA----TFGVT-PFSDMTREEFRARYRNGASYFA---
+CYS2_LEIPI     ---------RNLELMREHQARNPHA----QFGIT-KFFDLSEAEFAARYLNGAAYFAAAK
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     ---------SNYLEVKEQK-----GDEPYVKGIN-RFSDLTEREFYKLFPV-MKPPKA--
+ORYA_ORYSA     ---------DNLRYIDEHNAAADAGVHSFRLGLN-RFADLTNEEYRDTYLG-LRNKPR--
+PAP3_CARPA     ---------DNLNYIDETNKKN----NSYWLGLN-EFADLSNDEFNEKYVG-SLIDAT--
+PAP4_CARPA     ---------DNLKYIDERNKMI----NGYWLGLN-EFSDLSNDEFKEKYVG-SLPEDY--
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     ---------ENMRMIKLHNKENSLGKNNFTMKMN-KFGDQTSEEFRKSIDN-IPIPAA--
+CATR_MOUSE     ---------EKLKMIKLHNRENSLGKNGFTMKMN-EFGDQTDEEFRKMMIE-ISVWTH--
+CATQ_RAT       ---------ENVKKIELHNRENSLGKNTYTMEIN-DFADMTDEEFKDMIIG-FQLPVH--
+CATM_MOUSE     ---------DNMKKIKLHNGENGLGKHGFTMEMN-AFGDMTLEEFRKVMIE-IPVPTV--
+CYS1_DICDI     ---------SNLGKIEELNLIAINHKADTKFGVN-KFADLSSDEFKN-----YYLNNK--
+CATL_SARPE     ---------ENRHKIAKHNQLFAQGKVSYKLGLN-KYADMLHHEFKETMNG-YNHTL---
+CATL_DROME     ---------ENKHKIAKHNQRFAEGKVSFKLAVN-KYADLLHHEFRQLMNG-FNYTLH--
+CATL_BRUPA     ---------SNELMTERINKKYEQGLVSYTTALN-DLADLTDEEFM-VRNG-LRLPNQ--
+CYS1_HOMAM     ---------DNLQYIEEFNKKYERGEVTYNLAIN-QFSDMTNEKFNAVMKG-YKKGP---
+CYS2_HOMAM     ---------QNQKYIEEFNKKYENGEVTFNLAMN-KFGDMTLEEFNAVMKGNIPRRS---
+CYS3_HOMAM     ---------QNEQLIEDFNKKFENGEVTFKVAMN-QFGDMTNEEFNAVMKG-YKKGS---
+CPR2_ARATH     ---------DNLKRIEEHNSDPN---RSYERGLN-KFSDLTADEFQASYLG-GKMEKK--
+ACP1_ENTHI     ---------DNKKFVE----------ANANTELN-VFADMTHEEFIQTHLG-MTYEV---
+CPR1_DROME     ---------QNLKTIEELN---ANEMGSAKYGIT-EFADMTSSEYKERTGL-WQRDEA--
+
+
+1cpj_A         -----------------------------------------LPE---SFDAR---EQWSN
+CATB_CHICK     K-APER---------VDFAE-------DMD-----------LPD---TFDTR---KQWPN
+TNAG_HUMAN     LGTLPPSP-----MLLSMNEMTASLPATTD-----------LPE---FFVAS---YKWPG
+CATC_SCHMA     RP-----------SVLNRKTPSK---ELISL-------TGNLPL---EFDWTSPPDGSRS
+1jqp_A         ----------------------K---KMLS-----------LPE---SWDWRNVR--GIN
+CAL2_GIALA     KGAAPR---------GTFTD-------KDD-----------VPE---SFDFR---EEYPH
+CAL1_GIALA     SGSLPP---------ISITEVQE---LVDP-----------IPP---QFDFR---DEYPQ
+1nb3_A         -----------------------------------------YPP---SMDWR-----KKN
+1m6d_A         -----------------------------------------APP---EWDWR-----SKG
+CYS1_LEIPI     RH-----------LKDHKEDVHV---DDS------------APSGVMSVDWR-----DKG
+CYSP_TRYBB     AA-----------QKRLRKTVNV---TTGR-----------APA---AVDWR-----EKG
+CYS2_LEIPI     RH-----------AAQHYRKARA---DLSA-----------VPD---AVDWR-----EKG
+CATL_CHICK     -----------------------------------------APR---SVDWR-----EKG
+CYSP_THEPA     TYSNGYYLLSHMANKTYLKNLKK---ALNT--DEDVDLAKLTGE---NLDWR-----RSS
+ORYA_ORYSA     RE----R-------KVSDRYLAA---DNEA-----------LPE---SVDWR-----TKG
+PAP3_CARPA     IE-----------QSYDEEFINE---DTVN-----------LPE---NVDWR-----KKG
+PAP4_CARPA     TN-----------QPYDEEFVNE---DIVD-----------LPE---SVDWR-----AKG
+1glo_A         -----------------------------------------LPD---SVDWR-----EKG
+CATJ_MOUSE     MT------------DPHAQ--NH---VSIG-----------LPD---YKDWR-----EEG
+CATR_MOUSE     RE------------GKSIM--KR---EAGSI----------LPK---FVDWR-----KKG
+CATQ_RAT       NT------------EKRLW--KR---ALGSFFPNSWNWRDALPK---FVDWR-----NEG
+CATM_MOUSE     KK------------GKSVQ--KR---LSVN-----------LPK---FINWK-----KRG
+CYS1_DICDI     EAIFTDD------LPVADYLDDE---FINS-----------IPT---AFDWR-----TRG
+CATL_SARPE     RQLMRERT----GLVGATY-IPP---AHVT-----------VPK---SVDWR-----EHG
+CATL_DROME     KQLRAADE----SFKGVTF-ISP---AHVT-----------LPK---SVDWR-----TKG
+CATL_BRUPA     TDLRGKR-------QTSEFYRYD---KSER-----------LPD---QVDWR-----TKG
+CYS1_HOMAM     R-------------PAAVF-TST---DAAP-----------EST---EVDWR-----TKG
+CYS2_HOMAM     A-------------PVSVFYPKK---ETGP-----------QAT---EVDWR-----TKG
+CYS3_HOMAM     RG-----------EPKAVF--TA---EAGP-----------MAA---DVDWR-----TKA
+CPR2_ARATH     SL-----------SDVAERYQYK---EGDV-----------LPD---EVDWR-----ERG
+ACP1_ENTHI     --------------PETTSNVKA---AVKA-----------APE---SVDWR-----S--
+CPR1_DROME     KATGGSA------AVVPAYHGE-------------------LPK---EFDWR-----QKD
+
+
+1cpj_A         CPTIAQ-IRDQGSCGSCWAFGAVEAMSDRICIHTNGRVNVEVSAEDLLTCC---------
+CATB_CHICK     CPTISE-IRDQGSCGSCWAFGAVEAISDRICVHTNAKVSVEVSAEDLLSCC---------
+TNAG_HUMAN     W--THG-PLDQKNCAASWAFSTASVAADRIAIQSKGRYTANLSPQNLISCC---------
+CATC_SCHMA     P--VTP-IRNQGICGSCYASPSAAALEARIRLVSNFSEQPILSPQTVVDCS---------
+1jqp_A         F--VSP-VRNQESCGSCYSFASLGMLEARIRILTNNSQTPILSPQEVVSCS---------
+CAL2_GIALA     C--IPE-VVDQGGCGSCWAFSSVATFGDRRCVAGLDKKPVKYSPQYVVSCD---------
+CAL1_GIALA     C--VKP-ALDQGSCGSCWAFSAIGVFGDRRCAMGIDKEAVSYSQQHLISCS---------
+1nb3_A         F--VSP-VKNQGSCGSCWTFSTTGALESAVAIATG--KMLSLAEQQLVDCA---------
+1m6d_A         A--VTK-VKDQGMCGSCWAFSVTGNVEGQWFLNQG--TLLSLSEQELLDCD---------
+CYS1_LEIPI     A--VTP-VKNQGLCGSCWAFSAIGNIEGQWAASGH--SLVSLSEQMLVSCD---------
+CYSP_TRYBB     A--VTP-VKVQGQCGSCWAFSTIGNIEGQWQVAGN--PLVSLSEQMLVSCD---------
+CYS2_LEIPI     A--VTP-VKDQGACGSCWAFSAVGNIEGQWYLAGH--ELVSLSEQQLVSCD---------
+CATL_CHICK     Y--VTP-VKDQGQCGSCWAFSTTGALEGQHFRTKG--KLVSLSEQNLVDCS--------R
+CYSP_THEPA     S--VTS-VKDQSNCGGCWAFSTVGSVEGYYMSHFD--KSYELSVQELLDCD---------
+ORYA_ORYSA     A--VAE-IKDQGGCGSCWAFSAIAAVEDINQIVTG--DLISLSEQELVDCD--------T
+PAP3_CARPA     A--VTP-VRHQGSCGSCWAFSAVATVEGINKIRTG--KLVELSEQELVDCE---------
+PAP4_CARPA     A--VTP-VKHQGYCESCWAFSTVATVEGINKIKTG--NLVELSEQELVDCD---------
+1glo_A         C--VTE-VKYQGSCGASWAFSAVGALEAQLKLKTG--KLVSLSAQNLVDCS-------TE
+CATJ_MOUSE     Y--VTP-VRNQGKCGSCWAFAAAGAIEGQMFWKTG--NLTPLSVQNLLDCS--------K
+CATR_MOUSE     Y--VTP-VRRQGDCDACWAFAVTGAIEAQAIWQTG--KLTPLSVQNLVDCS--------K
+CATQ_RAT       Y--VTR-VRKQGGCSSCWAFPVTGAIEGQMFKKTG--KLIPLSVQNLIDCS--------K
+CATM_MOUSE     Y--VTP-VQTQGRCNSCWAFSVTGAIEGQMFRKTG--QLIPLSVQNLVDCS--------R
+CYS1_DICDI     A--VTP-VKNQGQCGSCWSFSTTGNVEGQHFISQN--KLVSLSEQNLVDCDHECMEYEGE
+CATL_SARPE     A--VTG-VKDQGHCGSCWAFSSTGALEGQHFRKAG--VLVSLSEQNLVDCS--------T
+CATL_DROME     A--VTA-VKDQGHCGSCWAFSSTGALEGQHFRKSG--VLVSLSEQNLVDCS--------T
+CATL_BRUPA     A--VTP-VRNQGECGSCYAFATAAALEAYHKQMTG--RLLDLSPQNIVDCT--------R
+CYS1_HOMAM     A--VTP-VKDQGQCGSCWAFSTTGGIEGQHFLKTG--RLVSLSEQQLVDCA-------GG
+CYS2_HOMAM     A--VTP-VKDQGQCGSCWAFSTTGSLEGQHFLKTG--SLISLAEQQLVDCS--------R
+CYS3_HOMAM     L--VTP-VKDQEQCGSCWAFSATGALEGQHFLKND--ELVSLSEQQLVDCS--------T
+CPR2_ARATH     A--VVPRVKRQGECGSCWAFAATGAVEGINQITTG--ELVSLSEQELIDCD--------R
+ACP1_ENTHI     I--MNP-AKDQGQCGSCWTFCTTAVLEGRVNKDLG--KLYSFSEQQLVDCD---------
+CPR1_DROME     A--VTQ-VKNQGSCGSCWAFSVTGNIEGLYAVKTG--ELKEFSEQELLDCD---------
+
+
+1cpj_A         -GIQCGDGCNGGYPSGAWNFWTR---KGLVSGGVYN-------SHIGCLPYTIPPCEHHV
+CATB_CHICK     -GFECGMGCNGGYPSGAWRYWTE---RGLVSGGLYD-------SHVGCRAYTIPPCEHHV
+TNAG_HUMAN     -AKN-RHGCNSGSIDRAWWYLRK---RGLVSHACYPLFKDQNATNNGC-----------A
+CATC_SCHMA     -PYS--EGCNGGFPFLIAGKYGE--DFGLPQKIVIP----------------------YT
+1jqp_A         -PYA--QGCDGGFPYLIAGKYAQ--DFGVVEENCFP----------------------YT
+CAL2_GIALA     -HGD--MACNGGWLPNVWKFLTK---TGT----------------------TTDECVPYK
+CAL1_GIALA     -LEN--FGCDGGDFQPTWSFLTF---TGA----------------------TTAECVKYV
+1nb3_A         -QNN--HGCQGGLPSQAFEYIRY--N-GIMGEDTYP----------------------YK
+1m6d_A         -KMD--KACMGGLPSNAYSAIKN----GLETEDDYS----------------------YQ
+CYS1_LEIPI     -NID--EGCNGGLMDQAMNWIMQSHNGSVFTEASYP----------------------YT
+CYSP_TRYBB     -TID--SGCNGGLMDNAFNWIVNSNGGNVFTEASYP----------------------YV
+CYS2_LEIPI     -DMN--DGCDGGLMLQAFDWLLQNTNGHLHTEDSYP----------------------YV
+CATL_CHICK     PEGN--QGCNGGLMDQAFQYVQD--NGGIDSEESYP----------------------YT
+CYSP_THEPA     -SFS--NGCQGGLLESAYEYVRK---YGLVSAKDLP----------------------FV
+ORYA_ORYSA     SY-N--EGCNGGLMDYAFDFIIN--NGGIDTEDDYP----------------------YK
+PAP3_CARPA     -RRS--HGCKGGYPPYALEYVAK--N-GIHLRSKYP----------------------YK
+PAP4_CARPA     -KQS--YGCNRGYQSTSLQYVAQ--N-GIHLRAKYP----------------------YI
+1glo_A         KYGN--KGCNGGFMTTAFQYIID--NKGIDSDASYP----------------------YK
+CATJ_MOUSE     TVGN--KGCQSGTAHQAFEYVLK--NKGLEAEATYP----------------------YE
+CATR_MOUSE     PQGN--NGCLGGDTYNAFQYVLH--NGGLESEATYP----------------------YE
+CATQ_RAT       PQGN--RGCLWGNTYNAFQYVLH--NGGLEAEATYP----------------------YE
+CATM_MOUSE     PQGN--WGCYLGNTYLALHYVME--NGGLESEATYP----------------------YE
+CYS1_DICDI     EACD--EGCNGGLQPNAYNYIIK--NGGIQTESSYP----------------------YT
+CATL_SARPE     KYGN--NGCNGGLMDNAFRYIKD--NGGIDTEKSYP----------------------YE
+CATL_DROME     KYGN--NGCNGGLMDNAFRYIKD--NGGIDTEKSYP----------------------YE
+CATL_BRUPA     NLGN--NGCSGGYMPTAFQYA-S--RYGIAMESRYP----------------------YV
+CYS1_HOMAM     SYYN--QGCNGGWVERAIMYVRD--NGGVDTESSYP----------------------YE
+CYS2_HOMAM     PYGP--QGCNGGWMNDAFDYIKA--NNGIDTEAAYP----------------------YE
+CYS3_HOMAM     DYGN--DGCGGGWMTSAFDYIKD--NGGIDTESSYP----------------------YE
+CPR2_ARATH     GNDN--FGCAGGGAVWAFEFIKE--NGGIVSDEVYG----------------------YT
+ACP1_ENTHI     -ASD--NGCEGGHPSNSLKFIQE--NNGLGLESDYP----------------------YK
+CPR1_DROME     -TTD--SACNGGLMDNAYKAIKD--IGGLEYEAEYP----------------------YK
+
+
+1cpj_A         NGARPPCTGE-GDTPK-CNKMCEAGYS-TSYKEDKHYGYT-SYSVSDSEKEIMAEIYKNG
+CATB_CHICK     NGSRPPCTGEGGETPR-CSRHCEPGYS-PSYKEDKHYGIT-SYGVPRSEKEIMAEIYKNG
+TNAG_HUMAN     MASRSDGRGKRDATKP-CPNNVE--------KSNRIYQCSPPYRVSSNETEIMKEIMQNG
+CATC_SCHMA     GEDT----------GK-CTVSKNC----T-RYYTTDYSYIGGYYGATNEKLMQLELISNG
+1jqp_A         ATD-----------AP-CKPKENC----L-RYYSSEYYYVGGFYGGCNEALMKLELVKHG
+CAL2_GIALA     SGST-------TLRGT-CPTKCADGSSKVHLATATSYKDY-GLDIP----AMMKALSTSG
+CAL1_GIALA     DYGH-------TVASP-CPAVCDDGSP-IQLYKAHGYGQV-SKSVP----AIMGMLVAGG
+1nb3_A         GQD-----------DH-CKFQPDA----I--AFVKDVANITM----NDEEAMVEAVA-YN
+1m6d_A         HMQ-----------S--CQFSAEK----A-KVYIQDSVELSQ-----NEQKLAAWLAKRG
+CYS1_LEIPI     SGGG--------TRPP-CHDEG-E----V-GAKITGFLSLPH-----DEERIAEWVEKRG
+CYSP_TRYBB     SGNG--------EQPQ-CQMNGHE----I-GAAITDHVDLPQ-----DEDAIAAYLAENG
+CYS2_LEIPI     SGNG--------YVPE-CSNSSEEL--VV-GAQIDGHVLIGS-----SEKAMAAWLAKNG
+CATL_CHICK     AKD-----------DEDCRYKAEY----N-AANDTGFVDIPQ----GHERALMKAVASVG
+CYSP_THEPA     DKA-----------RR-CSVPKAK------KVSVPSYHVF------KGKEVMTRSLTS-S
+ORYA_ORYSA     GKD-----------ER-CDVNRKN----AKVVTIDSYEDVTP----NSETSLQKAVRN-Q
+PAP3_CARPA     AKQ-----------GT-CRAKQVG----GPIVKTSGVGRVQP----NNEGNLLNAIAK-Q
+PAP4_CARPA     AKQ-----------QT-CRANQVG----GPKVKTNGVGRVQS----NNEGSLLNAIAH-Q
+1glo_A         AMD-----------LK-CQYDSKY----R-AATCSKYTELPY----GREDVLKEAVANKG
+CATJ_MOUSE     GKD-----------GP-CRYRSEN----A-SANITDYVNLPP-----NELYLWVAVASIG
+CATR_MOUSE     GKD-----------GP-CRYNPKN----S-KAEITGFVSLPQ-----SEDILMAAVATIG
+CATQ_RAT       RKE-----------GV-CRYNPKN----S-SAKITGFVVLPE-----SEDVLMDAVATKG
+CATM_MOUSE     EKD-----------GS-CRYSPEN----S-TANITGFEFVPK-----NEDALMNAVASIG
+CYS1_DICDI     AETG----------TQ-CNFNSAN----I-GAKISNFTMIPK-----NETVMAGYIVSTG
+CATL_SARPE     GID-----------DS-CHFNKAT----I-GATDTGFVDIPE----GDEEKMKKAVATMG
+CATL_DROME     AID-----------DS-CHFNKGT----V-GATDRGFTDIPQ----GDEKKMAEAVATVG
+CATL_BRUPA     GTE-----------QR-CRWQQSI----A-VVTDNGFNEIQP----GDELALKHAVAKRG
+CYS1_HOMAM     ARD-----------NT-CRFNSNT----I-GATCTGYVGIAQ----GSESALKTATRDIG
+CYS2_HOMAM     ARD-----------GS-CRFDSNS----V-AATCSGHTNIAS----GSETGLQQAVRDIG
+CYS3_HOMAM     AED-----------RS-CRFDANS----I-GAICTGSVEV-Q----HTEEALQEAVSGVG
+CPR2_ARATH     GED-----------TAACKAIEMKT--TR-VVTINGHEVVPV----NDEMSLKKAVA-YQ
+ACP1_ENTHI     AVA-----------GT-CKKVKN-------VATVTGSRRVTD----GSETGLQTIIAENG
+CPR1_DROME     AKK-----------NQ-CHFNRTL----S-HVQVAGFVDLPK----GNETAMQEWLLANG
+
+
+1cpj_A         PVEGAFTVF-SDFLTYKSGVY--KHEAGDVM---------GGHAIRILGWGI-EN-----
+CATB_CHICK     PVEGAFIVY-EDFLMYKSGVY--QHVSGEQV---------GGHAIRILGWGV-EN-----
+TNAG_HUMAN     PVQAIMQVR-EDFFHYKTGIY--RHVTSTNKE-SEKYRKLQTHAVKLTGWGT-LR-----
+CATC_SCHMA     PFPVGFEVY-EDFQFYKEGIY--HHTTVQTDHYNFNPFELTNHAVLLVGYGV-DK----L
+1jqp_A         PMAVAFEVH-DDFLHYHSGIY--HHP--------FNPFELTNHAVLLVGYGK-DP----V
+CAL2_GIALA     PLQVAFLVH-SDFMYYESGVY--QHTYGYME---------GGHAVEMVGYGTDDD-----
+CAL1_GIALA     PLQTMIVVY-ADLSYYESGVY--KHTYGTIN--------LGFHALEIVGYGTTDD-----
+1nb3_A         PVSFAFEVTN-DFLMYRKGIY--SSTSCHK----------VNHAVLAVGYGE--------
+1m6d_A         PISVAINAF--GMQFYRHGISRP------S--------PWIDHAVLLVGYGV--------
+CYS1_LEIPI     PVAVAVDAT--TWQLYFGGVV----SLCLA--------WSLNHGVLIVGFNK-NA-----
+CYSP_TRYBB     PLAIAVDAE--SFMDYNGGIL----TSCTS--------KQLDHGVLLVGYND-NS-----
+CYS2_LEIPI     PIAIALDAS--SFMSYKSGVL----TACIG--------KQLNHGVLLVGYDM-TG-----
+CATL_CHICK     PVSVAIDAGHSSFQFYQSGIY--YEPDCSS--------EDLDHGVLVVGYGF-EG-----
+CYSP_THEPA     PCSVYLSVS-PELAKYKSGVF---TGECG---------KSLNHAVVLVGEGY-DE----V
+ORYA_ORYSA     PVSVAIEAGGRAFQLYSSGIF---TGKCGT--------A-LDHGVAAVGYGT-EN-----
+PAP3_CARPA     PVSVVVESKGRPFQLYKGGIF---EGPCGT--------K-VDHAVTAVGYGK-SG-----
+PAP4_CARPA     PVSVVVESAGRDFQNYKGGIF---EGSCGT--------K-VDHAVTAVGYGK-SG-----
+1glo_A         PVSVGVDARHPSFFLYRSGVY--YEPSCT---------QNVNHGVLVVGYGD-LN-----
+CATJ_MOUSE     PVSAAIDASHDSFRFYNGGIY--YEPNCSS--------YFVNHAVLVVGYGS-EGDVK--
+CATR_MOUSE     PITAGIDASHESFKNYKGGIY--HEPNCSS--------DTVTHGVLVVGYGF-KGIET--
+CATQ_RAT       PIATGVHVISSSFRFYQKGVY--HEPKCSS---------YVNHAVLVVGYGF-EGNET--
+CATM_MOUSE     PISVAIDARHASFLFYKRGIY--YEPNCSS--------CVVTHSMLLVGYGF-TGRES--
+CYS1_DICDI     PLAIAADAV--EWQFYIGGV---FDIPCNP--------NSLDHGILIVGYSA-KN-TIFR
+CATL_SARPE     PVSVAIDASHESFQLYSEGVY--NEPECDE--------QNLDHGVLVVGYGTDES-----
+CATL_DROME     PVSVAIDASHESFQFYSEGVY--NEPQCDA--------QNLDHGVLVVGFGTDES-----
+CATL_BRUPA     PVVVGISGSKRSFRFYKDGVY--SEGNCGR--------P--DHAVLAVGYGT-HPS----
+CYS1_HOMAM     PISVAIDASHRSFQSYYTGVY--YEPSCSS--------SQLDHAVLAVGYGS-EG-----
+CYS2_HOMAM     PISVTIDAAHSSFQFYSSGVY--YEPSCSP--------SYLDHAVLAVGYGS-EG-----
+CYS3_HOMAM     PISVAIDASHFSFQFYSSGVY--YEQNCSP--------TFLDHGVLAVGYGT-ES-----
+CPR2_ARATH     PISVMISAA--NMSDYKSGVY---KGACSN--------LWGDHNVLIVGYGT-SS-----
+ACP1_ENTHI     PVAVGMDASRPSFQLYKKGTIY-SDTKCRS--------RMMNHCVTAVGYGS-NS-----
+CPR1_DROME     PISIGINAN--AMQFYRGGVSHPWKALCSK--------KNLDHGVLVVGYGV-SDYPNFH
+
+
+1cpj_A         -GV-----PYWLVANSWNADWGDNGFFKILRG----ENH---CGIESEIVAGIPRT----
+CATB_CHICK     -GT-----PYWLAANSWNTDWGITGFFKILRG----EDH---CGIESEIVAGVPRMEQYW
+TNAG_HUMAN     -GAQGQKEKFWIAANFWGKSWGENGYFRILRG----VNE---SDIEKLVIAAWGQLTSS-
+CATC_SCHMA     SGE-----PYWKVKNSWGVEWGEQGYFRILRG----TDE---CGVESLGVRFDPV--L--
+1jqp_A         TGL-----DYWIVKNSWGSQWGESGYFRIRRG----TDE---CAIESIAMAAIPIPKL--
+CAL2_GIALA     -GV-----DYWIIKNSWGPDWGEDGYFRMIRG----IND---CSIEEQAYAGFFDE----
+CAL1_GIALA     -GT-----DYWIIKNSWGPDWGENGYFRIVRG----VNE---CRIEDEIYAVYLD-----
+1nb3_A         --------PYWIVKNSWGPQWGMNGYFLIERG----KNM---CGLAACASYPIPL-----
+1m6d_A         --------PFWAIKNSWGTDWGEKGYYYLHRG----SGA---CGVNTMASSAVVD-----
+CYS1_LEIPI     -KP-----PYWIVKNSWGSSWGEKGYIRLAMG----SNQ---CMLKNYPVSATVESPHTP
+CYSP_TRYBB     -NP-----PYWIIKNSWSNMWGEDGYIRIEKG----TNQ---CLMNQAVSSAVVGGPTPP
+CYS2_LEIPI     -EV-----PYWVIKNSWGGDWGEQGYVRVVMG----VNA---CLLSEYPVSAHVRESAAP
+CATL_CHICK     -GK-----KYWIVKNSWGEKWGDKGYIYMAKD---RKNH---CGIATAASYPLV------
+CYSP_THEPA     TKK-----RYWVVQNSWGTDWGENGYMRLERT-NMGTDK---CGVLDTSMSAFEL-----
+ORYA_ORYSA     -GK-----DYWIVRNSWGKSWGESGYVRMERNIKASSGK---CGIAVEPSYPLKKGENPP
+PAP3_CARPA     -GK-----GYILIKNSWGTAWGEKGYIRIKRA---PGNSPGVCGLYKSSYYPTKN-----
+PAP4_CARPA     -GK-----GYILIKNSWGPGWGENGYIRIRRA---SGNSPGVCGVYRSSYYPIKN-----
+1glo_A         -GK-----EYWLVKNSWGHNFGEEGYIRMARN---KGNH---CGIASFPSYPEI------
+CATJ_MOUSE     DGN-----NYWLIKNSWGEEWGMNGYMQIAKD---HNNH---CGIASLASYPNIF-----
+CATR_MOUSE     DGN-----HYWLIKNSWGKRWGIRGYMKLAKD---KNNH---CGIASYAHYPTI------
+CATQ_RAT       DGN-----NYWLIKNSWGKRWGLRGYMKIAKD---RNNH---CAIASLAQYPTV------
+CATM_MOUSE     DGR-----KYWLVKNSMGTQWGNKGYMKISRD---KGNH---CGIATYALYPRV------
+CYS1_DICDI     KNM-----PYWIVKNSWGADWGEQGYIYLRRG----KNT---CGVSNFVSTSII------
+CATL_SARPE     -GM-----DYWLVKNSWGTTWGEQGYIKMARN---QNNQ---CGIATASSYPTV------
+CATL_DROME     -GE-----DYWLVKNSWGTTWGDKGFIKMLRN---KENQ---CGIASASSYPLV------
+CATL_BRUPA     -YG-----DYWIVKNSWGTDWGKDGYVYMARN---RGNM---CHIASAASFP-I------
+CYS1_HOMAM     -GQ-----DFWLVKNSWATSWGESGYIKMARN---RNNN---CGIATDACYPTV------
+CYS2_HOMAM     -GQ-----DFWLVKNSWATSWGDAGYIKMSRN---RNNN---CGIATVASYPLV------
+CYS3_HOMAM     -TK-----DYWLVKNSWGSSWGDAGYIKMSRN---RDNN---CGIASEPSYPTV------
+CPR2_ARATH     DEG-----DYWLIRNSWGPEWGEGGYLRLQRNFHEPTGK---CAVAVAPVYPIKS-----
+ACP1_ENTHI     -NG-----KYWIIRNSWGTSWGDAGYFLLARD---SNNM---CGIGRDSNYPTGVKLI--
+CPR1_DROME     KTL-----PYWIVKNSWGPRWGEQGYYRVYRG----DNT---CGVSEMATSAVLA-----
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     TRV---------------------------------------------------------
+TNAG_HUMAN     DEP---------------------------------------------------------
+CATC_SCHMA     ------------------------------------------------------------
+1jqp_A         ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     HVPTTTA-----------------------------------------------------
+CYSP_TRYBB     PPPPPPPS-----ATFTQDFCEGKGCTKGCSHATFPTGECVQTTGVGSVIATCGASNLTQ
+CYS2_LEIPI     GTSTSSETPAPRPVMVEQVICFDKNCTQGCRKTLIKANECHKNGGGGASMIKCSPQKVTM
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     ------------------------------------------------------------
+ORYA_ORYSA     NPGPTPPSPTPPPTVCDNYYTCPDSTTCCCIYEYGKY--CYAWGCCPLEGATCCDDHYSC
+PAP3_CARPA     ------------------------------------------------------------
+PAP4_CARPA     ------------------------------------------------------------
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     ------------------------------------------------------------
+CATR_MOUSE     ------------------------------------------------------------
+CATQ_RAT       ------------------------------------------------------------
+CATM_MOUSE     ------------------------------------------------------------
+CYS1_DICDI     ------------------------------------------------------------
+CATL_SARPE     ------------------------------------------------------------
+CATL_DROME     ------------------------------------------------------------
+CATL_BRUPA     ------------------------------------------------------------
+CYS1_HOMAM     ------------------------------------------------------------
+CYS2_HOMAM     ------------------------------------------------------------
+CYS3_HOMAM     ------------------------------------------------------------
+CPR2_ARATH     ----NSSSHLLSPSVFKLV-----------------------------------------
+ACP1_ENTHI     ------------------------------------------------------------
+CPR1_DROME     ------------------------------------------------------------
+
+
+1cpj_A         ------------------------------------------------------------
+CATB_CHICK     ------------------------------------------------------------
+TNAG_HUMAN     ------------------------------------------------------------
+CATC_SCHMA     ------------------------------------------------------------
+1jqp_A         ------------------------------------------------------------
+CAL2_GIALA     ------------------------------------------------------------
+CAL1_GIALA     ------------------------------------------------------------
+1nb3_A         ------------------------------------------------------------
+1m6d_A         ------------------------------------------------------------
+CYS1_LEIPI     ------------------------------------------------------------
+CYSP_TRYBB     IIYPLSRSCSGPSVPITVPLDKCI-----PILIGSVEYHCSTNPPTKAARLVPHQ-----
+CYS2_LEIPI     CTYS-NEFCVGGGLCFETPDGKCA-----PYFLGSIMNTCHYT-----------------
+CATL_CHICK     ------------------------------------------------------------
+CYSP_THEPA     ------------------------------------------------------------
+ORYA_ORYSA     CPHE-YPIC-------NVQQGTCLMAKDSPLAVKALKRTLAKP---NLSFLFGNGKKSSA
+PAP3_CARPA     ------------------------------------------------------------
+PAP4_CARPA     ------------------------------------------------------------
+1glo_A         ------------------------------------------------------------
+CATJ_MOUSE     ------------------------------------------------------------
+CATR_MOUSE     ------------------------------------------------------------
+CATQ_RAT       ------------------------------------------------------------
+CATM_MOUSE     ------------------------------------------------------------
+CYS1_DICDI     ------------------------------------------------------------
+CATL_SARPE     ------------------------------------------------------------
+CATL_DROME     ------------------------------------------------------------
+CATL_BRUPA     ------------------------------------------------------------
+CYS1_HOMAM     ------------------------------------------------------------
+CYS2_HOMAM     ------------------------------------------------------------
+CYS3_HOMAM     ------------------------------------------------------------
+CPR2_ARATH     -----------------------------VLFVFQL---------ISLALL---------
+ACP1_ENTHI     ------------------------------------------------------------
+CPR1_DROME     ------------------------------------------------------------
+
+

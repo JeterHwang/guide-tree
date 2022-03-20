@@ -1,0 +1,293 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 151  Type: P  December 21, 2021 20:24  Check: 7271  ..
+
+ Name: 2pna_       Len:    151  Check: 1167  Weight: -1.00
+ Name: 1ab2_       Len:    151  Check: 5642  Weight: -1.00
+ Name: 1bm2_A      Len:    151  Check: 6281  Weight: -1.00
+ Name: 1d4t_A      Len:    151  Check: 9573  Weight: -1.00
+ Name: 1aya_A      Len:    151  Check: 3828  Weight: -1.00
+ Name: 2pld_A      Len:    151  Check: 1316  Weight: -1.00
+ Name: 1ju5_A      Len:    151  Check: 2526  Weight: -1.00
+ Name: 1lui_A      Len:    151  Check: 2195  Weight: -1.00
+ Name: PIG2_HUMAN  Len:    151  Check: 3437  Weight: -1.00
+ Name: SLA2_MOUSE  Len:    151  Check: 1490  Weight: -1.00
+ Name: SLA2_HUMAN  Len:    151  Check:  833  Weight: -1.00
+ Name: SRK2_SPOLA  Len:    151  Check: 4798  Weight: -1.00
+ Name: SR42_DROME  Len:    151  Check: 3963  Weight: -1.00
+ Name: STK_HYDAT   Len:    151  Check: 4388  Weight: -1.00
+ Name: SRK1_SPOLA  Len:    151  Check: 5490  Weight: -1.00
+ Name: LCP2_HUMAN  Len:    151  Check: 4992  Weight: -1.00
+ Name: SOC4_HUMAN  Len:    151  Check: 9779  Weight: -1.00
+ Name: SOC6_HUMAN  Len:    151  Check: 1572  Weight: -1.00
+ Name: SLA1_HUMAN  Len:    151  Check: 3662  Weight: -1.00
+ Name: FRK_HUMAN   Len:    151  Check: 5086  Weight: -1.00
+ Name: LCK_CHICK   Len:    151  Check: 4099  Weight: -1.00
+ Name: HCK_HUMAN   Len:    151  Check: 3008  Weight: -1.00
+ Name: LYN_HUMAN   Len:    151  Check: 8538  Weight: -1.00
+ Name: BLK_HUMAN   Len:    151  Check: 8580  Weight: -1.00
+ Name: YRK_CHICK   Len:    151  Check: 8231  Weight: -1.00
+ Name: FYN_CHICK   Len:    151  Check: 9725  Weight: -1.00
+ Name: YES_AVISY   Len:    151  Check: 9686  Weight: -1.00
+ Name: FGR_HUMAN   Len:    151  Check: 2158  Weight: -1.00
+ Name: FGR_FSVGR   Len:    151  Check:  712  Weight: -1.00
+ Name: SR64_DROME  Len:    151  Check:  934  Weight: -1.00
+ Name: TXK_HUMAN   Len:    151  Check: 9730  Weight: -1.00
+ Name: TEC_HUMAN   Len:    151  Check: 8534  Weight: -1.00
+ Name: BTK_HUMAN   Len:    151  Check: 2624  Weight: -1.00
+ Name: BMX_HUMAN   Len:    151  Check: 2562  Weight: -1.00
+ Name: BTKL_DROME  Len:    151  Check: 8119  Weight: -1.00
+ Name: PTK6_HUMAN  Len:    151  Check: 4822  Weight: -1.00
+ Name: PTK6_MOUSE  Len:    151  Check: 4708  Weight: -1.00
+ Name: SRMS_MOUSE  Len:    151  Check: 3374  Weight: -1.00
+ Name: VAV3_HUMAN  Len:    151  Check: 5466  Weight: -1.00
+ Name: VAV_HUMAN   Len:    151  Check: 4185  Weight: -1.00
+ Name: NCK2_HUMAN  Len:    151  Check: 9327  Weight: -1.00
+ Name: SCK_HUMAN   Len:    151  Check: 3597  Weight: -1.00
+ Name: GRBA_HUMAN  Len:    151  Check: 3334  Weight: -1.00
+ Name: ABL_DROME   Len:    151  Check: 6831  Weight: -1.00
+ Name: CSK_CHICK   Len:    151  Check: 2384  Weight: -1.00
+ Name: ABL1_CAEEL  Len:    151  Check: 2952  Weight: -1.00
+ Name: FER_HUMAN   Len:    151  Check: 2067  Weight: -1.00
+ Name: FPS_AVISP   Len:    151  Check: 8773  Weight: -1.00
+ Name: FES_FELCA   Len:    151  Check: 9130  Weight: -1.00
+ Name: HT16_HYDAT  Len:    151  Check: 1637  Weight: -1.00
+ Name: CISH_HUMAN  Len:    151  Check: 6698  Weight: -1.00
+ Name: CISH_CHICK  Len:    151  Check: 7082  Weight: -1.00
+ Name: CSW_DROME   Len:    151  Check: 5639  Weight: -1.00
+ Name: CSW_DROVI   Len:    151  Check: 5120  Weight: -1.00
+ Name: 1bf5_A      Len:    151  Check: 1838  Weight: -1.00
+ Name: 1uur_A      Len:    151  Check: 9049  Weight: -1.00
+
+//
+
+            1                                                   50
+2pna_       DISREEVNEK L..RDTADGT FLVRDASTKM HGDYTLTLRK ......GGNN
+1ab2_       PVSRNAAEYL LSSGI..NGS FLVRES.ESS PGQRSISLRY ......EGRV
+1bm2_A      KIPRAKAEEM LS.KQRHDGA FLIRES.ESA PGDFSLSVKF ......GNDV
+1d4t_A      KISRETGEKL LL.ATGLDGS YLLRDS.ESV PGVYCLCVLY ......HGYI
+1aya_A      NITGVEAENL LL.TRGVDGS FLARPS.KSN PGDFTLSVRR ......NGAV
+2pld_A      SLTRAQAEHM LM.RVPRDGA FLVRKR..NE PNSYAISFRA ......EGKI
+1ju5_A      RLSRQEAVAL L..QGQRHGV FLVRDS.STS PGDYVLSVSE ......NSRV
+1lui_A      SISRDKAEKL LL.DTGKEGA FMVRDS..RT PGTYTVSVFT KAIISENPCI
+PIG2_HUMAN  SLSRGEAEDM LM.RIPRDGA FLIRKR..EG SDSYAITFRA ......RGKV
+SLA2_MOUSE  GLSREKAEEL LLLPGNPGGA FLIRES.QTR RGCYSLSVRL SRP.ASWDRI
+SLA2_HUMAN  GLSREKAEEL LLLPGNPGGA FLIRES.QTR RGSYSLSVRL SRP.ASWDRI
+SRK2_SPOLA  ~~~~~~~~~~ ~~~~~~~~~T FLVRES.ESK PGDYSLSIQD ......GDNV
+SR42_DROME  KIKRIEAEKK LLLPENEHGA FLIRDS.ESR HNDYSLSVRD ......GDTV
+STK_HYDAT   DVKRAEAEKR LMVRGLPSGT FLIRKA.ETA VGNFSLSVRD ......GDSV
+SRK1_SPOLA  KIKRVEAEKM LNQSFNQVGS FLIRDS.ETT PGDFSLSVKD ......QDRV
+LCP2_HUMAN  YITRPEAEAA LR.KINQDGT FLVRDS..SK KTTTNPYVLM VLY...K..D
+SOC4_HUMAN  PITRWEAEGK L..ANVPDGS FLVRDS.SDD RYLLSLSFRS ......HGKT
+SOC6_HUMAN  PMNWEDAEMK L..KGKPDGS FLVRDS.SDP RYILSLSFRS ......QGIT
+SLA1_HUMAN  GLGRDKAEEL LQLPDTKVGS FMIRES.ETK KGFYSLSVRH .......RQV
+FRK_HUMAN   AIGRSDAEKQ LLYSENKTGS FLIRES.ESQ KGEFSLSVLD ......GAVV
+LCK_CHICK   NLSRKNAEAR LLASGNTHGS FLIRES.ETS KGSYSLSVRD FDQ.NQGETV
+HCK_HUMAN   GISRKDAERQ LLAPGNMLGS FMIRDS.ETT KGSYSLSVRD YDP.RQGDTV
+LYN_HUMAN   DITRKDAERQ LLAPGNSAGA FLIRES.ETL KGSFSLSVRD FDP.VHGDVI
+BLK_HUMAN   SQGRKEAERQ LLAPINKAGS FLIRES.ETN KGAFSLSVKD VT..TQGELI
+YRK_CHICK   KIGRKDAERQ LLCHGNCRGT FLIRES.ETT KGAYSLSIRD WDE.AKGDHV
+FYN_CHICK   KLGRKDAERQ LLSFGNPRGT FLIRES.ETT KGAYSLSIRD WDD.MKGDHV
+YES_AVISY   KMGRKDAERL LLNPGNQRGI FLVRES.ETT KGAYSLSIRD WDE.VRGDNV
+FGR_HUMAN   KIGRKDAERQ LLSPGNPQGA FLIRES.ETT KGAYSLSIRD WDQ.TRGDHV
+FGR_FSVGR   KIGRKDAERQ LLSPGNARGA FLVRES.ETT KGAYSLSIRD WDE.ARGDHV
+SR64_DROME  NVLRKEADKL LLAEENPRGT FLVRPS.EHN PNGYSLSVKD WED.GRGYHV
+TXK_HUMAN   NITRNQAEHL LR.QESKEGA FIVRDS..RH LGSYTISVFM GARRSTEAAI
+TEC_HUMAN   NMNRSKAEQL LR.SEDKEGG FMVRDS..SQ PGLYTVSLYT KFGGEGSSGF
+BTK_HUMAN   HMTRSQAEQL LK.QEGKEGG FIVRDS..SK AGKYTVSVFA KSTGDPQGVI
+BMX_HUMAN   NISRSQSEQL LR.QKGKEGA FMVRNS..SQ VGMYTVSLFS KAVNDKKGTV
+BTKL_DROME  DMSRQRAESL LK.QGDKEGC FVVRKS..ST KGLYTLSLHT KV...PQSHV
+PTK6_HUMAN  CISRSEAVRR LQAEGNATGA FLIRVS.EKP SADYVLSVRD ......TQAV
+PTK6_MOUSE  CISRSEAMHR LQAEDNSKGA FLIRVS.QKP GADYVLSVRD ......AQAV
+SRMS_MOUSE  GISRAQAQQL LLSPANAPGA FLIRPS.ESS IGGYSLSVRA ......QAKV
+VAV3_HUMAN  AMERLQAETE L..INRVNST YLVRHR.TKE SGEYAISIKY ......NNEA
+VAV_HUMAN   PMERAGAESI L..ANRSDGT FLVRQR.VKD AAEFAISIKY ......NVEV
+NCK2_HUMAN  NVTRHQAECA LN.ERGVEGD FLIRDS.ESS PSDFSVSLKA ......SGKN
+SCK_HUMAN   RMSRRAAERM LR....ADGD FLVRDS.VTN PGQYVLTGMH ......AGQP
+GRBA_HUMAN  RISREESHRI IKQQGLVDGL FLLRDS.QSN PKAFVLTLCH ......HQKI
+ABL_DROME   PISRNAAEYL LSSGI..NGS FLVRES.ESS PGQRSISLRY ......EGRV
+CSK_CHICK   KITREQAERL LYPPE..TGL FLVRES.TNY PGDYTLCVSC ......EGKV
+ABL1_CAEEL  KISRSDSEAI LGSGI..TGS FLVRES.ETS IGQYTISVRH ......DGRV
+FER_HUMAN   AIPRIEAQEL LK....KQGD FLVRES.HGK PGEYVLSVYS ......DGQR
+FPS_AVISP   AIPRSEVQEL LK....CSGD FLVRES.QGK .QEYVLSVLW ......DGQP
+FES_FELCA   ALPRAEVAEL LT....HSGD FLVRES.QGK .QEYVLSVLW ......DGQP
+HT16_HYDAT  KITREVAVQV LLRKGGRDGF FLIRDC.GNA PEDYVLSMMF ......RSQI
+CISH_HUMAN  SITASEARQH L..QKMPEGT FLVRDS.THP SYLFTLSVKT ......TRGP
+CISH_CHICK  SITASEAKQH L..QKMPEGT FLVRDS.THP SYLFTLSVKT ......NRGP
+CSW_DROME   NLSGKEAEKL IL.ERGKNGS FLVRES.QSK PGDFVLSVRT ......DDKV
+CSW_DROVI   NLSGKEAEKL IL.ERGKNGS FLVRES.QSK PGDFVLSVRT ......DDKV
+1bf5_A      FISKERERAL L..KDQQPGT FLLRFSESSR EGAITFTWVE ......RSQN
+1uur_A      YMGRQEVNDA L..QNQDPGT FIIRFS.ERN PGQFGIAYIG VEM...PARI
+
+            51                                                 100
+2pna_       KLIKIFHR.. DGK.Y..... .......... .GF......S DPLTFNS...
+1ab2_       YHYRINTA.. SDGKL..... .......... .YV......S SESRFNT...
+1bm2_A      QHFKVLRD.. .GAGK..... .......... .YF......L WVVKFNS...
+1d4t_A      YTYRVSQT.. .ETGS..... .......... .WSAETAPGV HKRYFRK...
+1aya_A      THIKIQNT.. .GDYY..... .......... .DL......Y GGEKFAT...
+2pld_A      KHCRVQQE.. .GQTV..... .......... .ML......G NS.EFDS...
+1ju5_A      SHYIINSS.. GPRPPVPPSP AQPPPGVSPS RLR......I GDQEFDS...
+1lui_A      KHYHIKETND SPKRY..... .......... .YV......A EKYVFDS...
+PIG2_HUMAN  KHCRINRD.. .GRHF..... .......... .VL......G TSAYFES...
+SLA2_MOUSE  RHYRIQRL.. DNGWL..... .......... .YI......S PRLTFPS...
+SLA2_HUMAN  RHYRIHCL.. DNGWL..... .......... .YI......S PRLTFPS...
+SRK2_SPOLA  KHYRIRKL.. DEGGF..... .......... .FI......T RRAVFNT...
+SR42_DROME  KHYRIRQL.. DEGGF..... .......... .FI......A RRTTFRT...
+STK_HYDAT   KHYRVRKL.. DTGGY..... .......... .FI......T TRAPFNS...
+SRK1_SPOLA  RHYRVRRL.. EDGSL..... .......... .FV......T RRSTFQI...
+LCP2_HUMAN  KVYNIQIRYQ KESQV..... .......... .YLLGT.GLR GKEDFLS...
+SOC4_HUMAN  LHTRIEHS.. NGRFSF.... .........Y EQP......D VEGH.TS...
+SOC6_HUMAN  HHTRMEHY.. RGTFSL.... .........W CHP......K FEDRCQS...
+SLA1_HUMAN  KHYRIFRL.. PNNWY..... .......... .YI......S PRLTFQC...
+FRK_HUMAN   KHYRIKRL.. DEGGF..... .......... .FL......T RRRIFST...
+LCK_CHICK   KHYKIRNM.. DNGGY..... .......... .YI......S PRVTFSS...
+HCK_HUMAN   KHYKIRTL.. DNGGF..... .......... .YI......S PRSTFST...
+LYN_HUMAN   KHYKIRSL.. DNGGY..... .......... .YI......S PRITFPC...
+BLK_HUMAN   KHYKIRCL.. DEGGY..... .......... .YI......S PRITFPS...
+YRK_CHICK   KHYKIRKL.. DSGGY..... .......... .YI......T TRAQFDT...
+FYN_CHICK   KHYKIRKL.. DNGGY..... .......... .YI......T TRAQFET...
+YES_AVISY   KHYKIRKL.. DNGGY..... .......... .YI......T TRAQFES...
+FGR_HUMAN   KHYKIRKL.. DMGGY..... .......... .YI......T TRVQFNS...
+FGR_FSVGR   KHYKIRKL.. DTGGY..... .......... .YI......T TRAQFNS...
+SR64_DROME  KHYRIKPL.. DNGGY..... .......... .YI......A TNQTFPS...
+TXK_HUMAN   KHYQIKKN.. DSGQW..... .......... .YV......A ERHAFQS...
+TEC_HUMAN   RHYHIKETTT SPKKY..... .......... .YL......A EKHAFGS...
+BTK_HUMAN   RHYVVCST.. PQSQY..... .......... .YL......A EKHLFST...
+BMX_HUMAN   KHYHVHTN.. AENKL..... .......... .YL......A ENYCFDS...
+BTKL_DROME  KHYHIKQN.. ARCEY..... .......... .YL......S EKHCCET...
+PTK6_HUMAN  RHYKIWRR.. AGGRL..... .......... .HL......N EAVSFLS...
+PTK6_MOUSE  RHYRIWKN.. NEGRL..... .......... .HL......N EAVSFSN...
+SRMS_MOUSE  CHYRICMA.. PSGSL..... .......... .YL......Q EGQLFPS...
+VAV3_HUMAN  KHIKILTR.. DGF.F..... .......... .HI......A ENRKFKS...
+VAV_HUMAN   KHIKIMTA.. EGL.Y..... .......... .RI......T EKKAFRG...
+NCK2_HUMAN  KHFKVQLV.. .DNVY..... .......... .CI....... GQRRFHT...
+SCK_HUMAN   KHLLLVDP.. EGV....... .......... .VR......T KDVLFES...
+GRBA_HUMAN  KNFQILPC.. EDDGQT.... ........FF SLD......D GNTKFSD...
+ABL_DROME   YHYRISED.. PDGKV..... .......... .FV......T QEAKFNT...
+CSK_CHICK   EHYRIIYS.. .SSKL..... .......... .SI......D EEVYFEN...
+ABL1_CAEEL  FHYRINVD.. NTEKM..... .......... .FI......T QEVKFRT...
+FER_HUMAN   RHFIIQYV.. DNM....... .......... .YR......F EGTGFSN...
+FPS_AVISP   RHFIIQAA.. DNL....... .......... .YR......L EGDGFPT...
+FES_FELCA   RHFIIESA.. DNL....... .......... .YR......L EGDGFAS...
+HT16_HYDAT  LHFQINCL.. GDNKF..... .......... .SI......D NGPIFQG...
+CISH_HUMAN  TNVRIEYA.. DSSFRLDSN. .........C LSR......P RILAFPD...
+CISH_CHICK  TNVRIEYA.. DSKFRLDSN. .........Y LSK......P RILAFPD...
+CSW_DROME   THVMIRWQ.. .DKKY..... .......... .DV......G GGESFGT...
+CSW_DROVI   THVMIRWQ.. .DKKY..... .......... .DV......G GGESFAT...
+1bf5_A      GGEPD..... ....F..... .......... .HA......V EPYTKKELSA
+1uur_A      KHYLVQPNDT AAAKK..... .......... .TFPDF..LS EH...SQ...
+
+            101                                                150
+2pna_       ..VVELINHY ........RN ESLAQYNPKL .DVKLLY~~~ ~~~~~~~~~~
+1ab2_       ..LAELVHHH STVAD..... ...GLITTLH .Y~~~~~~~~ ~~~~~~~~~~
+1bm2_A      ..LNELVDYH RSTSVSRN.. .Q...QIFL~ ~~~~~~~~~~ ~~~~~~~~~~
+1d4t_A      ..IKNLISAF QK......PD QG..IVIPLQ Y~~~~~~~~~ ~~~~~~~~~~
+1aya_A      ..LAELVQYY MEHHGQLKEK NG..DVIELK Y~~~~~~~~~ ~~~~~~~~~~
+2pld_A      ..LVDLISYY EKHPLY.... ....RKMKLR Y~~~~~~~~~ ~~~~~~~~~~
+1ju5_A      ..LPALLEFY KIHYL..... ...DTTTLI. .E~~~~~~~~ ~~~~~~~~~~
+1lui_A      ..IPLLIQYH QYNGGG.... ....LVTRLR Y~~~~~~~~~ ~~~~~~~~~~
+PIG2_HUMAN  ..LVELVSYY EKHSLY.... ....RKMRLR Y~~~~~~~~~ ~~~~~~~~~~
+SLA2_MOUSE  ..LHALVEHY SELAD..... ...GICCPLR .E~~~~~~~~ ~~~~~~~~~~
+SLA2_HUMAN  ..LQALVDHY SELAD..... ...DICCLLK .E~~~~~~~~ ~~~~~~~~~~
+SRK2_SPOLA  ..LKDLVQYY QNESD..... ...GLCVNLR .Q~~~~~~~~ ~~~~~~~~~~
+SR42_DROME  ..LQELVEHY SKDSD..... ...GLCVNLC .K~~~~~~~~ ~~~~~~~~~~
+STK_HYDAT   ..LYELVQHY TKDAD..... ...GLVCALT .L~~~~~~~~ ~~~~~~~~~~
+SRK1_SPOLA  ..LHELVDHY KIETD..... ...GLCCKLL .Y~~~~~~~~ ~~~~~~~~~~
+LCP2_HUMAN  ..VSDIIDYF RKMPLL.... ....L~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SOC4_HUMAN  ..IVDLIEHS IRDSENG... ...AFCYSRS ..RL~~~~~~ ~~~~~~~~~~
+SOC6_HUMAN  ..VVEFIKRA IMHSKNG... ...KFLYFLR .SRV~~~~~~ ~~~~~~~~~~
+SLA1_HUMAN  ..LEDLVNHY SEVAD..... ...GLCCVLT .T~~~~~~~~ ~~~~~~~~~~
+FRK_HUMAN   ..LNEFVSHY TKTSD..... ...GLCVKLG .K~~~~~~~~ ~~~~~~~~~~
+LCK_CHICK   ..LHELVEYY SSSSD..... ...GLCTRLG .K~~~~~~~~ ~~~~~~~~~~
+HCK_HUMAN   ..LQELVDHY KKGND..... ...GLCQKLS .V~~~~~~~~ ~~~~~~~~~~
+LYN_HUMAN   ..ISDMIKHY QKQAD..... ...GLCRRLE .K~~~~~~~~ ~~~~~~~~~~
+BLK_HUMAN   ..LQALVQHY SKKGD..... ...GLCQRLT .L~~~~~~~~ ~~~~~~~~~~
+YRK_CHICK   ..IQQLVQHY IERAA..... ...GLCCRLA .V~~~~~~~~ ~~~~~~~~~~
+FYN_CHICK   ..LQQLVQHY SEKAD..... ...GLCFNLT .V~~~~~~~~ ~~~~~~~~~~
+YES_AVISY   ..LQKLVKHS REHAD..... ...GLCHKLT .T~~~~~~~~ ~~~~~~~~~~
+FGR_HUMAN   ..VQELVQHY MEVND..... ...GLCNLLI .A~~~~~~~~ ~~~~~~~~~~
+FGR_FSVGR   ..VQELVQHY VEVND..... ...GLCHLLT .A~~~~~~~~ ~~~~~~~~~~
+SR64_DROME  ..LQALVMAY SKNAL..... ...GLCHILS .R~~~~~~~~ ~~~~~~~~~~
+TXK_HUMAN   ..IPELIWYH QHNAAG.... ....LMTRLR Y~~~~~~~~~ ~~~~~~~~~~
+TEC_HUMAN   ..IPEIIEYH KHNAAG.... ....LVTRLR Y~~~~~~~~~ ~~~~~~~~~~
+BTK_HUMAN   ..IPELINYH QHNSAG.... ....LISRLK Y~~~~~~~~~ ~~~~~~~~~~
+BMX_HUMAN   ..IPKLIHYH QHNSAG.... ....MITRLR H~~~~~~~~~ ~~~~~~~~~~
+BTKL_DROME  ..IPDLINYH RHNSGG.... ....LACRLK S~~~~~~~~~ ~~~~~~~~~~
+PTK6_HUMAN  ..LPELVNYH RAQSL..... ...SHGLRLA .A~~~~~~~~ ~~~~~~~~~~
+PTK6_MOUSE  ..LSELVDYH KTQSL..... ...SHGLQLS .M~~~~~~~~ ~~~~~~~~~~
+SRMS_MOUSE  ..LDALLAYY KTNWK..... ...LIQNPLL .Q~~~~~~~~ ~~~~~~~~~~
+VAV3_HUMAN  ..LMELVEYY ........KH HSLKEGFRTL .D~~~~~~~~ ~~~~~~~~~~
+VAV_HUMAN   ..LTELVEFY ........QQ NSLKDCFKSL .D~~~~~~~~ ~~~~~~~~~~
+NCK2_HUMAN  ..MDELVEHY KKAPIFTS~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+SCK_HUMAN   ..ISHLIDHH LQNGQ..... ...PIVA~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GRBA_HUMAN  ..LIQLVDFY QLNKG..... ...VLPCKLK .H~~~~~~~~ ~~~~~~~~~~
+ABL_DROME   ..LAELVHHH SVPHEGH... ...GLITPL~ ~~~~~~~~~~ ~~~~~~~~~~
+CSK_CHICK   ..LMQLVEHY TTDADG.... ....LCSRLI .K~~~~~~~~ ~~~~~~~~~~
+ABL1_CAEEL  ..LGELVHHH SVHAD..... ...GLICLLM .Y~~~~~~~~ ~~~~~~~~~~
+FER_HUMAN   ..IPQLIDHH YTTKQ..... ...VITKKSG .V~~~~~~~~ ~~~~~~~~~~
+FPS_AVISP   ..IPLLIDHL LQSQQ..... ...PITRKSG .I~~~~~~~~ ~~~~~~~~~~
+FES_FELCA   ..IPLLVDHL LRSQQ..... ...PLTKKSG .I~~~~~~~~ ~~~~~~~~~~
+HT16_HYDAT  ..LDMLISYY KVISD..... ...GLPCKLV .D~~~~~~~~ ~~~~~~~~~~
+CISH_HUMAN  ..VVSLVQHY VASCTA.... .....DTRSD .SPD~~~~~~ ~~~~~~~~~~
+CISH_CHICK  ..VVSLIQHY VTSCTT.... .....ESKSE .APY~~~~~~ ~~~~~~~~~~
+CSW_DROME   ..LSELIDHY KRNP..MVET CG..TVVHLR Q~~~~~~~~~ ~~~~~~~~~~
+CSW_DROVI   ..LSELIEHY KRHP..MVET CG..TVVHLR Q~~~~~~~~~ ~~~~~~~~~~
+1bf5_A      VTFPDIIRNY KVMAAENIPE NPLKYLYPNI .DKDHAFGKY YSRG~~~~~~
+1uur_A      ..FVNLLQWT KDT....... NG..APRFLK LHKDTALGSF APKRTAPVPV
+
+            151   
+2pna_       ~
+1ab2_       ~
+1bm2_A      ~
+1d4t_A      ~
+1aya_A      ~
+2pld_A      ~
+1ju5_A      ~
+1lui_A      ~
+PIG2_HUMAN  ~
+SLA2_MOUSE  ~
+SLA2_HUMAN  ~
+SRK2_SPOLA  ~
+SR42_DROME  ~
+STK_HYDAT   ~
+SRK1_SPOLA  ~
+LCP2_HUMAN  ~
+SOC4_HUMAN  ~
+SOC6_HUMAN  ~
+SLA1_HUMAN  ~
+FRK_HUMAN   ~
+LCK_CHICK   ~
+HCK_HUMAN   ~
+LYN_HUMAN   ~
+BLK_HUMAN   ~
+YRK_CHICK   ~
+FYN_CHICK   ~
+YES_AVISY   ~
+FGR_HUMAN   ~
+FGR_FSVGR   ~
+SR64_DROME  ~
+TXK_HUMAN   ~
+TEC_HUMAN   ~
+BTK_HUMAN   ~
+BMX_HUMAN   ~
+BTKL_DROME  ~
+PTK6_HUMAN  ~
+PTK6_MOUSE  ~
+SRMS_MOUSE  ~
+VAV3_HUMAN  ~
+VAV_HUMAN   ~
+NCK2_HUMAN  ~
+SCK_HUMAN   ~
+GRBA_HUMAN  ~
+ABL_DROME   ~
+CSK_CHICK   ~
+ABL1_CAEEL  ~
+FER_HUMAN   ~
+FPS_AVISP   ~
+FES_FELCA   ~
+HT16_HYDAT  ~
+CISH_HUMAN  ~
+CISH_CHICK  ~
+CSW_DROME   ~
+CSW_DROVI   ~
+1bf5_A      ~
+1uur_A      G

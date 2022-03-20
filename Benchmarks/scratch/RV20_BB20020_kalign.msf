@@ -1,0 +1,221 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV20_BB20020_kalign.msf  MSF: 609  Type: N  December 21, 2021 20:25  Check: 2436  ..
+
+ Name: 1mrj_       Len:    609  Check: 4637  Weight: 1.00
+ Name: 1apg_A      Len:    609  Check: 6809  Weight: 1.00
+ Name: MLA1_VISAL  Len:    609  Check: 7258  Weight: 1.00
+ Name: 1abr_A      Len:    609  Check: 1397  Weight: 1.00
+ Name: ABRB_ABRPR  Len:    609  Check:  399  Weight: 1.00
+ Name: RIP2_BRYDI  Len:    609  Check: 5401  Weight: 1.00
+ Name: RIP2_MOMBA  Len:    609  Check: 4599  Weight: 1.00
+ Name: RIP1_TRIAN  Len:    609  Check: 7182  Weight: 1.00
+ Name: RIPA_LUFCY  Len:    609  Check:  429  Weight: 1.00
+ Name: RIP1_MOMCH  Len:    609  Check: 1384  Weight: 1.00
+ Name: RIP1_CUCFI  Len:    609  Check: 7682  Weight: 1.00
+ Name: RIPG_GELMU  Len:    609  Check: 6601  Weight: 1.00
+ Name: RIPS_PHYAM  Len:    609  Check: 7876  Weight: 1.00
+ Name: 1qi7_A      Len:    609  Check: 7397  Weight: 1.00
+ Name: 1apa_       Len:    609  Check: 1546  Weight: 1.00
+ Name: 1dm0_A      Len:    609  Check: 1839  Weight: 1.00
+
+//
+
+1mrj_          ------------------------------------------------DVS--FRLSGAT
+1apg_A         --------------------------------------IF---PKQYPIIN--FTTAGAT
+MLA1_VISAL     -----------------------------------------------YERLRLRVTHQTT
+1abr_A         -----------------------------------------------EDRPIKFSTEGAT
+ABRB_ABRPR     -----------------------------------------------QDQVIKFTTEGAT
+RIP2_BRYDI     ------------------------M---RSIGFYSVLALYVGAHVTE-DVDINFSLIGAT
+RIP2_MOMBA     ------------------------MVKCLLLSFL-IIAIFIGVPTAKGDVN--FDLSTAT
+RIP1_TRIAN     ----------------------------MALSFF-FLAISLGSPTAIGDVS--FDLSTAT
+RIPA_LUFCY     ------------------------MKRFTV---L-ILAIFVAASTVEADVR--FSLSGSS
+RIP1_MOMCH     ------------------------MSRFSVLSFL-ILAIFLGGSIVKGDVS--FRLSGAD
+RIP1_CUCFI     ------------------------MNRFSVLMCLVILSIFHGVPTAEGDVTVKFSLLGSN
+RIPG_GELMU     MKGNMKVYWIKIAVATWFCCTTIVLGSTARIFSL-PTNDEEETSKTLGLDTVSFSTKGAT
+RIPS_PHYAM     ------------------------------------------------INTITFDAGNAT
+1qi7_A         ------------------------------------------------VTSITLDLVNPT
+1apa_          ------------------------------------------------INTITFDVGNAT
+1dm0_A         ---------------------------------------------------KEFTLDFST
+
+
+1mrj_          SSSYGVFISNLRKALPN-ERKLY--DIPLLRSSL---PGSQRYALIHLTNYADETISVAI
+1apg_A         VQSYTNFIRAVRGRLTTGADVRH--EIPVLPNRVG-LPINQRFILVELSNHAELSVTLAL
+MLA1_VISAL     GEEYFRFITLLRDYVSS-GSFSN--EIPLLRQSTIPVSDAQRFVLVELTNQGQDSVTAAI
+1abr_A         SQSYKQFIEALRERL-R-GGLIH--DIPVLPDPTT-LQERNRYITVELSNSDTESIEVGI
+ABRB_ABRPR     SQSYKQFIEALRQRL-T-GGLIH--GIPVLPDPTT-LQERNRYISVELSNSDTESIEAGI
+RIP2_BRYDI     GATYKTFIRNLRTKLTVGTPRVY--DIPVLRNAA---AGLARFQLVTLTNYNGESVTVAL
+RIP2_MOMBA     AKTYTKFIEDFRATLPF-SHKVY--DIPLLYSTI---SDSRRFILLDLTSYAYETISVAI
+RIP1_TRIAN     KKSYSSFITQLRDALPT-QGTVC--GIPLLPSTA---SGSQWFRFFNLTNYNDETVTVAV
+RIPA_LUFCY     STSYSKFIGDLRKALPS-NGTVY--NITLLLSSA---SGASRYTLMTLSNYDGKAITVAV
+RIP1_MOMCH     PRSYGMFIKDLRNALPF-REKVY--NIPLLLPSV---SGAGRYLLMHLFNYDGKTITVAV
+RIP1_CUCFI     HKSYSKFITSMRNALPN-AGDIY--NIPLLVPSI---SGSRRYILMQLSNYEGNTITMAV
+RIPG_GELMU     YITYVNFLNELRVKLKP-EGNSH--GIPLLRKKCD--DPGKCFVLVALSNDNGQLAEIAI
+RIPS_PHYAM     INKYATFMESLRNEAKDPSLKCY--GIPM-LPNT---NSTIKYLLVKLQGASLKTITLML
+1qi7_A         AGQYSSFVDKIRNNVKDPNLKYG--GTDIAVIGP---PSKEKFLRINFQ-SSRGTVSLGL
+1apa_          INKYATFMKSIHNQAKDPTLKCY--GIPM-LPNT---NLTPKYLLVTLQDSSLKTITLML
+1dm0_A         AKTYVDSLNVIRSAIGTPLQTISSGGTSLLMIDDN--LFAVDVRGIDPEEGRFNNLRLIV
+
+
+1mrj_          DVTNVYIMGYRAGDT-----SYFF---NE----ASATEAAKYVFKDAMRKV--TLPYSGN
+1apg_A         DVTNAYVVGYRAGNS-----AYFFHPDNQ----EDAE-AITHLFTDVQNRY--TFAFGGN
+MLA1_VISAL     DVTNAYVVAYQAGDQ-----SYFL---RD----APRG-AETHLFTGT-TRS--SLPFNGS
+1abr_A         DVTNAYVVAYRAGTQ-----SYFL---RD----APSS-ASDYLFTGT-DQH--SLPFYGT
+ABRB_ABRPR     DVSNAYVVAYRAGNR-----SYFL---RD----APTS-ASRYLFTGT-QQY--SLRFNGS
+RIP2_BRYDI     DVVNVYVVAYRAGNT-----AYFL---AD----ASTE-ANNVLFAGI-NHV--RLPYGGN
+RIP2_MOMBA     DVTNVYVVAYRTRDV-----SYFF---KE----SPPE-AYNILFKGT-RKI--TLPYTGN
+RIP1_TRIAN     NVTNVYIVAYRADAV-----SYFF---ED----TPAE-AFKLIFAGT-KTV--KLPYSGN
+RIPA_LUFCY     DVTNVYIMGYLVNST-----SYFF---NE----SDAKLASQYVFKGS-TIV--TLPYSGN
+RIP1_MOMCH     DVTNVYIMGYLADTT-----SYFF---NE----PAAELASQYVFRDARRKI--TLPYSGN
+RIP1_CUCFI     DVTNVYIMGYLVNGT-----SYFF---NE----TDAQLASKFVFQGT-KSI--TLPYSGN
+RIPG_GELMU     DVTSVYVVGYQVRNR-----SYFF---KD----APDA-AYEGLFKNT-IKT--RLHFGGS
+RIPS_PHYAM     RRNNLYVMGY--SDPYDNKCRYHIF--NDIKG-TEYSDVENTLCPSSNPRVAKPINYNGL
+1qi7_A         KRDNLYVVAYLAMDNTNVNRAYYFK--SEITS-AE----LTALFPEATTANQKALEYTED
+1apa_          KRNNLYVMGY--ADTYNGKCRYHIF--KDISNTTERNDVMTTLCPNPSSRVGKNINYDSS
+1dm0_A         ERNNLYVTGFVNRTN---NVFYRF---AD---------FSHVTFPGT-TAV--TLSGDSS
+
+
+1mrj_          YERLQTAA----GKI-RENIPLGLPALDSAITTLFYYN-A----NSAASALMVLIQSTSE
+1apg_A         YDRLEQLA----GNL-RENIELGNGPLEEAISALYYYSTGGTQLPTLARSFIICIQMISE
+MLA1_VISAL     YPDLERYA----GH--RDQIPLGIDQLIQSVTALRFPGGST---RTQARSILILIQMISE
+1abr_A         YGDLERWA----HQS-RQQIPLGLQALTHGISFFRSGGNDN---EEKARTLIVIIQMVAE
+ABRB_ABRPR     YIDLERLA----RQT-RQQIPLGLQALRHAISFLQS-GTDD---QEIARTLIVIIQMASE
+RIP2_BRYDI     YDGLETAA----GRISRENIELGFSEISSAIGNMFRHNPG----TSVPRAFIVIIQTVSE
+RIP2_MOMBA     YENLQTAA----HKI-RENIDLGLPALSSAITTLFYYN-A----QSAPSALLVLIQTTAE
+RIP1_TRIAN     YDKLQSVV----GKQ-RDMIELGIPALSSAITNMVYYD-Y----QSTAAALLVLIQCTAE
+RIPA_LUFCY     YEKLQTAA----GKI-REKIPLGFPALDSAITTLFHYD-S----TAAAAAFLVIIQTTAE
+RIP1_MOMCH     YERLQIAA----GKP-REKIPIGLPALDSAISTLLHYD-S----TAAAGALLVLIQTTAE
+RIP1_CUCFI     YQKLQSVA----RKE-RDSIPLGFMALDSAISTLYYYD-S----RSAPIAFLVLIQTTAE
+RIPG_GELMU     YPSLEGEK----AY--RETTDLGIEPLRIGIKKLDENAIDNYKPTEIASSLLVVIQMVSE
+RIPS_PHYAM     YPTLEKKA----GVTSRNEVQLGIQILSSDIGKISGQGSFT--EKIEAKFLLVAIQMVSE
+1qi7_A         YQSIEKNAQITQGDKSRKELGLGIDLLLTFMEAVNKKARVV---KNEARFLLIAIQMTAE
+1apa_          YPALEKKV----G-RPRSQVQLGIQILNSGIGKIYGVDSFT--EKTEAEFLLVAIQMVSE
+1dm0_A         YTTLQRVA----GIS-RTGMQINRHSLTTSYLDLMSHSGTSL-TQSVARAMLRFVTVTAE
+
+
+1mrj_          AARYKFIEQQIGKRV--DKTFLPSLAIISLENSWSALSKQIQIASTNN-GQFESPVVLIN
+1apg_A         AARFQYIEGEMRTRIRYNRRSAPDPSVITLENSWGRLSTAIQ--ESNQ-GAFASPIQLQR
+MLA1_VISAL     AARFNPILWRYRQYINSGASFLPDVYMLELETSWGQQSTQVQ--HSTD-GVFNNPIRL-A
+1abr_A         AARFRYISNRVRVSIQTGTAFQPDAAMISLENNWDNLSRGVQ--ESVQ-DTFPNQVTLTN
+ABRB_ABRPR     AARYRFISYRVGVSIRTNTAFQPDAAMISLENNWDNLSGGVQ--QSVQ-DTFPNAVTLRS
+RIP2_BRYDI     AARFKYIEQRVSENV--GTKFKPDPAFLSLQNAWGSLSEQIQIAQTRG-GEFARPVELRT
+RIP2_MOMBA     AARFKYIERHVAKYV--ATNFKPNLAIISLENQWSALSKQIFLAQNQG-GKFRNPVDLIK
+RIP1_TRIAN     AARYKYIEQQVSSHI--SSNFYPNQAVISLENKWGALSKQIQIANRTGHGQFENPVELYN
+RIPA_LUFCY     ASRFKYIEGQIIERI--SKNQVPSLATISLENEWSALSKQIQLAQTNN-GTFKTPVVITD
+RIP1_MOMCH     AARFKYIEQQIQERA--YRDEVPSLATISLENSWSGLSKQIQLAQGNN-GIFRTPIVLVD
+RIP1_CUCFI     AARYKYIEKQIIDRI--SVSKVPDLAAISLENEWSLLSKQIQIAKSNN-GQFQTPVKIIN
+RIPG_GELMU     AARFTFIENQIRNNF--QQRIRPANNTISLENKWGKLSFQIR-TSGAN-GMFSEAVELER
+RIPS_PHYAM     AARFKYIENQVKTNF--NRDFSPNDKVLDLEENWGKISTAIH--NSKN-GALPKPLELKN
+1qi7_A         VARFRYIQNLVTKNF--PNKFDSDNKVIQFEVSWRKISTAIY-GDAKN-GVFNKDYDFGF
+1apa_          AARFKYIENQVKTNF--NRAFYPNAKVLNLEESWGKISTAIH--NAKN-GALTSPLELKN
+1dm0_A         ALRFRQIQRGFRTTL---DSYVMTAEDVDLTLNWGRLSSVLPDYHGQD-SVRVGRISFGS
+
+
+1mrj_          AQNQRVTITNVDAGVVTSNIALLLNRN-NMA-----------------------------
+1apg_A         RNGSKFSVYDVS--ILIPIIALMVYRCAPPPSSQF-------------------------
+MLA1_VISAL     IPPGNFVTLTNVRDVIAS-LAIMLFVCGERPSSS--------------------------
+1abr_A         IRNEPVIVDSLSHPTVAV-LALMLFVCNP-PN----------------------------
+ABRB_ABRPR     VNNQPVIVDSLTHQSVAV-LALMLFVCNP-PNANQSPLLIRSIVEKSKICSSRYEPTVRI
+RIP2_BRYDI     VSNTPTFVTNVNSPVVKG-IALLLYFRVNVGTDNVFAMSLSTY-----------------
+RIP2_MOMBA     PTGERFQVTNVDSDVVKGNIKLLLNSRASTADENFITTMTLLGESVVN------------
+RIP1_TRIAN     PDGTRFSVTNTSAGVVKGNIKLLLYYKASVGSEYDIPT-TILHPGAMGMLHNQNGNYVTM
+RIPA_LUFCY     DKGQRVEITNVTSKVVTKNIQLLLNYKQNVAAFDE-DVSAKH------------------
+RIP1_MOMCH     NKGNRVQITNVTSKVVTSNIQLLLNTR-NIAEGDNGDVSTTHGFSSY-------------
+RIP1_CUCFI     DKGILTEVTNVSSLVVTKNIMLLLNKL-NIASFEDHVISTTMPQA---------------
+RIPG_GELMU     ANGKKYYVTAVDQ--VKPKIALLKFVDKDPKTSLAAELIIQNYESLVGFD----------
+RIPS_PHYAM     ADGTKWIVLRVDE--IKPDVGLLNYVNGTCQAT---------------------------
+1qi7_A         GK-----VRQVKD--LQ--MGLLMYL-GKPK-----------------------------
+1apa_          ANGSKWIVLRVDD--IEPDVGLLKYVNGTCQAT---------------------------
+1dm0_A         INA------------ILGSVALILNCFPSMCPADGRVRGITHNKILWD---SSTLGAILM
+
+
+1mrj_          ------------------------------------------------------------
+1apg_A         ------------------------------------------------------------
+MLA1_VISAL     ------------------------------------------------------------
+1abr_A         ------------------------------------------------------------
+ABRB_ABRPR     GGRNGMCVDVYDDGYHNGNRIIAWKCKDRLEENQLWTLKSDKTIRSNGKCLTTEGYAPGN
+RIP2_BRYDI     ------------------------------------------------------------
+RIP2_MOMBA     ------------------------------------------------------------
+RIP1_TRIAN     ------------------------------------------------------------
+RIPA_LUFCY     ------------------------------------------------------------
+RIP1_MOMCH     ------------------------------------------------------------
+RIP1_CUCFI     ------------------------------------------------------------
+RIPG_GELMU     ------------------------------------------------------------
+RIPS_PHYAM     ------------------------------------------------------------
+1qi7_A         ------------------------------------------------------------
+1apa_          ------------------------------------------------------------
+1dm0_A         ------------------------------------------------------------
+
+
+1mrj_          ------------------------------------------------------------
+1apg_A         ------------------------------------------------------------
+MLA1_VISAL     ------------------------------------------------------------
+1abr_A         ------------------------------------------------------------
+ABRB_ABRPR     YVMIYDCTSAVAEATYWEIWDNGTIINPKSALVLSAESSSMGGTLTVQTNEYLMRQGWRT
+RIP2_BRYDI     ------------------------------------------------------------
+RIP2_MOMBA     ------------------------------------------------------------
+RIP1_TRIAN     ------------------------------------------------------------
+RIPA_LUFCY     ------------------------------------------------------------
+RIP1_MOMCH     ------------------------------------------------------------
+RIP1_CUCFI     ------------------------------------------------------------
+RIPG_GELMU     ------------------------------------------------------------
+RIPS_PHYAM     ------------------------------------------------------------
+1qi7_A         ------------------------------------------------------------
+1apa_          ------------------------------------------------------------
+1dm0_A         ------------------------------------------------------------
+
+
+1mrj_          ------------------------------------------------------------
+1apg_A         ------------------------------------------------------------
+MLA1_VISAL     ------------------------------------------------------------
+1abr_A         ------------------------------------------------------------
+ABRB_ABRPR     GNNTSPFVTSISGYSDLCMQAQGSNVWLAYCDNNKKEQQWALYTDGSIRSVQNTNNCLTS
+RIP2_BRYDI     ------------------------------------------------------------
+RIP2_MOMBA     ------------------------------------------------------------
+RIP1_TRIAN     ------------------------------------------------------------
+RIPA_LUFCY     ------------------------------------------------------------
+RIP1_MOMCH     ------------------------------------------------------------
+RIP1_CUCFI     ------------------------------------------------------------
+RIPG_GELMU     ------------------------------------------------------------
+RIPS_PHYAM     ------------------------------------------------------------
+1qi7_A         ------------------------------------------------------------
+1apa_          ------------------------------------------------------------
+1dm0_A         ------------------------------------------------------------
+
+
+1mrj_          ------------------------------------------------------------
+1apg_A         ------------------------------------------------------------
+MLA1_VISAL     ------------------------------------------------------------
+1abr_A         ------------------------------------------------------------
+ABRB_ABRPR     KDHKQGSPIVLMACSNGWASQRWLFRNDGSIYNLHDDMVMDVKRSDPSLKEIILHPYHGK
+RIP2_BRYDI     ------------------------------------------------------------
+RIP2_MOMBA     ------------------------------------------------------------
+RIP1_TRIAN     ------------------------------------------------------------
+RIPA_LUFCY     ------------------------------------------------------------
+RIP1_MOMCH     ------------------------------------------------------------
+RIP1_CUCFI     ------------------------------------------------------------
+RIPG_GELMU     ------------------------------------------------------------
+RIPS_PHYAM     ------------------------------------------------------------
+1qi7_A         ------------------------------------------------------------
+1apa_          ------------------------------------------------------------
+1dm0_A         ------------------------------------------------------------
+
+
+1mrj_          ---------
+1apg_A         ---------
+MLA1_VISAL     ---------
+1abr_A         ---------
+ABRB_ABRPR     PNQIWLTLF
+RIP2_BRYDI     ---------
+RIP2_MOMBA     ---------
+RIP1_TRIAN     ---------
+RIPA_LUFCY     ---------
+RIP1_MOMCH     ---------
+RIP1_CUCFI     ---------
+RIPG_GELMU     ---------
+RIPS_PHYAM     ---------
+1qi7_A         ---------
+1apa_          ---------
+1dm0_A         ---------
+
+

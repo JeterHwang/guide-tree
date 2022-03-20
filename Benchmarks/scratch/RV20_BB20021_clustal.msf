@@ -1,0 +1,1433 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 1232  Type: P  December 21, 2021 20:27  Check: 3136  ..
+
+ Name: 1m7x_A      Len:   1232  Check: 1209  Weight: -1.00
+ Name: GLGB_RHILO  Len:   1232  Check: 3727  Weight: -1.00
+ Name: GLGB_RHIME  Len:   1232  Check: 7120  Weight: -1.00
+ Name: GLGB_AGRT5  Len:   1232  Check: 7213  Weight: -1.00
+ Name: GLGB_AQUAE  Len:   1232  Check: 6962  Weight: -1.00
+ Name: GLGB_RHOMR  Len:   1232  Check: 4474  Weight: -1.00
+ Name: GLGB_SYNP7  Len:   1232  Check: 5276  Weight: -1.00
+ Name: GLGB_ANASP  Len:   1232  Check: 2455  Weight: -1.00
+ Name: GLGB_SYNY3  Len:   1232  Check: 7946  Weight: -1.00
+ Name: GLGB_OCEIH  Len:   1232  Check: 9989  Weight: -1.00
+ Name: GLGB_NITEU  Len:   1232  Check: 4889  Weight: -1.00
+ Name: GLB1_XANAC  Len:   1232  Check:  612  Weight: -1.00
+ Name: GLGB_RALSO  Len:   1232  Check: 5029  Weight: -1.00
+ Name: GLB2_XANAC  Len:   1232  Check: 6664  Weight: -1.00
+ Name: GLGB_PSEAE  Len:   1232  Check: 6109  Weight: -1.00
+ Name: GLGB_PSEPK  Len:   1232  Check:  496  Weight: -1.00
+ Name: GLGB_PSESM  Len:   1232  Check: 1594  Weight: -1.00
+ Name: GLGB_BRAJA  Len:   1232  Check: 6173  Weight: -1.00
+ Name: GLGB_ERWCH  Len:   1232  Check: 8312  Weight: -1.00
+ Name: GLGB_YERPE  Len:   1232  Check: 1494  Weight: -1.00
+ Name: GLGB_HAEIN  Len:   1232  Check: 6750  Weight: -1.00
+ Name: GLGB_NEIDE  Len:   1232  Check: 3160  Weight: -1.00
+ Name: GLGB_SHEON  Len:   1232  Check: 5891  Weight: -1.00
+ Name: GLGB_VIBCH  Len:   1232  Check: 6604  Weight: -1.00
+ Name: GLGB_VIBPA  Len:   1232  Check: 1071  Weight: -1.00
+ Name: GLGB_BUTFI  Len:   1232  Check:  684  Weight: -1.00
+ Name: GLGB_MYCBO  Len:   1232  Check: 3399  Weight: -1.00
+ Name: GLGB_COREF  Len:   1232  Check: 5285  Weight: -1.00
+ Name: GLGB_CORGL  Len:   1232  Check: 9602  Weight: -1.00
+ Name: GLGB_STRAU  Len:   1232  Check: 9544  Weight: -1.00
+ Name: GLGB_STRAW  Len:   1232  Check: 6963  Weight: -1.00
+ Name: GLB1_STRCO  Len:   1232  Check: 8581  Weight: -1.00
+ Name: GLB2_STRCO  Len:   1232  Check: 7764  Weight: -1.00
+ Name: GLGB_BIFLO  Len:   1232  Check:  478  Weight: -1.00
+ Name: GLGB_DEIRA  Len:   1232  Check: 5104  Weight: -1.00
+ Name: GLGB_CHLCV  Len:   1232  Check: 6777  Weight: -1.00
+ Name: GLGB_CHLPN  Len:   1232  Check: 7485  Weight: -1.00
+ Name: GLGB_CHLMU  Len:   1232  Check: 7206  Weight: -1.00
+ Name: GLB1_CLOPE  Len:   1232  Check: 4668  Weight: -1.00
+ Name: GLB2_CLOPE  Len:   1232  Check: 3887  Weight: -1.00
+ Name: GLGB_LACPL  Len:   1232  Check: 9182  Weight: -1.00
+ Name: GLGB_STRMU  Len:   1232  Check: 4197  Weight: -1.00
+ Name: GLGB_STRPN  Len:   1232  Check: 3788  Weight: -1.00
+ Name: GLGB_STRA3  Len:   1232  Check: 7773  Weight: -1.00
+ Name: GLGB_BACST  Len:   1232  Check: 1770  Weight: -1.00
+ Name: GLGB_BACCL  Len:   1232  Check: 8933  Weight: -1.00
+ Name: GLGB_BACAA  Len:   1232  Check: 8904  Weight: -1.00
+ Name: GLGB_BACSU  Len:   1232  Check: 2342  Weight: -1.00
+ Name: GLGB_FUSNN  Len:   1232  Check: 6654  Weight: -1.00
+ Name: 1eh9_A      Len:   1232  Check: 4095  Weight: -1.00
+ Name: 1bag_       Len:   1232  Check: 3676  Weight: -1.00
+ Name: 1jdc_       Len:   1232  Check: 9992  Weight: -1.00
+ Name: 1pam_A      Len:   1232  Check: 3184  Weight: -1.00
+
+//
+
+            1                                                   50
+1m7x_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHILO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHOMR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_ANASP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NITEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEPK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSESM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_ERWCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NEIDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BUTFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_MYCBO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_COREF  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRAU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MSAAR QP........
+GLGB_STRAW  MIPRPPSDDR ANQNGDGSKK TGAKKTGAKK AAAAKKTAGK KATPAAKATA
+GLB1_STRCO  MTPRPSSSGP DPRKTTGKKP AGKTPTGKKP AKAAKKKA.. ..........
+GLB2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BIFLO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLCV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRA3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACCL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_FUSNN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1eh9_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1m7x_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHILO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M
+GLGB_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M
+GLGB_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHOMR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_ANASP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NITEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RALSO  ~~~~~~~~~~ ~~~MT..... ..SV...... .......... ....HDFATA
+GLB2_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEPK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSESM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M
+GLGB_ERWCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NEIDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M
+GLGB_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBPA  ~~~~~~~~~~ ~~~MSSQRWL WRNQ...... .......... ....HSVQTN
+GLGB_BUTFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_MYCBO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_COREF  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRAU  .......... ......SPTV RDKAA..... PEPAAPAAPK GARAPR....
+GLGB_STRAW  AKGAVTKKTG KGKATAKKAV ADKAAAKATV PQQAVPKQAV SKRAVSKKAV
+GLB1_STRCO  .......... .......... .......... .......... ....PRRTTA
+GLB2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MALRDTSI
+GLGB_BIFLO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLCV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRA3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACCL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_FUSNN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1eh9_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+1m7x_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHILO  RKPR..V... TAATSGPDGL APASDVAAIV AGTHGDPFAV LGVHEVG...
+GLGB_RHIME  TVPP..G... KDPAPAPPGM LPAPEIAAIL SGTHSNPFAV LGVHAAG...
+GLGB_AGRT5  MKKP..L... NSAEEKKTGD ITKAEIEAIK SGLHSNPFAL LGVHETP...
+GLGB_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHOMR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNP7  ~~~~~~~~~~ TGTTPLPSSS LSVEQVNRIA SNQEQNPFDI LGPHPYEH.E
+GLGB_ANASP  ~~~~~~~~~~ ~~~~~MSMTT IAPEQVNRIV WNQHHDPFEI LGSHPIEQ.N
+GLGB_SYNY3  ~~~~~~~~~~ ~~~~~~MTYT INADQVHQIV HNLHHDPFEV LGCHPLGD.H
+GLGB_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NITEU  ~~~~~~MKSL SSSSPGSS.. .EDSAQSLLL TARLYDPCSF LGMHA.....
+GLB1_XANAC  ~~~~~~~~~~ ~~~~~~MSNR WDSGVVRALA EARHGDAFAV LGAHPSD...
+GLGB_RALSO  TRPATPSAAA QEPAPALPPG LDRNTLDALT HGRLGDPFAV LGPHRLETAE
+GLB2_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~MSQTLQALA DGLPADAFAV LGPKLLAD..
+GLGB_PSEAE  ~~~~~~MSEP .....MSERE RWQLELDKLQ RGLQGDPFAF LGPQRDPGG.
+GLGB_PSEPK  ~~~~~~MNVT T....RENGG LRQRDLDALA RAEHADPFAV LGPHGD.GA.
+GLGB_PSESM  ~~~~~~MNAP DKTGTDRRAV PAAVDLDALI RAEHRDPFSI LGPHDD.GK.
+GLGB_BRAJA  PR........ .....AKPMP KLPAEAYAII EGRHADPFHY LGLHPEGG..
+GLGB_ERWCH  ~~~~~~~~~~ ~~MFVAAMTE SDQNIINLLF SGHYADPFAV LGMHDTAS..
+GLGB_YERPE  ~~~~~~~~~~ ~~~~~~MSVL PDRQVINQLI SGHYGDPFSI LGMHETSQ..
+GLGB_HAEIN  ~~~~~~~~~~ ~~~~~~MTTA VTQAIIDGFF DASNGDPFAT LGMHETEQ..
+GLGB_NEIDE  NRNR...... HIRRGYHPEA GERQIIDSLF AATHSDPFAY LGRHRVND..
+GLGB_SHEON  ~~~~~~~~~~ ~~MMTQAQTY FYDGSDVALL NGQYTDVFSL LGMHSINEG.
+GLGB_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBPA  IGSR..EKDL KITKTKKIKK KHERAYELLA EAAYSDPFAA LGPFIDDG..
+GLGB_BUTFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_MYCBO  ~~~~~~~MSR SEKLTGEHLA PEPAEMARLV AGTHHNPHGI LGAHEY....
+GLGB_COREF  ~~~~~~~~~~ MTPASANDLL IPEEDLNRLR HCHHHNPHGF YGWHAT....
+GLGB_CORGL  ~~~~~~~~~~ MTVDPASHIT IPEADLARLR HCNHHDPHGF YGWHET....
+GLGB_STRAU  .....ARRAA PPHGVRPAPA LAAEERARLL EGRHHDPHAV LGARTQ....
+GLGB_STRAW  PRKAVVKAAL DIPEAPVSPA VAPDDRDRLL SGTHHAPHSV LGAHPV....
+GLB1_STRCO  SANASATTSV SGAEVAVSPA PDAADRERLL AGTHHDPHAV LGAHRV....
+GLB2_STRCO  PEPS.GPVPP APGACATAPP LDPTDRGRLL AGAHHDPHSL LGAHPV....
+GLGB_BIFLO  ~~~~~~~~~~ ~~~~~~~~MP VAQGDLDATS NAEFYNPHGV LGGHLGIGK.
+GLGB_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLCV  ~~~~~~~~~~ ~~~~~MVERI INSEDISLLI SGRQSNPHKF LGIISESS.S
+GLGB_CHLPN  ~~~~~~~~~~ ~~~~~MVDKL IHPWDLDLLV SGRQKDPHKL LGILASED.S
+GLGB_CHLMU  ~~~~~~~~~~ ~~~~~MDPFF LNTQHVELLV SGKQSSPQDL LGIVSESL.N
+GLB1_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRA3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACCL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_FUSNN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1eh9_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            151                                                200
+1m7x_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHILO  ...KGLFARC FVPHAETVTA YTL.TGIEAG ALSRRD.DAG FFEGKLSIKK
+GLGB_RHIME  ...KTYVARC FVPGAETVIA ETL.SGKELG TLERRD.EAG FFEGPVALRK
+GLGB_AGRT5  ...EGFSARC FIPGAEEVSV LTL.DGNFVG ELKQID.PDG FFEGRIDLSK
+GLGB_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHOMR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNP7  GQ.AGWVIRA YLPEAQEAAV ICPALRREFA MHPVH..HPH FFETWVPEET
+GLGB_ANASP  GK.TVWVVRA YLPNASAAWV VLPEQRQEYP MQTVH..DPH FFECIIETSE
+GLGB_SYNY3  GKVNQWVIRA YLPTAEAVTV LLPTDRREVI MTTVH..HPN FFECVLELEE
+GLGB_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NITEU  .APNGRLIRV FQPYMSRVWL H..TLSGYQP MRSVH..QDG IFEW.EGEGV
+GLB1_XANAC  ...KGRLLRT YLPGADRVGA VLD.DGQVVA L.DAG.PEPG LFAGELPA..
+GLGB_RALSO  GERPHRVVRA FHPGARRVQA IDP.RGQVMA ELAPV.GRTG LFHGRLPDDA
+GLB2_XANAC  ...GRRQVRV LAPGAEAMGL IDP.RGKLLA RMQAS.AIDG VFEGTLAV..
+GLGB_PSEAE  ...EGGVLRA YLPGAQRVEL LDE.DGATLA ELEQSDPGSG LFQRHLER..
+GLGB_PSEPK  ...GGQVVRA FLPNALKVRI QARDDGRVLA EMEQGS.LPG LFSAHLDK..
+GLGB_PSESM  ...GGQYVRA YLPAALSVRL LARDDGRELA ELHMSD.VPG FFVGHLEQ..
+GLGB_BRAJA  ....KSVVRA FLPEASNVEA VGEH..GEVA RLDRVH.DAG LFVGALPNGS
+GLGB_ERWCH  ...G.LEVRA LLPDAIDVWV VDAHSGRKVA NLQCRD.PRG FFASAIPRRK
+GLGB_YERPE  ...G.LQICA LLPDAREVWL VETENGRRIA QLTLED.PRG FFIAQLTRRK
+GLGB_HAEIN  ...G.IEIRT LLPDANRMVV IERESGKEIT ELDCVD.ERG FFVGVIPNCR
+GLGB_NEIDE  ...EREAVRV LRPDAHHIDI IDRHTGAVIM PSEKID.ERG LFAAVLPEHA
+GLGB_SHEON  ...KALVVRC FLRNAQKVDV ISLKDGRKVA SLERVN.EAG LFAGTLGRRI
+GLGB_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~MK.AEGG FVLKDGRNL.
+GLGB_VIBPA  ....EGSLRV WMPGANKVEL LVNGEPRVA. .LERD.GDSG FILKEQRDL.
+GLGB_BUTFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_MYCBO  ..GDHTVIRA FRPHAVEVVA LVGKDRFSL. ....QHLDSG LFAVALPFV.
+GLGB_COREF  ..DDGSVIRT RQIGAEKVEL VLGDTQIVM. ....NPIGDD IFAIKLGNR.
+GLGB_CORGL  ..EAGSVIRT RQVGATQVNL LIDDTSHVM. ....TPIGDD IFAIDLGHR.
+GLGB_STRAU  ..RGGVAFRV LRPYAKAVTV VAKGLRTEL. ....VDEGDG LFSGLLPLT.
+GLGB_STRAW  ..PGGVAFRV LRPYALSVTV VTDDLRTEL. ....HDDGAG FFTGLLPLR.
+GLB1_STRCO  ..PGGVAFRV FRPYALAVTV LSGELRVGL. ....HDDGDG FFSGLVPLK.
+GLB2_STRCO  ..PGGIAFRV LRPFAREVGV VVDGERHTL. ....ASEEDG LFSGVLPLA.
+GLGB_BIFLO  .HADTATIRV LRPLAKSVTI LTQDGEYPM. ....THEYNG VFVVTVPASG
+GLGB_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLCV  ....QDRIIL FRPGAHFVAI ...ELQGNIA QATHH..HSG IFSLVTPKGT
+GLGB_CHLPN  ....SDHIVI FRPGAHTVAI ...ELLGELH HAVAY..RSG LFFLSVPKGI
+GLGB_CHLMU  ....QDRIVL FRPGAKTVFV ...ELQGKIQ QAESH..HSG IFSLPVTKGI
+GLB1_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~MGGKEM
+GLGB_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRA3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACCL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_FUSNN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1eh9_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+1m7x_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHILO  ......RQPL RYHAHNAGGD .....WWLTD PYSFG...PV LGPMDDYYIA
+GLGB_RHIME  ......EQPI RYRARNDGGE .....WTVID PYSFG...PV LGPMDDYYIR
+GLGB_AGRT5  ......RQPV RYRACRDDAE .....WAVTD PYSFG...PV LGPMDDYFVR
+GLGB_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MKK.FSL. ISDYDVYLFK
+GLGB_RHOMR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MSW. LTEEDIRRWE
+GLGB_SYNP7  .....LE.IY QLRITE..GE ...RERIIYD PYAFR.SPL. LTDYDIHLFA
+GLGB_ANASP  .....LS.NY QLKTKE..GE ...HERVSYD PYAFR.SPR. LTDFDLHLFA
+GLGB_SYNY3  .....PK.NY QLRITE..NG ...HERVIYD PYGFK.TPK. LTDFDLHVFG
+GLGB_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MYH. ISAEDIYLFH
+GLGB_NITEU  .....MH.PY LLRMENTATG ...VIEERHD PYAFP.MQ.. ISGHDLYLFN
+GLB1_XANAC  ......HGGY RLRIGWPGGE .....QETAD PYAFG...PQ LSDFDLHLIS
+GLGB_RALSO  PDADGHPGAY RLRVVWPAGA GHEAVQEAED PYAFG...LL LGDLDLHLIA
+GLB2_XANAC  ......DGPY RLRIVWPDRV .....QEVED PYAFA...AT LDESLLLQIA
+GLGB_PSEAE  .....LPPRY RLRVHWPDGV .....QESED PYAFG...PL LGELDLYLFA
+GLGB_PSEPK  .....A.QPY QLHIVWAGGE .....QVTED PYSFG...PQ LGDMDLHLFA
+GLGB_PSESM  .....P.QPY LLKINWAGGE .....QITED PYSYG...PL LGEMDLYLFA
+GLGB_BRAJA  .....KHY.. QLRAKFGDSI .....VEFED AYRFP...PI LTDFDLYLLG
+GLGB_ERWCH  .....KPFSY RLAVTWPQDT .....QVIDD PYRFG...TL LQELDIWLLA
+GLGB_YERPE  .....KSFRY QFAVTWQENP .....QIIED PYRFG...PL LQDIDSWLLA
+GLGB_HAEIN  .....QFFAY QLQVFWGNEA .....QIIED PYRFH...PM IDDLEQWLLS
+GLGB_NEIDE  .....PDYAL LVTYHEGEAA .....VREED DYRFG...SA LQHTDAWLLG
+GLGB_SHEON  .....KPFLY ALRVTYPLCE .....LDIID PYQFG...SL LNREDLYLFG
+GLGB_VIBCH  .....RFTHY QLAVDWAGTE .....QLLDD PYQYH...GL YAEYEDLH..
+GLGB_VIBPA  .....HLTHY RLAVDWNGVE .....QIIDD PYQYH...NI YQEYEHLH..
+GLGB_BUTFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MSQ.KVF. ISEDDEYLFG
+GLGB_MYCBO  .....DLIDY RLQVTYEGCE ....PHTVAD AYRFL...PT LGEVDLHLFA
+GLGB_COREF  .....EAFDY RLRVTWPGQD ....PVVTAD PYIFL...PT LGEMDTYLIS
+GLGB_CORGL  .....ERADY RLEVTWPDQE ....PQVKAD PYYFL...PT VGEMDIYLFS
+GLGB_STRAU  .....GVPDY RLLVTYD.SD ....EIEVHD PYRFL...PA LGELDLHLIG
+GLGB_STRAW  .....AVPDY RLHVAYE.GT ....VHETED AYRFL...PA LGELDLHLIN
+GLB1_STRCO  .....DVPAH RLLVAYE.GT ....EQEVED PYRFL...PT LGELDLHLLG
+GLB2_STRCO  .....GIPSY TLVVAYEQGE ....TQETHD PYRFL...PA LGELDLHLIG
+GLGB_BIFLO  TKKQPTIPDY RVRTEWESGA ....VLIEDD PYRYM...PT VGDMDTYLFG
+GLGB_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~MT.FPLP LDHEHLQKLV
+GLGB_CHLCV  .....LPHDY RIYHQ..... ...NGLLAHD PYAFS...PL WGEMDSFLFH
+GLGB_CHLPN  .....GHGDY RVYHQ..... ...NGLLAHD PYAFP...PL WGEIDSFLFH
+GLGB_CHLMU  .....SPQDY RVYHQ..... ...NGLLAHD PYAFP...LL WGEIDSFLFH
+GLB1_CLOPE  ~~~~~MT.LV EVKDDKLEIK ...PVRLRKE KYKTQLKNKI FNEDDLYLFH
+GLB2_CLOPE  .....RN.CK ELKHEKNGNV ...TEKVGKN KGKSKKVSKD ESLLSFDLFL
+GLGB_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~MV.KQTT EMNDASYLFN
+GLGB_STRMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M NEREALRTFG
+GLGB_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M DNREALKTFM
+GLGB_STRA3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M SNKDELYTFG
+GLGB_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~MI.AVG. PTDLEIYLFH
+GLGB_BACCL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~MI.AAN. PTDLEVYLFH
+GLGB_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~MS.VIN. CEEVKRDEFH
+GLGB_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~MA.AAS. PTAHDVYLFH
+GLGB_FUSNN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MILM SGQMEQYLFH
+1eh9_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+1m7x_A      ~~THLRPYET LGAHADTMD. ...G...... ..VTGTRFSV WAPNARRVSV
+GLGB_RHILO  EGSHLRLFDK LGAHVIEHE. ...G...... ..ATGVHFAV WAPNAKRVSV
+GLGB_RHIME  EGSHLRLFDK MGAHPIRHD. ...G...... ..AEGFHFAV WAPNARRVSV
+GLGB_AGRT5  EGSHLRLFDR MGAHPLKLE. ...G...... ..VEGFHFAV WAPNARRVSV
+GLGB_AQUAE  EGTHTRLYDK LGSHVIELN. ...G...... ..KRYTFFAV WAPHADYVSL
+GLGB_RHOMR  SGTFYDSYRK LGAHPD.... .......... ..DEGTWFCV WAPHADGVSV
+GLGB_SYNP7  EGNHHRIYEK LGAHPCELE. ...N...... ..VAGVNFAV WAPSARNVSI
+GLGB_ANASP  EGNHHRIYEK LGAHFTEVG. ...G...... ..VKGVYFAV WAPNARNVSV
+GLGB_SYNY3  EGNHHRIYEK LGAHLMTVD. ...G...... ..VKGVYFAV WAPNARNVSI
+GLGB_OCEIH  QGTNFESHQF LGCHEINWK. ...G...... ..KRGYRFAV WAPNALKVCV
+GLGB_NITEU  EGRLLQAYHM LGAHRVRNH. ...G...... ..VTGTRFAV WAPNAERVSV
+GLB1_XANAC  EGHHLQLADA LGANVVEVE. ...G...... ..VRGTRFAV WAPNASRVAV
+GLGB_RALSO  EGRHWELARC LGAQAMRQD. ...D...... ..VAGVRFAV WAPNARRVSV
+GLB2_XANAC  AGDGQALRRA LGAQHLHCG. ...D...... ..VPGVRFAL WAPHAQRVAV
+GLGB_PSEAE  EGNHRQLASC LGAQLTRHE. ...G...... ..VEGVRFAV WAPNAVRVSV
+GLGB_PSEPK  EGNHRDLSGR FGAQPTQVD. ...G...... ..IDGVCFSV WAPNARRVSV
+GLGB_PSESM  EGNHRDLSSC LGAQVTSVD. ...G...... ..VEGVRFAV WAPNARRVSV
+GLGB_BRAJA  EGTHQRLYDK LGAHPMTLD. ...G...... ..VDGIGFVV LAPNARRVSV
+GLGB_ERWCH  EGRHLRPFET LGAHPSTLD. ...G...... ..VVGTCFAV WAPNAQRVSV
+GLGB_YERPE  EGTHLRPYER LGAHLMSLD. ...G...... ..VSGVSFAV WAPNAQRVSV
+GLGB_HAEIN  EGSMLRPYEV LGAHFMECD. ...G...... ..VSGVNFRL WAPNARRVSI
+GLGB_NEIDE  EGTHLRPYET LGAHFAEMD. ...G...... ..VSGVRFAV WAPNARRVSV
+GLGB_SHEON  EGSSEQAYRF LGANWRQVD. ...N...... ..VEGVHFCV WAPNAKRVSV
+GLGB_VIBCH  ..TPKQMYHH MGAQFVTLER DGKM...... ..VSGVRFLV YAPHAAACSL
+GLGB_VIBPA  ..TPKDMYHY MGAHFVTLER GGEN...... ..ISGVRFLV YAPHASAVSL
+GLGB_BUTFI  QGTHYDIYDK LGAHPSEEK. ...G...... ..KKGFFFAV WAPNAADVHV
+GLGB_MYCBO  EGRHERLWEV LGAHPRSFTT ADGV...... ..VSGVSFAV WAPNAKGVSL
+GLGB_COREF  EGRHERLWDV LGANVKTYET TLGQ...... ..VRGTAFAV WAPNAIGVAV
+GLGB_CORGL  EGRHERLWEI LGANIKTYQT ALGT...... ..VRGTAFTV WAPNAIGCAV
+GLGB_STRAU  EGRHEELWTA LGSQPMEHQ. ...G...... ..VAGTRFTV WAPNALGVRV
+GLGB_STRAW  EGRHEELWTA LGAEPMTHQ. ...G...... ..VPGTRFTV WAPNARGVRL
+GLB1_STRCO  EGRHEQLWRA LGAHPTTHE. ...G...... ..VAGTRFAV WAPNARGVRV
+GLB2_STRCO  EGRHEQLWQA LGAEPMTHE. ...G...... ..VTGTRFTV WAPNAQGVRV
+GLGB_BIFLO  EGRHEKLWET LGAHVLRYDD PMGGADGTPG EQVVGTAFSV WAPNAHAVRV
+GLGB_DEIRA  TADLVRPDHL LGAHPTTEH. ...G...... ..VQGVRFAV WAPNAQHVSV
+GLGB_CHLCV  QGTHYKIYER MGAIPCDVG. ...G...... ..ILGVLFVV WAPHAQRVSV
+GLGB_CHLPN  RGTHYRIYER MGAIPMEVQ. ...G...... ..ISGVLFVL WAPHAQRVSV
+GLGB_CHLMU  EGTHQHIYDR MGAIPCEIG. ...G...... ..VPGVRFVI WAPHAQRVSV
+GLB1_CLOPE  EGRNYNAYNF MGAHFTSEN. ...R...... ..KRGVRFTL WAPRAKNIFL
+GLB2_CLOPE  EGKEHSAYKF MGAHFITEN. ...R...... ..KRGVRFTT WAPRASKIYV
+GLGB_LACPL  TGAGFNSQDY LGCHLAAS.. .......... ...GRAVFRV WAPHAKAVGV
+GLGB_STRMU  TGENFHAQHY FGFHETEKN. ...G...... ..VKGYIFRV WAPNAEDLHL
+GLGB_STRPN  TGENFYLQHY LGAHREELN. ...G...... ..EHGYTFRV WAPNAQAVHL
+GLGB_STRA3  IGENFHLQNY LGVHSEN... .......... ...ESFCFRV WAPNAENVQV
+GLGB_BACST  EGSLYKSYEL FGAHVIKKN. ...G...... ..MVGTRFCV WAPHAREVRL
+GLGB_BACCL  EGRLYQSYEL FGAHVIRGG. ...G...... ..AVGTRFCV WAPHAREVRL
+GLGB_BACAA  TEKYYESYNI FGAHIVTED. ...E...... ..MRGVRFTV WAPHAKAMSV
+GLGB_BACSU  EGSLFKSYQL FGSHYRELN. ...G...... ..KSGYEFCV WAPHASEVRV
+GLGB_FUSNN  RGEFRQAYEY FGAHPTR... .......... ...SSTIFRI WAPSAKSVAV
+1eh9_A      ~~~~~~~~~~ ~~TFAYKID. ...G...... ...NEVIFTL WAPYQKSVKL
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+1m7x_A      VGQFNYWDGR RHPMRL.RKE SGIWELFIPG ...AHNGQLY KYEMIDA.NG
+GLGB_RHILO  VGDFNDWDGR RHTMRD.RRD TGIWEVFIPD ...IGAGRPY KYEIIGP.DG
+GLGB_RHIME  VGSFNDWDGR RHVMRL.RVD TGIWEIFIPG ...VPVGTPY KYEIVDS.NG
+GLGB_AGRT5  VGDFNNWDGR RHVMRF.RKD TGIWEIFAPD ...VYAGCAY KFEILGA.NG
+GLGB_AQUAE  IGDFNEWDKG STPMVKREDG SGIWEVLLEG ...DLTGSKY KYFIKNG.NY
+GLGB_RHOMR  LGAFNDWNPE ANPLER..YG GGLWAGYVPG ...ARPGHTY KYRIRHG.FY
+GLGB_SYNP7  LGDFNSWDGR KHQMAR..RS NGIWELFIPE ...LTVGAAY KYEIKNY.DG
+GLGB_ANASP  LGDFNLWDGR KHQMRK..GA TGVWELFIPE ...IGVGEHY KYEIKNF.AG
+GLGB_SYNY3  LGDFNNWDGR LHQMRK..RN NMVWELFIPE ...LGVGTSY KYEIKNW.EG
+GLGB_OCEIH  VGDFNNWEEN SHPLEK.FTD EGLWGGFIAD ...IPPATSY KYHICSS.ED
+GLGB_NITEU  VGDFNRWDGR VYPMMV.HGH SGVWELFIPD ...LPEGAIY KYEIRNRISG
+GLB1_XANAC  VGDFNSWDAR RHPMRL.RHQ SGVWELFVPD ...VGPGAHY KYQLRGP.HG
+GLGB_RALSO  VGDFNQWDGR RHPMRL.RHG TGVWELFVPA GLGAGPGSRY KFELVGA.DG
+GLB2_XANAC  VGDFNGWDVR RHPMRQ.RI. GGFWELFLPR ...VDAGARY KYAVTAA.DG
+GLGB_PSEAE  VGDFNGWDGR RHPMRR.RYP SGVWELFVPR ...LGEGELY KYELQGH.DG
+GLGB_PSEPK  VGDFNNWDGR RHPMRL.RHG AGVWELFIPR ...LGVGETY KFEVLGK.DG
+GLGB_PSESM  VGSFNGWDGR RHPMRL.RHP TGVWEIFVPR ...LQPGEVY KYEILGA.HG
+GLGB_BRAJA  VGDFNFWDSR RHPMRV.R.G SGYWELFIPH ...AKRGDHY KFDIVGP.HG
+GLGB_ERWCH  VGDFNFWDGR RHPMRR.RRE NGVWELFVPG ...VGPGQLY KFEIIDC.YG
+GLGB_YERPE  VGDFNFWDGR RHPMRL.RRE NGIWELFLPG ...IEAGQLY KFEIIDC.HG
+GLGB_HAEIN  VGDFNYWDGR RHPMRF.HSK SGVWELFLPK ...ASLGQLY KFELIDC.HG
+GLGB_NEIDE  IGEFNGWDSR RHAMRP.HTG NGLWDIFIPG ...VGLNALY KFSVLDA.NG
+GLGB_SHEON  VGDFNHWDDT RHVMRQ.HVA NGLWEIFLPG ...VVEGSHY KFDLVYQ.NG
+GLGB_VIBCH  IGAFNHWDGR RHPMQ..RLD YGIWGIFIPG ...LPEGTQY KFELKGP.HG
+GLGB_VIBPA  VGCFNQWDGR RHPMQ..RLD YGIWGLFIPG ...LEEGVQY KFELKGP.NG
+GLGB_BUTFI  VGDFNGWDEN AHQMKR.SKT GNIWTLFIPG ...VAIGALY KFLITAQ.DG
+GLGB_MYCBO  IGEFNGWNGH EAPMRV.LGP SGVWELFWPD ...FPCDGLY KFRVHGA.DG
+GLGB_COREF  IGGFNGWNAS QHAMRS.LGG SGIWELFIPN ...IGPGEVY KFAIQTR.EG
+GLGB_CORGL  VGGFNGWNAS QHPMRS.MGG SGLWELFIPG ...IEEGEVY KFAVQTR.EG
+GLGB_STRAU  TGDFSYWDAV AYPMRS.LGA SGVWELFLPG ...VAEGALY KYEITRP.DG
+GLGB_STRAW  AGTFNFWDAT AFPLRS.LGS SGVWELFVPG ...VGEGELY KFEITRP.DG
+GLB1_STRCO  AGGFNFWDGT GHPMRS.LGS TGVWELFLPG ...VGAGELY KFEITRP.DG
+GLB2_STRCO  ATDFTHWDGT AFPMRS.LGS SGVWELFLPG ...VGEGTRY KFEIHSR.YG
+GLGB_BIFLO  VGNFNAWDGR RHAMRE.LGS SGVWEIFIPG ...IGAGETY KFQILNA.NY
+GLGB_DEIRA  VGDFNDWNGF DHPLQR..LD FGFWGAFVPA ...AQPGQRY KFRVTGA.GG
+GLGB_CHLCV  VGDFNYWNGL VNPLRK.VSD SGVWELFIPG ...LDEGTLY KWELVTA.SG
+GLGB_CHLPN  VGDFNFWHGL VNPLRK.ISD QGIWELFVPG ...LGEGIRY KWEIVTQ.SG
+GLGB_CHLMU  VGDFNCWHGL VNPLHK.VSD QGVWELFVPG ...LTAGSCY KWEIVTA.SG
+GLB1_CLOPE  VGDFSNWETK EENKLERINE TGLWSIFIPR ...LKEGIKY KYYIEQEDG.
+GLB2_CLOPE  IGDFNNWELK EEYSMKKINE RGIWSLFLPK ...LEEGIKY KFAVVNECGN
+GLGB_LACPL  VGDFNDWQPS ALKLL...GA TGIWQGQVPN ...VHAGQLY KFQITTP.TG
+GLGB_STRMU  IGDFTGWFDN PLQMDK..NE AGVWEVFTDL ...PKEGHIY KYLVKRQ.GG
+GLGB_STRPN  VGDFTNWIEN QIPMVR..ND FGVWEVFTNM ...AQEGHIY KYHVTRQ.NG
+GLGB_STRA3  IGDFTDWRNR PLQMNK..NQ AGVWEANSLD ...AREGDLY KYLVTRK.GG
+GLGB_BACST  VGSFNEWNGT NFNLMK.VSN QGVWMIFIPE ...NLEGHLY KYEITTN.DG
+GLGB_BACCL  VGSFNDWNGT NSPLTK.VND EGVWTIVVPE ...NLEGHLY KYEIITP.DG
+GLGB_BACAA  VGDFNEWDYE QHKMLQ.VTE EGIWSLFIPH ...IEEREIY KYAIETM.AG
+GLGB_BACSU  AGDFNSWSGE EHVMHR.VND NGIWTLFIPG ...IGEKERY KYEIVTN.NG
+GLGB_FUSNN  VGDFNDWRAR EEDYCHKLTN EGIWEVEIKK ...IKKGNLY KYQIETS.WG
+1eh9_A      KV....LEKG LYEMER..DE KGYFTITLNN ...VKVRDRY KYVLDDA...
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                                400
+1m7x_A      N.LRLKSDPY AFEAQMRPET .........A SLICGLPEKV VQT....EER
+GLGB_RHILO  VRLPLKADPF AFKSELRPAT .........A SVVAVPPAHD WGDEAHRNYW
+GLGB_RHIME  TLLPLKADPF ARRSELRPDT .........A SMTADEIAQN WEDEAHRRHW
+GLGB_AGRT5  ELLPLKADPY ARRGELRPKN .........A SVTAPELTQK WEDQAHREHW
+GLGB_AQUAE  ..EVDKSDPF AFFCEQPPGN .........A SVVWKL.NYR WNDSEYMKKR
+GLGB_RHOMR  ..QADKTDPY AFAMEPPTGS PIEGL....A SIITRL.DYT WHDDEWMRRR
+GLGB_SYNP7  H.IYEKSDPY GFQQEVRPKT .........A SIVADLDRYT WGDADWLERR
+GLGB_ANASP  H.IYEKSDPF GFQQEPRPKT .........A SIVSNLNSYN WSDEDWLEQR
+GLGB_SYNY3  H.IYEKTDPY GFYQEVRPKT .........A SIVADLDGYQ WHDEDWLEAR
+GLGB_OCEIH  T.SILKADPF ATQAERRPKT .........A SVIPAANGYQ WSDDQWIEQR
+GLGB_NITEU  E.ILLKTDPY ATTYELRPNN .........A ALTPIEQKYD WKDDDWIARR
+GLB1_XANAC  HELPAKADPV ARRAELAPGT .........A SIVADPTPHQ WSDDGWMATR
+GLGB_RALSO  HLL.VKADPV ARRTEAPPAT .........A SVVADPLPFR WSDAAWMETR
+GLB2_XANAC  RVL.LKADPV ARQTELPPAT .........A SVVPSAATFA WTDAAWMANR
+GLGB_PSEAE  .LLPLKADPL ALACETPPGT .........A SKTCAALRHE WRDQDWLARR
+GLGB_PSEPK  .ILPLKADPL ARATELPPST .........A SKVAGELSHA WQDHDWMAQR
+GLGB_PSESM  .ILPLKSDPM ALATTLPPDT .........A SKISAPLKFE WHDQDWLQSR
+GLGB_BRAJA  HQLPLKSDPM AFASEVRPKT .........A SIVFDEAHLP RPR....PAP
+GLGB_ERWCH  N.VLVKSDPY AFESQMRPDT .........A SVVSRLPPAL PVD....EAR
+GLGB_YERPE  Q.VRLKADPY AFEAQMRPET .........A SLISPLPDVV KSS....AAR
+GLGB_HAEIN  N.LRLKADPF AFSSQLRPDT .........A SQVSALPNVV EMT....EAR
+GLGB_NEIDE  N.IREKADPY AFGAELRPTT .........A SVVRGLPAKA EAP....AFR
+GLGB_SHEON  ERH.AKSDPM ATQMECAPHN .........A SIVPKKQQHQ WADTQWMDKR
+GLGB_VIBCH  EGLPHKADPW GFYAEQYPSF .........A SVTYDHRRYQ WQDTAWQQ.R
+GLGB_VIBPA  EGLPHKQDPW GFYSEQYPSF .........A SITYDHKRYQ WQDAKWQN.R
+GLGB_BUTFI  R.KLYKADPY ANYAELRPGN .........A SRTTDLSGFK WSDSKWYESL
+GLGB_MYCBO  V.VTDRADPF AFGTEVPPQT .........A SRVTS.SDYT WGDDDWMAGR
+GLGB_COREF  H.RRDKADPM ARLAELPPAT .........G SIVVE.SDYQ WQDSEWMDKR
+GLGB_CORGL  Q.RRDKADPM ARRAELAPAT .........G SIVAS.SEYQ WQDSEWLRER
+GLGB_STRAU  G.RTLRADPM ARYAEVPPAN .........A SIVTA.SRYE WQDAEWMARR
+GLGB_STRAW  S.KTLRADPV ARRTEAPPRT .........S SIVHA.SHYA WADEAWMAAR
+GLB1_STRCO  S.RTFRADPL ARRTEVPPAT .........S SVVHA.SDYT WGDEEWLAHR
+GLB2_STRCO  H.RFLKADPM ARAAEEPPNT .........A SVVTA.SRYE WGDAQWMRTR
+GLGB_BIFLO  T.WEMKADPM ERQHEVPPST .........A SIVTE.STYK WNDDAWMQHR
+GLGB_DEIRA  Q.TVDKTDPY GTFFEVRPNN .........A SIIWQQ.DFE WTDAGWLEQR
+GLGB_CHLCV  E.VLIKTDPY GKGFDIPPQV .........T SRVINSDRYT WHDQKWMENR
+GLGB_CHLPN  N.VIVKTDPY GKSFDPPPQG .........T ARVADSESYS WSDHRWMERR
+GLGB_CHLMU  Q.VLIKSDPY GKFFGSPPQS .........V SVV.VDDRYE WGDKEWLDER
+GLB1_CLOPE  K.AVLKADPY GIYSEVRPNT .........A SILCEKTKIR WSDKKWLNKR
+GLB2_CLOPE  N.TVYKADPY AFKSELRPNT .........A SVLTKIKSFR WGDKRWLNKR
+GLGB_LACPL  Q.VQLKIDPF AQQFERKPGD .........A AVVVEPMTMR WHDSLWLARR
+GLGB_STRMU  Q.IVEKMDPF AIYLEERPGT .........G SLIRTIPEKK WKDGLWLGRR
+GLGB_STRPN  H.QLMKIDPF AVRYEARPGT .........G AIVTELPEKK WKDGLWLARR
+GLGB_STRA3  Q.VVEKIDPM AVYMERRPGT .........A SVIKVLRNKK WEDGLWMGRR
+GLGB_BACST  N.VLLKSDPY AFYSELRPHT .........A SIVYNIKGYQ WNDQTWRRKK
+GLGB_BACCL  R.VLLKADPY AFYSELRPHT .........A SIVYDLKGYE WNDSPWQRKK
+GLGB_BACAA  D.VIFKADPY AVYAEVRPNT .........A SVVFDIKGYE WNDKNWSRKK
+GLGB_BACSU  E.IRLKADPY AIYSEVRPNT .........A SLTYDLEGYS WQDQKWQKKQ
+GLGB_FUSNN  E.KILKSDPY AFYSELRPQT .........A SIVNGKPKFR WADKRWLNNR
+1eh9_A      S...EIPDPA SRYQPEGVHG ....P....S QIIQE..SKE FNNETF....
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~LTAP
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~DQAGKSP
+1pam_A      ~~~~~~~~~~ ~~~~~~APDT SVSNKQNFST DVIYQIFTDR FSDGNPANNP
+
+            401                                                450
+1m7x_A      KK.ANQFDAP ISIYEVHLGS WRRHTDN... .......... .....N....
+GLGB_RHILO  RN.ADPRREA VSIYEVHAGS WQLHDD.... .......... .........G
+GLGB_RHIME  AE.IDPRRQP ISIYEVHAAS WQRRDN.... .......... .........G
+GLGB_AGRT5  AQ.VDQRRQP ISIYEVHAGS WQRRED.... .......... .........G
+GLGB_AQUAE  KR.VNSHDSP ISIYEVHVGS WRRVP..... .......... ......EEGN
+GLGB_RHOMR  KG.PASLYEP VSIYEVHLGS WRHKR..... .......... ......P..G
+GLGB_SYNP7  RH.QEPLRQP ISVYEVHLGS WMHASSDAIA TDAQGKPLPP VPVADLKPGA
+GLGB_ANASP  RH.TDPLTQP ISVYEVHLGS WLHAASAEPA QLPNGETEPV VIASELNPGA
+GLGB_SYNY3  RT.SDPLSKP VSVYELHLGS WLHTAYDEPV KTLHGEGVPV E.VSEWNTGA
+GLGB_OCEIH  NT.YDPYSSP ISIYEVHLGT WKKTL..... .......... ........KK
+GLGB_NITEU  KG.WDWLHAP LNIYELHVGS WKRHP..... .......... ........DG
+GLB1_XANAC  AR.RQAHDAP MSIYEIHAGS WLRE...... .......... .....A...G
+GLGB_RALSO  AA.RQRPDAP IAIYEVHAGS WLRDVED... .......... .....G...G
+GLB2_XANAC  DP..AAVPGP LSIYEVHAAS WRRDGH.... .......... .........N
+GLGB_PSEAE  AE.RQGYAAP LSIYEVHAGS WRHRD..... .......... .........G
+GLGB_PSEPK  AQ.RHAYNAP LSIYELHPGS WRCELDE... .......... .....AGEIG
+GLGB_PSESM  AG.RHDVAAP LSIYELHAGS WQMEQND... .......... .....EGQW.
+GLGB_BRAJA  DG.INALSAP MSIYEVHLGS WRRKGD.... .......... .....N....
+GLGB_ERWCH  QH.ANELQSP ISIYEVHLGS WRRHTHN... .......... .....N....
+GLGB_YERPE  QK.ANDLCSP VSIYEVHLGS WRRHTDN... .......... .....N....
+GLGB_HAEIN  KK.ANQGNQP ISIYEVHLGS WRRNLEN... .......... .....N....
+GLGB_NEIDE  RR.ANSVEAP ISIYEVHLGS WRRNPEN... .......... .....N....
+GLGB_SHEON  AA.TAWHRAP MSIYEVQLGS WRRKGEF... .......... .....G...E
+GLGB_VIBCH  PV.TEKRKQA LSFYELHVGS WKRGEN.... .......... .........G
+GLGB_VIBPA  AV.TQKRDEA LSFYELHAGS WKRDGK.... .......... .........G
+GLGB_BUTFI  KG.KDMNRQP IAIYECHIGS WMKHPD.... .......... ......GTED
+GLGB_MYCBO  AL.RNPVNEA MSTYEVHLGS WRPG...... .......... ..........
+GLGB_COREF  AE.IDTATTP MSVYEVHLGS WRWG...... .......... ..........
+GLGB_CORGL  SQ.TDLASKP MSVYEVHLGS WRWG...... .......... ..........
+GLGB_STRAU  GA.LAPHQAP MSVYELHLAS WRPG...... .......... ..........
+GLGB_STRAW  GE.RPVHESP FSVYEVHLPS WRPG...... .......... ..........
+GLB1_STRCO  AD.APAHEAP MSVYEVHLPS WRPG...... .......... ..........
+GLB2_STRCO  AD.TPVHEAP FSVYEVHLPS WRPG...... .......... ..........
+GLGB_BIFLO  RT.TNPHDGP VSIYEVHAGS WKQG...... .......... ..........
+GLGB_DEIRA  ARRGQALEDP ISIYECHVGS WARRD..... .......... ........DG
+GLGB_CHLCV  KN...TKDQP LAIYEVHVGS WQWDN..... .......... .........G
+GLGB_CHLPN  SK...QSEGP VTIYEVHLGS WQWQE..... .......... .........G
+GLGB_CHLMU  SK...KAEGP MNIYEVHVGS WRWQE..... .......... .........E
+GLB1_CLOPE  EE.TNYFESP INIYELHLGS WKRKD..... .......... ........ED
+GLB2_CLOPE  EK.EGLDNKP MNIYELHLGS WKRKD..... .......... .........G
+GLGB_LACPL  KK.SRAANRP INIYEVHLGS WRRHL..... .......... ........DG
+GLGB_STRMU  KR.WGFFKRP VNIYEVHAGS WKQNE..... .......... ........DG
+GLGB_STRPN  KR.WGFEERP VNIYEVHAGS WKRNS..... .......... ........DG
+GLGB_STRA3  KR.LGFQKRP INIYEVHAGS WKKDD..... .......... ........FG
+GLGB_BACST  QR.KRIYDQP LFIYELHFGS WKKKE..... .......... ........DG
+GLGB_BACCL  RR.KRIYDQP MVIYELHFGS WKKKP..... .......... ........DG
+GLGB_BACAA  KK.KSVYKEA MTVYELHFGS WKKKE..... .......... ........DG
+GLGB_BACSU  KA.KTLYEKP VFIYELHLGS WKKHS..... .......... ........DG
+GLGB_FUSNN  EI...GYAKP INIYEVHLGS WKKKE..... .......... ........DG
+1eh9_A      .....LKKED LIIYEIHVGT FTPEGT.... .......... ..........
+1bag_       ........SI KSGTILHAWN WSF....... .......... ..........
+1jdc_       NA.VRYHGG. .DEIILQGFH WNVVR..... .......... .........E
+1pam_A      TG.AAFDGSC TNLRLYCGGD WQG....... .......... ..........
+
+            451                                                500
+1m7x_A      FWLSYRELAD QLVPYAKWMG FTHLEL.LPI NEHP...... ...FDGSWGY
+GLGB_RHILO  TFLSWDELAD RLIPYVVETG FTHIEF.MPI SEHP...... ...YDPSWGY
+GLGB_RHIME  DMLTWDELAE RLIPYCVDMG FTHIEF.LPI SEYP...... ...YDPSWGY
+GLGB_AGRT5  TFLSWDELAA QLIPYCTDMG FTHIEF.LPI TEHP...... ...YDPSWGY
+GLGB_AQUAE  RFLSYRELAE YLPYYVKEMG FTHVEF.LPV MEHP...... ...FYGSWGY
+GLGB_RHOMR  ESFSYREIAE PLADYVQEMG FTHVEL.LPV MEHP...... ...YYGSWGY
+GLGB_SYNP7  RFLTYRELAD RLIPYVLDLG YSHIEL.LPI AEHP...... ...FDGSWGY
+GLGB_ANASP  RFLTYRELAS RLIPYVKELG YTHIEL.LPI AEHP...... ...FDGSWGY
+GLGB_SYNY3  RFLTYYELVD KLIPYVKELG YTHIEL.LPI AEHP...... ...FDGSWGY
+GLGB_OCEIH  QFLSYRELAT QLIPYVKSLG YTHIEL.LPI NEHP...... ...FDRSWGY
+GLGB_NITEU  RFYSYHELAD HLIPYLQDMG YSHVEL.LPI SEHP...... ...LDESWGY
+GLB1_XANAC  VDLDWDGLAD RLIPYVADMG FTHVEL.MPV SEHP...... ...FGGSWGY
+GLGB_RALSO  RSLDWDALGE RLIPYVAGLG FTHVEL.LPV AEHP...... ...FGGSWGY
+GLB2_XANAC  QPLDWPTLAE QLIPYVQQLG FTHIEL.LPI TEHP...... ...FGGSWGY
+GLGB_PSEAE  RPPHWSELAE ELIPYVRQLG FTHIEL.MPV MEHP...... ...FGGSWGY
+GLGB_PSEPK  RFYNWRELAE RLVPYVQELG FTHIEL.LPI MEHP...... ...FGGSWGY
+GLGB_PSESM  RQYNWRELAD RLIPYVKELG FTHIEL.MPI MEHP...... ...FGGSWGY
+GLGB_BRAJA  EWLTYRELAE QLPAYARDMG FTHLEF.LPV SEHP...... ...FDGSWGY
+GLGB_ERWCH  FWLSYRELAD QLVPYVKEMG FTHVEL.MPV HKHP...... ...FDGSWGY
+GLGB_YERPE  FWLSYRELAD QLVEYVKYMG FTHVEL.LPI NEHP...... ...FDGSWGY
+GLGB_HAEIN  FWLDYDQIAD ELIPYVKEMG FTHIEF.LPL SEFP...... ...FDGSWGY
+GLGB_NEIDE  YWLTYTQLAD ELVNYVKDMG FTHIEL.LPL SEYP...... ...FDGSWGY
+GLGB_SHEON  QYFDYQDLIE QLIPYVKEQG FTHIEL.MPV SEYP...... ...FDGSWGY
+GLGB_VIBCH  EFLNYRELAD QLVPYLVEMG YTHVEL.MPV AEHP...... ...FYGSWGY
+GLGB_VIBPA  DFLNYRELAE QLVPYLVDMG YTHVEL.MPV SEHP...... ...FYGSWGY
+GLGB_BUTFI  GFYTYRQFAD RIVEYLKEMK YTHIEL.IGI AEHP...... ...FDGSWGY
+GLGB_MYCBO  ..LSYRQLAR ELTDYIVDQG FTHVEL.LPV AEHP...... ...FAGSWGY
+GLGB_COREF  ..RSYAELAT ELVDYVADLG YTHVEF.MPV AEHP...... ...FGGSWGY
+GLGB_CORGL  ..KNYEDLAT ELVDYVADLG YTHVEF.LPV AEHP...... ...FGGSWGY
+GLGB_STRAU  ..LSYRQLAE QLPAYVKELG FTHVEL.MPV AEHP...... ...FGGSWGY
+GLGB_STRAW  ..LTYRQLAE QLPAYVADLG FTHVEL.LPV AEHP...... ...FGGSWGY
+GLB1_STRCO  ..LTYRQLAE QLPAYVADLG FTHVEL.MPV AEHP...... ...FGGSWGY
+GLB2_STRCO  ..LTYRELAE ELPAYVKDLG FTHVEL.MPV AEHP...... ...YGPSWGY
+GLGB_BIFLO  ..LTYRDLAK QLVDYVKQEG FTHVEF.MPL AQHP...... ...FSGSWGY
+GLGB_DEIRA  WFLNYRDLAH RLGEYVTYMG YTHVEL.LGV MEHP...... ...FDGSWGY
+GLGB_CHLCV  RPLGYRELAK RLAQYCKELH YTHVEL.LPI TEHP...... ...LNESWGY
+GLGB_CHLPN  RPLSYSEMAH RLASYCKEMH YTHVEL.LPI TEHP...... ...LNESWGY
+GLGB_CHLMU  QPLNYRELAD QLSLYCKQMH YTHVEL.LPV TEHP...... ...LNESWGY
+GLB1_CLOPE  EFLSYDELSI ILPKYIKEMG YTHVEF.MPL NEHP...... ...LDASWGY
+GLB2_CLOPE  EFMTYEEISE VLVEYIKEMG YTHVEF.MPI NEHP...... ...LDASWGY
+GLGB_LACPL  SYYTYAELAA ELIPYVKQRG YTHIEL.MPV MEHL...... ...LDASWGY
+GLGB_STRMU  SPYSFEQLKD ELVPYLVKMN YTHVEF.MPL MAHP...... ...LGMSWGY
+GLGB_STRPN  SPYSFAQLKD ELIPYLVEMN YTHIEF.MPL MSHP...... ...LGLSWGY
+GLGB_STRA3  HPMTFSQLKD YLIPYLVEMN YTHVEF.MPL MAHP...... ...LDMSWGY
+GLGB_BACST  SFYTYQEMAE ELIPYVLEHG FTHIEL.LPL VEHP...... ...FDRSWGY
+GLGB_BACCL  RFYTYREMAD ELIPYVLERG FTHIEL.LPL VEHP...... ...LDRSWGY
+GLGB_BACAA  TLYSYREMAE ELIPYVVEHQ FTHIEI.MPL VEHP...... ...YDRSWGY
+GLGB_BACSU  RHYSYKELSQ TLIPYIKKHG FTHIEL.LPV YEHP...... ...YDRSWGY
+GLGB_FUSNN  TYYNYKEIAE LLVEYMLEMN YTHIEI.MPI IEYP...... ...FDGSWGY
+1eh9_A      ....F.EGVI RKLDYLKDLG ITAIEI.MPI AQFP...... ...GKRDWGY
+1bag_       ......NTLK HNMKDIHDAG YTAIQT.SPI NQVKEGNQGD KSMSNWYWLY
+1jdc_       APNDWYNILR QQAATIAADG FSAIWMPVPW RDFSSWSDGS KSG..GGEGY
+1pam_A      ......IINK INDGYLTGMG ITAIWISQPV ENIYSVINYS GVNNTAYHGY
+
+            501                                                550
+1m7x_A      QPTGLYAPTR RFGTRDDFRY FIDAAHAAGL NVILDWVPGH FPTDDFALAE
+GLGB_RHILO  QTTGLYAPSA RFGDPDGFAR FVDGAHRAGV GVILDWVPAH FPVDAHGLAH
+GLGB_RHIME  QTTGLYAPTA RFGEPEGFAR FVNGCHKVGI GVILDWVPAH FPTDEHGLRW
+GLGB_AGRT5  QTTGLYAPTA RFGDPEGFAR FVNGAHKVGI GVLLDWVPAH FPTDEHGLRW
+GLGB_AQUAE  QITGYFAPTS RYGTPQDFMY LIDKLHQEGI GVILDWVPSH FPTDAHGLAY
+GLGB_RHOMR  QVVGYYAPTF RYGSPQDLMY LIDYLHQRGI GVILDWVPSH FAADPQGLVF
+GLGB_SYNP7  QVTGYYAATS RYGSPEDFMY FVDRCHQNGI GVILDWVPGH FPKDGHGLAF
+GLGB_ANASP  QVTGYYAPTS RFGTPEDFMY FVDQCHQNNI GVLVDWVPGH FPKDGHGLAF
+GLGB_SYNY3  QVTGYYAPTS RFGSPEDFMY FVDQCHLNGI GVIIDWVPGH FPKDGHGLAF
+GLGB_OCEIH  QITGYFAVTS RYGNPSDFKY FIDQCHQHQI GVILDWVPGH FCKDDFGLRQ
+GLGB_NITEU  QATGYFAVTS RYGSPEAFMS FVDRCHQAGI GVILDWVPAH FPQDSFSLAR
+GLB1_XANAC  QPLGLFAPTA RFGTPDGFAR FVDRCHREGI GVIVDWVPAH FPTDAHGLAH
+GLGB_RALSO  QPLGLFAPSA RFGPPEAFAR FVERCHQAAL GVIVDWVPAH FPSDPHGLAR
+GLB2_XANAC  QPLGLYAPTA RHGSPDGFAQ FVDACHRAGI GVILDWVSAH FPDDAHGLAQ
+GLGB_PSEAE  QPLGLFAPTA RYGTPEDFAA FVDACHQAGI GVILDWVPAH FPTDAHGLGR
+GLGB_PSEPK  QPLSMFAPTS RYGSAEDFAA FIDACHQGGI GVLLDWVPAH FPTDEHGLAR
+GLGB_PSESM  QLLAQFAPTA RYGSPEDFAA FVDACHQAEI GVILDWVPAH FPTDTHGLAQ
+GLGB_BRAJA  QPTGLYAPTS RFGTPEDFAA LVDACHREGV GVLLDWVPGH FPDDPHGLGS
+GLGB_ERWCH  QPLGLYAPTR RFGSPDDFRY LVSAFHEAGI NVLLDWVSGH FPADSYGLAR
+GLGB_YERPE  QPLGLYAPTR RYGTPEDFKA FVAKFHQAGI NVILDWVPGH FPSDEHGLST
+GLGB_HAEIN  QPLGLYSPTS RFGSPEAFRR LVKRAHEAGI NVILDWVPGH FPSDTHGLVA
+GLGB_NEIDE  QATGLYAPTS RFGSPDELKA LIDAAHAAGI SVILDWVAGH FPTDDHGLNT
+GLGB_SHEON  QPVGLYAPTY RFGDANGFKA FIDACHQAEI GVLLDWVAAH FPKDPHGLVR
+GLGB_VIBCH  QPVGLFAPTS RYGSPDDFKY FVDLCHQAGI GVVLDWVPAH FPSDSHGLAN
+GLGB_VIBPA  QPVGLFAPTS RYGSPDDFKF FVDACHQAGI GVVLDWVPAH FPSDDHGLAN
+GLGB_BUTFI  QVTGYYAPTA RYGEPTDFMY LINQLHKHGI GVILDWVPAH FCPDEFGLAC
+GLGB_MYCBO  QVTSYYAPTS RFGTPDDFRA LVDALHQAGI GVIVDWVPAH FPKDAWALGR
+GLGB_COREF  QVSGYYAPTS RWGSPDELRK LIDAFHARGI GVIIDWVPAH FPKDDWALAR
+GLGB_CORGL  QVTGYYAPTS RWGTPDQFRA LVDAFHARGI GVIMDWVPAH FPKDDWALAR
+GLGB_STRAU  QVTGFYAPTS RMGTPDDFRF LVDALHRAGI GVIVDWVPAH FPRDDWALAE
+GLGB_STRAW  QVTGFYAPTA RLGTPDDFKY LVDALHRAGV GVLMDWVPAH FPRDDWALAE
+GLB1_STRCO  QVTGFYAPTA RLGDPDDFKY LVDRLHRAGI GVLMDWVPAH FPRDDWALAE
+GLB2_STRCO  QVTGFYAPTA RLGSPDDFRF LVDALHRAGI GVIMDWVPAH FPKDDWALGR
+GLGB_BIFLO  QVTGYYAVDS RLGSPDDFRY LVDQFHQAGI GVIMDWVPAH FPKDAFALGR
+GLGB_DEIRA  QVTGYYAPTS RLGSPEDFKY LVNHLHSLGI GVLLDWVPGH FPTDEFALAH
+GLGB_CHLCV  QVTGYYAPTW RYGSFQDFQF FVDHLHCEGI GVILDWVPGH FPTDSFALAS
+GLGB_CHLPN  QVTGYYAPTS RYGTLQEFQY FVDYLHKENI GIILDWVPGH FPVDAFALAS
+GLGB_CHLMU  QTTGYYAPTS RYGSFEDLQY FIDTMHQHGI GVILDWVPGH FPVDSFAMSN
+GLB1_CLOPE  QVTGYYSITS RYGDIKGLKR LINALHKEDI GVILDWVPGH FCKDEQGLYM
+GLB2_CLOPE  QGVGYYSVTS RYGDLNGLKT LINKLHKNNI GVLLDWVPSH FCKDEHGLFM
+GLGB_LACPL  QQLGYFAPTS RFGKRDSFLS FVDQCHQANI GVFVDWVPGH FIRNYDALYQ
+GLGB_STRMU  QLMGFFAFEH TYGTPEQFQD FVEACHLNNI GVIVDWVPGH FTQNDDALAY
+GLGB_STRPN  QLMGYFALEH AYGRPEEFQD FVEECHTHNI GVIVDWVPGH FTINDDALAY
+GLGB_STRA3  QLMGYFAFEH TYGTPEEFQD FVEACHKNNI GVLVDWVPGH FIQNDDALAY
+GLGB_BACST  QGIGYYSATS RYGTPHDLMY FIDRCHQAGI GVILDWVPGH FCKDSHGLYM
+GLGB_BACCL  QGTGYYSVTS RYGTPHDFMY FVDRCHQAGL GVIIDWVPGH FCKDAHGLYM
+GLGB_BACAA  QGTGYYAATS RFGTPHDLMH FVDECHKYGI GVILDWVPGH FCKDAHGLYL
+GLGB_BACSU  QGTGYYSPTS RFGPPHDLMK FVDECHQQNI GVILDWVPGH FCKDAHGLYM
+GLGB_FUSNN  QGTGYYSVTS RYGTPDDFMY FVNYFHKNNL GVILDWVPGH FCKDSHGLYR
+1eh9_A      DGVYLYAVQN SYGGPEGFRK LVDEAHKKGL GVILDVVYNH VGPEGNYMVK
+1bag_       QPTSYQIGNR YLGTEQEFKE MCAAAEEYGI KVIVDAVINH TTFDYAAISN
+1jdc_       FWHDFNKN.G RYGSDAQLRQ AASALGGAGV KVLYDVVPNH MNRGYPDKEI
+1pam_A      WARDFKKTNP AYGTMQDFKN LIDTAHAHNI KVIIDFAPNH TSPASSDDPS
+
+            551                                                600
+1m7x_A      FDG....... ...TNLYEH. .......... .........S T........L
+GLGB_RHILO  FDG....... ...TALYEHA DPRK.G.... ....FHPDWN T........A
+GLGB_RHIME  FDG....... ...TALYEHA DPRQ.G.... ....FHPDWN T........A
+GLGB_AGRT5  FDG....... ...TALYEHA DPRQ.G.... ....FHPDWN T........A
+GLGB_AQUAE  FDG....... ...THLYEYE DWRK.R.... ....WHPDWN S........F
+GLGB_RHOMR  FDG....... ...TTLFEYD DPKM.R.... ....YHPDWG T........Y
+GLGB_SYNP7  FDG....... ...THLYEHA DSRQ.G.... ....EHREWG T........L
+GLGB_ANASP  FDG....... ...THLYEHA DPRK.G.... ....EHKEWG T........L
+GLGB_SYNY3  FDG....... ...THLYEHG DPRK.G.... ....EHKEWG T........L
+GLGB_OCEIH  FDG....... ...APLYEYR DPKK.S.... ....EKKSWG T........L
+GLGB_NITEU  FDG....... ...TALYEHE DPRL.G.... ....YHHDWG T........Y
+GLB1_XANAC  FDG....... ...TALYEHA DPRE.G.... ....FHRDWN T........L
+GLGB_RALSO  FDG....... ...TALYEHA DPRE.G.... ....FHQDWN T........L
+GLB2_XANAC  FDG....... ...AALYEHA DPRE.G.... ....MHRDWN T........L
+GLGB_PSEAE  FDG....... ...TALYEYE HPFE.G.... ....FHQDWD T........Y
+GLGB_PSEPK  FDG....... ...TALYEYD NPLE.G.... ....YHQDWN T........L
+GLGB_PSESM  FDG....... ...TALYEYA DPKE.G.... ....FHQDWD T........L
+GLGB_BRAJA  FDG....... ...TSLYEHA NPLQ.G.... ....RHLDWG T........L
+GLGB_ERWCH  FDG....... ...PALYEYA DPKE.G.... ....YHQDWN T........L
+GLGB_YERPE  FDG....... ...TALYEYA DPRE.G.... ....YHQDWN T........L
+GLGB_HAEIN  FDG....... ...TALYEHE DPRE.G.... ....YHQDWN T........L
+GLGB_NEIDE  FDG....... ...TALYEHA DPRE.G.... ....YHQDWN T........L
+GLGB_SHEON  FDG....... ...TCLYEHE DPRK.G.... ....THPDWD T........L
+GLGB_VIBCH  FDG....... ...TPLFHDP DPRR.G.... ....WHQDWN S........Y
+GLGB_VIBPA  FDG....... ...TPLFHDP DPRR.G.... ....WHQDWN S........Y
+GLGB_BUTFI  FDG....... ...TCIYEDP DPRK.G.... ....EHPDWG T........K
+GLGB_MYCBO  FDG....... ...TPLYEHS DPKR.G.... ....EQLDWG T........Y
+GLGB_COREF  FDG....... ...QALYEHP DWRR.G.... ....EQKDWG T........Y
+GLGB_CORGL  FDG....... ...EALYEHP DWRR.G.... ....EQKDWG T........L
+GLGB_STRAU  FDG....... ...RPLYEHQ DPRR.A.... ....AHPDWG T........L
+GLGB_STRAW  FDG....... ...RPLYEHE DPLR.A.... ....AHPDWG T........L
+GLB1_STRCO  FDG....... ...RPLYEHS DPLR.A.... ....AHPDWG T........L
+GLB2_STRCO  FDG....... ...DPLYEPG DSRR.A.... ....EHPDWG T........Y
+GLGB_BIFLO  FDG....... ...TPLYEDP DPLR.G.... ....EHPEWG T........Y
+GLGB_DEIRA  FDG....... ...SPLYEYA DPRK.G.... ....YHYDWN T........Y
+GLGB_CHLCV  FDG....... ...EALYESV DHKD.P.... ....LHPHWH T........Y
+GLGB_CHLPN  FDG....... ...EPLYEYT GHSQ.A.... ....LHPHWN T........F
+GLGB_CHLMU  FDG....... ...TPLYEYT RNPS.P.... ....LHPHWH T........Y
+GLB1_CLOPE  FDG....... ...TPTYEYE EKWK.A.... ....DNKGWG T........F
+GLB2_CLOPE  FDG....... ...SPTYEYE AWWK.A.... ....NNEGWG T........C
+GLGB_LACPL  YDG....... ...TPTFEYA DPER.A.... ....NNRRWG A........W
+GLGB_STRMU  FDG....... ...TPTFEYQ DHDR.A.... ....HNYRWG A........L
+GLGB_STRPN  YDG....... ...TPTFEYQ DHNK.A.... ....HNHGWG A........L
+GLGB_STRA3  FDG....... ...TATYEYQ NHDR.A.... ....HNYRWG A........L
+GLGB_BACST  FDG....... ...APAYEYA NMQD.R.... ....ENYVWG T........A
+GLGB_BACCL  FDG....... ...APTYEYA NEKD.R.... ....ENYVWG T........A
+GLGB_BACAA  FDG....... ...TPTYEYK DKDV.Q.... ....ENPVWG T........V
+GLGB_BACSU  FDG....... ...EPLYEYK EERD.R.... ....ENWLWG T........A
+GLGB_FUSNN  FDG....... ...SACYEYE DPSL.G.... ....EN.EWG S........A
+1eh9_A      LGP....... ...YF..... ..SQ.K.... ....YKTPWG LT.......F
+1bag_       EVK....... ....SIPNWT HGNTQI.... ..KNWSDRWD VTQNSLLGLY
+1jdc_       NLPAGQGFWR NDCADPGNYP NDCDDG.... .......... ..DRFIGGDA
+1pam_A      FAENGRLY.. DNGNLLGGYT NDTQNLFHHY GGTDFSTIEN GIYKNLYDLA
+
+            601                                                650
+1m7x_A      IYN.YGRREV SNFLVGNALY WIERFGIDAL RVDAVASMIY R.........
+GLGB_RHILO  IYN.FGRREV VSFLVNNALF WAEKYHVDGL RVDAVASMLY LDYSRK.AGE
+GLGB_RHIME  IYN.FGRQEV VAFLVNNALY WAEKFHVDGL RVDAVASMLY LDYSRK.HGE
+GLGB_AGRT5  IYN.FGRIEV MSYLINNALY WAEKFHLDGL RVDAVASMLY LDYSRK.EGE
+GLGB_AQUAE  VFD.YGKPEV RSFLLSSAHF WLDKYHADGL RVDAVASMLY LDYSRK...E
+GLGB_RHOMR  VFD.YNKPGV RNFLISNALF WLEKYHVDGL RVDAVASMLY RDYSRK...E
+GLGB_SYNP7  VFN.YGRHEV RNFLAANALF WFDKYHIDGI RVDAVASMLY LDYNRK.EGE
+GLGB_ANASP  VFN.YSRNEV RNFLVANALF WFDKYHIDGI RVDAVASMLY LDYCRK.EGE
+GLGB_SYNY3  IFN.YGRNEV RNFLVANALF WFDKYHIDGM RVDAVASMLY LDYCRE.EGE
+GLGB_OCEIH  AFD.YGRPEV QSFLISNAIY WLKEFHIDGL RVDAVASMLY LNFDRYDEEE
+GLGB_NITEU  IFN.YGRNEV KSFLLSSAHY WLSAFHIDGL RVDAVASMLY LNYSRK.EGE
+GLB1_XANAC  IYN.HGRREV SGFLIASAME FLQRYHVDGL RVDAVASMLY RDYSRN.AGE
+GLGB_RALSO  IYN.FGRHEV RGFLIASALE WLEHFHIDGL RVDAVASMLY RDYSRP.ADA
+GLB2_XANAC  IYN.YGRPEV TAYLLGSALE WIEHYHLDGL RVDAVASMLY RDYGRA.EGE
+GLGB_PSEAE  IYN.LGRSEV HGFMLASALH WLRTYHVDGL RVDAVASMLY RDYSRK.EGE
+GLGB_PSEPK  IYN.LGRNEV RGFMMASALH WLKHFHIDGL RVDAVASMLY RDYSRK.AGE
+GLGB_PSESM  IYN.LGRTEV HGFMLASALH WLKHYHIDGL RVDAVASMLY RDYSRK.AGE
+GLGB_BRAJA  IYN.YGRTEV TNFLVSNALF WLERYAIDGL RVDAVASMLY LDYSRP.PGA
+GLGB_ERWCH  IYN.FDRHEV RNYLAGNALY WTERFGVDGL RVDAVASMIY RDYSRR.DGE
+GLGB_YERPE  IYN.YGRNEV RNYLAGNAFY WMERFGIDAL RIDAVASMIY RDYSRA.EGQ
+GLGB_HAEIN  IYN.YGRNEV KNFLSSNALY WLERFGVDGI RVDAVASMIY RDYSRA.EGE
+GLGB_NEIDE  IYN.FGRNEV KNFLQGNALY WIERFGFDGI RVDAVASMIY RNYSRK.DGE
+GLGB_SHEON  IYN.YGRGEV RSFLLSNACY WLREFHLDGL RLDAVSSMLY LDYSRE.PGQ
+GLGB_VIBCH  IYD.LGREHV RRFLVANALY WFEMFHIDGI RVDAVASMLY LDYSRS.HDQ
+GLGB_VIBPA  IYD.LGREHV RRFLVSNALY WFEQFHIDGI RVDAVASMLY LDYSRS.HDQ
+GLGB_BUTFI  IFN.LAKPEV KNFLIANALY WIRKFHIDGL RVDAVASMLY LDYGKK.DGQ
+GLGB_MYCBO  VFD.FGRPEV RNFLVANALY WLQEFHIDGL RVDAVASMLY LDYSRP.EGG
+GLGB_COREF  VFN.FGRSEV RNFLVANALY WLEEFHVDGL RVDAVASMLY LDYSRE.HGE
+GLGB_CORGL  VFD.FGRNEV RNFLVANALY WIEEFHIDGL RVDAVASMLY LDYSRE.HGE
+GLGB_STRAU  EFD.YGRKEV RNFLVANAVY WCQEFHVDGL RADAVASMLY LDYSRD.EGD
+GLGB_STRAW  EFD.YGRREV RNFLVANAVY WCEEFHIDGL RVDAVASMLY LDYSRE.EGQ
+GLB1_STRCO  EFD.FGRREV RNFLVANAVY WCEEFHIDGL RVDAVASMLY LDYSRE.PGE
+GLB2_STRCO  TFD.FARTEV RNFLVANAVY WCEEFHIDGL RVDAVASMLY LDYSRD.SGQ
+GLGB_BIFLO  VFN.FGRREV RNFLVANALF WLEDLHVDAL RVDAVSSMLY LDYSRE.PGH
+GLGB_DEIRA  IFD.YGRNEV VMFLIGSALK WVQDYHVDGL RVDAVASMLY LDFSRT...E
+GLGB_CHLCV  TFD.YRCSEV VNFLIGSALF WLDKMHIDGL RVDAVTSMLY LDYGRK.AGE
+GLGB_CHLPN  TFD.YSRHEV TNFLLGSALF WLDKMHIDGL RVDAVASMLY RDYGRE.DGE
+GLGB_CHLMU  TFD.YAKPEV CNFLLGSALF WIDKMHIDGI RVDAVSSMLY LDYGRN.PGE
+GLB1_CLOPE  NFD.LGKPEV KSFLISNAFY FINEFHIDGL RVDAVSNMLY LNYGRN.HGE
+GLB2_CLOPE  NFD.LGRPEV KSFLFSNAMY WINEFHVDGL RVDAVSNMLY LDYGRE.YGE
+GLGB_LACPL  NFD.LGKTQV QSFLISSAEY WLDQCHLDGL RVDAVSNMLY CDYDE...GR
+GLGB_STRMU  NFD.LGKNQV QSFLISSAKF WIDFYHIDGI RVDAVSNMLY LDYDE...GP
+GLGB_STRPN  NFD.LGKNEV QSFLISCIKH WIDVYHLDGI RVDAVSNMLY LDYDD...AP
+GLGB_STRA3  NFD.LGKNQV QSFLISSALF WIEHYHIDGI RVDAVSNMLY LDYDE...GP
+GLGB_BACST  NFD.LGKPEV RSFLISNALF WMEYFHVDGF RVDAVANMLY WPNSDV....
+GLGB_BACCL  NFD.LGKPEV RSFLISNALF WLEYYHVDGF RVDAVANMLY WPNNDR....
+GLGB_BACAA  NFD.LGKREV RNFLISNALF WMRYFHIDGF RVDAVANMLY WNKEGQ....
+GLGB_BACSU  NFD.LGKPEV HSFLISNALY WAEFYHIDGF RVDAVANILY WPNQDE....
+GLGB_FUSNN  NFN.VSRNEV RSFLLSNLYF WIKEFHIDGI RMDAVSNMLY YKDGL.....
+1eh9_A      NFDDAESDEV RKFILENVEY WIKEYNVDGF RLDAVHAIID TSPKH.....
+1bag_       DWN.TQNTQV QS.YLKRFLE RALNDGADGF RFDAAKHIEL PDDGSY.GSQ
+1jdc_       DLN.TGHPQV YGMFRDEFTN LRSQYGAGGF RFDFVRGYAP ERVN.....S
+1pam_A      DLN.HNNSSV DV.YLKDAIK MWLDLGVDGI RVDAVKHMPF GWQK.....S
+
+            651                                                700
+1m7x_A      .......GGR ENLEAIEFLR NTNRILGEQV SGAVTMAEES TDFPGVSRPQ
+GLGB_RHILO  W.IPNEKGGR ENLEAVSFLQ KMNKEVYGHH PGVMTIAEES TSWPKVSAPV
+GLGB_RHIME  W.VPNEYGGN ENLEAVRFLQ TMNTRIYGIH QGVLTIAEES TSWPKVSHPV
+GLGB_AGRT5  W.IPNEYGGR ENLESVRFLQ KMNSLVYGTH PGVMTIAEES TSWPKVSQPV
+GLGB_AQUAE  W.VPNIYGGK ENLEAIEFLR KFNESVYRNF PDVQTIAEES TAWPMVSRPT
+GLGB_RHOMR  W.TPNIFGGR ENLEAIDFIK KFNETVYLHF PEAMTIAEES TAWPGVSAPT
+GLGB_SYNP7  W.IPNEYGGR ENIEAADFLR QVNHLIFSYF PGALSIAEES TSWPMVSWPT
+GLGB_ANASP  W.LPNQYGGR ENLEAADFLR QVNHLLFSYF PGVLSIAEES TDWPMVSWPT
+GLGB_SYNY3  W.VANEYGGR ENLEAADFLR QVNSVVYSYF PGILSIAEES TSWPMVSWPT
+GLGB_OCEIH  K.IYNTYGGE ENLEAFAFLR KLNKVVFSYI PGALMMAEDS SDLPLVTAPV
+GLGB_NITEU  W.LPNRYGGH ENLEAIEFLR ALNTMVHGEF PGALTFAEES TSWPAVSRPA
+GLB1_XANAC  W.IPNIHGGR ENYETIAFLR RLNEVVREHT PGAVMIAEES TAFPGVTAEV
+GLGB_RALSO  W.VPNRYGGR ENLEAVAFLQ QMNAVVHARC PGAITIAEES TAWPGVTAAV
+GLB2_XANAC  W.VPNAHGGR ENLEAVAFLR QLNRDIATQF PGVLTIAEES TAWPGVTAAI
+GLGB_PSEAE  W.LPNRHGGR ENLEAIDFLH HLNQVVASET PGALVIAEES TAWPGVSRPV
+GLGB_PSEPK  W.VPNRHGGR ENLEAIDFIR HLNGVAAHEA PGALIIAEES TAWPGVSQPT
+GLGB_PSESM  W.VPNRFGGR ENLEAIDFLR HLNDVVALEA PGTMVIAEES TAWPGVSEST
+GLGB_BRAJA  W.IPNQYGGR ENIEAIAFLR RFNTELFARF PQATTAAEES TAWPQVSRPV
+GLGB_ERWCH  W.VPNYFGGK ENLEAIGFLR YTNQMLGQHH AGAVTIAEES TDYAGVTLPP
+GLGB_YERPE  W.VPNYYGGR ENLEAIAFLR YTNKTIGVER PGSVTMAEES TDFPGVTLPP
+GLGB_HAEIN  W.IPNQYGGR ENLEAIEFLK HTNWKIHSEM AGAISIAEES TSFAGVTHPS
+GLGB_NEIDE  W.IPNRYGGS ENLEAIAFLR QTNAVLKSET PGAGSFAEES TSFADVTR..
+GLGB_SHEON  W.LPNAYGGR ENLEAIDFLQ MLNQRLYQAI PGICMIAEES TAFAGVTKPT
+GLGB_VIBCH  W.IPNVDGGR ENYDAIATFK WMNEEVYKHF PNAMTIAEES TAFPGVSAPT
+GLGB_VIBPA  W.VPNVDGGN ENYDAIATLK WMNEEVYKHF PNAMTIAEES TAFPGVSAPT
+GLGB_BUTFI  W.VPNKYGDN KNLDAIEFFK HFNSVVRGTY PNILTIAEES TAWPKVTAPP
+GLGB_MYCBO  W.TPNVHGGR ENLEAVQFLQ EMNATAHKVA PGIVTIAEES TSWPGVTRPT
+GLGB_COREF  W.EPNVYGGR ENLEAVQFLQ EMNATVQRVH PGALTIAEES TSWPGVTAPT
+GLGB_CORGL  W.EPNIYGGR ENLEAVQFLQ EMNATVLRLH PGALTIAEES TSWPGVTAPT
+GLGB_STRAU  W.SPNAHGGR EDLDAVALLQ EMNATVYRRF PGVVTIAEES TAWDGVTRPT
+GLGB_STRAW  W.SPNEFGGR ENLDAVAFLQ EMNATVYRRV PGVVTIAEES TAWEGVTRAT
+GLB1_STRCO  W.EPNEHGGR ENLDAVAFLQ EMNATLYRRV PGVVTVAEES TAWDGVTRAT
+GLB2_STRCO  W.EPNQYGGR EDLAAMAFLQ EMNATVYRRC PGVVTIAEES TAWGGVTRPT
+GLGB_BIFLO  W.RPNIYGGR ENLEAIDFLK EATATAYKNN PGVMVIAEES TAWPGITAPT
+GLGB_DEIRA  W.VPNIYGGR ENLEAIAFLK RLNEVAHHMA PGCLMIAEES TSFPGVTTPT
+GLGB_CHLCV  W.SPNIYGGN ENLDAIEFIK HFNSVVHREF PAVLTFAEES TDFPKVTESV
+GLGB_CHLPN  W.TPNIYGGK ENLESIEFLK HLNSVIHKEF SGVLTFAEES TAFPGVTKDV
+GLGB_CHLMU  W.IPNRYGGR ENLDAVRFLQ QFNTIIHEKY PGVLTFAEES TTFPKITVSV
+GLB1_CLOPE  W.VPNIYGGN ENLEAIQFIK ELNEAIKTYS KGVITIAEES TSWPNVTNDT
+GLB2_CLOPE  W.EPNIYGGN GNLEAIAFLK ELNTIIKKEG KGAITVAEES TSWEGITKPV
+GLGB_LACPL  EGQVNQYGDN RNLEGIAFLQ KLNTTVLTHH PDILMIAEES SAYPQVTGSV
+GLGB_STRMU  W.QPNIEGNN RNLEGYYFLQ RLNTVLKLAH PDVMMIAEES TATTKITGRR
+GLGB_STRPN  W.TPNKDGGN LNYEGYYFLQ RLNEVIKLEY PDVMMIAEES SSAIKITGMK
+GLGB_STRA3  W.EANQFGDN RNLEGYYFLR KLNKVIKERH PNVMMIAEES TASTPITKDL
+GLGB_BACST  ........LY KNTYAVEFLQ KLNETVFAYD PNILMIAEDS TDWPRVTAPT
+GLGB_BACCL  ........LY ENPYAVEFLR QLNEAVFAYD PNVWMIAEDS TDWPRVTAPT
+GLGB_BACAA  ........EQ SNEHAVSFLR ELNEAVFAED EDFLMTAEDS TAWPLVTAPT
+GLGB_BACSU  ........RH TNPYAVDFLK KLNQTMREAY PHVMMIAEDS TEWPQVTGAV
+GLGB_FUSNN  .........S ENKHSVEFLQ YLNQSLHEEY PDVMLIAEDS SAWPLVTKYQ
+1eh9_A      .......... .......ILE EIADVVHKY. .NRIVIAESD LNDPRVVNPK
+1bag_       F.WPNITNTS AEFQYGQILQ DSASRD.... .......AAY ANYMDVT...
+1jdc_       W.MTD..SAD NSFCVGQLWK GPSEYPNWDW RNTASWQQII KDWSDRAKCP
+1pam_A      F.MATINNYK PVFTFGEWFL GVNEIS.... .......PEY HQFANESGMS
+
+            701                                                750
+1m7x_A      D......MGG LGFWY..KW. .....NLGWM HDTLDYMKLD PVYRQYHHDK
+GLGB_RHILO  H......EGG LGFGF..KW. .....NMGFM HDTLEYFSKE PIFRKHHHND
+GLGB_RHIME  H......AGG LGFGF..KW. .....NMGFM HDTLQYLSRE PVHRKFHHND
+GLGB_AGRT5  H......EGG LGFGF..KW. .....NMGFM HDTLSYFSRE PVHRKFHHQE
+GLGB_AQUAE  Y......VGG LGFGM..KW. .....NMGWM NDTLFYFSKD PIYRKYHHEV
+GLGB_RHOMR  Y......NNG LGFLY..KW. .....NMGWM HDTLDYIQRD PIYRKYHHDE
+GLGB_SYNP7  Y......VGG LGFNL..KW. .....NMGWM HDMLDYFSMD PWFRQFHQNN
+GLGB_ANASP  Y......TGG LGFNL..KW. .....NMGWM HDMLDYFSMD PWFRQFHQNN
+GLGB_SYNY3  Y......VGG LGFNL..KW. .....NMGWM HDMLDYFSMD PWFRQFHQNS
+GLGB_OCEIH  N......KGG LGFNY..KW. .....NMGWM NDLLSFMEKE SIHRKWHHNR
+GLGB_NITEU  Y......LGG LGFSM..KW. .....NMGWM NDTLSYMQHD PVHRRYHHNE
+GLB1_XANAC  A......HGG LGFHY..KW. .....NMGWM HDTLHYAGLD PIYRRYHHGE
+GLGB_RALSO  E......FNG LGFDY..KW. .....NMGWM HDTLHYMQRD PIYRQHHHDG
+GLB2_XANAC  S......DGG LGFTH..KW. .....NMGWM HDTLGYMQRD PAERAHHHSQ
+GLGB_PSEAE  A......EGG LGFSH..KW. .....NMGWM HDSLAYIGED PLHRRYHHHQ
+GLGB_PSEPK  Q......QGG LGFAY..KW. .....NMGWM HDTLHYIQND PVHRTYHHNE
+GLGB_PSESM  Q......KGG LGFNY..KW. .....NMGWM HDSLQYMEED PINREHHHGK
+GLGB_BRAJA  E......FGG LGFGY..KW. .....NMGWM HDTLNYISKD PIHRKHHHGE
+GLGB_ERWCH  E......HGG LGFHY..KW. .....NMGWM HDSLAYMQLD PVHRKYHHDL
+GLGB_YERPE  D......IGG LGFNY..KW. .....NMGWM HDTLNYMQCD PVHRKYHHNL
+GLGB_HAEIN  E......NGG LGFNF..KW. .....NMGWM NDTLAYMKLD PIYRQYHHNK
+GLGB_NEIDE  .......EAG LNFDF..KW. .....NMGWM NDTLRYMQED PVHRKYHHGK
+GLGB_SHEON  D......SSG LGFGF..KW. .....NMGWM NDSLSYLGRD PIYRQYHHNQ
+GLGB_VIBCH  F......MGG LGFGF..KW. .....NMGWM HDSLSYIKED PVHRKYHHNT
+GLGB_VIBPA  F......MGG LGFGF..KW. .....NMGWM HDSLSYVKED PVHRKYHHNT
+GLGB_BUTFI  E......EDG LGFAF..KW. .....NMGWM HDFCEYMKLD PYFRQGAHYM
+GLGB_MYCBO  N......IGG LGFSM..KW. .....NMGWM HDTLDYVSRD PVYRSYHHHE
+GLGB_COREF  W......DGG LGFSL..KW. .....NMGWM NDTLEYFSKD PIHRSFHHNE
+GLGB_CORGL  W......DGG LGFSL..KW. .....NMGWM HDTLEYFSKN PVHRAFHHSE
+GLGB_STRAU  D......SGG LGFGL..KW. .....NMGWM HDTLRYVSKE PVHRKYHHHD
+GLGB_STRAW  HDN......G LGFGL..KW. .....NMGWM HDSLGYVQHE PVHRRFHHHE
+GLB1_STRCO  HHEGPSGFGG LGFGL..KW. .....NMGWM HDSLDYMSHE PVHRKHHHGE
+GLB2_STRCO  D......TGG LGFGL..KW. .....NMGWM HDSLEYVAHE PVHRRYHHHE
+GLGB_BIFLO  S......AGG IGFGM..KW. .....NMGWM HDTLEYLHEE PINRKWHHNE
+GLGB_DEIRA  P.......EG LGFDY..KW. .....AMGWM NDSLAYFEQD PIYRKYDHHK
+GLGB_CHLCV  D......SGG LGFDY..KW. .....NLGWM HDTFRYIKVD PIFRSYHHND
+GLGB_CHLPN  D......QGG LGFDY..KW. .....NLGWM HDTFHYFMKD PMYRKYHQKD
+GLGB_CHLMU  E......EGG LGFDY..KW. .....NMGWM HDTLHYFEKD FPYRPYHQSD
+GLB1_CLOPE  E......YGG LGFDF..KW. .....NMGWM NDTLEYNELD PIYRKYHHNK
+GLB2_CLOPE  E......EDG LGFDY..KW. .....NMGWM NDTLSYIELD PIYRKYHHNK
+GLGB_LACPL  A......NGG LGFNY..KW. .....NMGWM HDTLDFFMMD PLYRHDHFNL
+GLGB_STRMU  E......EGG LGFDY..KW. .....NMGWM NDILKFYEED PIYRKYDFNL
+GLGB_STRPN  E......IGG LGFDY..KW. .....NMGWM NDILRFYEED PIYRKYDFNL
+GLGB_STRA3  E......SGG LGFDF..KW. .....NMGWM NDILRFYEED PLYRQYDFNL
+GLGB_BACST  Y......DGG LGFNY..KW. .....NMGWM NDILTYMETP PEHRKYVHNK
+GLGB_BACCL  Y......DGG LGFNY..KW. .....NMGWM NDMLKYMETP PHERKYAHNQ
+GLGB_BACAA  Y......EGG LGFNY..KW. .....NMGWM NDVLKYMECA PEYRKYIHDK
+GLGB_BACSU  E......EGG LGFHY..KW. .....NMGWM NDVLKYMETP PEERRHCHQL
+GLGB_FUSNN  A......DGG LGFDF..KW. .....NMGWM NDTLKYMEQD PFFRKSHHGK
+1eh9_A      E......KCG YNIDA..QW. .....VDDFH HSIHAYLTGE RQGYYTDFGN
+1bag_       .......... .ASNYGHSIR SALKNRNLGV SNISHY..AS D.........
+1jdc_       .........V FDFAL..KER M....QNGSI ADWKHGLNGN ..........
+1pam_A      .........L LDFRFAQKAR QVFRDNTDNM YGLKAMLEGS E.........
+
+            751                                                800
+1m7x_A      .....LTFGI LYNY...... .......... ....TENFVL PLS.HDEVV.
+GLGB_RHILO  .....LTFGL TYAF...... .......... ....SENFVL PLS.HDEVV.
+GLGB_RHIME  .....MTFGL LYAF...... .......... ....SENFVL PLS.HDEVV.
+GLGB_AGRT5  .....LTFGL LYAF...... .......... ....TENFVL PLS.HDEVV.
+GLGB_AQUAE  .....LTFSI WYAF...... .......... ....SENFVL PLS.HDEVV.
+GLGB_RHOMR  .....LTFSL WYAF...... .......... ....SEHYVL PLS.HDEVV.
+GLGB_SYNP7  .....VTFSI WYAF...... .......... ....SENFML ALS.HDEVV.
+GLGB_ANASP  .....ITFSM WYNH...... .......... ....SENFML ALS.HDEVV.
+GLGB_SYNY3  .....ITFSM WYNH...... .......... ....SENYML ALS.HDEVV.
+GLGB_OCEIH  .....LTFSF MYTY...... .......... ....SENYLL PLS.HDEVV.
+GLGB_NITEU  .....LTFNQ LYAY...... .......... ....TENFVL PLS.HDEVV.
+GLB1_XANAC  .....LTFSM VYAY...... .......... ....SERFVL PIS.HDEVV.
+GLGB_RALSO  .....LTFGL VYAF...... .......... ....SERFIL PLS.HDEVV.
+GLB2_XANAC  .....LTFGL VYAF...... .......... ....DERFVL PLS.HDEVV.
+GLGB_PSEAE  .....LTFGL LYAF...... .......... ....SEHFIL PIS.HDEVV.
+GLGB_PSEPK  .....MSFGL IYAY...... .......... ....SEHFIL PIS.HDEVV.
+GLGB_PSESM  .....LSFSL VYAW...... .......... ....SERFVL PIS.HDEVV.
+GLGB_BRAJA  .....ILFGL HYAF...... .......... ....SENFIL PLS.HDEVV.
+GLGB_ERWCH  .....LTFGM LYAY...... .......... ....SENFVL PLS.HDEVV.
+GLGB_YERPE  .....MTFGM LYAY...... .......... ....TENFIL PLS.HDEVV.
+GLGB_HAEIN  .....MTFGM VYQY...... .......... ....SENFVL PLS.HDEVV.
+GLGB_NEIDE  .....MTFGM MYQY...... .......... ....SENFVL PLS.HDEVV.
+GLGB_SHEON  .....LTFSL MYAY...... .......... ....SEQFML SIS.HDEVV.
+GLGB_VIBCH  .....LTFPL IYAF...... .......... ....SENYVL SLS.HDEVV.
+GLGB_VIBPA  .....ITFPL VYAH...... .......... ....SENYVL SLS.HDEVV.
+GLGB_BUTFI  .....MTFAM SYND...... .......... ....SENYIL PLS.HDEVV.
+GLGB_MYCBO  .....MTFSM LYAF...... .......... ....SENYVL PLS.HDEVV.
+GLGB_COREF  .....LTFSL VYAF...... .......... ....SERFVL PIS.HDEVV.
+GLGB_CORGL  .....LTFSL VYAF...... .......... ....SERFVL PIS.HDEVV.
+GLGB_STRAU  .....MTFGM VYAF...... .......... ....SENFVL PIS.HDEVV.
+GLGB_STRAW  .....MTFSM VYAY...... .......... ....SENYVL PIS.HDEVV.
+GLB1_STRCO  .....MTFSM VYAY...... .......... ....SENYVL PIS.HDEVV.
+GLB2_STRCO  .....MTFSM VYAY...... .......... ....SENYVL PIS.HDEVV.
+GLGB_BIFLO  .....ITFSM VYAY...... .......... ....SEHYVL PIS.HDEVV.
+GLGB_DEIRA  .....LTFFN VYRT...... .......... ....SENYVL AIS.HDEVV.
+GLGB_CHLCV  .....LTFSL WYAF...... .......... ....NERYLL PLS.HDEVV.
+GLGB_CHLPN  .....LTFSL WYAF...... .......... ....QESFIL PLS.HDEVV.
+GLGB_CHLMU  .....LTFPQ WYAF...... .......... ....SERFLL PFS.HDEVV.
+GLB1_CLOPE  .....LTFPM MYNH...... .......... ....SEKFIL PIS.HDEVV.
+GLB2_CLOPE  .....MNFSM MYNY...... .......... ....SEKFIL PIS.HDEVV.
+GLGB_LACPL  .....LTFAF VYMF...... .......... ....DERFIL PFS.HDEVV.
+GLGB_STRMU  .....VTFSF MYLF...... .......... ....SENFIL PFS.HDEVV.
+GLGB_STRPN  .....VTFSF MYVF...... .......... ....KENYLL PFS.HDEVV.
+GLGB_STRA3  .....VTFSF MYIF...... .......... ....NENFVL AFS.HDEVV.
+GLGB_BACST  .....VTFSL LYAY...... .......... ....SENFIL PFS.HDEVV.
+GLGB_BACCL  .....VSFSL LYAY...... .......... ....SENFIL PFS.HDEVV.
+GLGB_BACAA  .....MTFSL LYAY...... .......... ....SENFIL PLS.HDEVV.
+GLGB_BACSU  .....ISFSL LYAF...... .......... ....SEHFVL PFS.HDEVV.
+GLGB_FUSNN  .....LTFSF MYAF...... .......... ....SENFIL PLS.HDEIV.
+1eh9_A      LDDIVKSYKD VFVYDGKYSN FRRKTHGEPV GELDGCNFVV YIQNHDQVGN
+1bag_       .......... .......... .......... ..VSADKLVT WVESHDTYAN
+1jdc_       .......... .......... .........P DPRWREVAVT FVDNHDTGYS
+1pam_A      .......... .......... .........V DYAQVNDQVT FIDNHDMERF
+
+            801                                                850
+1m7x_A      HGKKSILDRM PGDAWQKFAN LRAYYGWMWA FPGKKLLFMG NEFA......
+GLGB_RHILO  HGKGTLLSKM AGDDWQKFAT LRAYYGFMWG YPGKKLLFMG QEFA......
+GLGB_RHIME  HGKGSLIAKM AGDDWQKFAN LRAYYGFMWG YPGKKLLFMG QEFA......
+GLGB_AGRT5  HGKGSLIAKM SGDDWQKFAN LRSYYGFMWG YPGKKLLFMG QEFA......
+GLGB_AQUAE  HGKGSLIGKM PGDYWQKFAN LRALFGYMWA HPGKKLLFMG GEFG......
+GLGB_RHOMR  HGKGSLWGKM PGDDWQKAAN LRLLFGHMWG HPGKKLLFMG GEFG......
+GLGB_SYNP7  HGKSNLIGKM PGDEWQKFAN LRCLLGYMFT HPGKKTLFMG MEFG......
+GLGB_ANASP  HGKSNIIGKM PGDKWQKLAN VRCLFAYMFA HPGKKTMFMS MEFG......
+GLGB_SYNY3  HGKSNMLGKM PGDEWQKYAN VRALFTYMFT HPGKKTMFMS MEFG......
+GLGB_OCEIH  HGKKSLLDKM PGDQWQQFAN LRLLYGYMYT HPGKKLVFMG GELA......
+GLGB_NITEU  HGKKSMLDKM PGDGWQKFAN LRLLFTYQMT CPGKKINFMG NELG......
+GLB1_XANAC  HGKGSLLGRM PGDDWQRFAN LRAYLGFMFT HPGRKLLFMG CEFG......
+GLGB_RALSO  HGKGSLLGKM PGDDWQRLAN LRAYLAFMWT HPGKKLLFMG GEFG......
+GLB2_XANAC  HGTGGLLGQM PGDDWRRFAN LRAYLALMWA HPGDKLLFMG AEFG......
+GLGB_PSEAE  HGKHSLLDKM PGDRWQKFAN LRLYLSFMWS HPGKKLLFMG CEFG......
+GLGB_PSEPK  HGKHSLIDKM PGDRWQKFAN LRAYLTFMWA HPGKKLLFMG CEFG......
+GLGB_PSESM  HGKHSLIDKM PGDRWQKFAN LRAYLAFMWT HPGKKLLFMG CEFG......
+GLGB_BRAJA  HGKRSILGRM PGDEWQRFAN LRAYYSFMFG HPGKKLLFMG AEIA......
+GLGB_ERWCH  HGKRSLLDRM PGDVWQKFAN LRAYYGFMWA YPGKKLLFMG GEFA......
+GLGB_YERPE  HGKRSILDRM PGDAWQKFAN LRAYYAFMWA HPGKKLLFMG CEFA......
+GLGB_HAEIN  HGKYSLLGKM PGDTWQKFAN LRAYYGYMWG YPGKKLLFMG NEFA......
+GLGB_NEIDE  HGKRSLLGKM PGDCWQQFAN LRAYYGFMYG FPGKKLLFMG NEFA......
+GLGB_SHEON  HGKGSLLHKI PGDDWQKFAT LRAYYGFMWG HPGKKLLFMG SEFA......
+GLGB_VIBCH  YGKRSLMYKM PGDEWQQTAN LRAYLGYMYG QPGKKLNFMG TELG......
+GLGB_VIBPA  YGKGSIHNKM PGDEWQQTAN LRAYYGYMYG QPGKKLNFMG AEIG......
+GLGB_BUTFI  HLKCSMVEKM PGYKVDKYAN LRVGYTYMFG HSGKKLLFMG QDFG......
+GLGB_MYCBO  HGKGTLWGRM PGNNHVKAAG LRSLLAYQWA HPGKQLLFMG QEFG......
+GLGB_COREF  HGKGSLWNRM PGDTWNKAAG MRTLLAYMWA HPGKKLLFMG QEIG......
+GLGB_CORGL  HGKGSLWDRM PGDTWNKAAG LRTFLAYMWS HPGKKLLFMG QEFG......
+GLGB_STRAU  HGKRSLVSKM PGDWWQQRAT HRAYLGFMWA HPGKQLLFMG QEFA......
+GLGB_STRAW  HGKGSLVSKM PGDWWQQRAT ERAYLGFMWA HPGKQLLFMG QEFA......
+GLB1_STRCO  HGKRSLVSKM PGDWWQQRAN ERAYLGFMWA HPGKQLLFMG QEFA......
+GLB2_STRCO  HGKQALVSKM PGDWWQRRAN VRAYLGFMWA HPGKQLLFMG QEFA......
+GLGB_BIFLO  YGKGSLYGKM PGDDWQKLAG VRSMFAYQWA HPGKKLSFMG NELA......
+GLGB_DEIRA  HLKKPMVLKH PGDWYAQRAD YRAFLAMMWT TPGKKLLFMG QDFA......
+GLGB_CHLCV  HGKGSLLQKI PGDTWTKFAH MRLLLSYQIC QPGKKLVFMG GEFA......
+GLGB_CHLPN  HGKGSLVNKL PGDTWTRFAQ MRVLLSYQIC LPGKKLLFMG GEFG......
+GLGB_CHLMU  HGKRSLIGKM PGDAWRQFAQ LRLLLGYQIC QPGKKLLFMG GEFG......
+GLB1_CLOPE  HGKKSLIDKM QGDYWNKLAN LRAYMAYMYG HPGKKLMFMG CEFG......
+GLB2_CLOPE  HGKKSLINKM WGDDWKKYAG LRVYASFMMG HPGKKLMFMG CEFG......
+GLGB_LACPL  HGKKSLMHKM SGDRYNQFAN LRTMLTYMAA FPGKQLNFMG SEWG......
+GLGB_STRMU  HGKKSLMHKM WGDRYNQFAG LRNLYTYQIC HPGKKLLFMG SEFG......
+GLGB_STRPN  HGKKSMMHKM WGDRYNQFAG LRNLYTYQIC HPGKKLLFMG SEYG......
+GLGB_STRA3  HGKKSMMHKM WGDRYNQFAG LRNLYAYQMC HPGKKLLFMG SEFG......
+GLGB_BACST  HGKKSLLSKM PGTYEEKFAQ LRLLYGYLLT HPGKKLLFMG GEFG......
+GLGB_BACCL  HGKKSLLNKM PGSYEEKFAQ LRLLYGYMMA HPGKKLLFMG SEFA......
+GLGB_BACAA  HGKKSLLNKM PGDYWDKFAQ LRLLYGYFFT HPGKKLLFMG GEFG......
+GLGB_BACSU  YGKKSLLNKM PGDYWQKFAQ YRLLLGYMTV HPGKKLIFMG SEFA......
+GLGB_FUSNN  HGKNSILNKM PGYYEDKLAH VKNLYSYQMA HPGKKLNFMG NEFV......
+1eh9_A      RGKGERIIKL VDRESYKI.. ...AAALYLL SPYIPMIFMG EEYG......
+1bag_       DDEES..... ..TW.MSDDD IRLGWAVIAS RSGSTPLFFS RPE..GG...
+1jdc_       PGQNGGQH.. ..HWALQDGL IRQAYAYILT SPGTPVVYWD HMYDWGYGDF
+1pam_A      HTSNG..... ......DRRK LEQALAFTLT SRGVPAIYYG SEQYMSGGND
+
+            851                                                900
+1m7x_A      ..QGREWNHD ASLDW...HL LEG...GDNW HHGVQRLVRD LNLTYRHHKA
+GLGB_RHILO  ..QRREWSEA RALDW...NL LDF.....RP HRGVWQTVRD LNYLYRSRPA
+GLGB_RHIME  ..QWREWSED RGLDW...NL LEY.....NL HEGMRRLVRD LNGTYRSKPA
+GLGB_AGRT5  ..QWSEWSEK GSLDW...NL RQY.....PM HEGMRRLVRD LNLTYRSKAA
+GLGB_AQUAE  ..QFKEWDHE TSLDW...HL L.E.Y...PS HRGIQRLVKD LNEVYRREKA
+GLGB_RHOMR  ..QHHEWNHD TQLEW...HL L.D.Q...PY HRGIQLWVCD LNHLYRTNPA
+GLGB_SYNP7  ..QWAEWNVW GDLEW...HL L.Q.Y...EP HQGLKQFVKD LNHLYRNAPA
+GLGB_ANASP  ..QWSEWNVW ADLEW...PL L.Q.F...EP HQQLKKFFTE LNKLYRSEPA
+GLGB_SYNY3  ..QWSEWNVW GDLEW...HL L.N.F...PP HQQLKQFFTE LNHLYKNEPA
+GLGB_OCEIH  ..QYAEWKDT EELDW...HL L.E.Y...PL HKGIYHYIKN LNELYQQHPE
+GLGB_NITEU  ..QGHEWRVG HELDW...YL L.E.R...DP HRGIQALTRD LNHLYLNTPA
+GLB1_XANAC  ..QPTEWNHD AGLPW...HL LDD.....PR HRGVQTLVRD LNRLYVQYPA
+GLGB_RALSO  ..QLGEWNHD AAPEW...HL LDD.....PR HRGVQRLVHD LNALYRSEPA
+GLB2_XANAC  ..QWADWNHD QSLDW...HL LDG.....AR HRGMQQLVGD LNAALRRTPA
+GLGB_PSEAE  ..QWREWNHD GELDW...YL LRY.....PE HQGVQDLVAA LNRLYRELPA
+GLGB_PSEPK  ..QWREWNHD AELDW...YL LQY.....PE HQGVQRLVGD LNRLYREEPA
+GLGB_PSESM  ..QWREWNHD EQLDW...YL MQY.....AE HVGVKKLVGD LNRIYREEKA
+GLGB_BRAJA  ..QSREWNHD QSLDW...HL LEY.....KY HSGIQALIRD LNRLYRAVPA
+GLGB_ERWCH  ..QGREWNHD TSLDW...HL LDE...PEGW HAGVQQLVRD LNHCYRQHPP
+GLGB_YERPE  ..QGREWNFE TSLDW...HL LDD...ENGW HSGVQRLVRD LNHCYRQYAP
+GLGB_HAEIN  ..QGREWNYE ESLDW...FL LDENI.GGGW HKGVLKLVKD LNQIYQKNRP
+GLGB_NEIDE  ..QGREWNYQ EGLDW...HL LDE...AGGW HKGVQDYVRD LNHIYTAHAP
+GLGB_SHEON  ..QRDEWDHD HSLDW...HL LAF.....EP HQGVQRWLRD LNQLYRQFPA
+GLGB_VIBCH  ..QTAEWDHD GQLQW...FL TQF.....ER HAGIQRLVRD LNHLYQAQTA
+GLGB_VIBPA  ..QTAEWNHD DQLQW...FL LEY.....ER HQGVQKLMRD LNHLYRNEAA
+GLGB_BUTFI  ..QEREWSEK RELDW...FL L.E.N...DL NRGMKDYVGK LLEIYRKYPA
+GLGB_MYCBO  ..QRAEWSEQ RGLDW...FQ LDE....NGF SNGIQRLVRD INDIYRCHPA
+GLGB_COREF  ..QRDEWSEA HELPW...GV VEGWQ..GEY HEGISDLVRE LNSTYKEVTA
+GLGB_CORGL  ..QREEWAEG QGLPW...DI VDGWQ..GEY HEAIRTLTRS LNGVYSDSPA
+GLGB_STRAU  ..QGSEWSET YGPDW...WV LDSSYPAAGD HLGVRSLVRD LNRTYTASPA
+GLGB_STRAW  ..QGAEWSET HGPDW...WL LDPAYGAEPD HRGMRDLVRD LNTVYRHEPA
+GLB1_STRCO  ..QGAEWSEA HGPDW...WL LDPEYGASAD HRGVRDLVRD LNTVYRATPA
+GLB2_STRCO  ..QGAEWSEK QGPEW...WL LDEGYHSAGD HRGVQDLVRE LNTRYTRTPA
+GLGB_BIFLO  ..QWGEWDHD ASIDW...DC LNW.....QE HRQVQTMVAD LNAFYKAHPA
+GLGB_DEIRA  ..QGSEWNHD APLPW...FH A.D.Q...PD HRGVMNLVRR LNELYRERPD
+GLGB_CHLCV  ..QWKEWSPD NSLDW...HL L.D.N...PY HASLHKCVAK MNALYCELPY
+GLGB_CHLPN  ..QYGEWSPD RPLDW...EL L.N.H...HY HKTLRNCVSA LNALYIHQPY
+GLGB_CHLMU  ..QGREWSPN RELDW...DL L.D.I...HY HQGVHLCSQK LNSLYVNSPQ
+GLB1_CLOPE  ..QFIEWREY EELEW...KL IDK.F...DM HRKTHNFFKD LNNFYKNNSE
+GLB2_CLOPE  ..QFVEWREW EELQW...NV IEE.F...DI HRKTKEYFKA LNKFYLENSS
+GLGB_LACPL  ..QFLEWRDW SALEW...VD LKD.....DL NHRMQQFTTQ LNAVYRHNRP
+GLGB_STRMU  ..QFLEWKYD HALEW...TN LEEED...GL NLKMQDFTSQ LNQFYKDHKV
+GLGB_STRPN  ..QFLEWKSE EQLEW...SN LED.....PM NAKMKYFASQ LNQFYKDHRC
+GLGB_STRA3  ..QFLEWKYN DQLEW...EN LND.....DM NQKMQRYTKQ LNQFYKDHKC
+GLGB_BACST  ..QFDEWKDL EQLDW...ML F.D.F...DM HRNMNMYVKE LLKCYKRYKP
+GLGB_BACCL  ..QFDEWKFA EELDW...VL F.D.F...EL HRKMDEYVKQ LIACYKRYKP
+GLGB_BACAA  ..QFDEWKDL EDLDW...NL H.D.F...EM HRYMHDYFKE LIALYKRSKP
+GLGB_BACSU  ..QFDEWKDT EQLDW...FL D.S.F...PM HQKASVFTQD LLRFYQKSKI
+GLGB_FUSNN  ..QGLEWRYY EQLEW...QL LKD.N...KG SQDIQKYVKA LNKLYLEEEA
+1eh9_A      ..EENPFYFF SDFSD...S. ........KL IQGVREGRKK ENGQ..DTDP
+1bag_       .GNGVRFPGK SQIGDRGSAL FED....... ..QAITAVNR FHNVMAGQPE
+1jdc_       IRQLIQVR.. .....RAAGV RAD....... ..SAISFHSG Y....SGLVA
+1pam_A      PDNRARLPSF STTTT..... .......... ...AYQVIQK LAPLRKSNPA
+
+            901                                                950
+1m7x_A      MHELDFDPYG FEWLVVDDKE RSVLIFVRRD KE.G.NEIIV AS..NFTP..
+GLGB_RHILO  LHGRDCEPEG FSWLIVDDSQ NSVFAWVRNA PG.G.SPVAV IS..NFTP..
+GLGB_RHIME  LHARDCEGDG FEWLIADDRE NSVFAWLRKA PG.E.KLVAV VT..NFTP..
+GLGB_AGRT5  LHARDCEPDG FRWLVVDDHE NSVFAWLRTA PG.E.KPVAV IC..NLTP..
+GLGB_AQUAE  LHETDFSPEG FEWVDFHDWE KSVISFLRKD KS.GKEIILV VC..NFTP..
+GLGB_RHOMR  LWH..DGPEG FEWIDFSDRD QSVICYLRKN A...GRMLLF VL..NFTP..
+GLGB_SYNP7  LYSEDCNQAG FEWIDCSDNR HSIVSFIRRA HE.SDRFLVV VC..NFTP..
+GLGB_ANASP  LYTLDFAREG FDWIDCSDNR HSVVSFIRRE KD.TENFVVV IC..NFTP..
+GLGB_SYNY3  LYSNDFDESG FQWIDCSDNR HSVVSFIRRA KN.SAEFVVT IC..NFTP..
+GLGB_OCEIH  LYELDHLSEG FEWIDPHNID QSVIAFRRKA NK.PNQELII IC..NFTP..
+GLGB_NITEU  LHELDFFAEG FSWIDCHDVE QSVISYQRHA RD..GSFVLV VL..NFTP..
+GLB1_XANAC  LHAHDDDPSG FAWVVGDDAG NSVVAFLRKG KR.GDAPVLV VI..NFTP..
+GLGB_RALSO  LHARDCAPEG FSWVIGDDRA NSVFAYLRLD TA.G.TPMLI VA..NMTP..
+GLB2_XANAC  LYRGTHRAEG FDWSVADDAR NSVLAFVRHD PD.GGAPLLA VS..NLTP..
+GLGB_PSEAE  LHARDGEALG FEWLIGDDQA NSVYAWLRHA AG.E.PSLLA VH..NFTP..
+GLGB_PSEPK  LHEQDCQPQG FQWLIGDDAQ NSVYAWLRWS SS.G.EPVLV VA..NFTP..
+GLGB_PSESM  LHQRDADPTG FQWLIGDDKS NSVFAYLRWS ND.G.EPLLV VA..NMTP..
+GLGB_BRAJA  LHQMDCDQAG FEWLITDDAN RNVFAWLRKG LD.EHARCLV IV..NFSP..
+GLGB_ERWCH  LYQCDYLHQG FEWVVVDDRE NSVFAFIRRD AD.G.NEMLI IS..NFTP..
+GLGB_YERPE  LYEWDYQPAG FEWLVVDDHE NSVFAFLRRD AE.G.HELIA IS..NFTP..
+GLGB_HAEIN  LFELDNSPEG FDWLVVDDAA NSVLAFERRS SN.G.ERIIV VS..NFTP..
+GLGB_NEIDE  LYQLDQQPEG FEWLVADDSD NSVFVFERRD RA.G.NRIIV IS..NFTP..
+GLGB_SHEON  LSVLDYEPQG FRWLDCDNGR DSIFSFVRYG EG.NDVPLVF VV..NMTP..
+GLGB_VIBCH  LHQLDCDPRG FEWRLQDNAD LSVIAHERMD EA.G.NRVLV IT..NFTP..
+GLGB_VIBPA  MHDQDCVPAG FEWRLQDEAD ASILAHERIS KE.G.ERILI IT..NFTP..
+GLGB_BUTFI  LYEVDNDWGG FEWINADDKE RSTYSFYRRA SN.GKDNILF VL..NMTP..
+GLGB_MYCBO  LWSLDTTPEG YSWIDANDSA NNVLSFMRYG SD.G.SVLAC VF..NFAG..
+GLGB_COREF  LHQRDFSGEG FTWNKADDAS NNILVFTRHG DD.G.SQALC VF..NLSG..
+GLGB_CORGL  LHTQDFTGEG FTWNKGDDAT NNILAFTRFG SD.G.SQMLC VF..NLSG..
+GLGB_STRAU  LWERDSVPEG FAWVEADAAD DNVFAFLRFA RD.G.SPLLC VS..NFSP..
+GLGB_STRAW  LWERDTDPSG FAWVTGDAVE DNVFAFLRHA AD.G.TPLLA VS..NFSP..
+GLB1_STRCO  LWRRDTHPSG FSWVVGDAAE DNVLAFLRLD AD.G.TPLLA VS..NFAP..
+GLB2_STRCO  LWQRDTDPAG FRWVSVDAAE DNVFAFLRYG TD.G.TPLLA VS..NFSP..
+GLGB_BIFLO  LWSQDFDPAG FQWLTSDDAD HNTLSFLRIG TK.G.ETLAV VV..NFSG..
+GLGB_DEIRA  WHTGDAREEG MAWISADDTD NSVYAYARRD TY.SGAWSLV IA..NLTP..
+GLGB_CHLCV  FWKGDHKQES FLWVDFKDTK NNVISYYRFS GEDRSSALLC IH..HFSS..
+GLGB_CHLPN  LWMQESSQEC FHWVDFHDIE NNVIAYYRFA GSNRSSALLC VH..HFSA..
+GLGB_CHLMU  LWKGDHLPQS FRWIDFSDTR NGVVAYLRFA SDEDKEALLC VH..HFGV..
+GLB1_CLOPE  LWELDYDQDG FQWIDADNNE QSIYIFIRKS KN.IEKYKIF VC..NFTP..
+GLB2_CLOPE  LWSLDYEEEG FKWIDADNSE ESVLSFIRIG KN.KKEKLIF IC..NFTP..
+GLGB_LACPL  LWEQDHDPAG IIYTHTDDPD SSTMGFIRQA KR.KYSFVVA AF..NFVP..
+GLGB_STRMU  LWQLDTSYDG LEIIDADNVD ESVLSFIRKN EK..GDLLVC VF..NMVP..
+GLGB_STRPN  LWEIDTSYDG IEIIDADNRD QSVLSFIRKG KK..GEMLVC IF..NMVP..
+GLGB_STRA3  LWRIDDSFDG IEIIDADNKS ETVLSFIRKD DK..GDLLLC VF..NMTP..
+GLGB_BACST  LYELDHSPDG FEWIDVHNAE QSIFSFIRRG KK.EDDLLIV VC..NFTN..
+GLGB_BACCL  FYELDHDPRG FEWIDVHNAE QSIFSFIRRG KK.EGDVLVI VC..NFTN..
+GLGB_BACAA  LWQLDHSREG FQWIDANNNE QSIFSFIRQG DK.QEDALVV VC..NFTK..
+GLGB_BACSU  LYEHDHRAQS FEWIDVHNDE QSIFSFIRYG QK.HGEALVI IC..NFTP..
+GLGB_FUSNN  LWY..DGQDG FEWIEHENIN ENMLIFLRKT PN.MEDFIIA VF..NFSG..
+1eh9_A      QDESTFNASK LSWKI....D EEIFSFYKIL IK.MRKELSI AC..DRRVNV
+1bag_       ELS....... ..NP.....N GNNQIFMNQR GS...HGVVL A...NAGS.S
+1jdc_       TVSG...... .......... .......... SQ...QTLVV ALNSDLGN.P
+1pam_A      IAYG...STH ERWI.....N NDVIIYERKF GN...NVAVV AINRNMNT.P
+
+            951                                               1000
+1m7x_A      VPRHDYRFGI NQ.P...GKW REILNTDSMH YHGSNAGNGG TVHSD.E...
+GLGB_RHILO  VPRDNYRVPL PK.A...GKW REIINTDASE YGGSGMGNGG MVEAR.A...
+GLGB_RHIME  VYREHYDIPL PV.A...GRW KEVLNTDAEI YGGSGKGNGG AVHAE.K...
+GLGB_AGRT5  VYRENYYVPL PV.A...GRW REILNTDAEI YGGSGKGNGG RVQAV.D...
+GLGB_AQUAE  VPRYDYRVGV PK.G...GYW REIMNTDAKE YWGSGMGNLG GKEAD.K...
+GLGB_RHOMR  VPREHYRVGV PI.G...GPW HEVLNSDAVA YGGSGMGNFG RVEAV.P...
+GLGB_SYNP7  QPHAHYRIGV PV.A...GFY REIFNSDARS YGGSNMGNLG GKWTD.E...
+GLGB_ANASP  QPHSHYRIGV PE.K...GFY TELFNSDARQ YGGSNMGNLG GKWTD.D...
+GLGB_SYNY3  QPHSHYRVGV PV.P...GFY TELFNSDARQ YGGSNMGNLG GKWTE.E...
+GLGB_OCEIH  QVHFDYKIGV PE.S...GRY KEIFNSDSVR FGGSGQINEG EHFSF.P...
+GLGB_NITEU  ILRTGYRVGI PG.S...SAY QEVFNSDSIY YDGSNAGNAG KISPT.G...
+GLB1_XANAC  VVQHAYRIGV PQ.G...GQW REVFNSDAGI YGGSNLGNGG SVTAE.Q...
+GLGB_RALSO  VPRDGYRIGV PD.VDGAVRW REMLNTDSAV YGGTNLGNGG VVDVE.D...
+GLB2_XANAC  QPHHDYHVGV PR.A...GLW REILNTDSAH YGGSNLGNSG RLATE.P...
+GLGB_PSEAE  VPRQGYRIGV PQ.G...GDW DVLLNSDAQA FAGSGAGSQG RVSSE.S...
+GLGB_PSEPK  VPREGYRIGV PF.G...ERW QELLNSDAEL YAGSNVGNLG AVASD.E...
+GLGB_PSESM  VPREGYRVGV PL.Q...GAW TELLNSDAET YAGSNIGNGG EVISE.D...
+GLGB_BRAJA  NVYRNYRVRV PF.A...GKW KEVLNSDSAH YGGSNVGNIG EVHA......
+GLGB_ERWCH  VPRDSYRVGI NQ.P...GAW REVLNTDSWH YHGGNLGNQG LVYSE.T...
+GLGB_YERPE  VPRYHYRVGI PQ.G...GHY REVLNSDSAF YCGSNLGNQG GIDSH.H...
+GLGB_HAEIN  VPRHNYRIGV NV.A...GKY EEILNTDSMY YEGSNVGNFG CVASE.Q...
+GLGB_NEIDE  VVREHYRFGV NA.P...GRY TEILNSDRTQ YQGSGIANGA DITAE.N...
+GLGB_SHEON  TVHQGFRIGL PQ.G...GDF CEYLNSDSYL YGGSNQGNGG KIIAQ.A...
+GLGB_VIBCH  VPQQEFRLGV PK.T...GKY RLLLNTDAKQ YNGSDYPVLQ DVSTE.A...
+GLGB_VIBPA  VPHERFRLGV PN.V...GQY ELLLNTDDSK YGGSDFKVLT SVKTE.K...
+GLGB_BUTFI  MERKGFKVGV PF.D...GTY TKILDSAKEC YGGSGSSVPD KIKAV.K...
+GLGB_MYCBO  AEHRDYRLGL PR.A...GRW REVLNTDATI YHGSGIGNLG GVDAT.D...
+GLGB_COREF  TSQPEYQIGV SG.G...GSW RLVLNTDDEQ YHGANNPLPE TIEAE.K...
+GLGB_CORGL  TSQPEYQLGV AA.G...GEW KLVLNTDDAE FLGAENDIAT SVQAA.A...
+GLGB_STRAU  VVRHGYRIGV PQEV...GQW REVLNTDLEP YGGSGVHHAR ALRPE.P...
+GLGB_STRAW  VVRHDYRLGV PDDI...PAW HETLNTDGAR YGGSDVTNPH PVKPE.P...
+GLB1_STRCO  VVRSGYRLGV PDEV...PAW HEVLNTDAAR YGGGDVVNPD PVKPE.P...
+GLB2_STRCO  VVRHEYGLAV GDEA...VAW QEVLNTDAEE YGGGGVGNPD PVKPE.D...
+GLGB_BIFLO  EAWSDYQVAL PT.G...GKW TEVFTTDDAK YGGSDIHNGT .FEAV.E...
+GLGB_DEIRA  VYREDYVIGV PQ.G...GEY RVLLSTDDGE FGGFGTQQPD .LSAR.D...
+GLGB_CHLCV  EYFPSYVLHC QG.I...KTC ELLFNSDDIS FGGSGKGNRL PIL.......
+GLGB_CHLPN  STFPSYVLRC EG.V...KHC ELLLNTDDES FGGSGKGNRA PVV.......
+GLGB_CHLMU  NHFLHYILPM LP.M...KSC SLLMNTDDLA FGGSGKGFRN PKMLTPEMVR
+GLB1_CLOPE  MVYYDFNIGV PE.K...GVY REIFNTDKEE YGGSGQVIKG NLFSRK....
+GLB2_CLOPE  EVYYDFKVGV PE.L...GEY VEAFNSDALE FGGAGNIVGD SILKATE...
+GLGB_LACPL  VERQDYRIGV PY.R...GRY ELLLNTEAQA FGGTWTKLET TFTAV.D...
+GLGB_STRMU  VERKGFTIGV PV.A...GIY EEVWNTELEE FGGVWKEHNM TVKTQ.K...
+GLGB_STRPN  VERKDFTIGL PV.A...GIY EEVWNTELEE WGGVWKEHNQ TVQTQ.E...
+GLGB_STRA3  VERPNFTIGV PQ.A...GIY EEVLNTEMEE FGGVWKNHNP VTKTQ.V...
+GLGB_BACST  KVYHGYKVGV PL.F...TRY REVINSDAIQ FGGFGNINPK PIAAM.E...
+GLGB_BACCL  QAYDDYKVSV PL.L...APY REVLNSDAAE FGGSGHVNGK RLPAF.S...
+GLGB_BACAA  ATYENYKVGV PD.F...EYY NEVLNSDAEQ YGGSGQVNKK RLKTF.Q...
+GLGB_BACSU  VVYHQYDVGV PF.F...TQY IEVLNSDSET YGGSGQINKK PLSAK.K...
+GLGB_FUSNN  KDHEIYPLGV PLED...GEY EVILDSNEKK FGGSYQGRKR KYKSI.K...
+1eh9_A      VNGENWLIIK GREY..FSLY VFSKSSIEVK YSGTLLLSSN NSFPQ.H...
+1bag_       SVSINTATKL PD.....GRY DNKAGAGSFQ ......VNDG KLTGT.....
+1jdc_       GQ.......V AS.....GSF SEAVNAS... .......... ..........
+1pam_A      ASITGLVTSL PR.....GSY NDVLGGILN. ......G.NT LTVGA.....
+
+            1001                                              1050
+1m7x_A      .......... .IASHGRQHS LSLTLPPLAT IWLVREAE~~ ~~~~~~~~~~
+GLGB_RHILO  .......... ....EGKNIS ATMLLPPLST IMLELVAD~~ ~~~~~~~~~~
+GLGB_RHIME  .......... .R..ANGETI ATITLPPLAT LMLEQD~~~~ ~~~~~~~~~~
+GLGB_AGRT5  .......... ....AGGEIG AMLVLPPLAT IMLEPEN~~~ ~~~~~~~~~~
+GLGB_AQUAE  .......... .IPWHGRKFS LSLTLPPLSV IYLKHEG~~~ ~~~~~~~~~~
+GLGB_RHOMR  .......... .ESWHGRPFH LELTLPPLAA LILEPEHG~~ ~~~~~~~~~~
+GLGB_SYNP7  .......... .WSCHNRPYS LDLCLPPLTT LVLELASGPE SLSE..AANS
+GLGB_ANASP  .......... .WSMHNRPYS LDLCLPPLGV LILKMDKEKT AKAL..GS~~
+GLGB_SYNY3  .......... .WSFHEQPYS LDLCLPPLSV LVLKLSQNAE ENTV..PAEE
+GLGB_OCEIH  .......... .EKWHGLSQH IKIKVPPLAI SVFQIEVERE RLPR..E~~~
+GLGB_NITEU  .......... .QPWSGQPDS IIITLPPLAG VILKAADG~~ ~~~~~~~~~~
+GLB1_XANAC  .......... .QSMHGHAQS LPLLLPPLGA IVLTPYG~~~ ~~~~~~~~~~
+GLGB_RALSO  .......... .VESHGWRRS VVVRLPPLAV VVLKV~~~~~ ~~~~~~~~~~
+GLB2_XANAC  .......... .VGMHGHAQR LRLTLPPLAT IYLQAEK~~~ ~~~~~~~~~~
+GLGB_PSEAE  .......... .CGAHGQAQS LVLDLPPLGT LLLRPAG~~~ ~~~~~~~~~~
+GLGB_PSEPK  .......... .VASHGQPLS LALNLPPLGV LIMKPA~~~~ ~~~~~~~~~~
+GLGB_PSESM  .......... .EPVHGMSAS LTLNLPPLAV LIFKPKKG~~ ~~~~~~~~~~
+GLGB_BRAJA  .......... ...VDGKTPE LRLTIPPLAA IFLVPES~~~ ~~~~~~~~~~
+GLGB_ERWCH  .......... .VGSHSRPQS LVLALPPLAT LYLVKEA~~~ ~~~~~~~~~~
+GLGB_YERPE  .......... .VRSHNHEHS LLLTLPPLAT IYLLREN~~~ ~~~~~~~~~~
+GLGB_HAEIN  .......... .IESHGRENS ISVSIPPLAT VYLRLKTK~~ ~~~~~~~~~~
+GLGB_NEIDE  .......... .VPSHGKAQS LSLTLPPLAT VYLYQKAAPA TEIQTALRAD
+GLGB_SHEON  .......... .LPWQGMASS ALITVPPLGC LILGPATENI LRESAL~~~~
+GLGB_VIBCH  .......... .ISSEGLDQS LLLSVPPLAT LFYQWSAK~~ ~~~~~~~~~~
+GLGB_VIBPA  .......... .VESESLPQS LELRLPPLST VFYKLHK~~~ ~~~~~~~~~~
+GLGB_BUTFI  .......... .GLCDYKDYS IEFDLPPYGA EVFVFQTKKT KN~~~~~~~~
+GLGB_MYCBO  .......... .DPWHGRPAS AVLVLPPTSA LWLTPA~~~~ ~~~~~~~~~~
+GLGB_COREF  .......... .IDRDGFPYT TTLHSPAMSA QFYVWEG~~~ ~~~~~~~~~~
+GLGB_CORGL  .......... .TPRDNFAYS LSLHVPAMSA QFYSLQK~~~ ~~~~~~~~~~
+GLGB_STRAU  .......... .VPAQGRAVS LRMTLPPMAT VWLRP~~~~~ ~~~~~~~~~~
+GLGB_STRAW  .......... .QGRHGRPAS IRLTLPPLST LWLRPA~~~~ ~~~~~~~~~~
+GLB1_STRCO  .......... .QGGTAARRA SG~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_STRCO  .......... ........GS IRITLPPLAT VWLMPYAL~~ ~~~~~~~~~~
+GLGB_BIFLO  .......... .GEYHSRPFS AKITVPALGV VFLKPED~~~ ~~~~~~~~~~
+GLGB_DEIRA  .......... .EAAHGQAHA LHLNLPPSSV LVLEPVAAAP VKGL..VSRQ
+GLGB_CHLCV  .......... .CVDHNIPWG IAIELPPLAT LIFQVSF~~~ ~~~~~~~~~~
+GLGB_CHLPN  .......... .CQDQGVAWG LDIELPPLAT VIYLVTFF~~ ~~~~~~~~~~
+GLGB_CHLMU  KEKTSSELAP LDDDGSVAWG LDIEMPPSAT LIFSVTLQ~~ ~~~~~~~~~~
+GLB1_CLOPE  .......... .GWCHNQQYT LTIKVPPMAV SVFERIIEEN KTEEKIVKED
+GLB2_CLOPE  .......... .ESFKDFDYS ISVKVPPLGT LVLKVK~~~~ ~~~~~~~~~~
+GLGB_LACPL  .......... .KPYRGQPAS FTVTLPAMGA LLIRPVKVIG GVKHAR~~~~
+GLGB_STRMU  .......... .NLWKEYENT LSFTLPALGA SIWKIKRRLR K~~~~~~~~~
+GLGB_STRPN  .......... .GLWKDYEQT LTFTLPAMGA SVWKIKRRLK STKTVTNKNQ
+GLGB_STRA3  .......... .ATWKDYDHT LSFTLPALGA SVWRIKRRLR K~~~~~~~~~
+GLGB_BACST  .......... .GPFHGKPYH IQMTIPPFGI SILRPVKKGS VKSF..MKT.
+GLGB_BACCL  .......... .EPFHGKPYH VRMTIPPFGI SILRPVQKRG ERKQ..NEEE
+GLGB_BACAA  .......... .EPYHNQTAH VEITIPPFGV SILRPVKTRK GSKK..QDGS
+GLGB_BACSU  .......... .GALHHKPCY ITMTIPPYGI SILRAVKKRG EIKR~~~~~~
+GLGB_FUSNN  .......... .KSWNYREQY IEIKIAKNSA VFLKYKK~~~ ~~~~~~~~~~
+1eh9_A      .......... .IEEGKYEFD KGFAL..... ..YK~~~~~~ ~~~~~~~~~~
+1bag_       .......... ......INAR SVAVLYPD~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       .......... .......... ......NGQV RVWRS~~~~~ ~~~~~~~~~~
+1pam_A      .......... ......GGAA SNFTLAPGGT AVWQYTTDAT TPII..GNVG
+
+            1051                                              1100
+1m7x_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHILO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHOMR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNP7  PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_ANASP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNY3  ASNI....A~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NITEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEPK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSESM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_ERWCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NEIDE  KQP....... AVKDKQ...A KA........ ......K~~~ ~~~~~~~~~~
+GLGB_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BUTFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_MYCBO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_COREF  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRAU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRAW  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BIFLO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_DEIRA  ELTP....EL REVARQ..SA QAV.Q....V ERAADPRPNE .QQRLVAETP
+GLGB_CHLCV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_CLOPE  KYI~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRPN  KGVE....N. .........E K~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRA3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACST  P.......HP PSHGAS~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACCL  V.......HR HVIGRR..AR K........P ASLADEKHRE TSRAVWGEVP
+GLGB_BACAA  KTKV....RS NVTSRG..KR ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_FUSNN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1eh9_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      PMMAKPGVTI TIDGRGFGSG KGTVYFGTTA VTGADIVAWE .DTQIQVKIP
+
+            1101                                              1150
+1m7x_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHILO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHOMR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_ANASP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NITEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEPK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSESM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_ERWCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NEIDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BUTFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_MYCBO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_COREF  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRAU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRAW  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BIFLO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_DEIRA  AHEGGRSAPA DA..AESAEQ K.PDDEQKGG KKA~~~~~~~ ~~~~~~~~~~
+GLGB_CHLCV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRA3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACCL  DH~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_FUSNN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1eh9_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      AVPGGIYDIR VANAAGAASN IYDNFEVLTG DQVTVRFVIN NATTALGQNV
+
+            1151                                              1200
+1m7x_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHILO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RHOMR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_ANASP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NITEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSEPK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_PSESM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_ERWCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_NEIDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_VIBPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BUTFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_MYCBO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_COREF  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRAU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRAW  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BIFLO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLCV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB1_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLB2_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_STRA3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACCL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GLGB_FUSNN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1eh9_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pam_A      FLTGNVSELG NWDPNNAIGP MYNQVVYQYP TWYYDVSVPA GQTIEFKFLK
+
+            1201                           1232
+1m7x_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_RHILO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_RHIME  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_AGRT5  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_AQUAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_RHOMR  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_ANASP  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_SYNY3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_OCEIH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_NITEU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLB1_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_RALSO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLB2_XANAC  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_PSEAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_PSEPK  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_PSESM  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_BRAJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_ERWCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_YERPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_HAEIN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_NEIDE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_SHEON  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_VIBCH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_VIBPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_BUTFI  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_MYCBO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_COREF  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_CORGL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_STRAU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_STRAW  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLB1_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLB2_STRCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_BIFLO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_DEIRA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_CHLCV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_CHLPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_CHLMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLB1_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLB2_CLOPE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_LACPL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_STRMU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_STRPN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_STRA3  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_BACST  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_BACCL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_BACAA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_BACSU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+GLGB_FUSNN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+1eh9_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+1bag_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+1jdc_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~
+1pam_A      KQGSTVTWEG GANRTFTTPT SGTATVNVNW QP

@@ -1,0 +1,52 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 267  Type: P  December 21, 2021 20:29  Check: 7732  ..
+
+ Name: 1hav_A  Len:    267  Check: 4407  Weight: -1.00
+ Name: 1agj_A  Len:    267  Check: 3485  Weight: -1.00
+ Name: 5ptp_   Len:    267  Check: 1313  Weight: -1.00
+ Name: 2sga_   Len:    267  Check: 7507  Weight: -1.00
+ Name: 1svp_A  Len:    267  Check: 1020  Weight: -1.00
+
+//
+
+        1                                                   50
+1hav_A  RKNLVQFGVG EKNGSVRWVM NALGVKDDWL LVPSHAYKFE KDYEMME.FY
+1agj_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_   ~~~~VPYQVS LNSG..YHFC GGSLINSQWV VSAAHCYKSG IQVLGEDNIN
+2sga_   ~~~~~~~~~~ ~~~~~~~~IA GGEAITT... .......... ..........
+1svp_A  LEADRLFDVK NED....... .......... .......... ..........
+
+        51                                                 100
+1hav_A  FNRGGTYYSI SAGNVVIQSL DVG..FQDVV LMKVPTIPKF RDIT......
+1agj_A  YNTIGNVFVK G......QTS ATGVLIGKNT VLTNRHIAKF ANGDPSK...
+5ptp_   VVEGNEQFIS ASKSIVHPSY NSNTLNNDIM LIKLKSAASL NSRVASISLP
+2sga_   ...GG..... .......... .......... .....SRCSL G.....FNVV
+1svp_A  .......... ..GDVIGHAL A....MEGKV M......... ..........
+
+        101                                                150
+1hav_A  QHFIKKGDVP RA.LNRLATL VTTVNGTPM. .....LISEG PLK..MEEK.
+1agj_A  .......VSF RPSINTDDNG ...NTETPYG EYEVKEILQE PFGAGVDLAL
+5ptp_   TSCASAGTQC ..LISGW..G NTKSSGTSY. .PDVLKCLKA PIL..SDS..
+2sga_   AHALTAGHCT ..NISAW..S IGTRTGTSF. .NNDYGIIRH SNPAAADGRV
+1svp_A  KPLHVKGTID HPVLSKLK.. FTKSSAYDM. .....EFAQL PVN..MRSEA
+
+        151                                                200
+1hav_A  ATYVHKKN.. .......... .......... DGTTVDLT.. ..........
+1agj_A  IRLKPDQN.. GVSLGDKISP AKIGTSNDLK DGDKLELIGY PFDHKVNQMH
+5ptp_   .......SCK SAYPGQ.... .......... .......... ..........
+2sga_   YLYQDITTAG NAFVGQA..V QRSGSTTGLR SGSVTGLN.. ..........
+1svp_A  FTYTSEHP.. .......... .......... EGFYNWHH.. ..........
+
+        201                                                250
+1hav_A  ...VD..QAW RGK......G EGLPGMCGGA LVSSNQSIQN AILG..IHVA
+1agj_A  RSEIELTTLS RGLRY...YG FTVPGNSGSG IFNSNGELVG IHSSKVSHLD
+5ptp_   .......ITS NMFCAGLEGG DSCQGDXGGP VVCSGKLQGI VSWGSGCAKN
+2sga_   ...ATVNYGS SGIVYGMIQT NVCAGDSGGS LFAGSTALGL TSGGSGNCRT
+1svp_A  ...GA..VQY SGGRFTIPRG VGGRGDAGRP IMDNSGRVVA IVLG..GADE
+
+        251            267
+1hav_A  GGNSI.LVAK LVTQE~~
+1agj_A  REHQINYGVG IGNY~~~
+5ptp_   .K.PG.VYTK VCNY~~~
+2sga_   GG.TT.FYQP VT~~~~~
+1svp_A  GTRTA.LS.. VVTWNSK

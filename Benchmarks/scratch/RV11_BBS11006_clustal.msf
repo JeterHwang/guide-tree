@@ -1,0 +1,93 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 397  Type: P  December 21, 2021 20:30  Check: 2440  ..
+
+ Name: 1bbt_ac  Len:    397  Check:  283  Weight: -1.00
+ Name: 1al2_ad  Len:    397  Check: 8182  Weight: -1.00
+ Name: 1b35_C   Len:    397  Check: 3683  Weight: -1.00
+ Name: 1bbt_ab  Len:    397  Check: 1913  Weight: -1.00
+ Name: 1mec_aa  Len:    397  Check: 6622  Weight: -1.00
+ Name: 1bbt_aa  Len:    397  Check: 1979  Weight: -1.00
+ Name: 1al2_ab  Len:    397  Check: 6770  Weight: -1.00
+ Name: 1al2_ac  Len:    397  Check: 3008  Weight: -1.00
+
+//
+
+         1                                                   50
+1bbt_ac  ~~~~~~~~~~ ~~~~YGKVFN PP........ ..RNQLPGRF TNL.......
+1al2_ad  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~NM.......
+1b35_C   ~~~~~~~~~~ ~~~~SSTNEI ET........ ..NEGLAGTS LDV.......
+1bbt_ab  ~~~~YGYATA EDFVSGPNTS .......... .......... .........G
+1mec_aa  ~~~~~~TDAT ADFVAQPVYL PENQTKVAFF YDRSSPIGRF AVKSGSLESG
+1bbt_aa  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1al2_ab  ~~~~~~~~~~ ~~~~~~~~~~ PSDTVQTRHV .......... VQHRSRSESS
+1al2_ac  RWPEYLRDSE ANPVDQPT.. .......... .......... ..........
+
+         51                                                 100
+1bbt_ac  ...LDVAEAC PTFLRFEGGV P.......Y. ..VTT..KTD ..........
+1al2_ad  ...MELAEID .TMIPFDLSA TKKNTMEMYR VRLSD..KPH ..........
+1b35_C   ...MDLSRVL S........I P......NYW DRFTW..KTS DVINTVLWDN
+1bbt_ab  LETRVV.QAE RF.FK..... .........T HLFDW...VT SDSFGRCH..
+1mec_aa  FA.PFSNKAC PNSVILTPGP Q.......FD PAYDQ...LR PQRLTEIWGN
+1bbt_aa  ~~~~~~~~~~ ~~~~~~~~~~ ~VTTTVENYG GETQIQRRQH TDV.SFIMDR
+1al2_ab  IESFFARGAC VTIMTV.DNP .......... ..AST...TN KDKLFAVWKI
+1al2_ac  ..EPDV.AAC RF.YT..... .........L DTVSW...TK ESR.GWWW..
+
+         101                                                150
+1bbt_ac  ......SDRV LAQFDMSLAA KHMSNTFLAG LAQ.YYTQYS GTINLHFMFT
+1al2_ad  T.....DDPI LCLSLSPASD PRLSHTMLGE ILN.YYTHWA GSLKFTFLFC
+1b35_C   Y.....VSPF KVKPYSATIT DRFRCTHMGK VAN.AFTYWR GSMVYTFKFV
+1bbt_ab  .......... .LLELPT... ...DHKGVYG SLTDSYAYMR NGWDVEVTAV
+1mec_aa  GNEETS.... EV..FPL... .KTKQDYSFC LFS.PFVYYK CDLEVTLSPH
+1bbt_aa  FVKVTPQNQI NI....LDLM QVPSHTLVGG LLR.ASTYYF SDLEIAVKHE
+1al2_ab  TYKDTV.... QL........ .R..RKLEF. .....FTYSR FDMELTFVVT
+1al2_ac  .......... .KLPDAL... ...RDMGLFG QNMYYHYLGR SGYTVHVQCN
+
+         151                                                200
+1bbt_ac  GPTD...... .AKARYMVAY APPGMEPPKT PE........ ..........
+1al2_ad  GSMM...... .ATGKLLVSY APPGADPPKK RK........ ..........
+1b35_C   KTQY...... .HSGRLRISF IPYYYNTTIS TG........ ..........
+1bbt_ab  GNQF...... .NGGCLLVAM VPELCSIQK. .......... ..........
+1mec_aa  .....TSGAH G....LLVRW CPTGTPTKPT TQVLHEVSS. .LSEGR....
+1bbt_aa  GDL....... ........TW VPNGAPEKAL DNTT...... ..........
+1al2_ab  ANFTETNNGH ALNQVYQIMY IPPGAPVPEK W...DDYTW. ..QTSS....
+1al2_ac  ASKF...... .HQGALGVFA VPEMCLAGDS NTTTMHTSYQ NANPGEKGGT
+
+         201                                                250
+1bbt_ac  .......A.. .......... .AAH...... .......... .C........
+1al2_ad  .......E.. .......... .AML...... .......... .G........
+1b35_C   .....TPD.. .......... .VSR...... .......... .T........
+1bbt_ab  .......... .......... ........RE LYQLTLFPHQ FINPRTNMTA
+1mec_aa  .....TPQ.. .......... .VYS...... .......... .AGPGTSNQI
+1bbt_aa  .....NPT.. .......... .AYH...... .......... .KAP....LT
+1al2_ab  .....NPS.. .......... IFYT...... .......... .YGTAP...A
+1al2_ac  FTGTFTPDNN QTSPARRFCP VDYLLGNGTL LGNAFVFPHQ IINLRTNNCA
+
+         251                                                300
+1bbt_ac  ........IH AEWDTGLNSK F......... .......... ..........
+1al2_ad  ........TH VIWDIGLQSS C......... .......... ..........
+1b35_C   ........QK IVVDLRTSTA V......... .......... ..........
+1bbt_ab  HITVPFVGVN RYDQYKVHKP .......... .......... .....WTLVV
+1mec_aa  SFVVPYNSPL SVLPAVWYNG HKRFDN.... ....TGDLGI APNSDFGTLF
+1bbt_aa  RLALPYTAPH RVLATVYNGE CRTLPT.... .......... ..SFNY....
+1al2_ab  RISVPYVGI. SNAYSHFYDG FSKVPLKDQS AALGDSLYGA ASLNDFGILA
+1al2_ac  TLVLPYVNSL SIDSMVKHNN .......... .......... .....WGIAI
+
+         301                                                350
+1bbt_ac  .......... ......TFSI PYLSAADYTY TASDVAET.. .TNVQ...GW
+1al2_ad  .......... ......TMVV PWISNTTYRQ TIDDSF.... ..TEG...GY
+1b35_C   .......... ......SFTV PYIGSRPWLY CIRPESSWLS KDNTDGALMY
+1bbt_ab  MVVAPLTVNT EGAPQIKVYA NIAPTNVHVA GEFPSK.... ..........
+1mec_aa  F........A GTKPDIKFTV YLRYKNMRVF CPRPTVFF~~ ~~~~~~~~~~
+1bbt_aa  .........G AIKATRVTEL LYRMKRAETY CPRPLLAI~~ ~~~~~~~~~~
+1al2_ab  VRV..VNDHN PTKVTSKIRV YLKPKHIRVW CPRPPRAV~~ ~~~~~~~~~~
+1al2_ac  LPLAPLNFAS ESSPEIPITL TIAPMCCEFN GLRNIT.... ..........
+
+         351                                             397
+1bbt_ac  VCLFQITHG. .......... KADGDALVVL ASAGKDFELR LPVDARA
+1al2_ad  ISVFYQTRI. .....VVPLS TPREMDILGF VSACNDFSVR LLRDTTH
+1b35_C   NCVSGIVRVE VLNQLVAAQN VFSEIDVICE VNGGPDLEFA GPTCPRY
+1bbt_ab  .......... .......... .......... ........E~ ~~~~~~~
+1mec_aa  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+1bbt_aa  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+1al2_ab  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~
+1al2_ac  .......... .......... .......... ........L~ ~~~~~~~

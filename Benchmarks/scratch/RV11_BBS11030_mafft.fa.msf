@@ -1,0 +1,117 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BBS11030_mafft.fa.msf  MSF: 313  Type: N  December 21, 2021 21:48  Check: 9673  ..
+
+ Name: 2hsd_A  Len:    313  Check: 5163  Weight: 1.00
+ Name: 1e7w_A  Len:    313  Check: 7573  Weight: 1.00
+ Name: 1pwx_A  Len:    313  Check: 3421  Weight: 1.00
+ Name: 1gz6_A  Len:    313  Check:  501  Weight: 1.00
+ Name: 1eny_   Len:    313  Check: 9034  Weight: 1.00
+ Name: 1dhr_   Len:    313  Check: 6361  Weight: 1.00
+ Name: 1a4u_A  Len:    313  Check: 7816  Weight: 1.00
+ Name: 1nas_   Len:    313  Check: 9565  Weight: 1.00
+ Name: 1fds_   Len:    313  Check: 8680  Weight: 1.00
+ Name: 1n5d_A  Len:    313  Check: 9750  Weight: 1.00
+ Name: 1i24_A  Len:    313  Check: 2144  Weight: 1.00
+ Name: 1a9y_   Len:    313  Check:  917  Weight: 1.00
+ Name: 1kep_A  Len:    313  Check: 1541  Weight: 1.00
+ Name: 1rkx_A  Len:    313  Check: 7207  Weight: 1.00
+
+//
+
+2hsd_A     KTVIITG--GARGLGAEAARQAVAAGARV--VLADVLDE-----EGAATARELGD-----
+1e7w_A     PVALVTG--AAKRLGRSIAEGLHAEGYAV--CLH--------YHRSAAEANALSA-----
+1pwx_A     STAIVTN--VKHFGGMGSALRLSEAGHTV--ACHDE------SFKQKDELEAFAE-----
+1gz6_A     RVVLVTG--AGGGLGRAYALAFAERGALV--VVNDLGGDFKGVGKGSSAADKVVE-----
+1eny_      KRILVSGIITDSSIAFHIARVAQEQGAQL--VLTGF--------DRLRLIQRITD-----
+1dhr_      RRVLVYG--GRGALGSRCVQAFRARNWW--VASIDVVENE--EASASVIVKMTDSFTEQ-
+1a4u_A     KNVIFVA--ALGGIGLDTSRELVKRNLKNFVILDRV--------ENPTALAELKA-----
+1nas_      AVCVLTG--ASRGFGRALAPQLARLLSPGSVMLVSA--------RSESMLRQLKE-----
+1fds_      TVVLITG--CSSGIGLHLAVRLASDPSQSFKVYATLRDL-----K---TQGRLWE-----
+1n5d_A     RVALVTG--ANKGIGFAIVRDLCRQFAGD--VVLTARDV----ARGQAAVKQLQA-----
+1i24_A     SRVMVIG--GDGYCGWATALHLSKKNYE--VCIVDNLVRR--LFDHQLGLESLTPIASIH
+1a9y_      MRVLVTG--GSGYIGSHTCVQLLQNGHD--VIILDNLCN---------SKRSVLP-----
+1kep_A     KNIIVTG--GAGFIGSNFVHYVYNNHPDVHVTVLDKLTY---------AGNKA-------
+1rkx_A     KRVFVTG--HTGFKGGWLSLWLQTMGATVKGYSLTAPTV-----------PSLFE-----
+
+
+2hsd_A     ------A---AR--------YQHLDVTIEED-------------------WQRVVAYARE
+1e7w_A     ------T-LNAR--------RPNSAITVQADLSNVATAPVSSAPVTLFTRCAELVAACYT
+1pwx_A     ------T-------------YPQLKPMSEQE-------------------PAELIEAVTS
+1gz6_A     ------E---IR--------RRGGKAVANYDS---------------VEAGEKLVKTALD
+1eny_      ------R-LPAK--------APLLELDVQNEEH-----------------LASLAGRVTE
+1dhr_      ----------AD--------QVTAEVGKLLG-------------------DQKVDAILCV
+1a4u_A     ------I--NPK----VNITFHTYDVTVPVAE------------------SKKLLKKIFD
+1nas_      ------E-LGAQ--------QPDLKVVLAAADLGTEAG------------VQRLLSAVRE
+1fds_      ------A---ARALACPPGSLETLQLDVRDS-------------------KSVAAARERV
+1n5d_A     ------EGLSPR--------FHQLDIIDLQS-------------------IRALCDFLRK
+1i24_A     DRISRWKALTGK--------SIELYVGDICD-------------------FEFLAESFKS
+1a9y_      ----VIERLGGK--------HPTFVEGDIRN-------------------EALMTEILHD
+1kep_A     ----NLEAILGD--------RVELVVGDIAD-------------------AELVDKLAAK
+1rkx_A     ------TARVAD--------GMQSEIGDIRD-------------------QNKLLESIRE
+
+
+2hsd_A     ----EFGSVDGLVNNAGISTG--MFLETESVE-------RFRKVV---------------
+1e7w_A     ----HWGRCDVLVNNASSFYP--TPLLREAMETATADLFGSNAIA---------------
+1pwx_A     ----AYGQVDVLVSNDIFAPEF-QPIDKYAVE-------DYRGAV---------------
+1gz6_A     ----TFGRIDVVVNNAGILRD--RSFSRISDE-------DWDIIQ---------------
+1eny_      -AIGAGNKLDGVVHSIGFMPQTGMGINPFFDA----PYADVSKGI---------------
+1dhr_      ------AGG-----WAG------GNAKSKSLF-------KNCDLMWKQSIWTSTISSHLA
+1a4u_A     ----QLKTVDILINGAGILDD--HQIER---------------TI---------------
+1nas_      LPRPEGLQRLLLINNAATLGD--VSKGFLNVN----DLAEVNNYW---------------
+1fds_      ----TEGRVDVLVCNAGLGLL--GPLEALGED-------AVASVL---------------
+1n5d_A     ----EYGGLDVLVNNAAIA------FQLDNPT-------PFHIQA---------------
+1i24_A     ------FEPDSVVHFGE------QRSAPYSMI-------DRSRAVY--------------
+1a9y_      ------HAIDTVIHFAG------LKAVGESVQ-------KPLEYY---------------
+1kep_A     --------ADAIVHYAA------ESHNDNSLN-------DPSPFI---------------
+1rkx_A     ------FQPEIVFHMAA------QPLVRLSYS-------EPVETY---------------
+
+
+2hsd_A     --EINLTGVFIGMKTV----IPAMKDAG--GGSIVNISSAAGL--MGLA-----------
+1e7w_A     --PYFLIKAFAHRVAG----TPAKHRGT--NYSIINMVDAMTN--QPLL-----------
+1pwx_A     --EALQIRPFALVNAV----ASQMKKRK--SGHIIFITSATPF--GPWK-----------
+1gz6_A     --RVHLRGSFQVTRAA----WDHXKKQN--YGRIIXTASASGI--YGNF-----------
+1eny_      --HISAYSYASMAKAL----LPIMNP----GGSIVGM-DFDPS--RAMP-----------
+1dhr_      TKHLKEGGLLTLAGAK--------AALD------------------GT----P-------
+1a4u_A     --AINFTGLVNTTTAI-LDFWDKRKGGP--GGIIANICSVTGF--NAIH-----------
+1nas_      --ALNLTSMLCLTSGT----LNAFQDSPGLSKTVVNISSLCAL--QPYK-----------
+1fds_      --DVNVVGTVRMLQAF----LPDMKRRG--SGRVLVTGSVGGL--MGLP-----------
+1n5d_A     --ELTMKTNFMGTRNVCTELLPLIKPQ----GRVVNVSSTEGV--RALNECSPELQQKFK
+1i24_A     TQHNNVIGTLNVLFAI--------KEFG---EE-CHLVKLGTMGEYGT----PNID----
+1a9y_      --DNNVNGTLRLISAM--------RAAN---VKNFIFSSAATV--YGDQ---PKIP----
+1kep_A     --HTNFIGTYTLLEAA--------RKYD---IR-FHHVSTDEV--YGD------LP----
+1rkx_A     --STNVMGTVYLLEAI--------RHVG--GVKAVVNITSDKC--YDN------------
+
+
+2hsd_A     ----------------------------------LTSSYGASKWGVRGLSKLAAVELGT-
+1e7w_A     ----------------------------------GYTIYTMAKGALEGLTRSAALELAP-
+1pwx_A     ----------------------------------ELSTYTSARAGACTLANALSKELGE-
+1gz6_A     ----------------------------------GQANYSAAKLGLLGLANTLVIEGRK-
+1eny_      ----------------------------------AYNWMTVAKSALESVNRFVAREAGK-
+1dhr_      ----------------------------------GMIGYGMAKGAVHQLCQSLAGK----
+1a4u_A     ----------------------------------QVPVYSASKAAVVSFTNSLAKLAPI-
+1nas_      ----------------------------------GWGLYCAGKAARDMLYQVLAAE----
+1fds_      ----------------------------------FNDVYCASKFALEGLCESLAVLLLP-
+1n5d_A     SETITEEELVGL----MNKFVEDTKNGVHRKEGWSDSTYGVTKIGVSVLSRIYARKLREQ
+1i24_A     ----IEEGYITITHN-GRTDTLPYPKQ-------ASSFYHLSKVHDSHNIAFTCKA----
+1a9y_      ----YVESFP--------------TGT-------PQSPFGKSKLMVEQILTDLQKAQ---
+1kep_A     ----LREDLPGHGEGPGEKFTAETNYN-------PSSPYSSTKAASDLIVKAWVRS----
+1rkx_A     -----KEWIWGYREN--------EAMG-------GYDPYSNSKGCAELVTSSYRNSFFNP
+
+
+2hsd_A     ------DRIRVNS
+1e7w_A     ------LQIRVNG
+1pwx_A     ------YNIPVFA
+1gz6_A     ------NNIHCNT
+1eny_      ------YGVRSNL
+1dhr_      -NSGMPSGAAAIA
+1a4u_A     ------TGVTAYS
+1nas_      -----EPSVRVLS
+1fds_      ------FGVHLSL
+1n5d_A     ---RAGDKILLNA
+1i24_A     ------WGIRATD
+1a9y_      ----PDWSIALLR
+1kep_A     ------FGVKATI
+1rkx_A     ANYGQHGTAVATV
+
+

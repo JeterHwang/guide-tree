@@ -1,0 +1,807 @@
+#+TITLE:  Benchmark of MSA algorithms
+#+AUTHOR: Timo Lassmann
+#+EMAIL:  timo.lassmann@telethonkids.org.au
+#+DATE:   2019-09-27
+#+LATEX_CLASS: report
+#+OPTIONS:  toc:nil
+#+OPTIONS: H:4
+#+LATEX_CMD: pdflatex
+* Introduction 
+  This org mode document contains the code and scripts to generate the results presented in:
+
+
+  #+begin_quote
+  Kalign 3: multiple sequence alignment of large data sets.
+  #+end_quote
+
+* Benchmark
+** MSA programs 
+   Programs to test: 
+
+   #+NAME: Benchprograms
+   | Name         | Download                                                                     |
+   |--------------+------------------------------------------------------------------------------|
+   | Muscle       | https://www.drive5.com/muscle/downloads3.8.31/muscle3.8.31_i86linux32.tar.gz |
+   | Clustalomega | http://clustal.org/omega/clustalo-1.2.4-Ubuntu-x86_64                        |
+   | q-score      | https://www.drive5.com/qscore/qscore_src.tar.gz                              |
+   | Kalign2      | http://msa.sbc.su.se/downloads/kalign/current.tar.gz                         |
+  
+   Since the clustal papers provide a great overview of alignment programs I think these two should suffice. Note I am not comparing kalign against consistency based methods as these are a) all more accurate and b) slower. Kalign is targeted at the accurate and fast niche. 
+
+** Alignment benchmark datasets 
+
+
+   #+NAME: Benchmarkdata 
+   | Name          | Download                                                          |
+   |---------------+-------------------------------------------------------------------|
+   | Balibase1-5   | http://www.lbgi.fr/balibase/BalibaseDownload/BAliBASE_R1-5.tar.gz |
+   | Balifam       | http://clustal.org/omega/bali3fam-26.tar.gz                       |
+   | Bralibaseset1 | http://projects.binf.ku.dk/pgardner/bralibase/data-set1.tar.gz    |
+   | Bralibaseset2 | http://projects.binf.ku.dk/pgardner/bralibase/data-set2.tar.gz    |
+   | HomFam        | http://www.clustal.org/omega/homfam-20110613-25.tar.gz            |
+   | QuanTest2     | http://bioinf.ucd.ie/quantest2.tar                                |
+
+** Installation   
+
+*** Step one: create directory and download all data
+
+    #+BEGIN_SRC bash :exports both :results none 
+      cd 
+      mkdir -p kalignbenchmark
+      cd  kalignbenchmark
+      mkdir -p data
+      mkdir -p programs 
+      mkdir -p scratch
+    #+END_SRC
+
+*** Download data sets 
+     
+    #+BEGIN_SRC bash -n :results raw :exports both :var tbl=Benchmarkdata :colnames yes
+      cd
+      cd ~/kalignbenchmark/data
+      for idx in ${!tbl[*]}; do
+          #echo  ${tbl[$idx]} 
+          if [[ ${tbl[$idx]} =~ ^http* ]];
+          then
+              echo "wget ${tbl[$idx]}"
+              wget ${tbl[$idx]}
+          fi
+      done
+    #+END_SRC
+
+    #+RESULTS:
+    wget http://www.clustal.org/omega/homfam-20110613-25.tar.gz
+    wget http://clustal.org/omega/bali3fam-26.tar.gz
+    wget http://www.lbgi.fr/balibase/BalibaseDownload/BAliBASE_R1-5.tar.gz
+    wget http://projects.binf.ku.dk/pgardner/bralibase/data-set1.tar.gz
+    wget http://projects.binf.ku.dk/pgardner/bralibase/data-set2.tar.gz
+    wget http://bioinf.ucd.ie/quantest2.tar
+
+
+    Unpack data sets: 
+
+    #+BEGIN_SRC bash  :results none :exports code 
+      cd
+      cd ~/kalignbenchmark/data
+      mkdir -p homfam 
+      mv homfam-20110613-25.tar.gz homfam 
+      cd homfam 
+      tar -zxvf homfam-20110613-25.tar.gz
+
+      cd ~/kalignbenchmark/data
+      for filename in *.tar.gz; do
+          tar -zxvf  $filename
+      done
+      tar -xvf quantest2.tar
+    #+END_SRC
+
+**** Compile baliscore program and place in program directory 
+
+     #+BEGIN_SRC bash
+
+       cd ~/kalignbenchmark/data/bb3_release/bali_score_src
+
+       gcc *.c -lm -lexpat -o bali_score 
+       cp bali_score ~/kalignbenchmark/programs
+
+     #+END_SRC
+
+     #+RESULTS:
+
+*** Download  programs 
+
+    #+BEGIN_SRC bash -n :results none :exports none :var tbl=Benchprograms :colnames yes
+      cd
+
+      cd ~/kalignbenchmark/programs
+      for idx in ${!tbl[*]}; do
+          #echo  ${tbl[$idx]} 
+          if [[ ${tbl[$idx]} =~ ^http* ]];
+          then
+              echo "wget ${tbl[$idx]}"
+              wget ${tbl[$idx]}
+          fi
+      done
+
+      chmod 755 clustalo-1.2.4-Ubuntu-x86_64
+      tar -zxvf muscle3.8.31_i86linux32.tar.gz 
+      tar -zxvf qscore_src.tar.gz
+
+      mkdir -p kalign2_src
+      cd kalign2_src
+      mv ../current.tar.gz .
+      tar -zxvf current.tar.gz
+      ./configure
+      make 
+      cp kalign ../kalign2
+    #+END_SRC
+
+    And kalign3! 
+
+    #+BEGIN_SRC bash -n :results none :exports none 
+      cd ~/kalignbenchmark/programs 
+      mkdir -p kalign3_src 
+      cd kalign3_src 
+      git clone https://github.com/TimoLassmann/kalign.git
+      cd kalign 
+      ./autogen.sh 
+      ./configure --bindir=$HOME/kalignbenchmark/programs
+      make 
+      make check  
+      make install
+    #+END_SRC
+
+
+*** Compile q-score 
+
+    NOTE: this is manual! 
+
+    Add:
+
+    #+BEGIN_EXAMPLE C
+    #include <limits.h> 
+    #+END_EXAMPLE
+
+    to qscore header: =qscore.h=  
+
+    then: 
+    #+BEGIN_EXAMPLE bash
+    make
+    #+END_EXAMPLE
+
+
+
+
+
+
+
+
+
+
+*** Reformat datasets 
+
+
+    #+BEGIN_SRC bash :exports both :results none
+      export PATH=$HOME/kalignbenchmark/programs:$PATH
+      find ~/kalignbenchmark/data/data-set1  ~/kalignbenchmark/data/data-set2  -name "*_test.fa" -exec rm -rf {} \;
+      printf "Generate commands to reformat the reference alignments\n\n";
+
+      find ~/kalignbenchmark/data/data-set1  ~/kalignbenchmark/data/data-set2 -name "*.fa"  -o -name '*.fasta' | grep structural |  awk -v outdir="$SCRATCHDIR" '{printf "kalign %s --changename -reformat msf -o %s.msf\n", $1,$1 }' > run_reformat.sh
+      find ~/kalignbenchmark/data/data-set1  ~/kalignbenchmark/data/data-set2 -name "*.fa"  -o -name '*.fasta' | grep unaligned |  awk -v outdir="$SCRATCHDIR" '{printf "kalign %s --changename -reformat fasta -o %s_test.fa\n", $1,$1 }' >> run_reformat.sh
+      chmod 755 run_reformat.sh
+      ./run_reformat.sh
+
+    #+END_SRC
+
+
+*** Reformat homfam 
+    create script to merge =*_ref.vie= and =*_test-only.vie= alignments.
+    #+BEGIN_SRC bash -n :tangle create_homfam_tests.sh :shebang #!/usr/bin/env bash :noweb yes :exports code :results none :noweb yes 
+      <<scratchdir>>
+    #+END_SRC
+
+
+    #+BEGIN_SRC bash -n :tangle create_homfam_tests.sh :noweb yes :exports code :results none :noweb yes
+
+      export PATH=$HOME/kalignbenchmark/programs:$PATH
+      DIR=`pwd`
+      function usage()
+      {
+          printf "This script will merge *_ref.vie and *_test-only.vie alignments and convert them into msf format.\n\n" ;
+          printf "usage: $0\n\n" ;
+          exit 1;
+      }
+
+      while getopts h  opt
+      do
+          case ${opt} in
+              h) usage;;
+              ,*) usage;;
+          esac
+      done
+      find ~/kalignbenchmark/data/homfam  -name "*_test-only.vie" | awk '{\
+                    test_aln=$1;ref=$1 ;\
+                    gsub("_test-only.vie", "_ref.vie", ref);\
+                    gsub("_test-only.vie", "_testaln.fa", test_aln);\
+                    printf "cat %s %s > tmp.vie\n" ,ref, $1;\
+                    printf "kalign tmp.vie --reformat --rename -f fasta -o %s\n", test_aln }' > homfam_reformat.sh
+
+      find ~/kalignbenchmark/data/homfam  -name "*_ref.vie" | awk '{ref=$1;gsub("_ref.vie", "_ref.msf", ref);printf "kalign %s --reformat --rename  -f msf -o %s\n", $1,ref}' >> homfam_reformat.sh
+
+      chmod 755 homfam_reformat.sh
+
+      ./homfam_reformat.sh
+    #+END_SRC     
+
+
+** Scripts to run programs 
+   Alignment programs
+   #+BEGIN_SRC sh :exports both :results none :noweb yes :tangle run_aln.sh :shebang #!/usr/bin/env bash
+     export PATH=$HOME/kalignbenchmark/programs:$PATH
+     CPU=1
+     MEM=8
+     FMT=
+     IN=
+     OUT=
+     PROG= 
+     function usage()
+     {
+         printf "usage: $0  -p <prog> -i <in> -o <out>  \n\n" ;
+         printf "Options:\n-f <format>\n-t <threads>\n-m <mem>\n\n";
+         printf "Valid options for <prog> include:\n   kalign\n   kalign2\n   muscle\n   clustal\n\n";
+         exit 1;
+     }
+
+     while getopts t:m:p:i:o:f:  opt
+     do
+         case ${opt} in
+             t) CPU=${OPTARG};;
+             m) MEM=${OPTARG};;
+             p) PROG=${OPTARG};;
+             i) IN=${OPTARG};;
+             o) OUT=${OPTARG};;
+             f) FMT=${OPTARG};;
+             ,*) usage;;
+         esac
+     done
+
+     if [ "${PROG}" == "" ]; then usage; fi
+     if [ "${IN}" == "" ]; then usage; fi
+     if [ "${OUT}" == "" ]; then usage; fi
+
+
+     SLURMMEM=$MEM"G"
+
+     CMD= 
+
+     if [ "${PROG}" == "kalign2" ]; then 
+         if [ "${FMT}" == "msf" ]; then 
+
+             CMD="kalign2 -i $IN -f msf -o $OUT"
+         else
+             CMD="kalign2 -i $IN -o $OUT"
+         fi
+     fi
+
+     if [ "${PROG}" == "kalign" ]; then 
+         if [ "${FMT}" == "msf" ]; then 
+
+             CMD="kalign -i $IN -f msf -o $OUT"
+         else
+             CMD="kalign -i $IN -o $OUT"
+         fi
+     fi
+
+     if [ "${PROG}" == "muscle" ]; then 
+         if [ "${FMT}" == "msf" ]; then 
+             CMD="muscle3.8.31_i86linux32 -msf -in $IN -out  $OUT"
+         else
+             CMD="muscle3.8.31_i86linux32 -in $IN -out  $OUT"
+         fi
+     fi
+
+     if [ "${PROG}" == "clustal" ]; then 
+         if [ "${FMT}" == "msf" ]; then 
+             CMD="clustalo-1.2.4-Ubuntu-x86_64 --outfmt=msf --in $IN --out $OUT"
+         else
+             CMD="clustalo-1.2.4-Ubuntu-x86_64 --outfmt=a2m --in $IN --out $OUT"
+         fi
+     fi
+
+
+     HAS_SLURM=0
+     #    printf "Running Sanity checks:\n";
+
+     if which sbatch >/dev/null; then
+         HAS_SLURM=1
+     fi
+
+     #     echo $HAS_SLURM
+     if [ $HAS_SLURM = 1 ]; then 
+         echo "YES"
+         sbatch <<EOT
+     #!/usr/bin/env bash
+
+     #SBATCH --cpus-per-task=$CPU
+     #SBATCH --mem=$SLURMMEM
+     #SBATCH -t 10-12:30 # time (D-HH:MM)
+     #SBATCH -o slurm.%N.%j.out # STDOUT
+     #SBATCH -e slurm.%N.%j.err # STDERR
+
+     $CMD
+     exit 0
+     EOT
+     else 
+         $CMD 
+     fi
+
+   #+END_SRC
+   Time and score alignment (used in the homfam test) 
+   #+BEGIN_SRC sh :exports both :results none :noweb yes :tangle run_timealn.sh :shebang #!/usr/bin/env bash
+     export PATH=$HOME/kalignbenchmark/programs:$PATH
+     CPU=1
+     MEM=16
+     FMT=
+     IN=
+     OUT=
+     PROG= 
+     function usage()
+     {
+         printf "usage: $0  -p <prog> -i <test aln> -r <ref aln>  \n\n" ;
+         printf "Options:\n-f <format>\n-t <threads>\n-m <mem>\n\n";
+         printf "Valid options for <prog> include:\n   kalign\n   kalign2\n   muscle\n   clustal\n\n";
+         exit 1;
+     }
+
+     while getopts t:m:p:i:r:  opt
+     do
+         case ${opt} in
+             t) CPU=${OPTARG};;
+             m) MEM=${OPTARG};;
+             p) PROG=${OPTARG};;
+             i) IN=${OPTARG};;
+             r) OUT=${OPTARG};;             
+             ,*) usage;;
+         esac
+     done
+
+     if [ "${PROG}" == "" ]; then usage; fi
+     if [ "${IN}" == "" ]; then usage; fi
+     if [ "${OUT}" == "" ]; then usage; fi
+
+
+     SLURMMEM=$MEM"G"
+
+     CMD= 
+
+
+     CMD="timescorealn -test $IN -ref $OUT -program $PROG --scratch $HOME/kalignbenchmark/scratch -out scores_homfam.csv"         
+
+
+     HAS_SLURM=0
+     #    printf "Running Sanity checks:\n";
+
+     if which sbatch >/dev/null; then
+         HAS_SLURM=1
+     fi
+
+     #     echo $HAS_SLURM
+     if [ $HAS_SLURM = 1 ]; then 
+         echo "YES"
+         sbatch <<EOT
+     #!/usr/bin/env bash
+
+     #SBATCH --cpus-per-task=$CPU
+     #SBATCH --mem=$SLURMMEM
+     #SBATCH -t 10-12:30 # time (D-HH:MM)
+     #SBATCH -o slurm.%N.%j.out # STDOUT
+     #SBATCH -e slurm.%N.%j.err # STDERR
+
+     $CMD
+     exit 0
+     EOT
+     else 
+         $CMD 
+     fi
+
+   #+END_SRC
+
+   Place run script in =bin= of the benchmark directory . 
+
+
+   #+BEGIN_SRC bash :exports both :results none
+     cp run_aln.sh $HOME/kalignbenchmark/programs/
+     cp run_timealn.sh $HOME/kalignbenchmark/programs/
+   #+END_SRC
+
+
+
+
+
+
+*** Scripts to create run commands 
+
+
+
+
+    #+NAME: scratchdir
+    #+BEGIN_SRC bash :results none :exports code :noweb yes
+      SCRATCHDIR="~/kalignbenchmark/scratch"
+    #+END_SRC
+
+* Run alignment programs  
+
+  #+BEGIN_SRC bash -n :tangle gen_cmd.sh :shebang #!/usr/bin/env bash :noweb yes :exports code :results none :noweb yes 
+    <<scratchdir>>
+  #+END_SRC
+
+  #+BEGIN_SRC bash -n :tangle gen_cmd.sh :noweb yes :exports code :results none :noweb yes 
+
+    DIR=`pwd`
+    function usage()
+    {
+        printf "This script will generate scripts to run kalign, clustal omega and muscle on the balibase MSA benchmark data set.\n\n" ;
+        printf "usage: $0\n\n" ;
+        exit 1;
+    }
+
+    while getopts h  opt
+    do
+        case ${opt} in
+            h) usage;;
+            ,*) usage;;
+        esac
+    done
+
+    printf "Generating balibase run commands\n";
+
+    find ~/kalignbenchmark/data/bb3_release -name "*.tfa" |\
+        awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/);\
+                                        printf "run_aln.sh -p kalign -i %s -f msf -o %s/%s_%s_kalign.msf\n", $1,outdir,a[n-2],a[n-1];\
+                                        printf "run_aln.sh -p kalign2 -i %s -f msf -o %s/%s_%s_kalign2.msf\n", $1,outdir,a[n-2],a[n-1];\
+                                        printf "run_aln.sh -p muscle -i %s -f msf -o %s/%s_%s_muscle.msf\n", $1,outdir,a[n-2],a[n-1];\
+                                        printf "run_aln.sh -p clustal -i %s -f msf -o %s/%s_%s_clustal.msf\n", $1,outdir,a[n-2],a[n-1];\
+                             }' > run_benchmark.sh
+
+
+    printf "Generating bralibase run commands\n";
+
+    find ~/kalignbenchmark/data/data-set1  ~/kalignbenchmark/data/data-set2  -name "*_test.fa" |\
+        grep unaligned |\
+        awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/);\
+                                      printf "run_aln.sh -p kalign -i %s -f msf -o %s/%s_%s_%s_kalign.msf\n", $1,outdir,a[n-4],a[n-3],a[n-2];\
+                                      printf "run_aln.sh -p kalign2 -i %s -f msf -o %s/%s_%s_%s_kalign2.msf\n", $1,outdir,a[n-4],a[n-3],a[n-2];\
+                                      printf "run_aln.sh -p muscle -i %s -f msf -o %s/%s_%s_%s_muscle.msf\n", $1,outdir,a[n-4],a[n-3],a[n-2];\
+                                      printf "run_aln.sh -p clustal -i %s -f msf -o %s/%s_%s_%s_clustal.msf\n", $1,outdir,a[n-4],a[n-3],a[n-2];\
+               }' >> run_benchmark.sh
+
+    printf "Generating Quantest2 run commands\n";
+
+    find ~/kalignbenchmark/data/QuanTest2/Test -name "*.vie" |\
+        awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/);\
+                  printf "run_aln.sh -p kalign -i %s -o %s/%s_kalign.afa\n", $1,outdir,a[n-1];\
+                  printf "run_aln.sh -p kalign2 -i %s -o %s/%s_kalign2.afa\n", $1,outdir,a[n-1];\
+                  printf "run_aln.sh -p muscle -i %s -o %s/%s_muscle.afa\n", $1,outdir,a[n-1];\
+                  printf "run_aln.sh -p clustal -i %s -o %s/%s_clustal.afa\n", $1,outdir,a[n-1];\
+    }' >>  run_benchmark.sh
+
+    chmod 755 run_benchmark.sh
+  #+END_SRC
+
+  Here is the script to run the homfam test: 
+  #+BEGIN_SRC bash -n :tangle gen_timecmd.sh :shebang #!/usr/bin/env bash :noweb yes :exports code :results none :noweb yes 
+    <<scratchdir>>
+  #+END_SRC
+
+  #+BEGIN_SRC bash -n :tangle gen_timecmd.sh :noweb yes :exports code :results none :noweb yes 
+
+    DIR=`pwd`
+    function usage()
+    {
+        printf "This script will generate scripts to run kalign, clustal omega and muscle on the balibase MSA benchmark data set.\n\n" ;
+        printf "usage: $0\n\n" ;
+        exit 1;
+    }
+
+    while getopts h  opt
+    do
+        case ${opt} in
+            h) usage;;
+            ,*) usage;;
+        esac
+    done
+
+    printf "export PATH=~/kalignbenchmark/programs:$PATH\n\n" > run_homfam.sh
+    find ~/kalignbenchmark/data/homfam  -name "*_testaln.fa" | awk -v outdir="$SCRATCHDIR" '{
+    ref_aln=$1;gsub("_testaln.fa", "_ref.msf",ref_aln);
+    printf "run_timealn.sh -p kalign -i %s -r %s\n", $1,ref_aln;
+    printf "run_timealn.sh -p muscle -i %s -r %s\n", $1,ref_aln;
+    printf "run_timealn.sh -p clustal -i %s -r %s\n", $1,ref_aln;
+                 }' >> run_homfam.sh
+
+  #+END_SRC
+
+* Score alignments 
+
+** Balibase    
+   #+BEGIN_SRC bash -n :tangle score_balibase.sh :shebang #!/usr/bin/env bash :noweb yes :exports code :results none :noweb yes 
+     <<scratchdir>>
+   #+END_SRC
+
+   #+BEGIN_SRC bash -n :tangle score_balibase.sh :noweb yes :exports code :results none :noweb yes 
+     printf "Generating kalign scoring run script\n";
+     find ~/kalignbenchmark/data/bb3_release -name "*.xml" | awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/); ;printf "~/kalignbenchmark/programs/bali_score %s %s/%s_%s_kalign.msf | grep auto\n", $1,outdir,a[n-2],a[n-1] }' > score_bb3_kalign.sh
+     chmod 755  score_bb3_kalign.sh
+
+     find ~/kalignbenchmark/data/bb3_release -name "*.xml" | awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/); ;printf "~/kalignbenchmark/programs/bali_score %s %s/%s_%s_kalign2.msf | grep auto\n", $1,outdir,a[n-2],a[n-1] }' > score_bb3_kalign2.sh
+     chmod 755  score_bb3_kalign2.sh
+
+     printf "Generating muscle scoring run script\n";
+     find ~/kalignbenchmark/data/bb3_release -name "*.xml" | awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/); ;printf "~/kalignbenchmark/programs/bali_score %s %s/%s_%s_muscle.msf | grep auto\n", $1,outdir,a[n-2],a[n-1] }' > score_bb3_muscle.sh
+     chmod 755  score_bb3_muscle.sh
+
+     printf "Generating clustal scoring run script\n";
+     find ~/kalignbenchmark/data/bb3_release -name "*.xml" | awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/); ;printf "~/kalignbenchmark/programs/bali_score %s %s/%s_%s_clustal.msf | grep auto\n", $1,outdir,a[n-2],a[n-1] }' > score_bb3_clustal.sh
+     chmod 755  score_bb3_clustal.sh
+
+     ./score_bb3_kalign.sh > scores_balibase_kalign.csv
+     ./score_bb3_kalign2.sh > scores_balibase_kalign2.csv
+     ./score_bb3_muscle.sh > scores_balibase_muscle.csv
+     ./score_bb3_clustal.sh > scores_balibase_clustal.csv
+
+   #+END_SRC
+
+
+
+
+
+   To plot the scores: 
+   #+NAME: Rplotheader
+   #+BEGIN_SRC R :session  one :results none :export none :noweb yes 
+     <<Rlibraries>> 
+     readBaliscores <-function(file,name){
+       mat  <- read.table(file);
+       colnames(mat) <- c("Type","Name","SP","TC")
+       mat$Type <- name
+       mat$Name <- sub(".*/" ,"", mat$Name)
+       mat$Name <- sub("[A-Z,_]*[.]{1}[A-Z]*$" ,"", mat$Name,ignore.case = TRUE)
+       mat <- as.tibble(mat)
+       x = str_split(mat$Name, "_", n = Inf, simplify = TRUE)
+       mat$Group <- x[,1] 
+       return(mat)
+
+     }
+
+
+   #+END_SRC
+     
+   The actual plotting:
+   #+BEGIN_SRC R :session one :results output graphics :file Balibase_scores.jpeg :exports both :noweb yes 
+
+     library(ggplot2)
+     mat <- readBaliscores("scores_balibase_kalign.csv","kalign3");
+     mat <- rbind(mat,readBaliscores("scores_balibase_kalign2.csv","kalign2"));
+     mat <- rbind(mat,readBaliscores("scores_balibase_muscle.csv","muscle"));
+     mat <- rbind(mat,readBaliscores("scores_balibase_clustal.csv","clustalo"));
+     p <- ggplot(mat, aes(Group, SP))
+     p <- p + geom_boxplot(aes(colour = Type))
+     p <- p + scale_color_discrete(name = "Program")      
+     p <- p + theme(legend.position = c(0.6, 0.15),legend.text=element_text(size=14),legend.direction = "horizontal")
+     p <- p + xlab(label="")
+     p <- p + ggtitle("Balibase benchmark")
+p
+
+#     ggsave("Balibase_scores.jpeg",p,width = 18,  height = 12,  dpi = 300, units = c( "cm")) 
+
+     ##  p1 <- p1 +  geom_signif(comparisons = my_comparisons ,map_signif_level=TRUE)
+   #+END_SRC
+
+   #+RESULTS:
+
+    
+   
+
+
+** Bralibase
+
+   #+BEGIN_SRC bash -n :tangle score_bralibase.sh :shebang #!/usr/bin/env bash :noweb yes :exports code :results none :noweb yes 
+     <<scratchdir>>
+   #+END_SRC
+
+   #+BEGIN_SRC bash -n :tangle score_bralibase.sh :noweb yes :exports code :results none :noweb yes 
+
+     printf "Generating kalign scoring run script\n";
+     find ~/kalignbenchmark/data/data-set1  ~/kalignbenchmark/data/data-set2 -name "*.msf" | grep structural | awk -v outdir="$SCRATCHDIR" '{name=$1; gsub(/structural/, "unaligned"); n=split ($1,a,/[\/,.]/); printf "~/kalignbenchmark/programs/bali_score  %s %s/%s_%s_%s_kalign.msf | grep auto\n", name,outdir,a[n-4],a[n-3],a[n-2] }' > score_bralibase_kalign.sh
+
+     chmod 755 score_bralibase_kalign.sh
+
+     printf "Generating kalign2 scoring run script\n";
+     find ~/kalignbenchmark/data/data-set1  ~/kalignbenchmark/data/data-set2 -name "*.msf" | grep structural | awk -v outdir="$SCRATCHDIR" '{name=$1; gsub(/structural/, "unaligned"); n=split ($1,a,/[\/,.]/); printf "~/kalignbenchmark/programs/bali_score  %s %s/%s_%s_%s_kalign2.msf | grep auto\n", name,outdir,a[n-4],a[n-3],a[n-2] }' > score_bralibase_kalign2.sh
+
+     chmod 755 score_bralibase_kalign2.sh
+
+
+     printf "Generating muscle scoring run script\n";
+     find ~/kalignbenchmark/data/data-set1  ~/kalignbenchmark/data/data-set2 -name "*.msf" | grep structural | awk -v outdir="$SCRATCHDIR" '{name=$1; gsub(/structural/, "unaligned"); n=split ($1,a,/[\/,.]/); printf "~/kalignbenchmark/programs/bali_score %s %s/%s_%s_%s_muscle.msf | grep auto\n", name,outdir,a[n-4],a[n-3],a[n-2] }' > score_bralibase_muscle.sh
+     chmod 755  score_bralibase_muscle.sh
+
+     printf "Generating clustalo scoring run script\n";
+     find ~/kalignbenchmark/data/data-set1  ~/kalignbenchmark/data/data-set2 -name "*.msf" | grep structural | awk -v outdir="$SCRATCHDIR" '{name=$1; gsub(/structural/, "unaligned"); n=split ($1,a,/[\/,.]/); printf "~/kalignbenchmark/programs/bali_score %s %s/%s_%s_%s_clustal.msf | grep auto\n", name,outdir,a[n-4],a[n-3],a[n-2] }' > score_bralibase_clustal.sh
+     chmod 755  score_bralibase_clustal.sh
+
+
+     ./score_bralibase_kalign.sh > scores_bralibase_kalign.csv
+     ./score_bralibase_kalign2.sh > scores_bralibase_kalign2.csv
+     ./score_bralibase_muscle.sh > scores_bralibase_muscle.csv
+     ./score_bralibase_clustal.sh > scores_bralibase_clustal.csv
+   #+END_SRC
+
+
+   Plot scores 
+
+   #+BEGIN_SRC R :session one :results output graphics :file Bralibase_scores.jpeg :exports both :noweb yes 
+     <<Rplotheader>>
+     library(ggplot2)
+     mat <- readBaliscores("scores_bralibase_kalign.csv","kalign3");
+     mat <- rbind(mat,readBaliscores("scores_bralibase_kalign2.csv","kalign2"));
+     mat <- rbind(mat,readBaliscores("scores_bralibase_muscle.csv","muscle"));
+     mat <- rbind(mat,readBaliscores("scores_bralibase_clustal.csv","clustalo"));
+     p <- ggplot(mat, aes(Group, SP))
+     p <- p + geom_boxplot(aes(colour = Type))
+     p <- p + scale_color_discrete(name = "Program")      
+     p <- p + theme(legend.position = c(0.6, 0.15),legend.text=element_text(size=14),legend.direction = "horizontal")
+     p <- p + xlab(label="")
+     p <- p + ggtitle("Bralibase benchmark")
+     ggsave("Bralibase_scores.jpeg",p,width = 18,  height = 12,  dpi = 300, units = c( "cm")) 
+
+
+   #+END_SRC
+
+   #+RESULTS:
+   q[[file:Bralibase_scores.jpeg]]
+
+
+** Quantest2 
+
+   #+BEGIN_SRC bash -n :tangle score_quantest2.sh :shebang #!/usr/bin/env bash :noweb yes :exports code :results none :noweb yes 
+     <<scratchdir>>
+   #+END_SRC
+
+   #+BEGIN_SRC bash -n :tangle score_quantest2.sh :noweb yes :exports code :results none :noweb yes 
+     printf "Generating kalign scoring run script\n";
+     find ~/kalignbenchmark/data/QuanTest2/Test -name "*.vie" | awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/); ;printf "~/kalignbenchmark/data/QuanTest2/quantest2.py test@test  %s/%s_kalign.afa ~/kalignbenchmark/data/QuanTest2/SS/%s.ss  | grep kalignbenchmark \n", outdir,a[n-1],a[n-1] }' > score_quantest2_kalign.sh
+     chmod 755 score_quantest2_kalign.sh
+
+     printf "Generating kalign scoring run script\n";
+     find ~/kalignbenchmark/data/QuanTest2/Test -name "*.vie" | awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/); ;printf "~/kalignbenchmark/data/QuanTest2/quantest2.py test@test  %s/%s_kalign2.afa ~/kalignbenchmark/data/QuanTest2/SS/%s.ss  | grep kalignbenchmark \n", outdir,a[n-1],a[n-1] }' > score_quantest2_kalign2.sh
+     chmod 755 score_quantest2_kalign2.sh
+
+     printf "Generating muscle scoring run script\n";
+     find ~/kalignbenchmark/data/QuanTest2/Test -name "*.vie" | awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/); ;printf "~/kalignbenchmark/data/QuanTest2/quantest2.py test@test  %s/%s_muscle.afa ~/kalignbenchmark/data/QuanTest2/SS/%s.ss  | grep kalignbenchmark \n", outdir,a[n-1],a[n-1] }' > score_quantest2_muscle.sh
+     chmod 755 score_quantest2_muscle.sh
+
+
+     printf "Generating clustalo scoring run script\n";
+     find ~/kalignbenchmark/data/QuanTest2/Test -name "*.vie" | awk -v outdir="$SCRATCHDIR" '{n=split ($1,a,/[\/,.]/); ;printf "~/kalignbenchmark/data/QuanTest2/quantest2.py test@test  %s/%s_clustal.afa ~/kalignbenchmark/data/QuanTest2/SS/%s.ss  | grep kalignbenchmark \n", outdir,a[n-1],a[n-1] }' > score_quantest2_clustal.sh
+     chmod 755 score_quantest2_clustal.sh
+
+
+     ./score_quantest2_kalign.sh >  scores_quantest2_kalign.csv
+     ./score_quantest2_kalign2.sh > scores_quantest2_kalign2.csv
+     ./score_quantest2_muscle.sh > scores_quantest2_muscle.csv
+     ./score_quantest2_clustal.sh  > scores_quantest2_clustal.csv
+   #+END_SRC 
+
+*** Plot
+
+    #+BEGIN_SRC R :session one :results output graphics :file Quantest2_scores.jpeg :exports both :noweb yes 
+      <<Rlibraries>> 
+      readquanttestscores <-function(file,name){
+        mat  <- read.table(file);
+        colnames(mat) <- c("Name","Score")
+        mat$Type <- name
+        mat$Name <- sub(".*/" ,"", mat$Name)
+        mat$Name <- sub("[_]{1}[A-Z]*[.]{1}[A-Z]*$" ,"", mat$Name,ignore.case = TRUE)
+        mat <- as_tibble(mat)
+  
+        return(mat)
+
+      }
+
+
+      library(ggplot2)
+      mat <- readquanttestscores("scores_quanttest_clustalo.csv","clustalo")
+      mat <- rbind(mat, readquanttestscores("scores_quanttest_kalign.csv","kalign3"));
+      mat <- rbind(mat, readquanttestscores("scores_quantest2_kalign2.csv","kalign2"));
+      mat <- rbind(mat, readquanttestscores("scores_quanttest_muscle.csv","muscle"));
+                                              #mat <- mat  %>% mutate(Score = as.dbl(Score))      
+
+
+      p4 <- ggplot(mat, aes(Type, Score))
+      p4 <- p4 + geom_boxplot(aes(colour = Type))
+      p4 <- p4 + ggtitle("Quantest2 benchmark")
+
+      ggsave("Quantest2_scores.jpeg",p4,width = 16,  height = 12,  dpi = 300, units = c( "cm"))
+
+
+    #+END_SRC
+
+    #+RESULTS:
+    [[file:Quantest2_scores.jpeg]]
+
+
+** Homfam
+
+*** Plot: 
+
+    #+BEGIN_SRC R :session one :results output graphics :file Homfam_scores.jpeg :exports both :noweb yes 
+      <<Rplotheader>>
+      library(ggplot2)
+      mat  <- read.csv("scores_homfam.csv");
+      p <- ggplot(mat, aes(NUMSEQ,Time))
+      p <- p + geom_point(aes(colour = Program,size = AVGLEN))
+      p <- p + scale_x_continuous(trans = 'log10', breaks=c(100,3000,10000,100000) ,labels = scales::comma)
+      p <- p + scale_y_continuous(trans = 'log10',breaks=c(0.01, 0.1, 1 , 10,100,1000,10000),labels=scales::comma )
+
+      p <- p + xlab("Number of sequences") 
+      p <- p + ylab("Time (s)") 
+      p <- p + ggtitle("HomFam benchmark")
+      p     
+      ggsave("Homfam_scores.jpeg",p,width = 18,  height = 12,  dpi = 300, units = c( "cm")) 
+    #+END_SRC
+
+
+*** Run tests
+
+* Check for dependencies
+
+
+  #+NAME: liblist
+  #+BEGIN_SRC R -n :exports code :results none
+    libraries <- c("tidyverse","ggplot2","stringi","cowplot")
+
+  #+END_SRC
+   
+  Script to test if libraries are present.
+  #+BEGIN_SRC R -n :tangle test_for_libraries.R :shebang #!/usr/bin/env Rscript :noweb yes :exports code :results none
+    <<liblist>>
+    Sys.info()["nodename"]
+    for(library in libraries) 
+    { 
+      f = is.element(library, installed.packages()[,1])
+      print(paste("Library",library, "is installed?", f))
+      if(!f)
+      {
+        message("Missing library:",library )
+        quit(status=1)
+      }
+    }
+    quit(status=0)
+  #+END_SRC
+   
+   
+  #+BEGIN_SRC sh -n :results output :exports both
+    ./test_for_libraries.R
+  #+END_SRC
+
+  #+RESULTS:
+  : nodename 
+  :   "work" 
+  : [1] "Library tidyverse is installed? TRUE"
+  : [1] "Library ggplot2 is installed? TRUE"
+  : [1] "Library stringi is installed? TRUE"
+  : [1] "Library cowplot is installed? TRUE"
+
+  install.packages("tidyverse")
+  Code block to load the libraries in R code.
+
+  #+NAME: Rlibraries
+  #+BEGIN_SRC R -n :exports code :results none :noweb yes
+    <<liblist>>
+    lapply(libraries, FUN = function(X) {
+      do.call("library", list(X)) 
+    })
+
+  #+END_SRC
+
+

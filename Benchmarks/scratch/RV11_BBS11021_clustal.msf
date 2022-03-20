@@ -1,0 +1,27 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 134  Type: P  December 21, 2021 20:29  Check: 6008  ..
+
+ Name: 1aac_   Len:    134  Check: 3508  Weight: -1.00
+ Name: 1pmy_   Len:    134  Check: 5547  Weight: -1.00
+ Name: 1kdi_   Len:    134  Check: 6581  Weight: -1.00
+ Name: 1ov8_A  Len:    134  Check:  372  Weight: -1.00
+
+//
+
+        1                                                   50
+1aac_   ~~~~~IVVDI .AKMKYETPE LHVK...... ........VG DTVTWINREA
+1pmy_   VAVKMLNSGP GGMMVFDPAL VRLKP..... .......... ..........
+1kdi_   ~AKVEVGDEV .GNFKFYPDS ITVSAGEAVE FTLVGET... ..........
+1ov8_A  ~QTVEVRAAP .DALAFAQTS LSLPANTVVR LDFVNQNNLG VQHNWVLVNG
+
+        51                                                 100
+1aac_   .......... ...MPHNVHF .........V AGVLGEAALK GP.MMKK..E
+1pmy_   .......... ....GDSIKF LP.TDKGHNV E.TIKGMAPD GADYVKTTVG
+1kdi_   .......... ....GHNIVF DIPAGAPGTV ASELKAASMD EN.DLLSEDE
+1ov8_A  GDDVAAAVNT AAQNNADALF VPPPDTPNAL AWT....... .A.MLNAGES
+
+        101                               134
+1aac_   QAYSLTFTEA GTYDYHCTPH PF....MRGK VVVE
+1pmy_   QEAVVKFDKE GVYGFKCAP. .HYMMGMVAL VVVG
+1kdi_   PSFKAKVSTP GTYTFYCTP. .HKSANMKGT LTVK
+1ov8_A  GSVTFRTPAP GTYLYICTFP GHYLAGMKGT LTVT

@@ -1,0 +1,33 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 84  Type: P  December 21, 2021 20:29  Check: 9515  ..
+
+ Name: 1abo_A  Len:     84  Check: 9645  Weight: -1.00
+ Name: 1ycs_B  Len:     84  Check:  998  Weight: -1.00
+ Name: 1pht_   Len:     84  Check: 8644  Weight: -1.00
+ Name: 1ihv_A  Len:     84  Check: 3276  Weight: -1.00
+ Name: 1bb9_   Len:     84  Check: 1728  Weight: -1.00
+ Name: 1hjd_A  Len:     84  Check:  666  Weight: -1.00
+ Name: 1ov3_A  Len:     84  Check: 9053  Weight: -1.00
+ Name: 1ue9_A  Len:     84  Check: 5505  Weight: -1.00
+
+//
+
+        1                                                   50
+1abo_A  NLFVALYDFV ASGDNTLSIT KGEKLRVLGY NH.......N .......GEW
+1ycs_B  GVIYALWDYE PQNDDELPMK EGDCMTIIHR ED.......E .....DEIEW
+1pht_   YQYRALYDYK KEREEDIDLH LGDILTVNKG SLVALGFSDG QEARPEEIGW
+1ihv_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~NFRVYYR DS........ .....R.DPV
+1bb9_   FKVQAQHDYT ATDTDELQLK AGDVVLVIPF QN.......P ...EEQDEGW
+1hjd_A  SMAVALQDYM APDCRFLTIH RGQVVYVFSK LK.......G .....RGRLF
+1ov3_A  EPYVAIKAYT AVEGDEVSLL EGEAVEVIHK LL........ .......DGW
+1ue9_A  EIAQVTSAYV ASGSEQLSLA PGQLILILKK NT........ .......SGW
+
+        51                                 84
+1abo_A  CEA....... ...QT....K NGQGWVPSNY ITPV
+1ycs_B  WWA....... ...RL....N DKEGYVPRNL LGLY
+1pht_   LNGYN..... ...ET....T GERGDFPGTY VEYI
+1ihv_A  WKGPAKLLWK GEGAVVIQDN SDIKVVPRRK AKII
+1bb9_   LMGVKESDWN QHKEL....E KCRGVFPENF TERV
+1hjd_A  WGGSVQGDYY ..GDL....A ARLGYFPSSI VRED
+1ov3_A  WVI....... ...RK....D DVTGYFPSMY LQKS
+1ue9_A  WQGELQAR.. ...GK....K RQKGWFPASH VKLL

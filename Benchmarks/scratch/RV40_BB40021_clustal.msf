@@ -1,0 +1,624 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 1064  Type: P  December 21, 2021 20:41  Check: 4268  ..
+
+ Name: CTRA_GADMO  Len:   1064  Check: 4981  Weight: -1.00
+ Name: TMS3_HUMAN  Len:   1064  Check: 7625  Weight: -1.00
+ Name: PLMN_BOVIN  Len:   1064  Check: 7456  Weight: -1.00
+ Name: TRYP_ASTFL  Len:   1064  Check: 4249  Weight: -1.00
+ Name: TMS5_HUMAN  Len:   1064  Check: 5470  Weight: -1.00
+ Name: KAL_HUMAN   Len:   1064  Check: 2917  Weight: -1.00
+ Name: TRY5_AEDAE  Len:   1064  Check: 1221  Weight: -1.00
+ Name: TRY3_AEDAE  Len:   1064  Check: 7338  Weight: -1.00
+ Name: GILX_HELHO  Len:   1064  Check: 9487  Weight: -1.00
+ Name: TRYT_PIG    Len:   1064  Check: 5872  Weight: -1.00
+ Name: TMS2_MOUSE  Len:   1064  Check: 8068  Weight: -1.00
+ Name: CFAD_MOUSE  Len:   1064  Check: 1731  Weight: -1.00
+ Name: DER3_DERPT  Len:   1064  Check: 1530  Weight: -1.00
+ Name: DEF3_DERFA  Len:   1064  Check: 5723  Weight: -1.00
+ Name: HEPS_HUMAN  Len:   1064  Check: 2614  Weight: -1.00
+ Name: PSS8_HUMAN  Len:   1064  Check: 2150  Weight: -1.00
+ Name: FA9_RAT     Len:   1064  Check: 1548  Weight: -1.00
+ Name: FA9_BOVIN   Len:   1064  Check:  118  Weight: -1.00
+ Name: FA12_CAVPO  Len:   1064  Check: 2087  Weight: -1.00
+ Name: HGFA_HUMAN  Len:   1064  Check: 5007  Weight: -1.00
+ Name: VSP3_BOTJA  Len:   1064  Check: 4064  Weight: -1.00
+ Name: VSP1_AGKCO  Len:   1064  Check:  873  Weight: -1.00
+ Name: TRY1_RAT    Len:   1064  Check: 6142  Weight: -1.00
+ Name: CTR1_PENVA  Len:   1064  Check: 6143  Weight: -1.00
+ Name: 5ptp_       Len:   1064  Check: 9854  Weight: -1.00
+
+//
+
+            1                                                   50
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLMN_BOVIN  MLPASPKMEH KAVVFLLLLF LKSGLGDLLD DYVNTQGASL LSLSRKNLAG
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KAL_HUMAN   ~~~~~~MILF KQATYFISLF ATVSCGCLTQ LYENAFFRGG DVAS......
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA12_CAVPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HGFA_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MGRWA WVPS......
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLMN_BOVIN  RSVEDCAAKC EEETDFVCRA FQYHSKEQQC VVMAENSKNT PVFRMRDVIL
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KAL_HUMAN   .MYTPNAQYC QMRCTFHPRC LL........ .......... ........FS
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA12_CAVPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HGFA_HUMAN  .PWPPPGL.. ...GPFLLLL LL........ .......... ........LL
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            101                                                150
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLMN_BOVIN  YEKRIYLLEC KTGNGQTYRG TTAETKSGVT CQKWSATSPH VPKFSPEKFP
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KAL_HUMAN   FLPA...... SSINDM.... .....EKRFG CFLKDSVTGT LPKVHR....
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA12_CAVPO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~G RLLLGSLLVS LES.......
+HGFA_HUMAN  LLPRGFQP.Q PGGNRTESPE PNATATPAIP TILVTSVTSE TPA.......
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            151                                                200
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLMN_BOVIN  LAGLEENYCR NPDNDENGPW CYTTDPDKRY DYCDIPECED KCMHCSGENY
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KAL_HUMAN   .TG....AVS GHSLKQCGHQ ISA....... CHRDIY.... KGVDMRGV..
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA12_CAVPO  .......ALS APPP...... .......... ..WKAP.... KERRHRAE..
+HGFA_HUMAN  ........TS APE..AEGPQ SG........ GLPPPP.... RAVPSSSS..
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            201                                                250
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLMN_BOVIN  EGKIAKTMSG RDCQAWDSQS PH..AHGYIP SKFPNKNLKM NYCRNPDGEP
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KAL_HUMAN   NFNVSKVSSV EECQKRCTNN IRCQFFSYAT QTFHKAEYRN NCLLKYSPGG
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~YNS GKLEEFVRG.
+FA12_CAVPO  EFTVGLTVTG EPCY...... ...FPFQYNR QLYH...... HCIHKGRPGP
+HGFA_HUMAN  PQAQALTEDG RPCR...... ...FPFRYGG RMLH...... ACTSEG.SAH
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            251                                                300
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLMN_BOVIN  RPWCFTT... .DPQKRWEFC DIPRCTTPPP SSGPKYQCLK GTGKNYGGTV
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KAL_HUMAN   TPTAIKVLSN VE........ .......SGF ...SLKPCAL .....SEIGC
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   .........N LE........ .......REC ...KEEKC.. ..........
+FA12_CAVPO  RPWCAT.TPN FDQDQQWAYC LEPKKVKDHC S..KHNPCQR .....GGICV
+HGFA_HUMAN  RKWCAT.THN YDRDRAWGYC VEATPPPGGP A..ALDPCAS GPCLNGGSCS
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            301                                                350
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLMN_BOVIN  A......... .......... .VTESGHTCQ RWSEQTPHKH NRTPENFPCK
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KAL_HUMAN   HMNIFQHLAF SDVDVARVLT PDAFV...CR TIC....... .TYHPN....
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~M
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   .......... .......... .......... .......... .SFEEA....
+FA12_CAVPO  .......... NTLSSPHCLC PDHLTGKHCQ REKCFEPQLH RFFHEN....
+HGFA_HUMAN  ........NT QDPQSYHCSC PRAFTGKDCG TEKCFDETRY EYLEGG....
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            351                                                400
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  ~M...GENDP PAVEA..PFS FRSLFGLDDL KISPVAPDAD AVAAQILSLL
+PLMN_BOVIN  NLEENYCRNP NGEKAPWCYT TNSEVRWEYC TI.PSCESSP LSTERMDVPV
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~MSLML
+KAL_HUMAN   ..CLFF...T F........Y TN...VWKIE SQRNVCLLKT SESGTPSSST
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  AL...NSGSP PGIGP..CYE NH...GYQSE HI...CPPRP PVAPNGYNLY
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   ..REVFENTE K........T TE...FWKQY VDGDQCESNP CLNGGM....
+FA12_CAVPO  ..EIWFRTGP AGVAKCHCKG PD...AHCKQ MHSQECQTNP CLNGGRCLE.
+HGFA_HUMAN  ..DRWARVRQ GHVEQCECFG GR...TWCEG TRHTACLSSP CLNGGTCHLI
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            401                                                450
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  PLKFF..... .......... .......... .........P IIVIG.....
+PLMN_BOVIN  PPEQT..... .......... .......... .........P VPQDCYHGN.
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  ..DDQ..... .......... .......... .........P PMEAQYAEEG
+KAL_HUMAN   PQENTISGYS LLTCKRTLPE PCHSKIYPGV DFGGEE..LN VTFVKGV..N
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  PAQYY..... .......... .......... .........P SPVPQYAPRI
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   .CKDDINSYE C......... ......WCQA GFEGTNCELD ATCSIKN..G
+FA12_CAVPO  .......... .........V EGHHLCDCPM GYTGPFCDLD TTASCYEGRG
+HGFA_HUMAN  .......... ........VA TGTTVCACPP GFAGRLCNIE PDERCFLGNG
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            451                                                500
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  .......... .......... .......IIA LILALAIGLG ..........
+PLMN_BOVIN  .GQS....YR GTS....... .......... .......STT ITGRKCQS..
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  PGPGIFRAEP GDQQHPI.SQ AVCWRSMRRG C.AVLGALGL LAGAGVGS..
+KAL_HUMAN   V......... .......... .......... .......... .....CQE..
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  TTQA...STS VIHTHPKSSG APCTSKSKKS LCLALALGTV LTGAAVAAVL
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  ~~~~~MAQKE GGRT...... VPCCSRPKVA A.LTAGTLLL LTAIGAAS..
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   R......... .......... .......... .......... .....CKQ..
+FA12_CAVPO  VS......YR GM........ .......... ......ARTT VSGAKCQR..
+HGFA_HUMAN  TG......YR GV........ .......... ......ASTS ASGLSCLA..
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            501                                                550
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  ....IHF... .......... .DC.SGKYRC RSSFKCIELI ARCD......
+PLMN_BOVIN  .WSSMTPHRH LKTPENYP.. .NAGLTMNYC RNPDADKS.. PWCYTTD.PR
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  .WLLVL.... .......... .......YLC PAASQPIS.. GTL..QD.EE
+KAL_HUMAN   .......... .......... ........TC TK.....M.. IRCQFFT.YS
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  LWRFWDS... .......... .NCSTSEMEC GSSGTCISSS LWCD......
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  .WAIVA.... .......... .......VLL RSDQEPLY.. P.........
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   .......... .......... ........FC KR.DTDNK.. VVCSCTDGYR
+FA12_CAVPO  .WASEATYRN MTAE...QAL RRGLGHHTFC RNPDNDTR.. PWCFVWMGNR
+HGFA_HUMAN  .WNSDLLYQE LHVDSVGAAA LLGLGPHAYC RNPDNDER.. PWCYVVKDSA
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            551                                                600
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  .......... ......GVSD CKDGEDE... ......YRCV RVGGQ.NAVL
+PLMN_BOVIN  VRWEF..... .....CNLKK CSETP...EQ VPAAPQAPGV ENPPEADCMI
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  I......... .......TLS CSEASAEEAL LPALPKTVSF RINSE.DFLL
+KAL_HUMAN   L......... .LPEDCKEEK .......... .......... ..........
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  .......... ......GVAH CPNGEDE... ......NRCV RLYGQ.SFIL
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  .......... .......... .......... .........V QVSSA.DARL
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_RAT     ~~~~~~~~~~ ~~~~~~~RVS VAYNSKKI.. .......... ..........
+FA9_BOVIN   LAEDQKSCEP AVPFPCGRVS VSHISKKL.. .......... ..........
+FA12_CAVPO  LSWEY..... .....CDLAQ CQYPPQPT.. .......... ..........
+HGFA_HUMAN  LSWEY..... .....CRLEA CESLTRVQ.. .......... ..........
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            601                                                650
+CTRA_GADMO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MGHEVDSVLP ..........
+TMS3_HUMAN  QVFTA..ASW KTMCSDDWKG HYANVACAQL GFPSYVSSD. NLRVSSLEGQ
+PLMN_BOVIN  GTG....KSY ....RGKKAT TVAGVPCQEW AAQEPHQHSI FTPETNPQSG
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  EAQVRDQPRW LLVCHEGWSP ALGLQICWSL GHLRLTHHKG VNLTDIKLNS
+KAL_HUMAN   .......... .......... ......CKCF LRLSMDGSPT RIAY.GTQGS
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  QVYSSQRKAW YPVCQDDWSE SYGRAACKDM GYKNNFYSSQ GIPDQSGATS
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~MHSSVY ..........
+DER3_DERPT  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ MIIY.NI...
+DEF3_DERFA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MM.IL...
+HEPS_HUMAN  MVFDKTEGTW RLLCSSRSNA RVAGLSCEEM GFLRALTHSE LDVRTAGANG
+PSS8_HUMAN  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~MAQKGVLG
+FA9_RAT     .......... .......... ...TRAETVF SNTDYGNSTE LILD.DITN.
+FA9_BOVIN   .......... .......... ...TRAETIF SNTNYENSSE A.........
+FA12_CAVPO  .......... .......... ...ATPHDRF EHPKLPSSRL SILQ.TPQPT
+HGFA_HUMAN  .......... .......... ...L...... .......SPD LLAT.LPEPA
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~MIGK
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            651                                                700
+CTRA_GADMO  .......... ......G... ...LF..... ...RR...TY G..CGRP...
+TMS3_HUMAN  FREEFVSID. HLLPDDKVTA LHHSVYVREG CASGHVVTLQ CTACGH....
+PLMN_BOVIN  .LERNYCRNP DGDVNGPWCY TMNPRKPFDY CDVPQC..ES SFDCGK....
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  .SQEFAQLS. ....PRLGGF LEEAWQPRNN CTSGQVVSLR CSECGA....
+KAL_HUMAN   .......... ...S..G... ...YS..... ...LR...LC N..TGDN...
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~TMVER....
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~~~MNQF LFVSF..... CALL....DS AKVSAA....
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~~~MLNL LVLAL..... ...PLLVS.. .LVHTA....
+TMS2_MOUSE  ....FM.... KLNVSSGNVD LYKKLYHSDS CSSRMVVSLR CIECGV....
+CFAD_MOUSE  .......... .......... .......... ....F...VA LVILG.....
+DER3_DERPT  .......... ...L..I... ...VL..... ...LL...AI N..TLA....
+DEF3_DERFA  .......... ...T..I... ...VV..... ...LL...AA N..ILA....
+HEPS_HUMAN  .TSGFFCVD. EGRLPHTQRL LE..VISVCD CPRGRFLAAI CQDCGR....
+PSS8_HUMAN  .......... PGQLGAVAIL LYLGL..... ...LRSGT.. .GAEGA....
+FA9_RAT     .......... .......... ....S..... .......... ..........
+FA9_BOVIN   .......... .......... ....E..... .......... ..........
+FA12_CAVPO  .......... ...T..QNQA LANEL..... ...PE...TS SLLCGQ....
+HGFA_HUMAN  .......... ...S...... .......... ........PG RQACGR....
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~~~~~~~ ~~MVL..... ...IRVIA.. NL........
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~M..S... ...AL..... ...LI...LA L..VGAA...
+CTR1_PENVA  .......... ...L..S... ...LL..... ...LV...CV AVASGNPAAG
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            701                                                750
+CTRA_GADMO  .......... ..AISPVITG YSRIVNGEEA VPHSWSWQVS LQDQ...TGF
+TMS3_HUMAN  .......... ..RR...G.Y SSRIVGGNMS LLSQWPWQAS LQFQ...G.Y
+PLMN_BOVIN  .......... ..PKVEPKKC SGRIVGGCVS KPHSWPWQVS LRRS...S.R
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~~~~~~~ ~~~IVGGTDA VLGEFPYQLS FQETFLGFSF
+TMS5_HUMAN  .......... ......RP.L ASRIVGGQSV APGRWPWQAS VA.L...GFR
+KAL_HUMAN   .......... ...SVCTTKT STRIVGGTNS SWGEWPWQVS LQVKL.TAQR
+TRY5_AEDAE  .......... ......SD.S SGRIVGGFEV PVEEVPFQVS LSGV...GSS
+TRY3_AEDAE  .......... ......TL.S SGRIVGGFQI DIAEVPHQVS LQRS...G.R
+GILX_HELHO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~IIGGQEC DETGHPWLAL LHRS....EG
+TRYT_PIG    .......... ..PAPGQALE RAGIVGGKEA PGHKWPWQVS LRCLDQYW.K
+TMS2_MOUSE  .......... ..RS...VKR QSRIVGGLNA SPGDWPWQVS LHVQ...G.V
+CFAD_MOUSE  .......... ..AAVCAAQP RGRILGGQEA AAHARPYMAS VQ....VNGT
+DER3_DERPT  .......... ..NPILPASP NATIVGGEKA LAGECPYQIS LQ.....SSS
+DEF3_DERFA  .......... ..TPILPSSP NATIVGGVKA QAGDCPYQIS LQ.....SSS
+HEPS_HUMAN  .......... ......RKLP VDRIVGGRDT SLGRWPWQVS LRYD...G.A
+PSS8_HUMAN  .......... ..EAPCGVAP QARITGGSSA VAGQWPWQVS ITYE...G.V
+FA9_RAT     ..TIL...DN LTENSEPIND FTRVVGGENA KPGQIPWQVI LN....GEIE
+FA9_BOVIN   ..IIW...DN VTQSNQSFDE FSRVVGGEDA ERGQFPWQVL LH....GEIA
+FA12_CAVPO  .......... ..RLRKRLSS LSRIVGGLVA LPGAHPYIAA LY.....WGS
+HGFA_HUMAN  .......... ..RHKKRTFL RPRIIGGSSS LPGSHPWLAA IY.....IGD
+VSP3_BOTJA  .........L ILQLSNAQKS SELVIGGDEC NITEHRFLVE IFNS....SG
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~~~~~~~ ~~~VIGGDEC NINEHRFLAL VY.A....NG
+TRY1_RAT    .......... ...VAFPLED DDKIVGGYTC PEHSVPYQVS LN.....SGY
+CTR1_PENVA  KPWHWKSPKP LVDPRIHVNA TPRIVGGVEA TPHSWPHQAA LF....IDDM
+5ptp_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~IVGGYTC GANTVPYQVS LN.....SGY
+
+            751                                                800
+CTRA_GADMO  HFCGGSLINE NWVVTAAHCN VKN......Y HRVVLGEHDR SSNSEGVQVM
+TMS3_HUMAN  HLCGGSVITP LWIITAAHCV YDL..YLPKS WTIQVGLVSL .LDN.PAPSH
+PLMN_BOVIN  HFCGGTLISP KWVLTAAHCL DNIL..ALSF YKVILGAHNE KVRE...Q..
+TRYP_ASTFL  HFCGASIYNE NYAITAGHCV YGDDYENPSG LQIVAGELDM SVNEGSEQTI
+TMS5_HUMAN  HTCGGSVLAP RWVVTAAHCM HSFRLARLSS WRVHAGLVSH SAVR.PHQGA
+KAL_HUMAN   HLCGGSLIGH QWVLTAAHCF DGLPLQDVW. .RIYSGILNL SDITKDTPFS
+TRY5_AEDAE  HFCGGSLLSE RWVMTAGHCA ASGQ.TNL.. .QVRIGSSQH ..AS.GGQLI
+TRY3_AEDAE  HFCGGSIISP RWVLTRAHCT TNTDPAAY.. .TIRAGSTDR ..TN.GGIIV
+GILX_HELHO  STWSGVLLNR DWILTAAHCE ELG......P MKICFGMKNR NVLRGDEQVK
+TRYT_PIG    HFCGGSLIHP QWVLTAAHCF GPEK.ADPLY IRVQLGEQHL ..YY.QDRLL
+TMS2_MOUSE  HVCGGSIITP EWIVTAAHCV EEPL.SGPRY WTAFAGILRQ SLMF.YGSRH
+CFAD_MOUSE  HVCGGTLLDE QWVLSAAHCM DGVTDDD..S VQVLLGAHSL SAPEPYKRWY
+DER3_DERPT  HFCGGTILDE YWILTAAHCV AGQTASKLS. ..IRYNS... LKHSLGGEKI
+DEF3_DERFA  HFCGGSILDE YWILTAAHCV NGQSAKKLS. ..IRYNT... LKHASGGEKI
+HEPS_HUMAN  HLCGGSLLSG DWVLTAAHCF PERN.RVLSR WRVFAGAVAQ ASPH.GLQL.
+PSS8_HUMAN  HVCGGSLVSE QWVLSAAHCF PSEH.HKEAY E.VKLGAHQL DSYSEDAKVS
+FA9_RAT     AFCGGAIINE KWIVTAAHCL KPGD.....K IEVVAGEHNI DEKEDTEQRR
+FA9_BOVIN   AFCGGSIVNE KWVVTAAHCI KPGV.....K ITVVAGEHNT EKPEPTEQKR
+FA12_CAVPO  NFCSGSLIAP CWVLTAAHCL QNRPAPE..E LKVVLGQDRH NQSCEHCQTL
+HGFA_HUMAN  SFCAGSLVHT CWVVSAAHCF SHSPPRD..S VSVVLGQHFF NRTTDVTQTF
+VSP3_BOTJA  LFCGGTLIDQ EWVLSAAHCD .MR......N MRIYLGVHNE GVQHADQQRR
+VSP1_AGKCO  SLCGGTLINQ EWVLTARHCD .RG......N MRIYLGMHNL KVLNKDALRR
+TRY1_RAT    HFCGGSLIND QWVVSAAHCY K.......SR IQVRLGEHNI NVLEGDEQFI
+CTR1_PENVA  YFCGGSLISS EWVLTAAHCM DGAG.....F VEVVLGAHNI RQNEASQVSI
+5ptp_       HFCGGSLINS QWVVSAAHCY K.......SG IQV.LGEDNI NVVEGNEQFI
+
+            801                                                850
+CTRA_GADMO  TVGQVFKH.. .......PR. .....YNGF. .TINNDILLV KLATPAT...
+TMS3_HUMAN  LVEKIVYH.. .......SK. .....YKPK. .RLGNDIALM KLAGPLT...
+PLMN_BOVIN  SVQ....... ...EIPVSR. .....LFRE. .PSQADIALL KLSRPAI...
+TRYP_ASTFL  TVSKIILH.. .......EN. .....FDYD. .LLDNDISLL KLSGSLT...
+TMS5_HUMAN  LVERIIPH.. .......PL. .....YSAQ. .NHDYDVALL RLQTALN...
+KAL_HUMAN   QIKEIIIH.. .......QN. .....YKVS. .EGNHDIALI KLQAPLN...
+TRY5_AEDAE  KVKKVNRH.. .......PK. .....YDEV. .TTDYDFALL ELEETVT...
+TRY3_AEDAE  KVKSVIPH.. .......PQ. .....YNGD. .TYNYDFSLL ELDESIG...
+GILX_HELHO  VAAVKKCYPA TAGTIYNCNY VNTVLMNNDL LKRELFPMLI KLDSSVD...
+TRYT_PIG    LVSRIIVH.. .......PN. .....YYDE. .VNGADIALL ELEDPVN...
+TMS2_MOUSE  QVEKVISH.. .......PN. .....YDSK. .TKNNDIALM KLQTPLA...
+CFAD_MOUSE  DVQSVVPH.. .......PG. .....SRPD. .SLEDDLILF KLSQNAS...
+DER3_DERPT  SVAKIFAH.. .......EK. .....YDSY. .QIDNDIALI KLKSPMK...
+DEF3_DERFA  QVAEIYQH.. .......EN. .....YDSM. .TIDNDVALI KLKTPMT...
+HEPS_HUMAN  GVQAVVYH.. .GGYLPFRD. .....PNSE. .ENSNDIALV HLSSPLP...
+PSS8_HUMAN  TLKDIIPH.. .......PS. .....YLQE. .GSQGDIALL QLSRPIT...
+FA9_RAT     NVIRTIPH.. .......HQ. .....YNATI NKYSHDIALL ELDKPLI...
+FA9_BOVIN   NVIRAIPY.. .......HS. .....YNASI NKYSHDIALL ELDEPLE...
+FA12_CAVPO  AVHSYRLH.. .......EA. .....FSPS. .SYLNDLALL RLQKSADGSC
+HGFA_HUMAN  GIEKYIPY.. .......TL. .....YSVF. NPSDHDLVLI RLKKKGD.RC
+VSP3_BOTJA  FAREKF.... ......FCL. .....SSRNY TKWDKDIMLI RLNRPVN...
+VSP1_AGKCO  FPKEKY.... ......FCL. .....NTRND TIWDKDIMLI RLNRPVR...
+TRY1_RAT    NAAKIIKH.. .......PN. .....YSSW. .TLNNDIMLI KLSSPVK...
+CTR1_PENVA  TSTDFFTH.. .......EN. .....WNSW. .LLTNDIALI RLPSPVS...
+5ptp_       SASKSIVH.. .......PS. .....YNSN. .TLNNDIMLI KLKSAAS...
+
+            851                                                900
+CTRA_GADMO  ..LNM.RVSP VCLAETDDVF ..EGGMKCVT SGWGLTRYNA AD.TPALLQQ
+TMS3_HUMAN  ..FNE.MIQP VCLPNSEENF ..PDGKVCWT SGWGATEDGA GD.ASPVLNH
+PLMN_BOVIN  ..ITK.EVIP ACLPPPNYMV ..AARTECYI TGWGETQGTF ...GEGLLKE
+TRYP_ASTFL  ..FNN.NVAP IALPAQGHTA ....TGNVIV TGWGTTS.EG GN.TPDVLQK
+TMS5_HUMAN  ..FSD.TVGA VCLPAKEQHF ..PKGSRCWV SGWGHTHPSH TY.SSDMLQD
+KAL_HUMAN   ..YTE.FQKP ICLPSKGDTS ..TIYTNCWV TGWGFSK.EK GE.IQNILQK
+TRY5_AEDAE  ..FSD.SCAP VKLPQKDTPV ..NEGTCLQV SGWGNTQNPS E..SSEVLRA
+TRY3_AEDAE  ..FSR.SIEA IALPDASETV ..ADGAMCTV SGWGDTKNVF E..MNTLLRA
+GILX_HELHO  ..YNE.RVAP LSLPTSPASL ....GAECSV LGWGTTTPDD VT.LPDVPVC
+TRYT_PIG    ..LSS.HVQP VTLPPASETF ..PKGTRCWV TGWGDVHSGW PLPPPYPLKQ
+TMS2_MOUSE  ..FND.LVKP VCLPNPGMML ..DLDQECWI SGWGATYE.K GK.TSDVLNA
+CFAD_MOUSE  ..LGP.HVRP LPLQYEDKEV ..EPGTLCDV AGWGVVT.HA GR.RPDVLHQ
+DER3_DERPT  ..LNQKNAKA VGLPAKGSDV ..KVGDQVRV SGWGYLEEGS YS.LPSELRR
+DEF3_DERFA  ..LDQTNAKP VPLPAQGSDV ..KVGDKIRV SGWGYLQEGS YS.LPSELQR
+HEPS_HUMAN  ..LTE.YIQP VCLPAAGQAL ..VDGKICTV TGWGNTQYYG Q..QAGVLQE
+PSS8_HUMAN  ..FSR.YIRP ICLPAANASF ..PNGLHCTV TGWGHVAPSV SLLTPKPLQQ
+FA9_RAT     ..LNS.YVTP ICVANKEYTN IFLKFGSGYV SGWGKVF.NK GR.QASILQY
+FA9_BOVIN   ..LNS.YVTP ICIADRDYTN IFSKFGYGYV SGWGKVF.NR GR.SASILQY
+FA12_CAVPO  AQLSP.YVQT VCLPSGPAPP SESETTCCEV AGWGHQFEGA EE.YSSFLQE
+HGFA_HUMAN  ATRSQ.FVQP ICLPEPGSTF ..PAGHKCQI AGWGHLDENV SG.YSSSLRE
+VSP3_BOTJA  ..NSE.HIAP LSLPSNPPSV ....GSVCRI MGWGTITSPN AT.FPDVPHC
+VSP1_AGKCO  ..NSA.HIAP LSLPSNPPSV ....GSVCRI MGWGTITSPN AT.LPDVPHC
+TRY1_RAT    ..LNA.RVAP VALPSACAPA ....GTQCLI SGWGNTLSNG VN.NPDLLQC
+CTR1_PENVA  ..LNS.NIKT VKLPSSDVSV ....GTTVTP TGWGRPSDSA SG.ISDVLRQ
+5ptp_       ..LNS.RVAS ISLPTSCASA ....GTQCLI SGWGNTKSSG TS.YPDVLKC
+
+            901                                                950
+CTRA_GADMO  AALPLLTNEQ CKKFWG.... ......NKIS DLMICAG.AA ..GASSCMGD
+TMS3_HUMAN  AAVPLISNKI CNHRDV.YG. ......GIIS PSMLCAG.YL TGGVDSCQGD
+PLMN_BOVIN  AHLPVIENKV CNRNEY.LD. ......GRVK PTELCAG.HL IGGTDSCQGD
+TRYP_ASTFL  VTVPLVSDAE CRDDYGA... ......DEIF DSMICAG.VP EGGKDSCQGD
+TMS5_HUMAN  TVVPLFSTQL CNSSCV.YS. ......GALT PRMLCAG.YL DGRADACQGD
+KAL_HUMAN   VNIPLVTNEE CQKRYQD... ......YKIT QRMVCAG.YK EGGKDACKGD
+TRY5_AEDAE  AYVPAVSQKE CHKAYL.SF. ......GGVT DRMVCAG.FK EGGKDSCQGD
+TRY3_AEDAE  VNVPSYNQAE CAAALV.NV. ......VPVT EQMICAG.YA AGGKDSCQGD
+GILX_HELHO  VNIEIFNNAV CQVARD.... ......LWKF TNKLCAG.VD FGGKDSCKGD
+TRYT_PIG    VRVPIVENSE CDMQYH.LGL STGDNIPIVR DDMLCAG.S. .EGHDSCQGD
+TMS2_MOUSE  AMVPLIEPSK CNSKYI.YN. ......NLIT PAMICAG.FL QGSVDSCQGD
+CFAD_MOUSE  LRVSIMNRTT CNLRTY.HD. ......GVVT INMMCAE... SNRRDTCRGD
+DER3_DERPT  VDIAVVSRKE CNELYSKAN. ......AEVT DNMICGGDVA NGGKDSCQGD
+DEF3_DERFA  VDIDVVSREQ CDQLYSKAG. ......ADVS ENMICGGDVA NGGVDSCQGD
+HEPS_HUMAN  ARVPIISNDV CNGADF.YG. ......NQIK PKMFCAG.YP EGGIDACQGD
+PSS8_HUMAN  LEVPLISRET CNCLYN.IDA KPE.EPHFVQ EDMVCAG.YV EGGKDACQGD
+FA9_RAT     LRVPLVDRAT CLRSTK.... ......FSIY NNMFCAG.YR EGGKDSCEGD
+FA9_BOVIN   LKVPLVDRAT CLRSTK.... ......FSIY SHMFCAG.YH EGGKDSCQGD
+FA12_CAVPO  AQVPLISSER CSSPEV.HG. ......DAFL SGMLCAG.FL EGGTDACQGD
+HGFA_HUMAN  ALVPLVADHK CSSPEV.YG. ......ADIS PNMLCAG.YF DCKSDACQGD
+VSP3_BOTJA  ANINLFNYTV CRGAHAG... ......LPAT SRTLCAG.VL QGGIDTCGGD
+VSP1_AGKCO  ANINILDYAV CQAAYKG... ......LAA. .TTLCAG.IL EGGKDTCKGD
+TRY1_RAT    VDAPVLSQAD CEAAYP.... ......GEIT SSMICVG.FL EGGKDSCQGD
+CTR1_PENVA  VNVPVMTNAD CDSVYGI... ........VG DGVVCID..G TGGKSTCNGD
+5ptp_       LKAPILSDSS CKSAYP.... ......GQIT SNMFCAG.LE ..GGDSCQGD
+
+            951                                               1000
+CTRA_GADMO  SGGPLVCQKA ....GS...W TLVGIVSWGS G.TCTPTMPG VYARVTELRA
+TMS3_HUMAN  SGGPLVCQER ....RL...W KLVGATSFGI G.CAEVNKPG VYTRVTSFLD
+PLMN_BOVIN  SGGPLVCFEK ....DK...Y ILQGVTSWGL G.CARPNKPG VYVRVSPYVP
+TRYP_ASTFL  SGGPLAASDT ....GS...T YLAGIVSWGY G.CARPGYPG VYTEVSYHVD
+TMS5_HUMAN  SGGPLVCPDG ....DT...W RLVGVVSWGR A.CAEPNHPG VYAKVAEFLD
+KAL_HUMAN   SGGPLVCKHN ....GM...W RLVGITSWGE G.CARREQPG VYTKVAEYMD
+TRY5_AEDAE  SGGPLVHDN. .......... TLVGVVSWGY G.CAQAGYPG VYARVASVRD
+TRY3_AEDAE  SGGPLVSGD. .......... KLVGVVSWGK G.CALPNLPG VYARVSTVRQ
+GILX_HELHO  SGGPLVCD.. .........N QLTGNVSWGF N.CEQ.GEKY GYIKLIKFNF
+TRYT_PIG    SGGPLVCRVN ....GT...W LQAGVVSWGE G.CALPNRPG IYTRVTHYLD
+TMS2_MOUSE  SGGPLVTLKN ....GI...W WLIGDTSWGS G.CAKALRPG VYGNVTVFTD
+CFAD_MOUSE  SGSPLVCG.. .........D AVEGVVTWGS RVCGNGKKPG VYTRVSSYRM
+DER3_DERPT  SGGPVVDVK. .....N...N QVVGIVSWGY G.CARKGYPG VYTRVGNFID
+DEF3_DERFA  SGGPVVDVA. .....T...K QIVGIVSWGY G.CARKGYPG VYTRVGNFVD
+HEPS_HUMAN  SGGPFVCEDS ISRTPR...W RLCGIVSWGT G.CALAQKPG VYTKVSDFRE
+PSS8_HUMAN  SGGPLSCPVE ....GL...W YLTGIVSWGD A.CGARNRPG VYTLASSYAS
+FA9_RAT     SGGPHVTEVE ....GT...S FLTGIISWGE E.CAMKGKYG IYTKVSRYVN
+FA9_BOVIN   SGGPHVTEVE ....GT...S FLTGIISWGE E.CAMKGKYG IYTKVSRYVN
+FA12_CAVPO  SGGPLVCEDE ....AAEHRL ILRGIVSWGS G.CGDRNKPG VYTDVASYLT
+HGFA_HUMAN  SGGPLACEKN ....GV...A YLYGIISWGD G.CGRLHKPG VYTRVANYVD
+VSP3_BOTJA  SGGPLICN.. .........G TFQGIVSWGG HPCAQPGEPA LYTKVFDYLP
+VSP1_AGKCO  SGGPLICN.. .........G QFQGILSVGG NPCAQPRKPG IYTKVFDYTD
+TRY1_RAT    SGGPVVCN.. .........G QLQGIVSWGY G.CALPDNPG VYTKVCNFVG
+CTR1_PENVA  SGGPLNLN.. .........G MTYGITSFGS SAGCEKGYPA AFTRVYYYLD
+5ptp_       XGGPVVCS.. .........G KLQGIVSWGS G.CAK.NKPG VYTKVCNYVS
+
+            1001                                              1050
+CTRA_GADMO  WVDQTIAAN~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS3_HUMAN  WIHEQMERDL KT~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLMN_BOVIN  WIEETMRRN~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYP_ASTFL  WIKANAV~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS5_HUMAN  WIHDTAQDSL L~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+KAL_HUMAN   WILEKTQSSD GKAQMQSPA~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY5_AEDAE  WVKEVSGL~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY3_AEDAE  WIREVSEV~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+GILX_HELHO  WIQNIIQGGT T..CP~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRYT_PIG    WIHQCIPRES ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TMS2_MOUSE  WIYQQMRANS ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CFAD_MOUSE  WIENITNGNM TS~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DER3_DERPT  WIESKRSQ~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DEF3_DERFA  WIESKRSQ~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HEPS_HUMAN  WIFQAIKTHS EASGMVTQL~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PSS8_HUMAN  WIQSKVTELQ PRVVPQTQES QPDSNLCGSH LAFSSAPAQG LLRPILFLPL
+FA9_RAT     W~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA9_BOVIN   WIKEKTKLT~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+FA12_CAVPO  WIQKHTAS~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+HGFA_HUMAN  WINDRIRPPR RLVAPS~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP3_BOTJA  WIQSIIAGNT TATCPP~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+VSP1_AGKCO  WIQSIISGNT DATCPP~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+TRY1_RAT    WIQDTIAAN~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+CTR1_PENVA  WIQQKTGVTP ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+5ptp_       WIKQTIASN~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            1051       1064
+CTRA_GADMO  ~~~~~~~~~~ ~~~~
+TMS3_HUMAN  ~~~~~~~~~~ ~~~~
+PLMN_BOVIN  ~~~~~~~~~~ ~~~~
+TRYP_ASTFL  ~~~~~~~~~~ ~~~~
+TMS5_HUMAN  ~~~~~~~~~~ ~~~~
+KAL_HUMAN   ~~~~~~~~~~ ~~~~
+TRY5_AEDAE  ~~~~~~~~~~ ~~~~
+TRY3_AEDAE  ~~~~~~~~~~ ~~~~
+GILX_HELHO  ~~~~~~~~~~ ~~~~
+TRYT_PIG    ~~~~~~~~~~ ~~~~
+TMS2_MOUSE  ~~~~~~~~~~ ~~~~
+CFAD_MOUSE  ~~~~~~~~~~ ~~~~
+DER3_DERPT  ~~~~~~~~~~ ~~~~
+DEF3_DERFA  ~~~~~~~~~~ ~~~~
+HEPS_HUMAN  ~~~~~~~~~~ ~~~~
+PSS8_HUMAN  GLALGLLSPW LSEH
+FA9_RAT     ~~~~~~~~~~ ~~~~
+FA9_BOVIN   ~~~~~~~~~~ ~~~~
+FA12_CAVPO  ~~~~~~~~~~ ~~~~
+HGFA_HUMAN  ~~~~~~~~~~ ~~~~
+VSP3_BOTJA  ~~~~~~~~~~ ~~~~
+VSP1_AGKCO  ~~~~~~~~~~ ~~~~
+TRY1_RAT    ~~~~~~~~~~ ~~~~
+CTR1_PENVA  ~~~~~~~~~~ ~~~~
+5ptp_       ~~~~~~~~~~ ~~~~

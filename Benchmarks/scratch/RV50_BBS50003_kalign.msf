@@ -1,0 +1,680 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV50_BBS50003_kalign.msf  MSF: 832  Type: N  December 21, 2021 20:09  Check: 134  ..
+
+ Name: 1ct9_A      Len:    832  Check: 2569  Weight: 1.00
+ Name: ASNS_SCHPO  Len:    832  Check: 1544  Weight: 1.00
+ Name: ASN1_YEAST  Len:    832  Check: 2686  Weight: 1.00
+ Name: ASN1_LOTJA  Len:    832  Check: 7307  Weight: 1.00
+ Name: ASNS_MAIZE  Len:    832  Check: 6106  Weight: 1.00
+ Name: ASNS_CRIGR  Len:    832  Check: 4445  Weight: 1.00
+ Name: ASN1_METJA  Len:    832  Check: 8059  Weight: 1.00
+ Name: YMJ6_YEAST  Len:    832  Check: 3885  Weight: 1.00
+ Name: ASNH_MYCTU  Len:    832  Check: 1723  Weight: 1.00
+ Name: ASNB_BACSU  Len:    832  Check: 8846  Weight: 1.00
+ Name: ASNH_BACSU  Len:    832  Check: 5804  Weight: 1.00
+ Name: ASN2_METJA  Len:    832  Check: 9597  Weight: 1.00
+ Name: ASNO_BACSU  Len:    832  Check: 4247  Weight: 1.00
+ Name: 1ecf_A      Len:    832  Check: 7258  Weight: 1.00
+ Name: PUR1_HAEIN  Len:    832  Check: 3764  Weight: 1.00
+ Name: PUR1_PSEAE  Len:    832  Check: 6810  Weight: 1.00
+ Name: PUR1_SCHPO  Len:    832  Check:  217  Weight: 1.00
+ Name: PUR1_SACKL  Len:    832  Check: 3206  Weight: 1.00
+ Name: PUR1_BACSU  Len:    832  Check: 2486  Weight: 1.00
+ Name: PUR1_STAAM  Len:    832  Check: 1373  Weight: 1.00
+ Name: PUR1_RHIET  Len:    832  Check: 8892  Weight: 1.00
+ Name: PUR1_SOYBN  Len:    832  Check: 1903  Weight: 1.00
+ Name: PUR1_METJA  Len:    832  Check:  883  Weight: 1.00
+ Name: PUR1_ARCFU  Len:    832  Check: 7267  Weight: 1.00
+ Name: PUR1_METTH  Len:    832  Check: 5473  Weight: 1.00
+ Name: PUR1_PYRHO  Len:    832  Check: 2052  Weight: 1.00
+ Name: PUR1_PYRAB  Len:    832  Check: 9871  Weight: 1.00
+ Name: PUR1_SYNP7  Len:    832  Check: 8660  Weight: 1.00
+ Name: PUR1_SYNY3  Len:    832  Check: 7039  Weight: 1.00
+ Name: PUR1_MYCLE  Len:    832  Check: 9392  Weight: 1.00
+ Name: PUR1_DROME  Len:    832  Check: 5007  Weight: 1.00
+ Name: PUR1_CHICK  Len:    832  Check: 7327  Weight: 1.00
+ Name: GLMS_RHILO  Len:    832  Check:   37  Weight: 1.00
+ Name: GLMS_RHIME  Len:    832  Check: 3836  Weight: 1.00
+ Name: GLMS_AGRT5  Len:    832  Check: 7968  Weight: 1.00
+ Name: GLMS_BRUME  Len:    832  Check:  286  Weight: 1.00
+ Name: GLMS_BRAJA  Len:    832  Check: 1856  Weight: 1.00
+ Name: NODM_BRAJA  Len:    832  Check: 9052  Weight: 1.00
+ Name: GLMS_CAUCR  Len:    832  Check: 8869  Weight: 1.00
+ Name: 1gdo_A      Len:    832  Check: 9044  Weight: 1.00
+ Name: GLMS_PSEAE  Len:    832  Check: 1005  Weight: 1.00
+ Name: GLMS_METJA  Len:    832  Check: 2819  Weight: 1.00
+ Name: GLMS_CYACA  Len:    832  Check: 9664  Weight: 1.00
+
+//
+
+1ct9_A         ------------------------------------------------------------
+ASNS_SCHPO     ------------------------------------------------------------
+ASN1_YEAST     ------------------------------------------------------------
+ASN1_LOTJA     ------------------------------------------------------------
+ASNS_MAIZE     ------------------------------------------------------------
+ASNS_CRIGR     ------------------------------------------------------------
+ASN1_METJA     ------------------------------------------------------------
+YMJ6_YEAST     ------------------------------------------------------------
+ASNH_MYCTU     ------------------------------------------------------------
+ASNB_BACSU     ------------------------------------------------------------
+ASNH_BACSU     ------------------------------------------------------------
+ASN2_METJA     ------------------------------------------------------------
+ASNO_BACSU     ------------------------------------------------------------
+1ecf_A         ------------------------------------------------------------
+PUR1_HAEIN     ------------------------------------------------------------
+PUR1_PSEAE     ------------------------------------------------------------
+PUR1_SCHPO     ------------------------------------------------------------
+PUR1_SACKL     ------------------------------------------------------------
+PUR1_BACSU     ------------------------------------------------------------
+PUR1_STAAM     ------------------------------------------------------------
+PUR1_RHIET     ------------------------------------------------------------
+PUR1_SOYBN     ------------------------------------------------------------
+PUR1_METJA     ------------------------------------------------------------
+PUR1_ARCFU     ------------------------------------------------------------
+PUR1_METTH     ------------------------------------------------------------
+PUR1_PYRHO     ------------------------------------------------------------
+PUR1_PYRAB     ------------------------------------------------------------
+PUR1_SYNP7     ------------------------------------------------------------
+PUR1_SYNY3     ------------------------------------------------------------
+PUR1_MYCLE     ------------------------------------------------------------
+PUR1_DROME     ------------------------------------------------------------
+PUR1_CHICK     ------------------------------------------------------------
+GLMS_RHILO     ------------------------------------------------------------
+GLMS_RHIME     ------------------------------------------------------------
+GLMS_AGRT5     ------------------------------------------------------------
+GLMS_BRUME     ------------------------------------------------------------
+GLMS_BRAJA     ------------------------------------------------------------
+NODM_BRAJA     ------------------------------------------------------------
+GLMS_CAUCR     ------------------------------------------------------------
+1gdo_A         ------------------------------------------------------------
+GLMS_PSEAE     CGIIGYIGNDKAPKILLNGLRRLEYRGYDSCGIGVVDNNKLIIKKNVGKVEEVAKKERFL
+GLMS_METJA     ------------------------------------------------------------
+GLMS_CYACA     ------------------------------------------------------------
+
+
+1ct9_A         ------------------------------------------------------------
+ASNS_SCHPO     ------------------------------------------------------------
+ASN1_YEAST     ------------------------------------------------------------
+ASN1_LOTJA     ------------------------------------------------------------
+ASNS_MAIZE     ------------------------------------------------------------
+ASNS_CRIGR     ------------------------------------------------------------
+ASN1_METJA     ------------------------------------------------------------
+YMJ6_YEAST     ------------------------------------------------------------
+ASNH_MYCTU     ------------------------------------------------------------
+ASNB_BACSU     ------------------------------------------------------------
+ASNH_BACSU     ------------------------------------------------------------
+ASN2_METJA     ------------------------------------------------------------
+ASNO_BACSU     ------------------------------------------------------------
+1ecf_A         ------------------------------------------------------------
+PUR1_HAEIN     ------------------------------------------------------------
+PUR1_PSEAE     ------------------------------------------------------------
+PUR1_SCHPO     ------------------------------------------------------------
+PUR1_SACKL     ------------------------------------------------------------
+PUR1_BACSU     ------------------------------------------------------------
+PUR1_STAAM     ------------------------------------------------------------
+PUR1_RHIET     ------------------------------------------------------------
+PUR1_SOYBN     ------------------------------------------------------------
+PUR1_METJA     ------------------------------------------------------------
+PUR1_ARCFU     ------------------------------------------------------------
+PUR1_METTH     ------------------------------------------------------------
+PUR1_PYRHO     ------------------------------------------------------------
+PUR1_PYRAB     ------------------------------------------------------------
+PUR1_SYNP7     ------------------------------------------------------------
+PUR1_SYNY3     ------------------------------------------------------------
+PUR1_MYCLE     ------------------------------------------------------------
+PUR1_DROME     ------------------------------------------------------------
+PUR1_CHICK     ------------------------------------------------------------
+GLMS_RHILO     ------------------------------------------------------------
+GLMS_RHIME     ------------------------------------------------------------
+GLMS_AGRT5     ------------------------------------------------------------
+GLMS_BRUME     ------------------------------------------------------------
+GLMS_BRAJA     ------------------------------------------------------------
+NODM_BRAJA     ------------------------------------------------------------
+GLMS_CAUCR     ------------------------------------------------------------
+1gdo_A         ------------------------------------------------------------
+GLMS_PSEAE     DIDGNIGIGHCLHPDTYVILPDGRMKKISEIDEDEVLSVNFEDLKLYNKKIKKFKHKAPK
+GLMS_METJA     ------------------------------------------------------------
+GLMS_CYACA     ------------------------------------------------------------
+
+
+1ct9_A         ------------------------------------------------------------
+ASNS_SCHPO     ------------------------------------------------------------
+ASN1_YEAST     ------------------------------------------------------------
+ASN1_LOTJA     ------------------------------------------------------------
+ASNS_MAIZE     ------------------------------------------------------------
+ASNS_CRIGR     ------------------------------------------------------------
+ASN1_METJA     ------------------------------------------------------------
+YMJ6_YEAST     ------------------------------------------------------------
+ASNH_MYCTU     ------------------------------------------------------------
+ASNB_BACSU     ------------------------------------------------------------
+ASNH_BACSU     ------------------------------------------------------------
+ASN2_METJA     ------------------------------------------------------------
+ASNO_BACSU     ------------------------------------------------------------
+1ecf_A         ------------------------------------------------------------
+PUR1_HAEIN     ------------------------------------------------------------
+PUR1_PSEAE     ------------------------------------------------------------
+PUR1_SCHPO     ------------------------------------------------------------
+PUR1_SACKL     ------------------------------------------------------------
+PUR1_BACSU     ------------------------------------------------------------
+PUR1_STAAM     ------------------------------------------------------------
+PUR1_RHIET     ------------------------------------------------------------
+PUR1_SOYBN     ------------------------------------------------------------
+PUR1_METJA     ------------------------------------------------------------
+PUR1_ARCFU     ------------------------------------------------------------
+PUR1_METTH     ------------------------------------------------------------
+PUR1_PYRHO     ------------------------------------------------------------
+PUR1_PYRAB     ------------------------------------------------------------
+PUR1_SYNP7     ------------------------------------------------------------
+PUR1_SYNY3     ------------------------------------------------------------
+PUR1_MYCLE     ------------------------------------------------------------
+PUR1_DROME     ------------------------------------------------------------
+PUR1_CHICK     ------------------------------------------------------------
+GLMS_RHILO     ------------------------------------------------------------
+GLMS_RHIME     ------------------------------------------------------------
+GLMS_AGRT5     ------------------------------------------------------------
+GLMS_BRUME     ------------------------------------------------------------
+GLMS_BRAJA     ------------------------------------------------------------
+NODM_BRAJA     ------------------------------------------------------------
+GLMS_CAUCR     ------------------------------------------------------------
+1gdo_A         ------------------------------------------------------------
+GLMS_PSEAE     ILYKIKTAFSELITTGEHKLFVVENGKIVEKCVKDLNGSELIGVVRKLNYSFNDNVEFKD
+GLMS_METJA     ------------------------------------------------------------
+GLMS_CYACA     ------------------------------------------------------------
+
+
+1ct9_A         ------------------------------------------------------------
+ASNS_SCHPO     ------------------------------------------------------------
+ASN1_YEAST     ------------------------------------------------------------
+ASN1_LOTJA     ------------------------------------------------------------
+ASNS_MAIZE     ------------------------------------------------------------
+ASNS_CRIGR     ------------------------------------------------------------
+ASN1_METJA     ------------------------------------------------------------
+YMJ6_YEAST     ------------------------------------------------------------
+ASNH_MYCTU     ------------------------------------------------------------
+ASNB_BACSU     ------------------------------------------------------------
+ASNH_BACSU     ------------------------------------------------------------
+ASN2_METJA     ------------------------------------------------------------
+ASNO_BACSU     ------------------------------------------------------------
+1ecf_A         ------------------------------------------------------------
+PUR1_HAEIN     ------------------------------------------------------------
+PUR1_PSEAE     ------------------------------------------------------------
+PUR1_SCHPO     ------------------------------------------------------------
+PUR1_SACKL     ------------------------------------------------------------
+PUR1_BACSU     ------------------------------------------------------------
+PUR1_STAAM     ------------------------------------------------------------
+PUR1_RHIET     ------------------------------------------------------------
+PUR1_SOYBN     ------------------------------------------------------------
+PUR1_METJA     ------------------------------------------------------------
+PUR1_ARCFU     ------------------------------------------------------------
+PUR1_METTH     ------------------------------------------------------------
+PUR1_PYRHO     ------------------------------------------------------------
+PUR1_PYRAB     ------------------------------------------------------------
+PUR1_SYNP7     ------------------------------------------------------------
+PUR1_SYNY3     ------------------------------------------------------------
+PUR1_MYCLE     ------------------------------------------------------------
+PUR1_DROME     ------------------------------------------------------------
+PUR1_CHICK     ------------------------------------------------------------
+GLMS_RHILO     ------------------------------------------------------------
+GLMS_RHIME     ------------------------------------------------------------
+GLMS_AGRT5     ------------------------------------------------------------
+GLMS_BRUME     ------------------------------------------------------------
+GLMS_BRAJA     ------------------------------------------------------------
+NODM_BRAJA     ------------------------------------------------------------
+GLMS_CAUCR     ------------------------------------------------------------
+1gdo_A         ------------------------------------------------------------
+GLMS_PSEAE     VYVERHYKLDETIRNKLRKVREKLGLTRKDVEKLCGVKEIYIVKIETGKLESIEEERLKK
+GLMS_METJA     ------------------------------------------------------------
+GLMS_CYACA     ------------------------------------------------------------
+
+
+1ct9_A         ------------------------------------------------------------
+ASNS_SCHPO     ------------------------------------------------------------
+ASN1_YEAST     ------------------------------------------------------------
+ASN1_LOTJA     ------------------------------------------------------------
+ASNS_MAIZE     ------------------------------------------------------------
+ASNS_CRIGR     ------------------------------------------------------------
+ASN1_METJA     ------------------------------------------------------------
+YMJ6_YEAST     ------------------------------------------------------------
+ASNH_MYCTU     ------------------------------------------------------------
+ASNB_BACSU     ------------------------------------------------------------
+ASNH_BACSU     ------------------------------------------------------------
+ASN2_METJA     ------------------------------------------------------------
+ASNO_BACSU     ------------------------------------------------------------
+1ecf_A         ------------------------------------------------------------
+PUR1_HAEIN     ------------------------------------------------------------
+PUR1_PSEAE     ------------------------------------------------------------
+PUR1_SCHPO     ------------------------------------------------------------
+PUR1_SACKL     ------------------------------------------------------------
+PUR1_BACSU     ------------------------------------------------------------
+PUR1_STAAM     ------------------------------------------------------------
+PUR1_RHIET     ------------------------------------------------------------
+PUR1_SOYBN     ------------------------------------------------------------
+PUR1_METJA     ------------------------------------------------------------
+PUR1_ARCFU     ------------------------------------------------------------
+PUR1_METTH     ------------------------------------------------------------
+PUR1_PYRHO     ------------------------------------------------------------
+PUR1_PYRAB     ------------------------------------------------------------
+PUR1_SYNP7     ------------------------------------------------------------
+PUR1_SYNY3     ------------------------------------------------------------
+PUR1_MYCLE     ------------------------------------------------------------
+PUR1_DROME     ------------------------------------------------------------
+PUR1_CHICK     ------------------------------------------------------------
+GLMS_RHILO     ------------------------------------------------------------
+GLMS_RHIME     ------------------------------------------------------------
+GLMS_AGRT5     ------------------------------------------------------------
+GLMS_BRUME     ------------------------------------------------------------
+GLMS_BRAJA     ------------------------------------------------------------
+NODM_BRAJA     ------------------------------------------------------------
+GLMS_CAUCR     ------------------------------------------------------------
+1gdo_A         ------------------------------------------------------------
+GLMS_PSEAE     LCSLYGINFEEIIYRDNLHYTNPVKFPKTPTPELMQIIGYIIGDGHFPSNRMLRLKDERK
+GLMS_METJA     ------------------------------------------------------------
+GLMS_CYACA     ------------------------------------------------------------
+
+
+1ct9_A         ------------------------------------------------------------
+ASNS_SCHPO     ------------------------------------------------------------
+ASN1_YEAST     ------------------------------------------------------------
+ASN1_LOTJA     ------------------------------------------------------------
+ASNS_MAIZE     ------------------------------------------------------------
+ASNS_CRIGR     ------------------------------------------------------------
+ASN1_METJA     ------------------------------------------------------------
+YMJ6_YEAST     ------------------------------------------------------------
+ASNH_MYCTU     ------------------------------------------------------------
+ASNB_BACSU     ------------------------------------------------------------
+ASNH_BACSU     ------------------------------------------------------------
+ASN2_METJA     ------------------------------------------------------------
+ASNO_BACSU     ------------------------------------------------------------
+1ecf_A         ------------------------------------------------------------
+PUR1_HAEIN     ------------------------------------------------------------
+PUR1_PSEAE     ------------------------------------------------------------
+PUR1_SCHPO     ------------------------------------------------------------
+PUR1_SACKL     ------------------------------------------------------------
+PUR1_BACSU     ------------------------------------------------------------
+PUR1_STAAM     ------------------------------------------------------------
+PUR1_RHIET     ------------------------------------------------------------
+PUR1_SOYBN     ------------------------------------------------------------
+PUR1_METJA     ------------------------------------------------------------
+PUR1_ARCFU     ------------------------------------------------------------
+PUR1_METTH     ------------------------------------------------------------
+PUR1_PYRHO     ------------------------------------------------------------
+PUR1_PYRAB     ------------------------------------------------------------
+PUR1_SYNP7     ------------------------------------------------------------
+PUR1_SYNY3     ------------------------------------------------------------
+PUR1_MYCLE     ------------------------------------------------------------
+PUR1_DROME     ------------------------------------------------------------
+PUR1_CHICK     ------------------------------------------------------------
+GLMS_RHILO     ------------------------------------------------------------
+GLMS_RHIME     ------------------------------------------------------------
+GLMS_AGRT5     ------------------------------------------------------------
+GLMS_BRUME     ------------------------------------------------------------
+GLMS_BRAJA     ------------------------------------------------------------
+NODM_BRAJA     ------------------------------------------------------------
+GLMS_CAUCR     ------------------------------------------------------------
+1gdo_A         ------------------------------------------------------------
+GLMS_PSEAE     EVLEEYNQLFKTVFNLEGNIKKGDGNYYILEINSKYLIDWFRENIPELFNKTGNERTPEF
+GLMS_METJA     ------------------------------------------------------------
+GLMS_CYACA     ------------------------------------------------------------
+
+
+1ct9_A         ------------------------------------------------------------
+ASNS_SCHPO     ------------------------------------------------------------
+ASN1_YEAST     ------------------------------------------------------------
+ASN1_LOTJA     ------------------------------------------------------------
+ASNS_MAIZE     ------------------------------------------------------------
+ASNS_CRIGR     ------------------------------------------------------------
+ASN1_METJA     ------------------------------------------------------------
+YMJ6_YEAST     ------------------------------------------------------------
+ASNH_MYCTU     ------------------------------------------------------------
+ASNB_BACSU     ------------------------------------------------------------
+ASNH_BACSU     ------------------------------------------------------------
+ASN2_METJA     ------------------------------------------------------------
+ASNO_BACSU     ------------------------------------------------------------
+1ecf_A         ------------------------------------------------------------
+PUR1_HAEIN     ------------------------------------------------------------
+PUR1_PSEAE     ------------------------------------------------------------
+PUR1_SCHPO     ------------------------------------------------------------
+PUR1_SACKL     ------------------------------------------------------------
+PUR1_BACSU     ------------------------------------------------------------
+PUR1_STAAM     ------------------------------------------------------------
+PUR1_RHIET     ------------------------------------------------------------
+PUR1_SOYBN     ------------------------------------------------------------
+PUR1_METJA     ------------------------------------------------------------
+PUR1_ARCFU     ------------------------------------------------------------
+PUR1_METTH     ------------------------------------------------------------
+PUR1_PYRHO     ------------------------------------------------------------
+PUR1_PYRAB     ------------------------------------------------------------
+PUR1_SYNP7     ------------------------------------------------------------
+PUR1_SYNY3     ------------------------------------------------------------
+PUR1_MYCLE     ------------------------------------------------------------
+PUR1_DROME     ------------------------------------------------------------
+PUR1_CHICK     ------------------------------------------------------------
+GLMS_RHILO     ------------------------------------------------------------
+GLMS_RHIME     ------------------------------------------------------------
+GLMS_AGRT5     ------------------------------------------------------------
+GLMS_BRUME     ------------------------------------------------------------
+GLMS_BRAJA     ------------------------------------------------------------
+NODM_BRAJA     ------------------------------------------------------------
+GLMS_CAUCR     ------------------------------------------------------------
+1gdo_A         ------------------------------------------------------------
+GLMS_PSEAE     VFRLNNDLVASYLRGIFDAEGYIRAEAKQIGIGMTSKCFIKEIQFLLLRFGILASYSKIK
+GLMS_METJA     ------------------------------------------------------------
+GLMS_CYACA     ------------------------------------------------------------
+
+
+1ct9_A         ------------------------------------------------------------
+ASNS_SCHPO     ------------------------------------------------------------
+ASN1_YEAST     ------------------------------------------------------------
+ASN1_LOTJA     ------------------------------------------------------------
+ASNS_MAIZE     ------------------------------------------------------------
+ASNS_CRIGR     ------------------------------------------------------------
+ASN1_METJA     ------------------------------------------------------------
+YMJ6_YEAST     ------------------------------------------------------------
+ASNH_MYCTU     ------------------------------------------------------------
+ASNB_BACSU     ------------------------------------------------------------
+ASNH_BACSU     ------------------------------------------------------------
+ASN2_METJA     ------------------------------------------------------------
+ASNO_BACSU     ------------------------------------------------------------
+1ecf_A         ------------------------------------------------------------
+PUR1_HAEIN     ------------------------------------------------------------
+PUR1_PSEAE     ------------------------------------------------------------
+PUR1_SCHPO     ------------------------------------------------------------
+PUR1_SACKL     ------------------------------------------------------------
+PUR1_BACSU     ------------------------------------------------------------
+PUR1_STAAM     ------------------------------------------------------------
+PUR1_RHIET     ------------------------------------------------------------
+PUR1_SOYBN     ------------------------------------------------------------
+PUR1_METJA     ------------------------------------------------------------
+PUR1_ARCFU     ------------------------------------------------------------
+PUR1_METTH     ------------------------------------------------------------
+PUR1_PYRHO     ------------------------------------------------------------
+PUR1_PYRAB     ------------------------------------------------------------
+PUR1_SYNP7     ------------------------------------------------------------
+PUR1_SYNY3     ------------------------------------------------------------
+PUR1_MYCLE     ------------------------------------------------------------
+PUR1_DROME     ------------------------------------------------------------
+PUR1_CHICK     ------------------------------------------------------------
+GLMS_RHILO     ------------------------------------------------------------
+GLMS_RHIME     ------------------------------------------------------------
+GLMS_AGRT5     ------------------------------------------------------------
+GLMS_BRUME     ------------------------------------------------------------
+GLMS_BRAJA     ------------------------------------------------------------
+NODM_BRAJA     ------------------------------------------------------------
+GLMS_CAUCR     ------------------------------------------------------------
+1gdo_A         ------------------------------------------------------------
+GLMS_PSEAE     RKEENWNNTHKLLISDKKSFELFKKYIGFTAKDKMEKLEAILNKMKGLNFRYISIPLTKK
+GLMS_METJA     ------------------------------------------------------------
+GLMS_CYACA     ------------------------------------------------------------
+
+
+1ct9_A         --ASIFG-VF--DIKTDAV-ELRKKALE-LSRLMRHRG-PDWSGI---------------
+ASNS_SCHPO     --CGILA-VH--HVAEDIE-AFKPKALH-LSKQLRHRG-PDWSGK---------------
+ASN1_YEAST     --CGIFAAFR--H--EDVH-RYKPKALQ-LSKRIRHRG-PDWSGN---------------
+ASN1_LOTJA     --CGILA-VL--GCSDFTQ-AKRVRVLE-LSRRLKHRG-PDWSGL---------------
+ASNS_MAIZE     --CGILA-VL--GVVEVSL-AKRSRIIE-LSRRLRHRG-PDWSGL---------------
+ASNS_CRIGR     --CGIWALF----GSDDCLSVQCLSAMKIA-----HRG-PD-AFR---------------
+ASN1_METJA     --CSISG-I----IVKDNQ-ISAKYSID-MMKILKHRG-RDNSGL---------------
+YMJ6_YEAST     --CGLLAFVAAPAGAAGPEGADAASAIARASHLMRHRG-PDESGT---------------
+ASNH_MYCTU     --CGFVGVFN---KHPLAQTADQEELIKQMNQMIVHRG-PDSDGY---------------
+ASNB_BACSU     --CGLAGIIN--LAAPRSQ-ECTFHILKGMADAISYRG-PDDEQY---------------
+ASNH_BACSU     --CGINGIIR--FGKEVIK-----EEINKMNKAIKHRG-PDDEGI---------------
+ASN2_METJA     --CGITGWVD--FKKQLVQ---EKQTMDRMTDTLSKRG-PDDSNV---------------
+ASNO_BACSU     --CGIVGIAG------VMPVNQS---IYDALTVLQHRG-QDAAGI-------ITIDAN--
+1ecf_A         --CGIVGIVS------QSPVNES---IYAALTLLQHRG-QDAAGI-------VTVDDE--
+PUR1_HAEIN     --CGIVGIVG------KSNVNQA---LYDALTVLQHRG-QDAAGI-------VTCHDD--
+PUR1_PSEAE     --CGILALML------ADPHQQACPEIYEGLYSLQHRG-QDAAGI-------VTAGNK--
+PUR1_SCHPO     --CGILGIAL------ADQSSVVAPELFDGSLFLQHRG-QDAAGM-------ATCGER--
+PUR1_SACKL     --CGVFGIWG------HEE---APQITYYGLHSLQHRG-QEGAGI-------VATDG---
+PUR1_BACSU     --CGVFGIWN------HPE---AAQLTYMGLHSLQHRG-QEGAGI-------VVSDQ---
+PUR1_STAAM     --CGVFGILG------HPD---AAALTALGLHALQHRG-QEAAGI-------VSFDG---
+PUR1_RHIET     --CGVVGIYG------DPE---ASRLCSLALHALQHRG-QEGAGI-------VAVHD---
+PUR1_SOYBN     --CGIFGIYS------YERLN-VAKKIYYGLFALQHRG-QEGAGI-------ATSDG---
+PUR1_METJA     --CGVVGIYH------PDGEL-APRLAYYSLFSLQHRG-QESAGI-------ASFD----
+PUR1_ARCFU     --CGIVGIYS------QDKKTGVASQIYYALYALQHRG-QESAGI-------STFNG---
+PUR1_METTH     --CGIFGAYS------QD----ATKKTYYGLMALQHRG-QEGAGI-------SVWDG---
+PUR1_PYRHO     --CGIFGVSS------ED----AVRKTYYGLIALQHRG-QEGAGI-------SVWNG---
+PUR1_PYRAB     --CGVFALYA------PGEE--VARMAYFGLYALQHRG-QESAGI-------AVFEG---
+PUR1_SYNP7     --CGVFGIYA------PEEA--VAKLTYFGLYALQHRG-QESAGI-------ATFAG---
+PUR1_SYNY3     --CGVFGVWA------PGEL--VAKLTYFGLYALQHRG-QEAAGI-------AVADG---
+PUR1_MYCLE     --CGVFGAIA--CGDWPTQMD-IAHVICLGLVALQHRG-QESAGI-------ATSEGKCS
+PUR1_DROME     --CGVFGCIA--AGVWPTELD-VPHVITLGLVGLQHRG-QESAGI-------VTSDGESS
+PUR1_CHICK     --CGIVGI--------VGHSQVAPLIVDA-LKRLEYRG-YDSAGV-------ATIEH---
+GLMS_RHILO     --CGIVGI--------VGNQPVSERLVEA-LKRLEYRG-YDSAGV-------ATIDA---
+GLMS_RHIME     --CGIVGI--------VGTQPVAERLVDA-LKRLEYRG-YDSAGV-------ATIDN---
+GLMS_AGRT5     --CGIIGI--------IGNDEVAPRLVDA-LKRLEYRG-YDSAGI-------ATLQN---
+GLMS_BRUME     --CGIVGI--------LGREPVAEQLVDS-LKRLEYRG-YDSAGV-------ATLEG---
+GLMS_BRAJA     --CGIVGI--------LGRGPVVDKLVAS-LRRLEYRG-YDSAGL-------ATLEG---
+NODM_BRAJA     --CGIIGI--------VGKEPVADRLIES-LKRLEYRG-YDSAGV-------AGVVG---
+GLMS_CAUCR     --CGIVGA--------IAQRDVAEILLEG-LRRLEYRG-YDSAGL-------AVVDAE--
+1gdo_A         --CGIVGA--------IAERNITPILIEG-LKRLEYRG-YDSAGV-------AVFDNE--
+GLMS_PSEAE     EIREFVGVPL--KTIKNGDNYCTDYTIEKIIEELNSKGLYDKAEY-LKRFLDADIVW---
+GLMS_METJA     --CGIIGY--------VGEGSCRDVLING-LDKLSYRG-YDSAGI-------AFIKN---
+GLMS_CYACA     --CGIFAYLN--YHVPRTRREILETLIKGLQR-LEYRG-YDSAGVGFDGGNDKDWEAN--
+
+
+1ct9_A         --------------YASDNAI---------------------LAH-ERLSIVD-V-NAGA
+ASNS_SCHPO     --------------AIRNQTI---------------------LCH-ERLAIVG-V-ESGA
+ASN1_YEAST     --------------AIKNSTI---------------------FVH-ERLAIVG-V-ESGA
+ASN1_LOTJA     --------------HQHGDCY---------------------LAH-QRLAIVD-P-ASGD
+ASNS_MAIZE     --------------HCHEDCY---------------------LAH-QRLAIID-P-TSGD
+ASNS_CRIGR     --------------FENVNGYT---------------N--CCFGF-HRLAVVD-P-LFGM
+ASN1_METJA     --------------LLDDEVIYFNDFEDVEDLEEEMIG-NLSLAH-NRLAIVG---RYGV
+YMJ6_YEAST     --------------WHAVDGAS---------------G-GVVFGF-NRLSIID-I-AHSH
+ASNH_MYCTU     --------------FHDEHVG---------------------FGF-RRLSIID-V-ENGG
+ASNB_BACSU     --------------HIDSKVG---------------------FAF-RRLSILD-L-VNGQ
+ASNH_BACSU     --------------FIYNFKNY-----------------SIGLGH-VRLAILD-LSEKGH
+ASN2_METJA     --------------WGEHHVL---------------------FGH-KRLAVVD-I-EGGR
+ASNO_BACSU     N-CFRLRKANGLVSDVFEAR-HM-------QRLQ---G-NMGIGH-VRYPTAGSSSASEA
+1ecf_A         N-RFRLRKANGLVSDVFHQE-HM-------LRLQ---G-NAGLGH-VRYPTAGSSSVSEA
+PUR1_HAEIN     K-LY-LRKDNGLVRDVFQQR-HM-------QRLI---G-SVGIGH-VRYPTAGSSSSAEA
+PUR1_PSEAE     G-RLYQCKGSGMVADVFSQH-QL-------RQLV---G-SMGIGH-LRYPTAGSCAHSEA
+PUR1_SCHPO     G-RLYQCKGNGMARDVFTQH-RM-------SGLV---G-SMGIAH-LRYPTAGSCANSEA
+PUR1_SACKL     E-KLTAHKGQGLITEVFQNG-EL-------SKVK---G-KGAIGH-VRYATAGGGGYENV
+PUR1_BACSU     N-ELKGERGLGLLTEAINDD-QM-------ERLK---GYQHAIGH-VRYATSGNKGIENI
+PUR1_STAAM     K-RFYQERHMGLVGDHYTNPMTL-------ARLP---G-SISIGH-TRYSTTGEVAMRNV
+PUR1_RHIET     N-HLQSVTGVGLVSDVFEQS-KL-------SRLP---G-TSAIGH-VRYSTAGQSMLKNV
+PUR1_SOYBN     K-NIHYYKNIGLVTDVFKNE-TL-------QNLF---G-YIGIGH-VRYSTTGGKAVENC
+PUR1_METJA     N-HIRQKRGMGLVTEVFNDE-DF-------ELLA---G-KSVIGH-VRYSTTGRSRLENA
+PUR1_ARCFU     N-DILTHRGMGLVCDVFNPE-KL-------EELK---G-NVGIGH-VRYSTTGESRIENS
+PUR1_METTH     --DIRTVKGHGLVSEVFKGG-SI-------RRLN---G-NPVIGH-VRYSTSGS--LSEV
+PUR1_PYRHO     --RIRTIKGHGLVSEVFDEN-SL-------N-LA---S-NIAIGH-VRYSTSGS--LSEV
+PUR1_PYRAB     D-RVMLHKDMGLVSQVFDPE-IL-------QQLQ---G-SLAVGH-TRYSTTGSSRIANA
+PUR1_SYNP7     T-TVHCHKDMGLVSQVFQES-KL-------NEMV---G-TLAVGH-TRYSTTGSSHRVNA
+PUR1_SYNY3     S-QVLVFKDLGLVSQVFDEQ-TL-------AAME---G-HVAIGH-CRYSTTGDTTWENA
+PUR1_MYCLE     K-NFNVHKGMGMISTLFNDD-SM-------KKLR----GNLGIGH-TRYSTAGGSGVVNC
+PUR1_DROME     Q-AFKVHKGMGLINHVFNAD-SL-------KKLY---VSNLGIGH-TRYSTSGISELQNC
+PUR1_CHICK     G-ELARRRAEGKLINLERRLKE--------EPLD---G-TIGIGH-TRWATHGVPNETNA
+GLMS_RHILO     G-TLQRRRAEGKLVNLESRLRE--------EPLA---G-TIGIAH-TRWATHGAPTERNA
+GLMS_RHIME     G-AMDRRRAEGKLFNLEKLVSE--------KPLP---G-VVGIAH-TRWATHGVPNEINA
+GLMS_AGRT5     G-RLDRRRAEGKLVNLEKRLAG--------EPLP---G-VIGIGH-TRWATHGRPVEHNA
+GLMS_BRUME     R-HLERRRAEGKLKNLEKRLEA--------EPLK---G-TTGIGH-TRWATHGKPTVNNA
+GLMS_BRAJA     V-RIERRRAEGKLRNLEEQLRY--------CPPS---G-HAGIGH-TRWATHGKPTESNA
+NODM_BRAJA     G-KVERRRAQGKIKALEAVLAD--------EPLT---A-TTGIGH-TRWATHGAPNVRNA
+GLMS_CAUCR     G-HMTRLRRLGKVQMLAQAAEE--------HPLH---G-GTGIAH-TRWATHGEPSEVNA
+1gdo_A         G-RLQRCRRVGKVASLEEGLAG--------TPLL---G-RLGIAH-TRWATHGAPTEGNA
+GLMS_PSEAE     T-KFKIEEVESDVEYVYDLEVE--------DYHNF-IG-NLIINHNSRWATHGNVCKENA
+GLMS_METJA     S-KINVVRSKGRIEKLKEKIND--------NFQKFEIG-NIGIGH-TRWATHGEPTEINA
+GLMS_CYACA     ACKIQLIKKKGKVKALDEEVHKQQDM----DLDIEFDV-HLGIAH-TRWATHG-E----P
+
+
+1ct9_A         QPL----YNQQK-----------THVLAVNGEIYNHQALRAE-----YG-DR-Y--QFQT
+ASNS_SCHPO     QPL----VSDDG-----------KLVLTVNGEIYNHLKLREN-----LK-GN-Y--KFKT
+ASN1_YEAST     QPI----TSSDG-----------EYMLCVNGEIYNHIQLREE-----C--AD-Y--EFGT
+ASN1_LOTJA     QPL----FNEDK-----------SIIVTVNGEIYNHEELRKQ-----L--PN-H--QFRT
+ASNS_MAIZE     QPL----YNEDK-----------TVVVTVNGEIYNHEELKAK-----L--KT-H--EFQT
+ASNS_CRIGR     QPIR--VKKYPY-----------LW-LCYNGEIYNHKALQQR-----FE-FE-----YQT
+ASN1_METJA     QPI----PNEDE-----------TIWLVCNGEIYNYIELREY-----LK-QN-H--EFRT
+YMJ6_YEAST     QPLRWGPPEAPD-----------RYVLVFNGEIYNYLELRDE-----LR-TQ-HGAVFAT
+ASNH_MYCTU     QPL----SYEDE-----------TYWIIFNGEIYNYIELREE-----LE-AKGY--TFNT
+ASNB_BACSU     QPF----LNEDG-----------SIVVMVNGEIYNYKELKAS-----L--HN-H--MFKT
+ASNH_BACSU     QPMGY-NVDEDKIIYRDDELDRADIIIVYNGEIYNYLELKEK-----FN-L-----ETET
+ASN2_METJA     QPMA--CTYKGD-----------TYTIIYNGELYNTEDLRKE-----LR-ARGH--QFER
+ASNO_BACSU     QPF---YVNSPY---------G--ITLAHNGNLTNAHELRKK-----LF-EEKR-RHINT
+1ecf_A         QPF---YVNSPY---------G--VTLVHNGNLTNSVELKEK-----VF-KTAR-RHVNT
+PUR1_HAEIN     QPF---YVNSPY---------G--ITLAHNGNLTNVEQLAKE-----IY-ESDL-RHVNT
+PUR1_PSEAE     QPF---YVNSPY---------G--LVLGHNGNLINGPELRRF-----LD-TEAH-RHVNT
+PUR1_SCHPO     QPF---YVNSPY---------G--ICLSHNGTLVNTLSLRSY-----LD-EVVH-RHINT
+PUR1_SACKL     QPL---LFRSQN---------NGSLALAHNGNLVNATQLKQQ-----LE-NQGS-I-FQT
+PUR1_BACSU     QPF---LYHFYD---------M-SVGICHNGNLINAKSLRQN-----LE-KQGA-I-FHS
+PUR1_STAAM     QPL---FAELEE---------G-GIAIAHNGNFTNGLTLRRQ-----II-ATGA-I-CQS
+PUR1_RHIET     QPF---LADYRF---------A-AVAVAHNGNFVNYRSLRAR-----LEHNNGS-I-FNT
+PUR1_SOYBN     QPF---VVKSSF---------GN-IAIAHNGDLVNSDELRRE-----LE-MKGH-I-FTS
+PUR1_METJA     QPF---VVKSKA---------GY-IAVAHNGNLVNYSQLRNE-----LE-NEGR-V-FTT
+PUR1_ARCFU     QPF---WSEFQG---------GK-IAIAHNGDIINSMELREE-----LE-EEGH-N-FVS
+PUR1_METTH     QPL---EVEC-C---------GYKVSIAHNGTLTNFLPLRRF-----YE-SRGF-K-FRS
+PUR1_PYRHO     QPL---EVRC-C---------GYELAIAHNGTLTNFIPLRRL-----YE-GMGI-K-FHS
+PUR1_PYRAB     QPA---LLETRL---------GP-VALAHNGNLVNTVELRQE-----LL-AKNH-E-LTT
+PUR1_SYNP7     QPA---VLPTRL---------GP-LALAHNGNLVNTNQLREA-----LA-ERGC-EDFVT
+PUR1_SYNY3     QPV---FRNIAA---------GSGVALGHNGNLVNTAELAARARDAGLI-AKRC-P-APA
+PUR1_MYCLE     QPF---VVHTTH---------GA-LALAHNGELVNNESLRRE-----VL-ARGV-G-LSS
+PUR1_DROME     QPF---VVETLH---------GK-IAVAHNGELTNAVRLRRK-----LM-RHGV-G-LST
+PUR1_CHICK     HPH----FS-DG------------VAIVHNGIIENFAELRDE-----LV-RDGY--AFSS
+GLMS_RHILO     HPH----FT-EG------------VAVVHNGIIENFAELKDE-----LA-AGGA--EFQT
+GLMS_RHIME     HPH----FV-DG------------VAVVHNGIIENFSELREE-----LS-AEGA--TFTT
+GLMS_AGRT5     HPH----IT-TR------------LAVVHNGIIENFAELRAM-----LE-AEGR--KFET
+GLMS_BRUME     HPH----AT-ER------------VAVVHNGIIENFRELREE-----LE-KNGT--VFHT
+GLMS_BRAJA     HPH----AT-EN------------VAVVHNGIIENFRELRAE-----LE-RNGA--GFNS
+NODM_BRAJA     HPH----TA-GR------------VTLVHNGIIENFAELKAE-----LA-GMGR--TFES
+GLMS_CAUCR     HPH----VS-EH------------IVVVHNGIIENHEPLREE-----LK-ARGY--TFVS
+1gdo_A         HPH----FSSDE------------VAVVHNGIIENHEPLRER-----LK-GLGY--VFTS
+GLMS_PSEAE     HPH----TDCKE-----------EIAVVHNGIISNYKELKDE-----LM-KKGH--KFKS
+GLMS_METJA     HPH----LDAEG-----------QFAVVQNGVIENYVQLKNY-----LT-VNGT--YFLS
+GLMS_CYACA     SPVNSHPQRSDK---------NNEFIVIHNGIITNYKDLKKF-----LE-SKGY--DFES
+
+
+1ct9_A         GSDCEVILAL---------YQE-------K-G-----------PE-FLDDLQGMFAFALY
+ASNS_SCHPO     YSDCEVILYL---------YRE-------H-G-----------PA-CANMLDGMFSWVLY
+ASN1_YEAST     LSDCEPIIPM---------YLK-------H-D-----------ID-APKYLDGMFAWTLY
+ASN1_LOTJA     GSDCDVIAHL---------YEE-------H-G-----------EN-FMDMLDGIFSFVLL
+ASNS_MAIZE     GSDCEVIAHL---------YEE-------Y-G-----------EE-FVDMLDGMFSFVLL
+ASNS_CRIGR     NVDGEIILHL---------YDK-------G-G-----------IEQTICMLDGVFAFILL
+ASN1_METJA     DSDNEVIIHL---------YEE----------------------E-KLEELDGDYAFAIY
+YMJ6_YEAST     DGDGEAILAG---------YHH-------W-G-----------TE-VLQRLRGMFAFALW
+ASNH_MYCTU     DSDTEVLLAT---------YRH-------Y-K-----------EE-AASKLRGMFAFLIW
+ASNB_BACSU     TSDCEVIVHL---------YEE-------K-G-----------IG-FVDDIIGMFSIAIW
+ASNH_BACSU     GTDTEVILKL---------YNK-------L-G-----------FD-CVKEFNGMWAFCIF
+ASN2_METJA     TSDTEVLLHS---------YIE-------W-Q-----------ED-CVDHLNGIFAFAVW
+ASNO_BACSU     TSDSEILLNIFA-----S-ELDNFRHYPLE-ADNIFA-----AIAATNRLIRGAYACVAM
+1ecf_A         NSDSELLLNILA-----N-HLDHIPQDHLD-PQDIFY-----AVRKTHKDVRGAYACLAM
+PUR1_HAEIN     NSDSEVLLNVFA-----H-ELAVRNKLQPT-EEDIFA-----AVSCVHDRCVGGYAVVAM
+PUR1_PSEAE     GSDSELLLNIFA-----Y-ELQRLDKFRIN-ENDIFE-----ALRNVYDRVNGGYACVAM
+PUR1_SCHPO     DSDSELLLNVFA-----A-ELERHNKYRVN-NDDIFH-----ALEGVYRQCRGGYACVGM
+PUR1_SACKL     SSDTEVLAHLIK-----R-S---------G-HFTLKD-----QIKNSLSMLKGAYA-FLI
+PUR1_BACSU     SSDTEVIMHLIR-----R-S---------K-APTFEE-----ALKESLRKVKGGFT-FAI
+PUR1_STAAM     TSDTEVVLHLIA-----R-S---------R-HASTSD-----RFIDAIRQMEGGYS-MLA
+PUR1_RHIET     TSDTEVVLHLIA-----T-S---------K-HRPFLL-----RIVDACEHLQGAYS-LVF
+PUR1_SOYBN     STDSEVIAQLLV-----R-ELL-------K-TSDKIE-----AIKNTLKKLVGAYS-LLI
+PUR1_METJA     DSDTEVISQLLS-----K-FLI-------E-EGDIIN-----ALERLNESLVGSYT-MTM
+PUR1_ARCFU     TTDSEVICHLLS-----R-EYD-------E-KPNMIY-----SIKRVSEQLVGSYS-LVV
+PUR1_METTH     SIDTEVIAVSFL-----N-HYS-------E-LKDEFE-----AMSRVFEEVKGAYS-VLM
+PUR1_PYRHO     SVDTEVIGISFL-----N-HYS-------Q-VKDEFE-----AMRRVFEEVKGAYS-ILI
+PUR1_PYRAB     TTDSELIAFAIM-----E-AVA-------E-GQDWRG-----AIESACRRSQGAFS-LTI
+PUR1_SYNP7     TTDSEMIAVAIA-----N-EVD-------K-GKDWVE-----GTIAALTLCAGAYS-LVI
+PUR1_SYNY3     TTDSDILGALLA-----H-GAA-------D-STLEQA-----ALE-LLPTVRGAFC-LTF
+PUR1_MYCLE     HSDSELIAQSLCCAPEDV-SEL-------D-GPNWPA-----RIRHFMMLAPLSYS-LVI
+PUR1_DROME     SSDSELITQLLAFTPP-L-END-------D-TADWVA-----RIKNLMNETPTSYS-LLI
+PUR1_CHICK     QTDTEVVAHLVA-----R-ELA-------K-GLKPVE-----AAHQALKRLEGAFALAIM
+GLMS_RHILO     ETDTEVVAHLLA-----K-YRR-------D-GLGRRE-----AMHAMLKRVKGAYALAVL
+GLMS_RHIME     QTDTEVVAQLLA-----K-YTR-------E-GLGHRE-----AMLKMLNHVTGAYALVVM
+GLMS_AGRT5     ETDTEAVAHLVT-----R-ELE-------K-GKSPVE-----AVRDCLPHLKGAFALAFL
+GLMS_BRUME     ETDTEIVLHLVD-----D-LLT-------R-GNKPVE-----AVKLALARLRGAFALGFI
+GLMS_BRAJA     ETDTEVVAHLVD-----S-YLK-------N-GYSPQD-----AVQASLPRLRGAFALAFL
+NODM_BRAJA     DTDTEVIAQLID-----V-ALA-------K-GLAPLD-----AFKATLDRLTGAYALAVL
+GLMS_CAUCR     ETDTEVIAHLVN-----W-ELK-------Q-GGTLRE-----AVLRAIPQLRGAYGTVIM
+1gdo_A         QTDTEVIVHLLH-----H-KLQ-------S-IGDLTL-----ALKDAVKELHGAYGLAVI
+GLMS_PSEAE     ETDTEVVPHLIE-----E-ELK-------K-FKEINEENYIKAVKNAIKKLKGTYALVII
+GLMS_METJA     DTDAEVIPHLIA-----Y-KQK-------HLKLQIVE-----AILCALSELKGNFSTVII
+GLMS_CYACA     ETDTETIAKLVK-----YMYDN-------R-ESQDTS--FTTLVERVIQQLEGAFALVFK
+
+
+1ct9_A         DSE--KDAYLIGRDH---LGIIPLYMGYD-----------EHG---QLYVASEMKAL---
+ASNS_SCHPO     DQD--KDKVVAARDP---IGITTLYQGFS-----------SDS-PDTAYFASELKAL---
+ASN1_YEAST     DAK--QDRIVAARDP---IGITTLYMGRS-----------SAS-PKTVYFASELKCL---
+ASN1_LOTJA     DTR--DNTFIVARDA---IGVTSLYIGWG-----------LDG---SVWISSEMKGL---
+ASNS_MAIZE     DTR--DKSFIAARDA---IGICPLYMGWG-----------LDG---SVWFSSEMKAL---
+ASNS_CRIGR     DTA--NKKVFLGRDT---YGVRPLFKAMT-----------EDG---FLAVCSEAKGLVSL
+ASN1_METJA     DKS--KNVVRLARDM---FGVKPLFYVDR-----------DK----YFAFASERKAL---
+YMJ6_YEAST     DTV--TRELFCARDP---FGIKPLFIA-T-----------GAG---GTAVASEKKCLLDL
+ASNH_MYCTU     NKN--DHVLYGARDP---FGIKPLYYTTI-----------ND----QVYFASERKSLMVA
+ASNB_BACSU     DKN--KNKVFLVRDR---FGIKPLFYTEL-----------KH----ELIFASEIKSLF-S
+ASNH_BACSU     DKK--KGLIFCSRDR---LGVKPFYYYWD-----------GN----EFIFSSELKGILAV
+ASN2_METJA     DEK--RNLLFAARDR---LGVKPFFYTKE-----------GS----SFLFGSEIKAIL-A
+ASNO_BACSU     IIG---HGMVAFRDP---NGIRPLVLGKR---------DIDEN-RTEYMVASESVALDTL
+1ecf_A         IIG---HGMVAFRDP---FGIRPLVLGKR---------E-ENG-KTDYMFASETVALDIV
+PUR1_HAEIN     ITG---HGIVGFRDP---NAIRPIVFGQR---------HTENG--VEYMIASESVALDVL
+PUR1_PSEAE     IAG---LGVLGFRDP---NGIRPLVIGER---------DTPEG--KDYMLASESVVLTQF
+PUR1_SCHPO     LAG---YSLFGFRDP---NGIRPLLFGER---------VNPDG-TKDYMLASESVVLKAH
+PUR1_SACKL     MTE---TEMIVALDP---NGLRPLSIGMM-----------GDA----YVVASETCAFDVV
+PUR1_BACSU     LTK---DALYGAVDP---NAIRPLVVGKM-----------KDG---TYILASETCAIDVL
+PUR1_STAAM     MTR---TKLIAASHP---TGIRPLVMG-E-----------LDG---KPIFCSETCALDII
+PUR1_RHIET     VTE---DKLVAVRDP---FGFRPLVMGRR-----------TNG---AVVLASETCALDLI
+PUR1_SOYBN     MFN---DSLIAVRDP---WGFKPLCIGRD-----------ESN----IYISSEDCALTTL
+PUR1_METJA     LVD---DAVIGYRDP---LGFKPLCVGRI-----------DDG----YVICSESCAIDAL
+PUR1_ARCFU     LLN---QDLYVVRDP---VGIKPLAFARK-----------GST----QIVASETVAFDVI
+PUR1_METTH     LFN---GKLIAVRDP---VGFRPLSFG-A-----------GDG----YYFSSEDSALRMF
+PUR1_PYRHO     LFD---GKIIAARDP---VGFRPLVFG-E-----------GDG----YYFASEDSALRMF
+PUR1_PYRAB     GTP---EALYGTRDP---NGIRPLVLGTL-----------ESNGQTRYVLSSETCGLDII
+PUR1_SYNP7     GTP---EGIIGVRDP---HGIRPLVIGVL-----------EEE-TPRYVLASETCALDII
+PUR1_SYNY3     MDE---NTLYACRDP---YGVRPLSLGRL-----------DRG----WVVASETAGLDIV
+PUR1_MYCLE     MLK---DKIYAVRDT---YGNRPLCIGKIVPINAGHGNNLD-TPADGWVVSSESCGFLSI
+PUR1_DROME     MHK---DIIYAVRDP---YGNRPLCIGRLIPVGDINGKGKDNSETEGWVVSSESCSFLSI
+PUR1_CHICK     FKG-DEDLIVGARNG------PPLAVGHG-----------DG----EMFLGSDAIALAPF
+GLMS_RHILO     FED-DPSTIMAARNG------PPLAIGHG-----------SG----EMFLGSDAIALAPF
+GLMS_RHIME     FQD-DPGTLLSARSG------PPLAVGYG-----------RG----EMFLGSDAIALSPF
+GLMS_AGRT5     FEG-DEELLIGARQG------PPLAVGYG-----------EG----EMFLGSDAIALAPF
+GLMS_BRUME     FAG-DNDLMIGARNG------PPLAIGYG-----------DG----EMYLGSDAIALGPF
+GLMS_BRAJA     FKA-NDDLLIGACKG------SPLAIGHG-----------RG----EVYLGSDAIALAPL
+NODM_BRAJA     IQG-EADLLLGARRG------SPLVVGEG-----------QG----EMFLGSDALAVGPF
+GLMS_CAUCR     DSR-HPDTLLAARSG------SPLVIGLG-----------MG----ENFIASDQLALLPV
+1gdo_A         SAA-QPDRIVAARSG------SPLVIGLG-----------LG----ENFLASDQLALRQV
+GLMS_PSEAE     NKN-FPNLLIGARNE------SPLILGIN-----------DD----GYFLGSDITAFLDY
+GLMS_METJA     ARD-MPDSIFVYQNK------TALTLGKG-----------SN----FYSVSSDPIALIPY
+GLMS_CYACA     SVHFPGQAVGTRRGSPLLIGVRSEHKLST-----------DHI---PILYRTARTQIGSK
+
+
+1ct9_A         VPVC------------------------------------------------
+ASNS_SCHPO     HPVC------------------------------------------------
+ASN1_YEAST     TDDC------------------------------------------------
+ASN1_LOTJA     NDDC------------------------------------------------
+ASNS_MAIZE     SDDC------------------------------------------------
+ASNS_CRIGR     KHS-------------------------------------------------
+ASN1_METJA     WHLL------------------------------------------------
+YMJ6_YEAST     VELVGFDTEIDHRA--------------------------------------
+ASNH_MYCTU     QNDI--EID-KEA---------------------------------------
+ASNB_BACSU     HPHCPRQFNWKEALSDI-----------------------------------
+ASNH_BACSU     KEINKKENINKDAV--------------------------------------
+ASN2_METJA     HPDIKARVD-RTGL--------------------------------------
+ASNO_BACSU     G---------------------------------------------------
+1ecf_A         G---------------------------------------------------
+PUR1_HAEIN     G---------------------------------------------------
+PUR1_PSEAE     G---------------------------------------------------
+PUR1_SCHPO     N---------------------------------------------------
+PUR1_SACKL     G---------------------------------------------------
+PUR1_BACSU     G---------------------------------------------------
+PUR1_STAAM     G---------------------------------------------------
+PUR1_RHIET     E---------------------------------------------------
+PUR1_SOYBN     D---------------------------------------------------
+PUR1_METJA     G---------------------------------------------------
+PUR1_ARCFU     G---------------------------------------------------
+PUR1_METTH     ----------------------------------------------------
+PUR1_PYRHO     G---------------------------------------------------
+PUR1_PYRAB     G---------------------------------------------------
+PUR1_SYNP7     G---------------------------------------------------
+PUR1_SYNY3     G---------------------------------------------------
+PUR1_MYCLE     G---------------------------------------------------
+PUR1_DROME     G---------------------------------------------------
+PUR1_CHICK     T---------------------------------------------------
+GLMS_RHILO     T---------------------------------------------------
+GLMS_RHIME     T---------------------------------------------------
+GLMS_AGRT5     T---------------------------------------------------
+GLMS_BRUME     T---------------------------------------------------
+GLMS_BRAJA     T---------------------------------------------------
+NODM_BRAJA     T---------------------------------------------------
+GLMS_CAUCR     T---------------------------------------------------
+1gdo_A         T---------------------------------------------------
+GLMS_PSEAE     T---------------------------------------------------
+GLMS_METJA     T---------------------------------------------------
+GLMS_CYACA     FTRWGSQGERGKDKKGSCNLSRVDSTTCLFPVEEKAVEYYFASDASAVIEHT
+
+

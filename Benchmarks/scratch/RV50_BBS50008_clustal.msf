@@ -1,0 +1,227 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 335  Type: P  December 21, 2021 20:08  Check: 9133  ..
+
+ Name: 1cpj_A      Len:    335  Check: 2228  Weight: -1.00
+ Name: CATB_CHICK  Len:    335  Check: 4538  Weight: -1.00
+ Name: CYS1_OSTOS  Len:    335  Check: 9931  Weight: -1.00
+ Name: CYS1_HAECO  Len:    335  Check: 2459  Weight: -1.00
+ Name: CYS3_OSTOS  Len:    335  Check: 9709  Weight: -1.00
+ Name: CPR4_CAEEL  Len:    335  Check: 4252  Weight: -1.00
+ Name: CPR5_CAEEL  Len:    335  Check: 5903  Weight: -1.00
+ Name: CYS1_CAEEL  Len:    335  Check: 3725  Weight: -1.00
+ Name: CYSP_SCHMA  Len:    335  Check: 2492  Weight: -1.00
+ Name: CYSP_SCHJA  Len:    335  Check: 5683  Weight: -1.00
+ Name: CAL2_GIALA  Len:    335  Check: 4945  Weight: -1.00
+ Name: CAL1_GIALA  Len:    335  Check: 7639  Weight: -1.00
+ Name: 1ppn_       Len:    335  Check: 6110  Weight: -1.00
+ Name: 1yal_       Len:    335  Check: 3357  Weight: -1.00
+ Name: 1cqd_A      Len:    335  Check: 9480  Weight: -1.00
+ Name: 1s4v_A      Len:    335  Check: 3095  Weight: -1.00
+ Name: 1atk_       Len:    335  Check: 4863  Weight: -1.00
+ Name: 1iwd_A      Len:    335  Check: 1729  Weight: -1.00
+ Name: 1aec_       Len:    335  Check: 8726  Weight: -1.00
+ Name: CYS7_DICDI  Len:    335  Check: 8237  Weight: -1.00
+ Name: CYS2_DICDI  Len:    335  Check: 4062  Weight: -1.00
+ Name: ACP1_ENTHI  Len:    335  Check: 9826  Weight: -1.00
+ Name: CPR1_DROME  Len:    335  Check: 2239  Weight: -1.00
+ Name: CATL_SCHMA  Len:    335  Check: 5853  Weight: -1.00
+ Name: CYSP_PEA    Len:    335  Check: 6670  Weight: -1.00
+ Name: CATV_NPVAP  Len:    335  Check: 1382  Weight: -1.00
+
+//
+
+            1                                                   50
+1cpj_A      ~~~~~~~QCG DGCNGGYPSG AWNFWTRKG. LVSGGVYNSH IGCLPYTIPP
+CATB_CHICK  ~~~~~~~ECG MGCNGGYPSG AWRYWTERG. LVSGGLYDSH VGCRAYTIPP
+CYS1_OSTOS  ~~~~~~~~CG DGCEGGWPIS AFRFHADEG. VVTGGDYNTK GSCRPYEIHP
+CYS1_HAECO  ~~~~~~~QCG DGCEGGWPIE AWKYFIYDG. VVSGGEYLTK DVCRPYPIHP
+CYS3_OSTOS  ~~~~~~~~~~ ~~~~~~~~~~ AWQYFALEG. VVTGGNYRKQ GCCRPYEFPP
+CPR4_CAEEL  ~~~~~~~~CG YGCEGGYPIN AWKYLVKSG. FCTGGSYEAQ FGCKPYSLAP
+CPR5_CAEEL  ~~~~~~FSCG NGCEGGYPIQ AWKWWVKHG. LVTGGSYETQ FGCKPYSIAP
+CYS1_CAEEL  ~~~~~~~SCG NGCEGGYPIQ ALRWWDSKG. VVTGGDYHG. AGCKPYPIAP
+CYSP_SCHMA  ~~~~~~~~CG LGCEGGILGP AWDYWVKEG. IVTASSKENH TGCEPYPFPK
+CYSP_SCHJA  ~~~~~~~~CG DGCQGGFPGV AWDYWVKRG. IVTGGSKENH TGCQPYPFPK
+CAL2_GIALA  ~~~~~~~~~D MACNGGWLPN VWKFLTKTG. TTT....... DECVPYKS..
+CAL1_GIALA  ~~~~~~~~~N FGCDGGDFQP TWSFLTFTG. ATT....... AECVKYVD..
+1ppn_       ~~~~~~~~~S YGCNGGYPWS ALQLVAQY.G IHYRNTY... ....PYEG..
+1yal_       ~~~~~~~~~S YGCKGGYQTT SLQYVANN.G VHTSKVY... ....PYQA..
+1cqd_A      ~~~~~~~~~N HGCRGGWMNP AFQFIVNNGG INSEETY... ....PYRG..
+1s4v_A      ~~~~~~~~QN QGCNGGLMDY AFEFIKQRGG ITTEANY... ....PYEA..
+1atk_       ~~~~~~~~~N DGCGGGYMTN AFQYVQKNRG IDSEDAY... ....PYVG..
+1iwd_A      ~~~~~~~~AS HGCNGGWMNN AFQYIITNGG IDTQQNY... ....PYSA..
+1aec_       ~~~~~~~QNT RGCNGGYITD GFQFIINNGG INTEENY... ....PYTA..
+CYS7_DICDI  ~~~~~~~YGN NGCEGGLMTL AFEYIINNKG IDTESSY... ....PYTA..
+CYS2_DICDI  ~~~~~~~EEN FGCDGGLMNN AFDYIIKNKG IDTESSY... ....PYTA..
+ACP1_ENTHI  ~~~~~~~~~D NGCEGGHPSN SLKFIQENNG LGLESDY... ....PYKA..
+CPR1_DROME  ~~~~~~~~~D SACNGGLMDN AYKAIKDIGG LEYEAEY... ....PYKA..
+CATL_SCHMA  ~~~~~~~~~D DGCNGGLPSN AYESIIKMGG LMLEDNY... ....PYDA..
+CYSP_PEA    CDPEQAGSCD SGCNGGLMNN AFEYLLESGG VVQEKDY... ....AYTG..
+CATV_NPVAP  ~~~~~~~~~D VGCDGGLLHT AYEAVMNMGG IQAENDY... ....PYEA..
+
+            51                                                 100
+1cpj_A      CEHHVNG.AR PPCTGEG.DT PKCNKMCEA. .GYSTSYKED KHYGYTSYS.
+CATB_CHICK  CEHHVNG.SR PPCTGEGGET PRCSRHCEP. .GYSPSYKED KHYGITSYG.
+CYS1_OSTOS  CGHHGNETYY GECVGMA.DT PRCKRRCLL. .GYPKSYPSD RYY.KKAYQ.
+CYS1_HAECO  CGHHGNDTYY GECRGTA.PT PPCKRKCRP. .GVRKMYRID KRYGKDAYI.
+CYS3_OSTOS  CGRHGKEPYY GECYDTA.KT PKCQKTCQR. .GYLKAYKED KHFGKSAYR.
+CPR4_CAEEL  CGETVGNVTW PSCPDDGYDT PACVNKCTNK .NYNVAYTAD KHFGSTAYA.
+CPR5_CAEEL  CGETVNGVKW PACPEDTEPT PKCVDSCTSK NNYATPYLQD KHFGSTAYA.
+CYS1_CAEEL  CTSG...... .NCPES..KT PSCSMSCQS. .GYSTAYAKD KHFGVSAYA.
+CYSP_SCHMA  CEHHTKG.KY PPCGSKIYNT PRCKQTCQR. .KYKTPYTQD KHRGKSSYN.
+CYSP_SCHJA  CEHHTKG.KY PACGTKIYKT PQCKQTCQK. .GYKTPYEQD KHYGDESYN.
+CAL2_GIALA  GSTTL....R GTCPT..... .....KCAD. .GSSKVHLA. T..ATSYKD.
+CAL1_GIALA  YGHTV....A SPCPA..... .....VCDD. .GSP.IQLY. K..AHGYGQ.
+1ppn_       .......... .......VQR YCRSREKGP. .....YAAK. ...TDGVRQV
+1yal_       .......... .......KQY KCRATDKPG. .....PKVK. ...ITGYKRV
+1cqd_A      .......... .......QDG ICNSTV.NA. .....PVVS. ...IDSYENV
+1s4v_A      .......... .......YDG TCDVSKENA. .....PAVS. ...IDGHENV
+1atk_       .......... .......QE. ESCMYNPTG. .....KAAK. ...CRGYREI
+1iwd_A      .......... .......VQG SCKPY..RL. .....RVVS. ...INGFQRV
+1aec_       .......... .......QDG ECNVDLQNE. .....KYVT. ...IDTYENV
+CYS7_DICDI  .......... .......EDG KKCKFNPKN. .....VAAQ. ...LSSYVNV
+CYS2_DICDI  .......... .......ETG STCLFNKSD. .....IGAT. ...IKGYVNI
+ACP1_ENTHI  .......... .......VAG TCKKV...K. .....NVAT. ...VTGSRRV
+CPR1_DROME  .......... .......KKN Q.CHFNRTL. .....SHVQ. ...VAGFVDL
+CATL_SCHMA  .......... .......KNE K.CHLKTDG. .....VAVY. ...INSSVNL
+CYSP_PEA    .......... .......RDG S.CKFDKSK. .....VVAS. ...VSNFSVV
+CATV_NPVAP  .......... .......NNG P.CRVNAAK. .....FVVR. ...VKKCYRY
+
+            101                                                150
+1cpj_A      VSDSEKEIMA EIYKNGPVEG AFTV.FSDFL TYKSG.VYK. HEAGDVM.GG
+CATB_CHICK  VPRSEKEIMA EIYKNGPVEG AFIV.YEDFL MYKSG.VYQ. HVSGEQV.GG
+CYS1_OSTOS  LKNSVKAIQK DIMKNGPVVA TYTV.YEDFA HYRSG.IYK. HKAGRKT.GL
+CYS1_HAECO  VKQSVKAIQS EILRNGPVVA SFAV.YEDFR HYKSG.IYK. HTAGELR.GY
+CYS3_OSTOS  LPNNVKAIQR DIMKNGPVVA GFIV.YEDFA HYKSG.IYK. HTAGRMT.GG
+CPR4_CAEEL  VGKKVSQIQA EIIAHGPVEA AFTV.YEDFY QYKTG.VYV. HTTGQEL.GG
+CPR5_CAEEL  VGKKVEQIQT EILTNGPIEV AFTV.YEDFY QYTTG.VYV. HTAGASL.GG
+CYS1_CAEEL  VPKNAASIQA EIYANGPVEA AFSV.YEDFY KYKSG.VYK. HTAGKYL.GG
+CYSP_SCHMA  VKNDEKAIQK EIMKYGPVEA SFTV.YEDFL NYKSG.IYK. HITGEAL.GG
+CYSP_SCHJA  VQNNEKVIQR DIMMYGPVEA AFDV.YEDFL NYKSG.IYR. HVTGSIV.GG
+CAL2_GIALA  YGLDIPAMMK ALSTSGPLQV AFLV.HSDFM YYESG.VYQ. HTYGYME.GG
+CAL1_GIALA  VSKSVPAIMG MLVAGGPLQT MIVV.YADLS YYESG.VYK. HTYGTINLGF
+1ppn_       QPYNEGALLY S.IANQPVSV VLEAAGKDFQ LYRGG.IFV. GPC..GNKVD
+1yal_       PSNXETSFLG A.LANQPLSV LVEAGGKPFQ LYKSG.VFD. GPC..GTKLD
+1cqd_A      PSHNEQSLQK A.VANQPVSV TMDAAGRDFQ LYRSG.IFT. GSC..NISAN
+1s4v_A      PENDENALLK A.VANQPVSV AIDAGGSDFQ FYSEG.VFT. GSC..GTELD
+1atk_       PEGNEKALKR AVARVGPVSV AIDASLTSFQ FYSKG.VYY. DESCNSDNLN
+1iwd_A      TRNNESALQS A.VASQPVSV TVEAAGAPFQ HYSSG.IFT. GPC..GTAQN
+1aec_       PYNNEWALQT A.VTYQPVSV ALDAAGDAFK QYSSG.IFT. GPC..GTAID
+CYS7_DICDI  TSGSESDLAA K.VTQGPTSV AIDASNQSFQ LYVSG.IYN. EPACSSTQLD
+CYS2_DICDI  TAGSEISLEN G.AQHGPVSV AIDASHNSFQ LYTSG.IYY. EPKCSPTELD
+ACP1_ENTHI  TDGSETGLQT IIAENGPVAV GMDASRPSFQ LYKKGTIYS. DTKCRSRMMN
+CPR1_DROME  PKGNETAMQE WLLANGPISI GINANA..MQ FYRGGVSHPW KALCSKKNLD
+CATL_SCHMA  T.QDETELAA WLYHNSTISV GMNALL..LQ FYQHGISHPW WIFCSKYLLD
+CYSP_PEA    T.LDEDQIAA NLVKNGPLAV AINAAW..MQ TYMSGVSCPY ..VCAKSRLD
+CATV_NPVAP  VTLFEEKLKD LLRIVGPIPV AIDASD..IV GYKRGII... .RYCENHGLN
+
+            151                                                200
+1cpj_A      HAIRILGWGI .ENG...... .......... .......... ..........
+CATB_CHICK  HAIRILGWGV .ENG...... .......... .......... ..........
+CYS1_OSTOS  HAVKVIGWGE .EKG...... .......... .......... ..........
+CYS1_HAECO  HAVKMIGWGN .ENN...... .......... .......... ..........
+CYS3_OSTOS  HAVKIIGWGK .EKG...... .......... .......... ..........
+CPR4_CAEEL  HAIRILGWGT .DNG...... .......... .......... ..........
+CPR5_CAEEL  HAVKILGWGV .DNG...... .......... .......... ..........
+CYS1_CAEEL  HAIKIIGWGT .ESG...... .......... .......... ..........
+CYSP_SCHMA  HAIRIIGWGV .ENK...... .......... .......... ..........
+CYSP_SCHJA  HAIRIIGWGV .EKR...... .......... .......... ..........
+CAL2_GIALA  HAVEMVGYGT DDDG...... .......... .......... ..........
+CAL1_GIALA  HALEIVGYGT TDDG...... .......... .......... ..........
+1ppn_       HAVAAVGYG. .......... .......... .......... ..........
+1yal_       HAVTAVGYGT S.DG...... .......... .......... ..........
+1cqd_A      HALTVVGYGT E.ND...... .......... .......... ..........
+1s4v_A      HGVAIVGYGT TIDG...... .......... .......... ..........
+1atk_       HAVLAVGYGI QKG....... .......... .......... ..........
+1iwd_A      HGVVIVGYGT Q.SG...... .......... .......... ..........
+1aec_       HAVTIVGYGT E.GG...... .......... .......... ..........
+CYS7_DICDI  HGVLAVGFGT GSGSSGSHGG SQSQSAGSDS QSAGSESSQS ESGSQSQSES
+CYS2_DICDI  HGVLVVGYGV QGKDDEGPVL NRKQT..... .......... ..........
+ACP1_ENTHI  HCVTAVGYGS NSN....... .......... .......... ..........
+CPR1_DROME  HGVLVVGYGV SDYPN..... .......... .......... ..........
+CATL_SCHMA  HAVLLVGYGV SE........ .......... .......... ..........
+CYSP_PEA    HGVLLVGFGK GAYAP..... .......... .......... ..........
+CATV_NPVAP  HAVLLVGYGV EN........ .......... .......... ..........
+
+            201                                                250
+1cpj_A      .......... .......... .......... .......... ..........
+CATB_CHICK  .......... .......... .......... .......... ..........
+CYS1_OSTOS  .......... .......... .......... .......... ..........
+CYS1_HAECO  .......... .......... .......... .......... ..........
+CYS3_OSTOS  .......... .......... .......... .......... ..........
+CPR4_CAEEL  .......... .......... .......... .......... ..........
+CPR5_CAEEL  .......... .......... .......... .......... ..........
+CYS1_CAEEL  .......... .......... .......... .......... ..........
+CYSP_SCHMA  .......... .......... .......... .......... ..........
+CYSP_SCHJA  .......... .......... .......... .......... ..........
+CAL2_GIALA  .......... .......... .......... .......... ..........
+CAL1_GIALA  .......... .......... .......... .......... ..........
+1ppn_       .......... .......... .......... .......... ..........
+1yal_       .......... .......... .......... .......... ..........
+1cqd_A      .......... .......... .......... .......... ..........
+1s4v_A      .......... .......... .......... .......... ..........
+1atk_       .......... .......... .......... .......... ..........
+1iwd_A      .......... .......... .......... .......... ..........
+1aec_       .......... .......... .......... .......... ..........
+CYS7_DICDI  GSQSQSQSGS QSFSGSLYSG SYSGSQSGSQ SGNSGAAVKQ TGAGSGSGSG
+CYS2_DICDI  .......... ..I....... .......... ......VIHK ..........
+ACP1_ENTHI  .......... .......... .......... .......... ..........
+CPR1_DROME  .......... .......... .......... .......... ..........
+CATL_SCHMA  .......... .......... .......... .......... ..........
+CYSP_PEA    .......... .......... .......... .......... ..........
+CATV_NPVAP  .......... .......... .......... .......... ..........
+
+            251                                                300
+1cpj_A      .......... .......... .......... .......... .VPYWLVANS
+CATB_CHICK  .......... .......... .......... .......... .TPYWLAANS
+CYS1_OSTOS  .......... .......... .......... .......... .TPYWIVANS
+CYS1_HAECO  .......... .......... .......... .......... .TDFWLIANS
+CYS3_OSTOS  .......... .......... .......... .......... .TPYWLIANS
+CPR4_CAEEL  .......... .......... .......... .......... .TPYWLVANS
+CPR5_CAEEL  .......... .......... .......... .......... .TPYWLVANS
+CYS1_CAEEL  .......... .......... .......... .......... .SPYWLVANS
+CYSP_SCHMA  .......... .......... .......... .......... .TPYWLIANS
+CYSP_SCHJA  .......... .......... .......... .......... .TPYWLIANS
+CAL2_GIALA  .......... .......... .......... .......... .VDYWIIKNS
+CAL1_GIALA  .......... .......... .......... .......... .TDYWIIKNS
+1ppn_       .......... .......... .......... .......... .PNYILIKNS
+1yal_       .......... .......... .......... .......... .KNYIIIKNS
+1cqd_A      .......... .......... .......... .......... .KDFWIVKNS
+1s4v_A      .......... .......... .......... .......... .TKYWTVKNS
+1atk_       .......... .......... .......... .......... .NKHWIIKNS
+1iwd_A      .......... .......... .......... .......... .KNYWIVRNS
+1aec_       .......... .......... .......... .......... .IDYWIVKNS
+CYS7_DICDI  SGSGSGSGSG SVSGSASGSA SGSASGSSSG SNSNGGVYPT AGDYWIVKNS
+CYS2_DICDI  .......... .......... .NEDNKVESS DDSSDSVRPK ANNYWIVKNS
+ACP1_ENTHI  .......... .......... .......... .......... .GKYWIIRNS
+CPR1_DROME  .......... .......... .......... ......F.HK TLPYWIVKNS
+CATL_SCHMA  .......... .......... .......... .........K NEPFWIVKNS
+CYSP_PEA    .......... .......... .......... ......IRLK EKPYWIIKNS
+CATV_NPVAP  .......... .......... .......... .......... GIPFWILKNT
+
+            301                                335
+1cpj_A      WNADWGDNGF FKILRGEN.. ..HCGIESEI VAGIP
+CATB_CHICK  WNTDWGITGF FKILRGED.. ..HCGIESEI VAGVP
+CYS1_OSTOS  WHDDWGENGF FRMHRGSN.. ..DCGFEERM AAGSV
+CYS1_HAECO  WHNDWGEKGY FRIIRGTN.. ..DCGIEGTI AAGIV
+CYS3_OSTOS  WHDDWGEKGF YRMIRGIN.. ..NCRIEEMV FAGIV
+CPR4_CAEEL  WNVNWGENGY FRIIRGTN.. ..ECGIEHAV VGGVP
+CPR5_CAEEL  WNVAWGEKGY FRIIRGLN.. ..ECGIEHSA VAGIP
+CYS1_CAEEL  WGVNWGESGF FKIYRGDD.. ..QCGIESAV VAGKA
+CYSP_SCHMA  WNEDWGENGY FRIVRGRD.. ..ECSIESEV IAGRI
+CYSP_SCHJA  WNEDWGEKGL FRMVRGRD.. ..ECSIESDV VAGLI
+CAL2_GIALA  WGPDWGEDGY FRMIRGIN.. ..DCSIEEQA YAGFF
+CAL1_GIALA  WGPDWGENGY FRIVRGVN.. ..ECRIEDEI YAVYL
+1ppn_       WGTGWGENGY IRIKRGTGNS YGVCGLYTSS FYPVK
+1yal_       WGPNWGEKGY MRLKRQSGNS QGTCGVYKSS YYPFK
+1cqd_A      WGKNWGESGY IRAERNIENP DGKCGITRFA SYPVK
+1s4v_A      WGPEWGEKGY IRMERGISDK EGLCGIAMEA SYPIK
+1atk_       WGENWGNKGY ILMARNKN.. .NACGIANLA SFPKM
+1iwd_A      WGQNWGNQGY IWMERNVASS AGLCGIAQLP SYPTK
+1aec_       WDTTWGEEGY MRILRNVG.G AGTCGIATMP SYPVK
+CYS7_DICDI  WGTSWGMDGY ILMTKGNN.. .NQCGIATMA SRPTA
+CYS2_DICDI  WGTSWGIKGY ILMSKDRK.. .NNCGIASVS SYPLA
+ACP1_ENTHI  WGTSWGDAGY FLLARDSN.. .NMCGIGRDS NYPTG
+CPR1_DROME  WGPRWGEQGY YRVYRGDN.. ..TCGVSEMA TSAVL
+CATL_SCHMA  WGVEWGENGY FRMYRGDG.. ..SCGINTVA TSAMI
+CYSP_PEA    WGQNWGEQGY YKICRGRN.. ..VCGVDSMV STVAA
+CATV_NPVAP  WGADWGEQGY FRVQQNIN.. ..ACGIKNEL PSSAE

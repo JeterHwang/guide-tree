@@ -1,0 +1,102 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 452  Type: P  December 21, 2021 20:29  Check: 1047  ..
+
+ Name: 1uky_   Len:    452  Check: 9146  Weight: -1.00
+ Name: 1dvr_A  Len:    452  Check: 9307  Weight: -1.00
+ Name: 1gky_   Len:    452  Check: 6919  Weight: -1.00
+ Name: 1kgd_A  Len:    452  Check: 4783  Weight: -1.00
+ Name: 1e2d_A  Len:    452  Check:  964  Weight: -1.00
+ Name: 4tmk_A  Len:    452  Check: 5419  Weight: -1.00
+ Name: 1bif_   Len:    452  Check: 4509  Weight: -1.00
+
+//
+
+        1                                                   50
+1uky_   PAFSPDQVSV IFVLGGPGAG KGTQCEKLVK DY.SFVHLSA GDLLRAEQGR
+1dvr_A  ~~~~SSESIR MVLIGPPGAG KGTQAPNLQE RF.HAAHLAT GDMLRSQIA.
+1gky_   ~~~~~~~SRP IVISGPSGTG KSTLLKKLFA EYPDSFGF.. ..........
+1kgd_A  ~~~~~HMRKT LVLLGAHGVG RRHIKNTLIT KHPDRFAY.. ..........
+1e2d_A  ~~~~~RRGAL IVLEGVDRAG KSTQSRKLVE AL.CAAGHRA ELLRFP...E
+4tmk_A  ~~~~~~RSKY IVIEGLEGAG KTTARNVVVE TL.EQLGIRD MVFTRE...P
+1bif_   ~~~~~~CPTL IVMVGLPARG KTYISKKL.T RYLNFIGVPT REFNVGQYRR
+
+        51                                                 100
+1uky_   AG........ .....SQYGE LIK....... .....N.CIK EGQIVPQ..E
+1dvr_A  KG........ .....TQLGL EAK....... .....K.IMD QGGLVSD..D
+1gky_   .......... .......... .......... .......... ........SV
+1kgd_A  .......... .......... .......... .......... ........PI
+1e2d_A  RS........ .....TEIGK LLS....... .....S.YLQ KKSDV.....
+4tmk_A  GG........ .....TQLAE KLR....... .....S.LLL DIKSVGD..E
+1bif_   DMVKTYKSFE FFLPDNEEGL KIRKQCALAA LNDVRKFLSE EGGHVAVFDA
+
+        101                                                150
+1uky_   I......... .......... .......... TLALL..... RNAISDNVKA
+1dvr_A  I......... .......... .......... MVNMI..... KDELTNN.PA
+1gky_   SSTTRTPR.. ...AGEVNGK DYNFVSVDEF KSMI...... ..........
+1kgd_A  PHTTRPP... .....EENGK NYYFVSHDQM MQDI...... ..........
+1e2d_A  ...EDHSVHL LF........ ...SANRWE. QVPLI..... KEKLSQGVTL
+4tmk_A  V.ITDKAEVL MF........ ...YAARVQL VETVI..... KPALANGTWV
+1bif_   TNTTRERRAM IFNFGEQNGY KTFFVESICV DPEVIAANIV QVKLGSPDYV
+
+        151                                                200
+1uky_   N......... .KHKFLIDGF PRKMDQAISF ERDIVESKF. ..........
+1dvr_A  C......... .KNGFILVGF PRTIPQAEKL DQMLKEQGTP LEKAIELKVD
+1gky_   ......KNNE FIEWAQFSGN YYGS.TVASV KQ...VSKS. .GKTCILDID
+1kgd_A  ......SNNE YLEYGSHEDA MYGT.KLETI RK...IHEQ. .GLIAILDVE
+1e2d_A  V......... .VDRYAFSGV AFTG.AKENF S...LD.... ..........
+4tmk_A  I......... .GDRHDLSTQ AYQG.GGRGI DQHMLA.... ..........
+1bif_   NRDSDEATED FMRRIE.... CYEN.SYESL DE...EQDRD LSYIKIMDVG
+
+        201                                                250
+1uky_   .......... .......... .........I LFFDCPED.. .IMLERLLE.
+1dvr_A  DELL.VAR.. ..ITGRLIHP AS...GRSYH KIFNPPKE.. .DMKDDV.T.
+1gky_   MQGVKSVKAI PELN...... .......ARF LFIAPPSV.. EDLKKRLEG.
+1kgd_A  PQALKVLRTA .EFA...... .......PFV VFIAAPTI.. TPGLN.....
+1e2d_A  .......... .....WCKQP DVGLPKPDLV LFLQLQLA.. .DAA....K.
+4tmk_A  .......... .....TLRDA VLGDFRPDLT LYLDVTPE.. .VGLKRARA.
+1bif_   QSYV.VNRVA DHIQSRIVYY LMNIHVTPRS IYLCRHGESE LNLKGRIGGD
+
+        251                                                300
+1uky_   .....RG... ...KTSGRSD DNIES..... ..IKKRFNTF KETSMPVIEY
+1dvr_A  .....GE... ...ALVQISD DNADA..... ..LKKRLAAY HAQTEPIVDF
+1gky_   .....RGTET EESINKRLSA .......... ........AQ AELAYAETGA
+1kgd_A  .........E DESLQ.RLQK .......... ........ES DILQRTYAHY
+1e2d_A  .....RG... ...AFGHERY ENGAF..... ..QERALRCF HQLM......
+4tmk_A  .....RG... ...ELDRIEQ ESFDF..... ..FNRTRARY LELA......
+1bif_   PGLSPRGREF SKHLAQFISD QNIKDLKVFT SQMKRTIQTA EALSVPY...
+
+        301                                                350
+1uky_   FETKSKVVRV RCDRSVEDVY KDVQDAIRDS L~~~~~~~~~ ~~~~~~~~~~
+1dvr_A  YKKTGIWAGV DASQPPATVW ADILNKLGKN ~~~~~~~~~~ ~~~~~~~~~~
+1gky_   HDKVIVNDDL DKA......Y KELKDFI... .......... ..........
+1kgd_A  FDLTIINNEI DET......I RHLEEAV... .......... ..........
+1e2d_A  KDTTLNWKMV DASKSIEAVH EDIRVLSEDA IATATEK... ...PLGELWK
+4tmk_A  A.QDKSIHTI DATQPLEAVM DAIRTTV... .......... ......THWV
+1bif_   .EQFKVLNEI DAGVCEEMTY EEIQDHYPLE FALRDQDKYR YRYPKGESYE
+
+        351                                                400
+1uky_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1dvr_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1gky_   .......... .........F AEK~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kgd_A  .......... .........E LVC~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1e2d_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+4tmk_A  KEL~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bif_   DLVQRLEPVI MELERQENVL VICHQAVMRC LLAYFLDKAA EELPYLKCPL
+
+        401                                                450
+1uky_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1dvr_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1gky_   ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kgd_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1e2d_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+4tmk_A  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1bif_   HTVLKLTPVA YGCKVESIFL NVAAVNTHRD RPQNVDISRP SEEALVTVPA
+
+        451   
+1uky_   ~~
+1dvr_A  ~~
+1gky_   ~~
+1kgd_A  ~~
+1e2d_A  ~~
+4tmk_A  ~~
+1bif_   HQ

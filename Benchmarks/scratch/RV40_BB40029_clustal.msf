@@ -1,0 +1,419 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+ squid.msf  MSF: 715  Type: P  December 21, 2021 20:32  Check: 5703  ..
+
+ Name: 1aac_       Len:    715  Check: 7105  Weight: -1.00
+ Name: AMCY_METEX  Len:    715  Check: 8556  Weight: -1.00
+ Name: AMCY_PARVE  Len:    715  Check: 8475  Weight: -1.00
+ Name: 1adw_A      Len:    715  Check: 4445  Weight: -1.00
+ Name: 1paz_       Len:    715  Check: 6671  Weight: -1.00
+ Name: 1j5c_A      Len:    715  Check: 2064  Weight: -1.00
+ Name: PLAS_SYNP7  Len:    715  Check:   87  Weight: -1.00
+ Name: 1ag6_       Len:    715  Check: 8334  Weight: -1.00
+ Name: 1b3i_A      Len:    715  Check: 4648  Weight: -1.00
+ Name: 1baw_A      Len:    715  Check: 6657  Weight: -1.00
+ Name: AZUP_ACHCY  Len:    715  Check: 6301  Weight: -1.00
+ Name: AZUP_RHILV  Len:    715  Check: 6080  Weight: -1.00
+ Name: PLAS_CHLFU  Len:    715  Check: 7848  Weight: -1.00
+ Name: PLAS_SCEOB  Len:    715  Check: 6264  Weight: -1.00
+ Name: 1pmy_       Len:    715  Check: 3975  Weight: -1.00
+ Name: PLAS_PHYPA  Len:    715  Check: 1537  Weight: -1.00
+ Name: 1iuz_       Len:    715  Check: 6829  Weight: -1.00
+ Name: PLAS_DAUCA  Len:    715  Check: 8006  Weight: -1.00
+ Name: PLAS_CUCSA  Len:    715  Check: 1489  Weight: -1.00
+ Name: PLAS_ARATH  Len:    715  Check: 9361  Weight: -1.00
+ Name: 1kdi_       Len:    715  Check: 4866  Weight: -1.00
+ Name: PLAS_FRIAG  Len:    715  Check: 8653  Weight: -1.00
+ Name: NOSZ_ALCEU  Len:    715  Check: 6412  Weight: -1.00
+ Name: 1fwx_A      Len:    715  Check: 1040  Weight: -1.00
+
+//
+
+            1                                                   50
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  MSKEKASIGN GPGGIGRRQF LGTAALAGLA GVVACTDKGA APAAAAVGAP
+1fwx_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+
+            51                                                 100
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  ASGAHGAAHG AGASVHLKPG ELDTYYGLWS GGHTGDMRVL GLPSGREILR
+1fwx_A      ~~~~~~~~~~ ASADGSVAPG QLDDYYGFWS SGQSGEMRIL GIPSMRELMR
+
+            101                                                150
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  IPCFVPDALV GWGITNESKK VMGARP.... ......DGTL RYTVADTHHT
+1fwx_A      VPVFNRCSAT GWGQTNESVR IHERTMSERT KKFLAANGKR IHDNGDLHHV
+
+            151                                                200
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  HASYKDGNYD GRYAWVNDKI NSRIARIRLD YFICDKITEL PNVQGFHGIF
+1fwx_A      HMSFTEGKYD GRFLFMNDKA NTRVARVRCD VMKCDAILEI PNAKGIHGLR
+
+            201                                                250
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  PDKRDPVDTK INYTTRVFCG GEFGIPLPSA ..PTEDAGKY RSLFTCVDAE
+1fwx_A      PQKWP..... ..RSNYVFCN GEDETPLVND GTNMEDVANY VNVFTAVDAD
+
+            251                                                300
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  TMAVRWQVLI DGNCDLVATS YDGKLAATNQ YNTENGAHFE DMMSAERDAC
+1fwx_A      KWEVAWQVLV SGNLDNCDAD YEGKWAFSTS YNSEKGMTLP EMTAAEMDHI
+
+            301                                                350
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  VFFNIARIEA AVQAGKFKTY GDSKVPVVDG TQAANKDPKT ALTAYVSVPK
+1fwx_A      VVFNIAEIEK AIAAGDYQEL NGVK..VVDG R....KEASS LFTRYIPIAN
+
+            351                                                400
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  NPHGVNASPD QKYFICAGKL SPTATVIELS RVLGWFDGKQ EKLDDAIVAE
+1fwx_A      NPHGCNMAPD KKHLCVAGKL SPTVTVLDVT RFDAVFYENA .DPRSAVVAE
+
+            401                                                450
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  VELGLGPLHT AFDGRGNAYT TLFLDSQLVK WNLDAAIKFH KGDKNAKYVV
+1fwx_A      PELGLGPLHT AFDGRGNAYT SLFLDSQVVK WNIEDAIRAY AGEKV.DPIK
+
+            451                                                500
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~MASLMRK.. ......A... .......... ....AVAPAK
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~MASVAAA.. ......AVSV SSFSGLKA.. ..ETKAAPAR
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~MAAITSA.. ......TVTI PSFTGLKL.. ..AVSSKPKT
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~MASLTSA.. ......AVTI PSFTGLKA.. ..GRAPTTPS
+NOSZ_ALCEU  DRLDLQYQPG HVNASQSETV AADGKYLAVG CKFSKDRFLP VGPLHPENEQ
+1fwx_A      DKLDVHYQPG HLKTVMGETL DATNDWLVCL SKFSKDRFLN VGPLKPENDQ
+
+            501                                                550
+1aac_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~DKATIPSES
+AMCY_METEX  ~~~~~~~~M. ....RALAFA .......AAL AAFSATAA.. .....LAAGA
+AMCY_PARVE  ~~MISAKTL. ....RPAIAA .......IAL FAIGATGAWA QDKITVTSEK
+1adw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1paz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~~~MKV LASFA..RRL SLFAVAAVLC VGSFFLSAA.
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ~~~~MEKTM. ......LNAI K......... SGFGIA..IA ..AM.LVAAP
+AZUP_RHILV  ~~~~~~~~~~ ~~~~~~~~~M P......... LKFGLI..VA TAALIASAAS
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  A......... ..T.RTTVKA SAS.L..Q.. .RVAQAAGVA VAGFSL....
+1pmy_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_PHYPA  LSSTSVVRMA PVV.R..ASA SSDAL..K.. .TVGKALLAA SSSLLL....
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  LSTISRSTSA TRA.PPKLAL KSSL...K.. .DFGVIAVAT AASIVL....
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  TS......IK PPT.PMSFSV KASFK..E.. .AIGTALVAT AAGAVL....
+NOSZ_ALCEU  LIDISGQKMV LMADHPVRGE PHDFIIFKRE LVRPK.QVYA LDDFPL....
+1fwx_A      LIDISGDKMV LVHDGPTFAE PHDAIAVHPS ILSDIKSVWD RNDPMWAETR
+
+            551                                                600
+1aac_       PFA....... .......AAE VADGAIVVDI AKMKYETPEL HVKVGDTVTW
+AMCY_METEX  LEA....... .......VQE APAGSTEVKI AKMKFQTPEV RIKAGSAVTW
+AMCY_PARVE  PVA....... .......AAD VPADAVVVGI EKMKYLTPEV TIKAGETVYW
+1adw_A      ~~~~~~~~~~ ~~~~~~~ATH EVHMLNKGES GAMVFEPAFV RAEPGDVINF
+1paz_       ~~~~~~~~~~ ~~~~~~~ENI EVHMLNKGAE GAMVFEPAYI KANPGDTVTF
+1j5c_A      ~~~~~~~~~~ ~~~~~~~~~A NATVKMGSDS GALVFEPSTV TIKAGEEVKW
+PLAS_SYNP7  .PA....... .......SAQ TVAIKMGADN GMLAFEPSTI EIQAGDTVQW
+1ag6_       ~~~~~~~~~~ ~~~~~~~~~~ ~VEVLLGGDD GSLAFLPGDF SVASGEEIVF
+1b3i_A      ~~~~~~~~~~ ~~~~~~~~~A SVQIKMGTDK YAPLYEPKAL SISAGDTVEF
+1baw_A      ~~~~~~~~~~ ~~~~~~~~~E TFTVKMGADS GLLQFEPANV TVHPGDTVKW
+AZUP_ACHCY  AAA....... .......ADF EVHMLNKGKD GAMVFEPASL KVAPGDTVTF
+AZUP_RHILV  LMA....... .......ADH QVQMLNKGTD GAMVFEPGFL KIAPGDTVTF
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~~~~~~ DVTVKLGADS GALVFEPSSV TIKAGETVTW
+PLAS_SCEOB  .AL....... .......SAN AANVKLGADS GALVFEPATV TIKAGDSVTW
+1pmy_       ~~~~~~~~~~ ~~~~~~~DEV AVKMLNSGPG GMMVFDPALV RLKPGDSIKF
+PLAS_PHYPA  .VA....... .......SAN AATVKMGGDD GALGFYPKDI SVAAGESVTF
+1iuz_       ~~~~~~~~~~ ~~~~~~~~~~ AQIVKLGGDD GSLAFVPSKI SVAAGEAIEF
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~~~~~~ ~AEVKLGADD GALVFSPSSF SVAKGEGISF
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~~~~~~ ~IEILLGGDD GSLAFVPNNF TVASGEKITF
+PLAS_ARATH  .AG....... .......NAM AMEVLLGSDD GSLAFVPSEF TVAKGEKIVF
+1kdi_       ~~~~~~~~~~ ~~~~~~~~~~ ~AKVEVGDEV GNFKFYPDSI TVSAGEAVEF
+PLAS_FRIAG  .AS....... .......NAL AVEVLLGGSD GSLAFVPSNI EVAAGETVVF
+NOSZ_ALCEU  .......AIK DPKESGVFRN GRKVTVKITS QAPAFSLREF KLKKGDEVTL
+1fwx_A      AQAEADGVDI DNWTEEVIRD GNKVRVYMSS VAPSFSIESF TVKEGDEVTV
+
+            601                                                650
+1aac_       INREAMPHNV HFVAG..VLG EA........ .ALKGPMMKK EQAYSLTFTE
+AMCY_METEX  TNTEALPHNV HFKSG..PGV EK........ .DVEGPMLRS NQTYSVKFNA
+AMCY_PARVE  VNGEVMPHNV AFKKG..IVG ED........ .AFRGEMMTK DQAYAITFNE
+1adw_A      VPTD.KSHNV EAIKEILPEG VE........ ....SFKSKI NESYTLTVTE
+1paz_       IPVD.KGHNV ESIKDMIPEG AE........ ....KFKSKI NENYVLTVTQ
+1j5c_A      VNNKLSPHNI VFAADGV... DA...DTAAK LSHKGLAFAA GESFTSTFTE
+PLAS_SYNP7  VNNKLAPHNV VVEG...... .......QPE LSHKDLAFSP GETFEATFSE
+1ag6_       KNNAGFPHNV VFDEDEIPSG VD...AAKIS MSEEDLLNAP GETYKVTLTE
+1b3i_A      VMNKVGPHNV IFDK..VPAG ES...APA.. LSNTKLAIAP GSFYSVTLGT
+1baw_A      VNNKLPPHNI LFDDKQVPGA SK...ELADK LSHSQLMFSP GESYEITFSS
+AZUP_ACHCY  IPTD.KGHNV ETIKGMIPDG AE........ ....AFKSKI NENYKVTFTA
+AZUP_RHILV  IPTD.KSHNV ETFKGLIPDG VP........ ....DFKSKP NEQYQVKFDI
+PLAS_CHLFU  VNNAGFPHNI VFDEDEVPSG AN...AEALS ..HEDYLNAP GESYSAKFDT
+PLAS_SCEOB  TNNAGFPHNI VFDEDAVPAG VN...ADALS ..HDDYLNAP GESYTAKFDT
+1pmy_       LPTD.KGHNV ETIKGMAPDG AD........ ....YVKTTV GQEAVVKFDK
+PLAS_PHYPA  VNNKGFPHNV VFDEDAVPAG VK...TEDIN ..HEDYLNGP NESFSITFKT
+1iuz_       VNNAGFPHNI VFDEDAVPAG VD...ADAIS ..YDDYLNSK GETVVRKLST
+PLAS_DAUCA  KNNAGFPHNI VFDEDEVPAG VD...VSKIS ..QEDYLDGA GESFTVTLTE
+PLAS_CUCSA  KNNAGFPHNV VFDEDEIPSG VD...SGKIS MNEEDLLBAP GZVYZVZLTZ
+PLAS_ARATH  KNNAGFPHNV VFDEDEIPSG VD...ASKIS MDETALLNGA GETYEVTLTE
+1kdi_       TLVGETGHNI VFDIPAGAPG TVASELKAAS MDENDLLSED EPSFKAKVST
+PLAS_FRIAG  KNNAGFPHNV LFDEDEVPKG VD...AGAIS MKEEDLLNAP GETFSVTLKE
+NOSZ_ALCEU  ILTNLDKIED LTHGFAIPK. .......... .YNVNFIVNP QETASVTFVA
+1fwx_A      IVTNLDEIDD LTHGFTMGN. .......... .YGVAMEIGP QMTSSVTFVA
+
+            651                                                700
+1aac_       ...AGTYDYH CTPHP..... FMRGKVVVE~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_METEX  ...PGTYDYI CTPHP..... FMKGKVVVE~ ~~~~~~~~~~ ~~~~~~~~~~
+AMCY_PARVE  ...AGSYDYF CTPHP..... FMRGKVIVE~ ~~~~~~~~~~ ~~~~~~~~~~
+1adw_A      ...PGLYGVK CTPHF...GM GMVGLVQVGD APENLDAAKT AKMPKKARER
+1paz_       ...PGAYLVK CTPHY...AM GMIALIAVGD SPANLDQIVS AKKPKIVQER
+1j5c_A      ...PGTYTYY CEPHR...GA GMVGKVVVD~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SYNP7  ...PGTYTYY CEPHR...GA GMVGKIVVQ~ ~~~~~~~~~~ ~~~~~~~~~~
+1ag6_       ...KGTYKFY CSPHQ...GA GMVGKVTVN~ ~~~~~~~~~~ ~~~~~~~~~~
+1b3i_A      ...PGTYSFY CTPHR...GA GMVGTITVE~ ~~~~~~~~~~ ~~~~~~~~~~
+1baw_A      DFPAGTYTYY CAPHR...GA GMVGKITVEG ~~~~~~~~~~ ~~~~~~~~~~
+AZUP_ACHCY  ...PGVYGVK CTPHY...GM GMVGVVQVGD APANLEAVKG AKNPKKAQER
+AZUP_RHILV  ...PGAYVLK CTPHV...GM GMVALIQVGD NPANLEPIKI AKVPNMVRKR
+PLAS_CHLFU  ...AGTYGYF CEPHQ...GA GMKGTITVQ~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_SCEOB  ...AGEYGYF CEPHQ...GA GMVGKVIVQ~ ~~~~~~~~~~ ~~~~~~~~~~
+1pmy_       ...EGVYGFK CAPHY...MM GMVALVVVGD KRDNLEAAKS VQHNKLTQKR
+PLAS_PHYPA  ...PGTYEFY CEPHQ...GA GMKGVVTVS~ ~~~~~~~~~~ ~~~~~~~~~~
+1iuz_       ...PGVYGVY CEPHA...GA GMKMTITVQ~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_DAUCA  ...KGTYKFY CEPHA...GA GMKGEVTVT~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_CUCSA  ...KGSYSFY CSPHQ...GA GMVGKVTVN~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_ARATH  ...PGSYGFY CAPHQ...GA GMVGKLTVK~ ~~~~~~~~~~ ~~~~~~~~~~
+1kdi_       ...PGTYTFY CTPHK...SA NMKGTLTVK~ ~~~~~~~~~~ ~~~~~~~~~~
+PLAS_FRIAG  ...KGTYSIY CSPHQ...GA GMAGKITVN~ ~~~~~~~~~~ ~~~~~~~~~~
+NOSZ_ALCEU  D.KPGVFWCY CTHFCHALHL EMRTRMIVEA ~~~~~~~~~~ ~~~~~~~~~~
+1fwx_A      A.NPGVYWYY CQWFCHALHM EMRGRMLVEP KEA~~~~~~~ ~~~~~~~~~~
+
+            701          715
+1aac_       ~~~~~~~~~~ ~~~~~
+AMCY_METEX  ~~~~~~~~~~ ~~~~~
+AMCY_PARVE  ~~~~~~~~~~ ~~~~~
+1adw_A      MDAELAQVN~ ~~~~~
+1paz_       LEKVIA~~~~ ~~~~~
+1j5c_A      ~~~~~~~~~~ ~~~~~
+PLAS_SYNP7  ~~~~~~~~~~ ~~~~~
+1ag6_       ~~~~~~~~~~ ~~~~~
+1b3i_A      ~~~~~~~~~~ ~~~~~
+1baw_A      ~~~~~~~~~~ ~~~~~
+AZUP_ACHCY  LDAALAALGN ~~~~~
+AZUP_RHILV  LDADLAQITP AQITQ
+PLAS_CHLFU  ~~~~~~~~~~ ~~~~~
+PLAS_SCEOB  ~~~~~~~~~~ ~~~~~
+1pmy_       LDPLFAQIQ~ ~~~~~
+PLAS_PHYPA  ~~~~~~~~~~ ~~~~~
+1iuz_       ~~~~~~~~~~ ~~~~~
+PLAS_DAUCA  ~~~~~~~~~~ ~~~~~
+PLAS_CUCSA  ~~~~~~~~~~ ~~~~~
+PLAS_ARATH  ~~~~~~~~~~ ~~~~~
+1kdi_       ~~~~~~~~~~ ~~~~~
+PLAS_FRIAG  ~~~~~~~~~~ ~~~~~
+NOSZ_ALCEU  ~~~~~~~~~~ ~~~~~
+1fwx_A      ~~~~~~~~~~ ~~~~~

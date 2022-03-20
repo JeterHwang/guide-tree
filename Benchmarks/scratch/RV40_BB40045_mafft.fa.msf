@@ -1,0 +1,161 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40045_mafft.fa.msf  MSF: 656  Type: N  December 21, 2021 21:49  Check: 9418  ..
+
+ Name: 1wad_       Len:    656  Check: 1520  Weight: 1.00
+ Name: 1czj_       Len:    656  Check: 4174  Weight: 1.00
+ Name: 1gm4_A      Len:    656  Check: 8486  Weight: 1.00
+ Name: CYC3_DESVH  Len:    656  Check: 4690  Weight: 1.00
+ Name: CY3B_DESAF  Len:    656  Check: 4170  Weight: 1.00
+ Name: CY31_DESDN  Len:    656  Check: 4960  Weight: 1.00
+ Name: CYC3_DESSA  Len:    656  Check: 2144  Weight: 1.00
+ Name: 1gyo_A      Len:    656  Check: 1234  Weight: 1.00
+ Name: 3cao_A      Len:    656  Check: 3690  Weight: 1.00
+ Name: FRDA_SHEFR  Len:    656  Check: 4134  Weight: 1.00
+ Name: FRD2_SHEFR  Len:    656  Check:  216  Weight: 1.00
+
+//
+
+1wad_          ------------------------VDVPADGA-KIDFIAG------------GEKNLTVV
+1czj_          -----------------------TFEIPE-SV-TMS--PKQFEGYTPK-------KGDVT
+1gm4_A         -----------------------APAVPDKPV-EVK-----------------GSQKTVM
+CYC3_DESVH     MRKLFFCGVLALAVA-FALPVVAAPKAPADGL-KME-----------------ATKQPVV
+CY3B_DESAF     MKKLFSMLVAAALVGTMAMAAQAVPQVPA-DV-VIDHLSNPNAKL-E---------YKVK
+CY31_DESDN     ------------------------ADAPGDDY-VIS--APEGMKAKPKGDKPGALQKTVP
+CYC3_DESSA     ------------------------VDAPA-DM-VLK--APAGAKMTK---------APVD
+1gyo_A         ------------------------LDVPC-KV-VIT--APEGEDPHPR-------FGKVE
+3cao_A         --------------------XEDMTHVPTDAFGKLE-------------------RPAAV
+FRDA_SHEFR     MKKMNLAVCIATLMGTAGL--MGTAVA-ADNL----------------------------
+FRD2_SHEFR     MKLKYLVSAMALVVLSS-----GTAMAKTPDM----------------------------
+
+
+1wad_          FNHSTHKDVK-----CDDCHHD-PGD------KQYAGCTTDGCHNILDKAD-KSVN---S
+1czj_          FNHASHMDIA-----CQQCHHTVPDT------YTIESCMTEGCHDNIKER--TEIS---S
+1gm4_A         FPHAPHEKVE-----CVTCHHLVDGK------ESYAKCGSSGCHDDLTAK--KGEK---S
+CYC3_DESVH     FNHSTHKSVK-----CGDCHHPVNGK------EDYRKCGTAGCHDSMDKKD-KSAK---G
+CY3B_DESAF     FSHKAHASLGTDAAACQKCHHKWDGK------SEIGGCATEGCH--ADTTSFKATEKDPK
+CY31_DESDN     FPHTKHATVE-----CVQCHHTLEAD-----GGAVKKCTTSGCHDSLEFRD-KANAKDIK
+CYC3_DESSA     FSHKGHAALD-----CTKCHHKWDGK------AEVKKCSAEGCH--VBTSK-KGKKSTPK
+1gyo_A         MSHAKHRNVS-----CVSCHHMFDGC------GDFQKCA--DCH--IDRDD-RSYER--G
+3cao_A         FNHDEHNEKA-GIESCNACHHVWVNGVLA-EDEDSVGTPCSDCH--ALEQD-GDTP---G
+FRDA_SHEFR     --AEFHVQNQ----ECDSCHTP-DGE-LSNDSLTYENTQCVSCHGTLAEVA-ETTKHE-H
+FRD2_SHEFR     --GSFHADMG----SCQSCHAK-PIK-VT-DSETHENAQCKSCHGEYAELA---NDKL-Q
+
+
+1wad_          W-YKVVHDAKG-GAKPTCISCHKDKAGDDKELKKKLTGCKGSACH---------------
+1czj_          V-YRTFHTTKD-SEK-SCVGCHRELKRQGPSDAP--LACNS--CH---------------
+1gm4_A         L-YYVVHARGELKHT-SCLACHSKVVAEKPELKKDLTGCAKSKCH---------------
+CYC3_DESVH     Y-YHVMHDKNT-KFK-SCVGCHVEVAGADAAKKKDLTGCKKSKCH---------------
+CY3B_DESAF     FLMTAFHSKSPM----SCQGCHKEMKTAKKTTGP--TACAQ--CH---------------
+CY31_DESDN     LVESAFHTQ--------CIDCHALKKKDKKPTGP--TACGK--CH---------------
+CYC3_DESSA     F-YSAFHSKSDI----SCVGCHKAL---KKATGP--TKCGD--CHP--------------
+1gyo_A         F-YKAWHSESEI----SCRGCHKAMKAKNEQTGP--IGCLQG-CH---------------
+3cao_A         L-QDAYHQQ--------CWGCHE-----KQAKGP--VMCGE--CH---------------
+FRDA_SHEFR     YNAHASHFPGEV----ACTSCHS-----AHEKSM--VYCDS--CHSFDFN-MPYA-----
+FRD2_SHEFR     FDPHNSHL-GDI----NCTSCHK-----GHEEPK--FYCNE--CHSFDIKPMPFSDAKKK
+
+
+1wad_          ------------------------------------------------------------
+1czj_          ------------------------------------------------------------
+1gm4_A         ------------------------------------------------------------
+CYC3_DESVH     ------------------------------------------------------------
+CY3B_DESAF     ------------------------------------------------------------
+CY31_DESDN     ------------------------------------------------------------
+CYC3_DESSA     ------------------------------------------------------------
+1gyo_A         ------------------------------------------------------------
+3cao_A         ------------------------------------------------------------
+FRDA_SHEFR     KKWLRDEPTIAELAKDKSERQAALASAPHDTVDVVVVGSGGAGFSAAISATDSGAKVILI
+FRD2_SHEFR     KSW--------DDGWDQDKIQKAIAAGPSETTQVLVVGAGSAGFNASLAAKKAGANVILV
+
+
+1wad_          ------------------------------------------------------------
+1czj_          ------------------------------------------------------------
+1gm4_A         ------------------------------------------------------------
+CYC3_DESVH     ------------------------------------------------------------
+CY3B_DESAF     ------------------------------------------------------------
+CY31_DESDN     ------------------------------------------------------------
+CYC3_DESSA     ------------------------------------------------------------
+1gyo_A         ------------------------------------------------------------
+3cao_A         ------------------------------------------------------------
+FRDA_SHEFR     EKEPVIGGNAKLAAGGMNAAWTDQQKAKKITDSPELMFEDTMKGGQNINDPALVKVLSSH
+FRD2_SHEFR     DKAPFSGGNSMISAGGMNAVGTKQQTAHGVEDKVEWFIEDAMKGGRQQNDIKLVTILAEQ
+
+
+1wad_          ------------------------------------------------------------
+1czj_          ------------------------------------------------------------
+1gm4_A         ------------------------------------------------------------
+CYC3_DESVH     ------------------------------------------------------------
+CY3B_DESAF     ------------------------------------------------------------
+CY31_DESDN     ------------------------------------------------------------
+CYC3_DESSA     ------------------------------------------------------------
+1gyo_A         ------------------------------------------------------------
+3cao_A         ------------------------------------------------------------
+FRDA_SHEFR     SKDSVDWMTAMGADLTDVGMMGGASVNRAHRPTGGAGVGAHVVQVLYDNAVKRNIDLRMN
+FRD2_SHEFR     SADGVQWLESLGANLDDLKRSGGARVDRTHRPHGGKSSGPEIIDTLRKAAKEQGIDTRLN
+
+
+1wad_          ------------------------------------------------------------
+1czj_          ------------------------------------------------------------
+1gm4_A         ------------------------------------------------------------
+CYC3_DESVH     ------------------------------------------------------------
+CY3B_DESAF     ------------------------------------------------------------
+CY31_DESDN     ------------------------------------------------------------
+CYC3_DESSA     ------------------------------------------------------------
+1gyo_A         ------------------------------------------------------------
+3cao_A         ------------------------------------------------------------
+FRDA_SHEFR     TRGIEVLKDDKGTVKGILVKGMYKGYYWVKADAVILATGGFAKNNERVAKLDPSLKGFIS
+FRD2_SHEFR     SRVVKLVVNDDHSVVGAVVHGKHTGYYMIGAKSVVLATGGYGMNKEMIAYYRPTMKDMTS
+
+
+1wad_          ------------------------------------------------------------
+1czj_          ------------------------------------------------------------
+1gm4_A         ------------------------------------------------------------
+CYC3_DESVH     ------------------------------------------------------------
+CY3B_DESAF     ------------------------------------------------------------
+CY31_DESDN     ------------------------------------------------------------
+CYC3_DESSA     ------------------------------------------------------------
+1gyo_A         ------------------------------------------------------------
+3cao_A         ------------------------------------------------------------
+FRDA_SHEFR     TNQPGAVGDGLDVAENAGGALKDMQYIQAHPTLSVKGGVMVTEAVRGNGAILVNREGKRF
+FRD2_SHEFR     SNNITATGDGVLMAKEIGASMTDIDWVQAHPTVGKDSRILISETVRGVGAVMVNKDGNRF
+
+
+1wad_          ------------------------------------------------------------
+1czj_          ------------------------------------------------------------
+1gm4_A         ------------------------------------------------------------
+CYC3_DESVH     ------------------------------------------------------------
+CY3B_DESAF     ------------------------------------------------------------
+CY31_DESDN     ------------------------------------------------------------
+CYC3_DESSA     ------------------------------------------------------------
+1gyo_A         ------------------------------------------------------------
+3cao_A         ------------------------------------------------------------
+FRDA_SHEFR     VNEITTRDKASAAILAQTGKSAYLIFDDSVRKSLSKIDKYIGLGVAPTADSLVKLGKMEG
+FRD2_SHEFR     ISELTTRDKASDAILKQPGQFAWIIFDNQLYKKAKMVRGYDHLEMLYKGDTVEQLAKSTG
+
+
+1wad_          ------------------------------------------------------------
+1czj_          ------------------------------------------------------------
+1gm4_A         ------------------------------------------------------------
+CYC3_DESVH     ------------------------------------------------------------
+CY3B_DESAF     ------------------------------------------------------------
+CY31_DESDN     ------------------------------------------------------------
+CYC3_DESSA     ------------------------------------------------------------
+1gyo_A         ------------------------------------------------------------
+3cao_A         ------------------------------------------------------------
+FRDA_SHEFR     IDGKALTETVARYNSLVSSGKDTDFERPNLPRALNEGNYYAIEVTPGVHHTMGGVMIDTK
+FRD2_SHEFR     MKVADLAKTVSDYNGYVASGKDTAFGRADMPLNMTQSPYYAVKVAPGIHHTMGGVAINTT
+
+
+1wad_          -------------------------------------------------------P
+1czj_          ------------------------------------------------------VQ
+1gm4_A         -------------------------------------------------------P
+CYC3_DESVH     -------------------------------------------------------E
+CY3B_DESAF     -----------------------------------------------------NQK
+CY31_DESDN     -----------------------------------------------------TTN
+CYC3_DESSA     -----------------------------------------------------KKK
+1gyo_A         ------------------------------------------------------EA
+3cao_A         -----------------------------------------------------VKN
+FRDA_SHEFR     AEVMNAKKQVIPGLYGAGEVTGGVHGANRLGGNAISDIITFGRLAGEEAAKYSKKN
+FRD2_SHEFR     ASVLDLQSKPIDGLFAAGEVTGGVHGYNRLGGNAIADTVVFGRIAGDNAAKHALDK
+
+

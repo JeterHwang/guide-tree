@@ -1,0 +1,665 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV20_BB20002_kalign.msf  MSF: 1731  Type: N  December 21, 2021 20:21  Check: 4071  ..
+
+ Name: 1awj_       Len:   1731  Check: 3617  Weight: 1.00
+ Name: STK_HYDAT   Len:   1731  Check: 8721  Weight: 1.00
+ Name: SRC1_XENLA  Len:   1731  Check: 5119  Weight: 1.00
+ Name: FGR_HUMAN   Len:   1731  Check: 2467  Weight: 1.00
+ Name: SR42_DROME  Len:   1731  Check: 6499  Weight: 1.00
+ Name: BTK_HUMAN   Len:   1731  Check: 9489  Weight: 1.00
+ Name: STAC_HUMAN  Len:   1731  Check: 1906  Weight: 1.00
+ Name: ABL_DROME   Len:   1731  Check:  352  Weight: 1.00
+ Name: ABL1_CAEEL  Len:   1731  Check: 9246  Weight: 1.00
+ Name: PEXD_YEAST  Len:   1731  Check: 2232  Weight: 1.00
+ Name: PIG1_BOVIN  Len:   1731  Check: 6143  Weight: 1.00
+ Name: NPH1_CANFA  Len:   1731  Check:  694  Weight: 1.00
+ Name: CC15_SCHPO  Len:   1731  Check: 6786  Weight: 1.00
+ Name: SS81_YEAST  Len:   1731  Check: 6214  Weight: 1.00
+ Name: ARH6_HUMAN  Len:   1731  Check: 7671  Weight: 1.00
+ Name: OPHL_HUMAN  Len:   1731  Check: 6477  Weight: 1.00
+ Name: SNX9_MOUSE  Len:   1731  Check: 3688  Weight: 1.00
+ Name: 1ycs_B      Len:   1731  Check: 8124  Weight: 1.00
+ Name: 1hjd_A      Len:   1731  Check: 3188  Weight: 1.00
+ Name: 1ihv_A      Len:   1731  Check: 5438  Weight: 1.00
+
+//
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      ------------------------------------------------------------
+ABL1_CAEEL     ------------------------------------------------------------
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     MAGAASPCANGCGPSAPSDAEVVHLCRSLEVGTVMTLFYSKKSQRPERKTFQVKLETRQI
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------------------------------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      ------------------------------------------------------------
+ABL1_CAEEL     ------------------------------------------------------------
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     TWSRGADKIEGAIDIREIKEIRPGKTSRDFDRYQEDPAFRPDQSHCFVILYGMEFRLKTL
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------------------------------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ----MAAVILESIFLKRSQQKKKTSPLNFKKRLFLLTVHKLSYYEYDFERGRRGSKKGSI
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      ----MGAQQGKDRGAH-SGGGGSGAPVSCI-GLSSSPVASVSPHCISSSSGVSSAPLGGG
+ABL1_CAEEL     ------------------------------------------------------------
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     SLQAT--SEDEVNMWIRGLTWLMEDTLQAATPLQIERWLRKQFYSVDRNREDRISAKDLK
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------------------------------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     -----------------------------------------------------------M
+OPHL_HUMAN     ---------------------------------MGLPALEFSDCCLD-----------SP
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      DVEKITCVETVVPEKNPPPERQIPRRGEESSEMEQISIIERFPYPFQVVYDEGPLYVFSP
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      STLRGSRIKSSSSGVASGSGSGGGGGGSGSGLSQRSGGHKDARCNPTVGLNIFTEHNGTK
+ABL1_CAEEL     -----------------------------MGHSHSTGKEINDNELFTCEDPVFDQPVASP
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     NMLSQVNYRVPNMRFLRERLTDLEQRTSDITYGQFAQLYRSLMYSAQKTMDLPFLEASAL
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     --------------------MEVNGVSQSEAAPYVTKSSVKFRDNFWGSEDAGMDALMSR
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     NPEEQIVTWLISLGVLESPKKTICDPEEFLKSSLKNGVVLCKLINRLMPGSVEKFCLDPQ
+OPHL_HUMAN     HFRETLKSHEAELDKTNKFIKELIKDGKSLISALKNLSSAKRKFADSLNEFKFQCIGDAE
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         -PLALLLDSSLE-GEFDLVQRIIYEVDD---PSLPNDEGITALHNAVCAGHTE-------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      -------------------------MGPCCSKQTKALNNQPDKSKSKDVVLKE-------
+SRC1_XENLA     ----------------GATKSKPREGGP-RSRSLDIVEGSHQPFTSLSASQTPN-----K
+FGR_HUMAN      -----------------MGCVFCKKLEPVATAKEDA--GLEGDFRSYGAADHYG------
+SR42_DROME     ----------------MGNCLTTQKGEPDKPADRIKLDDPPTIGVGVGVPQI--------
+BTK_HUMAN      TEELRKRWIHQLKNVIRYNSDLVQKYHPCFWIDGQYLCCSQTAKNAMGCQILENRNGSLK
+STAC_HUMAN     -------------------------------------------MIPPSSPREDG----VD
+ABL_DROME      HSSFRG---HPGKYHMNLEALLQSRPLPHIPAGST--RPLFWRIAELQQHQQDS------
+ABL1_CAEEL     KSEISS---KLAEEIERSKSPLILEVSPRTPDSVQMFRPTF---DTFRPPNSDS------
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     RAGERPE--LCRVSLPEFQQFLLEYQGELWAVDRLQVQEFMLSFLRDPLREIEEPYFFLD
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     TK-------SSLSVLESIDEFYAKRASIEREYASKLQELAASSADIPEVGSTLN-----N
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     TEADCIN--NINDFLKGCATLQVEIFDPDDLYSGVNFSKVLSTLLAVNKATEDQ----LS
+OPHL_HUMAN     TDDEM----CIARSLQEFATVLRNLEDERIRMIENASEVLITPLEKFRKEQIGA---AKE
+SNX9_MOUSE     -----------------MATKARVMYDFAAEPGNNELTVTEGEIITVTNPNVGG-----G
+1ycs_B         ----------IVKFLVQFG-VNVNAADSDG-WTPLHCAASCNNVQVCKFLVESG----AA
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          --------KKPLPPTPE-----DNR--R----SFQEPEETL------------VIALYDY
+STK_HYDAT      -------NTSPFSQNTN-----NIMHVS----HNQPPNINPPMLGGPGVT--IFVALYDY
+SRC1_XENLA     SLDSHRPPAQPFGGNCDLTPFGGINFSD----TITSPQRTGPLAGG--VT--TFVALYDY
+FGR_HUMAN      PDPTKARPASSFAHIPNYSNF-SSQAIN----PGFLDSGTIRGVSGIGVT--LFIALYDY
+SR42_DROME     PMPSH--AGQP----PE-----QIR--P----VPQIPESETAGANA---K--IFVALYDY
+BTK_HUMAN      PGSSHRKTKKPLPPTPE-----EDQILK----KPLPPEPAAAPVSTSELK--KVVALYDY
+STAC_HUMAN     GLPKEAVGAEQPPSPASTSSQ-ESKLQK----LKRSLSFKTKSLRSK-------SADNFF
+ABL_DROME      GGL-GLQGSSLGGGHSSTTSV-FESAHR----WTSKENLLAPGPEEDDPQ--LFVALYDF
+ABL1_CAEEL     STFRGSQSREDLVACSSMNSV--NNVHD----M----NTVSSSSSSSAP---LFVALYDF
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     EFVTFLFSKENSIWNSQLDEVCPDTMNNPLSHYWISSSHNTYLTGDQFSSESSLEAYARC
+NPH1_CANFA     -----GEEEDEEEEEEEESEEGGGEEEE----SEEEEEEKQENESHHQATSKEYIAVGDF
+CC15_SCHPO     ILSMRTETGSMAKAHEEVSQQINTELRN----KIREYIDQTEQQKVVAAN--AIEELYQK
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ERPCGRSSSLSAANTSQTNPQGAVSSTV----SGLQRQSKTVEMTENGSHQLIVKARFNF
+OPHL_HUMAN     AKKKYDKETEKYCGILEKHLNLSSKKKE----SQLQEADSQVDLVRQHFYEVSLEYVFKV
+SNX9_MOUSE     WLEGKNNKGEQGLVPTDYVEILPNDGKD----PFSCGNSVADQAFLDSLT--ASTAQTNS
+1ycs_B         VFAMTYSDMQTAADKCEEMEEGYTQCSQ----FLYGVQEKMGIMNKG-----VIYALWDY
+1hjd_A         ----------------------ADR--K----LCADQECSH-PISM-------AVALQDY
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          QTNDPQELALRCDEEYYLLDS----SEIHWWRV------QDKN------GHEGYAPSSYL
+STK_HYDAT      EARISEDLSFKKGERLQIINT----ADGDWWYA-----RSLIT------NSEGYIPSTYV
+SRC1_XENLA     ESRTETDLSFKKGERLQIVNN----TEGDWWLA-----RSLSS------GQTGYIPSNYV
+FGR_HUMAN      EARTEDDLTFTKGEKFHILNN----TEGDWWEA-----RSLSS------GKTGCIPSNYV
+SR42_DROME     DARTDEDLSFRKGEHLEILND----TQGDWWLA-----RSKKT------RSEGYIPSNYV
+BTK_HUMAN      MPMNANDLQLRKGDEYFILEE----SNLPWWRA------RDKN------GQEGYIPSNYV
+STAC_HUMAN     QRTNSEDMKLQAHMVAEISPS---SSPLPAPGS-----LTSTP------ARAGLHPGG--
+ABL_DROME      QAGGENQLSLKKGEQVRILSY---NKSGEWCEAH------SDS------GNVGWVPSNYV
+ABL1_CAEEL     HGVGEEQLSLRKGDQVRILGY---NKNNEWCEARLYSTRKNDASNQRRLGEIGWVPSNFI
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     LRMGCRCIELDCWDGPDGMPVIYHGHTLTTKIKFSDVLHTIKE----HAFVASEYPVILS
+NPH1_CANFA     TAQQAGDLTFKKREILLIIEK----KPDGWWIA------KNAK------GNKGLIPRTYV
+CC15_SCHPO     KTALEIDLSEKKDAYEYSCNKL--NSYMRQTKK-----MTGRE-----LDKYNLKIRQAA
+SS81_YEAST     ------------------------------------------------------MSISSK
+ARH6_HUMAN     KQTNEDELSVCKGD---IIYVTR-VEEGGWWEG-------TLN------GRTGWFPSNYV
+OPHL_HUMAN     QEVQERKMFEFVEPLLAFLQGLFTFYHHGYELAKD---FGDFK------TQLTISIQNTR
+SNX9_MOUSE     SSANSNNQVGGGNDPWTAWNA---PKPGNWDSSDA---WGSRT-----DGTSAQRNSSAN
+1ycs_B         EPQNDDELPMKEGDCMTIIHRED-EDEIEWWWA-------RLN------DKEGYVPRNLL
+1hjd_A         MAPDCRFLTIHRGQVVYVFSKLKGRGRLFWGGSVQGDYYGDLA------ARLGYFPSSIV
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          --VEKS------------------------------------------------------
+STK_HYDAT      -APEKSYEAEEWYFGDVKRAEAEKRLMVRGLPSGTFLIRKA----ETAVGNF--------
+SRC1_XENLA     -APSDSIQAEEWYLGKITRREAERLLLSLENPRGTFLVRES----ETTKGAY--------
+FGR_HUMAN      -APVDSIQAEEWYFGKIGRKDAERQLLSPGNPQGAFLIRES----ETTKGAY--------
+SR42_DROME     -AKLKSIEAEPWYFRKIKRIEAEKKLLLPENEHGAFLIRDS----ESRHNDY--------
+BTK_HUMAN      TEAEDSIEMYEWYSKHMTR-SQAEQLLKQEGKEGGFIVRDSSKAGKYTVSVF--------
+STAC_HUMAN     ----KAHAFQEYIFKKPTFCDVCNHMIVGTNAKHGLRCKAC----KMSIHHK-------C
+ABL_DROME      -TPLNSLEKHSWYHGPISRNAAEYLL--SSGINGSFLVRES----ESSPGQR--------
+ABL1_CAEEL     -APYNSLDKYTWYHGKISRSDSEAIL--GSGITGSFLVRES----ETSIGQY--------
+PEXD_YEAST     --------------------MSSTAVPRPKPWETSASLEEPQRNAQSL------------
+PIG1_BOVIN     IEDHCSIAQQRNMAQYFKKVLGDTLLTKPVDI-AADGLPSPNQLKRKILIKH--------
+NPH1_CANFA     -EPYNKEEGQDTSEEEDSEEDVEVGDQTAGGEEVKQRTDSHWSAVQKAISEQ-----INT
+CC15_SCHPO     -LAVKKMDAEYRETNELLLTVTREWIDRWTEVCDAFQHIEEYRL-EFLKTNMWAYANIIS
+SS81_YEAST     -IRPT----PRKPSRMATDHSFKMKKFYADPFAISSI---SLAI-VSWVIAI--------
+ARH6_HUMAN     -REIKSSERPLSPKAVKGFETAPLTKNYYTVVLQNILDTEKEYA-KELQSLL--------
+OPHL_HUMAN     NRFEGTRSEVESLMKKMKENPLEHKTISPYTMEGYLYVQEKRHFGTSWVKHY-----CTY
+SNX9_MOUSE     -NWDTGFGHPQAYQGPATGDDDEWDEDWDDPKSSSPYFKDSEPA-EAGGIQR--------
+1ycs_B         ---------GLYP-----------------------------------------------
+1hjd_A         -REDQTLKPGKVDVKTDKW-DFYCQ-----------------------------------
+1ihv_A         --MIQNFRVYYRDSRDPVW-KGPAKLL-WKG-EGAVVIQDNSDI-KVVPRRK--------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      SLSVRDGD-S----VKHYRVRKLDTG-GYFITTRAPFNSLYELVQHYT--KDADGLVCAL
+SRC1_XENLA     CLSVSDYDANRGLNVKHYKIRKLDSG-GFYITSRTQFISLQQLVAYYS--KHADGLCHRL
+FGR_HUMAN      SLSIRDWDQTRGDHVKHYKIRKLDMG-GYYITTRVQFNSVQELVQHYM--EVNDGLCNLL
+SR42_DROME     SLSVRDGD-T----VKHYRIRQLDEG-GFFIARRTTFRTLQELVEHYS--KDSDGLCVNL
+BTK_HUMAN      AKSTGDPQGV----IRHYVVCSTPQS-QYYLAEKHLFSTIPELINYHQ--HNSAGLISRL
+STAC_HUMAN     TDGLAPQRCM---GKLPKGFRRYYSS-PLLIHEQ--FGCIKEVMPIACG-NKVDPVYETL
+ABL_DROME      SISLRYEG-----RVYHYRISEDPDG-KVFVTQEAKFNTLAELVHHHSVPHEGHGLITPL
+ABL1_CAEEL     TISVRHDG-----RVFHYRINVDNTE-KMFITQEVKFRTLGELVHHHSV-H-ADGLICLL
+PEXD_YEAST     SAMMTSNQQDSRPTEESNNSNSASES-A---------P---EVLPRPAA-LNSSGTYGES
+PIG1_BOVIN     KKLAEGSAYEEVPTSVMYSENDISNS-IKNGILYLEDPVNHEWYPHYFV-LTSSKIYYSE
+NPH1_CANFA     VDVLTTMGAIPAGFRPSTLFQLLEEG-NQF---RASYFLQPELTPSQL--AFRD-LMWDA
+CC15_SCHPO     TACVKDDESCEKIRLTLENTNIDEDI-TQMIQNEGTGTTIPPLPEFNDY-FKENGLNYDI
+SS81_YEAST     GGSISSASTNE----SFPRFTWWGIVYQFLIICSLMLFYCFDLVDHYRI-FITTSIAVAF
+ARH6_HUMAN     VTYLRPLQSNNNLSTVEVTSLLGNFE-EVCTFQQTLCQALEECSKFPEN-QHKVGGCLLS
+OPHL_HUMAN     QRDSKQITMVPFDQKSGGKGGEDESV-ILKSCTRRKTDSIEKRFCFDVEAVDRPGVITMQ
+SNX9_MOUSE     GNSRAGASSMKLPLNKFPGFAKPGME-QYLLAKQLA-----KPKEKIAI--IVGDYGPMW
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         AKIIRD------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      TLPCPK-DK--PVTGGIAKDA---WEIPRESLRLNRKLGAGQFGEVWAGVW-NNTTQVAV
+SRC1_XENLA     TTVCPT-AK--PQTQGLSRDA---WEIPRDSLRLELKLGQGCFGEVWMGTW-NGTTRVAI
+FGR_HUMAN      IAPCTI-MK--PQTLGLAKDA---WEISRSSITLERRLGTGCFGDVWLGTW-NGSTKVAV
+SR42_DROME     CKPCVQIEK--PVTEGLSHRTRDQWEIDRTSLKFVRKLGSGQFGDVWEGLW-NNTTPVAI
+BTK_HUMAN      KYPVSQQNKNAPSTAGLGYGS---WEIDPKDLTFLKELGTGQFGVVKYGKW-RGQYDVAI
+STAC_HUMAN     RFGTSLAQRTKKGSSGSGSDSP--HRTSTSDLVEVPEEANGPGG----GYDLRKRSNSVF
+ABL_DROME      LYPAPKQNKP-T-VFPLSPE-PDEWEICRTDIMMKHKLGGGQYGEVYEAVWKRYGNTVAV
+ABL1_CAEEL     MYPASKKDKG-RGLFSLSPNAPDEWELDRSEIIMHNKLGGGQYGDVYEGYWKRHDCTIAV
+PEXD_YEAST     NTIPGIYG---NSNYGIPYD-NNPYSMNSIYGNSIGRYGYG--GSYYGNNY-GSFYGGGY
+PIG1_BOVIN     ET-SSDQG---NEDEEEPKEASGSTELHSNEKWFHGKLGAGRDGRHIAERL-LTEYCIET
+NPH1_CANFA     KTGTIRSRPS-RVSFILTLWSCKMIPLPGTSIQVLSRHVRLCIFDGNKVLSNIHTVRATW
+CC15_SCHPO     DQLISKAPSY-PYSSSRPSASAS-LASSPTRSAFRPKTSETVSSEVVSSPP-TSPLHSPV
+SS81_YEAST     VYNTNSATNL-VYADGPKKAAASAGVILLSIINLIWILYYGGDNASPTNR-----WI-DS
+ARH6_HUMAN     LMPHFKSMYL-AYCANHPSAVNVLTQHSDELEQFMENQGASSPGILILTTN-LSKPFMRL
+OPHL_HUMAN     ALSEEDRRLWMEAMDGREPVYNSNKDSQSEGTAQLDSIGFSIIRKCIHAVETRGINEQGL
+SNX9_MOUSE     VYPT-STFDC-VVAD-PRKGSKMYG--LKSYIE--YQLTPTNTNRSVNHRYKHFDWLYER
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      KTLKPGTMSPASFLDEAGVMKKLRHKHLV---QLYAICS-----DREPIYIVTEYMSGGS
+SRC1_XENLA     KTLKPGTMSPEAFLQEAQVMKKLRHEKLV---QLYAVVS------EEPIYIVTEYISKGS
+FGR_HUMAN      KTLKPGTMSPKAFLEEAQVMKLLRHDKLV---QLYAVVS------EEPIYIVTEFMCHGS
+SR42_DROME     KTLKSGTMDPKDFLAEAQIMKKLRHTKLI---QLYAVCT-----VEEPIYIITELMKHGS
+BTK_HUMAN      KMIKEGSMSEDEFIEEAKVMMNLSHEKLV---QLYGVCT-----KQRPIFIITEYMANGC
+STAC_HUMAN     TYPENGT---DDFRDPA---KNINHQGSL---------------SKDPLQMNTYV----A
+ABL_DROME      KTLKEDTMALKDFLEEAAIMKEMKHPNLV---QLIGVCT-----REPPFYIITEFMSHGN
+ABL1_CAEEL     KALKEDAMPLHEFLAEAAIMKDLHHKNLV---RLLGVCT-----HEAPFYIITEFMCNGN
+PEXD_YEAST     GAGAGYGMNNGSG--LGESTKATFQ-------LIESLIG-----AVTG--FAQ---MLES
+PIG1_BOVIN     GAPDGSFLVRESETFVGDYTLSFWRNGKVQHCRIHSRQD-----AGTPKFFLTDNLVFDS
+NPH1_CANFA     QSKKPKTWTFSPQV--TGILPCLLDGDCF----IRSNSS------SPDLGILFELG----
+CC15_SCHPO     KPVSNEQVEQVTEVELSIPVPSIQEAESQK-PVLTGSSM-----RRPSVTSPTFEVAARP
+SS81_YEAST     FSIK--GIRPSP-LENSLHRAR----------RRGNRNT-----TPYQNNVYNDAIRDSG
+ARH6_HUMAN     EKYVTLLQELERHMEDTHPDHQDILKAIVAFKTLMGQCQDLRKRKQLELQILSEPIQAWE
+OPHL_HUMAN     YRIVGVNSRVQKLLSVLMDPKTASETETD-------ICA------EWEIKTITSAL----
+SNX9_MOUSE     LLVKFGSAIPIPSLPDKQVTGRFEEEFIK---MRMERLQ-----AWMTRMCRHPVVSESE
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      L--LDYLSKGEGV--NLQLPTLIDMAAQVASGMAFLEAQG--YIHRDLAARNILVGENYI
+SRC1_XENLA     L--LDFLKGEMGR--YLRLPQLVDMAAQIASGMAYVERMN--YVHRDLRAANILVGENLV
+FGR_HUMAN      L--LDFLKNPEGQ--DLRLPQLVDMAAQVAEGMAYMERMN--YIHRDLRAANILVGERLA
+SR42_DROME     L--LEYLQAIAGKGRSLKMQTLIDMAAQIAAGMAYLESQN--YIHRDLAARNVLVGDGNI
+BTK_HUMAN      L--LNYLREMRHR---FQTQQLLEMCKDVCEAMEYLESKQ--FLHRDLAARNCLVNDQGV
+STAC_HUMAN     L--YKFVPQENED-LEMRPGDIITLLED--SNEDWWKGKI--QDRIGFFPANFVQRLQQN
+ABL_DROME      L--LDFLRSAGRE--TLDAVALLYMATQIASGMSYLESRN--YIHRDLAARNCLVGDNKL
+ABL1_CAEEL     L--LEYLRRTDKS--LLPPIILVQMASQIASGMSYLEARH--FIHRDLAARNCLVSEHNI
+PEXD_YEAST     T--Y-MATH----------NSFFTMISVAEQFGNLKEMLG--SFFGIFAIMKFLKKILYR
+PIG1_BOVIN     L--YDLITHYQQV--PLRCNEFEMRLSEPVPQTNAHESKE--WYHASLTRAQAEHMLMRV
+NPH1_CANFA     ---ISYIRNSTGE-RGELSCGWVFLKLFDASGIPIPAKTYELFLNGGTPYEKGVEVDPSV
+CC15_SCHPO     LTSMDVRSSHNAETEVQAIPAATDISPEVKEGKNSENAIT--KDNDDIILSSQLQPTATG
+SS81_YEAST     Y-ATQFDGYPQQQ---PSHT--NYVSSTALAGFENTQPNT--SEAVNLHLNTLQQRINSA
+ARH6_HUMAN     G--EDIKNLGNVI---FMSQVMVQYGACEEKEERYLMLFS--NVLIMLSASPRMSGFIYQ
+OPHL_HUMAN     ---KTYLRMLPGPLMMYQFQRSFIKAAKLENQESRVSEIHS-LVHR-LPEKNRQMLQLLM
+SNX9_MOUSE     V-FQQFLNFRDEK---EWKTGKRKAEKDELVGVMIFSTME--PEAPDLDLIEIEQKCDAV
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      CKVADFGLARLIEDDEYTAHEGAKFPIKWTAPEAALYNRFTIKSDVW--SFGILMAEIVT
+SRC1_XENLA     CKVADFGLARLIEDNEYTARQGAKFPIKWTAPEAALYGRFTIKSDVW--SFGILLTELTT
+FGR_HUMAN      CKIADFGLARLIKDDEYNPCQGSKFPIKWTAPEAALFGRFTIKSDVW--SFGILLTELIT
+SR42_DROME     VKIADFGLARLIKEDEYEARVGARFPIKWTAPEAANYSKFSIKSDVW--SFGILLTELVT
+BTK_HUMAN      VKVSDFGLSRYVLDDEYTSSVGSKFPVRWSPPEVLMYSKFSSKSDIW--AFGVLMWEIYS
+STAC_HUMAN     EKI--FRCVRTF--------IGCKEQGQITLKENQICVSSEEEQDGF-----IRVLSGKK
+ABL_DROME      VKVADFGLARLMRDDTYTAHAGAKFPIKWTAPEGLAYNKFSTKSDVW--AFGVLLWEIAT
+ABL1_CAEEL     VKIADFGLARFMKEDTYTAHAGAKFPIKWTAPEGLAFNTFSSKSDVW--AFGVLLWEIAT
+PEXD_YEAST     ATKGRLGI----PPKNFAESEGSKNKLIEDFQKFNDSGTI---NSNE-KATRRKISW--K
+PIG1_BOVIN     PRDGAFLVRKRNEPNSYAISFRAEGK-IKHCRVQQEGQTVMLGNSEF-DSLVDLISYYEK
+NPH1_CANFA     SRRAYGSVFHQMMTMRRQPQLLVKLRSLNRRSRDLLSLLPETLIGSM-CTIHLLIFYRQI
+CC15_SCHPO     SRSSRLSFSRHGHGSQTSLGSIKRKSIM----ERMGRPTSPFMGSSF-SNMGSRSTSPTK
+SS81_YEAST     SNAKETNDNSNNQTNT------------------NIGNTFDTDFSNG-NTETTMGDTLGL
+ARH6_HUMAN     GKIPIAG-TVVTRLDEIEGNDCTFEITGNTVERIVVHCNNNQDFQEWLEQLNRLIRGPAS
+OPHL_HUMAN     NHLANVANNHKQNLMTVANLGVVFGPTLLRPQEETVAAIMDIKFQNI--VIEILIENHEK
+SNX9_MOUSE     GKFTKAMDDGVKELLTVGQEHWKRCTGPLPKEYQKIGKALQSLAAVF-SSSGYQGET-DL
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      -KGRIPYPGMTNAQTIAEVEKGYRMPIMPGCP-EPLYNIMLQTWNKDPENR-PTFDY-LQ
+SRC1_XENLA     -KGRVPYPGMVNREVLDQVERGYRMPCPPDCP-ESLHDLMFQCWRKDPEER-PTFEY-LQ
+FGR_HUMAN      -KGRIPYPGMNKREVLEQVEQGYHMPCPPGCP-ASLYEAMEQTWRLDPEER-PTFEY-LQ
+SR42_DROME     -YGRIPYPGMTNAEVLTQVEHGYRMPQPPNCE-PRLYEIMLECWHKDPMRR-PTFET-LQ
+BTK_HUMAN      -LGKMPYERFTNSETAEHIAQGLRLYRPHLAS-EKVYTIMYSCWHEKADER-PTFKI-LL
+STAC_HUMAN     -KGLIPLDVLENI-----------------------------------------------
+ABL_DROME      -YGMSPYPAIDLTDVYHKLDKGYRMERPPGCP-PEVYDLMRQCWQWDATDR-PTFKS-IH
+ABL1_CAEEL     -YGMAPYPGVELSNVYGLLENGFRMDGPQGCP-PSVYRLMLQCWNWSPSDR-PRFRD-IH
+PEXD_YEAST     -PLLFFLMAVFGFPY---LLNKFITKLQTS---GTIRASQGNG----SEPIDPSKLE-FA
+PIG1_BOVIN     -HPLYRKMKL-RYPINEEALEKIGTAEPDY---GALYEGRNPGFYVEANPM-PTFKC-AV
+NPH1_CANFA     -LGDVLLKDRTSMQSADLISNPVLATFPKLLEQPDMMDALRSSWAEKESTL-KRSEKRDK
+CC15_SCHPO     -EGFASNQHATGASVQSDELEDIDPRANVVLN-VGPNMLSVGEAPVESTSK-EEDKD-VP
+SS81_YEAST     -YSDIGDDNFIYKAKALYPYDADDDDAY---EISFEQNEILQ-VSDI-----EGRWW-KA
+ARH6_HUMAN     -CSSLSKTSSSSCSAHSSFSSTGQPRGPLEPP-QIIKPWSLSCLRPAPPLR-PSAALGYK
+OPHL_HUMAN     IFNTVPDMPLTNAQLHLSRKKSSDSK-PPSCS-ERPLTLFHTVQSTEKQEQ-RNSI--IN
+SNX9_MOUSE     -NDAITEAGKTYEEIASLVAEQPKKDLHFLMECNHEYKGFLGCFPDIIGAH-KGAIE-KV
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      GVLEDYFVSTEQGYRDLGEANS--------------------------------------
+SRC1_XENLA     AFLEDYFTATEPQYQPGDNL----------------------------------------
+FGR_HUMAN      SFLEDYFTSAEPQYQPGDQT----------------------------------------
+SR42_DROME     WKLEDFYTSDQSDYKEAQAY----------------------------------------
+BTK_HUMAN      SNILDVMDEES-------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      HALEHMFQESSITEAVEKQLNANATSASSSAPSTSGVATGGGATTTTAASGCASSSSATA
+ABL1_CAEEL     FNLENLISSNSLNDEVQKQLKKNNDKKLESDKRRSNVRE-------------RSDSKSRH
+PEXD_YEAST     RALYDFVPENPEMEVALKKGDLMAILSKKDPLGRDSDWW-------------KVRTKNGN
+PIG1_BOVIN     KALFDYKAQR-EDELTFTKSAIIQNVEKQE-----GGWW-------------RGDYGGKK
+NPH1_CANFA     EFLKAMFLLVYHDCVVPLLHSTLLPPFRWAEEETEAARW-------------------KV
+CC15_SCHPO     DPIANAMAELSSSMRRRQSTSVDDEAPVSLSKTSSSTRL----------NGLGYHSRNTS
+SS81_YEAST     RRAN---GETGIIPSNYVQLIDGPEEMHR-------------------------------
+ARH6_HUMAN     ERMSYILKESSKSPKTMKKFLHKRKTERKPSEEEYVIRK------------------STA
+OPHL_HUMAN     SSLESVSSNPNSILNSSSSLQPNMNSSDPDLAVVKPTRP----------NSLPPNPSPTS
+SNX9_MOUSE     KESDKLVATSKITPQDKQTMVKRVGTMSYALQAEMNHFH-----------SNRIYDYNSV
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      SLSLTPQMVKKGLPGGQALTPNAHHNDPHQQQASTPMSETGSTSTKLSTFSSQGKGNVQM
+ABL1_CAEEL     SSHHDRDRDRESLHSRNS-NPEIPNRSFIRTDDSVSFFNP-STTSKVTSFRA--------
+PEXD_YEAST     IGYIPYNYIEIIKR-----RKKIEHVDDETRTH---------------------------
+PIG1_BOVIN     QLWFPSNYVEEMVSPAAL-EPEREHLDENSPLGDLLRGVLDVPACQIAVRPEGK------
+NPH1_CANFA     IADFLKQNQENGGALQALLSPDGVHEPFDISEQTYDLL--GEIRKNVA------------
+CC15_SCHPO     IASDIDGVPKKSTLG----APPAAHTSAQMQRMSNSFA---SQTKQV-------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ALEEDAQILKVIEAYCTSANFQQGHGSSTRKDSIPQVLLPEEEKLIIEETRS--------
+OPHL_HUMAN     PLSPSWPMFSAPSSPMPT-SSTSSDSSPVRSVAGFVWFSVAAVVLSLARSSLHA------
+SNX9_MOUSE     IRLYLEQQVQFYETIAEKLRQALSRFPVM-------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      RRTTNKQGKQAPAPPKRTS---LLSSSRDSTYREEDPANARCNFIDDLSTNGLA-RDINS
+ABL1_CAEEL     ------QGPPFPPPPQQNTKPKLLKSVLNSNARHASEEFER-NEQDDVVP--LAEKNVRK
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     --NNRLFVFSISMASVAHWSLDVAADSQEELQDWVKKIREVAQTADARLTEGKMMERRKK
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------FGEQRTENSARES----LRHSRSNMSRSPSPMLSR--RSSTLRP--SFERSASS
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------NGQTIMEEKS------LVDTVYALKDEVRELKQENKRMKQCLEEELKSRRDLEK
+OPHL_HUMAN     --VFSLLVNFVPCHPNLHL---LFDRPEEAVHEDSSTPFRKAKALYACKA--EHDSELSF
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      LTQRYDSETDPAADPDTDATGDSLEQSLSQVIAAPVTNKMQHSLHSGGGGGGIGPRSSQQ
+ABL1_CAEEL     AVTRLGG-TMPKGQ-RIDAYLDSMRR----------VDSWKESTDADNEGAG--------
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     IALELSELVVYCRPVPFDEEKIGTERACYRDMSSFPETKAEKYVNKAKGKKFLQYNRLQL
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     LSVRQSDVVSPA--PSTRARGQSVSG----------QQRPSSSMSLYGEYNKSQPQLSMQ
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     LVRRLLKQTDECIRGESSSKTSILP-----------------------------------
+OPHL_HUMAN     TAGTVFDNVHPSQEPGWLEGTLNGKTGL-------IPENYVEFL----------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      HSSFKRPTGTPVMGNRGLETRQSKRSQLHSQAPGPGPPSTQPHHGNNGVVTSAHPITVGA
+ABL1_CAEEL     SSSLSR-----TVSNDSLDTL-------------PLPDSM-----NSSTYVKMHPASGEN
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     SRIYPKGQRLDSSNYDPLPMWICGSQLV--ALNFQTPDKPMQM--NQALFLAGGHCGYVL
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     RSVSPNPLGPNRRSSSVLQSQKS-----------TSSNTSNR---NNGGYSGSRPSS---
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      LDVMNVKQVVNRYGTLPKGARIGAYLDSLEDSSEAAP--ALPATAPSLPPANGHATPPAA
+ABL1_CAEEL     VFLRQIRSKLKKRSETPELDHIDSDTADETTKSEKSPFGSLNKSSIKYPIKNA---PEFS
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     QPSVMRDEAFDPFDKSSLRGLEPCAICIEVLGARHLPKNGRGIVCPFVEIEVAGAEYDSI
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     -------EMGHRYGSMS--GRSMRQVSQRSTSRARSP---EPTNRNSVQSKNV---DPRA
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      RLNPKASPIPPQQMIRSNSSGGVTMQNNAAASLNKLQRHRTTTEGTMMTFSSFRAGGSSS
+ABL1_CAEEL     ENHSRVSPVP------------VPPSRNASVSVRPDSKAEDSSDETTKDVGMW---GPKH
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     KQKTEFVVDNGLNPVWPAKPFHFQISNPEFAFLRFVVYEEDMFSDQNFLAQATF-PVKGL
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     TFTAEGEPIL----------GYVIALYDYQAQIPEEISFQKG--DTLMVLRTQE-DGWWD
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      SPKRSASGVASGVQPALANLEFPPPPLDLPPPPEEFEGGPPPPPPAPESAVQAIQQHLHA
+ABL1_CAEEL     AVTRKIEIVKNDSYPNVEG-ELKAKIRNLRHVPKE------------ESNTSSQED----
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     KTGYRAVPLKNNYSEGLELASLLVKIDVFPAKQENGDLSPFGGASLRERSCDASGPLFHG
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     GEIINVPNSKRGLFPSNFVQTV--------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      QLPNNGNISNGNGTNNNDSSHNDVSNIAPSVEEASSRFGVSLRKREPSTDSCSSLGSPPE
+ABL1_CAEEL     -LPLD-------ATDNT----NDSIIVIPRDEKAKVR-----------------------
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     RAREGS--FEARYQQPFEDFRISQEHLADHFDGRDRRTPRRTRVNGDNRL----------
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------------------------------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      DLKEKLITEIKAAGKDTAPASHLANGSGIAVVDPVSLLVTELAESMNLPKPPPQQQQKLT
+ABL1_CAEEL     ----QLVTQ------KVSPLQH--------------------HRPFSLQCPNNSTSSAIS
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     ------------------------------------------------------------
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------------------------------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      NGNSTGSGFKAQLKKVEPKKMSAPMPKRTANTIIDFKAHLRRVDKEKEPATPAPAPATVA
+ABL1_CAEEL     HSEHADSSETSSLSGVYEERMKPELPRKRSNGDTKVVPVTWIINGEKEPNGMAR------
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     ------------------------------------------------------------
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------------------------------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      VANNANCNTTGTLNRKEDGSKKFSQAMQKTEIKIDVTNSNVEADAGAAGEGDLGKRRSTD
+ABL1_CAEEL     ---------TKSL---RDITSKFEQLGTASTIE-----SKIE-EAVPYREHALEKKGTS-
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     ------------------------------------------------------------
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------------------------------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      DEEQSHTEGLGSGGQGSADMTQSLYEQKPQIQQKPAVPHKPTKLTIYATPIAKLTEPASS
+ABL1_CAEEL     -KRFSMLEG-------SNELKHVVPPRKNRNQDESG--------SIDEEPVSK----DMI
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     ------------------------------------------------------------
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------------------------------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ------------------------------------------------------------
+STK_HYDAT      ------------------------------------------------------------
+SRC1_XENLA     ------------------------------------------------------------
+FGR_HUMAN      ------------------------------------------------------------
+SR42_DROME     ------------------------------------------------------------
+BTK_HUMAN      ------------------------------------------------------------
+STAC_HUMAN     ------------------------------------------------------------
+ABL_DROME      ASSTQISRESILELVGLLEGSLKHPVNAIAGSQWLQLSDKLNILHNSCVIFAENGAMPPH
+ABL1_CAEEL     VSLLKVIQKEFVNLFNLASSEITDE----KLQQFVIMADNVQKLHSTCSVYAEQ--ISPH
+PEXD_YEAST     ------------------------------------------------------------
+PIG1_BOVIN     ------------------------------------------------------------
+NPH1_CANFA     ------------------------------------------------------------
+CC15_SCHPO     ------------------------------------------------------------
+SS81_YEAST     ------------------------------------------------------------
+ARH6_HUMAN     ------------------------------------------------------------
+OPHL_HUMAN     ------------------------------------------------------------
+SNX9_MOUSE     ------------------------------------------------------------
+1ycs_B         ------------------------------------------------------------
+1hjd_A         ------------------------------------------------------------
+1ihv_A         ------------------------------------------------------------
+
+
+1awj_          ---------------------------------------------------
+STK_HYDAT      ---------------------------------------------------
+SRC1_XENLA     ---------------------------------------------------
+FGR_HUMAN      ---------------------------------------------------
+SR42_DROME     ---------------------------------------------------
+BTK_HUMAN      ---------------------------------------------------
+STAC_HUMAN     ---------------------------------------------------
+ABL_DROME      SKFQFRELVTRVEAQSQHLR-SAGSKNVQDNERLVAEVGQSLRQISNALNR
+ABL1_CAEEL     SKFRFKELLSQLEIYNRQIKFSHNPRAKPVDDKLKMAFQDCFDQIMRLVDR
+PEXD_YEAST     ---------------------------------------------------
+PIG1_BOVIN     ---------------------------------------------------
+NPH1_CANFA     ---------------------------------------------------
+CC15_SCHPO     ---------------------------------------------------
+SS81_YEAST     ---------------------------------------------------
+ARH6_HUMAN     ---------------------------------------------------
+OPHL_HUMAN     ---------------------------------------------------
+SNX9_MOUSE     ---------------------------------------------------
+1ycs_B         ---------------------------------------------------
+1hjd_A         ---------------------------------------------------
+1ihv_A         ---------------------------------------------------
+
+

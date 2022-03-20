@@ -1,0 +1,122 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV11_BB11033_mafft.fa.msf  MSF: 463  Type: N  December 21, 2021 21:49  Check: 4364  ..
+
+ Name: 1thx_   Len:    463  Check: 8946  Weight: 1.00
+ Name: 1grx_   Len:    463  Check: 4985  Weight: 1.00
+ Name: 1erv_   Len:    463  Check: 3648  Weight: 1.00
+ Name: 1a8l_   Len:    463  Check:  343  Weight: 1.00
+ Name: 1ewx_A  Len:    463  Check: 5685  Weight: 1.00
+ Name: 1j0f_A  Len:    463  Check: 8386  Weight: 1.00
+ Name: 2trc_P  Len:    463  Check: 8936  Weight: 1.00
+ Name: 1jfu_A  Len:    463  Check: 8997  Weight: 1.00
+ Name: 1kng_A  Len:    463  Check: 8089  Weight: 1.00
+ Name: 1se1_A  Len:    463  Check: 8855  Weight: 1.00
+ Name: 1mek_   Len:    463  Check: 7494  Weight: 1.00
+
+//
+
+1thx_      ------------------------------------------------------------
+1grx_      M-----------------------------------------------------------
+1erv_      ------------------------------------------------------------
+1a8l_      MGL---------------------------------------------------------
+1ewx_A     SGLD--------------------------------------------------------
+1j0f_A     G-----------------------------------------------------------
+2trc_P     EGQAT------------------------------------------HTG------PKGV
+1jfu_A     ------------------------------------------------------------
+1kng_A     ------------------------------------------------------------
+1se1_A     GLFDAQFVPADQAFAFDFQQNQHDLNLTWQIKDGYYLYRKQIRITPEHAKIADVQLPQGV
+1mek_      ------------------------------------------------------------
+
+
+1thx_      ------------------------------------------------------------
+1grx_      ------------------------------------------------------------
+1erv_      ------------------------------------------------------------
+1a8l_      ------------------------------------------------------------
+1ewx_A     ------------------------------------------------------------
+1j0f_A     ------------------------------------------------------------
+2trc_P     INDW--------------------------RKFKLESEDGDSIPPSKKEILRQMSSPQSR
+1jfu_A     ------------------------TGDPACRAAVATAQKIAPLAHGEVAALTMASAPLK-
+1kng_A     ----------------------------------------------------RPAPQTA-
+1se1_A     ---WHEDEFYGKSEIYRDRLTLPVTINQASAGATLTVTYQGSADAGFCYPPETKTVPLSE
+1mek_      ------------------------------------------------------------
+
+
+1thx_      --------------------SKG-------------------------------VITITD
+1grx_      ------------------------------------------------------------
+1erv_      --------------------MVKQIES--------------------------------K
+1a8l_      -----------------------------------------------------------I
+1ewx_A     -----------------KYLPGIEKLR--------------------------------R
+1j0f_A     ------------------------------------------------------------
+2trc_P     DDKDSKERXSRKXSIQEYELIHQDKEDEGCLRKYRRQCXQDXHQKLSFGPRYGFVYELET
+1jfu_A     -------------------LPDLAFED--------------------------------A
+1kng_A     -------------------LPPLEGLQ--------------------------------A
+1se1_A     --------------VVANHLNFTQIKT--------------------------------V
+1mek_      --------------------DAPEEEDH--------------------------VLVLRK
+
+
+1thx_      AEFESEVL----KAEQ-----PVLVYFWASWCGPCQLMSPLINLAANTYS----------
+1grx_      ---------------------QTVIFGRSG-CPYSVRAKDLAEKLSNERDD---------
+1erv_      TAF-QEALD--AAGDK-----LVVVDFSATWCGPCKMIKPFFHSLSEKY-----------
+1a8l_      SDADKKVIKE-EFFSKMVNPVKLIVFVRKDHCQYCDQLKQLVQELSELTDK---------
+1ewx_A     GDGEVEVKS---LAGK-----LVFFYFSASWCPPCRGFTPQLIEFYDKFH--------ES
+1j0f_A     ---------------------SEGAATMSG-LRVYSTSVTGSREIKSQQSEVTRILDGKR
+2trc_P     GEQFLETIE---KEQKVT---TIVVNIYEDGVRGCDALNSSLECLAAEY-----------
+1jfu_A     DGKPKKLSD---FRGK-----TLLVNLWATWCVPCRKEMPALDELQGKLS---------G
+1kng_A     DNVQVPGLDPAAFKGK-----VSLVNVWASWCVPCHDEAPLLTELG---K---------D
+1se1_A     DEL-NQALV--EAKGK-----PVMLDLYADWCVASKEFEKYTFSDPQVQKA-------LA
+1mek_      SNF-AEAL----AAHK-----YLLVEFYAPWCGHCKALAPEYAKAAGKLKA-------EG
+
+
+1thx_      DRLKV-VKLE-----------IDPNPTTV-----K-------------------------
+1grx_      FQYQY-VDIR-----------A-EGITKE-----D-------------------------
+1erv_      SNVIF-LEVD-----------VDDCQDVA-----S-------------------------
+1a8l_      LSYEI-VDFD-----------TPEGKELA-----K-------------------------
+1ewx_A     KNFEV-VFCT-----------WDEEEDGFAGYFAK--MPWLAVPFAQS----EAVQKLSK
+1j0f_A     IQYQL-VDIS-----------Q-DNALRD-----E-------------------------
+2trc_P     PXVKF-CKIR-----------ASNTGAGD-------------------------------
+1jfu_A     PNFEV-VAINIDTRDPEKPKTFLKEANLT-----R--LGYFNDQKAKVFQDLKAIGRA--
+1kng_A     KRFQL-VGIN-----------YKDAADNA-----RRFLGRYGNPFGRVGVD--ANGRASI
+1se1_A     DTVLLQANVT-----------ANDAQDVAL---LK-------------------------
+1mek_      SEIRL-AKVD-----------ATEESDLA-----Q-------------------------
+
+
+1thx_      KYKVEGVPALRLVK---GEQILD-------STEGVIS-K-----------DKLLS-----
+1grx_      LQQKAGKPVETVPQIFVDQQHIG-------GYTDFAAWVKE---------NL--------
+1erv_      ECEVKSMPTFQFFK---KGQKVG-------EFSGANK-EKL---------EATIN-----
+1a8l_      RYRIDRAPATTITQ---DGKDFGVRYFGLPAGHEFAAFLEDIVDVSREETNLMDETKQAI
+1ewx_A     HFNVESIPTLIGVD---ADSGD----------------VVT---------TRARA-----
+1j0f_A     MRTLAGNPKATPPQIVNGNHYCG-------DYELFVEAVEQ---------DTLQE-----
+2trc_P     RFSSDVLPTLLVYK---GGELIS-------NFISVAEQFAE---------DFFAA-----
+1jfu_A     ----LGMPTSVLVD---PQGCE---------IATIAGPAEW---------ASEDA-----
+1kng_A     EWGVYGVPETFVVG---REGTI---------VYKLVGPITP---------DNLRS-----
+1se1_A     HLNVLGLPTILFFD---GQGQEH-------PQARVTGFMDA---------ETFSA-----
+1mek_      QYGVRGYPTIKFFR---NGDTAS-------PKEYTAG-REA---------DDIVN-----
+
+
+1thx_      ------------------------------------------------------------
+1grx_      ------------------------------------------------------------
+1erv_      ------------------------------------------------------------
+1a8l_      RNIDQDVRILVFVTPTCPYCPLAVRMAHKFAIENTKAGKGKILGDMVEAIEYPEWADQYN
+1ewx_A     ------------------------------------------------------------
+1j0f_A     ------------------------------------------------------------
+2trc_P     -----DVES---------------------------------------------------
+1jfu_A     ------------------------------------------------------------
+1kng_A     ------------------------------------------------------------
+1se1_A     ------------------------------------------------------------
+1mek_      ------------------------------------------------------------
+
+
+1thx_      ---------------------------FLDTHLN---------
+1grx_      -----------------------------------------DA
+1erv_      ---------------------------ELV-------------
+1a8l_      VMAVPKIVIQVNGEDRVEFEGAYPEKMFLEKLLS------ALS
+1ewx_A     ---------------------------TLVKDPEGEQFPWKDA
+1j0f_A     ---------------------------FL-----------KLA
+2trc_P     ---------------------------FLNEYGL-----LPER
+1jfu_A     ---------------------------LKLIRAA------TG-
+1kng_A     ---------------------------VLLPQME------KAL
+1se1_A     ---------------------------HLRDRQ----------
+1mek_      ---------------------------WLKKRTG------PAA
+
+

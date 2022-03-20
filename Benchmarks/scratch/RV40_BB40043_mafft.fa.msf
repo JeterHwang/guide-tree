@@ -1,0 +1,347 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV40_BB40043_mafft.fa.msf  MSF: 1004  Type: N  December 21, 2021 21:48  Check: 7287  ..
+
+ Name: 1fdr_       Len:   1004  Check:   85  Weight: 1.00
+ Name: FENR_AZOVI  Len:   1004  Check: 8830  Weight: 1.00
+ Name: FENR_BUCAP  Len:   1004  Check: 8388  Weight: 1.00
+ Name: FENR_BUCAI  Len:   1004  Check: 7307  Weight: 1.00
+ Name: FENR_BUCBP  Len:   1004  Check: 6226  Weight: 1.00
+ Name: 1ndh_       Len:   1004  Check:  371  Weight: 1.00
+ Name: NIA7_HORVU  Len:   1004  Check: 4122  Weight: 1.00
+ Name: NIA_PHYIN   Len:   1004  Check: 8433  Weight: 1.00
+ Name: YMM5_YEAST  Len:   1004  Check: 1449  Weight: 1.00
+ Name: NDOR_PSEPU  Len:   1004  Check: 9844  Weight: 1.00
+ Name: 1krh_A      Len:   1004  Check: 3124  Weight: 1.00
+ Name: 1qfj_A      Len:   1004  Check: 9147  Weight: 1.00
+ Name: LUXG_VIBFI  Len:   1004  Check: 2490  Weight: 1.00
+ Name: LUXG_VIBHA  Len:   1004  Check: 4729  Weight: 1.00
+ Name: FRE_PHOLU   Len:   1004  Check: 2836  Weight: 1.00
+ Name: FRE_VIBFI   Len:   1004  Check: 8938  Weight: 1.00
+ Name: 1cqx_A      Len:   1004  Check:  968  Weight: 1.00
+
+//
+
+1fdr_          AD----------------------------------------------------------
+FENR_AZOVI     SN----------------------------------------------------------
+FENR_BUCAP     MNP---------------------------------------------------------
+FENR_BUCAI     MNP---------------------------------------------------------
+FENR_BUCBP     MNT---------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     M-----AASVEYNRQVSA----------HPWPTNAQPKAAFDLFSSSGGGRRRSGADSDS
+NIA_PHYIN      MTRLRSAASTITNRSTPALALTASHAGSHPAVIVPIQPLLLTLERRPSCPHRVSYPEIEA
+YMM5_YEAST     MSK---------------------------------------------------------
+NDOR_PSEPU     ME----------------------------------------------------------
+1krh_A         SNHQ--------------------------------------------------------
+1qfj_A         T-----------------------------------------------------------
+LUXG_VIBFI     M-----------------------------------------------------------
+LUXG_VIBHA     M-----------------------------------------------------------
+FRE_PHOLU      T-----------------------------------------------------------
+FRE_VIBFI      M-----------------------------------------------------------
+1cqx_A         MLTQKTKDIVKATAPVLA---------EHGY-----------------------------
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     DDEDSVPPDWRSLYSPRLDVEPSVKDPRDEATSDAWVKRHPALVRLTGKHPFNSEPPLPR
+NIA_PHYIN      YRGISSSLRSHNAIVRASDIMAQI-DPRDVGTPDEWVPRHPELIRLTGRHPFNSEPPLK-
+YMM5_YEAST     ------------------------------------------------------------
+NDOR_PSEPU     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         -----------------------------------------DIIKCFYQRMFEAHPELKN
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     LMSHGFITPVPLHYVRNHGAVPKADWSTWTVEVTGLVKRPVKFTMEELVTGF--QAVEFP
+NIA_PHYIN      -YASTFITPMALHYVRNHGPVPRLEWDTHTFSIDGLVKKPRTFGMNELVTTFEQETVTFP
+YMM5_YEAST     ------------------------------------------------------------
+NDOR_PSEPU     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         -----------------------------------------VFNMAH-------------
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     VTLVCAGNRRKEQNMVRQSSGFNWGPGAISTTVWRGVRLRDVLRRCGVMGAGAASNVCFE
+NIA_PHYIN      VLLVCAGNRRKEQNMIKKTIGFSWGAAGCSTAEWTGVPLHVLLTACGV-DREKAQWVWFE
+YMM5_YEAST     ------------------------------------------------------------
+NDOR_PSEPU     -------LLIQPNN---RIIPFSAG----------------------------------A
+1krh_A         -------VALQFEDGVTRFICIAQG----------------------------------E
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         ------QEQGQQQQALARAV-YAYA----------------------------------E
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     GAEDLPGGGG---------CKYGTSLRRSVAMDPARDVILAYMQNGEPLAPDHG--FPVR
+NIA_PHYIN      GIEDLPHD------------KYGTCIRASTELDPECDVLVAWKANGELLGPDHG--FPVR
+YMM5_YEAST     --EDIE----------------GTNI-----LDE----------------PVHGIYIPAA
+NDOR_PSEPU     NLLEVLRENGVAISYSCLSGRCGT-CRCR---------------------VIDGSVIDSG
+1krh_A         TLSDAAYRQQINIPMDCREGECGT-CRAF---------------------CESGNYDMPE
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         NIEDPNSLMAVLKNIANKHASLGVKPEQY---------------------PIVGEHLLAA
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     VIVPGFIGGRMVKWLKRIVVACNESESYYHYRDNRVLPSHVDAELANAEAWWYKPECMIN
+NIA_PHYIN      LIVPGHIGGRMVKWLERIHVSDHESSNHHHIMDNRVLPSHVTAETATAEGWWSKSPYAIM
+YMM5_YEAST     LFVVGV------------------------------------------------------
+NDOR_PSEPU     -------------------------------------AENGQSNLTDKQ-----------
+1krh_A         -------------------------------------DNYIEDALTPEEA----------
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         I--------------------------------KEVLGNAATDDIISAWA----------
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     ELNINSVITTPGHDEVLPINALTT---QKPYTMKGYAYSGGGRKVTRVEVTLDGGETWQV
+NIA_PHYIN      ELNVNAVVILPNHDDLLALGEDTTFNDIETYTIKGYAYSGGGRRVIRVEVTLDDGASWQL
+YMM5_YEAST     --------------------AITT-------------YMSGELKIL-----------WSL
+NDOR_PSEPU     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         ------------------------------------------------------------
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     CDLEHPERPTKYGKYWCWCFWSVEVEVLELLGAKEMAVRAWDEALNTQPERLIWNLMGMM
+NIA_PHYIN      ARIIYHERPSKYGKMWCWVHYELAAPMSSLLCAREVCVRAWDSSMNLMPAFPTWNVMGMM
+YMM5_YEAST     -------------------------PILFMI----IFVRAYSA-----------------
+NDOR_PSEPU     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         ------------------------------------------------------------
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     NNCWFRVKINVCRPHKGEI-GLVFDHPTQPGNQSGGWMARQK------------HIETSE
+NIA_PHYIN      NNPWYRVKIH----HEQDTNSLRFEHPTQAGNQKGGWMTKERIMTNDVDSIKMLQVEPLD
+YMM5_YEAST     ------------------------------------------------------------
+NDOR_PSEPU     -----------------------------------YVLACQSVLTGN-------------
+1krh_A         --------------------------------QQGYVLACQCRPTSD-------------
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         --------------------------------QAYGNLADVLMGMES-------------
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     TTQGTLKRSTSTPFMSTASAQFTMSEVRRHASKDSAWIVVHGHVYDCTAFLKDHPGGADS
+NIA_PHYIN      TSSAATPKPGLTADELSELPLIFADEVAKHNSKKSCWFICRDLVYDATPFLDEHPGGATS
+YMM5_YEAST     ------------------------------------------------------------
+NDOR_PSEPU     ------------------------------------------------------------
+1krh_A         ------------------------------------------------------------
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         ------------------------------------------------------------
+
+
+1fdr_          ------------------------------------------------------------
+FENR_AZOVI     ------------------------------------------------------------
+FENR_BUCAP     ------------------------------------------------------------
+FENR_BUCAI     ------------------------------------------------------------
+FENR_BUCBP     ------------------------------------------------------------
+1ndh_          ------------------------------------------------------------
+NIA7_HORVU     ILINAGSDCTEEFDAIHSAKARGLLEMYRVGELIVTGNDYSPQSSNADLAAIVEAPAVVV
+NIA_PHYIN      ILLCGGTDCTDEFESIHSTKAWQMLKKYCIGRCSSTEDDTGTSDTSSDHE----------
+YMM5_YEAST     ------------------------------------------------------------
+NDOR_PSEPU     ----------------------------------------------------------CA
+1krh_A         ----------------------------------------------------------AV
+1qfj_A         ------------------------------------------------------------
+LUXG_VIBFI     ------------------------------------------------------------
+LUXG_VIBHA     ------------------------------------------------------------
+FRE_PHOLU      ------------------------------------------------------------
+FRE_VIBFI      ------------------------------------------------------------
+1cqx_A         ----------------------------------------------------------EL
+
+
+1fdr_          ---------------WVTGKVTKV--QNWTDA--LFSL--TVHAPVLPFTAGQFTKLGL-
+FENR_AZOVI     ---------------LNVERVLSV--HHWNDT--LFSFK-TTRNPSLRFENGQFVMIGL-
+FENR_BUCAP     ---------------WINANVLKV--HKWTQN--LFSL--ILNAEIAPFQAGQFTKLAL-
+FENR_BUCAI     ---------------WINADVLMV--KKWTKN--LFSL--ILNAPIEPFFAGQFNKLAL-
+FENR_BUCBP     ---------------WITAKIIKI--KKWKNN--LFSV--IVNAPISPFTAGQFTKLGY-
+1ndh_          -----PAITLENPDIKYPLRLIDK--EVVNHDTRRFRFALPSPEHILGLPVGQHIYLSA-
+NIA7_HORVU     PRLPASAVALANPREKVRCRLVDK--KSMSHNVRLFRFALPSPDQKLGLPVGKHVYVCA-
+NIA_PHYIN      ----ETDVALKG-RTKVPIVLISR--EVVSHDARIFKFALPAKDLRLGLPIGNHVFLYA-
+YMM5_YEAST     ----YKRRRSLYPDRWTSLELEDQ--TIISKNTALYRFKLKTRLESLDIPAGHHVAVRV-
+NDOR_PSEPU     IEVPEADEIVTHPARIIKGTVVAV--ESPTHD--IRRLRVRLSKP-FEFSPGQYATLQF-
+1krh_A         FQIQASSEVCKTKIHHFEGTLARV--ENLSDSTITFDIQLDDGQPDIHFLAGQYVNVTLP
+1qfj_A         ---------------TLSCKVTSV--EAITDT--VYRVRIVPDAA-FSFRAGQYLMVVM-
+LUXG_VIBFI     ---------------IVDGRVSKIVLASIKNN--IYKVFITVNSP-IKFIAGQFVMVTI-
+LUXG_VIBHA     ---------------L--CSIEKI--EPLTSF--IFRVLLKPDQP-FEFRAGQYINVSL-
+FRE_PHOLU      ---------------TLSCKVTSV--EAITDT--VYRVRLLPDSP-FLFRAGQYLMVVM-
+FRE_VIBFI      ---------------PINCKVKSI--EPLACN--TFRILLHPEQP-VAFKAGQYLTVVM-
+1cqx_A         YERSAEQPGGWKG--WRTFVIREK--RPESDVITSFILEPADGGPVVNFEPGQYTSVAI-
+
+
+1fdr_          EIR------------VQRAYSYVNSP-DNPDLEFYLVTV------------PDGKLS---
+FENR_AZOVI     EV---------DGRPLMRAYSIASPN-YEEHLEFFSIKV------------QNGPLT---
+FENR_BUCAP     NEENINFSNNVKKKKIQRAYSFVNAP-SNKNLEIYIVRI------------LNGKLS---
+FENR_BUCAI     YN-----SNPLNKNKIQRAYSYVNAP-SEKNLEIYIVRV------------LNGQLS---
+FENR_BUCBP     QKK--------NGKIIQRAYSFVNAP-HEKNLEFYMVLI------------KNGQLT---
+1ndh_          ---------RIDGNLVIRPYTPVSS---DDDKGFVDLVIKVYFKDTHPKFPAGGKMS---
+NIA7_HORVU     ---------STGGKLCMRAYTPTSS---VEEVGHVELLIKIYFKDEDPKFPAGGLMS---
+NIA_PHYIN      ---------KINGKTAVRAYTPISSE-NDEDRGFVSFLIKVYFAGDNPVHPEGGLFS---
+YMM5_YEAST     ---------PIDGKQEVRYYNPISS---KLESGYLDLVVKAY---------VDGKVS---
+NDOR_PSEPU     SPE------------HARPYSMAGLP--DD--QEMEFHI------------RKVPGGRVT
+1krh_A         GTT------------ETRSYSFSSQP-GNRLTGFVVRNV------------PQGKMS---
+1qfj_A         DER------------DKRPFSMASTP-DEK--GFIELHI------------G------YA
+LUXG_VIBFI     NGK-------------KCPFSIANCP-TKN--HEIELHI------------GSSNKDC-S
+LUXG_VIBHA     -SF------------GSLPFSIASCP-SNG--AFLELHI------------GGSDISKKN
+FRE_PHOLU      DER------------DKRPFSMASTP-SEK--EFIELHI------------GASELNLYA
+FRE_VIBFI      GEK------------DKRPFSIASSPCRHE--GEIELHI------------GAAEHNAYA
+1cqx_A         DVP-------ALGLQQIRQYSLSDMP-NGRTYRISVKRE------------GGGPQP--P
+
+
+1fdr_          ----PRLAA-LKPGDEVQVVSEAAGFFVLDEVPHC----------------ETLWMLATG
+FENR_AZOVI     ----SRLQH-LKEGDELMVSRKPTGTLVTSDLLPG----------------KHLYMLSTG
+FENR_BUCAP     ----NLLYN-LKSGDNLFIKEKSFGFFTLDEIPNC----------------KTLWMFATG
+FENR_BUCAI     ----NLLYN-LHSGDKIFIKKKSFGFFIIDEIPDC----------------EILWMFATG
+FENR_BUCBP     ----TKLYN-LNNTDHIQIKKKSYGFFTLNEIPTC----------------KILWMFATG
+1ndh_          ----QYLES-MKIGDTIEFR-GPNGLLVYQGK-GKFAIRPDKKSSPVIKTVKSVGMIAGG
+NIA7_HORVU     ----QYLDA-LPLGAPVDIK-GPVGHIEYAGR-GAFTVGGERRFA------RRLAMVAGG
+NIA_PHYIN      ----QYLDG-LHLGQQIQIK-GPLGHFTYYGD-GNFSLETTNFHA------YKFGFVAGG
+YMM5_YEAST     ----KYFAG-LNSGDTVDFK-GPIGTLNYEPN-SS----------------KHLGIVAGG
+NDOR_PSEPU     EYVFEHVRE----GTSIKLS-GPLGTAYLRQK-HT----------------GPMLCVGGG
+1krh_A         ----EYLSVQAKAGDKMSFT-GPFGSFYLRDV-K-----------------RPVLMLAGG
+1qfj_A         KAVMDRILKDHQ----IVVD-IPHGEAWLRDD-EE----------------RPMILIAGG
+LUXG_VIBFI     LDIIEYFVDALVEEVAIELD-APHGNAWLRSE-SN----------------NPLLLIAGG
+LUXG_VIBHA     TLVMEELTNSWGCGNMVEVS-EARGKAWLRDE-SV----------------KPLLLVAGG
+FRE_PHOLU      MAVMDRILDQKV----INID-IPHGKAWFRKS-SA----------------NPLLLIAGG
+FRE_VIBFI      GEVVESMKSALETGGDILID-APHGEAWIRED-SD----------------RSMLLIAGG
+1cqx_A         GYVSNLLHDHVNVGDQVKLA-APYGSFHIDVD-AK----------------TPIVLISGG
+
+
+1fdr_          TAIGPYLSILRLGKDL--DRFKNLVLVHAARYAADLSY-------LPLMQELEKRYEGKL
+FENR_AZOVI     TGLAPFMSLIQDPEVY--ERFEKVVLIHGVRQVNELAYQQFITEHLPQSEYFGEAVKEKL
+FENR_BUCAP     TGIGPYCSILQEYKNI--NRFKNIILIHAVRYQNELTY-------LPLMKQLYKSYNGKL
+FENR_BUCAI     TGIGPYCSILQEGKNI--NRFNHIILTHAVRYQNELTY-------LPLMKELRQKYNGKL
+FENR_BUCBP     TGIGPYLSMLKYQKNT--EKFQKIVLIHAVRYRHDLTY-------FNEINNLKNIYNKKL
+1ndh_          TGITPMLQVIRAIMKD-PDDHTVCHLLFANQTEKDILL-------RPELEELRNEHSARF
+NIA7_HORVU     TGITPVYQVIQAVLRDQPDDTTEMHLVYANRTEDDMLL-------REEIDRWAAANPARL
+NIA_PHYIN      TGITPVYQVMRAILED-AKDQTKVALIYCVRSQRDLLL-------RKELETLQKLRPGQC
+YMM5_YEAST     SGITPVLQILNEIITV-PEDLTKVSLLYANETENDILL-------KDELDEMAEKYP-HF
+NDOR_PSEPU     TGLAPVLSIVRGALKS--GMTNPILLYFGVRSQQDLYD-------AERLHKLAADHP-QL
+1krh_A         TGIAPFLSMLQVLEQK--GSEHPVRLVFGVTQDCDLVA-------LEQLDALQQKLP-WF
+1qfj_A         TGFSYARSILLTALAR--NPNRDITIYWGGREEQHLYD-------LCELEALSLKHP-GL
+LUXG_VIBFI     TGLSYINSILTNCLNR--NIPQDIYLYWGVKNSSLLYE-------DEELLELSLNNK-NL
+LUXG_VIBHA     TGMSYTLSILKNSLAQ--GFNQPIYVYWGAKDMENLYV-------HDELVDIALENK-NV
+FRE_PHOLU      TGFSYTRSILLTALEE--QPKRHISMYWGGRESQHLYD-------LAELRLLTERYP-NL
+FRE_VIBFI      TGFSYVRSILDHCISQ--QIQKPIYLYWGGRDECQLYA-------KAELESIAQAHS-HI
+1cqx_A         VGLTPMVSMLKVALQA--PP-RQVVFVHGARNSAVHAM-------RDRLREAAKTYE-NL
+
+
+1fdr_          RI-----QTVVS---RET-------AAGSLTGRIPALIESGELESTIGL-PMNKETSHVM
+FENR_AZOVI     IY-----YPTVT---RES-------FHNQ--GRLTDLMRSGKLFEDIGLPPINPQDDRAM
+FENR_BUCAP     KI-----ETIVS---REK-------NHNSLYGRIPLLLQNQILEKKIGL-KINRNDSHVM
+FENR_BUCAI     QI-----QTITS---REK-------HKNSLNGRIPFLLRNKILEKHVGF-SINPQTSHVM
+FENR_BUCBP     YT-----QFIIS---REK-------TNFSLSGRIPQLLKTEELEKHINL-FIENNTSHVM
+1ndh_          KL-----WYTVD---RAP------EAWDYSQGFVNEEMIRDHLP-------PPEEEPLVL
+NIA7_HORVU     KV-----WYVVSKVGRPE------DAWEYGVGRVDEQVLREHLP------LGGDGETLAL
+NIA_PHYIN      RI-----FYTLSDMELLDRNDPIVRGWAYGKSRLNFAMVKNII--------GSDAED-VC
+YMM5_YEAST     QV-----HYVVH---YPS------DRWTGDVGYITKDQMNRYLP-------EYSEDNRLL
+NDOR_PSEPU     TV-----HTVIA---TGP------INEGQRAGLITDVIEKD---------ILSLAGWRAY
+1krh_A         EY-----RTVVA---HAE-------SQHERKGYVTGHIEYD---------WLNGGEVDVY
+1qfj_A         QV-----VPVVE---QPE------AGWRGRTGTVLTAVLQD---------HGTLAEHDIY
+LUXG_VIBFI     HY-----IPVIE---DKS------EEWIGKKGTVLDAVMED---------FTDLAHFDIY
+LUXG_VIBHA     SY-----VPVTE---IST------CPQYAKQGKVLECVMSD---------FRNLSEFDIY
+FRE_PHOLU      KV-----IPVVE---QSD------NGWCGRTGTVLKAVLED---------FGSLANYDIY
+FRE_VIBFI      TF-----VPVVE---KSE-------GWTGKTGNVLEAVKAD---------FNSLADMDIY
+1cqx_A         DLFVFYDQPLPE---DVQ----------GRDYDYPGLVDVKQIEK-----SILLPDADYY
+
+
+1fdr_          LCGNPQMVRDTQQLLKETRQMTKHLRRRPGHMTAEHYW------
+FENR_AZOVI     ICGSPSMLDESCEVLDGFGLKISPRMGEPGDYLIERAF---VEK
+FENR_BUCAP     LCGNPAMVKDTYLFLQKDRCMQKNLRRKHGHITMENYW------
+FENR_BUCAI     LCGNPFMVKDTFLFLKNNRNMEKHLRRKKGHITMENYW------
+FENR_BUCBP     LCGNPDMVKQTQNFLINNKNMKKHLRRKPGQISSENYW------
+1ndh_          MCGPPPMIQYACLPNLERVGH------PKER---------CFAF
+NIA7_HORVU     VCGPPAMLECTVRPGLEKMGY------DLDK--------DCLVF
+NIA_PHYIN      MCGPEGMIEYACKPALLKLNY------DLKT--------QTTVF
+YMM5_YEAST     ICGPDGMNNLALQYA-KELGW------KVNSTRSSGD-DQVFVF
+NDOR_PSEPU     LCGAPAMVE-ALCTVTKHLGI------SPEHIYADAFYP--GGI
+1krh_A         LCGPVPMVEAVRSWL-DTQGI------QPANFLFEKF----SAN
+1qfj_A         IAGRFEMAKIARDLFCSERNA------REDRLFGDAF----AFI
+LUXG_VIBFI     VCGPFMMAKTAKEKLIEEKKA------KSEQMFADAF----AYV
+LUXG_VIBHA     LCGPYKMVEVARDWFCDKRGA------EPEQLYADAF----AYL
+FRE_PHOLU      IAGRFEMAKIARERFCSERDA------SADSMYGDAF----EFI
+FRE_VIBFI      IAGRFEMAGAAREQFTTEKQA------KKEQLFGDAF----AFI
+1cqx_A         ICGPIPFMRMQHDAL-KNLGI------HEARIHYEVFGPDLFAE
+
+

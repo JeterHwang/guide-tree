@@ -1,0 +1,785 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV30_BB30016_mafft.fa.msf  MSF: 1132  Type: N  December 21, 2021 21:49  Check: 1509  ..
+
+ Name: 1r69_       Len:   1132  Check: 8140  Weight: 1.00
+ Name: RCRO_BP434  Len:   1132  Check: 1488  Weight: 1.00
+ Name: RDGA_ERWCA  Len:   1132  Check: 3384  Weight: 1.00
+ Name: PRTR_PSEAE  Len:   1132  Check: 4744  Weight: 1.00
+ Name: 1neq_       Len:   1132  Check: 5992  Weight: 1.00
+ Name: NER_BPD10   Len:   1132  Check: 6464  Weight: 1.00
+ Name: NER_HAEIN   Len:   1132  Check: 8648  Weight: 1.00
+ Name: SFSB_ECOLI  Len:   1132  Check: 4077  Weight: 1.00
+ Name: 1au7_A      Len:   1132  Check: 8889  Weight: 1.00
+ Name: HM16_XENLA  Len:   1132  Check: 7823  Weight: 1.00
+ Name: PO21_CHICK  Len:   1132  Check: 2743  Weight: 1.00
+ Name: PO22_HUMAN  Len:   1132  Check:  220  Weight: 1.00
+ Name: PDM2_DROME  Len:   1132  Check: 6645  Weight: 1.00
+ Name: PDM1_DROME  Len:   1132  Check: 7198  Weight: 1.00
+ Name: BR31_BRARE  Len:   1132  Check: 8752  Weight: 1.00
+ Name: POU1_XENLA  Len:   1132  Check: 7872  Weight: 1.00
+ Name: ZP50_BRARE  Len:   1132  Check: 9857  Weight: 1.00
+ Name: PO31_HUMAN  Len:   1132  Check: 2016  Weight: 1.00
+ Name: PO34_HUMAN  Len:   1132  Check: 3843  Weight: 1.00
+ Name: ZP47_BRARE  Len:   1132  Check: 9701  Weight: 1.00
+ Name: PO3A_XENLA  Len:   1132  Check:  638  Weight: 1.00
+ Name: PO32_HUMAN  Len:   1132  Check: 5214  Weight: 1.00
+ Name: PO33_HUMAN  Len:   1132  Check: 2362  Weight: 1.00
+ Name: PO33_BRARE  Len:   1132  Check: 4847  Weight: 1.00
+ Name: SGF3_BOMMO  Len:   1132  Check: 6879  Weight: 1.00
+ Name: CF1A_DROME  Len:   1132  Check: 6008  Weight: 1.00
+ Name: HM06_CAEEL  Len:   1132  Check: 6984  Weight: 1.00
+ Name: PO51_BOVIN  Len:   1132  Check: 8529  Weight: 1.00
+ Name: 1a04_A      Len:   1132  Check: 8475  Weight: 1.00
+ Name: NARP_HAEIN  Len:   1132  Check: 8936  Weight: 1.00
+ Name: NARP_ECOLI  Len:   1132  Check: 7064  Weight: 1.00
+ Name: YXJL_BACSU  Len:   1132  Check: 9542  Weight: 1.00
+ Name: DEGU_BACSU  Len:   1132  Check: 3573  Weight: 1.00
+ Name: DEGU_BACBR  Len:   1132  Check: 8737  Weight: 1.00
+ Name: AGMR_PSEAE  Len:   1132  Check: 2617  Weight: 1.00
+ Name: TRPO_PSEAE  Len:   1132  Check: 2328  Weight: 1.00
+ Name: BVGA_BORPE  Len:   1132  Check:  280  Weight: 1.00
+
+//
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     M---------------------------Q-------------------------------
+RDGA_ERWCA     M---------------------------KT------------------------------
+PRTR_PSEAE     M---------------------------DKSTQI--------------------------
+1neq_          C-----------------------------------------------------------
+NER_BPD10      M-----------------------------------------------------------
+NER_HAEIN      M-----------------------------------------------------------
+SFSB_ECOLI     M-----------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     ------------------------------------------------------------
+PO22_HUMAN     V-----------------------------------------------------------
+PDM2_DROME     M-----------------------------------------------------------
+PDM1_DROME     MVMSELRWHTASPEDNKNSLKRDLLKSTPTSAREAAVHIMQNRYISRLSRSPSPLQSNAS
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     ------------------------------------------------------------
+ZP50_BRARE     M---------------------------ATTAQ----------YIP--------------
+PO31_HUMAN     M---------------------------ATTAQ----------YLPR-------------
+PO34_HUMAN     M---------------------------ATAAS--------NPY----------------
+ZP47_BRARE     M---------------------------ATTAS--------NHY----------------
+PO3A_XENLA     M---------------------------ATTAS--------NHY----------------
+PO32_HUMAN     M---------------------------ATAAS--------NHY----------------
+PO33_HUMAN     M---------------------------ATAAS--------NPYLP--------------
+PO33_BRARE     -------------------------------AS--------NPYLA--------------
+SGF3_BOMMO     M---------------------------AATT-----------YMP--------------
+CF1A_DROME     M---------------------------AATS-----------YMTPPS-----------
+HM06_CAEEL     MLI-------------------------PSSSSI--------------------------
+PO51_BOVIN     M--------------------------AGHLAS---------------------------
+1a04_A         ------------------------------------------------------------
+NARP_HAEIN     MQ----------------------------------------------------------
+NARP_ECOLI     MP----------------------------------------------------------
+YXJL_BACSU     M-----------------------------------------------------------
+DEGU_BACSU     M-----------------------------------------------------------
+DEGU_BACBR     MNEQ--------------------------------------------------------
+AGMR_PSEAE     M-----------------------------------------------------------
+TRPO_PSEAE     M-----------------------------------------------------------
+BVGA_BORPE     MY----------------------------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ------------------------------------------------------------
+PRTR_PSEAE     ------------------------------------------------------------
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      ------------------------------------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     ---------------MNNPS-----------------ETSKPSMESGDGN----TGTQTN
+PO22_HUMAN     -----HSSMGAPEIRMSKPL-----------------EAEKQGLDSPSEH----TDTERN
+PDM2_DROME     ------------------------------------------------------------
+PDM1_DROME     DCDDNNSSVGTSSDRCRSPLSP---------ALSLSHQQAKRQLMSLQPH----PAHHHH
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     --------------MHPD----------------------SDRMHQGT--------TYRE
+ZP50_BRARE     ----RNNSLPSNPLMHPD----------------------SDRMHQGT--------TYRE
+PO31_HUMAN     --GPGGGAGGTGPLMHPDAAAA--------------AAAAAERLHAGA--------AYRE
+PO34_HUMAN     ------SILSSTSLVHAD----------------------SAGMQQGS--------PFRN
+ZP47_BRARE     -----NILTSSPSIVHSE----------------------PGSMQQ--------ATAYRD
+PO3A_XENLA     -----NLLGSGSSIVHAD----------------------PGGMQQ--------AQSYRD
+PO32_HUMAN     -----SLLTSSASIVHAEP---------------------PGGMQQG-------AGGYRE
+PO33_HUMAN     ----GNSLLAAGSIVHSDAAGAGGGGGGGGGGGGGGAGGGGGGMQPGSAAVT--SGAYRG
+PO33_BRARE     ----SSTILSSASLVHSES--------------------GGGGMQPGSGAVTSVSGGYRG
+SGF3_BOMMO     ----AEMELGNIGGYHAA----------------------SPRSAEPA------DMKYQH
+CF1A_DROME     --GDLDMALGGGG-YHTS----------------------SPRSAADAGE----------
+HM06_CAEEL     ----------------------------------------PSSLSASASDSE--------
+PO51_BOVIN     ------------------------------------------------------DFAFSP
+1a04_A         -----------------EP-----------------------------------------
+NARP_HAEIN     ---------------DK-------------------------------------------
+NARP_ECOLI     ---------------EATP-----------------------------------------
+YXJL_BACSU     ---------------NKDK-----------------------------------------
+DEGU_BACSU     -----------------TK-----------------------------------------
+DEGU_BACBR     --------------VNENK-----------------------------------------
+AGMR_PSEAE     ------------------------------------------------------------
+TRPO_PSEAE     ------------------------------------------------------------
+BVGA_BORPE     ------------------------------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ------------------------------------------------------------
+PRTR_PSEAE     ------------------------------------------------------------
+1neq_          --------------------S---------------------------------------
+NER_BPD10      --------------------H---------------------------------------
+NER_HAEIN      --------------------S---------------------------------------
+SFSB_ECOLI     --------------------E---------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     GLD-----FQKQPVPVGGPISTAQAQAFLGHLHQVQLAGTSLQAAAQSLNVQSKSNEESG
+PO22_HUMAN     GPD-----TNHQ---------------------NPQNKTSPFSVSPTGPSTKIKAEDPSG
+PDM2_DROME     -------MVLQQ-----------QQQQ------RLWDATTTSNTNTQTQQSANVESTPTK
+PDM1_DROME     NPHHLNHLNHHQ-----------YKQE------EDYDDANGGALNLTSDNSRHSTQSPSN
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     ----VQKMMHQE-----------YLQG-----------------------LATNAGHHMS
+ZP50_BRARE     ----VQKMMHHE-----------YLQG-----------------------LATNTGHPMS
+PO31_HUMAN     ----VQKLMHHE-----------W--------------------------LGAGAGHPVG
+PO34_HUMAN     ----PQKLLQSD-----------YLQ------------------------GVPSNGHPL-
+ZP47_BRARE     ----AQTLLQSD-----------Y--------------------------SLQSNSHPLS
+PO3A_XENLA     ----AQTLVQSD-----------Y--------------------------TLQSNGHPLS
+PO32_HUMAN     ----AQSLVQGD-----------Y-------------------------GALQSNGHPLS
+PO33_HUMAN     DPS-SVKMVQSD-----------FMQG---------------------AMAASNGGHMLS
+PO33_BRARE     DP--TVKMVQSD-----------FMQG---------------------AMAASNGGHMLS
+SGF3_BOMMO     -P------LHS--------------------------------------GGSPSPGAPVI
+CF1A_DROME     ----MKYMQHHH-----------HHHA-----------------------AAAAAAH---
+HM06_CAEEL     ----PSSLNGSG--------------------------------------ISDQNILPNY
+PO51_BOVIN     PPG----------------------------------------------GGGDGPGGPEP
+1a04_A         ----ATILLIDD------------------------------------------------
+NARP_HAEIN     ----LKVLLIDD------------------------------------------------
+NARP_ECOLI     ----FQVMIVDD------------------------------------------------
+YXJL_BACSU     ----IRVALADD------------------------------------------------
+DEGU_BACSU     ----VNIVIIDD------------------------------------------------
+DEGU_BACBR     ----IQIVIIDD------------------------------------------------
+AGMR_PSEAE     ----YKILIADD------------------------------------------------
+TRPO_PSEAE     ----SKVLIVDD------------------------------------------------
+BVGA_BORPE     ----NKVLIIDD------------------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ------------------------------------------------------------
+PRTR_PSEAE     ------------------------------------------------------------
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      ------------------------------------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     -D---SQQPSQPSQ------QPSVQAAI--------------------------------
+PO22_HUMAN     -D---S-APAAPLP------PQPAQPHL--------------------------------
+PDM2_DROME     -VCH-Q-ENAATHTFMRHMSNSPTPPS--PLRSLSDCGKSFEEEELELGENCEMPQNL-S
+PDM1_DROME     -SVK-S-ATASPVPVIS--VPSPVPPMISPVLAPSGCGST-------------TPNSMAA
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     LTPH-QWLPN--------------------------------------------------
+ZP50_BRARE     LTHH-QWLPT--------------------------------------------------
+PO31_HUMAN     -LAHPQWLPT--------------------------------------------------
+PO34_HUMAN     --GH-HWVTSLS------------------------------------------------
+ZP47_BRARE     -HAH-QWITALSHG----------------------------------------------
+PO3A_XENLA     -HAH-QWITALSHG----------------------------------------------
+PO32_HUMAN     -HAH-QWITALSHG-------------------------------------------GGG
+PO33_HUMAN     -HAH-QWVTALPH--------------------------------------------AAA
+PO33_BRARE     -HAH-QWVTSLPHA-------------------------------------------AAA
+SGF3_BOMMO     --GN-PW-TSLP------------------------------------------------
+CF1A_DROME     -----HQLPSSPSP-------------------------------------------NGQ
+HM06_CAEEL     -HLH-HHLINENEM----------------------------------------------
+PO51_BOVIN     -----GWV----------------------------------------------------
+1a04_A         ---H--------------------------------------------------------
+NARP_HAEIN     ---H--------------------------------------------------------
+NARP_ECOLI     ---H--------------------------------------------------------
+YXJL_BACSU     ---Q--------------------------------------------------------
+DEGU_BACSU     ---H--------------------------------------------------------
+DEGU_BACBR     ---H--------------------------------------------------------
+AGMR_PSEAE     ---H--------------------------------------------------------
+TRPO_PSEAE     ---H--------------------------------------------------------
+BVGA_BORPE     ---H--------------------------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ------------------------------------------------------------
+PRTR_PSEAE     ------------------------------------------------------------
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      ------------------------------------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     ----------------------------PQTQ-LMLAGGQITGLTLTP-------AQQQL
+PO22_HUMAN     ----------------------------PQAQ-LMLTGSQLAGDI---------------
+PDM2_DROME     SKRQARELDSELENEVLDLAPPPKRLAEEQEE-EKVASV---NPPQPVAFAPEEMHQ---
+PDM1_DROME     AAAAAAAVASTMGSGISPLLALPG-MSSPQAQ-LAAAGLGMNNPLLTGSLSPQDFAQFHQ
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     -------------------------PASDWGS---GSHLGV---------------Q---
+ZP50_BRARE     -------------------------SNTDWTS---GTHIG----------------Q---
+PO31_HUMAN     --------------G--------GGGGGDWAG----AHL---------------------
+PO34_HUMAN     -------------------------DGGPWSSTLATSPLD----------------Q---
+ZP47_BRARE     -------------------------EGGPWSS----SPLG----------------E---
+PO3A_XENLA     -------------------------DGAPWAT----SPLG----------------Q---
+PO32_HUMAN     GGGGGGGGGGGGGGG--------GGDGSPWST----SPLG----------------Q---
+PO33_HUMAN     AAAAAAAAAVE--------------ASSPWSG----SAVGMAGSP----------QQPPQ
+PO33_BRARE     AAAAAAAAAAE--------------AGSPWSS----SPVGMAGSP----------QQ---
+SGF3_BOMMO     -------------------------PADPWAMHQHHAHAH----------------Q---
+CF1A_DROME     GNGGGLGLGSGSGLGSW-----SALHPDPWMQTHHTHHLPAAAAV----------AS---
+HM06_CAEEL     -------------------------EAANYAQ----------------------------
+PO51_BOVIN     -------------------------DPRTWMS-----------------------FQGP-
+1a04_A         ------------------------------------------------------------
+NARP_HAEIN     ------------------------------------------------------------
+NARP_ECOLI     ------------------------------------------------------------
+YXJL_BACSU     ------------------------------------------------------------
+DEGU_BACSU     ------------------------------------------------------------
+DEGU_BACBR     ------------------------------------------------------------
+AGMR_PSEAE     ------------------------------------------------------------
+TRPO_PSEAE     ------------------------------------------------------------
+BVGA_BORPE     ------------------------------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ------------------------------------------------------------
+PRTR_PSEAE     ------------------------------------------------------------
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      ------------------------------------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     LLQQAQAQL---------LAAAVQ--HSASQ-QHSAAGATISASAATPMTQI-PLSQPIQ
+PO22_HUMAN     ------------------------------------------------------------
+PDM2_DROME     -------ALQLQLHSYIEMVRQ------LAP-E--AFPNPNLATQFLLQNSLQALAQ---
+PDM1_DROME     LLQQRQVALTQQFNSYMELLRSGS--LGLAQ-DDPALTAQVAAAQFLMQSQLQALSQASQ
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     ----------------AEHAKSGV---QSNR-EDLSSGFH--------------------
+ZP50_BRARE     ----------------AEHNKASV---QS-R-EDLGNGY---------------------
+PO31_HUMAN     -----------------EHGKAGG--GGTGRADDGGGGGGF-------------------
+PO34_HUMAN     -----------------QDVKP-------GR-EDLQLGAII-------------------
+ZP47_BRARE     -----------------QDIKPAV---QSPR-DEMHNSSNL-------------------
+PO3A_XENLA     -----------------QDIKPTV---QSSR-DELHVSGTL-------------------
+PO32_HUMAN     -----------------PDIKPSVVVQQGGRGDELHGPGALQ-------QQHQQQQQQQQ
+PO33_HUMAN     PPPPP---------PQGPDVKG-----GAGR-DDLHAGTAL-------------------
+PO33_BRARE     -----------------QDVKS-----SSNR-EDLHSGTAL-------------------
+SGF3_BOMMO     -----------------PDVKP----PPAPH-----------------------------
+CF1A_DROME     ---------------AADTVKQEM--------SHLSQQTRI-------------------
+HM06_CAEEL     ------------------VIKPTC---EAFQ-DWPHTPMLY------------------Q
+PO51_BOVIN     --------------PGGSGIGPGVV-----------------------------------
+1a04_A         -----------------PMLRTGV------------------------------------
+NARP_HAEIN     -----------------PLMRRGI------------------------------------
+NARP_ECOLI     -----------------PLMRRGV------------------------------------
+YXJL_BACSU     -----------------PLVREGF------------------------------------
+DEGU_BACSU     -----------------QLFREGV------------------------------------
+DEGU_BACBR     -----------------QLFREGV------------------------------------
+AGMR_PSEAE     -----------------PLFREAI------------------------------------
+TRPO_PSEAE     -----------------PAIRLAV------------------------------------
+BVGA_BORPE     -----------------PVLRFAV------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ------------------------------------------------------------
+PRTR_PSEAE     ------------------------------------------------------------
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      ------------------------------------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     IAQHLQQLQQQNLNLQQFVLVHPTTNLQ-PAQ--FII-----------SQTPQGQQGLLQ
+PO22_HUMAN     ---------QQLLQLQQLVLV-PGHHLQPPAQ--FLL-----------PQAQQSQPGLLP
+PDM2_DROME     -FQALQQMKQQQRE-DPL-----------PS-----------------YSTPLAKS---P
+PDM1_DROME     QLQALQKQQQRQVD-EPLQLNHKMTQ-Q-PR-----------------SSTPHSIRSPIA
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     ---------HHRS---HLVHQQ--SPSSH--A--WAQ-----------SGGHHLAPMSPS
+ZP50_BRARE     ----------HRS---HLVHQP--TQNSHHGS--WAP-----------TTTHHLSPLSPA
+PO31_HUMAN     ---------HAR-----LVHQG--AAHA-GAA--WAQ----------GSTAHHLGPAMSP
+PO34_HUMAN     ---------HHR--SPHVAHHS--PHTNHPNA--WGA-----------SPAPN--PSITS
+ZP47_BRARE     ---------QHQSRPPHLVHQTHGNHHD-SRA--WRT-----------TTAAHI-PSMAT
+PO3A_XENLA     ---------QHQSRAPHLVHPAHGNHHG-PGA--WRS-----------TGSTHL-SSMAS
+PO32_HUMAN     QQQQQQQQQQQQQRPPHLVHHAANHHPG-PGA--WRT----------AAAAAHLPPSMGA
+PO33_HUMAN     ---------HHRG-PPHLGPPPPPPHQGHPGG--WGAAAAAAAAAAAAAAAAHL-PSMAG
+PO33_BRARE     ---------HHR--PSHLG-----AHQSHQSA--WG-----------GTTASHI-STITG
+SGF3_BOMMO     ---------DHR----HLQHAAH--------G--WHA------------------PVVSP
+CF1A_DROME     ---------QQGMASPH-------------AA--WHA-----------PHAGHYAPTGGS
+HM06_CAEEL     QPQLHFMLPQHDWAYPHLAQSLPPPHHLTP------------------STAAVAAATIAS
+PO51_BOVIN     -----------------------------PGAEVWGL-PPCPPPYDLCGGMAYCAPQVGV
+1a04_A         ------------------------------------------------------------
+NARP_HAEIN     ------------------------------------------------------------
+NARP_ECOLI     ------------------------------------------------------------
+YXJL_BACSU     ------------------------------------------------------------
+DEGU_BACSU     ------------------------------------------------------------
+DEGU_BACBR     ------------------------------------------------------------
+AGMR_PSEAE     ------------------------------------------------------------
+TRPO_PSEAE     ------------------------------------------------------------
+BVGA_BORPE     ------------------------------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ------------------------------------------------------------
+PRTR_PSEAE     ------------------------P-----------------------------------
+1neq_          ------------------------------------------------------------
+NER_BPD10      --------------------M---N-----------------------------------
+NER_HAEIN      --------------------VLEKP-----------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     AQNLLTQLPQQ---SQANL-LQSQP-----------SITLAS------------------
+PO22_HUMAN     TPNLF-QLPQQ---TQGAL-LTSQP-----------RAGLPT------------------
+PDM2_DROME     LRSPS-LSPVPRHSKSQ----QRTP-----------PNSMTANSLGM-------------
+PDM1_DROME     IRSPA-SSPQQLHHHHHHP-LQITP-----------PSSAASLKL---------------
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     SNS------------HQPL-IYSQS-SYTN------LNGMLGPQAS--------------
+ZP50_BRARE     SNG------------HQSL-VYSQT-GYT----------MLSPQ-P--------------
+PO31_HUMAN     SPGAS------GGHQPQPLGLYAQA-AYPGGGGG-GLAGMLAAGGG---------GAGP-
+PO34_HUMAN     SG--------------QPLNVYSQP-GFT-------VSGML-EHGG--LTPPPAAASAQ-
+ZP47_BRARE     SNG-------------QSL-IYSQP-SFS-------VNGLI-PGSG------------Q-
+PO3A_XENLA     SNG-------------QGL-LYSQP-SFT-------VNGMINPGSG------------Q-
+PO32_HUMAN     SNG--------------GL-LYSQP-SFT-------VNGML-GAGG------------QP
+PO33_HUMAN     GQQP----------PPQSL-LYSQPGGFT-------VNGMLSAPPGPGGGGGGAGGGAQ-
+PO33_BRARE     GQQQ----------SQQSL-IYSQPGGFT-------VNGMLN-PPG--------------
+SGF3_BOMMO     HYGA------------------ARP-SHCMEDTQCPCTNTICSETS-----------SPR
+CF1A_DROME     -----------------PL-QYHHA-----------MNGMLHHPAH-------AVAAAHH
+HM06_CAEEL     QSSII---------NQTSV-VTSTP-SCQIK-----------------------------
+PO51_BOVIN     GPV-----------PPGGL-ETPQPEGEA-------GAGVESNSEGASPDPCAAPAGAP-
+1a04_A         ----------------KQL-ISMAP-DITV------------------------------
+NARP_HAEIN     ----------------KQL-VELDD-NFEV------------------------------
+NARP_ECOLI     ----------------RQL-LELDP-GSEV------------------------------
+YXJL_BACSU     ----------------RYV-INAQT-DMTV------------------------------
+DEGU_BACSU     ----------------KRI-LDFEP-TFEV------------------------------
+DEGU_BACBR     ----------------KRI-LAMEP-EFEV------------------------------
+AGMR_PSEAE     ----------------HNV-IADGF-PGSE------------------------------
+TRPO_PSEAE     ----------------RLL-FE-RD-GFTI------------------------------
+BVGA_BORPE     ----------------RVL-ME-KE-GFEV------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ------------------------------------------------------------
+PRTR_PSEAE     -------------------------P----------------------------------
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      ------------------------------------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     ------------QPATPTR---------TIAAT---------------PIQPLPQSQ---
+PO22_HUMAN     ------------QAV--TR---------PTLPD---------------PHLSHPQP----
+PDM2_DROME     -------SSAVMTPNTPSM---------QQQPQ---------------LQQSTPKPTSGL
+PDM1_DROME     --------SGMLTPSTPTS---------GTQMS---------------QGTTTPQPKTVA
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     ----SL-HHSMRDPLH----D-DP----GVHDT-QVDS--------------PPQHLG--
+ZP50_BRARE     ----SL-HHGLRDPLH----D-DA----GSHDN-QMES--------------PQQPFS--
+PO31_HUMAN     ----GLHHALHEDGHEAQL-EPSPPPHLGAHGHAHGHAHAGGLHAA--AAHLHPGAGGGG
+PO34_HUMAN     ----SL-HPVLR--------E-------------------------------PPDHG---
+ZP47_BRARE     ----GIHHHSMRDAHE----D-HHSPHLSDHGH-PPSQHQHQSHQS--------------
+PO3A_XENLA     ----GIHHHGLRDSHD----D-HH----GDHGH-QQVSQAQQQHSQ---------LQGG-
+PO32_HUMAN     ---AGLHHHGLRDAHD----EPHH----ADHHP-HPHSHPHQQPPPPPPPQGPPGHPGA-
+PO33_HUMAN     ----SLVHPGLVRGDTPELAE-HH----HHHHH-HAHPHPPHPHHA----QGPPHHGGGG
+PO33_BRARE     ----SLVHPGLMRGESPEM-D-HH----HHHHH-HQQQHPHHHHHQ--------HHA---
+SGF3_BOMMO     ---DPLHHHAM---------E---------------------------------------
+CF1A_DROME     QSVAPL-HHTLR-GESPQL---------HIHHH----------------------MGGG-
+HM06_CAEEL     ---QEVERPEIIQRLMPPW------P---------------------PAYQFSCDDSGSV
+PO51_BOVIN     ----KLDKEKL---------E----PN---------------------------------
+1a04_A         ------------------------------------------------------------
+NARP_HAEIN     ------------------------------------------------------------
+NARP_ECOLI     ------------------------------------------------------------
+YXJL_BACSU     ------------------------------------------------------------
+DEGU_BACSU     ------------------------------------------------------------
+DEGU_BACBR     ------------------------------------------------------------
+AGMR_PSEAE     ------------------------------------------------------------
+TRPO_PSEAE     ------------------------------------------------------------
+BVGA_BORPE     ------------------------------------------------------------
+
+
+1r69_          ----------------------------SISSRVKSKRIQLGLNQAELAQKVGT------
+RCRO_BP434     ----------------------------TLSERLKKRRIALKMTQTELATKAGV------
+RDGA_ERWCA     ----------------------------TLAERLKTARTAQGLSQKALGDMIGV------
+PRTR_PSEAE     ---------------------------DSFAARLKQAMAMRNLKQETLAEAAGV------
+1neq_          ------------------------------------NEKARDWHRADV---IAGLK---K
+NER_BPD10      ----------------------------------KRTNRQ-DWHRADI---VAELR---K
+NER_HAEIN      ----------------------------------KKTAEQ-DWHRADI---LAELK---K
+SFSB_ECOLI     ------------------------------------SNFI-DWHPADI---IAGLR---K
+1au7_A         ----------------------GMRALEQFANEFKVRRIKLGYTQTNVGEALAAVH---G
+HM16_XENLA     --------------------------------------------QGDVGLAMGKLY---G
+PO21_CHICK     ------STPKRIDTPSL-EEPSDLEELEQFAKTFKQRRIKLGFTQGDVGLAMGKLY---G
+PO22_HUMAN     --------PKCLEPPSHPEEPSDLEELEQFARTFKQRRIKLGFTQGDVGLAMGKLY---G
+PDM2_DROME     T----VASAMAKLEQS-PEETTDLEELEQFAKTFKQRRIKLGFTQGDVGLAMGKLY---G
+PDM1_DROME     S----AAAARAAGEPS-PEETTDLEELEQFAKTFKQRRIKLGFTQGDVGLAMGKLY---G
+BR31_BRARE     ------------------------------------------VTQADVGSALANLKIPGV
+POU1_XENLA     --------HH--QDHS-DEDAPSSDDLEQFAKQFKQRRIKLGFTQADVGLALGTLY---G
+ZP50_BRARE     --------HH--QDHS-DEDAPSSDDLEQFAKQFKQRRIKLGFTQADVGLALGTLY---G
+PO31_HUMAN     -------SSV--GEHS-DEDAPSSDDLEQFAKQFKQRRIKLGFTQADVGLALGTLY---G
+PO34_HUMAN     -----ELGSHHCQDHS-DEETPTSDELEQFAKQFKQRRIKLGFTQADVGLALGTLY---G
+ZP47_BRARE     --------HH--D-HS-DEDTPTSDDLEQFAKQFKQRRIKLGFTQADVGLALGTLY---G
+PO3A_XENLA     --------HQ--D-HS-DEDTPTSDDLEQFAKQFKQRRIKLGFTQADVGLALGTLY---G
+PO32_HUMAN     --------HH--DPHS-DEDTPTSDDLEQFAKQFKQRRIKLGFTQADVGLALGTLY---G
+PO33_HUMAN     GGAGPGLNSH--DPHS-DEDTPTSDDLEQFAKQFKQRRIKLGFTQADVGLALGTLY---G
+PO33_BRARE     -----GVNSH--DSHS-DEDTPTSDDLEQFAKQFKQRRIKLGFTQADVGLALGTLY---G
+SGF3_BOMMO     ------------RDQP-EEDTPTSDDLEAFAKQFKQRRIKLGFTQADVGLALGTLY---G
+CF1A_DROME     --------DRDAISGG-EEDTPTSDDLEAFAKQFKQRRIKLGFTQADVGLALGTLY---G
+HM06_CAEEL     SGA--GGPHQPLSDISDDSEQTCPDDLEGFAKQFKQRRIKLGYTQADVGVALGTLY---G
+PO51_BOVIN     ------------PEES-QDIKALQKDLEQFAKLLKQKRITLGYTQADVGLTLGVLF---G
+1a04_A         -----------------VGEASNGEQGIELAESLDP-----DLILLDLNM---------P
+NARP_HAEIN     -----------------VADVSSGTEGISVALQTSP-----DVIILDLNM---------K
+NARP_ECOLI     -----------------VAEAGDGASAIDLANRLDI-----DVILLDLNM---------K
+YXJL_BACSU     -----------------SGEAGDGHDIIALAKQTKP-----DVILMDVQM---------P
+DEGU_BACSU     -----------------VAEGDDGDEAARIVEHYHP-----DVVIMDINM---------P
+DEGU_BACBR     -----------------VADGEDGENAVELVEKYNP-----DVILMDINM---------P
+AGMR_PSEAE     -----------------VMETADLDSALGLTQEHDDL----DLILLDLNM---------P
+TRPO_PSEAE     -----------------VGEADNGAEALQVARKKSP-----DLAILDIGI---------P
+BVGA_BORPE     -----------------IGETDNGIDGLKIAREKIP-----NLVVLDIGI---------P
+
+
+1r69_          ---TQQSIEQLEN-----------------------------------------------
+RCRO_BP434     ---KQQSIQLIEA-----------------------------------------------
+RDGA_ERWCA     ---SQAAIQKIEV-----------------------------------------------
+PRTR_PSEAE     ---SQNTIHKLTS-----------------------------------------------
+1neq_          RKLSLSALSRQFGY----------------------------AP----------------
+NER_BPD10      RNMSLAELGRSNHL----------------------------SS----------------
+NER_HAEIN      NGWSLRSLAKEGQV----------------------------SY----------------
+SFSB_ECOLI     KGTSMAAESRRNGL----------------------------SS----------------
+1au7_A         SEFSQTTICRFENLQLSFKNACKLKAILSKWLEEAE------------------------
+HM16_XENLA     NDFSQTTISRFEALNLSFKNMCKLKPLLEKWLNDAE-SAPSDTA-------L-TPSA---
+PO21_CHICK     NDFSQTTISRFEALNLSFKNMCKLKPLLEKWLNDAE-NLSSDST-------LSSPSA-LN
+PO22_HUMAN     NDFSQTTISRFEALNLSFKNMCKLKPLLEKWLNDAE-TMSVDSS-------LPSPNQ-LS
+PDM2_DROME     NDFSQTTISRFEALNLSFKNMCKLKPLLQKWLEDAD-STVAKSGG-----GVFNINT-MT
+PDM1_DROME     NDFSQTTISRFEALNLSFKNMCKLKPLLQKWLDDADRTIQATGG-------VFDPAA-LQ
+BR31_BRARE     GSLSQSTICRFESLTLSHNNMIALKPVLQAWLEEAE------AA-------YREKNG-KP
+POU1_XENLA     NVFSQTTICRFEALQLSFKNMCKLKPLLNKWLEETD------ST-------TGSPTN-LD
+ZP50_BRARE     NVFSQTTICRFEALQLSFKNMCKLKPLLNKWLEETD------SN-------TGSPTN-LD
+PO31_HUMAN     NVFSQTTICRFEALQLSFKNMCKLKPLLNKWLEETD------SS-------SGSPTN-LD
+PO34_HUMAN     NVFSQTTICRFEALQLSFKNMCKLKPLLNKWLEEAD------SS-------TGSPTS-ID
+ZP47_BRARE     NVFSQTTICRFEALQLSFKNMCKLKPLLNKWLEEAD------ST-------SGSPTS-LD
+PO3A_XENLA     NVFSQTTICRFEALQLSFKNMCKLKPLLNKWLEEAD------SS-------SGSPTS-ID
+PO32_HUMAN     NVFSQTTICRFEALQLSFKNMCKLKPLLNKWLEEAD------SS-------SGSPTS-ID
+PO33_HUMAN     NVFSQTTICRFEALQLSFKNMCKLKPLLNKWLEEAD------SS-------TGSPTS-ID
+PO33_BRARE     NVFSQTTICRFEALQLSFKNMCKLKPLLNKWLEEAD------ST-------TGSPTS-ID
+SGF3_BOMMO     NVFSQTTICRFEALQLSFKNMCKLKPLLQKWLEEAD------ST-------TGSPTS-ID
+CF1A_DROME     NVFSQTTICRFEALQLSFKNMCKLKPLLQKWLEEAD------ST-------TGSPTS-ID
+HM06_CAEEL     NIFSQTTICRFEALQLSFKNMCKLKPLLFKWLEEAD------ST-------TGSPNSTFE
+PO51_BOVIN     KVFSQTTICRFEALQLSFKNMCKLRPLLQKWVEEAD------NN-------ENLQEI-CK
+1a04_A         GMNGLETLDKLREKSLSGRIV-----VFSVSNHEEDVVTALKRGADGYLLKDMEPEDLLK
+NARP_HAEIN     GLSGLDTLKGLRAEGVDARIL-----ILTVSDAKNDIYTLIDAGADGYLLKDTEPDTLLE
+NARP_ECOLI     GMSGLDTLNALRRDGVTAQII-----ILTVSDASSDVFALIDAGADGYLLKDSDPEVLLE
+YXJL_BACSU     RCSGIEAAKDIMSALPNTKIV-----ILTTFDTEEYVFEGIRAGAVGYLLKDTLPEELID
+DEGU_BACSU     NVNGVEATKQLVELYPESKVI-----ILSIHDDENYVTHALKTGARGYLLKEMDADTLIE
+DEGU_BACBR     KVNGVEATRDLIQRYPDVKVL-----VLSIHDDESYVTHVLKTGASGYLLKEMDADALIE
+AGMR_PSEAE     GMHGLNGLMNLRNEAPTIPVV-----IVSAEQDKQVVLQAITYGAVGFITKSSPRAQMTE
+TRPO_PSEAE     KIDGLEVIARLKSLKLDTKVL-----VLTRQNPAQFAPRCLQAGAMGFVSKRENLSELLL
+BVGA_BORPE     KLDGLEVIARLQSLGLPLRVL-----VLTGQPPSLFARRCLNSGAAGFVCKHENLHEVIN
+
+
+1r69_          -----------GKTKRPRFLPELASALGVSVDWLLNGT----------------------
+RCRO_BP434     -----------GVTKRPRFLFEIAMALNCDPVWLQYGTK---------------------
+RDGA_ERWCA     -----------GKASQTTKIVELSNNLRVRPEWLANGEG---------------------
+PRTR_PSEAE     -----------GKAQSTRKLIEIAAALGVSPVWLQTGEG---------------------
+1neq_          ----------------------TTLANALERHW---------------------------
+NER_BPD10      ----------------------STLKNALDKRY---------------------------
+NER_HAEIN      ----------------------NTLKTVLDKSY---------------------------
+SFSB_ECOLI     ----------------------STLANALSRPW---------------------------
+1au7_A         --------------QKRRTTISIAAKDALERHFGEHSK----------------------
+HM16_XENLA     NY-AQLSEMF-GRKRKKRTSIETNIRLTLEKRFQDNPK----------------------
+PO21_CHICK     SP-GQGIEGV-NRRRKKRTSIETNIRVALEKSFLENQK----------------------
+PO22_HUMAN     SP-SLGFDGLPGRRRKKRTSIETNVRFALEKSFLANQK----------------------
+PDM2_DROME     STLSSTPESILGRRRKKRTSIETTVRTTLEKAFLMNCK----------------------
+PDM1_DROME     AT-VSTPEII-GRRRKKRTSIETTIRGALEKAFLANQK----------------------
+BR31_BRARE     DLFNG------NERKRKRTSIAAPEKRSLEAYFAIQPR----------------------
+POU1_XENLA     KIAAQ------GRKRKKRTSIEVGVKGALENHFLKCPK----------------------
+ZP50_BRARE     KIAAQ------GRKRKKRTSIEVGVKGALENHFLKCPK----------------------
+PO31_HUMAN     KIAAQ------GRKRKKRTSIEVGVKGALESHFLKCPK----------------------
+PO34_HUMAN     KIAAQ------GRKRKKRTSIEVSVKGVLETHFLKCPK----------------------
+ZP47_BRARE     KIAAQ------GRKRKKRTSIEVSVKGALESHFLKCPK----------------------
+PO3A_XENLA     KIAAQ------GRKRKKRTSIEVSVKGALESHFLKCPK----------------------
+PO32_HUMAN     KIAAQ------GRKRKKRTSIEVSVKGALESHFLKCPK----------------------
+PO33_HUMAN     KIAAQ------GRKRKKRTSIEVSVKGALESHFLKCPK----------------------
+PO33_BRARE     KIAAQ------GRKRKKRTSIEVSVKGALESHFLKCPK----------------------
+SGF3_BOMMO     KIAAQ------GRKRKKRTSIEVSVKGALEQHFHKQPK----------------------
+CF1A_DROME     KIAAQ------GRKRKKRTSIEVSVKGALEQHFHKQPK----------------------
+HM06_CAEEL     KMTGQA-----GRKRKKRTSIEVNVKSRLEFHFQSNQK----------------------
+PO51_BOVIN     AETLV------QARKRKRTSIENRVRGNLESMFLQCPK----------------------
+1a04_A         AL---------HQAAAGEMVLSEALTPVLA-----------------------ASLERDV
+NARP_HAEIN     QI---------KRIAQGEVILSDSIKNLLLE------------------RTH---EDNPL
+NARP_ECOLI     AI---------RAGAKGSKVFSERVNQYLRE------------------REMFGAEEDPF
+YXJL_BACSU     AI---------RAAARGEAIFRTVTAAKIISETFRAKQQTHAE-----------ELAEP-
+DEGU_BACSU     AV---------KVVAEGGSYLHPKVTHNLVNEFRRLATSGVSAHPQ---HEVYPEIRRPL
+DEGU_BACBR     AV---------KVVAQGGAYIHPKVTHNLIKEYRRLVNEDEQESSEIGFKEV--EYRKPL
+AGMR_PSEAE     AI---------EQILNGNVYLPSDVIRTQKSSPRRSG------------HEEHGISPELL
+TRPO_PSEAE     AA---------KAVLAGYIHFPTGALRSINQ-------------------QSRDNEARML
+BVGA_BORPE     AA---------KAVMAGYTYFPSTTLSEMRM------------------GDNAKSDSTLI
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     -------------RGKAA------------------------------------------
+RDGA_ERWCA     --------------PMRSSEVTRSLQEPSIPPKSEWGTVSAWDSTTELSE----------
+PRTR_PSEAE     -------------APAARSAVSVADGSPLV-----LEPLHPWDSDTPLDE----------
+1neq_          --------------PKGEQI--IANALET-----KPEVI--WPSRYQAGE----------
+NER_BPD10      --------------PKAEKI--IADALGM-----TPQDI--WPSRY--------------
+NER_HAEIN      --------------PKMERL--VANAIGV-----PPEVI--WAGRFAERN----------
+SFSB_ECOLI     --------------PKGEMI--IAKALGT-----DPWVI--WPSRYHDPQTHEFIDRTQL
+1au7_A         --------------PSSQEIMRMAEELNL-----EKEVVRVWFCNRRQRE----------
+HM16_XENLA     --------------PSSEEISMIAEQLV--------------------------------
+PO21_CHICK     --------------PTSEEITMIADQLNM-----EKEVIRVWFCNRRQKE----------
+PO22_HUMAN     --------------PTSEEILLIAEQLHM-----EKEVIRVWFCNRRQKE----------
+PDM2_DROME     --------------PTSEEISQLSERLNM-----DKEVIRVWFCNRRQKE----------
+PDM1_DROME     --------------PTSEEITQLADRLSM-----EKEVVRVWFCNRRQKE----------
+BR31_BRARE     --------------PSSEKIARIAEKLDL-----KKNVV---------------------
+POU1_XENLA     --------------PSAHEITSLADSLQL-----EKEVVRVWFCNRRQKE----------
+ZP50_BRARE     --------------PSAHEITTLAGTLQL-----EKEVVRVWFCNRRQKE----------
+PO31_HUMAN     --------------PSAHEITGLADSLQL-----EKEVVRVWFCNRRQKE----------
+PO34_HUMAN     --------------PAAQEISSLADSLQL-----EKEVVRVWFCNRRQKE----------
+ZP47_BRARE     --------------PAASEITSLADSLQL-----EKEVVRVWFCNRRQKE----------
+PO3A_XENLA     --------------PSAPEITSLADSLQL-----EKEVVRVWCCNRRQKE----------
+PO32_HUMAN     --------------PSAQEITSLADSLQL-----EKEVVRVWFCNRRQKE----------
+PO33_HUMAN     --------------PSAQEITNLADSLQL-----EKEVVRVWFCNRRQKE----------
+PO33_BRARE     --------------PSAQEITSLADNLQL-----EKEVVRVWFCNRRQKE----------
+SGF3_BOMMO     --------------PSAQEITSLADSLQL-----EKEVVRVWFCNRRQKE----------
+CF1A_DROME     --------------PSAQEITSLADSLQL-----EKEVVRVWFCNRRQKE----------
+HM06_CAEEL     --------------PNAQEITQVAMELQL-----EKEVVRVWFCNRRQKE----------
+PO51_BOVIN     --------------PTLQQISHIAQQLGL-----EKDVVRVWFCNRRQKG----------
+1a04_A         NQLTPRERDILKLIAQGLPNKMIARRLDI-----TESTVKVHVKHMLKKMKLK-------
+NARP_HAEIN     DSLTDREMGVLRQIATGLSNKQIAAQLFI-----SEETVKVHIRNLLRKLNVH-------
+NARP_ECOLI     SVLTERELDVLHELAQGLSNKQIASVLNI-----SEQTVKVHIRNLLRKLNVR-------
+YXJL_BACSU     --FTKRELEVLQQMAYGLRNEDIAEKLFV-----SESTVKTHVHRILQKCNAQ-------
+DEGU_BACSU     HILTRRECEVLQMLADGKSNRGIGESLFI-----SEKTVKNHVSNILQKMNVN-------
+DEGU_BACBR     HILTRRECEVLQLMTDGYSNRMIGEALYI-----SEKTVKNHVSNILQKMNVN-------
+AGMR_PSEAE     QALTRKQLLVLERMTKGESNKQIAYNLDI-----AETTVKAHVSAILRKLKVH-------
+TRPO_PSEAE     ESLSDREMTVLQYLANGNTNKAIAQQLFL-----SEKTVSTYKSRIMLKLNAH-------
+BVGA_BORPE     SVLSNRELTVLQLLAQGMSNKDIADSMFL-----SNKTVSTYKTRLLQKLNAT-------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     DEVEVPFLKDIEFAC---------GDG-------RIQSEDYNGFK---LRFSKATLRKVG
+PRTR_PSEAE     DEVELPLYKEVEMSA---------GAG-------RTAVREIEGRK---LRFSYATLRASG
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      KRPTLQ------------------------------------------------------
+SFSB_ECOLI     MRSYTK------------------------------------------------------
+1au7_A         KRVK--------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     KRINPP--SSGGT-----------SSSPIKAIFPSPTSLVAT--------TPSLVTSSAA
+PO22_HUMAN     KRINPC--SAA-------------------PMLPSPGKPASY--------SPHMVTPQGG
+PDM2_DROME     KRINPSLDLDSPT-----------G---------TPLSSHAFGYPPQALNMSHM-QMEGG
+PDM1_DROME     KRINPS--LDSPT-----------G---------ADDDESSY--------MMH-------
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     KRMTPA------------------GVP-------HPPMEDVYSQ----------------
+ZP50_BRARE     KRMTPV------------------GVP-------HPTMEDVYSQ----------------
+PO31_HUMAN     KRMTPA------------------AGA------GHPPMDDVYAPG------------ELG
+PO34_HUMAN     KRMTPP------------------GDQ-------QP--HEVYSH----------------
+ZP47_BRARE     KRMTPP------------------GGP-------LPGTEDVYG-----------------
+PO3A_XENLA     KRMTPP------------------GGT-------IPGAEDIYGA----------------
+PO32_HUMAN     KRMTPP------------------GGT-------LPGAEDVYGG----------------
+PO33_HUMAN     KRMTPP------------------GIQ-------QQTPDDVYSQV--------------G
+PO33_BRARE     KRMTPP------------------GV--------PQTPEDVYTHA--------------G
+SGF3_BOMMO     KRMTPPNTLGGEMMEG-------MGHA-------HYGHGDVHGS----------------
+CF1A_DROME     KRMTPPNTLGGDMMDGMPPGHMHHGGY-------HP-HHDMHGSP-------------MG
+HM06_CAEEL     KRIAPN-QYDAPH-----PMALNNG---------YPMTADLFPYQ---------------
+PO51_BOVIN     KRSSSD----------------------------YSQREDFEAAGS---------PFTGG
+1a04_A         SRVEAA------------------------------------------------------
+NARP_HAEIN     SRVAAT------------------------------------------------------
+NARP_ECOLI     SRVAAT------------------------------------------------------
+YXJL_BACSU     DRTQAV------------------------------------------------------
+DEGU_BACSU     DRTQAV------------------------------------------------------
+DEGU_BACBR     DRTQAV------------------------------------------------------
+AGMR_PSEAE     NRVQAI------------------------------------------------------
+TRPO_PSEAE     SLAGLI------------------------------------------------------
+BVGA_BORPE     SLVELI------------------------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ANTDG-------SGVLCF--------------------------------PAAG----DS
+PRTR_PSEAE     --VDP-------SAAICA--------------------------------QLTG----NS
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      --------------------------------------------------H---------
+SFSB_ECOLI     --------------------------------------------------P---------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     TTLTVNPVLPLTSPAVTSLSVTGTTETTSNNTATVIST----------APPASSAVTSPS
+PO22_HUMAN     AG-----TLPL-SQASSSLSTTVTTLSSAVGTLHPSRTAGGGGGGGGAAPPLNSI---PS
+PDM2_DROME     SG----------SFCGSSIS----------------------------------------
+PDM1_DROME     ------------------------------------------------------------
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     -----------------------------------------------------------A
+ZP50_BRARE     -----------------------------------------------------------A
+PO31_HUMAN     PG----------G--------------------------------GGASPP-------SA
+PO34_HUMAN     TV----------K----------------------------------------------T
+ZP47_BRARE     ------------------------------------------------------------
+PO3A_XENLA     ------------S----------------------------------------------R
+PO32_HUMAN     ------------S----------------------------------------------R
+PO33_HUMAN     TV----------S----------------------------------------------A
+PO33_BRARE     NG----------SFVVDYL--------------------------KGAS---------LK
+SGF3_BOMMO     --------------------------------------------------P-------LQ
+CF1A_DROME     TH----------SH---------------------------------------------S
+HM06_CAEEL     ------------------------------------------------------------
+PO51_BOVIN     PV----------SS------------------------------------P-------LA
+1a04_A         ------------------------------------------------------------
+NARP_HAEIN     ------------------------------------------------------------
+NARP_ECOLI     ------------------------------------------------------------
+YXJL_BACSU     ------------------------------------------------------------
+DEGU_BACSU     ------------------------------------------------------------
+DEGU_BACBR     ------------------------------------------------------------
+AGMR_PSEAE     ------------------------------------------------------------
+TRPO_PSEAE     ------------------------------------------------------------
+BVGA_BORPE     ------------------------------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     MEPIIPDG---------------------------------TTVAVDTNNKRIIDG----
+PRTR_PSEAE     MEPLIMDG---------------------------------STIGVDTATTHITDG----
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      ------------------------------------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     LSPSPSASASISEASSASETSTTQTTSTPLSSPLGTSQVMVTASGLQTAAAAALQGAAQL
+PO22_HUMAN     VTPPPPA-----------------TTNSTNPSPQGSH----SAIGL--------------
+PDM2_DROME     ------------------------------------------------------------
+PDM1_DROME     ------------------------------------------------------------
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     ETPPL-------------------------------------HHTLQTS-----------
+ZP50_BRARE     ETPPL-------------------------------------HHTLQSP-----------
+PO31_HUMAN     PPPPPPAALHHH-----------------------------HHHTLPGS-----------
+PO34_HUMAN     DTS-C-------------------------------------HDL---------------
+ZP47_BRARE     DTP-P-------------------------------------HHGVQTP-----------
+PO3A_XENLA     DTP-P-------------------------------------HLGVQTS-----------
+PO32_HUMAN     DTP-P-------------------------------------HHGVQTP-----------
+PO33_HUMAN     DTPPP-------------------------------------HHGLQTS-----------
+PO33_BRARE     DEPDS-------------------------------------NHNVTTASS---------
+SGF3_BOMMO     HSPPGLSP----------------------------------QHGLPQG-----------
+CF1A_DROME     HSPPMLS-----------------------------------PQNMQSSAV---------
+HM06_CAEEL     --------------------------------------AVVNHYTQQSP-----------
+PO51_BOVIN     PGPHFGTPGYGGP----------------------------HFTTLYSSVP--------F
+1a04_A         --------------------------------------VWVHQER-IF------------
+NARP_HAEIN     --------------------------------------VLFFEQN--R------------
+NARP_ECOLI     --------------------------------------ILFLQQRGAQ------------
+YXJL_BACSU     --------------------------------------VFAIRNGIVQ------------
+DEGU_BACSU     --------------------------------------VVAIKNGWVEM-----------
+DEGU_BACBR     --------------------------------------VESIKNGWVKV-----------
+AGMR_PSEAE     --------------------------------------LSAGDIDFAAYL----------
+TRPO_PSEAE     --------------------------------------DFARRHELI-------------
+BVGA_BORPE     --------------------------------------DLAKRNNLA-------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     ----KLYAIAQ-EGGGNDKLKRIKQ------LYRKPG---GLLTIHSFNRET--DEEAYE
+PRTR_PSEAE     ----EIYALEH-DG-----MLRVKF------VYRLPG---GGIRLRSFNREEYPDEEYSP
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      ------------------------------------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     PANASLAAMAAAAGLNPGLMASSQFAAGGALLSLNPGTLGGALSPALMSNST--------
+PO22_HUMAN     ------------SGLNP---------------STGPG-----------------------
+PDM2_DROME     ------------SG----------------------------------------------
+PDM1_DROME     ------------------------------------------------------------
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     ------------------------------------------------------------
+ZP50_BRARE     ------------------------------------------------------------
+PO31_HUMAN     ------------------------------------------------------------
+PO34_HUMAN     ------------------------------------------------------------
+ZP47_BRARE     ------------------------------------------------------------
+PO3A_XENLA     ------------------------------------------------------------
+PO32_HUMAN     ------------------------------------------------------------
+PO33_HUMAN     ------------------------------------------------------------
+PO33_BRARE     ------------YG----------------------------------------------
+SGF3_BOMMO     -------------A----------------------------------------------
+CF1A_DROME     ------------AA----------------------------------------------
+HM06_CAEEL     ------------------------------------------------------------
+PO51_BOVIN     P-----------EG------------------EVFPS-----------------------
+1a04_A         ------------------------------------------------------------
+NARP_HAEIN     ------------------------------------------------------------
+NARP_ECOLI     ------------------------------------------------------------
+YXJL_BACSU     ------------------------------------------------------------
+DEGU_BACSU     ------------------------------------------------------------
+DEGU_BACBR     ------------------------------------------------------------
+AGMR_PSEAE     ------------------------------------------------------------
+TRPO_PSEAE     ------------------------------------------------------------
+BVGA_BORPE     ------------------------------------------------------------
+
+
+1r69_          ------------------------------------------------------------
+RCRO_BP434     ------------------------------------------------------------
+RDGA_ERWCA     SD-----VEIIGRV-----------------------------FWYSVLL----------
+PRTR_PSEAE     EDMRSRQISMIGWV-----------------------------FWWSTVRH---------
+1neq_          ------------------------------------------------------------
+NER_BPD10      ------------------------------------------------------------
+NER_HAEIN      ------------------------------------------------------------
+SFSB_ECOLI     ------------------------------------------------------------
+1au7_A         ------------------------------------------------------------
+HM16_XENLA     ------------------------------------------------------------
+PO21_CHICK     ----LATIQALASSGSLPITSLDASGNLVFANAGGTPNIVTAPLFLNPQNLSLLTSNPVS
+PO22_HUMAN     -------------------------------------------LWWNP------------
+PDM2_DROME     ------------------------------------------------------------
+PDM1_DROME     ------------------------------------------------------------
+BR31_BRARE     ------------------------------------------------------------
+POU1_XENLA     ------------------------------------------------------------
+ZP50_BRARE     ------------------------------------------------------------
+PO31_HUMAN     ------------------------------------------------------------
+PO34_HUMAN     ------------------------------------------------------------
+ZP47_BRARE     ------------------------------------------------------------
+PO3A_XENLA     ------------------------------------------------------------
+PO32_HUMAN     ------------------------------------------------------------
+PO33_HUMAN     ------------------------------------------------------------
+PO33_BRARE     ------------------------------------------------------------
+SGF3_BOMMO     ------------------------------------------------------------
+CF1A_DROME     ------------------------------------------------------------
+HM06_CAEEL     ------------------------------------------------------------
+PO51_BOVIN     -----VSVTALG------------------------------------------------
+1a04_A         ------------------------------------------------------------
+NARP_HAEIN     ------------------------------------------------------------
+NARP_ECOLI     ------------------------------------------------------------
+YXJL_BACSU     ------------------------------------------------------------
+DEGU_BACSU     ------------------------------------------------------------
+DEGU_BACBR     ------------------------------------------------------------
+AGMR_PSEAE     ------------------------------------------------------------
+TRPO_PSEAE     ------------------------------------------------------------
+BVGA_BORPE     ------------------------------------------------------------
+
+
+1r69_          ----------------------------------------------------
+RCRO_BP434     ----------------------------------------------------
+RDGA_ERWCA     ----------------------------------------------------
+PRTR_PSEAE     ----------------------------RR----------------GPSLVR
+1neq_          ----------------------------------------------------
+NER_BPD10      ----------------------------------------------------
+NER_HAEIN      --------------------------------------------------KY
+SFSB_ECOLI     --------------------------------------------------KK
+1au7_A         ----------------------------------------------------
+HM16_XENLA     ----------------------------------------------------
+PO21_CHICK     LVSAAAASAGASGPVASLHATSTSAESIQNSLLTVASASGATSTTTTASKAQ
+PO22_HUMAN     -----------------------------------------------APYQP
+PDM2_DROME     ---------------------------------------------------E
+PDM1_DROME     ----------------------------------------------------
+BR31_BRARE     ----------------------------------------------------
+POU1_XENLA     --------------------------------------------------VQ
+ZP50_BRARE     --------------------------------------------------VQ
+PO31_HUMAN     --------------------------------------------------VQ
+PO34_HUMAN     ----------------------------------------------------
+ZP47_BRARE     --------------------------------------------------VQ
+PO3A_XENLA     --------------------------------------------------VQ
+PO32_HUMAN     --------------------------------------------------VQ
+PO33_HUMAN     --------------------------------------------------VQ
+PO33_BRARE     ----------------------------------------------QEILVH
+SGF3_BOMMO     ----------------------------------------------HTLAAH
+CF1A_DROME     ----------------------------------------------HQLAAH
+HM06_CAEEL     ----------------------------R---------------------QQ
+PO51_BOVIN     ----------------------------------------------SPMHAN
+1a04_A         ----------------------------------------------------
+NARP_HAEIN     ----------------------------------------------------
+NARP_ECOLI     ----------------------------------------------------
+YXJL_BACSU     ----------------------------------------------------
+DEGU_BACSU     ---------------------------------------------------R
+DEGU_BACBR     ---------------------------------------------------R
+AGMR_PSEAE     --------------------------------------------------RR
+TRPO_PSEAE     ----------------------------------------------------
+BVGA_BORPE     ----------------------------------------------------
+
+

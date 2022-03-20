@@ -1,0 +1,140 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+
+ RV12_BB12033_mafft.fa.msf  MSF: 838  Type: N  December 21, 2021 21:49  Check: 1089  ..
+
+ Name: 1ot5_A      Len:    838  Check: 2595  Weight: 1.00
+ Name: 1p8j_A      Len:    838  Check: 2963  Weight: 1.00
+ Name: 1dbi_A      Len:    838  Check: 9815  Weight: 1.00
+ Name: ISP_PAEPO   Len:    838  Check: 8812  Weight: 1.00
+ Name: TKSU_PYRKO  Len:    838  Check:  621  Weight: 1.00
+ Name: PRCA_ANASP  Len:    838  Check: 7940  Weight: 1.00
+ Name: BPRX_BACNO  Len:    838  Check: 8343  Weight: 1.00
+
+//
+
+1ot5_A         P-----------------------------------------------------------
+1p8j_A         V-----------------------------------------------------------
+1dbi_A         ------------------------------------------------------------
+ISP_PAEPO      M-----------------------------------------------------------
+TKSU_PYRKO     M-----------------------------------------------------------
+PRCA_ANASP     MVHVRYGGQNGEQYELAISENHIVVRTESRSSLISDRPFEAAPVSSQARNILNQFELSTR
+BPRX_BACNO     M-----------------------------------------------------------
+
+
+1ot5_A         VKEAE----------------------------------------------DK-------
+1p8j_A         YQEP--------------------------------------------------------
+1dbi_A         ------------------------------------------------------------
+ISP_PAEPO      ------------------------------------------------------------
+TKSU_PYRKO     -KKS---IALVLSIVLLAALFAVPASA-----------GEQNTIRVIVSV-DKAKF----
+PRCA_ANASP     FSQAGVEVLHVKEPSQDGALRDTAREILNQEP------EVQFAGRVLI---DPVSQQPIV
+BPRX_BACNO     -KQSGINGVKTLTLVVCAALASQAYAAVNYESANYIGSQPEGSVRFIIKYKDKSQSQQMM
+
+
+1ot5_A         ------------------------------------------------------------
+1p8j_A         ------------------------------------------------------------
+1dbi_A         ------------------------------------------------------------
+ISP_PAEPO      ------------------------------------------------------------
+TKSU_PYRKO     ------------------------NPHEVL-----GIGGHIVYQFKLIPAVVVDVPANAV
+PRCA_ANASP     YTENLFVKFGHEEDVSFCQEILGRYGLTIKRQLEYARNAYFVSAPPNTGLAIFDIAERLL
+BPRX_BACNO     TNRS-------------TTSVMNNNNITIA-----GFNAQFVRTMT-IGAGIFAVPDLKT
+
+
+1ot5_A         ---------------------------------LSINDPLFERQWHLVNPSFPGSDINVL
+1p8j_A         ------------------------------------TDPKFPQQWYL--SGVTQRDLNVK
+1dbi_A         ---------------------------------WTPNDTYY--QGYQ----YGPQNTYTD
+ISP_PAEPO      ----------------ERKVHIIPYQVI---------KQEQQVNEIP----RGVEMIQAP
+TKSU_PYRKO     GK--------LKKMPGVEKVEFDHQAVLLGKPSWLGGGSTQPAQTIP----WGIERVKAP
+PRCA_ANASP     NEES------VELCHPELVREFRQRQAF--SQQWHLKETTIGGKTI-------KAHANVE
+BPRX_BACNO     TKEAHLVMDTIASNPDVEYVEVDRWL----RPFAAPNDPFYNDQWHY----YSEYGVKAD
+
+
+1ot5_A         DLWYNNITG-AGVVAAIVDDGLDYENEDLKD--NF------CAEGSWDFNDNTN-LP---
+1p8j_A         EAWAQGFTG-HGIVVSILDDGIEKNHPDLAG--NY------DPGASFDVNDQDP-DP---
+1dbi_A         YAWDVTKGS-SGQEIAVIDTGVDYTHPDLDG--KV------I--KGYDFVDNDY-DP---
+ISP_PAEPO      AVWNQTRG--RGVKVAVLDTGCDADHPDLKA--RI------I--GGRNFTDDDEGDPEIF
+TKSU_PYRKO     SVWSITDGSVSVIQVAVLDTGVDYDHPDLAA--NIAWCVSTL--RGKVSTKLRD-----C
+PRCA_ANASP     AAWKLSDG--TGTIIAIIDDGVDVDHEEFRSSGKI------V--APRDVTRKTN-FP-TP
+BPRX_BACNO     KVWDRGITG-KGVTVAVVDTGI-VNHPDLNA--NV------IPGSGYDFIQEAE----IA
+
+
+1ot5_A         --------------------------KPR---LSDDYHGTRCAGEIAAKKGNNFCGVGVG
+1p8j_A         --------------------------QPRYTQMNDNRHGTRCAGEVAAVANNGVCGVGVA
+1dbi_A         MDLNN--------------------------------HGTHVAGIAAAETNNATGIAGMA
+ISP_PAEPO      KDYNG--------------------------------HGTHVAGTIAA-TENENGVVGVA
+TKSU_PYRKO     ADQNG--------------------------------HGTHVIGTIAA-LNNDIGVVGVA
+PRCA_ANASP     GNRDN--------------------------------HGTACAGVACG--NGNFGASGVA
+BPRX_BACNO     QDGDGRDSNPADAGDWHSNWACGKYPDPRYEKRNSSWHGSHVAGTIAAVTNNRIGVSGVA
+
+
+1ot5_A         YNAKISGIRILSGDITT--EDEAASLIYGL---D-------------------VNDIYSC
+1p8j_A         YNARIGGVRMLDGEVTD--AVEARSLGLNP---N-------------------HIHIYSA
+1dbi_A         PNTRILAVRALDRNGSGTLSDIADAIIYAA--------------------DS-GAEVINL
+ISP_PAEPO      PEADLLIIKVLNKQGSGQYDWIIQGIYYAI--------------------EQ-KVDIISM
+TKSU_PYRKO     PGVQIYSVRVLDARGSGSYSDIAIGIEQAILGPDGVADKDGDGIIAGDPDDD-AAEVISM
+PRCA_ANASP     PGAKLMPIRFVSALGS---QDEADSFVWAA--------------------QN-GADVISC
+BPRX_BACNO     YDAKIVPVRVLGRCG-GYNSDINEGMYWAA-----------GGHIDGVPDNKHPAQVINM
+
+
+1ot5_A         SWGPAD-------DGRHLQG---PSDLVKKALVKGVTEGRDSKGAIYVFASGNGGTRGDN
+1p8j_A         SWGPED-------DGKTVDG---PARLAEEAFFRGVSQGRGGLGSIFVWASGNGGREHDS
+1dbi_A         SLGC-------------------DCHT--TTLENAVNYAWN-KGSVVVAAAGNNS-----
+ISP_PAEPO      SLGG-------------------PEDV--PELHEAVKKAVA-SQILVMCAAGNEGDGDDR
+TKSU_PYRKO     SLGG-------------------PADD--SYLYDMIIQAYN-AGIVIVAASGNEG-----
+PRCA_ANASP     SWGPPDGTWWDDKDPLHKQKVPLPDST-RLAMDYAINKGRNGKGCVILFAAGNGN---ES
+BPRX_BACNO     SLGG-------------------PGVC-GSTEQTLINRATQ-LGATIIVAAGNDN-----
+
+
+1ot5_A         CNYDGYTNSIY--SITIGAIDHKDLHPPYSEGCSAVMAVTY-------------------
+1p8j_A         CNCDGYTNSIY--TLSISSATQFGNVPWYSEACSSTLATTY-------------------
+1dbi_A         ----------YENVIAVGAVDQYDRLASFSNYGTWVDVVAP-------------------
+ISP_PAEPO      TDELGY-PGCYNEVISVGAINFDRHASEFSNSNNEVDLVAP-------------------
+TKSU_PYRKO     APSPSY-PAAYPEVIAVGAIDSNDNIASFSNRQPEVS--AP-------------------
+PRCA_ANASP     VDNDGY--ASYEKVIAVAACNDFGTRSAYSDFGQAVWCAFPSNNGNPSQTPGIWTADRSG
+BPRX_BACNO     IDAYGVTPASCDNILTVGATTSNGTRAYFSNHGSVVDISAP-------------------
+
+
+1ot5_A         ----SSGSG--EYIHSSD------INGRCSNSHGGTSAAAPLAAGVYTLLLEAN------
+1p8j_A         ----SSGNQNEKQIVTTD------LRQKCTESHTGTSASAPLAAGIIALTLEAN------
+1dbi_A         ------G----VDIVSTI-------TGNRYAYMSGTSMASPHVAGLAALLASQGRNNIE-
+ISP_PAEPO      ------G----EDILSTV-------PGGKYATFSGTSMATPHVAGALALIKQLANASFER
+TKSU_PYRKO     ------G----VDILSTY-------PDDSYETLMGTSMATPHVSGVVALIQA--------
+PRCA_ANASP     VVGYNSG----STNLGDQ-------AGNYTNSFGGTSSACPGAAGVAALILSRN------
+BPRX_BACNO     ------G----AGITSTVDSGARYPSGPSYSLMDGTSMATPHVAGVAALVISAAN-SVNK
+
+
+1ot5_A         ---------------------PNLTWRDVQYLSILSAVGLEKNADGDWRDSAMGKKYSHR
+1p8j_A         ---------------------KNLTWRDMQHLVVQTSKPAHLNAD-DWATNGVGRKVSHS
+1dbi_A         ----------------------------IRQAIEQTADKISGTG--------------TY
+ISP_PAEPO      DLTEPELYAQLIKRTIPLGNSPKMEGN---GLLYLTAVEELSRIF------------DTQ
+TKSU_PYRKO     ------AYYQKYGKILPVGTFDDISKNTVRGILHITADDLGPTGW------------DAD
+PRCA_ANASP     ---------------------PNLRWDEVRDIIKRSCDRIDPVGG-NY--NAEG--RSPF
+BPRX_BACNO     EMTPAQ----------------------VRDVLVRTVSSFNGTP-------------DRR
+
+
+1ot5_A         YGFGKID-AHKLIEMSKTWE-------NVNAQTWFYLPTLYVSQSTNSTEETLESVITIS
+1p8j_A         YGYGLLD-AGAMVALAQNWT-------TVAPQRKCIVEILVEPKDIGKRLEVRKAVTA--
+1dbi_A         FKYGRIN-SYNAVTY---------------------------------------------
+ISP_PAEPO      RVAGILSTASLKVK----------------------------------------------
+TKSU_PYRKO     YGYGVVR-AALAVQAAL-------------------------------------------
+PRCA_ANASP     YGYGRIN-ALKAVELALPA--------QPEPVSIFTAVQDVPINDLQT-----------S
+BPRX_BACNO     IGAGIVD-ADAAVNAVLDGNVVERPIDELKPQAEYRNPQIKLIRDYQM------------
+
+
+1ot5_A         EKSLQDAN-FKR--IEHVTVTVDIDTEIRGTTTVDLISPAGIISNLGVVRPRDVSSEGFK
+1p8j_A         --CLGEPNHITR--LEHVQARLTLSYNRRGDLAIHLISPMGTRSTLLAARPHDYSADGFN
+1dbi_A         ------------------------------------------------------------
+ISP_PAEPO      ------------------------------------------------------------
+TKSU_PYRKO     ------------------------------------------------------------
+PRCA_ANASP     QLSLAIAN-TNP--IKSIKVTVDIEHTYIGDLIVSLNPPGEC--GVLPIILHDRKGGGAD
+BPRX_BACNO     MFSEIKVN-GRPGNTKFAVVKADIRHTDPSQLKLRLVSPKG-----YEYAVH------YD
+
+
+1ot5_A         DW--------TFMSVAHWGENGVGDWKIKVK-TTENGHRIDFHSWRLKLFGESIDSSK
+1p8j_A         DW--------AFMTTHSWDEDPAGEWVLEIENTSEANNYGTLTKFTLVLYGTAPEGL-
+1dbi_A         ----------------------------------------------------------
+ISP_PAEPO      ----------------------------------------------------------
+TKSU_PYRKO     ----------------------------G-----------------------------
+PRCA_ANASP     DIKQTYDEVSTPGLTALKGKIPQGTWTLE-----------------------------
+BPRX_BACNO     NIKNKSSEL----ITFPRDEQMNGYWRLK-----------------------------
+
+

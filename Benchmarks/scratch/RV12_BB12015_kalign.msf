@@ -1,0 +1,145 @@
+!!NA_MULTIPLE_ALIGNMENT 1.0
+
+ RV12_BB12015_kalign.msf  MSF: 512  Type: N  December 21, 2021 20:31  Check: 3509  ..
+
+ Name: 1a7x_A      Len:    512  Check: 2399  Weight: 1.00
+ Name: 1fd9_A      Len:    512  Check: 2791  Weight: 1.00
+ Name: 1ix5_A      Len:    512  Check: 8267  Weight: 1.00
+ Name: SLYD_HELPJ  Len:    512  Check: 8501  Weight: 1.00
+ Name: SLYD_TREPA  Len:    512  Check: 3741  Weight: 1.00
+ Name: SLYD_HAEIN  Len:    512  Check: 3102  Weight: 1.00
+ Name: FKBX_ECOLI  Len:    512  Check: 1319  Weight: 1.00
+ Name: FKBX_PSEFL  Len:    512  Check: 7274  Weight: 1.00
+ Name: 1pbk_       Len:    512  Check:  761  Weight: 1.00
+ Name: FKBP_STRCH  Len:    512  Check: 2200  Weight: 1.00
+ Name: FKB4_YEAST  Len:    512  Check: 6752  Weight: 1.00
+ Name: FKBH_SCHPO  Len:    512  Check: 6402  Weight: 1.00
+
+//
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1ix5_A         ------------------------------------------------------------
+SLYD_HELPJ     ------------------------------------------------------------
+SLYD_TREPA     ------------------------------------------------------------
+SLYD_HAEIN     ------------------------------------------------------------
+FKBX_ECOLI     ------------------------------------------------------------
+FKBX_PSEFL     ------------------------------------------------------------
+1pbk_          ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKB4_YEAST     MSDMLPLATYSLNVEPYSPTPALNFKIPVTIRITMAAIDPEPFDDDKKPSTLRIIKRNPE
+FKBH_SCHPO     MSKEETL--YSVKVDQ-ERVPLFDEDFYKGFRSELSVRFTMAALDPRAKSN-DAVTVN-V
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1ix5_A         ------------------------------------------------------------
+SLYD_HELPJ     ------------------------------------------------------------
+SLYD_TREPA     ------------------------------------------------------------
+SLYD_HAEIN     ------------------------------------------------------------
+FKBX_ECOLI     ------------------------------------------------------------
+FKBX_PSEFL     ------------------------------------------------------------
+1pbk_          ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKB4_YEAST     LTRGEYYNQDNNDGLEEDESESEQEADVPKRSVKSKKGKAVEQSESEDSEDENEIDDEFE
+FKBH_SCHPO     ITRLEHPEE---DGEESDE-ELFQEEKFTLCTLK--KGSVYQQPIDIIFSPGEEV---FF
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------TDKDKL
+1ix5_A         ------------------------------------------------------------
+SLYD_HELPJ     ------------------------------------------------------------
+SLYD_TREPA     ------------------------------------------------------------
+SLYD_HAEIN     ------------------------------------------------------------
+FKBX_ECOLI     ------------------------------------------------------------
+FKBX_PSEFL     ------------------------------------------------------------
+1pbk_          ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKB4_YEAST     ECVLLTLSPKGQYQQALDITIAPEEDVQFVVTGSYTISLTGNYVKHPFDNSSDSDEDEED
+FKBH_SCHPO     ERVGGDI-PVYLSGTCIITNIPEEED--------------SSDLENDFLYGADEFSSDEE
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         SYSIGADLGKNFKNQGIDVNPEAMAKGMQDAMSGAQLALTEQQMKDVLNKFQKDLMAKRT
+1ix5_A         ------------------------------------------------------------
+SLYD_HELPJ     ------------------------------------------------------------
+SLYD_TREPA     ------------------------------------------------------------
+SLYD_HAEIN     ------------------------------------------------------------
+FKBX_ECOLI     ------------------------------------------------------------
+FKBX_PSEFL     ------------------------------------------------------------
+1pbk_          ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKB4_YEAST     YYSDEESSNGEEEEEEEEEDDEELSSGDDDLDDLVDASDIESRLDELVKKDEKKKNNKKD
+FKBH_SCHPO     EMDDISVTSSEEEEEENGARIEELNSDEEDAEQAEEEILEKPVPKDEVAEKHSKDKLKKE
+
+
+1a7x_A         ------------------------------------------------GVQVETISPGDG
+1fd9_A         AEFNKKADENKVKGEAFLT----------------ENKNKPGVVVLPSGLQYKVINSGNG
+1ix5_A         ------------------------------------------------------------
+SLYD_HELPJ     ---------------------------------------------------------MQN
+SLYD_TREPA     ------------------------------------------------------------
+SLYD_HAEIN     ------------------------------------------------------------
+FKBX_ECOLI     ------------------------------------------------------------
+FKBX_PSEFL     -----------------------------------------------------MTDQVLA
+1pbk_          -----------------------------------------------PKYTKSVLKKGDK
+FKBP_STRCH     --------------MSIEK----------------PEVDFPGGEP-PADLAIKDIWEGDG
+FKB4_YEAST     SKRKHEEDEEESAKPAEKKQTTKKDKKAEKVKDSEESKPKPKTKLLEGGIIIEDRVTGKG
+FKBH_SCHPO     EKEKKTAVDVSDSVNGKKRKTEPAGEGEQTEKKSKSTKTYPK-QVLEGNVTVQDKVKGDG
+
+
+1a7x_A         RTFPKRGQTCVVHYTG-MLEDGKKFDSS-------------RDRNKPFKFMLGKQEVIRG
+1fd9_A         VK-PGKSDTVTVEYTG-RLIDGTVFDST-------------EKTGKPATFQV--SQVIPG
+1ix5_A         -M-VDKGVKIKVDYIG-KLESGDVFDTSIEEVAKEAGIYAPDREYEPLEFVVGEGQLIQG
+SLYD_HELPJ     HDLESIKQAALIEYEVREQGSSDVLDSNI--------------SKEPLEFIIGANQIIVG
+SLYD_TREPA     -MKIANECVVNIEYTL-RDDTGEIIDSS--------------DVMGALEYVQGHGMIIPG
+SLYD_HAEIN     -MKVEKNVVVSISYQV-RTQDGVLVDE------------APAN--QPLEYLQGHNNLVIG
+FKBX_ECOLI     SESVQSNSAVLVHFTL-KLDDGTTAEST-------------RNNGKPALFRLGDASLSEG
+FKBX_PSEFL     EQRIGQNTEVTLHFAL-RLENGDTVDST-------------FDKA-PATFKVGDGNLLPG
+1pbk_          TNFPKKGDVVHCWYTG-TLQDGTVFDTNIQTSA------KKKKNAKPLSFKVGVGKVIRG
+FKBP_STRCH     PV-AQAGQTVSVHYVGVAFSTGEEFDAS-------------WNRGTPLQFQLGAGQVISG
+FKB4_YEAST     PH-AKKGTRVGMRYVG-KLKNGKVFDKN-------------T-KGKPFVFKLGQGEVIKG
+FKBH_SCHPO     PA-AKRKKRVSMRYIG-RLTNGKVFDKNI--------------TGKPFTFNLGLEEVIKG
+
+
+1a7x_A         WEEGVAQMSVGQRAKLTISPDYAYGATGHPGI-IPPHATLV-----FDVELLKLE-----
+1fd9_A         WTEALQLMPAGSTWEIYVPSGLAYGPRSVG-GPIGPNETLI-----FKIHLISVKKS---
+1ix5_A         FEEAVLDMEVGDEKTVKIPAEKAYGNRNEMLIQKIPRDAFKEADFEPEEGMVILAE----
+SLYD_HELPJ     LEKAVLKAQIGEWEEIVIAPEEAYGVYESGYLQEVPRDQFEGI--ELEKGMSVFGQTEDN
+SLYD_TREPA     LETALINREEGEEFSVTIPPVGAYGEVQEDLRMTVGRDQFPPNV-PIEVGMRFDAGSGGD
+SLYD_HAEIN     LEKALEGKEVGDKFEVRVQPEEGYGAYSENMVQRVPKDVFQGVD-ELEVGMRFLADTDIG
+FKBX_ECOLI     LEQHLLGLKVGDKTTFSLEPDAAFGVPSPDLIQYFSRREFMDAG-EPEIGAIMLFTAMDG
+FKBX_PSEFL     FEAALFGFKAGDKRTLQILPENAFGQPNPQNVQIIPRSQFQNMD-LSE-GLLVIFNDAAN
+1pbk_          WDEALLTMSKGEKARLEIEPEWAYGKKGQPDAKIPPNAKLT-----FEVELVDID-----
+FKBP_STRCH     WDQGVQGMKVGGRRELIIPAHLAYGDRGAGGGKIAPGETLI-----FVCDLVAV------
+FKB4_YEAST     WDIGVAGMAVGGERRIVIPAPYAYGKQALPGI--PANSELT-----FDVKLVSMK-----
+FKBH_SCHPO     WDVGIVGMQVGGERTIHIPAAMAYGSKRLPGI--PANSDLV-----FDVKLLAVN-----
+
+
+1a7x_A         ------------------------------------------------------------
+1fd9_A         ------------------------------------------------------------
+1ix5_A         G-IPATITEVTDNEVTLDFNHELAGKDLVFTIKIIEVV----E-----------------
+SLYD_HELPJ     QTIQATIKDFSNTHVMVDYNHPLAGKTLAFRFKVLGFR----EVSEEEIL------ASHH
+SLYD_TREPA     S-RPVTVTDVQGETIIVDGNHPLAGKTLHFEVAVRSVR----EATDDDLA------ALLF
+SLYD_HAEIN     P-VPVVITEIDGDEVVVDGNHMLAGQELHFTVEVVAAR----EATLEEIAHGHVHGAHSH
+FKBX_ECOLI     SEMPGVIREINGDSITVDFNHPLAGQTVHFDIEVLEIDPALEA-----------------
+FKBX_PSEFL     TELPGVVKAFDDAQVTIDFNHPLAGKTLTFDVEIIDVK-AL-------------------
+1pbk_          ------------------------------------------------------------
+FKBP_STRCH     ------------------------------------------------------------
+FKB4_YEAST     ------------------------------------------------------------
+FKBH_SCHPO     ------------------------------------------------------------
+
+
+1a7x_A         --------------------------------
+1fd9_A         --------------------------------
+1ix5_A         --------------------------------
+SLYD_HELPJ     D---SGTGCCGGHGGHGGKKGGGCG-CSCSHG
+SLYD_TREPA     RESTSGGGCGSGA--------GGCGSCGAGCH
+SLYD_HAEIN     DDDEEGHGCGCGGHHHEHNHEHNHGSCGCGGH
+FKBX_ECOLI     --------------------------------
+FKBX_PSEFL     --------------------------------
+1pbk_          --------------------------------
+FKBP_STRCH     --------------------------------
+FKB4_YEAST     --------------------------------
+FKBH_SCHPO     --------------------------------
+
+
