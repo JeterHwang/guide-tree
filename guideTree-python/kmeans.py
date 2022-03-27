@@ -1,17 +1,13 @@
 
 import numpy as np
-from typing import Dict
+from typing import Dict, List
 from kmeans_pytorch import kmeans, kmeans_predict
 
-class KmeansResult:
-    def __init__(self, points : Dict) -> None:
-        self.points = points
-    
-    def Kmeans(seqs : np.ndarray) -> Dict:
-        pass
+def Euclidean(P1 : Dict, P2 : Dict) -> float:
+    return np.dot(P1.embedding - P2.embedding, P1.embedding - P2.embedding)
 
-    
-    
-    def sortbylen(self):
-        
+def BisectingKmeans(seqs : List[Dict]):
+    pass
+
+
     

@@ -1,20 +1,20 @@
 import numpy as np
-from typing import List
-
+from typing import Dict, List
+from .utils import distMatrix
 BIG_DIST = 1e29
 
 class TreeNode:
     def __init__(
         self, 
         isLeaf, 
-        rootName, 
+        data, 
         leftIndex=None, 
         rightIndex=None,
         height=0,
         rightlength=0,
         leftlength=0
     ) -> None:
-        self.name = rootName if isLeaf is True else None
+        self.data = data if isLeaf is True else None
         self.left = leftIndex
         self.right = rightIndex
         
@@ -27,28 +27,24 @@ class TreeNode:
     def getLeft(self):
         return self.right
     def getName(self):
-        return self.name
+        return self.data.name
 
 class UPGMA:
     def __init__(
         self, 
-        distmat : np.ndarray, 
-        linkage_type : str, 
-        seq_names : List[str]
+        seqs : List[Dict],
+        linkage_type : str,
     ) -> None:
-        assert(distmat.shape[0] == distmat.shape[1])
-        assert(len(seq_names) == distmat.shape[0])
         
-        self.distmat = distmat
+        self.distmat = distMatrix(seqs)
         self.linkage_type = linkage_type
-        self.seq_names = seq_names
 
-        self.leafNodeCount = distmat.shape[0]
+        self.leafNodeCount = self.distmat.shape[0]
         self.internalNodeCount = self.leafNodeCount - 1
 
         self.Tree : List[TreeNode] = []
         for i in range(self.leafNodeCount):
-            self.Tree.append(TreeNode(True, self.seq_names[i]))
+            self.Tree.append(TreeNode(True, seqs[i]))
 
         self.mapping : np.ndarray = np.arange(self.leafNodeCount)
         self.NN : np.ndarray = np.argmin(self.distmat, dim=1)
@@ -114,4 +110,6 @@ class UPGMA:
     
     def writeTree(self, file):
         pass
-
+    
+    def appendTree(self, tree):
+        pass

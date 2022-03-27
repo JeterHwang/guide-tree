@@ -37,6 +37,7 @@ def encode(sequence : str) -> List[int]:
     encoded = []
     for ch in sequence:
         encoded.append(AMINO_ACID_CODE[ch.upper()])
+    return encoded
 
 def mapping(Kmer : List[int]) -> int:
     result, power = 0, 1 
@@ -50,13 +51,14 @@ def frag_rel_pos(a1 : int, b1 : int, a2 : int, b2 : int, K : int):
 
 # Return align score of 2 seqs
 def KtupleDist(
-    seq1 : List[int], 
-    seq2 : List[int], 
+    seq1str : str, 
+    seq2str : str, 
     K : int, 
     signif : int,
     window : int,
     gapPenalty : int,
 ) -> float:
+    seq1, seq2 = encode(seq1str), encode(seq2str)
     length1, length2 = len(seq1), len(seq2)
     # The location of each kind of K-tuple match 
     KtupleLoc2 = [[] for i in range(AMINO_ACID**K)]
@@ -126,29 +128,50 @@ def KtupleDist(
 # seeeds [input] : raw seed sequences(Alphabic form)
 # nodes [input] : raw input sequences(Alphabic form)
 def seq2vec(
+    seqs : List[Dict], 
     seeds : List[Dict], 
-    nodes : List[Dict], 
     K : int, 
     signif : int,
     window : int,
     gapPenalty : int,
 ) -> np.ndarray:
     # ENCODING
-    encSeeds, encNodes = [], []
-    for seed in seeds:
-        encSeeds.append(encode(seed.data))
-    for node in nodes:
-        encNodes.append(encode(node.data))
-
-    distMatrix = []
-    for node in encNodes:
+    
+    for seq in seqs:
         vec = []
-        for seed in encSeeds:
-            vec.append(KtupleDist(node, seed, K, signif, window, gapPenalty))
-        distMatrix.append(vec)
-
-    return np.array(distMatrix)    
+        for seed in seeds:
+            vec.append(KtupleDist(seq.data, seed.data, K, signif, window, gapPenalty))
+        
+        if seq.embedding == None:
+            seq.embedding = np.array(vec)
     
     
 def parseFile(filePath : str) -> List[Dict]:
-    
+    returnData = []
+    with open(filePath, 'r') as f:
+        id = 0
+        name = f.readline()
+        while name and name[0] == '>':
+            data = ''
+            while True:
+                line = f.readline()
+                if not line or line[0] == '>':
+                    break
+                else:
+                    data =  data + line
+            returnData.append({
+                'name' : name[1:],
+                'data' : data,
+                'id' : id,
+                'embedding' : None
+            })
+            id = id + 1
+            name = line
+    if len(returnData) == 0:
+        raise NotImplementedError
+    else:
+        return returnData 
+
+def distMatrix(Nodes : List[Dict]) -> np.ndarray:
+    pass
+
