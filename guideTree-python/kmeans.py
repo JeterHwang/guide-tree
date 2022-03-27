@@ -1,6 +1,7 @@
-from math import log2
+
 import numpy as np
 from typing import Dict
+from kmeans_pytorch import kmeans, kmeans_predict
 
 class KmeansResult:
     def __init__(self, points : Dict) -> None:
@@ -9,9 +10,7 @@ class KmeansResult:
     def Kmeans(seqs : np.ndarray) -> Dict:
         pass
 
-    @property
-    def seedNumber(self):
-        return int(log2(self.points.shape[0])**2)
+    
     
     def sortbylen(self):
         
