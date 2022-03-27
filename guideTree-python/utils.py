@@ -53,10 +53,10 @@ def frag_rel_pos(a1 : int, b1 : int, a2 : int, b2 : int, K : int):
 def KtupleDist(
     seq1str : str, 
     seq2str : str, 
-    K : int, 
-    signif : int,
-    window : int,
-    gapPenalty : int,
+    K = 1, 
+    signif = 5,
+    window = 5,
+    gapPenalty = 3,
 ) -> float:
     seq1, seq2 = encode(seq1str), encode(seq2str)
     length1, length2 = len(seq1), len(seq2)
@@ -172,6 +172,21 @@ def parseFile(filePath : str) -> List[Dict]:
     else:
         return returnData 
 
-def distMatrix(Nodes : List[Dict]) -> np.ndarray:
-    pass
+def Euclidean(P1 : Dict, P2 : Dict) -> float:
+    return np.dot(P1.embedding - P2.embedding, P1.embedding - P2.embedding)
+
+def distMatrix(Nodes : List[Dict], dist_type : str) -> np.ndarray:
+    nodeNum = len(Nodes)
+    Matrix = np.zeros((nodeNum, nodeNum))
+    for i in range(nodeNum):
+        for j in range(i + 1):
+            if dist_type == 'Euclidean':
+                Matrix[i][j] = Euclidean(Nodes[i], Nodes[j])
+            elif dist_type == 'K-tuple':
+                Matrix[i][j] = KtupleDist(Nodes[i], Nodes[j])
+            else:
+                raise NotImplementedError
+    return Matrix
+
+
 
