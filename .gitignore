@@ -1,2 +1,6 @@
 Benchmarks/
 .vscode/
+data/
+ckpt/
+output/
+__pycache__/
