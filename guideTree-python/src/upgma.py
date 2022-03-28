@@ -3,6 +3,11 @@ from typing import Dict, List
 from .utils import distMatrix
 BIG_DIST = 1e29
 
+__all__ = [
+    'TreeNode',
+    'UPGMA',
+]
+
 class TreeNode:
     def __init__(
         self, 
@@ -34,9 +39,10 @@ class UPGMA:
         self, 
         seqs : List[Dict],
         linkage_type : str,
+        dist_type : str,
     ) -> None:
         
-        self.distmat = distMatrix(seqs)
+        self.distmat = distMatrix(seqs, dist_type)
         self.linkage_type = linkage_type
 
         self.leafNodeCount = self.distmat.shape[0]

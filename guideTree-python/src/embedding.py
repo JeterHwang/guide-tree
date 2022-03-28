@@ -11,28 +11,34 @@ Ktuple_param = {
     "gapPenalty" : 5
 }
 
+__all__ = [
+    'mbed',
+]
+
 class mbed(object):
     
     def __init__(self, file) -> None:
         self.seqs = parseFile(file)
         self.nseq = len(self.seqs)
-        self.istep = int(self.nseq / self.seedNumber)
-        
+        self.istep = int(self.nseq / self.numSeed)
+
         seq2vec(self.seqs, self.seed, **Ktuple_param)
+        # print(self.seqs)
 
     @property
     def sorted_seqs(self):
-        sorted(self.seqs, key=lambda seq: len(seq.data), reverse=True)
+        return sorted(self.seqs, key=lambda seq: len(seq['data']), reverse=True)
 
     @property
     def numSeed(self):
-        return int(log2(self.nseq)**2)
+        log2seed = int(log2(self.nseq)**2)
+        return log2seed if log2seed < self.nseq else self.nseq - 1
     
     @property
     def seed(self):
         seedList = []
         for i in range(0, self.numSeed, self.istep):
             seedList.append(self.sorted_seqs[i])
-        seedList = sorted(seedList, key=lambda seed: seed.id, reverse=True)
+        seedList = sorted(seedList, key=lambda seed: seed['id'], reverse=True)
         return seedList
     

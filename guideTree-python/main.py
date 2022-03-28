@@ -7,10 +7,9 @@ from argparse import ArgumentParser, Namespace
 from pathlib import Path
 from typing import Dict
 
-from .utils import parseFile
-from .embedding import mbed
-from .kmeans import BisectingKmeans
-from .upgma import UPGMA
+from src.embedding import mbed
+from src.kmeans import BisectingKmeans
+from src.upgma import UPGMA
 
 def main(args):
     # Set seed for reproduciability
@@ -22,13 +21,15 @@ def main(args):
     torch.backends.cudnn.benchmark = False
     torch.backends.cudnn.deterministic = True
     
+    device = torch.device(args.device)
+
     Embedding = mbed(args.inputFile)
     sequences = Embedding.seqs
-    centers, clusters = BisectingKmeans(sequences)
+    centers, clusters = BisectingKmeans(sequences, device, 4)
 
-    preCluster = UPGMA(centers ,'AVG')
+    preCluster = UPGMA(centers ,'AVG', 'Euclidean')
     for cluster in clusters:
-        subtree = UPGMA(cluster, 'AVG')
+        subtree = UPGMA(cluster, 'AVG', 'K-tuple')
         preCluster.appendTree(subtree)
     
     preCluster.writeTree(args.outputFile)
@@ -39,7 +40,7 @@ def parse_args() -> Namespace:
         "--inputFile",
         type=str,
         help="Directory to input protein sequence file.",
-        default="./data/",
+        default="./data/bb3_release/RV12/BB12003.tfa",
     )
     parser.add_argument(
         "--outputFile",
@@ -54,6 +55,7 @@ def parse_args() -> Namespace:
         default="./ckpt/",
     )
     parser.add_argument("--seed", type=int, default=2)
+    parser.add_argument("--device", type=str, default="cuda:0")
     args = parser.parse_args()
     return args
 

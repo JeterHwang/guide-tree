@@ -1,8 +1,5 @@
-from distutils.errors import DistutilsExecError
-from tkinter.tix import Tree
-from typing import Dict, List, final
+from typing import Dict, List
 import numpy as np
-from pyrsistent import v
 
 AMINO_ACID = 25
 AMINO_ACID_CODE = {
@@ -32,6 +29,17 @@ AMINO_ACID_CODE = {
     "Z" : 23,
     "-" : 24,
 }
+
+__all__ = [
+    'encode',
+    'mapping',
+    'frag_rel_pos',
+    'KtupleDist',
+    'seq2vec',
+    'parseFile',
+    'Euclidean',
+    'distMatrix',
+]
 
 def encode(sequence : str) -> List[int]:
     encoded = []
@@ -75,7 +83,7 @@ def KtupleDist(
         for j in KtupleLoc2[Ktuple1]:
             diagonals[i - j + length2 - 1].append((i, j))
     
-    validDiags = {}
+    validDiags = set()
     sortedDiag = sorted(diagonals, key=lambda x : len(x), reverse=True)
     for i in range(signif):
         if len(sortedDiag[i]) > 0:
@@ -88,7 +96,7 @@ def KtupleDist(
             diag = []
     
     # (score, id, i, j)
-    fragments = {}
+    fragments = []
     displ = [None for i in range(length1 + length2 - 1)]
     for i in range(length1 - K + 1):
         Ktuple1 = mapping(seq1[i : i + K])
@@ -102,7 +110,7 @@ def KtupleDist(
                     index = index - 1
                 if index < 0:  # no matched predecessor
                     displ[diagIndex] = (K, newID, i, j)
-                    fragments.add((K, newID, i, j))
+                    fragments.append((K, newID, i, j))
                 else:
                     predecessor = fragments[index]
                     if i - j == predecessor[2] - predecessor[3]: # on the same diagonal
@@ -116,7 +124,12 @@ def KtupleDist(
                         else:
                             new_score = max(displ[diagIndex][0] + i - displ[diagIndex][2])
                     displ[diagIndex] = (new_score, newID, i, j)
-                    fragments.add((new_score, newID, i, j))
+                    fragments.append((new_score, newID, i, j))
+            # Sort the set whenever a new element is added
+            fragments = sorted(fragments, key=lambda x : x[0])
+    
+    # print(fragments[-1][0])
+    
     if len(fragments) == 0:
         final_score = 0
     else:
@@ -136,25 +149,24 @@ def seq2vec(
     gapPenalty : int,
 ) -> np.ndarray:
     # ENCODING
-    
     for seq in seqs:
         vec = []
         for seed in seeds:
-            vec.append(KtupleDist(seq.data, seed.data, K, signif, window, gapPenalty))
+            vec.append(KtupleDist(seq['data'], seed['data'], K, signif, window, gapPenalty))
         
-        if seq.embedding == None:
-            seq.embedding = np.array(vec)
+        if seq['embedding'] == None:
+            seq['embedding'] = np.array(vec)
     
     
 def parseFile(filePath : str) -> List[Dict]:
     returnData = []
     with open(filePath, 'r') as f:
         id = 0
-        name = f.readline()
+        name = f.readline().replace('\n', '')
         while name and name[0] == '>':
             data = ''
             while True:
-                line = f.readline()
+                line = f.readline().replace('\n', '')
                 if not line or line[0] == '>':
                     break
                 else:
@@ -163,7 +175,8 @@ def parseFile(filePath : str) -> List[Dict]:
                 'name' : name[1:],
                 'data' : data,
                 'id' : id,
-                'embedding' : None
+                'embedding' : None,
+                'cluster' : 0
             })
             id = id + 1
             name = line
