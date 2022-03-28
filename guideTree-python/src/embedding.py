@@ -17,13 +17,18 @@ __all__ = [
 
 class mbed(object):
     
-    def __init__(self, file, convertType='mBed') -> None:
+    def __init__(self, file, convertType='mBed', ckpt_path=None, device=None) -> None:
         self.seqs = parseFile(file)
         self.nseq = len(self.seqs)
         self.istep = int(self.nseq / self.numSeed)
-        seq2vec(self.seqs, self.seed, convertType, **Ktuple_param)
-        for seq in self.seqs:
-            print(seq['name'], seq['embedding'])
+        seq2vec(
+            seqs = self.seqs, 
+            seeds = self.seed, 
+            convertType = convertType, 
+            device = device,
+            ckpt_path = ckpt_path,
+            **Ktuple_param
+        )
 
     @property
     def sorted_seqs(self):

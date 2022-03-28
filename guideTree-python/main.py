@@ -22,7 +22,7 @@ def main(args):
     
     device = torch.device(args.device)
 
-    Embedding = mbed(args.inputFile, args.embedding)
+    Embedding = mbed(args.inputFile, args.embedding, args.esm_ckpt, device)
     sequences = Embedding.seqs
     centers, clusters = BisectingKmeans(sequences, device, 4)
     print()
@@ -41,12 +41,14 @@ def main(args):
         np.save(f, np.array(X))
         np.save(f, np.array(Y))
     
-    preCluster = UPGMA(centers ,'AVG', 'Euclidean')
-    for cluster in clusters:
-        subtree = UPGMA(cluster, 'AVG', 'K-tuple')
-        preCluster.appendTree(subtree)
+    testCluster = UPGMA(sequences, 'AVG', 'K-tuple')
+
+    # preCluster = UPGMA(centers ,'AVG', 'Euclidean')
+    # for cluster in clusters:
+    #     subtree = UPGMA(cluster, 'AVG', 'K-tuple')
+    #     preCluster.appendTree(subtree)
     
-    preCluster.writeTree(args.outputFile)
+    # preCluster.writeTree(args.outputFile)
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()
@@ -54,7 +56,7 @@ def parse_args() -> Namespace:
         "--inputFile",
         type=str,
         help="Directory to input protein sequence file.",
-        default="./data/bb3_release/RV12/BB12003.tfa",
+        default="./data/bb3_release/RV50/BB50003.tfa",
     )
     parser.add_argument(
         "--outputFile",
@@ -63,9 +65,15 @@ def parse_args() -> Namespace:
         default="./output/",
     )
     parser.add_argument(
+        "--esm_ckpt",
+        type=str,
+        help="Path to pretrained protein embeddings.",
+        default="./ckpt/esm/esm1_t6_43M_UR50S.pt",
+    )
+    parser.add_argument(
         "--numpy_ckpt",
         type=str,
-        help="Directory to save the model file.",
+        help="Path to save the numpy matrix/vector.",
         default="./ckpt/numpy/test.npy",
     )
     parser.add_argument("--seed", type=int, default=2)

@@ -1,3 +1,4 @@
+from matplotlib.pyplot import axis
 import numpy as np
 from typing import Dict, List
 from .utils import distMatrix
@@ -53,8 +54,8 @@ class UPGMA:
             self.Tree.append(TreeNode(True, seqs[i]))
 
         self.mapping : np.ndarray = np.arange(self.leafNodeCount)
-        self.NN : np.ndarray = np.argmin(self.distmat, dim=1)
-        self.minDist : np.ndarray = np.amin(self.distmat, dim=1)
+        self.NN : np.ndarray = np.argmin(self.distmat, axis=1)
+        self.minDist : np.ndarray = np.amin(self.distmat, axis=1)
 
         self.cluter()
 
@@ -62,11 +63,11 @@ class UPGMA:
         Lmin = np.argmin(self.minDist)
         Rmin = self.NN[Lmin]
         newDist : float 
-        newMinDist : float = np.inf
+        newMinDist : float = BIG_DIST
         newNN : int
 
         for i in range(self.leafNodeCount):
-            if i == Lmin or i == Rmin or self.mapping[i] == None:
+            if i == Lmin or i == Rmin or self.mapping[i] == -1:
                 continue
             
             if self.linkage_type == 'AVG':
@@ -106,9 +107,9 @@ class UPGMA:
         self.NN[Lmin] = newNN
         
         # Delete Node
-        self.mapping[Rmin] = None
-        self.minDist[Rmin] = np.inf
-        self.NN[Rmin] = np.inf
+        self.mapping[Rmin] = -1
+        self.minDist[Rmin] = BIG_DIST
+        self.NN[Rmin] = -1
 
     def cluter(self):
         for iter in range(self.internalNodeCount):

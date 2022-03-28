@@ -2,7 +2,7 @@ from typing import Dict, List
 from queue import PriorityQueue
 import numpy as np
 import torch
-import esm.esm as esm
+from esm_github import pretrained
 
 AMINO_ACID = 25
 AMINO_ACID_CODE = {
@@ -165,6 +165,8 @@ def seq2vec(
     signif : int,
     window : int,
     gapPenalty : int,
+    ckpt_path = None,
+    device = None,
 ) -> np.ndarray:
     if convertType == 'mBed':
         for i, seq in enumerate(seqs):
@@ -174,7 +176,7 @@ def seq2vec(
             if seqs[i]['embedding'] == None:
                 seqs[i]['embedding'] = np.array(vec)
     elif convertType == 'pytorch':
-        repr = esm_embedding([(seq['name'], seq['data']) for seq in seqs])
+        repr = esm_embedding([(seq['name'], seq['data']) for seq in seqs], ckpt_path, device)
         assert len(repr) == len(seqs)
         for i, emb in enumerate(repr):
             seqs[i]['embedding'] = emb.cpu().detach().numpy()
@@ -208,8 +210,8 @@ def parseFile(filePath : str) -> List[Dict]:
     else:
         return returnData 
 
-def Euclidean(P1 : Dict, P2 : Dict) -> float:
-    return np.dot(P1.embedding - P2.embedding, P1.embedding - P2.embedding)
+def Euclidean(P1 : np.ndarray, P2 : np.ndarray) -> float:
+    return np.dot(P1 - P2, P1 - P2)
 
 def distMatrix(Nodes : List[Dict], dist_type : str) -> np.ndarray:
     nodeNum = len(Nodes)
@@ -217,25 +219,27 @@ def distMatrix(Nodes : List[Dict], dist_type : str) -> np.ndarray:
     for i in range(nodeNum):
         for j in range(i + 1):
             if dist_type == 'Euclidean':
-                Matrix[i][j] = Euclidean(Nodes[i], Nodes[j])
+                Matrix[i][j] = Euclidean(Nodes[i]['embedding'], Nodes[j]['embedding'])
             elif dist_type == 'K-tuple':
-                Matrix[i][j] = KtupleDist(Nodes[i], Nodes[j])
+                Matrix[i][j] = KtupleDist(Nodes[i]['data'], Nodes[j]['data'])
             else:
                 raise NotImplementedError
     return Matrix
 
-def esm_embedding(data):
+def esm_embedding(data, ckpt_path, device):
     # Load ESM-1b model
-    model, alphabet = esm.pretrained.esm1_t6_43M_UR50S('./ckpt/esm/esm1_t6_43M_UR50S.pt')
+    model, alphabet = pretrained.esm1_t6_43M_UR50S(ckpt_path)
     batch_converter = alphabet.get_batch_converter()
     model.eval()  # disables dropout for deterministic results
-
+    
     batch_labels, batch_strs, batch_tokens = batch_converter(data)
-
+    
+    model = model.to(device)
+    batch_tokens = batch_tokens.to(device)
     # Extract per-residue representations (on CPU)
     with torch.no_grad():
-        results = model(batch_tokens, repr_layers=[33], return_contacts=True)
-    token_representations = results["representations"][33]
+        results = model(batch_tokens, repr_layers=[6], return_contacts=True)
+    token_representations = results["representations"][6]
 
     # Generate per-sequence representations via averaging
     # NOTE: token 0 is always a beginning-of-sequence token, so the first residue is token 1.
