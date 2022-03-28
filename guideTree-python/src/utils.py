@@ -4,6 +4,7 @@ import numpy as np
 import torch
 from esm_github import pretrained
 
+BIG_DIST = 1e29
 AMINO_ACID = 25
 AMINO_ACID_CODE = {
     "A" : 0,
@@ -215,13 +216,13 @@ def Euclidean(P1 : np.ndarray, P2 : np.ndarray) -> float:
 
 def distMatrix(Nodes : List[Dict], dist_type : str) -> np.ndarray:
     nodeNum = len(Nodes)
-    Matrix = np.zeros((nodeNum, nodeNum))
+    Matrix = np.full((nodeNum, nodeNum), BIG_DIST)
     for i in range(nodeNum):
-        for j in range(i + 1):
+        for j in range(i):
             if dist_type == 'Euclidean':
-                Matrix[i][j] = Euclidean(Nodes[i]['embedding'], Nodes[j]['embedding'])
+                Matrix[i][j] = Matrix[j][i] = Euclidean(Nodes[i]['embedding'], Nodes[j]['embedding'])
             elif dist_type == 'K-tuple':
-                Matrix[i][j] = KtupleDist(Nodes[i]['data'], Nodes[j]['data'])
+                Matrix[i][j] = Matrix[j][i] = KtupleDist(Nodes[i]['data'], Nodes[j]['data'])
             else:
                 raise NotImplementedError
     return Matrix

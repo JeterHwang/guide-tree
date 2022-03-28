@@ -24,22 +24,22 @@ def main(args):
 
     Embedding = mbed(args.inputFile, args.embedding, args.esm_ckpt, device)
     sequences = Embedding.seqs
-    centers, clusters = BisectingKmeans(sequences, device, 4)
-    print()
-    print()
-    print()
-    print()
-    X, Y = [], []
-    for cluster in clusters:
-        for seq in cluster:
-            X.append(seq['embedding'])
-            Y.append(seq['cluster'])
-            print(seq['name'], seq['cluster'])
+    # centers, clusters = BisectingKmeans(sequences, device, 4)
+    # print()
+    # print()
+    # print()
+    # print()
+    # X, Y = [], []
+    # for cluster in clusters:
+    #     for seq in cluster:
+    #         X.append(seq['embedding'])
+    #         Y.append(seq['cluster'])
+    #         print(seq['name'], seq['cluster'])
     
-    # Save numpy checkpoint
-    with open(args.numpy_ckpt, 'wb') as f:
-        np.save(f, np.array(X))
-        np.save(f, np.array(Y))
+    # # Save numpy checkpoint
+    # with open(args.numpy_ckpt, 'wb') as f:
+    #     np.save(f, np.array(X))
+    #     np.save(f, np.array(Y))
     
     testCluster = UPGMA(sequences, 'AVG', 'K-tuple')
 
@@ -56,7 +56,7 @@ def parse_args() -> Namespace:
         "--inputFile",
         type=str,
         help="Directory to input protein sequence file.",
-        default="./data/bb3_release/RV50/BB50003.tfa",
+        default="./data/bb3_release/RV12/BB12003.tfa",
     )
     parser.add_argument(
         "--outputFile",
@@ -78,7 +78,7 @@ def parse_args() -> Namespace:
     )
     parser.add_argument("--seed", type=int, default=2)
     parser.add_argument("--device", type=str, default="cuda:0")
-    parser.add_argument("--embedding", type=str, default='pytorch')
+    parser.add_argument("--embedding", type=str, default='mBed')
     args = parser.parse_args()
     return args
 
