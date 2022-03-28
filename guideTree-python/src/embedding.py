@@ -6,9 +6,9 @@ from .utils import seq2vec, parseFile
 
 Ktuple_param = {
     "K" : 1, 
-    "signif" : 3,
+    "signif" : 5,
     "window" : 5,
-    "gapPenalty" : 5
+    "gapPenalty" : 3
 }
 
 __all__ = [
@@ -17,13 +17,13 @@ __all__ = [
 
 class mbed(object):
     
-    def __init__(self, file) -> None:
+    def __init__(self, file, convertType='mBed') -> None:
         self.seqs = parseFile(file)
         self.nseq = len(self.seqs)
         self.istep = int(self.nseq / self.numSeed)
-
-        seq2vec(self.seqs, self.seed, **Ktuple_param)
-        # print(self.seqs)
+        seq2vec(self.seqs, self.seed, convertType, **Ktuple_param)
+        for seq in self.seqs:
+            print(seq['name'], seq['embedding'])
 
     @property
     def sorted_seqs(self):
@@ -39,6 +39,6 @@ class mbed(object):
         seedList = []
         for i in range(0, self.numSeed, self.istep):
             seedList.append(self.sorted_seqs[i])
-        seedList = sorted(seedList, key=lambda seed: seed['id'], reverse=True)
+        seedList = sorted(seedList, key=lambda seed: seed['id'])
         return seedList
     

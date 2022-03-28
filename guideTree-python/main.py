@@ -1,11 +1,10 @@
-from dataclasses import dataclass
-from email.policy import default
 import torch
 import random
 import numpy as np
 from argparse import ArgumentParser, Namespace
 from pathlib import Path
 from typing import Dict
+import time
 
 from src.embedding import mbed
 from src.kmeans import BisectingKmeans
@@ -23,10 +22,25 @@ def main(args):
     
     device = torch.device(args.device)
 
-    Embedding = mbed(args.inputFile)
+    Embedding = mbed(args.inputFile, args.embedding)
     sequences = Embedding.seqs
     centers, clusters = BisectingKmeans(sequences, device, 4)
-
+    print()
+    print()
+    print()
+    print()
+    X, Y = [], []
+    for cluster in clusters:
+        for seq in cluster:
+            X.append(seq['embedding'])
+            Y.append(seq['cluster'])
+            print(seq['name'], seq['cluster'])
+    
+    # Save numpy checkpoint
+    with open(args.numpy_ckpt, 'wb') as f:
+        np.save(f, np.array(X))
+        np.save(f, np.array(Y))
+    
     preCluster = UPGMA(centers ,'AVG', 'Euclidean')
     for cluster in clusters:
         subtree = UPGMA(cluster, 'AVG', 'K-tuple')
@@ -49,13 +63,14 @@ def parse_args() -> Namespace:
         default="./output/",
     )
     parser.add_argument(
-        "--ckpt_dir",
-        type=Path,
+        "--numpy_ckpt",
+        type=str,
         help="Directory to save the model file.",
-        default="./ckpt/",
+        default="./ckpt/numpy/test.npy",
     )
     parser.add_argument("--seed", type=int, default=2)
     parser.add_argument("--device", type=str, default="cuda:0")
+    parser.add_argument("--embedding", type=str, default='pytorch')
     args = parser.parse_args()
     return args
 
@@ -63,4 +78,3 @@ def parse_args() -> Namespace:
 if __name__ == "__main__":
     args = parse_args()
     main(args)
-

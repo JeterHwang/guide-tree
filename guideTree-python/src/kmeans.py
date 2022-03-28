@@ -2,7 +2,7 @@ import torch
 import copy
 import numpy as np
 from typing import Dict, List
-from kmeans_pytorch import kmeans
+from src.kmeans_pytorch import kmeans
 
 __all__ = [
     'BisectingKmeans',
@@ -14,7 +14,7 @@ def BisectingKmeans(seqs : List[Dict], device, min_cluster_size=100):
         'seqs' : copy.deepcopy(seqs)
     }]
     
-    while len(final_cluster[0]) > min_cluster_size:
+    while len(final_cluster[0]['seqs']) > min_cluster_size:
         # Extract MAX
         biggest_cluster = final_cluster[0]
         clusterPoints = biggest_cluster['seqs']
@@ -24,19 +24,18 @@ def BisectingKmeans(seqs : List[Dict], device, min_cluster_size=100):
         # make coordinate array
         x = []
         for seq in clusterPoints:
-            x.append(seq.embedding)
+            x.append(seq['embedding'])
         x = torch.from_numpy(np.array(x))
         cluster_ids, cluster_centers = kmeans(
             X = x,
             num_clusters = 2,
-            distance = 'Euclidean',
+            distance = 'euclidean',
             device = device,
         )
-
+        
         newCluster = [[], []]
         assert len(cluster_ids) == len(clusterPoints)
-        assert cluster_centers.shape[0] == len(clusterPoints)
-
+        
         for clusterID, seq in zip(cluster_ids, clusterPoints):
             newCluster[clusterID].append(seq)
         
@@ -48,7 +47,7 @@ def BisectingKmeans(seqs : List[Dict], device, min_cluster_size=100):
                 'seqs' : seq
             })
         final_cluster = sorted(final_cluster, key=lambda x : len(x['seqs']), reverse=True)
-    
+        
     centers, clusters = [], []
     for clusterID, ele in enumerate(final_cluster):
         center = ele['center']

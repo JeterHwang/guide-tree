@@ -1,5 +1,8 @@
 from typing import Dict, List
+from queue import PriorityQueue
 import numpy as np
+import torch
+import esm.esm as esm
 
 AMINO_ACID = 25
 AMINO_ACID_CODE = {
@@ -54,6 +57,12 @@ def mapping(Kmer : List[int]) -> int:
         power = power * AMINO_ACID
     return result
 
+def put_frag(fragments : List[tuple], newElement : tuple) -> None:
+    for i in range(len(fragments) - 1, -1, -1):
+        if fragments[i][0] < newElement[0]:
+            return fragments[:i+1] + [newElement] + fragments[i+1:]
+    return [newElement] + fragments
+
 def frag_rel_pos(a1 : int, b1 : int, a2 : int, b2 : int, K : int):
     return (a1 - b1 == a2 - b2 and a2 < a1) or (a2 + K - 1 < a1 and b2 + K - 1 < b1)
 
@@ -73,16 +82,15 @@ def KtupleDist(
     
     # The number of matched K-tuple in each diagonal
     diagonals = [[] for i in range(length1 + length2 - 1)]
-
+    
     for i in range(length2 - K + 1):
         Ktuple2 = mapping(seq2[i : i + K])
         KtupleLoc2[Ktuple2].append(i)
-
+    
     for i in range(length1 - K + 1):
         Ktuple1 = mapping(seq1[i : i + K])
         for j in KtupleLoc2[Ktuple1]:
             diagonals[i - j + length2 - 1].append((i, j))
-    
     validDiags = set()
     sortedDiag = sorted(diagonals, key=lambda x : len(x), reverse=True)
     for i in range(signif):
@@ -91,26 +99,36 @@ def KtupleDist(
             for diag in range(max(index - window, 0), min(index + window + 1, length1 + length2 - 1)):
                 validDiags.add(diag)
     # Remove invalid diagonals
-    for i, diag in enumerate(diagonals):
+    for i in range(len(diagonals)):
         if i not in validDiags:
-            diag = []
+            diagonals[i] = []
     
     # (score, id, i, j)
     fragments = []
     displ = [None for i in range(length1 + length2 - 1)]
+    max_aln_length = max(max(length1, length2) * 2, AMINO_ACID**K + 1)
     for i in range(length1 - K + 1):
+        # Early Stopping criterion set by Clustal Omega
+        if len(fragments) >= max_aln_length * 2:
+            print('Partial alignment !!')
+            break
+        
         Ktuple1 = mapping(seq1[i : i + K])
         for j in KtupleLoc2[Ktuple1]:
+            # Early Stopping criterion set by Clustal Omega
+            if len(fragments) >= max_aln_length * 2:
+                break
+            
             diagIndex = i - j + length2 - 1
             newID = len(fragments)
             if len(diagonals[diagIndex]) != 0: # valid diagonal
                 # find predecessor 
                 index = len(fragments) - 1
-                while index >= 0 and frag_rel_pos(i, j, fragments[index][2], fragments[index][3], K):
+                while index >= 0 and not frag_rel_pos(i, j, fragments[index][2], fragments[index][3], K):
                     index = index - 1
                 if index < 0:  # no matched predecessor
                     displ[diagIndex] = (K, newID, i, j)
-                    fragments.append((K, newID, i, j))
+                    fragments = put_frag(fragments, (K, newID, i, j))
                 else:
                     predecessor = fragments[index]
                     if i - j == predecessor[2] - predecessor[3]: # on the same diagonal
@@ -124,16 +142,15 @@ def KtupleDist(
                         else:
                             new_score = max(displ[diagIndex][0] + i - displ[diagIndex][2])
                     displ[diagIndex] = (new_score, newID, i, j)
-                    fragments.append((new_score, newID, i, j))
+                    fragments = put_frag(fragments, (new_score, newID, i, j))
             # Sort the set whenever a new element is added
-            fragments = sorted(fragments, key=lambda x : x[0])
-    
-    # print(fragments[-1][0])
-    
+            # fragments = sorted(fragments, key=lambda x : x[0])
+
     if len(fragments) == 0:
         final_score = 0
     else:
         final_score = fragments[-1][0] / min(length1, length2) * 100
+    
     return (100 - final_score) / 100
 
 
@@ -143,20 +160,26 @@ def KtupleDist(
 def seq2vec(
     seqs : List[Dict], 
     seeds : List[Dict], 
+    convertType : str,
     K : int, 
     signif : int,
     window : int,
     gapPenalty : int,
 ) -> np.ndarray:
-    # ENCODING
-    for seq in seqs:
-        vec = []
-        for seed in seeds:
-            vec.append(KtupleDist(seq['data'], seed['data'], K, signif, window, gapPenalty))
-        
-        if seq['embedding'] == None:
-            seq['embedding'] = np.array(vec)
-    
+    if convertType == 'mBed':
+        for i, seq in enumerate(seqs):
+            vec = []
+            for seed in seeds:
+                vec.append(KtupleDist(seq['data'], seed['data'], K, signif, window, gapPenalty))
+            if seqs[i]['embedding'] == None:
+                seqs[i]['embedding'] = np.array(vec)
+    elif convertType == 'pytorch':
+        repr = esm_embedding([(seq['name'], seq['data']) for seq in seqs])
+        assert len(repr) == len(seqs)
+        for i, emb in enumerate(repr):
+            seqs[i]['embedding'] = emb.cpu().detach().numpy()
+    else:
+        raise NotImplementedError
     
 def parseFile(filePath : str) -> List[Dict]:
     returnData = []
@@ -166,11 +189,11 @@ def parseFile(filePath : str) -> List[Dict]:
         while name and name[0] == '>':
             data = ''
             while True:
-                line = f.readline().replace('\n', '')
+                line = f.readline()
                 if not line or line[0] == '>':
                     break
                 else:
-                    data =  data + line
+                    data =  data + line.replace('\n', '')
             returnData.append({
                 'name' : name[1:],
                 'data' : data,
@@ -201,5 +224,23 @@ def distMatrix(Nodes : List[Dict], dist_type : str) -> np.ndarray:
                 raise NotImplementedError
     return Matrix
 
+def esm_embedding(data):
+    # Load ESM-1b model
+    model, alphabet = esm.pretrained.esm1_t6_43M_UR50S('./ckpt/esm/esm1_t6_43M_UR50S.pt')
+    batch_converter = alphabet.get_batch_converter()
+    model.eval()  # disables dropout for deterministic results
 
+    batch_labels, batch_strs, batch_tokens = batch_converter(data)
 
+    # Extract per-residue representations (on CPU)
+    with torch.no_grad():
+        results = model(batch_tokens, repr_layers=[33], return_contacts=True)
+    token_representations = results["representations"][33]
+
+    # Generate per-sequence representations via averaging
+    # NOTE: token 0 is always a beginning-of-sequence token, so the first residue is token 1.
+    sequence_representations = []
+    for i, (_, seq) in enumerate(data):
+        sequence_representations.append(token_representations[i, 1 : len(seq) + 1].mean(0))
+    
+    return sequence_representations
