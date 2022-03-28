@@ -39,6 +39,7 @@ class TreeNode:
     def getName(self):
         return self.data['name'] if self.data is not None else f"Internal Node ({self.ID})"
 
+###### BROKEN UPGMA ######
 class UPGMA:
     def __init__(
         self, 
