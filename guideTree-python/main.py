@@ -11,23 +11,18 @@ from src.kmeans import BisectingKmeans
 from src.upgma import UPGMA
 from src.utils import parse_aux
 
-def main(args):
+def same_seed(seed):
     # Set seed for reproduciability
-    torch.manual_seed(args.seed)
-    torch.cuda.manual_seed(args.seed)
-    torch.cuda.manual_seed_all(args.seed)
-    np.random.seed(args.seed)
-    random.seed(args.seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+    np.random.seed(seed)
+    random.seed(seed)
     torch.backends.cudnn.benchmark = False
     torch.backends.cudnn.deterministic = True
-    
-    device = torch.device(args.device)
 
-    Embedding = mbed(args.inputFile, args.embedding, args.esm_ckpt, device)
-    sequences = Embedding.seqs
-    
-    centers, clusters = BisectingKmeans(sequences, device, args.max_cluster_size)
-    mapping = parse_aux(args.compare)
+def compare_Kmeans(compareFile, clusters):
+    mapping = parse_aux(compareFile)
     X, Y, Z = [], [], []
     for cluster in clusters:
         for seq in cluster:
@@ -41,8 +36,14 @@ def main(args):
         np.save(f, np.array(X))
         np.save(f, np.array(Y))
         np.save(f, np.array(Z))
+
+def cluster_one_file(inputFile, outputFile, embedding, esm_ckpt, max_cluster_size, device):
+    Embedding = mbed(inputFile, embedding, esm_ckpt, device)
+    sequences = Embedding.seqs
     
-    # testCluster = UPGMA(sequences, 'AVG', 'K-tuple')
+    centers, clusters = BisectingKmeans(sequences, device, max_cluster_size)
+    #compare_Kmeans(args.compare, clusters)
+    
     if len(centers) < 2:
         preCluster = UPGMA(clusters[0], 'AVG', 'K-tuple')
     else:
@@ -51,21 +52,29 @@ def main(args):
             subtree = UPGMA(cluster, 'AVG', 'K-tuple')
             preCluster.appendTree(subtree, clusterID)
     
-    preCluster.writeTree(args.outputFile)
+    preCluster.writeTree(outputFile)
+
+def main(args):
+    same_seed(args.seed)    
+    device = torch.device(args.device)
+    
+    args.outputFolder.mkdir(parents=True, exist_ok=True)
+    for fastaFile in list(args.inputFolder.glob('**/*.tfa')):
+        cluster_one_file(fastaFile, args.outputFolder / f"{fastaFile.stem}.dnd", args.embedding, args.esm_ckpt, args.max_cluster_size, device)
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()
     parser.add_argument(
-        "--inputFile",
-        type=str,
+        "--inputFolder",
+        type=Path,
         help="Directory to input protein sequence file.",
-        default="./data/bb3_release/RV30/BB30003.tfa",
+        default="./data/bb3_release",
     )
     parser.add_argument(
-        "--outputFile",
-        type=str,
+        "--outputFolder",
+        type=Path,
         help="Path to output guide tree.",
-        default="./output/BB30003/BB30003-python.dnd",
+        default="./output/bb3_release",
     )
     parser.add_argument(
         "--esm_ckpt",
@@ -83,7 +92,7 @@ def parse_args() -> Namespace:
         "--compare",
         type=str,
         help="Path to aux file",
-        default='./output/BB30003/BB30003.aux'
+        default='./output/BB50003/BB50003.aux'
     )
     parser.add_argument("--seed", type=int, default=2)
     parser.add_argument("--device", type=str, default="cuda:0")

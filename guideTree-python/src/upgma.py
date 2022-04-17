@@ -131,7 +131,7 @@ class UPGMA:
 
     def cluster(self):
         for iter in range(self.internalNodeCount):
-            print(f"------ iteration {iter} ------")
+            # print(f"------ iteration {iter} ------")
             self.cluster_one_iteration()
 
     def writeTree(self, file):

@@ -114,7 +114,7 @@ def KtupleDist(
     for i in range(length1 - K + 1):
         # Early Stopping criterion set by Clustal Omega
         if len(fragments) >= max_aln_length * 2:
-            print('Partial alignment !!')
+            #print('Partial alignment !!')
             break
         
         Ktuple1 = mapping(seq1[i : i + K])
@@ -158,7 +158,6 @@ def KtupleDist(
     return (100 - final_score) / 100
 
 def Ktupledist_multiThread(seqs, seeds, K, signif, window, gapPenalty, threadName):
-    print(threadName)
     for i, seq in enumerate(seqs):
         vec = []
         for seed in seeds:
@@ -178,22 +177,31 @@ def seq2vec(
     gapPenalty : int,
     ckpt_path = None,
     device = None,
+    multi_threading=False,
     num_threads = 6
 ) -> np.ndarray:
     start_time = time.time()
     print('----- Start converting sequences to vector -----')
     if convertType == 'mBed':
-        chunkLength = len(seqs) // num_threads if len(seqs) % num_threads == 0 else len(seqs) // num_threads + 1
-        thread_list = []
-        for i in range(0, len(seqs), chunkLength):
-            thread_list.append(threading.Thread(
-                target=Ktupledist_multiThread, 
-                name=f'Thread-{i // chunkLength}', 
-                args=(seqs[i : i + chunkLength], seeds, K, signif, window, gapPenalty, f'Thread-{i // chunkLength}')
-            ))
-            thread_list[-1].start()
-        for i in range(len(thread_list)):
-            thread_list[i].join()
+        if multi_threading:
+            chunkLength = len(seqs) // num_threads if len(seqs) % num_threads == 0 else len(seqs) // num_threads + 1
+            thread_list = []
+            for i in range(0, len(seqs), chunkLength):
+                thread_list.append(threading.Thread(
+                    target=Ktupledist_multiThread, 
+                    name=f'Thread-{i // chunkLength}', 
+                    args=(seqs[i : i + chunkLength], seeds, K, signif, window, gapPenalty, f'Thread-{i // chunkLength}')
+                ))
+                thread_list[-1].start()
+            for i in range(len(thread_list)):
+                thread_list[i].join()
+        else:
+            for i, seq in enumerate(seqs):
+                vec = []
+                for seed in seeds:
+                    vec.append(KtupleDist(seq['data'], seed['data'], K, signif, window, gapPenalty))
+                if seqs[i]['embedding'] == None:
+                    seqs[i]['embedding'] = np.array(vec)
     elif convertType == 'pytorch':
         repr = esm_embedding([(seq['name'], seq['data']) for seq in seqs], ckpt_path, device)
         assert len(repr) == len(seqs)
