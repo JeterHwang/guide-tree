@@ -1,3 +1,5 @@
+import time
+from tracemalloc import start
 import torch
 import copy
 import numpy as np
@@ -9,6 +11,8 @@ __all__ = [
 ]
 
 def BisectingKmeans(seqs : List[Dict], device, min_cluster_size=100):
+    start_time = time.time()
+    print('----- Start Bisecting Kmeans -----')
     final_cluster = [{
         'center' : None,
         'seqs' : copy.deepcopy(seqs)
@@ -62,6 +66,7 @@ def BisectingKmeans(seqs : List[Dict], device, min_cluster_size=100):
         for seq in seqs:
             seq['cluster'] = clusterID
         clusters.append(seqs)
+    print(f'Finish in {time.time() - start_time} seconds')
     return centers, clusters
 
     

@@ -1,7 +1,10 @@
+import time
 from typing import Dict, List
-from queue import PriorityQueue
+import threading 
 import numpy as np
 import torch
+
+from .threading import Worker
 from esm_github import pretrained
 
 BIG_DIST = 1e29
@@ -154,7 +157,14 @@ def KtupleDist(
     
     return (100 - final_score) / 100
 
-
+def Ktupledist_multiThread(seqs, seeds, K, signif, window, gapPenalty, threadName):
+    print(threadName)
+    for i, seq in enumerate(seqs):
+        vec = []
+        for seed in seeds:
+            vec.append(KtupleDist(seq['data'], seed['data'], K, signif, window, gapPenalty))
+        if seqs[i]['embedding'] == None:
+            seqs[i]['embedding'] = np.array(vec)
 
 # seeeds [input] : raw seed sequences(Alphabic form)
 # nodes [input] : raw input sequences(Alphabic form)
@@ -168,14 +178,22 @@ def seq2vec(
     gapPenalty : int,
     ckpt_path = None,
     device = None,
+    num_threads = 6
 ) -> np.ndarray:
+    start_time = time.time()
+    print('----- Start converting sequences to vector -----')
     if convertType == 'mBed':
-        for i, seq in enumerate(seqs):
-            vec = []
-            for seed in seeds:
-                vec.append(KtupleDist(seq['data'], seed['data'], K, signif, window, gapPenalty))
-            if seqs[i]['embedding'] == None:
-                seqs[i]['embedding'] = np.array(vec)
+        chunkLength = len(seqs) // num_threads if len(seqs) % num_threads == 0 else len(seqs) // num_threads + 1
+        thread_list = []
+        for i in range(0, len(seqs), chunkLength):
+            thread_list.append(threading.Thread(
+                target=Ktupledist_multiThread, 
+                name=f'Thread-{i // chunkLength}', 
+                args=(seqs[i : i + chunkLength], seeds, K, signif, window, gapPenalty, f'Thread-{i // chunkLength}')
+            ))
+            thread_list[-1].start()
+        for i in range(len(thread_list)):
+            thread_list[i].join()
     elif convertType == 'pytorch':
         repr = esm_embedding([(seq['name'], seq['data']) for seq in seqs], ckpt_path, device)
         assert len(repr) == len(seqs)
@@ -183,6 +201,8 @@ def seq2vec(
             seqs[i]['embedding'] = emb.cpu().detach().numpy()
     else:
         raise NotImplementedError
+    print(f'----- Finish in {time.time() - start_time} seconds -----')
+
     
 def parseFile(filePath : str) -> List[Dict]:
     returnData = []
@@ -198,7 +218,7 @@ def parseFile(filePath : str) -> List[Dict]:
                 else:
                     data =  data + line.replace('\n', '')
             returnData.append({
-                'name' : name[1:],
+                'name' : name[1:].replace('\n', ''),
                 'data' : data,
                 'id' : id,
                 'embedding' : None,
@@ -249,3 +269,14 @@ def esm_embedding(data, ckpt_path, device):
         sequence_representations.append(token_representations[i, 1 : len(seq) + 1].mean(0))
     
     return sequence_representations
+
+def parse_aux(aux_file) -> Dict:
+    mapping = {}
+    with open(aux_file, 'r') as f:
+        while True:
+            line = f.readline()
+            if not line:
+                break
+            line = line.split()
+            mapping[line[8]] = int(line[1].replace(':', ''))
+    return mapping

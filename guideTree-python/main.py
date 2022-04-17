@@ -9,6 +9,7 @@ import time
 from src.embedding import mbed
 from src.kmeans import BisectingKmeans
 from src.upgma import UPGMA
+from src.utils import parse_aux
 
 def main(args):
     # Set seed for reproduciability
@@ -24,31 +25,33 @@ def main(args):
 
     Embedding = mbed(args.inputFile, args.embedding, args.esm_ckpt, device)
     sequences = Embedding.seqs
-    # centers, clusters = BisectingKmeans(sequences, device, 4)
-    # print()
-    # print()
-    # print()
-    # print()
-    # X, Y = [], []
-    # for cluster in clusters:
-    #     for seq in cluster:
-    #         X.append(seq['embedding'])
-    #         Y.append(seq['cluster'])
-    #         print(seq['name'], seq['cluster'])
     
-    # # Save numpy checkpoint
-    # with open(args.numpy_ckpt, 'wb') as f:
-    #     np.save(f, np.array(X))
-    #     np.save(f, np.array(Y))
+    centers, clusters = BisectingKmeans(sequences, device, args.max_cluster_size)
+    mapping = parse_aux(args.compare)
+    X, Y, Z = [], [], []
+    for cluster in clusters:
+        for seq in cluster:
+            X.append(seq['embedding'])
+            Y.append(seq['cluster'])
+            Z.append(mapping[seq['name']])
+            # print(seq['name'], seq['cluster'], mapping[seq['name']])
     
-    testCluster = UPGMA(sequences, 'AVG', 'K-tuple')
-
-    # preCluster = UPGMA(centers ,'AVG', 'Euclidean')
-    # for cluster in clusters:
-    #     subtree = UPGMA(cluster, 'AVG', 'K-tuple')
-    #     preCluster.appendTree(subtree)
+    # Save numpy checkpoint
+    with open(args.numpy_ckpt, 'wb') as f:
+        np.save(f, np.array(X))
+        np.save(f, np.array(Y))
+        np.save(f, np.array(Z))
     
-    # preCluster.writeTree(args.outputFile)
+    # testCluster = UPGMA(sequences, 'AVG', 'K-tuple')
+    if len(centers) < 2:
+        preCluster = UPGMA(clusters[0], 'AVG', 'K-tuple')
+    else:
+        preCluster = UPGMA(centers ,'AVG', 'Euclidean')
+        for clusterID, cluster in enumerate(clusters):
+            subtree = UPGMA(cluster, 'AVG', 'K-tuple')
+            preCluster.appendTree(subtree, clusterID)
+    
+    preCluster.writeTree(args.outputFile)
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()
@@ -56,13 +59,13 @@ def parse_args() -> Namespace:
         "--inputFile",
         type=str,
         help="Directory to input protein sequence file.",
-        default="./data/bb3_release/RV12/BB12003.tfa",
+        default="./data/bb3_release/RV30/BB30003.tfa",
     )
     parser.add_argument(
         "--outputFile",
         type=str,
-        help="Directory to output guide tree.",
-        default="./output/",
+        help="Path to output guide tree.",
+        default="./output/BB30003/BB30003-python.dnd",
     )
     parser.add_argument(
         "--esm_ckpt",
@@ -76,9 +79,16 @@ def parse_args() -> Namespace:
         help="Path to save the numpy matrix/vector.",
         default="./ckpt/numpy/test.npy",
     )
+    parser.add_argument(
+        "--compare",
+        type=str,
+        help="Path to aux file",
+        default='./output/BB30003/BB30003.aux'
+    )
     parser.add_argument("--seed", type=int, default=2)
     parser.add_argument("--device", type=str, default="cuda:0")
     parser.add_argument("--embedding", type=str, default='mBed')
+    parser.add_argument("--max_cluster_size", type=int, default=10)
     args = parser.parse_args()
     return args
 
