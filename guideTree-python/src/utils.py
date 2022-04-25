@@ -3,9 +3,11 @@ from typing import Dict, List
 import threading 
 import numpy as np
 import torch
+from torch.utils.data import DataLoader
 
-from .threading import Worker
-from esm_github import pretrained
+from src.threading import Worker
+from src.esm_github import pretrained
+from src.dataset import esmDataset
 
 BIG_DIST = 1e29
 AMINO_ACID = 25
@@ -177,6 +179,7 @@ def seq2vec(
     gapPenalty : int,
     ckpt_path = None,
     device = None,
+    toks_per_batch = 4096,
     multi_threading=False,
     num_threads = 6
 ) -> np.ndarray:
@@ -202,8 +205,8 @@ def seq2vec(
                     vec.append(KtupleDist(seq['data'], seed['data'], K, signif, window, gapPenalty))
                 if seqs[i]['embedding'] == None:
                     seqs[i]['embedding'] = np.array(vec)
-    elif convertType == 'pytorch':
-        repr = esm_embedding([(seq['name'], seq['data']) for seq in seqs], ckpt_path, device)
+    elif convertType == 'esm':
+        repr = esm_embedding([seq['name'] for seq in seqs], [seq['data'] for seq in seqs], ckpt_path, device, toks_per_batch)
         assert len(repr) == len(seqs)
         for i, emb in enumerate(repr):
             seqs[i]['embedding'] = emb.cpu().detach().numpy()
@@ -255,27 +258,46 @@ def distMatrix(Nodes : List[Dict], dist_type : str) -> np.ndarray:
                 raise NotImplementedError
     return Matrix
 
-def esm_embedding(data, ckpt_path, device):
+def esm_embedding(labels, sequences, ckpt_path, device, toks_per_batch, truncate=False):
     # Load ESM-1b model
     model, alphabet = pretrained.esm1_t6_43M_UR50S(ckpt_path)
-    batch_converter = alphabet.get_batch_converter()
     model.eval()  # disables dropout for deterministic results
-    
-    batch_labels, batch_strs, batch_tokens = batch_converter(data)
-    
     model = model.to(device)
-    batch_tokens = batch_tokens.to(device)
-    # Extract per-residue representations (on CPU)
-    with torch.no_grad():
-        results = model(batch_tokens, repr_layers=[6], return_contacts=True)
-    token_representations = results["representations"][6]
-
-    # Generate per-sequence representations via averaging
-    # NOTE: token 0 is always a beginning-of-sequence token, so the first residue is token 1.
-    sequence_representations = []
-    for i, (_, seq) in enumerate(data):
-        sequence_representations.append(token_representations[i, 1 : len(seq) + 1].mean(0))
     
+    dataset = esmDataset(labels, sequences)
+    batches = dataset.get_batch_indices(toks_per_batch, extra_toks_per_seq=1)
+    data_loader = DataLoader(
+        dataset,
+        collate_fn=alphabet.get_batch_converter(), 
+        batch_sampler=batches,
+        pin_memory=True
+    )
+    
+    if truncate:
+        toks = toks[:, :1022]
+    
+    if ckpt_path.stem == 'esm1_t6_43M_UR50S':
+        repr_layers = [6]
+    elif ckpt_path.stem == 'esm1b_t33_650M_UR50S':
+        repr_layers = [33]  ## original [0, 32, 33]
+    else:
+        raise NotImplementedError
+    repr_layers = [(i + model.num_layers + 1) % (model.num_layers + 1) for i in repr_layers]
+    
+    # Extract per-residue representations (on CPU)
+    sequence_representations = []
+    with torch.no_grad():
+        for idx, (names, strs, toks) in enumerate(data_loader):
+            print(
+                f"Processing {idx + 1} of {len(batches)} batches ({toks.size(0)} sequences)"
+            )
+            toks = toks.to(device, non_blocking=True)
+            output = model(toks, repr_layers=repr_layers, return_contacts=False)
+            logits = output['logits'].to(device='cpu')
+            representations = output['representations'][repr_layers[0]]
+
+            for i, seq in enumerate(strs):                
+                sequence_representations.append(representations[i, 1 : len(strs) + 1].mean(0).clone())
     return sequence_representations
 
 def parse_aux(aux_file) -> Dict:

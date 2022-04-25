@@ -36,10 +36,10 @@ def initialize(X, num_clusters):
         sum *= random.random()
         for i in range(X.shape[0]):
             sum -= distanceGroup[i]
-            if sum < 0:
+            if sum < 0 and not i in clusterCenterGroup:
                 clusterCenterGroup.append(i)
                 break
-    indices = np.array([0, 1])
+    indices = np.array(clusterCenterGroup)
     initial_state = X[indices]
     return initial_state
 
