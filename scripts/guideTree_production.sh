@@ -1,5 +1,5 @@
-SCRATCHDIR="/home/b07068/MSA/guide-tree/Benchmarks/scratch"
-TREEOUTDIR="/home/b07068/MSA/guide-tree/Benchmarks/trees/bb3_release"
+SCRATCHDIR="/b07068/MSA/guide-tree/Benchmarks/msf/bb3_release"
+TREEOUTDIR="/b07068/MSA/guide-tree/Benchmarks/trees/bb3_release"
 DIR=`pwd`
 function usage()
 {
@@ -18,13 +18,12 @@ done
 
 printf "Generating balibase run commands\n";
 
-find /home/b07068/MSA/guide-tree/Benchmarks/data/bb3_release -name "*.tfa" |\
-    awk -v outdir="$SCRATCHDIR" treedir="$" '{n=split ($1,a,/[\/,.]/);\
-        printf "./run_aln.sh -p kalign  -i %s -o %s/%s_%s_kalign.msf  -to %s/%s_%s_kalign.dnd\n", $1,outdir,a[n-2],a[n-1],treedir,a[n-2],a[n-1];\
-        printf "./run_aln.sh -p muscle  -i %s -o %s/%s_%s_muscle.msf  -to %s/%s_%s_muscle.dnd\n", $1,outdir,a[n-2],a[n-1],treedir,a[n-2],a[n-1];\
-        printf "./run_aln.sh -p clustal -i %s -o %s/%s_%s_clustal.msf -to %s/%s_%s_clustal.dnd\n", $1,outdir,a[n-2],a[n-1],treedir,a[n-2],a[n-1];\
-        printf "./run_aln.sh -p mafft   -i %s -o %s/%s_%s_mafft.msf   -to %s/%s_%s_mafft.dnd\n", $1,outdir,a[n-2],a[n-1],treedir,a[n-2],a[n-1];\
+find /b07068/MSA/guide-tree/Benchmarks/data/bb3_release -name "*.tfa" |\
+    awk -v outdir="$SCRATCHDIR" -v treedir="$TREEOUTDIR" '{n=split ($1,a,/[\/,.]/);\
+        printf "./run_guideTree_aln.sh -p muscle  -i %s -o %s/%s_%s_muscle.msf  -b %s/%s_%s_muscle.phy\n", $1,outdir,a[n-2],a[n-1],treedir,a[n-2],a[n-1];\
+        printf "./run_guideTree_aln.sh -p clustal -i %s -o %s/%s_%s_clustal.msf -b %s/%s_%s_clustal.dnd\n", $1,outdir,a[n-2],a[n-1],treedir,a[n-2],a[n-1];\
     }' > run_benchmark.sh
+# printf "./run_guideTree_aln.sh -p mafft   -i %s -o %s/%s_%s_mafft.msf   -b %s/%s_%s_mafft.dnd\n", $1,outdir,a[n-2],a[n-1],treedir,a[n-2],a[n-1];\
 
 # printf "Generating bralibase run commands\n";
 
