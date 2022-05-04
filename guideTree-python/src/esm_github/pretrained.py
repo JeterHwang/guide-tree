@@ -8,7 +8,7 @@ import warnings
 import urllib
 from pathlib import Path
 import torch
-import esm
+import src.esm_github as esm
 
 
 def _has_regression_weights(model_name):
@@ -150,7 +150,6 @@ def load_model_and_alphabet_core(model_data, regression_data=None):
             )
 
     model.load_state_dict(model_state, strict=regression_data is not None)
-
     return model, alphabet
 
 

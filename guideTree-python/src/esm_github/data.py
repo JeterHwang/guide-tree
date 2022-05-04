@@ -255,7 +255,9 @@ class BatchConverter(object):
         # RoBERTa uses an eos token, while ESM-1 does not.
         batch_size = len(raw_batch)
         batch_labels, seq_str_list = zip(*raw_batch)
-        seq_encoded_list = [self.alphabet.encode(seq_str) for seq_str in seq_str_list]
+        ##################### Truncate the Seq to fit 1024-dim input ##########################
+        seq_encoded_list = [self.alphabet.encode(seq_str)[:1022] for seq_str in seq_str_list] #
+        #######################################################################################
         max_len = max(len(seq_encoded) for seq_encoded in seq_encoded_list)
         tokens = torch.empty(
             (

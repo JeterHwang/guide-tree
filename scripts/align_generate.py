@@ -24,10 +24,16 @@ def main(args):
                     matches.append(list(tree_dir.glob(f"*{name}_mBed.dnd"))[0])
                 elif tree_type == 'esm-43M':
                     matches.append(list(tree_dir.glob(f"*{name}_esm.dnd"))[0])
+                elif tree_type == 'esm-650M':
+                    matches.append(list(tree_dir.glob(f"*{name}_esm.dnd"))[0])
+                elif tree_type == 'prose_mt':
+                    matches.append(list(tree_dir.glob(f"*{name}_prose_mt.dnd"))[0])
                 elif tree_type == 'clustal':
                     matches.append(list(tree_dir.glob(f"*{name}_clustal.dnd"))[0])
                 elif tree_type == 'muscle':
                     matches.append(list(tree_dir.glob(f"*{name}_muscle.phy"))[0])
+                elif tree_type == 'mafft':
+                    matches.append(list(tree_dir.glob(f"*{name}.tree"))[0])
                 else:
                     print(f"Tree type {tree_type} is not supported !!")
                     raise NotImplementedError
@@ -69,7 +75,7 @@ def parse_args() -> Namespace:
         type=str,
         nargs='+',
         help="tree file sources to read",
-        default=['mBed', 'clustal', 'muscle', 'esm-43M'],
+        default=['mBed', 'clustal', 'muscle', 'esm-43M', 'esm-650M', 'prose_mt', 'mafft'],
     )
     args = parser.parse_args()
     return args

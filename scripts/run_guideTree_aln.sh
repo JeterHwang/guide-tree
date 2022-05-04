@@ -32,9 +32,6 @@ if [ "${PROG}" == "" ]; then usage; fi
 if [ "${IN}" == "" ]; then usage; fi
 if [ "${OUT}" == "" ]; then usage; fi
 if [ "${TREE_IN}" != "" ] && [ "${TREE_OUT}" != "" ]; then usage; fi
-if [ "${PROG}" == "mafft" ] && [ "${TREE_OUT}" != "" ]; then 
-    OUT="$TREE_OUT"; 
-fi
 
 SLURMMEM=$MEM"G"
 
@@ -67,8 +64,8 @@ fi
 if [ "${PROG}" == "mafft" ]; then
     if [ "${TREE_IN}" != "" ]; then
         CMD="mafft --treein $TREE_IN --localpair $IN"
-    # elif [ "${TREE_OUT}" != "" ]; then
-    #     CMD="mafft --retree 0 --treeout --localpair $IN"
+    elif [ "${TREE_OUT}" != "" ]; then
+        CMD="mafft --retree 0 --treeout --localpair $IN"
     else
         CMD="mafft --localpair $IN"
     fi

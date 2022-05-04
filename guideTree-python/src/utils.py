@@ -1,14 +1,16 @@
 import time
 from typing import Dict, List
-import threading 
+import threading
+from math import sqrt
 import numpy as np
+
 import torch
 from torch.utils.data import DataLoader
 
 from src.threading import Worker
-from src.esm_github import pretrained
-from src.dataset import esmDataset
 
+from src.dataset import esmDataset
+from src.embed_sequences import prose_embedding, SSA_score
 BIG_DIST = 1e29
 AMINO_ACID = 25
 AMINO_ACID_CODE = {
@@ -177,14 +179,14 @@ def seq2vec(
     signif : int,
     window : int,
     gapPenalty : int,
-    ckpt_path = None,
+    model = None,
     device = None,
     toks_per_batch = 4096,
     multi_threading=False,
     num_threads = 6
 ) -> np.ndarray:
     start_time = time.time()
-    print('----- Start converting sequences to vector -----')
+    #print('----- Start converting sequences to vector -----')
     if convertType == 'mBed':
         if multi_threading:
             chunkLength = len(seqs) // num_threads if len(seqs) % num_threads == 0 else len(seqs) // num_threads + 1
@@ -206,13 +208,18 @@ def seq2vec(
                 if seqs[i]['embedding'] == None:
                     seqs[i]['embedding'] = np.array(vec)
     elif convertType == 'esm':
-        repr = esm_embedding([seq['name'] for seq in seqs], [seq['data'] for seq in seqs], ckpt_path, device, toks_per_batch)
+        repr = esm_embedding([seq['name'] for seq in seqs], [seq['data'] for seq in seqs], model, device, toks_per_batch)
         assert len(repr) == len(seqs)
         for i, emb in enumerate(repr):
             seqs[i]['embedding'] = emb.cpu().detach().numpy()
+    elif convertType in ['prose_mt', 'prose_dlm']:
+        repr = prose_embedding([seq['data'] for seq in seqs], model, 'avg', toks_per_batch)
+        assert len(repr) == len(seqs)
+        for i, emb in enumerate(repr):
+            seqs[i]['embedding'] = emb
     else:
         raise NotImplementedError
-    print(f'----- Finish in {time.time() - start_time} seconds -----')
+    #print(f'----- Finish in {time.time() - start_time} seconds -----')
 
     
 def parseFile(filePath : str) -> List[Dict]:
@@ -245,25 +252,41 @@ def parseFile(filePath : str) -> List[Dict]:
 def Euclidean(P1 : np.ndarray, P2 : np.ndarray) -> float:
     return np.dot(P1 - P2, P1 - P2)
 
-def distMatrix(Nodes : List[Dict], dist_type : str) -> np.ndarray:
+def L2_norm(P1 : np.ndarray, P2 : np.ndarray) -> float:
+    P1_norm = P1 / sqrt(np.dot(P1, P1))
+    P2_norm = P2 / sqrt(np.dot(P2, P2))
+    return np.dot(P1_norm - P2_norm, P1_norm - P2_norm)
+
+def Cosine(P1 : np.ndarray, P2 : np.ndarray) -> float:
+    return 1 - np.dot(P1, P2) / (sqrt(np.dot(P1, P1))) / (sqrt(np.dot(P2, P2)))
+
+def distMatrix(Nodes : List[Dict], dist_type : str, model=None) -> np.ndarray:
     nodeNum = len(Nodes)
-    Matrix = np.full((nodeNum, nodeNum), BIG_DIST)
-    for i in range(nodeNum):
-        for j in range(i):
-            if dist_type == 'Euclidean':
-                Matrix[i][j] = Matrix[j][i] = Euclidean(Nodes[i]['embedding'], Nodes[j]['embedding'])
-            elif dist_type == 'K-tuple':
-                Matrix[i][j] = Matrix[j][i] = KtupleDist(Nodes[i]['data'], Nodes[j]['data'])
-            else:
-                raise NotImplementedError
+    if dist_type == 'SSA':
+        assert model is not None
+        Matrix = SSA_score([Node['data'] for Node in Nodes], model)
+    else:
+        Matrix = np.full((nodeNum, nodeNum), BIG_DIST)
+        for i in range(nodeNum):
+            for j in range(i):
+                if dist_type == 'Euclidean':
+                    Matrix[i][j] = Matrix[j][i] = Euclidean(Nodes[i]['embedding'], Nodes[j]['embedding'])
+                elif dist_type == 'Cosine':
+                    Matrix[i][j] = Matrix[j][i] = Cosine(Nodes[i]['embedding'], Nodes[j]['embedding'])
+                elif dist_type == 'L2_norm':
+                    Matrix[i][j] = Matrix[j][i] = L2_norm(Nodes[i]['embedding'], Nodes[j]['embedding'])
+                elif dist_type == 'K-tuple':
+                    Matrix[i][j] = Matrix[j][i] = KtupleDist(Nodes[i]['data'], Nodes[j]['data'])
+                else:
+                    raise NotImplementedError
     return Matrix
 
-def esm_embedding(labels, sequences, ckpt_path, device, toks_per_batch, truncate=False):
+def esm_embedding(labels, sequences, model_alphabet, device, toks_per_batch, truncate=False):
     # Load ESM-1b model
-    model, alphabet = pretrained.esm1_t6_43M_UR50S(ckpt_path)
+    model, alphabet = model_alphabet[0], model_alphabet[1]
     model.eval()  # disables dropout for deterministic results
     model = model.to(device)
-    
+
     dataset = esmDataset(labels, sequences)
     batches = dataset.get_batch_indices(toks_per_batch, extra_toks_per_seq=1)
     data_loader = DataLoader(
@@ -273,15 +296,14 @@ def esm_embedding(labels, sequences, ckpt_path, device, toks_per_batch, truncate
         pin_memory=True
     )
     
-    if truncate:
-        toks = toks[:, :1022]
-    
-    if ckpt_path.stem == 'esm1_t6_43M_UR50S':
-        repr_layers = [6]
-    elif ckpt_path.stem == 'esm1b_t33_650M_UR50S':
-        repr_layers = [33]  ## original [0, 32, 33]
-    else:
-        raise NotImplementedError
+    #### decide repr_layers by model configuration ####
+    if ckpt_path.stem == 'esm1_t6_43M_UR50S':         #
+        repr_layers = [6]                             #
+    elif ckpt_path.stem == 'esm1b_t33_650M_UR50S':    #
+        repr_layers = [33]  ## original [0, 32, 33]   #
+    else:                                             #
+        raise NotImplementedError                     #
+    ###################################################
     repr_layers = [(i + model.num_layers + 1) % (model.num_layers + 1) for i in repr_layers]
     
     # Extract per-residue representations (on CPU)
@@ -291,13 +313,17 @@ def esm_embedding(labels, sequences, ckpt_path, device, toks_per_batch, truncate
             print(
                 f"Processing {idx + 1} of {len(batches)} batches ({toks.size(0)} sequences)"
             )
+            # if truncate:
+            #     toks = toks[:, :1022]
+
             toks = toks.to(device, non_blocking=True)
             output = model(toks, repr_layers=repr_layers, return_contacts=False)
             logits = output['logits'].to(device='cpu')
             representations = output['representations'][repr_layers[0]]
 
+            # Mean mode
             for i, seq in enumerate(strs):                
-                sequence_representations.append(representations[i, 1 : len(strs) + 1].mean(0).clone())
+                sequence_representations.append(representations[i, 1 : len(seq) + 1].mean(0).clone())
     return sequence_representations
 
 def parse_aux(aux_file) -> Dict:

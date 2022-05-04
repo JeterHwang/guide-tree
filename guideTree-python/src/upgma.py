@@ -48,9 +48,10 @@ class UPGMA:
         seqs : List[Dict],
         linkage_type : str,
         dist_type : str,
+        model = None
     ) -> None:
         
-        self.distmat = distMatrix(seqs, dist_type)
+        self.distmat = distMatrix(seqs, dist_type, model)
         self.linkage_type = linkage_type
         
         self.leafNodeCount = self.distmat.shape[0]

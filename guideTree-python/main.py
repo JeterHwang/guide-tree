@@ -1,15 +1,17 @@
 import torch
 import random
 import numpy as np
+from tqdm import tqdm
 from argparse import ArgumentParser, Namespace
 from pathlib import Path
-from typing import Dict
-import time
 
 from src.embedding import mbed
 from src.upgma import UPGMA
 from src.kmeans import BisectingKmeans
-from src.utils import parse_aux
+from src.utils import parse_aux, parseFile
+from src.esm_github import pretrained
+from src.prose.models.multitask import ProSEMT
+from src.prose.models.lstm import SkipLSTM
 
 def same_seed(seed):
     # Set seed for reproduciability
@@ -18,8 +20,9 @@ def same_seed(seed):
     torch.cuda.manual_seed_all(seed)
     np.random.seed(seed)
     random.seed(seed)
-    torch.backends.cudnn.benchmark = False
-    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.enabled = False
+    #torch.backends.cudnn.benchmark = False
+    #torch.backends.cudnn.deterministic = True
 
 def compare_Kmeans(compareFile, clusters):
     mapping = parse_aux(compareFile)
@@ -32,34 +35,41 @@ def compare_Kmeans(compareFile, clusters):
             # print(seq['name'], seq['cluster'], mapping[seq['name']])
     
     # Save numpy checkpoint
-    with open(args.numpy_ckpt, 'wb') as f:
+    with open(args.numpy_ckpt / 'test.npy', 'wb') as f:
         np.save(f, np.array(X))
         np.save(f, np.array(Y))
         np.save(f, np.array(Z))
 
-def cluster_one_file(inputFile, outputFile, embedding, esm_ckpt, max_cluster_size, device, toks_per_batch):
-    Embedding = mbed(inputFile, embedding, esm_ckpt, device, toks_per_batch)
-    sequences = Embedding.seqs
+def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, device, toks_per_batch):
     
-    centers, clusters = BisectingKmeans(sequences, device, max_cluster_size)
-    #compare_Kmeans(args.compare, clusters)
+    
+    if embedding in ['esm', 'mBed']:
+        Embedding = mbed(inputFile, embedding, model, device, toks_per_batch)
+        sequences = Embedding.seqs
+        centers, clusters = BisectingKmeans(sequences, device, max_cluster_size)
+        #compare_Kmeans(args.compare, clusters)
     
     if embedding == 'esm':
         if len(centers) < 2:
-            preCluster = UPGMA(clusters[0], 'AVG', 'Euclidean')
+            preCluster = UPGMA(clusters[0], 'AVG', 'L2_norm')
         else:
-            preCluster = UPGMA(centers ,'AVG', 'Euclidean')
+            preCluster = UPGMA(centers ,'AVG', 'L2_norm')
             for clusterID, cluster in enumerate(clusters):
-                subtree = UPGMA(cluster, 'AVG', 'Euclidean')
+                subtree = UPGMA(cluster, 'AVG', 'L2_norm')
                 preCluster.appendTree(subtree, clusterID)    
+        #print(np.argmin(preCluster.distmat, axis=1))
     elif embedding == 'mBed':
         if len(centers) < 2:
             preCluster = UPGMA(clusters[0], 'AVG', 'K-tuple')
+            #print(np.argmin(preCluster.distmat, axis=1))
         else:
             preCluster = UPGMA(centers ,'AVG', 'Euclidean')
             for clusterID, cluster in enumerate(clusters):
                 subtree = UPGMA(cluster, 'AVG', 'K-tuple')
                 preCluster.appendTree(subtree, clusterID)
+    elif embedding in ['prose_mt', 'prose_dlm']:
+        preCluster = UPGMA(parseFile(inputFile), 'AVG', 'SSA', model)
+        #print(np.argmin(preCluster.distmat, axis=1))
     else:
         raise NotImplementedError
     
@@ -70,8 +80,26 @@ def main(args):
     device = torch.device(args.device)
     
     args.outputFolder.mkdir(parents=True, exist_ok=True)
-    for fastaFile in list(args.inputFolder.glob('**/*.tfa')):
-        cluster_one_file(fastaFile, args.outputFolder / f"{fastaFile.stem}_{args.embedding}.dnd", args.embedding, args.esm_ckpt, args.max_cluster_size, device, args.toks_per_batch)
+    args.numpy_ckpt.mkdir(parents=True, exist_ok=True)
+    
+    if args.embedding == 'prose_mt':
+        model = ProSEMT.load_pretrained(args.ckpt_path)
+    elif args.embedding == 'prose_dlm':
+        model = SkipLSTM.load_pretrained(args.ckpt_path)
+    elif args.embedding == 'esm1_43M':
+        model = pretrained.esm1_t6_43M_UR50S(args.ckpt_path) # model, alphabet
+    elif args.embedding == 'esm1b_650M':
+        model = pretrained.esm1b_t33_650M_UR50S(args.ckpt_path) # model, alphabet
+    else:
+        raise NotImplementedError
+
+    with tqdm(total=len(list(args.inputFolder.glob('**/*.tfa'))), desc='Building Tree') as t:
+        for i, fastaFile in enumerate(tqdm(list(args.inputFolder.glob('**/*.tfa')))):
+            t.set_postfix({
+                'file' : fastaFile.name
+            })
+            cluster_one_file(fastaFile, args.outputFolder / f"{fastaFile.stem}_{args.embedding}.dnd", args.embedding, model, args.max_cluster_size, device, args.toks_per_batch)
+            t.update(1)
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()
@@ -88,7 +116,7 @@ def parse_args() -> Namespace:
         default="./output/bb3_release/esm-43M",
     )
     parser.add_argument(
-        "--esm_ckpt",
+        "--ckpt_path",
         type=Path,
         help="Path to pretrained protein embeddings.",
         default="./ckpt/esm/esm1_t6_43M_UR50S.pt",
@@ -97,7 +125,7 @@ def parse_args() -> Namespace:
         "--numpy_ckpt",
         type=Path,
         help="Path to save the numpy matrix/vector.",
-        default="./ckpt/numpy/test.npy",
+        default="./ckpt/numpy",
     )
     parser.add_argument(
         "--compare",
@@ -107,7 +135,7 @@ def parse_args() -> Namespace:
     )
     parser.add_argument("--seed", type=int, default=2)
     parser.add_argument("--device", type=str, default="cuda:0")
-    parser.add_argument("--embedding", type=str, default='mBed', choices=['mBed', 'esm'])
+    parser.add_argument("--embedding", type=str, default='mBed', choices=['mBed', 'esm', 'prose_mt', 'prose_dlm'])
     parser.add_argument("--max_cluster_size", type=int, default=100)
     parser.add_argument("--toks_per_batch", type=int, default=4096)
     args = parser.parse_args()
