@@ -94,7 +94,7 @@ def main(args):
         raise NotImplementedError
 
     with tqdm(total=len(list(args.inputFolder.glob('**/*.tfa'))), desc='Building Tree') as t:
-        for i, fastaFile in enumerate(tqdm(list(args.inputFolder.glob('**/*.tfa')))):
+        for i, fastaFile in enumerate(list(args.inputFolder.glob('**/*.tfa'))):
             t.set_postfix({
                 'file' : fastaFile.name
             })
