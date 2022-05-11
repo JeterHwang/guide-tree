@@ -41,8 +41,7 @@ def compare_Kmeans(compareFile, clusters):
         np.save(f, np.array(Z))
 
 def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, device, toks_per_batch):
-    
-    
+        
     if embedding in ['esm', 'mBed']:
         Embedding = mbed(inputFile, embedding, model, device, toks_per_batch)
         sequences = Embedding.seqs
@@ -53,23 +52,20 @@ def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, 
         if len(centers) < 2:
             preCluster = UPGMA(clusters[0], 'AVG', 'L2_norm')
         else:
-            preCluster = UPGMA(centers ,'AVG', 'L2_norm')
+            preCluster = UPGMA(centers ,'AVG', 'L2_norm', 'clustal')
             for clusterID, cluster in enumerate(clusters):
-                subtree = UPGMA(cluster, 'AVG', 'L2_norm')
+                subtree = UPGMA(cluster, 'AVG', 'L2_norm', 'clustal')
                 preCluster.appendTree(subtree, clusterID)    
-        #print(np.argmin(preCluster.distmat, axis=1))
     elif embedding == 'mBed':
         if len(centers) < 2:
-            preCluster = UPGMA(clusters[0], 'AVG', 'K-tuple')
-            #print(np.argmin(preCluster.distmat, axis=1))
+            preCluster = UPGMA(clusters[0], 'AVG', 'K-tuple', 'clustal')
         else:
-            preCluster = UPGMA(centers ,'AVG', 'Euclidean')
+            preCluster = UPGMA(centers ,'AVG', 'Euclidean', 'clustal')
             for clusterID, cluster in enumerate(clusters):
-                subtree = UPGMA(cluster, 'AVG', 'K-tuple')
+                subtree = UPGMA(cluster, 'AVG', 'K-tuple', 'clustal')
                 preCluster.appendTree(subtree, clusterID)
     elif embedding in ['prose_mt', 'prose_dlm']:
-        preCluster = UPGMA(parseFile(inputFile), 'AVG', 'SSA', model)
-        #print(np.argmin(preCluster.distmat, axis=1))
+        preCluster = UPGMA(parseFile(inputFile), 'AVG', 'SSA', 'LCP', model)
     else:
         raise NotImplementedError
     
@@ -93,13 +89,9 @@ def main(args):
     else:
         raise NotImplementedError
 
-    with tqdm(total=len(list(args.inputFolder.glob('**/*.tfa'))), desc='Building Tree') as t:
-        for i, fastaFile in enumerate(list(args.inputFolder.glob('**/*.tfa'))):
-            t.set_postfix({
-                'file' : fastaFile.name
-            })
-            cluster_one_file(fastaFile, args.outputFolder / f"{fastaFile.stem}_{args.embedding}.dnd", args.embedding, model, args.max_cluster_size, device, args.toks_per_batch)
-            t.update(1)
+    for i, fastaFile in enumerate(list(args.inputFolder.glob('**/*.tfa'))):
+        print(f"Now processing file ({i + 1}/{len(list(args.inputFolder.glob('**/*.tfa')))}) : {fastaFile.name}")
+        cluster_one_file(fastaFile, args.outputFolder / f"{fastaFile.stem}_{args.embedding}.dnd", args.embedding, model, args.max_cluster_size, device, args.toks_per_batch)
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()
@@ -113,13 +105,13 @@ def parse_args() -> Namespace:
         "--outputFolder",
         type=Path,
         help="Path to output guide tree.",
-        default="./output/bb3_release/esm-43M",
+        default="./output/bb3_release/prose_mt_100",
     )
     parser.add_argument(
         "--ckpt_path",
         type=Path,
         help="Path to pretrained protein embeddings.",
-        default="./ckpt/esm/esm1_t6_43M_UR50S.pt",
+        default="./ckpt/prose/saved_models/prose_mt_3x1024.sav",
     )
     parser.add_argument(
         "--numpy_ckpt",
@@ -135,9 +127,10 @@ def parse_args() -> Namespace:
     )
     parser.add_argument("--seed", type=int, default=2)
     parser.add_argument("--device", type=str, default="cuda:0")
-    parser.add_argument("--embedding", type=str, default='mBed', choices=['mBed', 'esm', 'prose_mt', 'prose_dlm'])
+    parser.add_argument("--embedding", type=str, default='prose_mt', choices=['mBed', 'esm', 'prose_mt', 'prose_dlm'])
     parser.add_argument("--max_cluster_size", type=int, default=100)
     parser.add_argument("--toks_per_batch", type=int, default=4096)
+    parser.add_argument("--UPGMA_type", type=str, choices=['LCP', 'clustal'], default='clustal')
     args = parser.parse_args()
     return args
 

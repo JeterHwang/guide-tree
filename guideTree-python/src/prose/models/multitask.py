@@ -117,12 +117,15 @@ def pad_gap_scores(s, gap):
 
 class L1(nn.Module):
     def forward(self, x, y, chunk_size=20000):
-        # return -torch.sum(torch.abs(x.unsqueeze(1)-y), -1)
-        x_chunk_size = chunk_size // y.size()[0] + 1
-        L1_dis = torch.zeros(x.shape[0], y.shape[0], device=x.device)
-        for i in range(0, x.shape[0], x_chunk_size):
-            L1_dis[i : i + x_chunk_size, :] = -torch.sum(torch.abs(x[i : i + x_chunk_size, :].unsqueeze(1) - y), -1)
-        return L1_dis
+        if x.size(1) > 100:
+            x_chunk_size = chunk_size // y.size(0) + 1
+            L1_dis = torch.zeros(x.size(0), y.size(0), device=x.device)
+            for i in range(0, x.size(0), x_chunk_size):
+                L1_dis[i : i + x_chunk_size, :] = -torch.sum(torch.abs(x[i : i + x_chunk_size, :].unsqueeze(1) - y), -1)
+            return L1_dis
+        else:
+            return -torch.sum(torch.abs(x.unsqueeze(1)-y), -1)
+        
 
 
 class L2(nn.Module):

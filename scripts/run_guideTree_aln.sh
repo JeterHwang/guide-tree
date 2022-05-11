@@ -6,20 +6,22 @@ OUT=
 PROG= 
 TREE_IN=
 TREE_OUT=
+FMT=
 function usage()
 {
-    printf "usage: $0  -p <prog> -i <in> -o <out> -a <guide-tree-in> -b <guide-tree-out>\n\n" ;
+    printf "usage: $0  -p <prog> -f <format> -i <in> -o <out> -a <guide-tree-in> -b <guide-tree-out>\n\n" ;
     printf "Options:\n-t <threads>\n-m <mem>\n\n";
     printf "Valid options for <prog> include:\n   kalign\n   muscle\n   clustal\n\n";
     exit 1;
 }
 
-while getopts t:m:p:i:o:a:b:  opt
+while getopts t:m:p:f:i:o:a:b:  opt
 do
     case ${opt} in
         t) CPU=${OPTARG};;
         m) MEM=${OPTARG};;
         p) PROG=${OPTARG};;
+        f) FMT=${OPTARG};;
         i) IN=${OPTARG};;
         o) OUT=${OPTARG};;
         a) TREE_IN=${OPTARG};;
@@ -32,32 +34,53 @@ if [ "${PROG}" == "" ]; then usage; fi
 if [ "${IN}" == "" ]; then usage; fi
 if [ "${OUT}" == "" ]; then usage; fi
 if [ "${TREE_IN}" != "" ] && [ "${TREE_OUT}" != "" ]; then usage; fi
+if [ "${PROG}" == "mafft" ] && [ "${FMT}" == "msf" ]; then usage; fi
 
 SLURMMEM=$MEM"G"
 
 CMD= 
 
 if [ "${PROG}" == "kalign" ]; then 
-    CMD="kalign -i $IN -f msf -o $OUT"
+    if [ "${FMT}" == "msf" ]; then
+        CMD="kalign -i $IN -f msf -o $OUT"
+    else
+        CMD="kalign -i $IN -o $OUT"
+    fi
 fi
 
 if [ "${PROG}" == "muscle" ]; then 
     if [ "${TREE_IN}" != "" ]; then
-        CMD="muscle3.8.31_i86linux64 -msf -in $IN -out $OUT -usetree_nowarn $TREE_IN"
+        if [ "${FMT}" == "msf" ]; then
+            CMD="muscle3.8.31_i86linux64 -msf -in $IN -out $OUT -usetree_nowarn $TREE_IN"
+        else
+            CMD="muscle3.8.31_i86linux64 -in $IN -out $OUT -usetree_nowarn $TREE_IN"
+        fi
     elif [ "${TREE_OUT}" != "" ]; then
         CMD="muscle3.8.31_i86linux64 -in $IN -out $OUT -tree2 $TREE_OUT"
     else
-        CMD="muscle3.8.31_i86linux64 -msf -in $IN -out $OUT"
+        if [ "${FMT}" == "msf" ]; then
+            CMD="muscle3.8.31_i86linux64 -msf -in $IN -out $OUT"
+        else
+            CMD="muscle3.8.31_i86linux64 -in $IN -out $OUT"
+        fi
     fi
 fi
 
 if [ "${PROG}" == "clustal" ]; then 
     if [ "${TREE_IN}" != "" ]; then
-        CMD="clustalo --outfmt=msf --in $IN --out $OUT --guidetree-in $TREE_IN --force"
+        if [ "${FMT}" == "msf" ]; then
+            CMD="clustalo --outfmt=msf --in $IN --out $OUT --guidetree-in $TREE_IN --force"
+        else
+            CMD="clustalo --in $IN --out $OUT --guidetree-in $TREE_IN --force"
+        fi
     elif [ "${TREE_OUT}" != "" ]; then
         CMD="clustalo --in $IN --out $OUT --guidetree-out $TREE_OUT --force"
     else
-        CMD="clustalo --outfmt=msf --in $IN --out $OUT --force"
+        if [ "${FMT}" == "msf" ]; then
+            CMD="clustalo --outfmt=msf --in $IN --out $OUT --force"
+        else
+            CMD="clustalo --in $IN --out $OUT --force"
+        fi
     fi
 fi
 

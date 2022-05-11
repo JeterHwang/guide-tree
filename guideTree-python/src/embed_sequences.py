@@ -1,20 +1,18 @@
 from __future__ import print_function,division
 import time
 from sklearn.decomposition import PCA
+from sklearn.utils import shuffle
 import torch
 import sys
 from typing import List
 import numpy as np
 import torch.nn.functional as F
+from tqdm import tqdm
 from src.prose.alphabets import Uniprot21
+from src.dataset import proseDataset, LSTMDataset
 BIG_DIST = 1e29
 
 def embed_sequence(model, x, pool='none', use_cuda=False):
-    if len(x) == 0:
-        n = model.embedding.proj.weight.size(1)
-        z = np.zeros((1,n), dtype=np.float32)
-        return z
-
     alphabet = Uniprot21()
     x = x.upper()
     # convert to alphabet index
@@ -27,7 +25,7 @@ def embed_sequence(model, x, pool='none', use_cuda=False):
         x = x.long().unsqueeze(0)
         
         # Original : z = model.transform(x) 6165-dim #####
-        z = model.transform(x) # 100-dim                           #
+        z = model(x) # 100-dim                           #
         ##################################################
 
         # pool if needed
@@ -81,19 +79,30 @@ def new_score(logits):
     #print(f"4 - y_hat = {4 - y_hat}")
     return 4 - y_hat
 
-def SSA_score(seqs : List[str], model=None) -> np.ndarray:
-    
+def SSA_score(seqs : List[str], model=None, toks_per_batch=4096) -> np.ndarray:
     assert model is not None
-
-    model.eval()
     model = model.cuda()
+    model.eval()
 
+    embedding_dataset = LSTMDataset(seqs, Uniprot21())
+    embedding_dataloader = torch.utils.data.DataLoader(
+        embedding_dataset,
+        batch_size=1,
+        shuffle=False,
+        pin_memory=True,
+        num_workers=8
+    )
     embeddings, length = [], []
-    for seq in seqs:
-        embedding = embed_sequence(model, seq.encode('utf-8').upper(), pool=None, use_cuda=True)
-        length.append(embedding.shape[0])
-        embeddings.append(embedding)
-    
+    with torch.no_grad():
+        for data in tqdm(embedding_dataloader, desc="LSTM embedding"):
+            data = data.long().cuda()
+            # Original : z = model.transform(x) 6165-dim #####
+            output = model.transform(data) # 100-dim                   #
+            ##################################################
+            embedding = output.squeeze(0).detach().cpu()
+            length.append(embedding.size(0))
+            embeddings.append(embedding)
+        
     # X = torch.cat(embeddings, 0).numpy()
     # pca = PCA(n_components=1000)
     # pca.fit(X)
@@ -105,16 +114,28 @@ def SSA_score(seqs : List[str], model=None) -> np.ndarray:
 
 
     nodeNum = len(seqs)
+    test_dataset = proseDataset(embeddings)
+    test_loader = torch.utils.data.DataLoader(
+        test_dataset,
+        batch_size=1,
+        shuffle=False,
+        pin_memory=True,
+        num_workers=8
+    )
     Matrix = np.full((nodeNum, nodeNum), BIG_DIST)
+    score_max = 0
     with torch.no_grad():
-        for i in range(len(seqs)):
-            for j in range(i):
-                # soft_similarity = model.score(embeddings[i].cuda(), embeddings[j].cuda())
-                score = -model.score(embeddings[i].cuda(), embeddings[j].cuda())
-                # score = new_score(soft_similarity.unsqueeze(0))
-                score = score.cpu().detach().numpy()
-                Matrix[i][j] = Matrix[j][i] = score
-    return Matrix
+        for batch_idx, (emb1, emb2, x, y) in enumerate(tqdm(test_loader, desc="Scoring Matrix")): 
+            emb1 = emb1.squeeze(0).cuda()
+            emb2 = emb2.squeeze(0).cuda()
+            score = -model.score(emb1, emb2)
+            # soft_similarity = model.score(embeddings[i].cuda(), embeddings[j].cuda())
+            # score = new_score(soft_similarity.unsqueeze(0))
+            score = score.cpu().detach().numpy()
+            score_max = max(score_max, score)
+            Matrix[x[0]][y[0]] = Matrix[y[0]][x[0]] = score
+            
+    return Matrix / score_max
 
 def prose_embedding(
     seqs : List[str], 

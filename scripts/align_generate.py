@@ -15,7 +15,12 @@ def main(args):
             f.write("sleep 1\n")
             
             name = fastaFile.stem
-            postfix = name + '.msf'
+            if args.output_format == 'msf':
+                postfix = name + '.msf'
+            elif args.output_format == 'fasta':
+                postfix = name + '.pfa'
+            else:
+                raise NotImplementedError
 
             tree_dirs = [args.tree_dir / tree_type for tree_type in args.tree_type]
             matches = []
@@ -26,7 +31,9 @@ def main(args):
                     matches.append(list(tree_dir.glob(f"*{name}_esm.dnd"))[0])
                 elif tree_type == 'esm-650M':
                     matches.append(list(tree_dir.glob(f"*{name}_esm.dnd"))[0])
-                elif tree_type == 'prose_mt':
+                elif tree_type == 'prose_mt_100':
+                    matches.append(list(tree_dir.glob(f"*{name}_prose_mt.dnd"))[0])
+                elif tree_type == 'prose_mt_6K':
                     matches.append(list(tree_dir.glob(f"*{name}_prose_mt.dnd"))[0])
                 elif tree_type == 'clustal':
                     matches.append(list(tree_dir.glob(f"*{name}_clustal.dnd"))[0])
@@ -39,7 +46,7 @@ def main(args):
                     raise NotImplementedError
             
             for output_dir, match in zip(output_dirs, matches):
-                f.write(f"./run_guideTree_aln.sh -p clustal -i {str(fastaFile.absolute().resolve())} -o {str((output_dir / postfix).absolute().resolve())} -a {str(match.absolute().resolve())}\n")    
+                f.write(f"./run_guideTree_aln.sh -p clustal -f {args.output_format} -i {str(fastaFile.absolute().resolve())} -o {str((output_dir / postfix).absolute().resolve())} -a {str(match.absolute().resolve())}\n")    
             
         f.write(f"echo -ne '{'#' * 100}(100%)\\r'\n")
         f.write("echo -ne '\\n'\n")
@@ -75,7 +82,13 @@ def parse_args() -> Namespace:
         type=str,
         nargs='+',
         help="tree file sources to read",
-        default=['mBed', 'clustal', 'muscle', 'esm-43M', 'esm-650M', 'prose_mt', 'mafft'],
+        default=['mBed', 'clustal', 'muscle', 'esm-43M', 'esm-650M', 'prose_mt_100', 'prose_mt_6K', 'mafft'],
+    )
+    parser.add_argument(
+        "--output_format",
+        type=str,
+        help="MSA output file format",
+        default="msf",
     )
     args = parser.parse_args()
     return args
