@@ -4,11 +4,12 @@ import numpy as np
 from tqdm import tqdm
 from argparse import ArgumentParser, Namespace
 from pathlib import Path
+import os
 
 from src.embedding import mbed
 from src.upgma import UPGMA
 from src.kmeans import BisectingKmeans
-from src.utils import parse_aux, parseFile
+from src.utils import parse_aux, parseFile, runcmd
 from src.esm_github import pretrained
 from src.prose.models.multitask import ProSEMT
 from src.prose.models.lstm import SkipLSTM
@@ -40,17 +41,16 @@ def compare_Kmeans(compareFile, clusters):
         np.save(f, np.array(Y))
         np.save(f, np.array(Z))
 
-def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, device, toks_per_batch):
+def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, device, toks_per_batch, save_path):
         
-    if embedding in ['esm', 'mBed']:
-        Embedding = mbed(inputFile, embedding, model, device, toks_per_batch)
-        sequences = Embedding.seqs
-        centers, clusters = BisectingKmeans(sequences, device, max_cluster_size)
-        #compare_Kmeans(args.compare, clusters)
+    Embedding = mbed(inputFile, embedding, model, device, toks_per_batch, save_path)
+    sequences = Embedding.seqs
+    centers, clusters = BisectingKmeans(sequences, device, max_cluster_size)
+    #compare_Kmeans(args.compare, clusters)
     
     if embedding == 'esm':
         if len(centers) < 2:
-            preCluster = UPGMA(clusters[0], 'AVG', 'L2_norm')
+            preCluster = UPGMA(clusters[0], 'AVG', 'L2_norm', 'clustal')
         else:
             preCluster = UPGMA(centers ,'AVG', 'L2_norm', 'clustal')
             for clusterID, cluster in enumerate(clusters):
@@ -65,7 +65,13 @@ def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, 
                 subtree = UPGMA(cluster, 'AVG', 'K-tuple', 'clustal')
                 preCluster.appendTree(subtree, clusterID)
     elif embedding in ['prose_mt', 'prose_dlm']:
-        preCluster = UPGMA(parseFile(inputFile), 'AVG', 'SSA', 'LCP', model)
+        if len(centers) < 2:
+            preCluster = UPGMA(clusters[0], 'AVG', 'SSA', 'LCP', model, save_path)
+        else:
+            preCluster = UPGMA(centers ,'AVG', 'L2_norm', 'LCP')
+            for clusterID, cluster in enumerate(clusters):
+                subtree = UPGMA(cluster, 'AVG', 'SSA', 'LCP', model, save_path)
+                preCluster.appendTree(subtree, clusterID)
     else:
         raise NotImplementedError
     
@@ -73,10 +79,11 @@ def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, 
 
 def main(args):
     same_seed(args.seed)    
-    device = torch.device(args.device)
+    device = torch.device('cuda:0')
     
     args.outputFolder.mkdir(parents=True, exist_ok=True)
     args.numpy_ckpt.mkdir(parents=True, exist_ok=True)
+    args.pytorch_ckpt.mkdir(parents=True, exist_ok=True)
     
     if args.embedding == 'prose_mt':
         model = ProSEMT.load_pretrained(args.ckpt_path)
@@ -91,7 +98,8 @@ def main(args):
 
     for i, fastaFile in enumerate(list(args.inputFolder.glob('**/*.tfa'))):
         print(f"Now processing file ({i + 1}/{len(list(args.inputFolder.glob('**/*.tfa')))}) : {fastaFile.name}")
-        cluster_one_file(fastaFile, args.outputFolder / f"{fastaFile.stem}_{args.embedding}.dnd", args.embedding, model, args.max_cluster_size, device, args.toks_per_batch)
+        cluster_one_file(fastaFile, args.outputFolder / f"{fastaFile.stem}_{args.embedding}.dnd", args.embedding, model, args.max_cluster_size, device, args.toks_per_batch, args.pytorch_ckpt)
+        runcmd(f"rm {args.pytorch_ckpt.absolute().resolve()}/*")
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()
@@ -120,15 +128,21 @@ def parse_args() -> Namespace:
         default="./ckpt/numpy",
     )
     parser.add_argument(
+        "--pytorch_ckpt",
+        type=Path,
+        help="Path to save the numpy matrix/vector.",
+        default="./ckpt/pytorch",
+    )
+    parser.add_argument(
         "--compare",
         type=Path,
         help="Path to aux file",
         default='./output/BB50003/BB50003.aux'
     )
     parser.add_argument("--seed", type=int, default=2)
-    parser.add_argument("--device", type=str, default="cuda:0")
+    parser.add_argument("--gpus", type=str, default="1")
     parser.add_argument("--embedding", type=str, default='prose_mt', choices=['mBed', 'esm', 'prose_mt', 'prose_dlm'])
-    parser.add_argument("--max_cluster_size", type=int, default=100)
+    parser.add_argument("--max_cluster_size", type=int, default=1000)
     parser.add_argument("--toks_per_batch", type=int, default=4096)
     parser.add_argument("--UPGMA_type", type=str, choices=['LCP', 'clustal'], default='clustal')
     args = parser.parse_args()
@@ -137,4 +151,6 @@ def parse_args() -> Namespace:
 
 if __name__ == "__main__":
     args = parse_args()
+    os.environ["CUDA_DEVICE_ORDER"]     = "PCI_BUS_ID"
+    os.environ["CUDA_VISIBLE_DEVICES"]  = args.gpus
     main(args)

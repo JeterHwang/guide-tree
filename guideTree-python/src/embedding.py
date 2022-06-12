@@ -17,7 +17,7 @@ __all__ = [
 
 class mbed(object):
     
-    def __init__(self, file, convertType='mBed', model=None, device=None, toks_per_batch=4096) -> None:
+    def __init__(self, file, convertType='mBed', model=None, device=None, toks_per_batch=4096, save_path=None) -> None:
         self.seqs = parseFile(file)
         self.nseq = len(self.seqs)
         self.istep = int(self.nseq / self.numSeed)
@@ -28,6 +28,7 @@ class mbed(object):
             device = device,
             model = model,
             toks_per_batch=toks_per_batch,
+            save_path = save_path,
             **Ktuple_param
         )
 

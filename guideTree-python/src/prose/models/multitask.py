@@ -116,7 +116,7 @@ def pad_gap_scores(s, gap):
 
 
 class L1(nn.Module):
-    def forward(self, x, y, chunk_size=20000):
+    def forward(self, x, y, chunk_size=40000):
         if x.size(1) > 100:
             x_chunk_size = chunk_size // y.size(0) + 1
             L1_dis = torch.zeros(x.size(0), y.size(0), device=x.device)

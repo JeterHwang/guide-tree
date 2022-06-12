@@ -49,10 +49,11 @@ class UPGMA:
         linkage_type : str,
         dist_type : str,
         UPGMA_type : str,
-        model = None
+        model = None,
+        save_path = None,
     ) -> None:
         
-        self.distmat = distMatrix(seqs, dist_type, model)
+        self.distmat = distMatrix(seqs, dist_type, model, save_path)
         self.linkage_type = linkage_type
         self.UPGMA_type = UPGMA_type
         self.leafNodeCount = self.distmat.shape[0]

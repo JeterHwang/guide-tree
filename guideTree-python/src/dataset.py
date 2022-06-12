@@ -40,9 +40,10 @@ class esmDataset(Dataset):
         return batches
 
 class proseDataset(Dataset):
-    def __init__(self, embeddings):
-        self.embeddings = embeddings
-        self.seqNum = len(embeddings)
+    def __init__(self, seqs, save_path):
+        self.save_path = save_path
+        self.name = [seq['name'] for seq in seqs]
+        self.seqNum = len(seqs)
         self.datasize = self.seqNum * (self.seqNum - 1) // 2
         self.xmapping = [0] * self.datasize
         self.ymapping = [0] * self.datasize
@@ -58,11 +59,14 @@ class proseDataset(Dataset):
         return self.datasize
     
     def __getitem__(self, idx):
-        return self.embeddings[self.xmapping[idx]], self.embeddings[self.ymapping[idx]], self.xmapping[idx], self.ymapping[idx]
+        seq1_ID = self.xmapping[idx]
+        seq2_ID = self.ymapping[idx]
+        return torch.load(self.save_path / f"{self.name[seq1_ID].replace('/', '-')}.pt"), torch.load(self.save_path / f"{self.name[seq2_ID].replace('/', '-')}.pt"), seq1_ID, seq2_ID
 
 class LSTMDataset(Dataset):
     def __init__(self, seqs, alphabet):
-        self.seqs = seqs
+        self.seqs = [seq['data'] for seq in seqs]
+        self.name = [seq['name'] for seq in seqs]
         self.alphabet = alphabet
         self.encode_seqs = [torch.from_numpy(alphabet.encode(seq.encode('utf-8').upper())) for seq in self.seqs]
 
@@ -70,6 +74,6 @@ class LSTMDataset(Dataset):
         return len(self.seqs)
     
     def __getitem__(self, idx):
-        return self.encode_seqs[idx]
+        return self.name[idx], self.encode_seqs[idx]
 
     

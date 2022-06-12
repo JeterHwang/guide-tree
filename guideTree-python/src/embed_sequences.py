@@ -4,7 +4,7 @@ from sklearn.decomposition import PCA
 from sklearn.utils import shuffle
 import torch
 import sys
-from typing import List
+from typing import Dict, List
 import numpy as np
 import torch.nn.functional as F
 from tqdm import tqdm
@@ -12,7 +12,7 @@ from src.prose.alphabets import Uniprot21
 from src.dataset import proseDataset, LSTMDataset
 BIG_DIST = 1e29
 
-def embed_sequence(model, x, pool='none', use_cuda=False):
+def embed_sequence(model, x, pool='none'):
     alphabet = Uniprot21()
     x = x.upper()
     # convert to alphabet index
@@ -25,7 +25,7 @@ def embed_sequence(model, x, pool='none', use_cuda=False):
         x = x.long().unsqueeze(0)
         
         # Original : z = model.transform(x) 6165-dim #####
-        z = model(x) # 100-dim                           #
+        z = model.transform(x)                 # 100-dim #
         ##################################################
 
         # pool if needed
@@ -79,29 +79,11 @@ def new_score(logits):
     #print(f"4 - y_hat = {4 - y_hat}")
     return 4 - y_hat
 
-def SSA_score(seqs : List[str], model=None, toks_per_batch=4096) -> np.ndarray:
+def SSA_score(seqs : List[Dict], model=None, save_path=None) -> np.ndarray:
     assert model is not None
+    assert save_path is not None
     model = model.cuda()
     model.eval()
-
-    embedding_dataset = LSTMDataset(seqs, Uniprot21())
-    embedding_dataloader = torch.utils.data.DataLoader(
-        embedding_dataset,
-        batch_size=1,
-        shuffle=False,
-        pin_memory=True,
-        num_workers=8
-    )
-    embeddings, length = [], []
-    with torch.no_grad():
-        for data in tqdm(embedding_dataloader, desc="LSTM embedding"):
-            data = data.long().cuda()
-            # Original : z = model.transform(x) 6165-dim #####
-            output = model.transform(data) # 100-dim                   #
-            ##################################################
-            embedding = output.squeeze(0).detach().cpu()
-            length.append(embedding.size(0))
-            embeddings.append(embedding)
         
     # X = torch.cat(embeddings, 0).numpy()
     # pca = PCA(n_components=1000)
@@ -114,42 +96,74 @@ def SSA_score(seqs : List[str], model=None, toks_per_batch=4096) -> np.ndarray:
 
 
     nodeNum = len(seqs)
-    test_dataset = proseDataset(embeddings)
-    test_loader = torch.utils.data.DataLoader(
-        test_dataset,
-        batch_size=1,
-        shuffle=False,
-        pin_memory=True,
-        num_workers=8
-    )
+    # test_dataset = proseDataset(seqs, save_path)
+    # test_loader = torch.utils.data.DataLoader(
+    #     test_dataset,
+    #     batch_size=1,
+    #     shuffle=False,
+    #     pin_memory=True,
+    #     num_workers=8
+    # )
     Matrix = np.full((nodeNum, nodeNum), BIG_DIST)
     score_max = 0
-    with torch.no_grad():
-        for batch_idx, (emb1, emb2, x, y) in enumerate(tqdm(test_loader, desc="Scoring Matrix")): 
-            emb1 = emb1.squeeze(0).cuda()
-            emb2 = emb2.squeeze(0).cuda()
-            score = -model.score(emb1, emb2)
-            # soft_similarity = model.score(embeddings[i].cuda(), embeddings[j].cuda())
-            # score = new_score(soft_similarity.unsqueeze(0))
-            score = score.cpu().detach().numpy()
-            score_max = max(score_max, score)
-            Matrix[x[0]][y[0]] = Matrix[y[0]][x[0]] = score
+    with torch.no_grad(), tqdm(total=nodeNum * (nodeNum - 1) // 2, desc='Scoring Matrix') as t:
+        for i in range(nodeNum):
+            for j in range(i):
+                emb1 = torch.load(save_path / f"{seqs[i]['name'].replace('/', '-')}.pt").cuda()
+                emb2 = torch.load(save_path / f"{seqs[j]['name'].replace('/', '-')}.pt").cuda()
+                score = -model.score(emb1, emb2)
+                # soft_similarity = model.score(embeddings[i].cuda(), embeddings[j].cuda())
+                # score = new_score(soft_similarity.unsqueeze(0))
+                score = score.cpu().detach().numpy()
+                score_max = max(score_max, score)
+                Matrix[i][j] = Matrix[i][j] = score
+                t.update(1)
+        # for batch_idx, (emb1, emb2, x, y) in enumerate(tqdm(test_loader, desc="Scoring Matrix")): 
+        #     emb1 = emb1.squeeze(0).cuda()
+        #     emb2 = emb2.squeeze(0).cuda()
+        #     score = -model.score(emb1, emb2)
+        #     # soft_similarity = model.score(embeddings[i].cuda(), embeddings[j].cuda())
+        #     # score = new_score(soft_similarity.unsqueeze(0))
+        #     score = score.cpu().detach().numpy()
+        #     score_max = max(score_max, score)
+        #     Matrix[x[0]][y[0]] = Matrix[y[0]][x[0]] = score
             
     return Matrix / score_max
 
 def prose_embedding(
-    seqs : List[str], 
+    seqs : List[Dict], 
     model=None,
     pool='avg', 
-    toks_per_batch=4096
+    toks_per_batch=4096,
+    save_path=None
 ):
     assert model is not None
     
     model.eval()
     model = model.cuda()
-
+    embedding_dataset = LSTMDataset(seqs, Uniprot21())
+    embedding_dataloader = torch.utils.data.DataLoader(
+        embedding_dataset,
+        batch_size=1,
+        shuffle=False,
+        pin_memory=True,
+        num_workers=8
+    )
     embeddings = []
-    for seq in seqs:
-        embedding = embed_sequence(model, seq.encode('utf-8').upper(), pool=pool, use_cuda=True)
-        embeddings.append(embedding)
+    with torch.no_grad():
+        for name, data in tqdm(embedding_dataloader, desc="LSTM embedding"):
+            data = data.long().cuda()
+            # Original : z = model.transform(x) 6165-dim #####
+            output = model.transform(data) # 100-dim         #
+            ##################################################
+            embedding = output.squeeze(0)
+            torch.save(embedding, save_path / f"{name[0].replace('/', '-')}.pt")
+            if pool == 'sum':
+                embedding = embedding.sum(0)
+            elif pool == 'max':
+                embedding, _ = embedding.max(0)
+            elif pool == 'avg':
+                embedding = embedding.mean(0)
+            embedding = embedding.detach().cpu().numpy()
+            embeddings.append(embedding)
     return embeddings

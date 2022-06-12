@@ -3,6 +3,8 @@ from typing import Dict, List
 import threading
 from math import sqrt
 import numpy as np
+import subprocess
+from subprocess import PIPE
 
 import torch
 from torch.utils.data import DataLoader
@@ -183,7 +185,8 @@ def seq2vec(
     device = None,
     toks_per_batch = 4096,
     multi_threading=False,
-    num_threads = 6
+    num_threads = 6,
+    save_path = None,
 ) -> np.ndarray:
     start_time = time.time()
     #print('----- Start converting sequences to vector -----')
@@ -213,7 +216,7 @@ def seq2vec(
         for i, emb in enumerate(repr):
             seqs[i]['embedding'] = emb.cpu().detach().numpy()
     elif convertType in ['prose_mt', 'prose_dlm']:
-        repr = prose_embedding([seq['data'] for seq in seqs], model, 'avg', toks_per_batch)
+        repr = prose_embedding(seqs, model, 'avg', toks_per_batch, save_path)
         assert len(repr) == len(seqs)
         for i, emb in enumerate(repr):
             seqs[i]['embedding'] = emb
@@ -260,11 +263,11 @@ def L2_norm(P1 : np.ndarray, P2 : np.ndarray) -> float:
 def Cosine(P1 : np.ndarray, P2 : np.ndarray) -> float:
     return 1 - np.dot(P1, P2) / (sqrt(np.dot(P1, P1))) / (sqrt(np.dot(P2, P2)))
 
-def distMatrix(Nodes : List[Dict], dist_type : str, model=None) -> np.ndarray:
+def distMatrix(Nodes : List[Dict], dist_type : str, model=None, save_path=None) -> np.ndarray:
     nodeNum = len(Nodes)
     if dist_type == 'SSA':
         assert model is not None
-        Matrix = SSA_score([Node['data'] for Node in Nodes], model)
+        Matrix = SSA_score(Nodes, model, save_path)
     else:
         Matrix = np.full((nodeNum, nodeNum), BIG_DIST)
         for i in range(nodeNum):
@@ -336,3 +339,12 @@ def parse_aux(aux_file) -> Dict:
             line = line.split()
             mapping[line[8]] = int(line[1].replace(':', ''))
     return mapping
+
+def runcmd(command):
+    bash_command = command.split()
+    ret = subprocess.run(bash_command, stdout=PIPE, stderr=PIPE)
+    if ret.returncode == 0:
+        return ret.stdout
+    else:
+        print("Error !!")
+        return ret.stderr
