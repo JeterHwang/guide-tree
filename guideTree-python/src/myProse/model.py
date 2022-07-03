@@ -3,6 +3,7 @@ from __future__ import print_function,division
 import torch
 import torch.nn as nn
 from torch.nn.utils.rnn import PackedSequence
+from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
 import os
 from src.prose.utils import get_project_root
@@ -20,7 +21,13 @@ class SkipLSTM(nn.Module):
         self.layers = nn.ModuleList()
         dim = nin
         for i in range(num_layers):
-            f = nn.LSTM(dim, hidden_dim, 1, batch_first=True, bidirectional=bidirectional)
+            f = nn.LSTM(
+                dim, 
+                hidden_dim, 
+                1, 
+                batch_first=True, 
+                bidirectional=bidirectional
+            )
             self.layers.append(f)
             if bidirectional:
                 dim = 2*hidden_dim
@@ -55,30 +62,13 @@ class SkipLSTM(nn.Module):
             one_hot.scatter_(2, x.unsqueeze(2), 1)
         return one_hot
 
-    def transform(self, x):
+    def forward(self, x, lengths):
         one_hot = self.to_one_hot(x)
-        hs =  [one_hot] # []
-        h_ = one_hot
+        x_packed = pack_padded_sequence(one_hot, lengths, batch_first=True, enforce_sorted=False)
+        
         for f in self.layers:
-            h,_ = f(h_)
-            hs.append(h)
-            h_ = h
-        if type(x) is PackedSequence:
-            h = torch.cat([z.data for z in hs], 1)
-            h = PackedSequence(h, x.batch_sizes)
-        else:
-            h = torch.cat([z for z in hs], 2)
-        return h
-
-    def forward(self, x):
-        one_hot = self.to_one_hot(x)
-        hs = [one_hot]
-        h_ = one_hot
-
-        for f in self.layers:
-            h,_ = f(h_)
-            hs.append(h)
-            h_ = h
+            output, (hidden, cell) = f(x_packed)
+            x_packed = output
 
         if type(x) is PackedSequence:
             h = torch.cat([z.data for z in hs], 1)

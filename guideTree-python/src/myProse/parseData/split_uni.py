@@ -8,19 +8,28 @@ from pathlib import Path
 def parse_args() -> Namespace:
     parser = ArgumentParser()
     parser.add_argument('--input', type=str, default='./astral-scopedom-seqres-gd-all-2.08-stable.fa')
-    parser.add_argument('--size', type=int, default=1000)
-    parser.add_argument('--output', type=str, default='./query.fa')
+    parser.add_argument('--query_size', type=int, default=10000)
+    parser.add_argument('--target_size', type=int, default=10000)
+    parser.add_argument('--query', type=Path, default='./query.fa')
+    parser.add_argument('--target', type=Path, default='./target.fa')
     args = parser.parse_args()
     return args
 
 def main(args):
-    start_time = time.time()
     all_records = list(SeqIO.parse(args.input, 'fasta'))
-    print(len(all_records))
     np.random.shuffle(all_records)
-    print(all_records[0])
-    print(f"Elapsed Time : {time.time() - start_time}s")
-
+    with open(args.query, 'w') as f1, open(args.target, 'w') as f2:
+        for i in range(args.query_size):
+            id = all_records[i].id
+            seq = all_records[i].seq
+            f1.write(">" + str(id) + "\n")
+            f1.write(str(seq) + "\n")
+        for i in range(args.query_size, args.query_size + args.target_size):
+            id = all_records[i].id
+            seq = all_records[i].seq
+            f2.write(">" + str(id) + "\n")
+            f2.write(str(seq) + "\n")
+    
 if __name__ == '__main__':
     args = parse_args()
     main(args)

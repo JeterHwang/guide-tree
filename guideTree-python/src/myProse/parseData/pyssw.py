@@ -6,6 +6,9 @@ By Yongan Zhao (March 2016)
 Revised by Mengyao Zhao on 2022-May-23
 """
 
+from pathlib import Path
+from tqdm import tqdm
+import json
 import sys
 import os.path as op
 import argparse as ap
@@ -191,6 +194,7 @@ def main(args):
     dRc = {} 
     dEle2Int = {}
     dInt2Ele = {}
+    dump_dict = []
     if False == args.bProtein:
 # init DNA score matrix
         if not args.sMatrix:
@@ -244,108 +248,109 @@ def main(args):
         args.bSam = False
 
     ssw = ssw_lib.CSsw(args.sLibPath)
+    with open(args.output, 'w') as f:
 # iterate query sequence
-    for sQId,sQSeq,sQQual in read(args.query):
+        for sQId,sQSeq,sQQual in tqdm(list(read(args.query))):
 # build query profile
-        qNum = to_int(sQSeq, lEle, dEle2Int)
-        qProfile = ssw.ssw_init(qNum, ct.c_int32(len(sQSeq)), mat, len(lEle), 2)
+            qNum = to_int(sQSeq, lEle, dEle2Int)
+            qProfile = ssw.ssw_init(qNum, ct.c_int32(len(sQSeq)), mat, len(lEle), 2)
 # build rc query profile
-        if args.bBest and not args.bProtein:
-            sQRcSeq = ''.join([dRc[x] for x in sQSeq[::-1]])
-            qRcNum = to_int(sQRcSeq, lEle, dEle2Int)
-            qRcProfile = ssw.ssw_init(qRcNum, ct.c_int32(len(sQSeq)), mat, len(lEle), 2)
+            if args.bBest and not args.bProtein:
+                sQRcSeq = ''.join([dRc[x] for x in sQSeq[::-1]])
+                qRcNum = to_int(sQRcSeq, lEle, dEle2Int)
+                qRcProfile = ssw.ssw_init(qRcNum, ct.c_int32(len(sQSeq)), mat, len(lEle), 2)
 # set mask len
-        nMaskLen = len(sQSeq) // 2
+            nMaskLen = len(sQSeq) // 2
         
 # iter target sequence
-        for sRId,sRSeq,_ in read(args.target):
-            rNum = to_int(sRSeq, lEle, dEle2Int)
+            for sRId,sRSeq,_ in read(args.target):
+                rNum = to_int(sRSeq, lEle, dEle2Int)
 # format of res: (nScore, nScore2, nRefBeg, nRefEnd, nQryBeg, nQryEnd, nRefEnd2, nCigarLen, lCigar)
-            res = align_one(ssw, qProfile, rNum, len(sRSeq), args.nOpen, args.nExt, nFlag, nMaskLen)
+                res = align_one(ssw, qProfile, rNum, len(sRSeq), args.nOpen, args.nExt, nFlag, nMaskLen)
 # align rc query
-            resRc = None
-            if args.bBest and not args.bProtein:
-                resRc = align_one(ssw, qRcProfile, rNum, len(sRSeq), args.nOpen, args.nExt, nFlag, nMaskLen)
+                resRc = None
+                if args.bBest and not args.bProtein:
+                    resRc = align_one(ssw, qRcProfile, rNum, len(sRSeq), args.nOpen, args.nExt, nFlag, nMaskLen)
 
 # build cigar and trace back path
-            strand = 0
-            if resRc == None or res[0] > resRc[0]:
-                resPrint = res
-                strand = 0
-                sCigar, sQ, sA, sR = buildPath(sQSeq, sRSeq, res[4], res[2], res[8])
-            else:
-                resPrint = resRc
-                strand = 1
-                sCigar, sQ, sA, sR = buildPath(sQRcSeq, sRSeq, resRc[4], resRc[2], resRc[8])
-
-# print results
-            if not args.bSam:
-                print('target_name: {}\nquery_name: {}\noptimal_alignment_score: {}\t'.format(sRId, sQId, resPrint[0])),
-                if resPrint[1] > 0:
-                    print('suboptimal_alignment_score: {}\t'.format(resPrint[1])),
-                if strand == 0:
-                    print('strand: +\t'),
-                else: 
-                    print('strand: -\t'),
-                if resPrint[2] + 1:
-                    print('target_begin: {}\t'.format(resPrint[2] + 1)),
-                print('target_end: {}\t'.format(resPrint[3] + 1)),
-                if resPrint[4] + 1:
-                    print('query_begin: {}\t'.format(resPrint[4] + 1)),
-                print('query_end: {}\n'.format(resPrint[5] + 1))
-                if resPrint[-2] > 0:
-                    n1 = 1 + resPrint[2]
-                    n2 = min(60,len(sR)) + resPrint[2] - sR.count('-',0,60)
-                    n3 = 1 + resPrint[4]
-                    n4 = min(60,len(sQ)) + resPrint[4] - sQ.count('-',0,60)
-                    for i in range(0, len(sQ), 60):
-                        print('Target:{:>8}\t{}\t{}'.format(n1, sR[i:i+60], n2))
-                        n1 = n2 + 1
-                        n2 = n2 + min(60,len(sR)-i-60) - sR.count('-',i+60,i+120)
-
-                        print('{: ^15}\t{}'.format('', sA[i:i+60]))
-
-                        print('Query:{:>9}\t{}\t{}\n'.format(n3, sQ[i:i+60], n4))
-                        n3 = n4 + 1
-                        n4 = n4 + min(60,len(sQ)-i-60) - sQ.count('-',i+60,i+120)
-            else:
-                print("{}\t".format(sQId)),
-                if resPrint[0] == 0:
-                    print("4\t*\t0\t255\t*\t*\t0\t0\t*\t*"),
+                # strand = 0
+                if resRc == None or res[0] > resRc[0]:
+                    resPrint = res
+                    # strand = 0
+                    # sCigar, sQ, sA, sR = buildPath(sQSeq, sRSeq, res[4], res[2], res[8])
                 else:
-                    mapq = int(-4.343 * math.log(1-abs(resPrint[0]-resPrint[1])/float(resPrint[0])))
-                    mapq = int(mapq + 4.99);
-                    if mapq >= 254:
-                        mapq = 254
-                    if strand == 1:
-                        print('16\t'),
-                    else:
-                        print('0\t'),
-                    print('{}\t{}\t{}\t'.format(sRId, resPrint[2]+1, mapq)),
-                    print(sCigar),
-                    print('\t*\t0\t0\t'),
-                    print(sQSeq[resPrint[4]:resPrint[5]+1]) if strand==0 else print(sQRcSeq[resPrint[4]:resPrint[5]+1]),
-                    print('\t'),
-                    if sQQual:
-                        if strand == 0:
-                            print(sQQual[resPrint[4]:resPrint[5]+1]),
-                        else:
-                            print(sQQual[-resPrint[4]-1:-resPrint[5]-1:-1])
-                    else:
-                        print('*'),
+                    resPrint = resRc
+                    # strand = 1
+                    # sCigar, sQ, sA, sR = buildPath(sQRcSeq, sRSeq, resRc[4], resRc[2], resRc[8])
+                f.write(json.dumps({'query' : sQId, 'target': sRId, 'score' : resPrint[0]}))
+                f.write('\n')
+# print results
+            # if not args.bSam:
+            #     print('target_name: {}\nquery_name: {}\noptimal_alignment_score: {}\t'.format(sRId, sQId, resPrint[0])),
+            #     if resPrint[1] > 0:
+            #         print('suboptimal_alignment_score: {}\t'.format(resPrint[1])),
+            #     if strand == 0:
+            #         print('strand: +\t'),
+            #     else: 
+            #         print('strand: -\t'),
+            #     if resPrint[2] + 1:
+            #         print('target_begin: {}\t'.format(resPrint[2] + 1)),
+            #     print('target_end: {}\t'.format(resPrint[3] + 1)),
+            #     if resPrint[4] + 1:
+            #         print('query_begin: {}\t'.format(resPrint[4] + 1)),
+            #     print('query_end: {}\n'.format(resPrint[5] + 1))
+            #     if resPrint[-2] > 0:
+            #         n1 = 1 + resPrint[2]
+            #         n2 = min(60,len(sR)) + resPrint[2] - sR.count('-',0,60)
+            #         n3 = 1 + resPrint[4]
+            #         n4 = min(60,len(sQ)) + resPrint[4] - sQ.count('-',0,60)
+            #         for i in range(0, len(sQ), 60):
+            #             print('Target:{:>8}\t{}\t{}'.format(n1, sR[i:i+60], n2))
+            #             n1 = n2 + 1
+            #             n2 = n2 + min(60,len(sR)-i-60) - sR.count('-',i+60,i+120)
 
-                    print('\tAS:i:{}'.format(resPrint[0])),
-                    print('\tNM:i:{}\t'.format(len(sA)-sA.count('|'))),
-                    if resPrint[1] > 0:
-                        print('ZS:i:{}'.format(resPrint[1]))
-                    else:
-                        print
+            #             print('{: ^15}\t{}'.format('', sA[i:i+60]))
+
+            #             print('Query:{:>9}\t{}\t{}\n'.format(n3, sQ[i:i+60], n4))
+            #             n3 = n4 + 1
+            #             n4 = n4 + min(60,len(sQ)-i-60) - sQ.count('-',i+60,i+120)
+            # else:
+            #     print("{}\t".format(sQId)),
+            #     if resPrint[0] == 0:
+            #         print("4\t*\t0\t255\t*\t*\t0\t0\t*\t*"),
+            #     else:
+            #         mapq = int(-4.343 * math.log(1-abs(resPrint[0]-resPrint[1])/float(resPrint[0])))
+            #         mapq = int(mapq + 4.99);
+            #         if mapq >= 254:
+            #             mapq = 254
+            #         if strand == 1:
+            #             print('16\t'),
+            #         else:
+            #             print('0\t'),
+            #         print('{}\t{}\t{}\t'.format(sRId, resPrint[2]+1, mapq)),
+            #         print(sCigar),
+            #         print('\t*\t0\t0\t'),
+            #         print(sQSeq[resPrint[4]:resPrint[5]+1]) if strand==0 else print(sQRcSeq[resPrint[4]:resPrint[5]+1]),
+            #         print('\t'),
+            #         if sQQual:
+            #             if strand == 0:
+            #                 print(sQQual[resPrint[4]:resPrint[5]+1]),
+            #             else:
+            #                 print(sQQual[-resPrint[4]-1:-resPrint[5]-1:-1])
+            #         else:
+            #             print('*'),
+
+            #         print('\tAS:i:{}'.format(resPrint[0])),
+            #         print('\tNM:i:{}\t'.format(len(sA)-sA.count('|'))),
+            #         if resPrint[1] > 0:
+            #             print('ZS:i:{}'.format(resPrint[1]))
+            #         else:
+            #             print
 
 
         ssw.init_destroy(qProfile)
         if args.bBest and not args.bProtein:
             ssw.init_destroy(qRcProfile)
-
 
 if __name__ == '__main__':
 
@@ -364,6 +369,7 @@ if __name__ == '__main__':
     parser.add_argument('-header', '--bHeader', action='store_true', help='If -s is used, include header in SAM output.')
     parser.add_argument('target', help='target file')
     parser.add_argument('query', help='query file')
+    parser.add_argument('--output', type=Path, default='train.json')
     if len(sys.argv) == 1:
         parser.print_help()
         sys.exit()
