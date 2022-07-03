@@ -3,7 +3,7 @@ from __future__ import print_function,division
 import torch
 import torch.nn as nn
 from torch.nn.utils.rnn import PackedSequence
-from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
+from torch.nn.utils.rnn import pack_padded_sequence
 
 import os
 from src.prose.utils import get_project_root
@@ -62,21 +62,20 @@ class SkipLSTM(nn.Module):
             one_hot.scatter_(2, x.unsqueeze(2), 1)
         return one_hot
 
-    def forward(self, x, lengths):
-        one_hot = self.to_one_hot(x)
-        x_packed = pack_padded_sequence(one_hot, lengths, batch_first=True, enforce_sorted=False)
-        
+    def forward(self, x1, x2, len1, len2):
+        one_hot1 = self.to_one_hot(x1)
+        one_hot2 = self.to_one_hot(x2)
+        x1_packed = pack_padded_sequence(one_hot1, len1, batch_first=True, enforce_sorted=False)
+        x2_packed = pack_padded_sequence(one_hot2, len2, batch_first=True, enforce_sorted=False)
+
         for f in self.layers:
-            output, (hidden, cell) = f(x_packed)
-            x_packed = output
+            output, (hidden, cell) = f(x1_packed)
+            x1_packed = output
+        emb1 = hidden
 
-        if type(x) is PackedSequence:
-            h = torch.cat([z.data for z in hs], 1)
-            z = self.proj(h)
-            z = PackedSequence(z, x.batch_sizes)
-        else:
-            h = torch.cat([z for z in hs], 2)
-            z = self.proj(h.view(-1,h.size(2)))
-            z = z.view(x.size(0), x.size(1), -1)
+        for f in self.layers:
+            output, (hidden, cell) = f(x2_packed)
+            x2_packed = output
+        emb2 = hidden
 
-        return z
+        return torch.cat((emb1, emb2, torch.abs(emb1 - emb2)), 1)
