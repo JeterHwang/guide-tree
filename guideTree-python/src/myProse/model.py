@@ -1,13 +1,9 @@
-from __future__ import print_function,division
-
 import torch
 import torch.nn as nn
 from torch.nn.utils.rnn import PackedSequence
 from torch.nn.utils.rnn import pack_padded_sequence
 
 import os
-from src.prose.utils import get_project_root
-
 
 class SkipLSTM(nn.Module):
     def __init__(self, nin, nout, hidden_dim, num_layers, dropout=0, bidirectional=True):
@@ -34,21 +30,18 @@ class SkipLSTM(nn.Module):
             else:
                 dim = hidden_dim
 
-        n = hidden_dim*num_layers + nin
+        n = hidden_dim*num_layers
         if bidirectional:
-            n = 2*hidden_dim*num_layers + nin
+            n = 2*hidden_dim*num_layers
 
-        self.proj = nn.Linear(n, nout)
+        self.linear = nn.Linear(n, nout)
+        self.similarity = nn.CosineSimilarity(dim=1, eps=1e-6)
 
     @staticmethod
     def load_pretrained(path='prose_dlm'):
-        if path is None or path == 'prose_dlm':
-            root = get_project_root()
-            path = os.path.join(root, 'saved_models', 'prose_dlm_3x1024.sav')
-
-        model = SkipLSTM(21, 21, 1024, 3)
+        model = SkipLSTM(21, 768, 1024, 3)
         state_dict = torch.load(path, map_location=torch.device('cpu'))
-        model.load_state_dict(state_dict)
+        model.load_state_dict(state_dict, strict=False)
         return model
 
     def to_one_hot(self, x):
@@ -62,20 +55,30 @@ class SkipLSTM(nn.Module):
             one_hot.scatter_(2, x.unsqueeze(2), 1)
         return one_hot
 
-    def forward(self, x1, x2, len1, len2):
+    def forward(self, x1, len1, x2, len2):
         one_hot1 = self.to_one_hot(x1)
         one_hot2 = self.to_one_hot(x2)
         x1_packed = pack_padded_sequence(one_hot1, len1, batch_first=True, enforce_sorted=False)
         x2_packed = pack_padded_sequence(one_hot2, len2, batch_first=True, enforce_sorted=False)
 
+        hs1 = []
         for f in self.layers:
             output, (hidden, cell) = f(x1_packed)
+            hs1 += [hidden[-1], hidden[-2]]
             x1_packed = output
-        emb1 = hidden
+        emb1 = torch.cat(hs1, dim=1)
+        emb1 = self.linear(emb1)
+        unsorted_indices1 = x1_packed.unsorted_indices
+        emb1 = emb1.index_select(0, unsorted_indices1)
 
+        hs2 = []
         for f in self.layers:
             output, (hidden, cell) = f(x2_packed)
+            hs2 += [hidden[-1], hidden[-2]]
             x2_packed = output
-        emb2 = hidden
+        emb2 = torch.cat(hs2, dim=1)
+        emb2 = self.linear(emb2)
+        unsorted_indices2 = x2_packed.unsorted_indices
+        emb2 = emb2.index_select(0, unsorted_indices2)
 
-        return torch.cat((emb1, emb2, torch.abs(emb1 - emb2)), 1)
+        return 1 + self.similarity(emb1, emb2)

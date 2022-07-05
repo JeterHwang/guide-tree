@@ -7,30 +7,30 @@ class SCOPePairsDataset:
     def __init__(
         self, 
         seq_path,
-        pair_path, 
         split,
         alphabet=Uniprot21()
     ):
         print('# loading SCOP sequence pairs:')
-        seqs, pairs = read_data(seq_path, pair_path)
         self.split = split
-        self.seqs = [torch.from_numpy(alphabet.encode(x.encode('utf-8').upper())) for x in seqs]
-        self.pairs = [(pair['A'], pair['B'], torch.tensor(pair['score'])) for pair in pairs]
+        self.seqs = read_data(seq_path)
+        self.seqA = [torch.from_numpy(alphabet.encode(seq['A'].encode('utf-8').upper())) for seq in self.seqs]
+        self.seqB = [torch.from_numpy(alphabet.encode(seq['B'].encode('utf-8').upper())) for seq in self.seqs]
+        self.similarity = [torch.tensor(seq['score']) for seq in self.seqs]
         self.alphabet = alphabet
-        print('# loaded', len(self.x0), 'sequence pairs')
+        print('# loaded', len(self.seqs), 'sequence pairs')
 
     def __len__(self):
-        return len(self.pairs)
+        return len(self.seqs)
 
     def __getitem__(self, idx):
-        return self.seqs[self.pairs[idx][0]].long(), self.seqs[self.pairs[idx][1]].long(), self.pairs[idx][2].long()
+        return self.seqA[idx].long(), self.seqB[idx].long(), self.similarity[idx]
     
     def collade_fn(self, samples):
-        seqA, seqB, score = samples[0], samples[1], samples[2], samples[3]
-        seqA.sort(key=lambda x: len(x), reverse=True)
-        seqB.sort(key=lambda x: len(x), reverse=True)
+        seqA = [sample[0] for sample in samples] 
+        seqB = [sample[1] for sample in samples] 
+        score = [sample[2] for sample in samples] 
         lenA = [len(x) for x in seqA]
         lenB = [len(x) for x in seqB]
-        seqA = pad_sequence(seqA, batch_first=True, padding_value=len(self.alphabet))
-        seqB = pad_sequence(seqB, batch_first=True, padding_value=len(self.alphabet))
-        return seqA, lenA, seqB, lenB, score
+        seqA = pad_sequence(seqA, batch_first=True, padding_value=len(self.alphabet)-1)
+        seqB = pad_sequence(seqB, batch_first=True, padding_value=len(self.alphabet)-1)
+        return seqA, lenA, seqB, lenB, torch.tensor(score)

@@ -4,14 +4,11 @@ from tqdm import tqdm
 from pathlib import Path
 from Bio import SeqIO
 
-def read_data(seq_path : Path, pair_path : Path):
-    seqs = []
-    for i, record in enumerate(SeqIO.parse(seq_path, 'fasta')):
-        seqs.append(str(record.seq))
+def read_data(seq_path : Path):
     pairs = []
-    with open(pair_path, 'r') as f:
-        for line in tqdm(f, desc=f"Reading {pair_path.name}"):
+    with open(seq_path, 'r') as f:
+        for line in tqdm(f, desc=f"Reading {seq_path.name}"):
             line = json.loads(line)
             pairs.append(line)
-    return seqs, pairs
+    return pairs
 
