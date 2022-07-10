@@ -29,8 +29,7 @@ class SCOPePairsDataset:
         seqA = [sample[0] for sample in samples] 
         seqB = [sample[1] for sample in samples] 
         score = [sample[2] for sample in samples] 
-        lenA = [len(x) for x in seqA]
-        lenB = [len(x) for x in seqB]
-        seqA = pad_sequence(seqA, batch_first=True, padding_value=len(self.alphabet)-1)
-        seqB = pad_sequence(seqB, batch_first=True, padding_value=len(self.alphabet)-1)
-        return seqA, lenA, seqB, lenB, torch.tensor(score)
+        seqs = seqA + seqB
+        lens = [len(x) for x in seqs]
+        seqs = pad_sequence(seqs, batch_first=True, padding_value=0)
+        return seqs, lens, 10 * torch.tensor(score)
