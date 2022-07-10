@@ -46,7 +46,11 @@ class SkipLSTM(nn.Module):
         if bidirectional:
             n = 2*hidden_dim*num_layers
 
-        self.linear = nn.Linear(n, nout)
+        self.linear = nn.Sequential(OrderedDict([
+          ('linear1', nn.Linear(n, 256)),
+          ('relu', nn.ReLU()),
+          ('linear2', nn.Linear(256, nout)),
+        ]))
         self.similarity = nn.CosineSimilarity(dim=1, eps=1e-6)
 
     @staticmethod
