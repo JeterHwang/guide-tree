@@ -13,6 +13,8 @@ from src.threading import Worker
 
 from src.dataset import esmDataset
 from src.embed_sequences import prose_embedding, SSA_score
+from src.myProse import LSTMDataset
+
 BIG_DIST = 1e29
 AMINO_ACID = 25
 AMINO_ACID_CODE = {
@@ -215,8 +217,13 @@ def seq2vec(
         assert len(repr) == len(seqs)
         for i, emb in enumerate(repr):
             seqs[i]['embedding'] = emb.cpu().detach().numpy()
-    elif convertType in ['prose_mt', 'prose_dlm']:
+    elif convertType == 'prose_mt':
         repr = prose_embedding(seqs, model, 'avg', toks_per_batch, save_path)
+        assert len(repr) == len(seqs)
+        for i, emb in enumerate(repr):
+            seqs[i]['embedding'] = emb
+    elif convertType == 'prose_dlm':
+        repr = SkipLSTM_embedding([seq['data'] for seq in seqs], model, toks_per_batch)
         assert len(repr) == len(seqs)
         for i, emb in enumerate(repr):
             seqs[i]['embedding'] = emb
@@ -268,6 +275,8 @@ def distMatrix(Nodes : List[Dict], dist_type : str, model=None, save_path=None) 
     if dist_type == 'SSA':
         assert model is not None
         Matrix = SSA_score(Nodes, model, save_path)
+    elif dist_type == 'L1_exp':
+        Matrix = L1_exp_distance(torch.cat([node['embedding'] for node in Nodes], dim=0))
     else:
         Matrix = np.full((nodeNum, nodeNum), BIG_DIST)
         for i in range(nodeNum):
@@ -348,3 +357,31 @@ def runcmd(command):
     else:
         print("Error !!")
         return ret.stderr
+
+def SkipLSTM_embedding(seqData, model, toks_per_batch=4096):
+    dataset = LSTMDataset(seqData)
+    dataloader = torch.utils.data.Dataloader(
+        dataset,
+        batch_sampler=dataset.batch_sampler(toks_per_batch),
+        collate_fn=dataset.collate_fn,
+        pin_memory=True
+    )
+    embeddings = []
+    with torch.no_grad():
+        for i, (seqs, lens) in enumerate(dataloader):
+            seqs = seqs.cuda()
+            emb = model(seqs, lens)
+            embeddings.append(emb)
+    
+    return torch.cat(embeddings, dim=0)
+
+def L1_exp_distance(x, chunk_size=40000):
+    x = x.cuda()
+    if x.size(1) > 10000:
+        x_chunk_size = chunk_size // x.size(0) + 1
+        L1_dis = torch.zeros(x.size(0), x.size(0), device=x.device)
+        for i in range(0, x.size(0), x_chunk_size):
+            L1_dis[i : i + x_chunk_size, :] = torch.exp(-torch.sum(torch.abs(x[i : i + x_chunk_size, :].unsqueeze(1) - x), -1))
+        return 1 - L1_dis
+    else:
+        return 1 - torch.exp(-torch.sum(torch.abs(x.unsqueeze(1)-x), -1))

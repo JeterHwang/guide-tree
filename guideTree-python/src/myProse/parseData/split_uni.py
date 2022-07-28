@@ -19,7 +19,7 @@ def parse_args() -> Namespace:
     parser = ArgumentParser()
     parser.add_argument('--input_dir', type=Path, default='./uniprotKB')
     parser.add_argument('--output_dir', type=Path, default='./uniprotKB_slicing')
-    parser.add_argument('--lengths', type=list, default=[200,400,600])
+    parser.add_argument('--lengths', type=list, default=[100,200,300,400,500,600])
     args = parser.parse_args()
     return args
 

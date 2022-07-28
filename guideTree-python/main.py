@@ -12,7 +12,7 @@ from src.kmeans import BisectingKmeans
 from src.utils import parse_aux, parseFile, runcmd
 from src.esm_github import pretrained
 from src.prose.models.multitask import ProSEMT
-from src.prose.models.lstm import SkipLSTM
+from src.myProse import SkipLSTM
 
 def same_seed(seed):
     # Set seed for reproduciability
@@ -64,13 +64,21 @@ def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, 
             for clusterID, cluster in enumerate(clusters):
                 subtree = UPGMA(cluster, 'AVG', 'K-tuple', 'clustal')
                 preCluster.appendTree(subtree, clusterID)
-    elif embedding in ['prose_mt', 'prose_dlm']:
+    elif embedding == 'prose_mt':
         if len(centers) < 2:
             preCluster = UPGMA(clusters[0], 'AVG', 'SSA', 'LCP', model, save_path)
         else:
-            preCluster = UPGMA(centers ,'AVG', 'L2_norm', 'LCP')
+            preCluster = UPGMA(centers, 'AVG', 'L2_norm', 'LCP')
             for clusterID, cluster in enumerate(clusters):
                 subtree = UPGMA(cluster, 'AVG', 'SSA', 'LCP', model, save_path)
+                preCluster.appendTree(subtree, clusterID)
+    elif embedding == 'prose_dlm':
+        if len(centers) < 2:
+            preCluster = UPGMA(clusters[0], 'AVG', 'L1_exp', 'LCP')
+        else:
+            preCluster = UPGMA(centers, 'AVG', 'L2_norm', 'LCP')
+            for clusterID, cluster in enumerate(clusters):
+                subtree = UPGMA(cluster, 'AVG', 'L1_exp', 'LCP')
                 preCluster.appendTree(subtree, clusterID)
     else:
         raise NotImplementedError
@@ -79,7 +87,7 @@ def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, 
 
 def main(args):
     same_seed(args.seed)    
-    device = torch.device('cuda:0')
+    device = torch.device('cuda:1')
     
     args.outputFolder.mkdir(parents=True, exist_ok=True)
     args.numpy_ckpt.mkdir(parents=True, exist_ok=True)
@@ -88,7 +96,7 @@ def main(args):
     if args.embedding == 'prose_mt':
         model = ProSEMT.load_pretrained(args.ckpt_path)
     elif args.embedding == 'prose_dlm':
-        model = SkipLSTM.load_pretrained(args.ckpt_path)
+        model = SkipLSTM.load_pretrained(args.ckpt_path).cuda()
     elif args.embedding == 'esm1_43M':
         model = pretrained.esm1_t6_43M_UR50S(args.ckpt_path) # model, alphabet
     elif args.embedding == 'esm1b_650M':

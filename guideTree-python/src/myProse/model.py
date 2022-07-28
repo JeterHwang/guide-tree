@@ -18,50 +18,66 @@ class L1(nn.Module):
             return -torch.sum(torch.abs(x.unsqueeze(1)-y), -1)
 
 class SkipLSTM(nn.Module):
-    def __init__(self, nin, nout, hidden_dim, num_layers, dropout=0, bidirectional=True, compare=L1()):
+    def __init__(self, nin, nout, hidden_dim, num_layers, dropout=0.2, bidirectional=True, compare=L1()):
         super(SkipLSTM, self).__init__()
 
         self.nin = nin
         self.nout = nout
 
-        self.dropout = nn.Dropout(p=dropout)
+        self.dropout = nn.ModuleList([nn.Dropout(p=dropout) for _ in range(num_layers - 1)])
+
         self.compare = compare
         self.layers = nn.ModuleList()
         dim = nin
-        for i in range(num_layers):
-            f = nn.LSTM(
-                dim, 
-                hidden_dim, 
-                1, 
-                batch_first=True, 
-                bidirectional=bidirectional
-            )
-            self.layers.append(f)
-            if bidirectional:
-                dim = 2*hidden_dim
-            else:
-                dim = hidden_dim
+        self.lstm = nn.LSTM(
+            nin,
+            hidden_dim,
+            num_layers,
+            batch_first=True,
+            dropout=dropout,
+            bidirectional=True
+        )
+        # for i in range(num_layers):
+        #     f = nn.LSTM(
+        #         dim, 
+        #         hidden_dim, 
+        #         1, 
+        #         batch_first=True, 
+        #         bidirectional=bidirectional
+        #     )
+        #     self.layers.append(f)
+        #     if bidirectional:
+        #         dim = 2*hidden_dim
+        #     else:
+        #         dim = hidden_dim
 
-        n = hidden_dim*num_layers
-        if bidirectional:
-            n = 2*hidden_dim*num_layers
+        # n = hidden_dim*num_layers
+        # if bidirectional:
+        #     n = 2*hidden_dim * 2
 
-        self.linear = nn.Sequential(OrderedDict([
-          ('linear1', nn.Linear(n, 256)),
-          ('relu', nn.ReLU()),
-          ('linear2', nn.Linear(256, nout)),
+        self.classifier = nn.Linear(2 * hidden_dim * 2, 10)
+        self.projector = nn.Sequential(OrderedDict([
+            ("linear1", nn.Linear(2 * hidden_dim, nout)),
+            # ("relu", nn.ReLU()),
+            # ("linear2", nn.Linear(256, nout))
         ]))
         self.similarity = nn.CosineSimilarity(dim=1, eps=1e-6)
 
     @staticmethod
     def load_pretrained(path='prose_dlm'):
-        model = SkipLSTM(21, 50, 1024, 3)
-        model_dict = model.state_dict()
+        model = SkipLSTM(21, 64, 1024, 3)
+        model_dict = model.state_dict()        
         new_dict = {}
         state_dict = torch.load(path, map_location=torch.device('cpu'))
         for key, value in state_dict.items():
             if 'embedding.' in key:
                key = key.replace('embedding.', '')
+            if 'layers' in key:
+                layer_id = key.split('.')[1]
+                postfix = key.split('.')[2].split('_')
+                postfix[2] = postfix[2][0] + layer_id
+                postfix_revised = '_'.join(postfix)
+                key = f"lstm.{postfix_revised}"
             if key in model_dict:
                 new_dict[key] = value
             
@@ -81,33 +97,42 @@ class SkipLSTM(nn.Module):
         return one_hot
 
     def forward(self, x, length):
-        batch_size = x.size()[0] // 2
         one_hot = self.to_one_hot(x)
         x_packed = pack_padded_sequence(one_hot, length, batch_first=True, enforce_sorted=False)
         
-        hs = []
-        for f in self.layers:
-            output, (hidden, cell) = f(x_packed)
-            output_unpacked, output_length = pad_packed_sequence(output, batch_first=True)
-            hs.append(output_unpacked)
-            x_packed = output
-        emb = torch.mean(torch.cat(hs, dim=2), dim=1)
-        emb = self.linear(emb)
+        output, (hidden, cell) = self.lstm(x_packed)
+        output_unpacked, output_length = pad_packed_sequence(output, batch_first=True)
+        hs = output_unpacked
 
-        return 10 * (1 + self.similarity(emb[:batch_size], emb[batch_size:]))
+        # emb1 = torch.mean(hs1, dim=1)
+        # emb1 = torch.cat([emb1[:batch_size], emb1[batch_size:]], dim=1)
+        # emb1 = self.classifier(emb1)
+        # logits1 = emb1
+
+        emb = torch.mean(hs, dim=1)
+        emb = self.projector(emb)
+        return emb
+
+    def score(self, x, length):
+        batch_size = x.size()[0] // 2
+        emb = self.forward(x, length) 
+        logits = torch.exp(-torch.sum(torch.abs(emb[:batch_size] - emb[batch_size:]), dim=1))
+        return 1 - logits
 
     def SSA_score(self, x, length):
         batch_size = x.size()[0] // 2
         one_hot = self.to_one_hot(x)
         x_packed = pack_padded_sequence(one_hot, length, batch_first=True, enforce_sorted=False)
         
-        hs = []
-        for f in self.layers:
-            output, (hidden, cell) = f(x_packed)
-            output_unpacked, output_length = pad_packed_sequence(output, batch_first=True)
-            hs.append(output_unpacked)
-            x_packed = output
-        emb = torch.cat(hs, dim=2)
+        # hs = []
+        # for f in self.layers:
+        #     output, (hidden, cell) = f(x_packed)
+        #     output_unpacked, output_length = pad_packed_sequence(output, batch_first=True)
+        #     hs.append(output_unpacked)
+        #     x_packed = output
+        output, (hidden, cell) = self.lstm(x_packed)
+        output_unpacked, output_length = pad_packed_sequence(output, batch_first=True)
+        emb = output_unpacked
         
         logits = []
         for i in range(batch_size):
