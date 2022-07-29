@@ -31,6 +31,8 @@ def main(args):
                     matches.append(list(tree_dir.glob(f"*{name}_esm.dnd"))[0])
                 elif tree_type == 'esm-650M':
                     matches.append(list(tree_dir.glob(f"*{name}_esm.dnd"))[0])
+                elif tree_type == 'prose_dlm':
+                    matches.append(list(tree_dir.glob(f"*{name}_prose_dlm.dnd"))[0])
                 elif tree_type == 'prose_mt_100':
                     matches.append(list(tree_dir.glob(f"*{name}_prose_mt.dnd"))[0])
                 elif tree_type == 'prose_mt_6K':

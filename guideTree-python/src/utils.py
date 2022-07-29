@@ -5,10 +5,11 @@ from math import sqrt
 import numpy as np
 import subprocess
 from subprocess import PIPE
+from sklearn.utils import shuffle
 
 import torch
 from torch.utils.data import DataLoader
-
+from tqdm import tqdm
 from src.threading import Worker
 
 from src.dataset import esmDataset
@@ -276,7 +277,7 @@ def distMatrix(Nodes : List[Dict], dist_type : str, model=None, save_path=None) 
         assert model is not None
         Matrix = SSA_score(Nodes, model, save_path)
     elif dist_type == 'L1_exp':
-        Matrix = L1_exp_distance(torch.cat([node['embedding'] for node in Nodes], dim=0))
+        Matrix = L1_exp_distance(torch.stack([node['embedding'] for node in Nodes], dim=0))
     else:
         Matrix = np.full((nodeNum, nodeNum), BIG_DIST)
         for i in range(nodeNum):
@@ -360,15 +361,16 @@ def runcmd(command):
 
 def SkipLSTM_embedding(seqData, model, toks_per_batch=4096):
     dataset = LSTMDataset(seqData)
-    dataloader = torch.utils.data.Dataloader(
+    dataloader = torch.utils.data.DataLoader(
         dataset,
-        batch_sampler=dataset.batch_sampler(toks_per_batch),
+        batch_size=256,
         collate_fn=dataset.collate_fn,
+        shuffle=False,
         pin_memory=True
     )
     embeddings = []
     with torch.no_grad():
-        for i, (seqs, lens) in enumerate(dataloader):
+        for i, (seqs, lens) in enumerate(tqdm(dataloader, desc='Embedding Protein Sequences:')):
             seqs = seqs.cuda()
             emb = model(seqs, lens)
             embeddings.append(emb)
@@ -382,6 +384,10 @@ def L1_exp_distance(x, chunk_size=40000):
         L1_dis = torch.zeros(x.size(0), x.size(0), device=x.device)
         for i in range(0, x.size(0), x_chunk_size):
             L1_dis[i : i + x_chunk_size, :] = torch.exp(-torch.sum(torch.abs(x[i : i + x_chunk_size, :].unsqueeze(1) - x), -1))
-        return 1 - L1_dis
+        L1_dis = 1 - L1_dis
+        L1_dis.fill_diagonal_(100)
+        return L1_dis.cpu().detach().numpy()
     else:
-        return 1 - torch.exp(-torch.sum(torch.abs(x.unsqueeze(1)-x), -1))
+        L1_dis = 1 - torch.exp(-torch.sum(torch.abs(x.unsqueeze(1)-x), -1))
+        L1_dis.fill_diagonal_(100)
+        return L1_dis.cpu().detach().numpy()

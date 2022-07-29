@@ -96,7 +96,7 @@ def main(args):
     if args.embedding == 'prose_mt':
         model = ProSEMT.load_pretrained(args.ckpt_path)
     elif args.embedding == 'prose_dlm':
-        model = SkipLSTM.load_pretrained(args.ckpt_path).cuda()
+        model = SkipLSTM.from_pretrained(args.ckpt_path).cuda()
     elif args.embedding == 'esm1_43M':
         model = pretrained.esm1_t6_43M_UR50S(args.ckpt_path) # model, alphabet
     elif args.embedding == 'esm1b_650M':
@@ -107,7 +107,7 @@ def main(args):
     for i, fastaFile in enumerate(list(args.inputFolder.glob('**/*.tfa'))):
         print(f"Now processing file ({i + 1}/{len(list(args.inputFolder.glob('**/*.tfa')))}) : {fastaFile.name}")
         cluster_one_file(fastaFile, args.outputFolder / f"{fastaFile.stem}_{args.embedding}.dnd", args.embedding, model, args.max_cluster_size, device, args.toks_per_batch, args.pytorch_ckpt)
-        runcmd(f"rm {args.pytorch_ckpt.absolute().resolve()}/*")
+        # print(runcmd(f"rm {args.pytorch_ckpt.absolute().resolve()}/*"))
 
 def parse_args() -> Namespace:
     parser = ArgumentParser()
@@ -150,9 +150,9 @@ def parse_args() -> Namespace:
     parser.add_argument("--seed", type=int, default=2)
     parser.add_argument("--gpus", type=str, default="1")
     parser.add_argument("--embedding", type=str, default='prose_mt', choices=['mBed', 'esm', 'prose_mt', 'prose_dlm'])
-    parser.add_argument("--max_cluster_size", type=int, default=1000)
+    parser.add_argument("--max_cluster_size", type=int, default=1000000)
     parser.add_argument("--toks_per_batch", type=int, default=4096)
-    parser.add_argument("--UPGMA_type", type=str, choices=['LCP', 'clustal'], default='clustal')
+    parser.add_argument("--UPGMA_type", type=str, choices=['LCP', 'clustal'], default='LCP')
     args = parser.parse_args()
     return args
 

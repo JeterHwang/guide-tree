@@ -85,6 +85,13 @@ class SkipLSTM(nn.Module):
         model.load_state_dict(model_dict)
         return model
 
+    @staticmethod
+    def from_pretrained(path='prose_dlm'):
+        model = SkipLSTM(21, 64, 1024, 3)
+        state_dict = torch.load(path, map_location=torch.device('cpu'))['model_state_dict']
+        model.load_state_dict(state_dict)
+        return model
+
     def to_one_hot(self, x):
         packed = type(x) is PackedSequence
         if packed:

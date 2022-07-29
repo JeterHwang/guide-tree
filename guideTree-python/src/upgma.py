@@ -195,8 +195,44 @@ class UPGMA:
                 self.distmat[i][Rmin] = BIG_DIST
     
     def writeTree(self, file):
+        visited = np.zeros(len(self.Tree))
+        # num_vis = 0
+        root = self.Tree[self.rootID]
         with open(file, 'w') as f:
-            self.DFS_output(self.Tree[self.rootID], f, -1)
+            # self.DFS_output(self.Tree[self.rootID], f, -1)
+            while True:
+                if visited[root.ID] == 0:
+                    visited[root.ID] = 1
+                    # num_vis += 1
+                if root.isLeaf:
+                    parent = self.Tree[root.parent]
+                    if parent.left == root.ID:
+                        f.write(f"{root.getName()}:{parent.leftLength}\n")
+                    elif parent.right == root.ID:
+                        f.write(f"{root.getName()}:{parent.rightLength}\n")
+                    else:
+                        print("ERR !!")
+                    root = parent
+                elif visited[root.left] == 0:
+                    f.write('(\n')
+                    root = self.Tree[root.left]
+                elif visited[root.right] == 0:
+                    f.write(',\n')
+                    root = self.Tree[root.right]
+                else:
+                    if root.parent == None: # root
+                        f.write(f")\n")
+                        # print(num_vis, len(self.Tree))
+                        break
+                    else:
+                        parent = self.Tree[root.parent]
+                        if parent.left == root.ID:
+                            f.write(f"):{parent.leftLength}\n")
+                        elif parent.right == root.ID:
+                            f.write(f"):{parent.rightLength}\n")
+                        else:
+                            print("ERR !!")
+                        root = parent
             f.write(';')
     
     def DFS_output(self, root : TreeNode, f, length):

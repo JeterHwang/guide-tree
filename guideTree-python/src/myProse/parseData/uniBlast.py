@@ -17,7 +17,7 @@ def runcmd(command):
     if ret.returncode == 0:
         return ret.stdout
     else:
-        print("Error !!")
+        print("Error!!")
         return ret.stderr
 
 def parse_seqs(file_path, level):
@@ -40,19 +40,19 @@ def parse_seqs(file_path, level):
                 sSeq += line.strip()
     return dictionary
 
-def get_similarity(idA, seqA, idB, seqB):
+def get_distance(idA, seqA, idB, seqB):
     with open('tmp.fa', 'w') as f:
         f.write(f'>{idA}\n')
         f.write(seqA + '\n')
         f.write(f'>{idB}\n')
         f.write(seqB + '\n')
-    runcmd("mafft --localpair --distout --quiet tmp.fa")
+    runcmd("mafft --globalpair --distout --quiet tmp.fa")
     with open('tmp.fa.hat2', 'r') as f:
         for i in range(5):
             line = f.readline()
         line = f.readline().strip().replace('\n', '')
         distance = float(line)
-    return round(5 * max(2 - distance, 0), 3)
+    return round(0.5 * distance, 3)
         
 def parse_args() -> Namespace:
     parser = ArgumentParser()
@@ -60,7 +60,7 @@ def parse_args() -> Namespace:
     parser.add_argument('--seed', type=int, default=42)
     parser.add_argument('--input', type=Path, default='../astral/astral-scopedom-seqres-gd-sel-gs-sc-fa-2.08.fa')
     parser.add_argument('--output_dir', type=Path, default='./')
-    parser.add_argument('--db_path', type=str, default='./swissprot/swissprot')
+    parser.add_argument('--db_path', type=str, default='../uniprotKB/uniprotKB')
     args = parser.parse_args()
     return args
 
@@ -73,7 +73,7 @@ def main(args):
         # total_seqs = random.sample(seqsFromFile, args.size)
         total_seqs = seqsFromFile
         print(len(total_seqs))
-        train_size = int(args.size * 0.9)
+        train_size = len(total_seqs)
         
         mapping, data_size = {}, 0
         for split in ['train', 'eval']:
@@ -107,6 +107,7 @@ def main(args):
                     for entry in known_entry:
                         if len(mapping[entry]) > 2000:
                             continue
+                        # distance = get_distance('A', seq, 'B', mapping[entry])
                         fout.write(json.dumps({'A' : seq, 'B' : mapping[entry], 'score' : scores[entry]}))
                         fout.write("\n")
                     ## Call blastdbcmd to query unknown entries
@@ -116,6 +117,7 @@ def main(args):
                         mapping[str(hit_seq.id)] = str(hit_seq.seq)
                         if len(str(hit_seq.seq)) > 2000:
                             continue
+                        # distance = get_distance('A', seq, 'B', str(hit_seq.id))
                         fout.write(json.dumps({'A' : seq, 'B' : str(hit_seq.seq), 'score' : scores[str(hit_seq.id)]}))
                         fout.write("\n")
                     t.set_postfix({

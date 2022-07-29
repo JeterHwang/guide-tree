@@ -21,7 +21,7 @@ class SCOPePairsDataset:
         elif 'astral' in seq_path.name:
             self.data_source = 'astral'
         else:
-            raise NotImplementedError
+            self.data_source = None
         self.seqs = read_data(seq_path / f"{self.split}.json")
         self.seqA = [torch.from_numpy(alphabet.encode(seq['A'].encode('utf-8').upper())) for seq in self.seqs]
         self.seqB = [torch.from_numpy(alphabet.encode(seq['B'].encode('utf-8').upper())) for seq in self.seqs]
