@@ -17,7 +17,8 @@ def runcmd(command):
     if ret.returncode == 0:
         return ret.stdout
     else:
-        print("Error!!")
+        print(command)
+        print(ret.stderr)
         return ret.stderr
 
 def parse_seqs(file_path, level):
@@ -40,14 +41,14 @@ def parse_seqs(file_path, level):
                 sSeq += line.strip()
     return dictionary
 
-def get_distance(idA, seqA, idB, seqB):
-    with open('tmp.fa', 'w') as f:
+def get_distance(idA, seqA, idB, seqB, tmp_file):
+    with open(tmp_file, 'w') as f:
         f.write(f'>{idA}\n')
         f.write(seqA + '\n')
         f.write(f'>{idB}\n')
         f.write(seqB + '\n')
-    runcmd("mafft --globalpair --distout --quiet tmp.fa")
-    with open('tmp.fa.hat2', 'r') as f:
+    runcmd(f"mafft --anysymbol --globalpair --distout --quiet {str(tmp_file.absolute().resolve())}")
+    with open(tmp_file.parent / f"{tmp_file.name}.hat2", 'r') as f:
         for i in range(5):
             line = f.readline()
         line = f.readline().strip().replace('\n', '')
@@ -61,10 +62,13 @@ def parse_args() -> Namespace:
     parser.add_argument('--input', type=Path, default='../astral/astral-scopedom-seqres-gd-sel-gs-sc-fa-2.08.fa')
     parser.add_argument('--output_dir', type=Path, default='./')
     parser.add_argument('--db_path', type=str, default='../uniprotKB/uniprotKB')
+    parser.add_argument('--tmp_folder', type=Path, default='./tmp')
     args = parser.parse_args()
     return args
 
 def main(args):
+    args.tmp_folder.mkdir(parents=True, exist_ok=True)
+    
     with open(args.input, 'r') as fin:
         start_time = time.time()
         seqsFromFile = list(SeqIO.parse(fin, 'fasta'))
@@ -72,28 +76,34 @@ def main(args):
         
         # total_seqs = random.sample(seqsFromFile, args.size)
         total_seqs = seqsFromFile
-        print(len(total_seqs))
-        train_size = len(total_seqs)
-        
+        train_size = int(len(total_seqs) * 0.99)
+        print(f"Train size : Eval size = {train_size} : {len(total_seqs) - train_size}")
+
         mapping, data_size = {}, 0
         for split in ['train', 'eval']:
             if split == 'train':
                 seqs = total_seqs[:train_size]
             else:
                 seqs = total_seqs[train_size:]
-            with open(args.output_dir / f"{split}.json", 'w') as fout, tqdm(total=len(seqs), desc=f'Parsing {split}.json') as t:
+            with open(args.output_dir / f"{split}_raw.json", 'w') as fout, tqdm(total=len(seqs), desc=f'Parsing {split}_raw.json') as t:
                 for i, raw_seq in enumerate(seqs):
                     t.update(1)
                     id, seq = str(raw_seq.id), str(raw_seq.seq)
                     if len(seq) > 2000:
                         continue
-                    with open('tmp.fa', 'w') as f:
+                    
+                    tmp_fasta = args.tmp_folder / f"{id}.fa"
+                    tmp_csv = args.tmp_folder / f"{id}.csv"
+                    tmp_entry = args.tmp_folder / f"{id}.in"
+                    tmp_dbout = args.tmp_folder / f"{id}.out"
+                    
+                    with open(tmp_fasta, 'w') as f:
                         f.write(f">{id}\n")
                         f.write(f"{seq}\n")
-                    runcmd(f"blastp -query tmp.fa -db {args.db_path} -num_threads 8 -outfmt 10 -out tmp.csv")
+                    runcmd(f"blastp -query {str(tmp_fasta.absolute().resolve())} -db {args.db_path} -num_threads 8 -num_alignments 125 -outfmt 10 -out {str(tmp_csv.absolute().resolve())}")
                     
-                    scores, known_entry = {}, []
-                    with open("tmp.csv", 'r') as f, open("entry.in", 'w') as ff:
+                    scores, known_entry, visited = {}, [], []
+                    with open(tmp_csv, 'r') as f, open(tmp_entry, 'w') as ff:
                         for line in f:
                             entry = line.strip().split(',')[1]
                             score = float(line.strip().split(',')[-1])
@@ -107,18 +117,25 @@ def main(args):
                     for entry in known_entry:
                         if len(mapping[entry]) > 2000:
                             continue
-                        # distance = get_distance('A', seq, 'B', mapping[entry])
-                        fout.write(json.dumps({'A' : seq, 'B' : mapping[entry], 'score' : scores[entry]}))
+                        if mapping[entry] in visited:
+                            continue
+                        visited.append(mapping[entry])
+                        distance = get_distance('A', seq, 'B', mapping[entry], args.tmp_folder / f"{id}_{entry}.fa")
+                        fout.write(json.dumps({'A' : seq, 'B' : mapping[entry], 'score' : scores[entry], 'distance' : distance}))
                         fout.write("\n")
                     ## Call blastdbcmd to query unknown entries
-                    runcmd(f"blastdbcmd -db {args.db_path} -entry_batch entry.in -out fasta.out")
-                    hit_seqs = list(SeqIO.parse('fasta.out', 'fasta'))
+                    runcmd(f"blastdbcmd -db {args.db_path} -entry_batch {str(tmp_entry.absolute().resolve())} -out {str(tmp_dbout.absolute().resolve())}")
+                    hit_seqs = list(SeqIO.parse(tmp_dbout, 'fasta'))
                     for hit_seq in hit_seqs:
-                        mapping[str(hit_seq.id)] = str(hit_seq.seq)
-                        if len(str(hit_seq.seq)) > 2000:
+                        entry, sequence = str(hit_seq.id), str(hit_seq.seq)
+                        mapping[entry] = sequence
+                        if len(sequence) > 2000:
                             continue
-                        # distance = get_distance('A', seq, 'B', str(hit_seq.id))
-                        fout.write(json.dumps({'A' : seq, 'B' : str(hit_seq.seq), 'score' : scores[str(hit_seq.id)]}))
+                        if sequence in visited:
+                            continue
+                        visited.append(sequence)
+                        distance = get_distance('A', seq, 'B', sequence, args.tmp_folder / f"{id}_{entry}.fa")
+                        fout.write(json.dumps({'A' : seq, 'B' : sequence, 'score' : scores[entry], 'distance' : distance}))
                         fout.write("\n")
                     t.set_postfix({
                         "Dict Size" : len(mapping.keys()),

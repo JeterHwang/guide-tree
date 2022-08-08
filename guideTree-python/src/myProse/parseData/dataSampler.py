@@ -56,18 +56,18 @@ def get_similarity(idA, seqA, idB, seqB):
         
 def parse_args() -> Namespace:
     parser = ArgumentParser()
-    parser.add_argument('--input', type=Path, default='./uniprotKB_slicing')
-    parser.add_argument('--size', type=int, default=1000)
+    parser.add_argument('--input', type=Path, default='./homfam/medium')
+    parser.add_argument('--size', type=int, default=5000)
     parser.add_argument('--level', type=int, default=10)
     parser.add_argument('--split', type=str, default='train')
     parser.add_argument('--seed', type=int, default=42)
-    parser.add_argument('--output_dir', type=Path, default='./uniprotKB_slicing')
+    parser.add_argument('--output_dir', type=Path, default='./homfam/medium')
     args = parser.parse_args()
     return args
 
 def main(args):
     with open(args.output_dir / f"{args.split}.json", 'w') as f:
-        for i, fastaFile in enumerate(list(args.input.glob('**/*.fa'))):
+        for i, fastaFile in enumerate(list(args.input.glob('**/*.tfa'))):
             if 'xxxxx' in fastaFile.name:
                 visited_ids = [[] for _ in range(args.level)]
                 with tqdm(total=args.size * args.level, desc=f'Sample File {fastaFile.name}') as t:
@@ -115,7 +115,7 @@ def main(args):
                         id_A, seq_A = str(entry_A.id), str(entry_A.seq) 
                         id_B, seq_B = str(entry_B.id), str(entry_B.seq) 
                         similarity = get_similarity(id_A, seq_A, id_B, seq_B)
-                        f.write(json.dumps({'A' : seq_A, 'B' : seq_B, 'score' : similarity}))
+                        f.write(json.dumps({'A' : seq_A, 'B' : seq_B, 'distance' : similarity}))
                         f.write('\n')
                         total_pairs += 1    
                         t.update(1)

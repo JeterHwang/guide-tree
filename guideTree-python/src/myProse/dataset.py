@@ -1,5 +1,5 @@
 import torch
-import math
+import random
 from alphabets import Uniprot21
 from utils import read_data
 from torch.nn.utils.rnn import pad_sequence
@@ -9,23 +9,24 @@ class SCOPePairsDataset:
         self, 
         seq_path,
         split,
+        distance_metric='distance',
         alphabet=Uniprot21()
     ):
         self.split = split
-        if 'homfam' in seq_path.name:
-            self.data_source = 'homfam'
-        elif 'blast' in seq_path.name:
-            self.data_source = 'blast'
-        elif 'uniref50' in seq_path.name:
-            self.data_source = 'uniref50'
-        elif 'astral' in seq_path.name:
-            self.data_source = 'astral'
-        else:
-            self.data_source = None
+        self.distance_metric = distance_metric
         self.seqs = read_data(seq_path / f"{self.split}.json")
-        self.seqA = [torch.from_numpy(alphabet.encode(seq['A'].encode('utf-8').upper())) for seq in self.seqs]
-        self.seqB = [torch.from_numpy(alphabet.encode(seq['B'].encode('utf-8').upper())) for seq in self.seqs]
-        self.similarity = [torch.tensor(float(seq['score'])) for seq in self.seqs]
+        self.seqA = []
+        self.seqB = []
+        self.distance = []
+        for seq in self.seqs:
+            self.seqA.append(torch.from_numpy(alphabet.encode(seq['A'].encode('utf-8').upper())))
+            self.seqB.append(torch.from_numpy(alphabet.encode(seq['B'].encode('utf-8').upper())))
+            if self.distance_metric == 'distance':
+                self.distance.append(torch.tensor(min(max(float(seq['distance']), 0.0), 1.0)))
+            elif self.distance_metric == 'score':
+                self.distance.append(torch.tensor(min(25 / float(seq['score']), 1.0)))
+            else:
+                raise NotImplementedError    
         self.alphabet = alphabet
         print('# loaded', len(self.seqs), 'sequence pairs')
 
@@ -33,7 +34,11 @@ class SCOPePairsDataset:
         return len(self.seqs)
 
     def __getitem__(self, idx):
-        return self.seqA[idx].long(), self.seqB[idx].long(), self.similarity[idx]
+        flip = random.choice([0,1])
+        if flip:
+            return self.seqA[idx].long(), self.seqB[idx].long(), self.distance[idx]
+        else:
+            return self.seqB[idx].long(), self.seqA[idx].long(), self.distance[idx]
     
     def batch_sampler(self, toks_per_batch=4096):
         sizes = [(len(s['A']) + len(s['B']), i) for i, s in enumerate(self.seqs)]
@@ -62,11 +67,7 @@ class SCOPePairsDataset:
     def collate_fn(self, samples):
         seqA = [sample[0] for sample in samples] 
         seqB = [sample[1] for sample in samples] 
-        if self.data_source == 'blast':
-            score = [min(1, 25 / sample[2]) for sample in samples] 
-        else:
-            score = [sample[2] for sample in samples] 
-        # level = [min(math.floor(5 * sample[2]), 9) for sample in samples] 
+        score = [sample[2] for sample in samples]
         seqs = seqA + seqB
         lens = [len(x) for x in seqs]
         seqs = pad_sequence(seqs, batch_first=True, padding_value=0)
