@@ -132,7 +132,7 @@ class SkipLSTM(nn.Module):
                 emb.append(proj)
         else:
             emb = torch.mean(hs, dim=1)
-            emb = self.projector(emb)
+            # emb = self.projector(emb)
         # attn_output, attn_output_weights = self.attn(emb, emb, emb)
         # print(torch.sum(attn_output_weights, dim=2))
         return emb
@@ -169,5 +169,5 @@ class SkipLSTM(nn.Module):
         return logits
 
     def L1_score(self, x1, x2):
-        logits = torch.exp(-torch.sum(torch.abs(x1 - x2), dim=1))
+        logits = torch.exp(-self.theta * torch.sum(torch.abs(x1 - x2), dim=1) - self.beta)
         return 1 - logits
