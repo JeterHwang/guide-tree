@@ -70,14 +70,19 @@ class SCOPePairsDataset:
         score = [sample[2] for sample in samples]
         seqs = seqA + seqB
         lens = [len(x) for x in seqs]
-        seqs = pad_sequence(seqs, batch_first=True, padding_value=0)
+        padded = []
+        for seq in seqs:
+            padding = torch.tensor([-1] * max(0, 512 - len(seq)))
+            padded.append(torch.cat([seq, padding], dim=0))
+        seqs = torch.stack(padded, dim=0).long()
+        # seqs = pad_sequence(seqs, batch_first=True, padding_value=-1)
         return seqs, lens, torch.tensor(score)
 
 class LSTMDataset:
     def __init__(self, seqs, alphabet=Uniprot21()):
         self.seqs = seqs
         self.alphabet = alphabet
-        self.tokens = [torch.from_numpy(alphabet.encode(seq.encode('utf-8').upper())) for seq in self.seqs]
+        self.tokens = [torch.from_numpy(alphabet.encode(seq[:512].encode('utf-8').upper())) for seq in self.seqs]
     
     def __len__(self):
         return len(self.seqs)
@@ -112,5 +117,9 @@ class LSTMDataset:
     def collate_fn(self, samples):
         seqs = [sample for sample in samples] 
         lens = [len(x) for x in seqs]
-        seqs = pad_sequence(seqs, batch_first=True, padding_value=0)
+        padded = []
+        for seq in seqs:
+            padding = torch.tensor([-1] * max(0, 512 - len(seq)))
+            padded.append(torch.cat([seq, padding], dim=0))
+        seqs = torch.stack(padded, dim=0).long()
         return seqs, lens

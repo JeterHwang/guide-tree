@@ -145,7 +145,7 @@ def main(args):
     eval_loader = torch.utils.data.DataLoader(
         eval_set,
         # batch_sampler=eval_set.batch_sampler(args.toks_per_batch_eval),
-        batch_size=args.batch_size * 4,
+        batch_size=args.batch_size * 3,
         collate_fn=eval_set.collate_fn,
         pin_memory=True,
         shuffle=False,
@@ -215,8 +215,8 @@ def parse_args() -> Namespace:
     parser.add_argument("--gpu", type=str, default="0")
     parser.add_argument("--num_epoch", type=int, default=8)
     parser.add_argument('--seed', type=int, default=42)
-    parser.add_argument('--warmup_ratio', type=float, default=0.1)
-    parser.add_argument('--score_type', type=str, default='SSA', choices=['SSA', 'L1'])
+    parser.add_argument('--warmup_ratio', type=float, default=0)
+    parser.add_argument('--score_type', type=str, default='SSA', choices=['SSA', 'L1', 'MLP'])
     parser.add_argument('--train_distance_metric', type=str, default='distance', choices=['distance', 'score'])
     parser.add_argument('--eval_distance_metric', type=str, default='distance', choices=['distance', 'score'])
     args = parser.parse_args()

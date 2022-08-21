@@ -1,0 +1,54 @@
+# loaded 347692 sequence pairs
+# loaded 18997 sequence pairs
+lstm.weight_ih_l0
+lstm.weight_hh_l0
+lstm.bias_ih_l0
+lstm.bias_hh_l0
+lstm.weight_ih_l0_reverse
+lstm.weight_hh_l0_reverse
+lstm.bias_ih_l0_reverse
+lstm.bias_hh_l0_reverse
+lstm.weight_ih_l1
+lstm.weight_hh_l1
+lstm.bias_ih_l1
+lstm.bias_hh_l1
+lstm.weight_ih_l1_reverse
+lstm.weight_hh_l1_reverse
+lstm.bias_ih_l1_reverse
+lstm.bias_hh_l1_reverse
+lstm.weight_ih_l2
+lstm.weight_hh_l2
+lstm.bias_ih_l2
+lstm.bias_hh_l2
+lstm.weight_ih_l2_reverse
+lstm.weight_hh_l2_reverse
+lstm.bias_ih_l2_reverse
+lstm.bias_hh_l2_reverse
+Evaluation Loss : 0.0014866964861696872
+Spearman Correlation : 0.29151234737334647
+Pearson Correlation : 0.4694545111752683
+Training Spearman Correlation : 0.6996007550109337
+Training Pearson Correlation : 0.7241463141948801
+Evaluation Loss : 0.0006451388454202879
+Spearman Correlation : 0.5963625336888226
+Pearson Correlation : 0.6694490802842062
+Training Spearman Correlation : 0.8275093650657602
+Training Pearson Correlation : 0.8435982432102258
+Evaluation Loss : 0.0005910865382640971
+Spearman Correlation : 0.6022988406175646
+Pearson Correlation : 0.6742794564870376
+Training Spearman Correlation : 0.8581814983321212
+Training Pearson Correlation : 0.8731512623006686
+Evaluation Loss : 0.0006378210354775807
+Spearman Correlation : 0.6216726739166331
+Pearson Correlation : 0.6843970275129276
+Training Spearman Correlation : 0.8740473066848771
+Training Pearson Correlation : 0.888518805659638
+Evaluation Loss : 0.0006116216685278777
+Spearman Correlation : 0.6162832588355
+Pearson Correlation : 0.6798607049377633
+Training Spearman Correlation : 0.8830334201463456
+Training Pearson Correlation : 0.8971244723942053
+Evaluation Loss : 0.000657040324014457
+Spearman Correlation : 0.6277179142902712
+Pearson Correlation : 0.6853471196775839

@@ -121,13 +121,13 @@ def parse_args() -> Namespace:
         "--outputFolder",
         type=Path,
         help="Path to output guide tree.",
-        default="./output/bb3_release/prose_mt_100",
+        default="./output/bb3_release/myProse",
     )
     parser.add_argument(
         "--ckpt_path",
         type=Path,
         help="Path to pretrained protein embeddings.",
-        default="./ckpt/prose/saved_models/prose_mt_3x1024.sav",
+        default="./ckpt/prose/saved_models/prose_dlm_3x1024.sav",
     )
     parser.add_argument(
         "--numpy_ckpt",
@@ -147,9 +147,9 @@ def parse_args() -> Namespace:
         help="Path to aux file",
         default='./output/BB50003/BB50003.aux'
     )
-    parser.add_argument("--seed", type=int, default=2)
+    parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--gpus", type=str, default="1")
-    parser.add_argument("--embedding", type=str, default='prose_mt', choices=['mBed', 'esm', 'prose_mt', 'prose_dlm'])
+    parser.add_argument("--embedding", type=str, default='prose_dlm', choices=['mBed', 'esm', 'prose_mt', 'prose_dlm'])
     parser.add_argument("--max_cluster_size", type=int, default=1000000)
     parser.add_argument("--toks_per_batch", type=int, default=4096)
     parser.add_argument("--UPGMA_type", type=str, choices=['LCP', 'clustal'], default='LCP')

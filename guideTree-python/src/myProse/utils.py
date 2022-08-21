@@ -10,7 +10,7 @@ def read_data(seq_path : Path):
         for line in tqdm(f.readlines(), desc=f"Reading {seq_path.name}"):
             line = json.loads(line)
             seqA, seqB = line['A'], line['B']
-            if abs(len(seqA) - len(seqB)) < 100:
+            if len(seqA) <= 512 and len(seqB) <= 512 and abs(len(seqA) - len(seqB)) < 100:
                 pairs.append(line)
     return pairs
 

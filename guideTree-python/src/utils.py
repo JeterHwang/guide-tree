@@ -363,7 +363,7 @@ def SkipLSTM_embedding(seqData, model, toks_per_batch=4096):
     dataset = LSTMDataset(seqData)
     dataloader = torch.utils.data.DataLoader(
         dataset,
-        batch_size=256,
+        batch_size=128,
         collate_fn=dataset.collate_fn,
         shuffle=False,
         pin_memory=True

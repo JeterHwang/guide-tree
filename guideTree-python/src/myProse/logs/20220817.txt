@@ -1,0 +1,66 @@
+# loaded 214494 sequence pairs
+# loaded 17310 sequence pairs
+lstm.weight_ih_l0
+lstm.weight_hh_l0
+lstm.bias_ih_l0
+lstm.bias_hh_l0
+lstm.weight_ih_l0_reverse
+lstm.weight_hh_l0_reverse
+lstm.bias_ih_l0_reverse
+lstm.bias_hh_l0_reverse
+lstm.weight_ih_l1
+lstm.weight_hh_l1
+lstm.bias_ih_l1
+lstm.bias_hh_l1
+lstm.weight_ih_l1_reverse
+lstm.weight_hh_l1_reverse
+lstm.bias_ih_l1_reverse
+lstm.bias_hh_l1_reverse
+lstm.weight_ih_l2
+lstm.weight_hh_l2
+lstm.bias_ih_l2
+lstm.bias_hh_l2
+lstm.weight_ih_l2_reverse
+lstm.weight_hh_l2_reverse
+lstm.bias_ih_l2_reverse
+lstm.bias_hh_l2_reverse
+Evaluation Loss : 0.0017733798405894787
+Spearman Correlation : 0.31733883004448177
+Pearson Correlation : 0.3306662984995332
+Training Spearman Correlation : 0.7159172433592293
+Training Pearson Correlation : 0.7374485518210718
+Evaluation Loss : 0.00027719058197557685
+Spearman Correlation : 0.6298709416544223
+Pearson Correlation : 0.707649013301725
+Training Spearman Correlation : 0.8439194208017428
+Training Pearson Correlation : 0.8586495100851629
+Evaluation Loss : 0.00027963335043145425
+Spearman Correlation : 0.6356826306328184
+Pearson Correlation : 0.7073295841895754
+Training Spearman Correlation : 0.875406902717813
+Training Pearson Correlation : 0.8879960960957183
+Evaluation Loss : 0.00027662702087702466
+Spearman Correlation : 0.6432909545904094
+Pearson Correlation : 0.7105314568841945
+Training Spearman Correlation : 0.8910268118773665
+Training Pearson Correlation : 0.9029143371480636
+Evaluation Loss : 0.0002811948751039687
+Spearman Correlation : 0.6475049594432027
+Pearson Correlation : 0.7120857907005079
+Training Spearman Correlation : 0.9001211050349147
+Training Pearson Correlation : 0.9117822290350601
+Evaluation Loss : 0.0003017749578720534
+Spearman Correlation : 0.6433315308429176
+Pearson Correlation : 0.7053345872832337
+Training Spearman Correlation : 0.9059742484687814
+Training Pearson Correlation : 0.917295092880607
+Evaluation Loss : 0.0002846487092444967
+Spearman Correlation : 0.6421241941157512
+Pearson Correlation : 0.7070180584743846
+Training Spearman Correlation : 0.9098020270251703
+Training Pearson Correlation : 0.9209121952540491
+Evaluation Loss : 0.00028982872583492857
+Spearman Correlation : 0.6468383127182161
+Pearson Correlation : 0.7094858910989366
+Training Spearman Correlation : 0.9126486063445897
+Training Pearson Correlation : 0.9234563540377905
