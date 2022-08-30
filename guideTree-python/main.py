@@ -45,7 +45,8 @@ def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, 
         
     Embedding = mbed(inputFile, embedding, model, device, toks_per_batch, save_path)
     sequences = Embedding.seqs
-    centers, clusters = BisectingKmeans(sequences, device, max_cluster_size)
+    if embedding != 'prose_dlm':
+        centers, clusters = BisectingKmeans(sequences, device, max_cluster_size)
     #compare_Kmeans(args.compare, clusters)
     
     if embedding == 'esm':
@@ -73,13 +74,7 @@ def cluster_one_file(inputFile, outputFile, embedding, model, max_cluster_size, 
                 subtree = UPGMA(cluster, 'AVG', 'SSA', 'LCP', model, save_path)
                 preCluster.appendTree(subtree, clusterID)
     elif embedding == 'prose_dlm':
-        if len(centers) < 2:
-            preCluster = UPGMA(clusters[0], 'AVG', 'L1_exp', 'LCP')
-        else:
-            preCluster = UPGMA(centers, 'AVG', 'L2_norm', 'LCP')
-            for clusterID, cluster in enumerate(clusters):
-                subtree = UPGMA(cluster, 'AVG', 'L1_exp', 'LCP')
-                preCluster.appendTree(subtree, clusterID)
+        preCluster = UPGMA(sequences, 'AVG', 'L1_exp', 'LCP')
     else:
         raise NotImplementedError
     

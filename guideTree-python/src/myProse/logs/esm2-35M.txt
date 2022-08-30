@@ -1,0 +1,45 @@
+# loaded 217638 sequence pairs
+# loaded 17559 sequence pairs
+Evaluation Loss : 0.0035621915544054965
+Spearman Correlation : 0.4920240399462033
+Pearson Correlation : 0.41616163645719695
+Training Spearman Correlation : 0.8066080842178636
+Training Pearson Correlation : 0.8209241918782781
+Evaluation Loss : 0.0011551691468443769
+Spearman Correlation : 0.6919888103025941
+Pearson Correlation : 0.7422295772334028
+Training Spearman Correlation : 0.9193391884830565
+Training Pearson Correlation : 0.9326588529019509
+Evaluation Loss : 0.0013787157758153872
+Spearman Correlation : 0.6979276223399837
+Pearson Correlation : 0.7403259857423478
+Training Spearman Correlation : 0.9488623440653003
+Training Pearson Correlation : 0.9594004918190799
+Evaluation Loss : 0.0013584740738589104
+Spearman Correlation : 0.702607067038397
+Pearson Correlation : 0.7458118803645377
+Training Spearman Correlation : 0.9655561316648116
+Training Pearson Correlation : 0.9735305574336516
+Evaluation Loss : 0.0014782957587348919
+Spearman Correlation : 0.7056119676473943
+Pearson Correlation : 0.7417044571343168
+Training Spearman Correlation : 0.9765420590965412
+Training Pearson Correlation : 0.9824006430975251
+Evaluation Loss : 0.0014046879246146942
+Spearman Correlation : 0.697908330254018
+Pearson Correlation : 0.7373925130695342
+Training Spearman Correlation : 0.9841369944115431
+Training Pearson Correlation : 0.9881958313786486
+Evaluation Loss : 0.0014442361482228184
+Spearman Correlation : 0.7009095739228423
+Pearson Correlation : 0.7365606353280977
+Training Spearman Correlation : 0.9891568034462324
+Training Pearson Correlation : 0.9919545599858071
+Evaluation Loss : 0.0014714026538604986
+Spearman Correlation : 0.7020427517009049
+Pearson Correlation : 0.7357209483845729
+Training Spearman Correlation : 0.992560111571482
+Training Pearson Correlation : 0.9945436152219352
+Evaluation Loss : 0.0014703684746395912
+Spearman Correlation : 0.6997675563239131
+Pearson Correlation : 0.7316064889783092

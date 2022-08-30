@@ -47,6 +47,7 @@ def main(args):
                 line = data
         
         raw_scores = runcmd(f"java -jar {args.prog_path.absolute().resolve()} -r {ref.absolute().resolve()} -e {(args.tmp_file_path / f'{name}.pfa').absolute().resolve()}").decode().split()
+        print(float(raw_scores[raw_scores.index('SP-Score') + 1]))
         SP += float(raw_scores[raw_scores.index('SP-Score') + 1])
         runcmd(f"rm {(args.tmp_file_path / f'{name}.pfa').absolute().resolve()}")
     

@@ -14,7 +14,8 @@ from src.threading import Worker
 
 from src.dataset import esmDataset
 from src.embed_sequences import prose_embedding, SSA_score
-from src.myProse import LSTMDataset
+from src.myProse import LSTMDataset, SkipLSTM
+from src.myProse.esm.esm import pretrained
 
 BIG_DIST = 1e29
 AMINO_ACID = 25
@@ -227,6 +228,8 @@ def seq2vec(
         repr = SkipLSTM_embedding([seq['data'] for seq in seqs], model, toks_per_batch)
         assert len(repr) == len(seqs)
         for i, emb in enumerate(repr):
+            if i == 0:
+                print(emb.size())
             seqs[i]['embedding'] = emb
     else:
         raise NotImplementedError
@@ -292,6 +295,7 @@ def distMatrix(Nodes : List[Dict], dist_type : str, model=None, save_path=None) 
                     Matrix[i][j] = Matrix[j][i] = KtupleDist(Nodes[i]['data'], Nodes[j]['data'])
                 else:
                     raise NotImplementedError
+    print(Matrix)
     return Matrix
 
 def esm_embedding(labels, sequences, model_alphabet, device, toks_per_batch, truncate=False):
@@ -360,34 +364,37 @@ def runcmd(command):
         return ret.stderr
 
 def SkipLSTM_embedding(seqData, model, toks_per_batch=4096):
-    dataset = LSTMDataset(seqData)
+    esm_model, esm_alphabet = pretrained.esm2_t12_35M_UR50D('./src/myProse/esm/ckpt/esm2_t12_35M_UR50D.pt')
+    model = SkipLSTM.from_pretrained('./src/myProse1/ckpt/Epoch-2.pt', esm_model).cuda()
+    dataset = LSTMDataset(seqData, alphabet=esm_alphabet)
     dataloader = torch.utils.data.DataLoader(
         dataset,
-        batch_size=128,
+        batch_size=384,
         collate_fn=dataset.collate_fn,
         shuffle=False,
         pin_memory=True
     )
     embeddings = []
     with torch.no_grad():
-        for i, (seqs, lens) in enumerate(tqdm(dataloader, desc='Embedding Protein Sequences:')):
+        for i, seqs in enumerate(tqdm(dataloader, desc='Embedding Protein Sequences:')):
             seqs = seqs.cuda()
-            emb = model(seqs, lens)
+            emb = model(seqs)
             embeddings.append(emb)
     
     return torch.cat(embeddings, dim=0)
 
 def L1_exp_distance(x, chunk_size=40000):
     x = x.cuda()
-    if x.size(1) > 10000:
-        x_chunk_size = chunk_size // x.size(0) + 1
-        L1_dis = torch.zeros(x.size(0), x.size(0), device=x.device)
-        for i in range(0, x.size(0), x_chunk_size):
-            L1_dis[i : i + x_chunk_size, :] = torch.exp(-torch.sum(torch.abs(x[i : i + x_chunk_size, :].unsqueeze(1) - x), -1))
-        L1_dis = 1 - L1_dis
-        L1_dis.fill_diagonal_(100)
-        return L1_dis.cpu().detach().numpy()
-    else:
-        L1_dis = 1 - torch.exp(-torch.sum(torch.abs(x.unsqueeze(1)-x), -1))
-        L1_dis.fill_diagonal_(100)
-        return L1_dis.cpu().detach().numpy()
+    # print(x.size())
+    with torch.no_grad():
+        if x.size(0) > 10000:
+            x_chunk_size = chunk_size // x.size(0) + 1
+            L1_dis = torch.zeros(x.size(0), x.size(0))
+            print('Successfully Allocate Memory !!')
+            for i in tqdm(range(0, x.size(0), x_chunk_size), desc="Building DIS Matrix:"):
+                L1_dis[i : i + x_chunk_size, :].data.copy_((1 - torch.exp(-torch.sum(torch.abs(x[i : i + x_chunk_size, :].unsqueeze(1) - x), -1))).data)
+            L1_dis.fill_diagonal_(100)
+        else:
+            L1_dis = 1 - torch.exp(-torch.sum(torch.abs(x.unsqueeze(1)-x), -1))
+            L1_dis.fill_diagonal_(100)
+    return L1_dis.cpu().detach().numpy()

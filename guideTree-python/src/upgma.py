@@ -3,7 +3,7 @@ from typing import Dict, List
 from tqdm import tqdm
 from .utils import distMatrix
 
-BIG_DIST = 1e29
+BIG_DIST = 100
 
 __all__ = [
     'TreeNode',
@@ -156,10 +156,13 @@ class UPGMA:
                 self.RNN.append(cand_MatrixID)
                 cand_NN_MatrixID = np.argmin(self.distmat[cand_MatrixID])
                 self.NN.append(cand_NN_MatrixID)
-            
+                # if cand_MatrixID == cand_NN_MatrixID:
+                #     print(cand_MatrixID, np.amin(self.distmat[cand_MatrixID]))
             # Reduction
             Lmin = self.RNN[-1]
             Rmin = self.RNN[-2]
+            # if Lmin == Rmin:
+            #     print(Lmin)
             newID = len(self.Tree)
             # Update Tree
             dLR = self.distmat[Lmin][Rmin]
@@ -174,11 +177,6 @@ class UPGMA:
             # Update matrix2id
             self.matrix2id[Lmin] = newID
             self.matrix2id[Rmin] = -1
-            # Update RNN/NN
-            self.RNN = self.RNN[:-2]
-            self.NN = self.NN[:-2]
-            if len(self.RNN) != 0:
-                self.NN[-1] = np.argmin(self.distmat[self.RNN[-1]])
             # Update Distance Matrix
             for i in range(self.leafNodeCount):
                 if self.matrix2id[i] == -1:
@@ -191,16 +189,28 @@ class UPGMA:
                 else:
                     raise NotImplementedError
 
-                self.distmat[Lmin][i] = self.distmat[i][Lmin] = newDist
-                self.distmat[i][Rmin] = BIG_DIST
-    
+                if i != Lmin:
+                    self.distmat[Lmin][i] = self.distmat[i][Lmin] = newDist
+                self.distmat[i][Rmin] = self.distmat[Rmin][i] = BIG_DIST
+            # Update RNN/NN
+            self.RNN = self.RNN[:-2]
+            self.NN = self.NN[:-2]
+            if len(self.RNN) != 0:
+                self.NN[-1] = np.argmin(self.distmat[self.RNN[-1]])
+
     def writeTree(self, file):
-        visited = np.zeros(len(self.Tree))
+        if len(self.Tree) != self.internalNodeCount + self.leafNodeCount:
+            print('Error !!!')
+        visited = np.zeros(len(self.Tree))  
         # num_vis = 0
         root = self.Tree[self.rootID]
+        # print(self.rootID)
+        # print(self.Tree[1858].left, self.Tree[1858].right)
         with open(file, 'w') as f:
             # self.DFS_output(self.Tree[self.rootID], f, -1)
             while True:
+                if (root.left is not None and root.left >= root.ID) or (root.right is not None and root.right >= root.ID):
+                    print('Loop Found !!')
                 if visited[root.ID] == 0:
                     visited[root.ID] = 1
                     # num_vis += 1
@@ -234,7 +244,12 @@ class UPGMA:
                             print("ERR !!")
                         root = parent
             f.write(';')
-    
+        missing_nodes = 0
+        for i in range(len(visited)):
+            if visited[i] != 1:
+                missing_nodes += 1        
+        print(f'Missing Nodes : {missing_nodes} !!')
+
     def DFS_output(self, root : TreeNode, f, length):
         if root.isLeaf:
             f.write(f"{root.getName()}:{length}\n")

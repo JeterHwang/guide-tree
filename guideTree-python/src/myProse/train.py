@@ -12,6 +12,7 @@ import torch
 import torch.nn.functional as F
 from tqdm import trange, tqdm
 import sys
+from esm.esm import pretrained
 from model import SkipLSTM
 from dataset import SCOPePairsDataset
 
@@ -33,12 +34,12 @@ def train(model, class_criterion, mse_criterion, optimizer, scheduler, train_loa
         predicted, ground, SSA = [], [], []
         model.eval()
         with torch.no_grad():
-            for seqs, lens, score in tqdm(eval_loader, desc='Eval Epoch #{}'.format(epoch + 1)):
+            for seqs, score in tqdm(eval_loader, desc='Eval Epoch #{}'.format(epoch + 1)):
                 seqs = seqs.cuda()
                 score = score.cuda()
                 # level = level.cuda()
                 batch_size = seqs.size()[0] // 2
-                emb = model(seqs, lens)
+                emb = model(seqs)
                 logits2 = model.score(emb)
                 # prob = F.softmax(logits1, dim=1)
                 # levels = torch.arange(10).to(prob.device).float()
@@ -65,11 +66,11 @@ def train(model, class_criterion, mse_criterion, optimizer, scheduler, train_loa
         train_loss, num_train_data, correct = 0, 0, 0
         predicted_cls, predicted_mse, ground = [], [], []
         with tqdm(total=len(train_loader), desc='Train Epoch #{}'.format(epoch + 1)) as t:
-            for seqs, lens, score in train_loader:
+            for seqs, score in train_loader:
                 seqs = seqs.cuda()
                 score = score.cuda()
                 # level = level.cuda()
-                emb = model(seqs, lens)
+                emb = model(seqs)
                 logits2 = model.score(emb)
                 
                 optimizer.zero_grad()
@@ -123,16 +124,25 @@ def train(model, class_criterion, mse_criterion, optimizer, scheduler, train_loa
 def main(args):
     same_seed(args.seed)
     # torch.cuda.set_device(args.gpu)
-    
+
+    if args.embed_type == 'esm-43M':
+        esm_model, esm_alphabet = pretrained.esm1_t6_43M_UR50S(args.esm_path)
+    elif args.embed_type == 'esm-35M':
+        esm_model, esm_alphabet = pretrained.esm2_t12_35M_UR50D(args.esm_path)
+    else:
+        esm_model, esm_alphabet = None, None
+
     train_set = SCOPePairsDataset(
         args.train_dir,
         'train',
         args.train_distance_metric,
+        esm_alphabet,
     )
     eval_set = SCOPePairsDataset(
         args.eval_dir,
         'eval',
         args.eval_distance_metric,
+        esm_alphabet,
     )
     train_loader = torch.utils.data.DataLoader(
         train_set,
@@ -145,27 +155,27 @@ def main(args):
     eval_loader = torch.utils.data.DataLoader(
         eval_set,
         # batch_sampler=eval_set.batch_sampler(args.toks_per_batch_eval),
-        batch_size=args.batch_size * 3,
+        batch_size=args.batch_size * 4,
         collate_fn=eval_set.collate_fn,
         pin_memory=True,
         shuffle=False,
     )
     
-    model = SkipLSTM.load_pretrained(args.model_path, args.score_type).cuda()
+    model = SkipLSTM.load_pretrained(args.lstm_path, args.score_type, esm_model).cuda()
     class_criterion = torch.nn.CrossEntropyLoss()
     mse_criterion = torch.nn.MSELoss()
-    optimizer = torch.optim.AdamW(model.parameters(), lr=2e-5, weight_decay=args.weight_decay)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=1, weight_decay=args.weight_decay)
     
     T_max = len(train_loader) * args.num_epoch
     warm_up_iter = int(T_max * args.warmup_ratio)
-    lr_min, lr_max = 2e-6, 2e-5
-    # scheduler = torch.optim.lr_scheduler.LambdaLR(
-    #     optimizer, 
-    #     lr_lambda = lambda cur_iter: lr_min + cur_iter / warm_up_iter * (lr_max - lr_min) if  cur_iter < warm_up_iter else \
-    #     (lr_min + 0.5*(lr_max-lr_min)*(1.0+math.cos( (cur_iter-warm_up_iter)/(T_max-warm_up_iter)*math.pi)))
-    #     # lr_max - (lr_max - lr_min) / (T_max - warm_up_iter) * (cur_iter - warm_up_iter)
-    # )
-    scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=len(train_loader), gamma=0.7)
+    lr_min, lr_max = 1e-6, 2e-5
+    scheduler = torch.optim.lr_scheduler.LambdaLR(
+        optimizer, 
+        lr_lambda = lambda cur_iter: lr_min + cur_iter / warm_up_iter * (lr_max - lr_min) if  cur_iter < warm_up_iter else \
+        (lr_min + 0.5*(lr_max-lr_min)*(1.0+math.cos( (cur_iter-warm_up_iter)/(T_max-warm_up_iter)*math.pi)))
+        # lr_max - (lr_max - lr_min) / (T_max - warm_up_iter) * (cur_iter - warm_up_iter)
+    )
+    # scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=len(train_loader), gamma=0.7)
     train(model, class_criterion, mse_criterion, optimizer, scheduler, train_loader, eval_loader, args)
 
 def parse_args() -> Namespace:
@@ -183,10 +193,16 @@ def parse_args() -> Namespace:
         default="./data/blast",
     )
     parser.add_argument(
-        "--model_path",
+        "--lstm_path",
         type=Path,
-        help="Path to pretrained model.",
+        help="Path to pretrained LSTM model.",
         default="../../ckpt/prose/saved_models/prose_dlm_3x1024.sav",
+    )
+    parser.add_argument(
+        "--esm_path",
+        type=str,
+        help="Path to pretrained esm model.",
+        default="./esm/ckpt/esm2_t12_35M_UR50D.pt",
     )
     parser.add_argument(
         "--ckpt_dir",
@@ -213,9 +229,10 @@ def parse_args() -> Namespace:
 
     # training
     parser.add_argument("--gpu", type=str, default="0")
-    parser.add_argument("--num_epoch", type=int, default=8)
+    parser.add_argument("--num_epoch", type=int, default=10)
     parser.add_argument('--seed', type=int, default=42)
-    parser.add_argument('--warmup_ratio', type=float, default=0)
+    parser.add_argument('--warmup_ratio', type=float, default=0.1)
+    parser.add_argument('--embed_type', type=str, default='LSTM', choices=['LSTM', 'esm-43M', 'esm-35M'])
     parser.add_argument('--score_type', type=str, default='SSA', choices=['SSA', 'L1', 'MLP'])
     parser.add_argument('--train_distance_metric', type=str, default='distance', choices=['distance', 'score'])
     parser.add_argument('--eval_distance_metric', type=str, default='distance', choices=['distance', 'score'])
