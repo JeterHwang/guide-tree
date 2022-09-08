@@ -13,10 +13,10 @@ class L1(nn.Module):
             x_chunk_size = chunk_size // y.size(0) + 1
             L1_dis = torch.zeros(x.size(0), y.size(0), device=x.device)
             for i in range(0, x.size(0), x_chunk_size):
-                L1_dis[i : i + x_chunk_size, :] = -torch.sum(torch.abs(x[i : i + x_chunk_size, :].unsqueeze(1) - y), -1)
+                L1_dis[i : i + x_chunk_size, :] = torch.sum(torch.abs(x[i : i + x_chunk_size, :].unsqueeze(1) - y), -1)
             return L1_dis
         else:
-            return -torch.sum(torch.abs(x.unsqueeze(1)-y), -1)
+            return torch.sum(torch.abs(x.unsqueeze(1)-y), -1)
 
 class SkipLSTM(nn.Module):
     def __init__(
@@ -44,8 +44,8 @@ class SkipLSTM(nn.Module):
 
         if esm_model is not None:
             self.esm = esm_model
-            self.repr_layers = 12
-            n = 480
+            self.repr_layers = num_layers
+            n = hidden_dim
         else:
             self.lstm = nn.LSTM(
                 nin,
@@ -56,45 +56,25 @@ class SkipLSTM(nn.Module):
                 bidirectional=bidirectional
             )
             n = 2 * hidden_dim
-
-        ## SSA Embedding
-        # self.projector = nn.Linear(n, 64)
-        
-        ## RCNN Embedding
-        seq_len = [509, 252, 124]
-        blocks = []
-        feature_dim = [480, 128, 256, 512]
-        for i in range(RCNN_num):
-            max_pool_ks = (3 if i == RCNN_num - 1 else 2)
-            blocks.append(nn.Sequential(OrderedDict([
-                ('conv', nn.Conv1d(feature_dim[i], feature_dim[i+1], 3)),
-                ('layerNorm', nn.LayerNorm([feature_dim[i+1], seq_len[i]])),
-                ('act', nn.ReLU()),
-                ('pool', nn.MaxPool1d(max_pool_ks)),
-            ])))
-            
-        self.RCNN = nn.ModuleList(blocks)
-        self.flatten = nn.Linear(512, 100)
-
-        ## MLP Distance
-        self.cosine = nn.CosineSimilarity()
-        
-        ## L1 Distance
-        ex = 2 * np.sqrt(2 / np.pi) * nout
-        var = 4 * (1 - 2 / np.pi) * nout
-        beta_init = ex / np.sqrt(var)
-        self.theta = nn.Parameter(torch.ones(1))
-        self.beta = nn.Parameter(torch.zeros(1))
         
     @staticmethod
-    def load_pretrained(path='prose_dlm', score_type='SSA', esm_model=None):
-        model = SkipLSTM(21, 64, 1024, 3, score_type=score_type, esm_model=esm_model)
+    def load_pretrained(path='prose_dlm', score_type='SSA', esm_model=None, layers=3, hidden_dim=1024, output_dim=100):
+        model = SkipLSTM(
+            21, 
+            output_dim, 
+            hidden_dim, 
+            layers, 
+            score_type=score_type, 
+            esm_model=esm_model
+        )
         model_dict = model.state_dict()        
         new_dict = {}
         state_dict = torch.load(path, map_location=torch.device('cpu'))
         for key, value in state_dict.items():
             if 'embedding.' in key:
-               key = key.replace('embedding.', '')
+                key = key.replace('embedding.', '')
+            # if 'layers' in key:
+            #     key = key.replace('layers', 'lstm')
             if 'layers' in key:
                 layer_id = key.split('.')[1]
                 postfix = key.split('.')[2].split('_')
@@ -127,27 +107,39 @@ class SkipLSTM(nn.Module):
             one_hot.scatter_(2, x.unsqueeze(2), 1)
         return one_hot
 
-    def forward(self, x):
+    def forward(self, x, length):
         if hasattr(self, 'lstm'):
-            mask = x.ne(-1)
-            x = x * mask
             one_hot = self.to_one_hot(x)
-            one_hot = one_hot * mask.unsqueeze(2)
-            output, (hidden, cell) = self.lstm(one_hot)
-            hs = output
+            h_ = pack_padded_sequence(one_hot, length, batch_first=True, enforce_sorted=False)
+            output, (hidden, cell) = self.lstm(h_)
+            # hidden = hidden.transpose(0,1).contiguous()
+            # hidden = hidden.view(hidden.size(0), -1)
+            output_unpacked, _ = pad_packed_sequence(output, batch_first=True)
+            hs = output_unpacked
+            
         else:
             results = self.esm(x, repr_layers=[self.repr_layers], return_contacts=False)
             hs = results["representations"][self.repr_layers][:,1:,:]
+            # bos = results["representations"][self.repr_layers][:,0,:]
 
         if self.score_type == 'SSA':
-            emb = self.projector(hs)
+            # emb = self.projector(hs)
+            emb = []
+            for i in range(x.size(0)):
+                emb.append(hs[i][:length[i]])
         elif self.score_type == 'MLP':
             # hs = self.projector(hs)
-            for block in self.RCNN:
-                hs = hs.transpose(1, 2).contiguous()
-                hs = block(hs).transpose(1, 2).contiguous()
-            # hs = self.flatten(hs)
-            emb = torch.mean(hs, dim=1)
+            # _hs = hs 
+            # for block in self.RCNN:
+            #     _hs = _hs.transpose(1, 2).contiguous()
+            #     _hs = block(_hs).transpose(1, 2).contiguous()
+            # _hs = torch.mean(_hs, dim=1)
+            # _hs = self.flatten(_hs)
+            pooling = []
+            for i in range(x.size(0)):
+                pooling.append(torch.mean(hs[i][:length[i]], dim=0))
+            emb = torch.stack(pooling, dim=0)
+            # emb = hs
         else:
             emb = torch.mean(hs, dim=1)
             emb = self.projector(emb)
@@ -163,27 +155,46 @@ class SkipLSTM(nn.Module):
             return self.L1_score(emb[:batch_size], emb[batch_size:])
 
     def MLP_score(self, x1, x2):
-        logits = self.cosine(x1, x2)
-        return 0.5 * (1 - logits)
-        # logits = torch.exp(-self.theta * torch.sum(torch.abs(x1 - x2), dim=1) - self.beta)
-        # return 1 - logits
+        # mask = F.softmax(x1 * x2, dim=1)
+        # logits = torch.exp(-torch.sum(torch.abs(x1 - x2), dim=1))
+        logits = torch.sum(torch.abs(x1 - x2), dim=1)
+        return logits
 
     def SSA_score(self, x1, x2):
-        logits = []
-        for i in range(len(x1)):
-            s = torch.cdist(x1[i], x2[i], p=1.0)
-            a = torch.softmax(s, dim=1)
-            b = torch.softmax(s, dim=0)
-            a = a + b - a * b
-            a = a / torch.sum(a)
-            a = a.view(-1, 1)
-            s = s.view(-1, 1)
-            dist = torch.sum(a * s)
-            logits.append(1 - torch.exp(-dist))
-
-        logits = torch.stack(logits, dim=0).view(-1)
+        s = torch.cdist(x1, x2, 1)
+        a = torch.softmax(s, dim=2)
+        b = torch.softmax(s, dim=1)
+        a = a + b - a * b
+        
+        a = a / torch.sum(a, dim=[1,2], keepdim=True)
+        a = a.view(a.size(0), -1, 1)
+        s = s.view(s.size(0), -1, 1)
+        logits = torch.sum(a * s, dim=[1,2])
         return logits
 
     def L1_score(self, x1, x2):
         logits = torch.exp(-self.theta * torch.sum(torch.abs(x1 - x2), dim=1) - self.beta)
         return 1 - logits
+
+    def get_parameters(self, keys=None, mode='include'):
+        if keys is None:
+            for name, param in self.named_parameters():
+                if param.requires_grad: yield param
+        elif mode == 'include':
+            for name, param in self.named_parameters():
+                flag = False
+                for key in keys:
+                    if key in name:
+                        flag = True
+                        break
+                if flag and param.requires_grad: yield param
+        elif mode == 'exclude':
+            for name, param in self.named_parameters():
+                flag = True
+                for key in keys:
+                    if key in name:
+                        flag = False
+                        break
+                if flag and param.requires_grad: yield param
+        else:
+            raise ValueError('do not support: %s' % mode)

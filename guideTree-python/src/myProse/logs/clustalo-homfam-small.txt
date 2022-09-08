@@ -1,0 +1,121 @@
+# loaded 117356 sequence pairs
+# loaded 13459 sequence pairs
+Now processing file (1/38) : rnasemam.tfa
+SP-score = 0.9361194029850747
+TC = 0.7313432835820896
+Now processing file (2/38) : cyt3.tfa
+SP-score = 0.8778726198292843
+TC = 0.6779661016949152
+Now processing file (3/38) : toxin.tfa
+SP-score = 0.8692013825723122
+TC = 0.45454545454545453
+Now processing file (4/38) : Stap_Strp_toxin.tfa
+SP-score = 0.7545484617929209
+TC = 0.4279835390946502
+Now processing file (5/38) : sodcu.tfa
+SP-score = 0.8451910408432147
+TC = 0.6686746987951807
+Now processing file (6/38) : TNF.tfa
+SP-score = 0.8093525179856115
+TC = 0.5414012738853503
+Now processing file (7/38) : tgfb.tfa
+SP-score = 0.9088607594936708
+TC = 0.5982905982905983
+Now processing file (8/38) : slectin.tfa
+SP-score = 0.8530549110595514
+TC = 0.7153284671532847
+Now processing file (9/38) : ghf5.tfa
+SP-score = 0.5773853323522198
+TC = 0.2750642673521851
+Now processing file (10/38) : az.tfa
+SP-score = 0.6782934638311164
+TC = 0.32065217391304346
+Now processing file (11/38) : il8.tfa
+SP-score = 0.8200056513139304
+TC = 0.44155844155844154
+Now processing file (12/38) : kringle.tfa
+SP-score = 0.9037300177619894
+TC = 0.7528089887640449
+Now processing file (13/38) : ChtBD.tfa
+SP-score = 0.9202898550724637
+TC = 0.7906976744186046
+Now processing file (14/38) : kunitz.tfa
+SP-score = 0.9473267326732673
+TC = 0.7833333333333333
+Now processing file (15/38) : ghf11.tfa
+SP-score = 0.9310538116591929
+TC = 0.8385416666666666
+Now processing file (16/38) : ghf22.tfa
+SP-score = 0.9601073563498841
+TC = 0.8615384615384616
+Now processing file (17/38) : profilin.tfa
+SP-score = 0.7891760904684976
+TC = 0.5390625
+Now processing file (18/38) : DMRL_synthase.tfa
+SP-score = 0.9303754266211605
+TC = 0.7337278106508875
+Now processing file (19/38) : ricin.tfa
+SP-score = 0.8623924941360438
+TC = 0.6886446886446886
+Now processing file (20/38) : mmp.tfa
+SP-score = 0.9836065573770492
+TC = 0.9408284023668639
+Now processing file (21/38) : phoslip.tfa
+SP-score = 0.9061751767915808
+TC = 0.6397058823529411
+Now processing file (22/38) : ins.tfa
+SP-score = 0.9251040221914009
+TC = 0.6376811594202898
+Now processing file (23/38) : rub.tfa
+SP-score = 1.0
+TC = 1.0
+Now processing file (24/38) : KAS.tfa
+SP-score = 0.8780129951792077
+TC = 0.735
+Now processing file (25/38) : DEATH.tfa
+SP-score = 0.6971279373368147
+TC = 0.3870967741935484
+Now processing file (26/38) : Sulfotransfer.tfa
+SP-score = 0.6889352818371608
+TC = 0.3277027027027027
+Now processing file (27/38) : ltn.tfa
+SP-score = 0.9106293326084002
+TC = 0.6284584980237155
+Now processing file (28/38) : GEL.tfa
+SP-score = 0.6716417910447762
+TC = 0.363013698630137
+Now processing file (29/38) : phc.tfa
+SP-score = 0.9585296889726673
+TC = 0.7988826815642458
+Now processing file (30/38) : scorptoxin.tfa
+SP-score = 0.9014251781472684
+TC = 0.726027397260274
+Now processing file (31/38) : tms.tfa
+SP-score = 0.9283799310608962
+TC = 0.8
+Now processing file (32/38) : seatoxin.tfa
+SP-score = 0.8263888888888888
+TC = 0.5714285714285714
+Now processing file (33/38) : hip.tfa
+SP-score = 0.8670694864048338
+TC = 0.6547619047619048
+Now processing file (34/38) : mofe.tfa
+SP-score = 0.7774939903846154
+TC = 0.6094339622641509
+Now processing file (35/38) : sti.tfa
+SP-score = 0.7978921264724117
+TC = 0.5543478260869565
+Now processing file (36/38) : ghf10.tfa
+SP-score = 0.9224806201550387
+TC = 0.7925696594427245
+Now processing file (37/38) : Ald_Xan_dh_2.tfa
+SP-score = 0.8482914006759295
+TC = 0.6706730769230769
+Now processing file (38/38) : cah.tfa
+SP-score = 0.8208117443868739
+TC = 0.6494464944649446
+========== Before Training ==========
+Guide Tree Evaluation : 
+Category		SP		TC
+small		0.8548508810188743		0.6402163714676034
+===================================

@@ -1,0 +1,15 @@
+# loaded 49753 sequence pairs
+# loaded 2375 sequence pairs
+Evaluation Loss : 0.004150917859453904
+Spearman Correlation : 0.5371518502945158
+Pearson Correlation : 0.5431209180321988
+Training Spearman Correlation : 0.733523648055817
+Training Pearson Correlation : 0.7497374699845419
+Evaluation Loss : 0.002645615229481145
+Spearman Correlation : 0.6560940886449135
+Pearson Correlation : 0.7066822606343475
+Training Spearman Correlation : 0.8949809304193227
+Training Pearson Correlation : 0.9018858527605763
+Evaluation Loss : 0.003163739331458744
+Spearman Correlation : 0.6378581582454054
+Pearson Correlation : 0.7024841151709791

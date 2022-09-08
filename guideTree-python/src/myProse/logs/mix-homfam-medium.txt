@@ -1,0 +1,6339 @@
+lstm.weight_ih_l0
+lstm.weight_hh_l0
+lstm.bias_ih_l0
+lstm.bias_hh_l0
+lstm.weight_ih_l0_reverse
+lstm.weight_hh_l0_reverse
+lstm.bias_ih_l0_reverse
+lstm.bias_hh_l0_reverse
+lstm.weight_ih_l1
+lstm.weight_hh_l1
+lstm.bias_ih_l1
+lstm.bias_hh_l1
+lstm.weight_ih_l1_reverse
+lstm.weight_hh_l1_reverse
+lstm.bias_ih_l1_reverse
+lstm.bias_hh_l1_reverse
+lstm.weight_ih_l2
+lstm.weight_hh_l2
+lstm.bias_ih_l2
+lstm.bias_hh_l2
+lstm.weight_ih_l2_reverse
+lstm.weight_hh_l2_reverse
+lstm.bias_ih_l2_reverse
+lstm.bias_hh_l2_reverse
+Now processing file (1/32) : ghf1.tfa
+Finish embedding in 61.47577095031738 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.2641832828521729 seconds
+SP-score = 0.8431936702032009
+TC = 0.5805168986083499
+Now processing file (2/32) : flav.tfa
+Finish embedding in 19.532963514328003 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.4082715511322021 seconds
+SP-score = 0.8664886515353805
+TC = 0.6514285714285715
+Now processing file (3/32) : peroxidase.tfa
+Finish embedding in 38.53353476524353 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.3122196197509766 seconds
+SP-score = 0.6161290322580645
+TC = 0.2693409742120344
+Now processing file (4/32) : lyase_1.tfa
+Finish embedding in 66.48365473747253 secs.
+running k-means on 0..
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 2.405306100845337 seconds
+SP-score = 0.751358024691358
+TC = 0.5506958250497018
+Now processing file (5/32) : msb.tfa
+Finish embedding in 16.28929328918457 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.3720343112945557 seconds
+SP-score = 0.8263358778625954
+TC = 0.47586206896551725
+Now processing file (6/32) : egf.tfa
+Finish embedding in 8.510749816894531 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 2.422635793685913 seconds
+SP-score = 0.7225009648784253
+TC = 0.27941176470588236
+Now processing file (7/32) : hpr.tfa
+Finish embedding in 8.283069610595703 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 0.7569575309753418 seconds
+SP-score = 0.986013986013986
+TC = 0.9659090909090909
+Now processing file (8/32) : sodfe.tfa
+Finish embedding in 11.560221433639526 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.343404769897461 seconds
+SP-score = 0.8439969890854347
+TC = 0.5406698564593302
+Now processing file (9/32) : subt.tfa
+Finish embedding in 86.08438086509705 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 2.461141347885132 seconds
+SP-score = 0.7037164962696878
+TC = 0.32142857142857145
+Now processing file (10/32) : OTCace.tfa
+Finish embedding in 23.279091119766235 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.1485495567321777 seconds
+SP-score = 0.9059800664451827
+TC = 0.7270029673590505
+Now processing file (11/32) : LIM.tfa
+Finish embedding in 11.717026948928833 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.8802766799926758 seconds
+SP-score = 0.8064516129032258
+TC = 0.5
+Now processing file (12/32) : int.tfa
+Finish embedding in 41.102930545806885 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 2.38505220413208 seconds
+SP-score = 0.8262806236080178
+TC = 0.6336633663366337
+Now processing file (13/32) : ace.tfa
+Finish embedding in 62.21638226509094 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+Finish in 1.263416051864624 seconds
+SP-score = 0.7240597492664711
+TC = 0.5
+Now processing file (14/32) : ldh.tfa
+Finish embedding in 29.358072757720947 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 2.545283317565918 seconds
+SP-score = 0.8686462371096321
+TC = 0.5027027027027027
+Now processing file (15/32) : oxidored_q6.tfa
+Finish embedding in 13.82339072227478 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 0.7643375396728516 seconds
+SP-score = 0.977906976744186
+TC = 0.924812030075188
+Now processing file (16/32) : glob.tfa
+Finish embedding in 12.506352186203003 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 0.9437532424926758 seconds
+SP-score = 0.9202296103080372
+TC = 0.4176470588235294
+Now processing file (17/32) : blm.tfa
+Finish embedding in 88.653005361557 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 3.3198962211608887 seconds
+SP-score = 0.9723034098816979
+TC = 0.8876404494382022
+Now processing file (18/32) : proteasome.tfa
+Finish embedding in 30.454673767089844 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.685328483581543 seconds
+SP-score = 0.7928144168857393
+TC = 0.2
+Now processing file (19/32) : uce.tfa
+Finish embedding in 19.157914400100708 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.7138900756835938 seconds
+SP-score = 0.8903581267217631
+TC = 0.5481927710843374
+Now processing file (20/32) : aadh.tfa
+Finish embedding in 22.407531023025513 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 0.845733642578125 seconds
+SP-score = 0.822255695725852
+TC = 0.5011337868480725
+Now processing file (21/32) : gpdh.tfa
+Finish embedding in 35.17346405982971 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 2.4305012226104736 seconds
+SP-score = 0.9403952057013282
+TC = 0.8324022346368715
+Now processing file (22/32) : HMG_box.tfa
+Finish embedding in 10.007172346115112 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.5692362785339355 seconds
+SP-score = 0.9461756373937678
+TC = 0.8024691358024691
+Now processing file (23/32) : icd.tfa
+Finish embedding in 60.26800799369812 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.7296085357666016 seconds
+SP-score = 0.9041968162083936
+TC = 0.7603305785123967
+Now processing file (24/32) : cyclo.tfa
+Finish embedding in 31.808024644851685 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 2.055494785308838 seconds
+SP-score = 0.7980769230769231
+TC = 0.5978835978835979
+Now processing file (25/32) : hormone_rec.tfa
+Finish embedding in 22.03042435646057 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 0.8137774467468262 seconds
+SP-score = 0.700776610324349
+TC = 0.43416370106761565
+Now processing file (26/32) : cys.tfa
+Finish embedding in 29.552306175231934 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.256093978881836 seconds
+SP-score = 0.8674993877051188
+TC = 0.5335820895522388
+Now processing file (27/32) : tim.tfa
+Finish embedding in 27.421401739120483 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.1749632358551025 seconds
+SP-score = 0.9739460828659309
+TC = 0.888030888030888
+Now processing file (28/32) : asp.tfa
+Finish embedding in 33.977272272109985 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 0.7832813262939453 seconds
+SP-score = 0.8834326195459669
+TC = 0.6390374331550802
+Now processing file (29/32) : hr.tfa
+Finish embedding in 8.031500816345215 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 1.2089364528656006 seconds
+SP-score = 1.0
+TC = 1.0
+Now processing file (30/32) : serpin.tfa
+Finish embedding in 33.312262535095215 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 0.7631828784942627 seconds
+SP-score = 0.9493959199841553
+TC = 0.8065326633165829
+Now processing file (31/32) : HLH.tfa
+Finish embedding in 13.365937232971191 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 2.117832660675049 seconds
+SP-score = 0.8578352180936996
+TC = 0.7142857142857143
+Now processing file (32/32) : cytb.tfa
+Finish embedding in 10.117723226547241 secs.
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+running k-means on 0..
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+device is :0
+Finish in 0.8168430328369141 seconds
+SP-score = 0.8243130724396336
+TC = 0.5760869565217391
+========== Before Training ==========
+Guide Tree Evaluation : 
+Category		SP		TC
+medium		0.853533240991788		0.6113394920999988
+===================================

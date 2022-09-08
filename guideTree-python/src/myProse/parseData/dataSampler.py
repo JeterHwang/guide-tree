@@ -57,7 +57,7 @@ def get_similarity(idA, seqA, idB, seqB):
 def parse_args() -> Namespace:
     parser = ArgumentParser()
     parser.add_argument('--input', type=Path, default='./homfam/medium')
-    parser.add_argument('--size', type=int, default=5000)
+    parser.add_argument('--size', type=int, default=100)
     parser.add_argument('--level', type=int, default=10)
     parser.add_argument('--split', type=str, default='train')
     parser.add_argument('--seed', type=int, default=42)
