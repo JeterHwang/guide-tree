@@ -270,21 +270,22 @@ def UPGMA_Kmeans(distmat, clusters, tree_path, fasta_dir, align_prog):
             if len(cluster) == 0:
                 print('Error : Empty Subcluster !!')
             for seq in cluster:
-                if align_prog == 'clustalo':
-                    fa.write(f">{seq['name']}\n")
+                if align_prog == 'mafft':
+                    fa.write(f">{seq['num']}\n")
                 else:
-                    fa.write(f">{seq['num']}_{seq['name']}\n")
+                    fa.write(f">{seq['name']}\n")
                 fa.write(f"{seq['seq']}\n")
         
         if len(cluster) == 1:
-            if align_prog == 'clustalo':
-                lines = [f"\n{cluster[0]['name']}\n", ";\n"]
+            if align_prog == 'mafft':
+                lines = [f"\n{cluster[0]['num']}\n", ";\n"]
             else:
-                lines = [f"\n{cluster[0]['num']}_{cluster[0]['name']}\n", ";\n"]
+                lines = [f"\n{cluster[0]['name']}\n", ";\n"]
             tree_files.append(lines)
         else:
-            runcmd(f"mafft --globalpair --thread 8 --treeout {fasta_path.absolute().resolve()}")
             sub_tree_path = fasta_dir / f"{fasta_path.name}.tree"
+            runcmd(f"mafft --globalpair --thread 8 --treeout {fasta_path.absolute().resolve()}")
+            # runcmd(f"famsa -gt upgma -t 8 -gt_export {fasta_path.absolute().resolve()} {sub_tree_path.absolute().resolve()}")
             lines = []
             with open(sub_tree_path, 'r') as tree:
                 for line in tree:
@@ -297,6 +298,7 @@ def UPGMA_Kmeans(distmat, clusters, tree_path, fasta_dir, align_prog):
     if len(tree_files) == 1:
         with open(tree_path, 'w') as f:
             for line in tree_files[0]:
+                # print(line[-4:])
                 f.write(line)
         return
 
@@ -376,6 +378,7 @@ def UPGMA_Kmeans(distmat, clusters, tree_path, fasta_dir, align_prog):
                             line = line.replace('\n', '')
                         if ";" in line:
                             line = line.replace(";", f":{Llength[parent_idx]}")
+                            # line = line.replace(";", f":1.0")
                         f.write(line)
                 elif Rindex[parent_idx] == root:
                     for idx, line in enumerate(tree_files[root]):
@@ -383,6 +386,7 @@ def UPGMA_Kmeans(distmat, clusters, tree_path, fasta_dir, align_prog):
                             line = line.replace('\n', '')
                         if ";" in line:
                             line = line.replace(";", f":{Rlength[parent_idx]}")
+                            # line = line.replace(";", f":1.0")
                         f.write(line)
                 else:
                     print("ERR !!")

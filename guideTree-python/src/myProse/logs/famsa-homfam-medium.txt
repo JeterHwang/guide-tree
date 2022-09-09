@@ -1,0 +1,125 @@
+lstm.weight_ih_l0
+lstm.weight_hh_l0
+lstm.bias_ih_l0
+lstm.bias_hh_l0
+lstm.weight_ih_l0_reverse
+lstm.weight_hh_l0_reverse
+lstm.bias_ih_l0_reverse
+lstm.bias_hh_l0_reverse
+lstm.weight_ih_l1
+lstm.weight_hh_l1
+lstm.bias_ih_l1
+lstm.bias_hh_l1
+lstm.weight_ih_l1_reverse
+lstm.weight_hh_l1_reverse
+lstm.bias_ih_l1_reverse
+lstm.bias_hh_l1_reverse
+lstm.weight_ih_l2
+lstm.weight_hh_l2
+lstm.bias_ih_l2
+lstm.bias_hh_l2
+lstm.weight_ih_l2_reverse
+lstm.weight_hh_l2_reverse
+lstm.bias_ih_l2_reverse
+lstm.bias_hh_l2_reverse
+Now processing file (1/32) : ghf1.tfa
+SP-score = 0.9106275849667326
+TC = 0.7037773359840954
+Now processing file (2/32) : flav.tfa
+SP-score = 0.7935024477080552
+TC = 0.48
+Now processing file (3/32) : peroxidase.tfa
+SP-score = 0.7009677419354838
+TC = 0.40114613180515757
+Now processing file (4/32) : lyase_1.tfa
+SP-score = 0.837283950617284
+TC = 0.6719681908548708
+Now processing file (5/32) : msb.tfa
+SP-score = 0.8880407124681934
+TC = 0.6758620689655173
+Now processing file (6/32) : egf.tfa
+SP-score = 0.727518332690081
+TC = 0.23529411764705882
+Now processing file (7/32) : hpr.tfa
+SP-score = 1.0
+TC = 1.0
+Now processing file (8/32) : sodfe.tfa
+SP-score = 0.9145652992096349
+TC = 0.6507177033492823
+Now processing file (9/32) : subt.tfa
+SP-score = 0.6217187068250898
+TC = 0.08418367346938775
+Now processing file (10/32) : OTCace.tfa
+SP-score = 0.9059800664451827
+TC = 0.798219584569733
+Now processing file (11/32) : LIM.tfa
+SP-score = 0.8919354838709678
+TC = 0.7195121951219512
+Now processing file (12/32) : int.tfa
+SP-score = 0.7694877505567929
+TC = 0.5594059405940595
+Now processing file (13/32) : ace.tfa
+SP-score = 0.7767404641237663
+TC = 0.5294117647058824
+Now processing file (14/32) : ldh.tfa
+SP-score = 0.8455715643969868
+TC = 0.4189189189189189
+Now processing file (15/32) : oxidored_q6.tfa
+SP-score = 0.9585271317829457
+TC = 0.8834586466165414
+Now processing file (16/32) : glob.tfa
+SP-score = 0.9306807177939265
+TC = 0.40588235294117647
+Now processing file (17/32) : blm.tfa
+SP-score = 0.9749478079331941
+TC = 0.8876404494382022
+Now processing file (18/32) : proteasome.tfa
+SP-score = 0.8477921286242237
+TC = 0.4241379310344828
+Now processing file (19/32) : uce.tfa
+SP-score = 0.919742883379247
+TC = 0.5783132530120482
+Now processing file (20/32) : aadh.tfa
+SP-score = 0.8118056863114291
+TC = 0.4331065759637188
+Now processing file (21/32) : gpdh.tfa
+SP-score = 0.9415829823993089
+TC = 0.8463687150837989
+Now processing file (22/32) : HMG_box.tfa
+SP-score = 0.9787535410764873
+TC = 0.8765432098765432
+Now processing file (23/32) : icd.tfa
+SP-score = 0.8891461649782924
+TC = 0.743801652892562
+Now processing file (24/32) : cyclo.tfa
+SP-score = 0.9042642140468228
+TC = 0.7671957671957672
+Now processing file (25/32) : hormone_rec.tfa
+SP-score = 0.7080858839652809
+TC = 0.4199288256227758
+Now processing file (26/32) : cys.tfa
+SP-score = 0.8227406318883174
+TC = 0.458955223880597
+Now processing file (27/32) : tim.tfa
+SP-score = 0.9620047041794826
+TC = 0.8764478764478765
+Now processing file (28/32) : asp.tfa
+SP-score = 0.8735308323941394
+TC = 0.5855614973262032
+Now processing file (29/32) : hr.tfa
+SP-score = 0.9828571428571429
+TC = 0.9620253164556962
+Now processing file (30/32) : serpin.tfa
+SP-score = 0.9007724301841948
+TC = 0.6959798994974874
+Now processing file (31/32) : HLH.tfa
+SP-score = 0.8949919224555735
+TC = 0.8333333333333334
+Now processing file (32/32) : cytb.tfa
+SP-score = 0.8709408825978351
+TC = 0.6521739130434783
+========== Before Training ==========
+Guide Tree Evaluation : 
+Category		SP		TC
+medium		0.8674096185831905		0.6331022520515063
+===================================

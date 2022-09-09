@@ -1,6 +1,7 @@
 import json
 import os
 import random
+import re
 import numpy as np
 import math
 import itertools
@@ -79,7 +80,7 @@ def eval_prog(args):
             else:
                 pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
                 runcmd(f"clustalo --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --force")
-        else:
+        elif args.align_prog == "mafft":
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
             pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
@@ -87,6 +88,11 @@ def eval_prog(args):
             with open(pfa_path, 'w') as f:
                 for line in ret:
                     f.write(line + '\n')
+        else:
+            if args.eval_dataset == 'bb3_release':
+                raise NotImplementedError
+            pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
+            runcmd(f"famsa -gt upgma -t 8 {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
         ## Calculate Score
         if args.eval_dataset == 'bb3_release':
             xml_path = fastaFile.parents[0] / f"{fastaFile.stem}.xml"
@@ -200,7 +206,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             else:
                 pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
                 runcmd(f"clustalo --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --guidetree-in {tree_path.absolute().resolve()} --force")
-        else:
+        elif args.align_prog == "mafft":
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
             mafft_path = args.tree_dir / f"{fastaFile.stem}_mafft.dnd"
@@ -213,6 +219,12 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             with open(pfa_path, 'w') as f:
                 for line in ret:
                     f.write(line + '\n')
+        else:
+            if args.eval_dataset == 'bb3_release':
+                raise NotImplementedError
+            pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
+            runcmd(f"famsa -t 8 -keep-duplicates -gt import {tree_path.absolute().resolve()} {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
+
         ## Calculate Score
         if args.eval_dataset == 'bb3_release':
             xml_path = fastaFile.parents[0] / f"{fastaFile.stem}.xml"
@@ -630,7 +642,7 @@ def parse_args() -> Namespace:
     parser.add_argument("--toks_per_batch_eval", type=int, default=16384)
     parser.add_argument("--newick2mafft_path", type=Path, default="./newick2mafft.rb")
     parser.add_argument("--fastSP_path", type=Path, default="./FastSP/FastSP.jar")
-    parser.add_argument("--align_prog", type=str, default='clustalo', choices=["clustalo", "mafft"])
+    parser.add_argument("--align_prog", type=str, default='clustalo', choices=["clustalo", "mafft", "famsa"])
     parser.add_argument("--eval_dataset", type=str, default="bb3_release", choices=["bb3_release", "homfam-small", "homfam-medium", "homfam-large"])
     parser.add_argument("--no_tree", action='store_true')
     args = parser.parse_args()

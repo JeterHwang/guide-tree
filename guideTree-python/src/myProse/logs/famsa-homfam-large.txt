@@ -1,0 +1,86 @@
+lstm.weight_ih_l0
+lstm.weight_hh_l0
+lstm.bias_ih_l0
+lstm.bias_hh_l0
+lstm.weight_ih_l0_reverse
+lstm.weight_hh_l0_reverse
+lstm.bias_ih_l0_reverse
+lstm.bias_hh_l0_reverse
+lstm.weight_ih_l1
+lstm.weight_hh_l1
+lstm.bias_ih_l1
+lstm.bias_hh_l1
+lstm.weight_ih_l1_reverse
+lstm.weight_hh_l1_reverse
+lstm.bias_ih_l1_reverse
+lstm.bias_hh_l1_reverse
+lstm.weight_ih_l2
+lstm.weight_hh_l2
+lstm.bias_ih_l2
+lstm.bias_hh_l2
+lstm.weight_ih_l2_reverse
+lstm.weight_hh_l2_reverse
+lstm.bias_ih_l2_reverse
+lstm.bias_hh_l2_reverse
+Now processing file (1/19) : ghf13.tfa
+SP-score = 0.6112594691808818
+TC = 0.17826825127334464
+Now processing file (2/19) : rvp.tfa
+SP-score = 0.7009472259810555
+TC = 0.3063063063063063
+Now processing file (3/19) : p450.tfa
+SP-score = 0.48180135718692163
+TC = 0.1462925851703407
+Now processing file (4/19) : hla.tfa
+SP-score = 1.0
+TC = 1.0
+Now processing file (5/19) : hom.tfa
+SP-score = 0.901481004507405
+TC = 0.5362318840579711
+Now processing file (6/19) : aat.tfa
+SP-score = 0.5736693690518153
+TC = 0.18181818181818182
+Now processing file (7/19) : zf-CCHH.tfa
+SP-score = 0.7945058865501249
+TC = 0.42857142857142855
+Now processing file (8/19) : blmb.tfa
+SP-score = 0.6880704041720991
+TC = 0.3890909090909091
+Now processing file (9/19) : gluts.tfa
+SP-score = 0.7138947368421052
+TC = 0.43776824034334766
+Now processing file (10/19) : Rhodanese.tfa
+SP-score = 0.6626898047722343
+TC = 0.4114583333333333
+Now processing file (11/19) : biotin_lipoyl.tfa
+SP-score = 0.9089207735495946
+TC = 0.6470588235294118
+Now processing file (12/19) : myb_DNA-binding.tfa
+SP-score = 0.9679358717434869
+TC = 0.8392857142857143
+Now processing file (13/19) : rrm.tfa
+SP-score = 0.7946885291850606
+TC = 0.15315315315315314
+Now processing file (14/19) : Acetyltransf.tfa
+SP-score = 0.4602076124567474
+TC = 0.15873015873015872
+Now processing file (15/19) : tRNA-synt_2b.tfa
+SP-score = 0.46273546273546273
+TC = 0.1569767441860465
+Now processing file (16/19) : PDZ.tfa
+SP-score = 0.7880184331797235
+TC = 0.5555555555555556
+Now processing file (17/19) : aldosered.tfa
+SP-score = 0.8584968407050216
+TC = 0.6153846153846154
+Now processing file (18/19) : adh.tfa
+SP-score = 0.9881879194630873
+TC = 0.9733333333333334
+Now processing file (19/19) : sdr.tfa
+SP-score = 0.7212562786333279
+TC = 0.24605678233438485
+========== Before Training ==========
+Guide Tree Evaluation : 
+Category		SP		TC
+large		0.7409877357840081		0.44007057897144924
+===================================
