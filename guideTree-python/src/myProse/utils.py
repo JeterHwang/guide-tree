@@ -1,6 +1,7 @@
 from importlib.resources import path
 import json
 import os
+from typing import Mapping
 from tqdm import tqdm
 from pathlib import Path
 from Bio import SeqIO
@@ -204,6 +205,7 @@ def UPGMA(distmat, seqID, tree_dir):
 def BisectingKmeans(seqs, min_cluster_size=500):
     device = torch.cuda.current_device()
     start_time = time.time()
+    # Exclude identical sequences
     final_cluster = [{
         'center' : None,
         'seqs' : copy.deepcopy(seqs)
@@ -247,21 +249,31 @@ def BisectingKmeans(seqs, min_cluster_size=500):
     centers, clusters = [], []
     for clusterID, ele in enumerate(final_cluster):
         center = ele['center']
-        seqs = ele['seqs']
+        cluster_seqs = ele['seqs']
         
-        assert len(seqs) != 0
+        assert len(cluster_seqs) != 0
         
         centers.append({
             'name' : f"precluster-{clusterID}",
             'embedding' : center
         })
-        for seq in seqs:
-            seq['cluster'] = clusterID
-        clusters.append(seqs)
+        clusters.append(cluster_seqs)
     print(f'Finish in {time.time() - start_time} seconds')
     return centers, clusters
 
-def UPGMA_Kmeans(distmat, clusters, tree_path, fasta_dir, align_prog):
+def identical_seqs_to_subtree(identical_seqs):
+    lines = []
+    for i, seq in enumerate(identical_seqs):
+        if i == len(identical_seqs) - 1:
+            lines.append(f"\n{seq['name']}\n")
+            lines.append(f"{':0.00000)' * (len(identical_seqs) - 1)}")
+        else:
+            lines.append('(\n')
+            lines.append(f"{seq['name']}\n")
+            lines.append(f":0.00000,")
+    return lines
+
+def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir, align_prog):
     ## Use MAFFT to build guide tree in sub-clusters
     tree_files = []
     for i, cluster in enumerate(tqdm(clusters, desc="Construct Subtrees:")):
@@ -270,30 +282,35 @@ def UPGMA_Kmeans(distmat, clusters, tree_path, fasta_dir, align_prog):
             if len(cluster) == 0:
                 print('Error : Empty Subcluster !!')
             for seq in cluster:
-                if align_prog == 'mafft':
-                    fa.write(f">{seq['num']}\n")
-                else:
-                    fa.write(f">{seq['name']}\n")
+                fa.write(f">{seq['name']}\n")
                 fa.write(f"{seq['seq']}\n")
         
         if len(cluster) == 1:
-            if align_prog == 'mafft':
-                lines = [f"\n{cluster[0]['num']}\n", ";\n"]
+            if id2cluster[cluster[0]['name']] is not None:
+                lines = ["\n"] + identical_seqs_to_subtree(id2cluster[cluster[0]['name']]) + [";"]
             else:
-                lines = [f"\n{cluster[0]['name']}\n", ";\n"]
+                lines = [f"\n{cluster[0]['name']}\n", ";"]
             tree_files.append(lines)
-        else:
-            sub_tree_path = fasta_dir / f"{fasta_path.name}.tree"
-            runcmd(f"mafft --globalpair --thread 8 --treeout {fasta_path.absolute().resolve()}")
-            # runcmd(f"famsa -gt upgma -t 8 -gt_export {fasta_path.absolute().resolve()} {sub_tree_path.absolute().resolve()}")
-            lines = []
-            with open(sub_tree_path, 'r') as tree:
-                for line in tree:
-                    underscore = line.find('_')
-                    if underscore != -1:
-                        line = line[underscore+1:]
+            continue
+        
+        sub_tree_path = fasta_dir / f"{fasta_path.name}.tree"
+        runcmd(f"mafft --globalpair --thread 8 --treeout {fasta_path.absolute().resolve()}")
+        # runcmd(f"famsa -gt upgma -t 8 -gt_export {fasta_path.absolute().resolve()} {sub_tree_path.absolute().resolve()}")
+        lines = []
+        with open(sub_tree_path, 'r') as tree:
+            for line in tree:
+                underscore = line.find('_')
+                if underscore != -1:
+                    line = line[underscore+1:]
+                    seq_name = line.replace('\n', '')
+                    if id2cluster[seq_name] is not None:
+                        lines[-1] = lines[-1].replace('\n', '')
+                        line = identical_seqs_to_subtree(id2cluster[seq_name])
+                if isinstance(line, str):
                     lines.append(line)
-            tree_files.append(lines)
+                else:
+                    lines = lines + line
+        tree_files.append(lines)
     
     if len(tree_files) == 1:
         with open(tree_path, 'w') as f:

@@ -153,14 +153,38 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
         print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
         ## Read sequences
         raw_seqs = list(SeqIO.parse(fastaFile, 'fasta'))
-        print(f"Number of Sequences : {len(raw_seqs)}")
-        seqs = [str(seq.seq) for seq in raw_seqs]
-        seqID = [str(seq.id) for seq in raw_seqs]
+        seqs = []
+        for idx, seq in enumerate(raw_seqs):
+            seqs.append({
+                'num' : idx + 1,
+                'name' : str(idx + 1) if args.align_prog == 'mafft' else str(seq.id),
+                'seq' : str(seq.seq),
+                'embedding' : None,
+            })
+        ##
+        sorted_seqs = sorted(seqs, key=lambda seq : len(seq['seq']), reverse=True)
+        queue, id2cluster = [], {}
+        for i, seq in enumerate(sorted_seqs):
+            if i > 0 and sorted_seqs[i]['seq'] == sorted_seqs[i-1]['seq']:
+                queue[-1].append(sorted_seqs[i])
+            else:
+                queue.append([sorted_seqs[i]])
+        unique_sorted_seqs = []
+        for uniq in queue:
+            unique_sorted_seqs.append(uniq[0])
+            if len(uniq) > 1:
+                id2cluster[uniq[0]['name']] = uniq
+            else:
+                id2cluster[uniq[0]['name']] = None
+        unique_sorted_seqs.sort(key=lambda seq : seq['num'])
+        print(f"Unique sequences : {len(unique_sorted_seqs)} / {len(seqs)}")
+    
+        
         ## Create Dataset / Dataloader
         if esm_alphabet is not None:
-            dataset = LSTMDataset(seqs, esm_alphabet)
+            dataset = LSTMDataset([seq['seq'] for seq in unique_sorted_seqs], esm_alphabet)
         else:
-            dataset = LSTMDataset(seqs)
+            dataset = LSTMDataset([seq['seq'] for seq in unique_sorted_seqs])
         eval_loader = torch.utils.data.DataLoader(
             dataset,
             batch_size=20,
@@ -179,16 +203,12 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
                 emb = model(tokens, lengths)
                 embeddings.append(emb.cpu())
         embeddings = torch.cat(embeddings, dim=0)
+        for idx, emb in enumerate(embeddings):
+            unique_sorted_seqs[idx]['embedding'] = emb
         print(f"Finish embedding in {time.time() - start_time} secs.")
-        Nodes = []
-        for idx, (seq, ID, emb) in enumerate(zip(seqs, seqID, embeddings)):
-            Nodes.append({
-                'num' : idx + 1,
-                'name' : ID,
-                'seq' : seq,
-                'embedding' : emb,
-            })
-        centers, clusters = BisectingKmeans(Nodes)
+        
+        centers, clusters = BisectingKmeans(unique_sorted_seqs)
+        print(f"Cluster Sizes : {[len(cl) for cl in clusters]}")
         if len(centers) > 1:
             center_embeddings = torch.stack([cen['embedding'] for cen in centers], dim=0)
             ## Create Distance Matrix
@@ -197,7 +217,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             dist_matrix = None
         ## UPGMA / Output Guide Tree
         tree_path = args.tree_dir / f"{fastaFile.stem}.dnd"
-        UPGMA_Kmeans(dist_matrix, clusters, tree_path, args.fasta_dir, args.align_prog)
+        UPGMA_Kmeans(dist_matrix, clusters, id2cluster, tree_path, args.fasta_dir, args.align_prog)
         ## Alignment
         if args.align_prog == "clustalo":
             if args.eval_dataset == 'bb3_release':
@@ -223,7 +243,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
             pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-            runcmd(f"famsa -t 8 -keep-duplicates -gt import {tree_path.absolute().resolve()} {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
+            runcmd(f"famsa -keep-duplicates -t 8 -gt import {tree_path.absolute().resolve()} {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
 
         ## Calculate Score
         if args.eval_dataset == 'bb3_release':
@@ -244,9 +264,15 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
                     if seq_name in seq_in_ref:
                         f.write(f">{seq_name}\n")
                         f.write(f"{seq_data}\n")
-            raw_scores = runcmd(f"java -jar {args.fastSP_path.absolute().resolve()} -r {rfa_path.absolute().resolve()} -e {rfa_pfa_path.absolute().resolve()}").decode().split()
-            SP = float(raw_scores[raw_scores.index('SP-Score') + 1])
-            TC = float(raw_scores[raw_scores.index('TC') + 1])
+            if args.eval_dataset in ["homfam-small", "homfam-medium", "homfam-large"]:
+                raw_scores = runcmd(f"java -jar {args.fastSP_path.absolute().resolve()} -r {rfa_path.absolute().resolve()} -e {rfa_pfa_path.absolute().resolve()}").decode().split()
+                SP = float(raw_scores[raw_scores.index('SP-Score') + 1])
+                TC = float(raw_scores[raw_scores.index('TC') + 1])
+            else:
+                raw_scores = runcmd(f"qscore -test {rfa_pfa_path.absolute().resolve()} -ref {rfa_path.absolute().resolve()}").decode().replace('\n', '').split(';')                
+                SP = float(raw_scores[2][2:])
+                TC = float(raw_scores[3][3:])
+
         print(f"SP-score = {SP}")
         print(f"TC = {TC}")
         # Collect Score

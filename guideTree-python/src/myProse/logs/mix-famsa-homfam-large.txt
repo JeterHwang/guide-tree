@@ -1,0 +1,143 @@
+lstm.weight_ih_l0
+lstm.weight_hh_l0
+lstm.bias_ih_l0
+lstm.bias_hh_l0
+lstm.weight_ih_l0_reverse
+lstm.weight_hh_l0_reverse
+lstm.bias_ih_l0_reverse
+lstm.bias_hh_l0_reverse
+lstm.weight_ih_l1
+lstm.weight_hh_l1
+lstm.bias_ih_l1
+lstm.bias_hh_l1
+lstm.weight_ih_l1_reverse
+lstm.weight_hh_l1_reverse
+lstm.bias_ih_l1_reverse
+lstm.bias_hh_l1_reverse
+lstm.weight_ih_l2
+lstm.weight_hh_l2
+lstm.bias_ih_l2
+lstm.bias_hh_l2
+lstm.weight_ih_l2_reverse
+lstm.weight_hh_l2_reverse
+lstm.bias_ih_l2_reverse
+lstm.bias_hh_l2_reverse
+Now processing file (1/19) : ghf13.tfa
+Number of Sequences : 12607
+Finish embedding in 44.05984354019165 secs.
+Finish in 2.2630350589752197 seconds
+SP-score = 0.5617744836230857
+TC = 0.21731748726655348
+Now processing file (2/19) : rvp.tfa
+Number of Sequences : 93681
+Finish embedding in 92.52330732345581 secs.
+Finish in 23.703327655792236 seconds
+SP-score = 0.6481732070365359
+TC = 0.3153153153153153
+Now processing file (3/19) : p450.tfa
+Number of Sequences : 21013
+Finish embedding in 93.64026665687561 secs.
+Finish in 4.283369779586792 seconds
+SP-score = 0.7097676331482624
+TC = 0.28256513026052105
+Now processing file (4/19) : hla.tfa
+Number of Sequences : 13465
+Finish embedding in 23.94977569580078 secs.
+Finish in 2.5996029376983643 seconds
+SP-score = 1.0
+TC = 1.0
+Now processing file (5/19) : hom.tfa
+Number of Sequences : 12037
+Finish embedding in 8.23712968826294 secs.
+Finish in 2.5332186222076416 seconds
+SP-score = 0.9671603348358017
+TC = 0.7536231884057971
+Now processing file (6/19) : aat.tfa
+Number of Sequences : 25100
+Finish embedding in 94.64802742004395 secs.
+Finish in 4.874470233917236 seconds
+SP-score = 0.8285160380683821
+TC = 0.5144124168514412
+Now processing file (7/19) : zf-CCHH.tfa
+Number of Sequences : 88345
+Finish embedding in 26.48753046989441 secs.
+Finish in 20.377712965011597 seconds
+SP-score = 0.8662147698894042
+TC = 0.42857142857142855
+Now processing file (8/19) : blmb.tfa
+Number of Sequences : 17200
+Finish embedding in 41.54573941230774 secs.
+Finish in 3.657148599624634 seconds
+SP-score = 0.40971316818774445
+TC = 0.09818181818181818
+Now processing file (9/19) : gluts.tfa
+Number of Sequences : 10099
+Finish embedding in 13.421315431594849 secs.
+Finish in 1.6782569885253906 seconds
+SP-score = 0.9126842105263158
+TC = 0.703862660944206
+Now processing file (10/19) : Rhodanese.tfa
+Number of Sequences : 14049
+Finish embedding in 18.22886300086975 secs.
+Finish in 2.4398021697998047 seconds
+SP-score = 0.6019522776572668
+TC = 0.3177083333333333
+Now processing file (11/19) : biotin_lipoyl.tfa
+Number of Sequences : 11833
+Finish embedding in 9.815327167510986 secs.
+Finish in 2.015240430831909 seconds
+SP-score = 0.9625701809107923
+TC = 0.8117647058823529
+Now processing file (12/19) : myb_DNA-binding.tfa
+Number of Sequences : 10398
+Finish embedding in 6.553801536560059 secs.
+Finish in 1.7356994152069092 seconds
+SP-score = 0.9318637274549099
+TC = 0.7678571428571429
+Now processing file (13/19) : rrm.tfa
+Number of Sequences : 27610
+Finish embedding in 21.97405219078064 secs.
+Finish in 5.68408203125 seconds
+SP-score = 0.6922430103006096
+TC = 0.0
+Now processing file (14/19) : Acetyltransf.tfa
+Number of Sequences : 46285
+Finish embedding in 51.431843996047974 secs.
+Finish in 10.390029907226562 seconds
+SP-score = 0.3761739990113693
+TC = 0.1164021164021164
+Now processing file (15/19) : tRNA-synt_2b.tfa
+Number of Sequences : 11293
+Finish embedding in 30.167307376861572 secs.
+Finish in 1.8452692031860352 seconds
+SP-score = 0.5024570024570024
+TC = 0.17151162790697674
+Now processing file (16/19) : PDZ.tfa
+Number of Sequences : 14950
+Finish embedding in 15.62414288520813 secs.
+Finish in 2.6661269664764404 seconds
+SP-score = 0.782642089093702
+TC = 0.5555555555555556
+Now processing file (17/19) : aldosered.tfa
+Number of Sequences : 13277
+Finish embedding in 42.34831237792969 secs.
+Finish in 2.543245792388916 seconds
+SP-score = 0.9151978716328567
+TC = 0.683076923076923
+Now processing file (18/19) : adh.tfa
+Number of Sequences : 21331
+Finish embedding in 31.06827449798584 secs.
+Finish in 4.228255987167358 seconds
+SP-score = 0.9640268456375839
+TC = 0.9093333333333333
+Now processing file (19/19) : sdr.tfa
+Number of Sequences : 50157
+Finish embedding in 92.13011884689331 secs.
+Finish in 11.666134595870972 seconds
+SP-score = 0.635204504056963
+TC = 0.17034700315457413
+========== Before Training ==========
+Guide Tree Evaluation : 
+Category		SP		TC
+large		0.7509650186067679		0.46407400985786257
+===================================
