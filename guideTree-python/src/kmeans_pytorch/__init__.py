@@ -126,6 +126,11 @@ def kmeans(
             torch.sqrt(
                 torch.sum((initial_state - initial_state_pre) ** 2, dim=1)
             ))
+        
+        # Calculate Loss
+        one_hot = torch.zeros(X.size(0), num_clusters)
+        one_hot.scatter_(1, choice_cluster.unsqueeze(1), 1)
+        loss = torch.sum(dis * one_hot)
 
         # increment iteration
         iteration = iteration + 1
@@ -143,7 +148,7 @@ def kmeans(
         if iter_limit != 0 and iteration >= iter_limit:
             break
 
-    return choice_cluster.cpu(), initial_state.cpu()
+    return choice_cluster.cpu(), initial_state.cpu(), loss
 
 
 def kmeans_predict(

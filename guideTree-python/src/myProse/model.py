@@ -47,15 +47,27 @@ class SkipLSTM(nn.Module):
             self.repr_layers = num_layers
             n = hidden_dim
         else:
-            self.lstm = nn.LSTM(
-                nin,
-                hidden_dim,
-                num_layers,
-                batch_first=True,
-                dropout=dropout,
-                bidirectional=bidirectional
-            )
-            n = 2 * hidden_dim
+            # self.lstm = nn.LSTM(
+            #     nin,
+            #     hidden_dim,
+            #     num_layers,
+            #     batch_first=True,
+            #     bidirectional=bidirectional
+            # )
+            dim = nin
+            self.lstm = nn.ModuleList()
+            for i in range(num_layers):
+                f = nn.LSTM(
+                    dim, 
+                    hidden_dim, 
+                    1, 
+                    batch_first=True, 
+                    bidirectional=bidirectional
+                )
+                self.lstm.append(f)
+                dim = 2 * hidden_dim
+            n = 2 * hidden_dim * 3 + nin
+        # self.proj = nn.Linear(nin, nout)
         
     @staticmethod
     def load_pretrained(path='prose_dlm', score_type='SSA', esm_model=None, layers=3, hidden_dim=1024, output_dim=100):
@@ -73,14 +85,14 @@ class SkipLSTM(nn.Module):
         for key, value in state_dict.items():
             if 'embedding.' in key:
                 key = key.replace('embedding.', '')
-            # if 'layers' in key:
-            #     key = key.replace('layers', 'lstm')
             if 'layers' in key:
-                layer_id = key.split('.')[1]
-                postfix = key.split('.')[2].split('_')
-                postfix[2] = postfix[2][0] + layer_id
-                postfix_revised = '_'.join(postfix)
-                key = f"lstm.{postfix_revised}"
+                key = key.replace('layers', 'lstm')
+            # if 'layers' in key:
+            #     layer_id = key.split('.')[1]
+            #     postfix = key.split('.')[2].split('_')
+            #     postfix[2] = postfix[2][0] + layer_id
+            #     postfix_revised = '_'.join(postfix)
+            #     key = f"lstm.{postfix_revised}"
             if key in model_dict:
                 print(key)
                 new_dict[key] = value
@@ -91,7 +103,7 @@ class SkipLSTM(nn.Module):
 
     @staticmethod
     def from_pretrained(path='prose_dlm', esm_model=None):
-        model = SkipLSTM(21, 64, 1024, 3, esm_model=esm_model)
+        model = SkipLSTM(21, 100, 1024, 3, esm_model=esm_model)
         state_dict = torch.load(path, map_location=torch.device('cpu'))['model_state_dict']
         model.load_state_dict(state_dict)
         return model
@@ -110,36 +122,34 @@ class SkipLSTM(nn.Module):
     def forward(self, x, length):
         if hasattr(self, 'lstm'):
             one_hot = self.to_one_hot(x)
+            # h_ = pack_padded_sequence(one_hot, length, batch_first=True, enforce_sorted=False)
+            # output, (hidden, cell) = self.lstm(h_)
+            # output_unpacked, _ = pad_packed_sequence(output, batch_first=True)
+            # hs = output_unpacked
+            hs = [one_hot]
             h_ = pack_padded_sequence(one_hot, length, batch_first=True, enforce_sorted=False)
-            output, (hidden, cell) = self.lstm(h_)
-            # hidden = hidden.transpose(0,1).contiguous()
-            # hidden = hidden.view(hidden.size(0), -1)
-            output_unpacked, _ = pad_packed_sequence(output, batch_first=True)
-            hs = output_unpacked
-            
+            for f in self.lstm:
+                h, _ = f(h_)
+                h_ = h
+            h_unpacked, _ = pad_packed_sequence(h_, batch_first=True)
+            # hs.append(h_unpacked)
+            # hs = torch.cat(hs, dim=2)
+            hs = h_unpacked
         else:
             results = self.esm(x, repr_layers=[self.repr_layers], return_contacts=False)
             hs = results["representations"][self.repr_layers][:,1:,:]
             # bos = results["representations"][self.repr_layers][:,0,:]
 
         if self.score_type == 'SSA':
-            # emb = self.projector(hs)
+            hs = self.proj(hs)
             emb = []
             for i in range(x.size(0)):
                 emb.append(hs[i][:length[i]])
         elif self.score_type == 'MLP':
-            # hs = self.projector(hs)
-            # _hs = hs 
-            # for block in self.RCNN:
-            #     _hs = _hs.transpose(1, 2).contiguous()
-            #     _hs = block(_hs).transpose(1, 2).contiguous()
-            # _hs = torch.mean(_hs, dim=1)
-            # _hs = self.flatten(_hs)
             pooling = []
             for i in range(x.size(0)):
                 pooling.append(torch.mean(hs[i][:length[i]], dim=0))
             emb = torch.stack(pooling, dim=0)
-            # emb = hs
         else:
             emb = torch.mean(hs, dim=1)
             emb = self.projector(emb)

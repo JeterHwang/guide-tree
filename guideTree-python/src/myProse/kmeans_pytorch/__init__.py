@@ -9,7 +9,7 @@ from .soft_dtw_cuda import SoftDTW
 FLOAT_MAX = 1e10
 
 def getDist(X, Y):
-    Z = torch.sum((X - Y) ** 2.0)
+    Z = torch.sum((X - Y) ** 2)
     return Z
 
 def getNearestCenter(X, xID, centerIDs):
@@ -34,15 +34,17 @@ def initialize(X, num_clusters):
         for i in range(X.size(0)):
             distanceGroup[i] = getNearestCenter(X, i, clusterCenterGroup[:index])
             sum += distanceGroup[i]
-        # print(sum)
         sum *= random.random()
         for i in range(X.size(0)):
             sum -= distanceGroup[i]
             if sum < 0 and not i in clusterCenterGroup:
                 clusterCenterGroup.append(i)
                 break
-    indices = torch.tensor(clusterCenterGroup)
-    initial_state = torch.index_select(X, 0, indices)
+    if len(clusterCenterGroup) < num_clusters:
+        indices = np.random.choice(X.size(0), num_clusters, replace=False)
+    else:
+        indices = np.array(clusterCenterGroup)
+    initial_state = X[indices]
     return initial_state
 
 
@@ -53,7 +55,7 @@ def kmeans(
         cluster_centers=[],
         tol=1e-4,
         tqdm_flag=True,
-        iter_limit=0,
+        iter_limit=100,
         device=torch.device('cpu'),
         gamma_for_soft_dtw=0.001
 ):
@@ -97,11 +99,11 @@ def kmeans(
         choice_points = torch.argmin(dis, dim=0)
         initial_state = X[choice_points]
         initial_state = initial_state.to(device)
-
+    
+    assert initial_state.size(0) == num_clusters
     # transfer to device
     X = X.to(device)
     initial_state = initial_state.to(device)
-
     iteration = 0
     if tqdm_flag:
         tqdm_meter = tqdm(desc='[running kmeans]')
@@ -124,6 +126,11 @@ def kmeans(
 
             initial_state[index] = selected.mean(dim=0)
 
+        # Calculate Loss
+        one_hot = torch.zeros(X.size(0), num_clusters).to(device)
+        one_hot.scatter_(1, choice_cluster.unsqueeze(1), 1)
+        loss = torch.sum(one_hot * dis)
+
         center_shift = torch.sum(
             torch.sqrt(
                 torch.sum((initial_state - initial_state_pre) ** 2, dim=1)
@@ -144,8 +151,7 @@ def kmeans(
             break
         if iter_limit != 0 and iteration >= iter_limit:
             break
-
-    return choice_cluster.cpu(), initial_state.cpu()
+    return choice_cluster.cpu(), initial_state.cpu(), loss
 
 
 def kmeans_predict(
@@ -198,14 +204,16 @@ def pairwise_distance(data1, data2, device=torch.device('cpu'), tqdm_flag=True):
     data1, data2 = data1.to(device), data2.to(device)
 
     # N*1*M
-    A = data1.unsqueeze(dim=1)
+    # A = data1.unsqueeze(dim=1)
 
     # 1*N*M
-    B = data2.unsqueeze(dim=0)
+    # B = data2.unsqueeze(dim=0)
 
-    dis = (A - B) ** 2.0
+    # dis = (A - B) ** 2.0
     # return N*N matrix for pairwise distance
-    dis = dis.sum(dim=-1).squeeze()
+    # dis = dis.sum(dim=-1).squeeze()
+    # dis = dis.sum(dim=-1)
+    dis = torch.cdist(data1, data2, p=2)
     return dis
 
 

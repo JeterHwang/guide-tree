@@ -12,8 +12,9 @@ import numpy as np
 import subprocess
 from subprocess import PIPE
 from scipy.stats import pearsonr, spearmanr
+from gmm import GMM_Batch
 from kmeans_pytorch import kmeans
-BIG_DIST = 10000
+BIG_DIST = 1000000000
 
 def calculate_corr(ground, predicted):
     spearman, _ = spearmanr(np.array(ground), np.array(predicted))
@@ -210,7 +211,7 @@ def BisectingKmeans(seqs, min_cluster_size=500):
         'center' : None,
         'seqs' : copy.deepcopy(seqs)
     }]
-    
+    additional_cluster = []
     while len(final_cluster[0]['seqs']) > min_cluster_size:
         # Extract MAX
         biggest_cluster = final_cluster[0]
@@ -223,29 +224,66 @@ def BisectingKmeans(seqs, min_cluster_size=500):
         for seq in clusterPoints:
             x.append(seq['embedding'])
         x = torch.stack(x, dim=0)
-        cluster_ids, cluster_centers = kmeans(
-            X = x,
-            num_clusters = 2,
-            distance = 'euclidean',
-            device = device,
-            tqdm_flag=False,
-        )
+        loss, cluster_ids, cluster_centers = [], [], []
+        delta_max, duration, cluster_num = 0, 0, 2
+        with torch.no_grad():
+            for n in range(1, max(3, int(3 * np.log10(len(clusterPoints)) - 6))):
+                cluster_ids_cand, cluster_centers_cand, MSEloss = kmeans(
+                    X = x,
+                    num_clusters = n,
+                    distance = 'euclidean',
+                    device = device,
+                    tqdm_flag=False,
+                )
+                cluster_ids.append(cluster_ids_cand)
+                cluster_centers.append(cluster_centers_cand)
+                loss.append(MSEloss)
+                if n >= 3:
+                    delta = (loss[-1] - loss[-2]) - (loss[-2] - loss[-3])
+                    if delta > delta_max:
+                        delta_max = delta
+                        duration = 0
+                        cluster_num = n - 1
+                    else:
+                        duration += 1
+                if duration >= 3:
+                    break
+        # print(f"{len(clusterPoints)} -> {cluster_num}")
+        cluster_ids = cluster_ids[cluster_num - 1]
+        cluster_centers = cluster_centers[cluster_num - 1]
+        # print(f"{len(clusterPoints)}")
+        # cluster_num = 2
+        # cluster_ids, cluster_centers, _ = kmeans(
+        #     X = x,
+        #     num_clusters = cluster_num,
+        #     distance = 'euclidean',
+        #     device = device,
+        #     tqdm_flag=False,
+        # )
         
-        newCluster = [[], []]
+        newCluster = [[] for _ in range(cluster_num)]
         assert len(cluster_ids) == len(clusterPoints)
         
         for clusterID, seq in zip(cluster_ids, clusterPoints):
             newCluster[clusterID].append(seq)
-        
         for center, seq in zip(cluster_centers, newCluster):
             if len(seq) == 0:
                 continue
-            final_cluster.append({
-                'center' : center,
-                'seqs' : seq
-            })
+            if len(seq) == len(clusterPoints): ## Cannot divide anymore !!
+                additional_cluster.append({
+                    'center' : center,
+                    'seqs' : seq
+                })
+            else:
+                final_cluster.append({
+                    'center' : center,
+                    'seqs' : seq
+                })
         final_cluster = sorted(final_cluster, key=lambda x : len(x['seqs']), reverse=True)
-        
+    
+    final_cluster = final_cluster + additional_cluster    
+    final_cluster.sort(key=lambda x : len(x['seqs']), reverse=True)
+
     centers, clusters = [], []
     for clusterID, ele in enumerate(final_cluster):
         center = ele['center']
@@ -273,7 +311,7 @@ def identical_seqs_to_subtree(identical_seqs):
             lines.append(f":0.00000,")
     return lines
 
-def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir, align_prog):
+def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir):
     ## Use MAFFT to build guide tree in sub-clusters
     tree_files = []
     for i, cluster in enumerate(tqdm(clusters, desc="Construct Subtrees:")):
@@ -294,7 +332,7 @@ def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir, align_prog
             continue
         
         sub_tree_path = fasta_dir / f"{fasta_path.name}.tree"
-        runcmd(f"mafft --globalpair --thread 8 --treeout {fasta_path.absolute().resolve()}")
+        runcmd(f"./mafft --globalpair --anysymbol --thread 16 --treeout {fasta_path.absolute().resolve()}")
         # runcmd(f"famsa -gt upgma -t 8 -gt_export {fasta_path.absolute().resolve()} {sub_tree_path.absolute().resolve()}")
         lines = []
         with open(sub_tree_path, 'r') as tree:

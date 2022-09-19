@@ -72,19 +72,20 @@ def eval_prog(args):
         raise NotImplementedError
     for i, fastaFile in enumerate(tqdm(list(fasta_dir.glob('**/*.tfa')), desc="Eval Guide Tree")):
         print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
+        raw_seqs = list(SeqIO.parse(fastaFile, 'fasta'))
         ## Alignment
         if args.align_prog == "clustalo":
             if args.eval_dataset == 'bb3_release':
                 msf_path = args.msf_dir / f"{fastaFile.stem}.msf"
-                runcmd(f"clustalo --outfmt=msf --in {fastaFile.absolute().resolve()} --out {msf_path.absolute().resolve()} --force")
+                runcmd(f"./clustalo --outfmt=msf --in {fastaFile.absolute().resolve()} --out {msf_path.absolute().resolve()} --force")
             else:
                 pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-                runcmd(f"clustalo --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --force")
+                runcmd(f"./clustalo --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --force")
         elif args.align_prog == "mafft":
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
             pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-            ret = runcmd(f"mafft {fastaFile.absolute().resolve()}").decode().split('\n')
+            ret = runcmd(f"./mafft --anysymbol --thread 8 {fastaFile.absolute().resolve()}").decode().split('\n')
             with open(pfa_path, 'w') as f:
                 for line in ret:
                     f.write(line + '\n')
@@ -92,7 +93,10 @@ def eval_prog(args):
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
             pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-            runcmd(f"famsa -gt upgma -t 8 {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
+            if args.align_prog == "famsa":
+                runcmd(f"famsa -gt upgma -t 8 {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
+            else:
+                runcmd(f"t_coffee -reg -thread 0 -child_thread 0 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree mbed -method mafftginsi_msa -outfile {pfa_path.absolute().resolve()}")
         ## Calculate Score
         if args.eval_dataset == 'bb3_release':
             xml_path = fastaFile.parents[0] / f"{fastaFile.stem}.xml"
@@ -212,20 +216,21 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
         if len(centers) > 1:
             center_embeddings = torch.stack([cen['embedding'] for cen in centers], dim=0)
             ## Create Distance Matrix
-            dist_matrix = L2_distance(center_embeddings) / 50
+            dist_matrix = torch.cdist(center_embeddings, center_embeddings, 2).fill_diagonal_(1000000000).cpu().numpy() / 50
+            # dist_matrix = L2_distance(center_embeddings) / 50
         else:
             dist_matrix = None
         ## UPGMA / Output Guide Tree
         tree_path = args.tree_dir / f"{fastaFile.stem}.dnd"
-        UPGMA_Kmeans(dist_matrix, clusters, id2cluster, tree_path, args.fasta_dir, args.align_prog)
+        UPGMA_Kmeans(dist_matrix, clusters, id2cluster, tree_path, args.fasta_dir)
         ## Alignment
         if args.align_prog == "clustalo":
             if args.eval_dataset == 'bb3_release':
                 msf_path = args.msf_dir / f"{fastaFile.stem}.msf"
-                runcmd(f"clustalo --outfmt=msf --in {fastaFile.absolute().resolve()} --out {msf_path.absolute().resolve()} --guidetree-in {tree_path.absolute().resolve()} --force")
+                runcmd(f"./clustalo --outfmt=msf --in {fastaFile.absolute().resolve()} --out {msf_path.absolute().resolve()} --guidetree-in {tree_path.absolute().resolve()} --force")
             else:
                 pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-                runcmd(f"clustalo --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --guidetree-in {tree_path.absolute().resolve()} --force")
+                runcmd(f"./clustalo --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --guidetree-in {tree_path.absolute().resolve()} --force")
         elif args.align_prog == "mafft":
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
@@ -235,7 +240,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             with open(mafft_path, 'w') as f:
                 for line in ret:
                     f.write(line + '\n')
-            ret = runcmd(f"mafft --thread 8 --treein {mafft_path.absolute().resolve()} {fastaFile.absolute().resolve()}").decode().split('\n')
+            ret = runcmd(f"./mafft --anysymbol --thread 16 --treein {mafft_path.absolute().resolve()} {fastaFile.absolute().resolve()}").decode().split('\n')
             with open(pfa_path, 'w') as f:
                 for line in ret:
                     f.write(line + '\n')
@@ -243,7 +248,10 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
             pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-            runcmd(f"famsa -keep-duplicates -t 8 -gt import {tree_path.absolute().resolve()} {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
+            if args.align_prog == "famsa":
+                runcmd(f"famsa -keep-duplicates -t 16 -gt import {tree_path.absolute().resolve()} {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
+            else:
+                runcmd(f"t_coffee -reg -thread 0 -child_thread 0 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree {tree_path.absolute().resolve()} -method mafftgins1_msa -outfile {pfa_path.absolute().resolve()}")
 
         ## Calculate Score
         if args.eval_dataset == 'bb3_release':
@@ -507,6 +515,7 @@ def main(args):
     #     esm_alphabet,
     #     args
     # )
+    tot_start_time = time.time()
     if args.no_tree:
         result = eval_prog(args)
     else: 
@@ -531,6 +540,7 @@ def main(args):
     print(f"Category\t\tSP\t\tTC")
     for key, value in result.items():
         print(f"{key}\t\t{value['SP']}\t\t{value['TC']}")
+    print(f"Total Execution Time : {time.time() - tot_start_time} (s)")
     print(f"===================================")
     
     # for epoch in range(args.num_epoch):
@@ -650,12 +660,12 @@ def parse_args() -> Namespace:
     parser.add_argument("--batch_size", type=int, default=8)
     parser.add_argument("--weight_decay", type=float, default=4e-5)
     parser.add_argument("--no_decay_keys", type=str, default="RCNN#flatten#mask")
-    parser.add_argument("--output_dim", type=int, default=1024)
+    parser.add_argument("--output_dim", type=int, default=100)
 
     # training
     parser.add_argument("--gpu", type=str, default="0")
     parser.add_argument("--num_epoch", type=int, default=10)
-    parser.add_argument('--seed', type=int, default=42)
+    parser.add_argument('--seed', type=int, default=0)
     parser.add_argument('--accum_steps', type=int, default=4)
     parser.add_argument('--warmup_ratio', type=float, default=0.01)
     parser.add_argument('--embed_type', type=str, default='LSTM', choices=['LSTM', 'esm-43M', 'esm-35M', 'esm-150M', 'esm-650M'])
@@ -668,7 +678,7 @@ def parse_args() -> Namespace:
     parser.add_argument("--toks_per_batch_eval", type=int, default=16384)
     parser.add_argument("--newick2mafft_path", type=Path, default="./newick2mafft.rb")
     parser.add_argument("--fastSP_path", type=Path, default="./FastSP/FastSP.jar")
-    parser.add_argument("--align_prog", type=str, default='clustalo', choices=["clustalo", "mafft", "famsa"])
+    parser.add_argument("--align_prog", type=str, default='clustalo', choices=["clustalo", "mafft", "famsa", "t_coffee"])
     parser.add_argument("--eval_dataset", type=str, default="bb3_release", choices=["bb3_release", "homfam-small", "homfam-medium", "homfam-large"])
     parser.add_argument("--no_tree", action='store_true')
     args = parser.parse_args()
