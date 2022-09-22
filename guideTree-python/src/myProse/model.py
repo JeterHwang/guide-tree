@@ -5,6 +5,7 @@ from torch.nn.utils.rnn import PackedSequence
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 from collections import OrderedDict
 import math
+import logging
 import numpy as np
 
 class L1(nn.Module):
@@ -67,7 +68,7 @@ class SkipLSTM(nn.Module):
                 self.lstm.append(f)
                 dim = 2 * hidden_dim
             n = 2 * hidden_dim * 3 + nin
-        # self.proj = nn.Linear(nin, nout)
+        self.proj = nn.Linear(n, nout)
         
     @staticmethod
     def load_pretrained(path='prose_dlm', score_type='SSA', esm_model=None, layers=3, hidden_dim=1024, output_dim=100):
@@ -94,7 +95,7 @@ class SkipLSTM(nn.Module):
             #     postfix_revised = '_'.join(postfix)
             #     key = f"lstm.{postfix_revised}"
             if key in model_dict:
-                print(key)
+                logging.info(key)
                 new_dict[key] = value
             
         model_dict.update(new_dict)
@@ -126,7 +127,7 @@ class SkipLSTM(nn.Module):
             # output, (hidden, cell) = self.lstm(h_)
             # output_unpacked, _ = pad_packed_sequence(output, batch_first=True)
             # hs = output_unpacked
-            hs = [one_hot]
+            hs = []
             h_ = pack_padded_sequence(one_hot, length, batch_first=True, enforce_sorted=False)
             for f in self.lstm:
                 h, _ = f(h_)
@@ -134,6 +135,7 @@ class SkipLSTM(nn.Module):
             h_unpacked, _ = pad_packed_sequence(h_, batch_first=True)
             # hs.append(h_unpacked)
             # hs = torch.cat(hs, dim=2)
+            # hs = self.proj(hs)
             hs = h_unpacked
         else:
             results = self.esm(x, repr_layers=[self.repr_layers], return_contacts=False)

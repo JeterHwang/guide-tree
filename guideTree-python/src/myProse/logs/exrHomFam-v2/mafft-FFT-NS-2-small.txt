@@ -1,0 +1,291 @@
+lstm.0.weight_ih_l0
+lstm.0.weight_hh_l0
+lstm.0.bias_ih_l0
+lstm.0.bias_hh_l0
+lstm.0.weight_ih_l0_reverse
+lstm.0.weight_hh_l0_reverse
+lstm.0.bias_ih_l0_reverse
+lstm.0.bias_hh_l0_reverse
+lstm.1.weight_ih_l0
+lstm.1.weight_hh_l0
+lstm.1.bias_ih_l0
+lstm.1.bias_hh_l0
+lstm.1.weight_ih_l0_reverse
+lstm.1.weight_hh_l0_reverse
+lstm.1.bias_ih_l0_reverse
+lstm.1.bias_hh_l0_reverse
+lstm.2.weight_ih_l0
+lstm.2.weight_hh_l0
+lstm.2.bias_ih_l0
+lstm.2.bias_hh_l0
+lstm.2.weight_ih_l0_reverse
+lstm.2.weight_hh_l0_reverse
+lstm.2.bias_ih_l0_reverse
+lstm.2.bias_hh_l0_reverse
+proj.weight
+proj.bias
+Now processing file (1/86) : ALBUMIN.tfa
+SP-score = 0.73
+TC = 0.653
+Now processing file (2/86) : B.tfa
+SP-score = 1.0
+TC = 1.0
+Now processing file (3/86) : Bcl-2.tfa
+SP-score = 0.878
+TC = 0.82
+Now processing file (4/86) : Binary_toxA.tfa
+SP-score = 0.594
+TC = 0.464
+Now processing file (5/86) : BIR.tfa
+SP-score = 0.803
+TC = 0.638
+Now processing file (6/86) : bowman.tfa
+SP-score = 0.549
+TC = 0.2
+Now processing file (7/86) : bv.tfa
+SP-score = 0.181
+TC = 0.0183
+Now processing file (8/86) : CBD_3.tfa
+SP-score = 0.619
+TC = 0.471
+Now processing file (9/86) : cbm12.tfa
+SP-score = 0.578
+TC = 0.38
+Now processing file (10/86) : CBM_20.tfa
+SP-score = 0.89
+TC = 0.694
+Now processing file (11/86) : ChtBD.tfa
+SP-score = 0.983
+TC = 0.953
+Now processing file (12/86) : cks.tfa
+SP-score = 0.986
+TC = 0.973
+Now processing file (13/86) : Colicin.tfa
+SP-score = 0.902
+TC = 0.854
+Now processing file (14/86) : Colicin_Pyocin.tfa
+SP-score = 0.892
+TC = 0.839
+Now processing file (15/86) : Cyclotide.tfa
+SP-score = 0.873
+TC = 0.793
+Now processing file (16/86) : Cys-protease-3C.tfa
+SP-score = 0.686
+TC = 0.539
+Now processing file (17/86) : cyt3.tfa
+SP-score = 0.608
+TC = 0.212
+Now processing file (18/86) : cyto.tfa
+SP-score = 1.0
+TC = 1.0
+Now processing file (19/86) : cytprime.tfa
+SP-score = 0.87
+TC = 0.806
+Now processing file (20/86) : DISIN.tfa
+SP-score = 1.0
+TC = 1.0
+Now processing file (21/86) : DNA_PPF.tfa
+SP-score = 0.37
+TC = 0.26
+Now processing file (22/86) : E2_C.tfa
+SP-score = 0.928
+TC = 0.877
+Now processing file (23/86) : EF1BD.tfa
+SP-score = 0.799
+TC = 0.7
+Now processing file (24/86) : ENTH.tfa
+SP-score = 0.812
+TC = 0.782
+Now processing file (25/86) : ets.tfa
+SP-score = 0.893
+TC = 0.766
+Now processing file (26/86) : FN1.tfa
+SP-score = 0.932
+TC = 0.896
+Now processing file (27/86) : GATA.tfa
+SP-score = 0.947
+TC = 0.906
+Now processing file (28/86) : ghf11.tfa
+SP-score = 0.897
+TC = 0.771
+Now processing file (29/86) : ghf14.tfa
+SP-score = 0.844
+TC = 0.782
+Now processing file (30/86) : ghf22.tfa
+SP-score = 0.932
+TC = 0.831
+Now processing file (31/86) : ghf33.tfa
+SP-score = 0.349
+TC = 0.166
+Now processing file (32/86) : ghf6.tfa
+SP-score = 0.722
+TC = 0.643
+Now processing file (33/86) : ghf7.tfa
+SP-score = 0.937
+TC = 0.878
+Now processing file (34/86) : hip.tfa
+SP-score = 0.807
+TC = 0.619
+Now processing file (35/86) : Huristasin.tfa
+SP-score = 0.541
+TC = 0.346
+Now processing file (36/86) : ins.tfa
+SP-score = 0.896
+TC = 0.696
+Now processing file (37/86) : intb.tfa
+SP-score = 0.581
+TC = 0.428
+Now processing file (38/86) : leukocidin.tfa
+SP-score = 0.864
+TC = 0.811
+Now processing file (39/86) : Levi_coat.tfa
+SP-score = 0.922
+TC = 0.846
+Now processing file (40/86) : lta.tfa
+SP-score = 0.993
+TC = 0.989
+Now processing file (41/86) : LuxS.tfa
+SP-score = 0.918
+TC = 0.88
+Now processing file (42/86) : MCR_alpha_N.tfa
+SP-score = 0.961
+TC = 0.936
+Now processing file (43/86) : MCR_beta.tfa
+SP-score = 0.997
+TC = 0.996
+Now processing file (44/86) : MCR_beta_N.tfa
+SP-score = 1.0
+TC = 1.0
+Now processing file (45/86) : MCR_beta_NC.tfa
+SP-score = 0.998
+TC = 0.998
+Now processing file (46/86) : MCR_gamma.tfa
+SP-score = 0.981
+TC = 0.972
+Now processing file (47/86) : MIF.tfa
+SP-score = 0.982
+TC = 0.974
+Now processing file (48/86) : MMOB.tfa
+SP-score = 0.906
+TC = 0.863
+Now processing file (49/86) : mthina.tfa
+SP-score = 1.0
+TC = 1.0
+Now processing file (50/86) : mthinb.tfa
+SP-score = 0.978
+TC = 0.967
+Now processing file (51/86) : mycin.tfa
+SP-score = 0.87
+TC = 0.752
+Now processing file (52/86) : ngf.tfa
+SP-score = 0.936
+TC = 0.907
+Now processing file (53/86) : NO_synthase.tfa
+SP-score = 0.954
+TC = 0.943
+Now processing file (54/86) : NTP_transf_2_2.tfa
+SP-score = 0.897
+TC = 0.859
+Now processing file (55/86) : P.tfa
+SP-score = 0.92
+TC = 0.839
+Now processing file (56/86) : Peptidase_S21.tfa
+SP-score = 0.912
+TC = 0.863
+Now processing file (57/86) : phc.tfa
+SP-score = 0.932
+TC = 0.838
+Now processing file (58/86) : phoslip.tfa
+SP-score = 0.897
+TC = 0.713
+Now processing file (59/86) : planttoxin.tfa
+SP-score = 0.847
+TC = 0.787
+Now processing file (60/86) : pot.tfa
+SP-score = 0.939
+TC = 0.897
+Now processing file (61/86) : pp.tfa
+SP-score = 1.0
+TC = 1.0
+Now processing file (62/86) : profilin.tfa
+SP-score = 0.92
+TC = 0.805
+Now processing file (63/86) : Propep_M14.tfa
+SP-score = 0.955
+TC = 0.915
+Now processing file (64/86) : PSI_PsaE.tfa
+SP-score = 0.969
+TC = 0.957
+Now processing file (65/86) : ricin.tfa
+SP-score = 0.79
+TC = 0.641
+Now processing file (66/86) : rnase.tfa
+SP-score = 0.993
+TC = 0.991
+Now processing file (67/86) : rnasemam.tfa
+SP-score = 0.873
+TC = 0.679
+Now processing file (68/86) : RuBisCO_small.tfa
+SP-score = 0.905
+TC = 0.784
+Now processing file (69/86) : SAP.tfa
+SP-score = 0.9
+TC = 0.841
+Now processing file (70/86) : scorptoxin.tfa
+SP-score = 0.904
+TC = 0.836
+Now processing file (71/86) : squash.tfa
+SP-score = 0.661
+TC = 0.345
+Now processing file (72/86) : Stap_Strp_toxin.tfa
+SP-score = 0.564
+TC = 0.23
+Now processing file (73/86) : sti.tfa
+SP-score = 0.7
+TC = 0.451
+Now processing file (74/86) : tbpc.tfa
+SP-score = 0.474
+TC = 0.0
+Now processing file (75/86) : tgfb.tfa
+SP-score = 0.802
+TC = 0.513
+Now processing file (76/86) : THAUMATIN.tfa
+SP-score = 0.806
+TC = 0.727
+Now processing file (77/86) : thionin.tfa
+SP-score = 0.985
+TC = 0.978
+Now processing file (78/86) : TMV_coat.tfa
+SP-score = 0.991
+TC = 0.981
+Now processing file (79/86) : TNF.tfa
+SP-score = 0.795
+TC = 0.611
+Now processing file (80/86) : toxin.tfa
+SP-score = 0.714
+TC = 0.468
+Now processing file (81/86) : toxin_2.tfa
+SP-score = 0.894
+TC = 0.578
+Now processing file (82/86) : trfl.tfa
+SP-score = 0.461
+TC = 0.0228
+Now processing file (83/86) : UcrQ.tfa
+SP-score = 0.902
+TC = 0.852
+Now processing file (84/86) : UCR_TM.tfa
+SP-score = 0.844
+TC = 0.784
+Now processing file (85/86) : Yers_vir_YopE.tfa
+SP-score = 0.6
+TC = 0.54
+Now processing file (86/86) : adeno_fiber.tfa
+SP-score = 0.913
+TC = 0.861
+========== Before Training ==========
+Guide Tree Evaluation : 
+Category		SP		TC
+small		0.8340465116279069		0.7287802325581393
+Total Execution Time : 420.8941898345947 (s)
+===================================
+1080Ti

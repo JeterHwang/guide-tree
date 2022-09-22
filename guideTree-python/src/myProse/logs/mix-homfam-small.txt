@@ -1,83 +1,298 @@
-# loaded 117356 sequence pairs
-# loaded 13459 sequence pairs
+lstm.0.weight_ih_l0
+lstm.0.weight_hh_l0
+lstm.0.bias_ih_l0
+lstm.0.bias_hh_l0
+lstm.0.weight_ih_l0_reverse
+lstm.0.weight_hh_l0_reverse
+lstm.0.bias_ih_l0_reverse
+lstm.0.bias_hh_l0_reverse
+lstm.1.weight_ih_l0
+lstm.1.weight_hh_l0
+lstm.1.bias_ih_l0
+lstm.1.bias_hh_l0
+lstm.1.weight_ih_l0_reverse
+lstm.1.weight_hh_l0_reverse
+lstm.1.bias_ih_l0_reverse
+lstm.1.bias_hh_l0_reverse
+lstm.2.weight_ih_l0
+lstm.2.weight_hh_l0
+lstm.2.bias_ih_l0
+lstm.2.bias_hh_l0
+lstm.2.weight_ih_l0_reverse
+lstm.2.weight_hh_l0_reverse
+lstm.2.bias_ih_l0_reverse
+lstm.2.bias_hh_l0_reverse
+proj.weight
+proj.bias
 Now processing file (1/38) : rnasemam.tfa
-Finish in 0.04216456413269043 seconds
+Unique sequences : 493 / 498
+Finish embedding in 1.0591819286346436 secs.
+Finish in 0.023541688919067383 seconds
+Cluster Sizes : [493]
+SP-score = 0.9032835820895523
+TC = 0.6492537313432836
 Now processing file (2/38) : cyt3.tfa
-Finish in 0.02816915512084961 seconds
+Unique sequences : 377 / 385
+Finish embedding in 0.8297309875488281 secs.
+Finish in 0.015864849090576172 seconds
+Cluster Sizes : [377]
+SP-score = 0.8036769533814839
+TC = 0.5508474576271186
 Now processing file (3/38) : toxin.tfa
-Finish in 0.03746652603149414 seconds
+Unique sequences : 501 / 508
+Finish embedding in 0.7447292804718018 secs.
+Finish in 0.04590940475463867 seconds
+Cluster Sizes : [343, 158]
+SP-score = 0.8692923412770602
+TC = 0.45454545454545453
 Now processing file (4/38) : Stap_Strp_toxin.tfa
-Finish in 0.04684710502624512 seconds
+Unique sequences : 491 / 640
+Finish embedding in 0.9882781505584717 secs.
+Finish in 0.02310323715209961 seconds
+Cluster Sizes : [491]
+SP-score = 0.759510420112471
+TC = 0.37448559670781895
 Now processing file (5/38) : sodcu.tfa
-Finish in 0.14937949180603027 seconds
+Unique sequences : 1977 / 2038
+Finish embedding in 3.6078693866729736 secs.
+Finish in 0.25742149353027344 seconds
+Cluster Sizes : [473, 383, 361, 306, 235, 219]
+SP-score = 0.8359683794466403
+TC = 0.6867469879518072
 Now processing file (6/38) : TNF.tfa
-Finish in 0.04410862922668457 seconds
+Unique sequences : 531 / 556
+Finish embedding in 1.1767990589141846 secs.
+Finish in 0.04196023941040039 seconds
+Cluster Sizes : [435, 96]
+SP-score = 0.8820143884892087
+TC = 0.7070063694267515
 Now processing file (7/38) : tgfb.tfa
-Finish in 0.11806201934814453 seconds
+Unique sequences : 1540 / 1606
+Finish embedding in 2.088369131088257 secs.
+Finish in 0.24330377578735352 seconds
+Cluster Sizes : [364, 336, 214, 190, 175, 147, 114]
+SP-score = 0.859493670886076
+TC = 0.48717948717948717
 Now processing file (8/38) : slectin.tfa
-Finish in 0.06767511367797852 seconds
+Unique sequences : 910 / 932
+Finish embedding in 2.111912488937378 secs.
+Finish in 0.09751415252685547 seconds
+Cluster Sizes : [449, 249, 212]
+SP-score = 0.9412219644238206
+TC = 0.8686131386861314
 Now processing file (9/38) : ghf5.tfa
-Finish in 0.19901514053344727 seconds
+Unique sequences : 2649 / 2717
+Finish embedding in 9.293425798416138 secs.
+Finish in 0.5828254222869873 seconds
+Cluster Sizes : [462, 404, 384, 375, 335, 321, 206, 162]
+SP-score = 0.5496688741721855
+TC = 0.2390745501285347
 Now processing file (10/38) : az.tfa
-Finish in 0.0789496898651123 seconds
+Unique sequences : 1064 / 1086
+Finish embedding in 1.8933322429656982 secs.
+Finish in 0.10405778884887695 seconds
+Cluster Sizes : [403, 331, 330]
+SP-score = 0.7520889189681651
+TC = 0.3641304347826087
 Now processing file (11/38) : il8.tfa
-Finish in 0.0764620304107666 seconds
+Unique sequences : 1057 / 1073
+Finish embedding in 1.1759305000305176 secs.
+Finish in 0.11027169227600098 seconds
+Cluster Sizes : [474, 394, 189]
+SP-score = 0.8233964396722238
+TC = 0.4935064935064935
 Now processing file (12/38) : kringle.tfa
-Finish in 0.07907581329345703 seconds
+Unique sequences : 1075 / 1091
+Finish embedding in 1.3345589637756348 secs.
+Finish in 0.1676771640777588 seconds
+Cluster Sizes : [397, 367, 264, 47]
+SP-score = 0.9033747779751332
+TC = 0.7528089887640449
 Now processing file (13/38) : ChtBD.tfa
-Finish in 0.0643913745880127 seconds
+Unique sequences : 732 / 774
+Finish embedding in 0.759993314743042 secs.
+Finish in 0.06889605522155762 seconds
+Cluster Sizes : [311, 229, 192]
+SP-score = 0.9251207729468599
+TC = 0.7906976744186046
 Now processing file (14/38) : kunitz.tfa
-Finish in 0.17331290245056152 seconds
+Unique sequences : 2256 / 2266
+Finish embedding in 1.883638858795166 secs.
+Finish in 0.5143909454345703 seconds
+Cluster Sizes : [433, 361, 347, 341, 236, 216, 196, 105, 21]
+SP-score = 0.9477227722772277
+TC = 0.7333333333333333
 Now processing file (15/38) : ghf11.tfa
-Finish in 0.03834414482116699 seconds
+Unique sequences : 512 / 521
+Finish embedding in 1.425154209136963 secs.
+Finish in 0.03932309150695801 seconds
+Cluster Sizes : [438, 74]
+SP-score = 0.9204035874439462
+TC = 0.796875
 Now processing file (16/38) : ghf22.tfa
-Finish in 0.05601644515991211 seconds
+Unique sequences : 710 / 760
+Finish embedding in 1.3050291538238525 secs.
+Finish in 0.09326052665710449 seconds
+Cluster Sizes : [346, 171, 100, 93]
+SP-score = 0.9574234476027815
+TC = 0.8307692307692308
 Now processing file (17/38) : profilin.tfa
-Finish in 0.05223369598388672 seconds
+Unique sequences : 672 / 687
+Finish embedding in 1.417876958847046 secs.
+Finish in 0.055527448654174805 seconds
+Cluster Sizes : [406, 266]
+SP-score = 0.9264943457189014
+TC = 0.8203125
 Now processing file (18/38) : DMRL_synthase.tfa
-Finish in 0.15629148483276367 seconds
+Unique sequences : 2038 / 2099
+Finish embedding in 3.485217571258545 secs.
+Finish in 0.3233211040496826 seconds
+Cluster Sizes : [435, 395, 271, 267, 255, 142, 125, 106, 42]
+SP-score = 0.9215017064846417
+TC = 0.727810650887574
 Now processing file (19/38) : ricin.tfa
-Finish in 0.05883979797363281 seconds
+Unique sequences : 684 / 747
+Finish embedding in 1.9862074851989746 secs.
+Finish in 0.08015751838684082 seconds
+Cluster Sizes : [339, 176, 169]
+SP-score = 0.9077404222048475
+TC = 0.7362637362637363
 Now processing file (20/38) : mmp.tfa
-Finish in 0.10611987113952637 seconds
+Unique sequences : 1350 / 1427
+Finish embedding in 3.9239895343780518 secs.
+Finish in 0.19249939918518066 seconds
+Cluster Sizes : [412, 356, 238, 167, 151, 26]
+SP-score = 0.9722572509457755
+TC = 0.9171597633136095
 Now processing file (21/38) : phoslip.tfa
-Finish in 0.06928515434265137 seconds
+Unique sequences : 933 / 946
+Finish embedding in 1.6052799224853516 secs.
+Finish in 0.11515450477600098 seconds
+Cluster Sizes : [441, 406, 86]
+SP-score = 0.9593518570076285
+TC = 0.7352941176470589
 Now processing file (22/38) : ins.tfa
-Finish in 0.06314682960510254 seconds
+Unique sequences : 733 / 793
+Finish embedding in 1.3762078285217285 secs.
+Finish in 0.0791177749633789 seconds
+Cluster Sizes : [492, 241]
+SP-score = 0.9431345353675451
+TC = 0.782608695652174
 Now processing file (23/38) : rub.tfa
-Finish in 0.10254049301147461 seconds
+Unique sequences : 1429 / 1435
+Finish embedding in 1.163407325744629 secs.
+Finish in 0.22225666046142578 seconds
+Cluster Sizes : [427, 419, 348, 133, 102]
+SP-score = 0.9836734693877551
+TC = 0.9259259259259259
 Now processing file (24/38) : KAS.tfa
-Finish in 0.1528148651123047 seconds
+Unique sequences : 1876 / 2070
+Finish embedding in 4.615802049636841 secs.
+Finish in 0.33727312088012695 seconds
+Cluster Sizes : [446, 355, 314, 268, 220, 127, 97, 49]
+SP-score = 0.5411863341018655
+TC = 0.3275
 Now processing file (25/38) : DEATH.tfa
-Finish in 0.08645892143249512 seconds
+Unique sequences : 1158 / 1183
+Finish embedding in 1.4746637344360352 secs.
+Finish in 0.1524369716644287 seconds
+Cluster Sizes : [354, 310, 214, 212, 68]
+SP-score = 0.7263707571801566
+TC = 0.3387096774193548
 Now processing file (26/38) : Sulfotransfer.tfa
-Finish in 0.25475478172302246 seconds
+Unique sequences : 2439 / 2489
+Finish embedding in 7.643529653549194 secs.
+Finish in 0.5477626323699951 seconds
+Cluster Sizes : [377, 363, 362, 305, 264, 242, 192, 187, 147]
+SP-score = 0.6751565762004176
+TC = 0.3277027027027027
 Now processing file (27/38) : ltn.tfa
-Finish in 0.07814550399780273 seconds
+Unique sequences : 1037 / 1068
+Finish embedding in 3.0641744136810303 secs.
+Finish in 0.11116695404052734 seconds
+Cluster Sizes : [489, 489, 59]
+SP-score = 0.9105613701236918
+TC = 0.6679841897233202
 Now processing file (28/38) : GEL.tfa
-Finish in 0.15868282318115234 seconds
+Unique sequences : 2171 / 2195
+Finish embedding in 2.4754648208618164 secs.
+Finish in 0.417327880859375 seconds
+Cluster Sizes : [453, 371, 342, 319, 315, 201, 170]
+SP-score = 0.5343283582089552
+TC = 0.2945205479452055
 Now processing file (29/38) : phc.tfa
-Finish in 0.21446967124938965 seconds
+Unique sequences : 2751 / 2957
+Finish embedding in 4.820393800735474 secs.
+Finish in 0.5134692192077637 seconds
+Cluster Sizes : [495, 449, 444, 402, 280, 250, 239, 192]
+SP-score = 0.9717247879359096
+TC = 0.88268156424581
 Now processing file (30/38) : scorptoxin.tfa
-Finish in 0.02698802947998047 seconds
+Unique sequences : 363 / 363
+Finish embedding in 0.6620290279388428 secs.
+Finish in 0.015387296676635742 seconds
+Cluster Sizes : [363]
+SP-score = 0.9287410926365796
+TC = 0.726027397260274
 Now processing file (31/38) : tms.tfa
-Finish in 0.15853071212768555 seconds
+Unique sequences : 2028 / 2118
+Finish embedding in 6.75214147567749 secs.
+Finish in 0.3432157039642334 seconds
+Cluster Sizes : [433, 403, 345, 268, 245, 198, 113, 23]
+SP-score = 0.938337801608579
+TC = 0.8245614035087719
 Now processing file (32/38) : seatoxin.tfa
-Finish in 0.006923675537109375 seconds
+Unique sequences : 88 / 93
+Finish embedding in 0.4506185054779053 secs.
+Finish in 0.0043201446533203125 seconds
+Cluster Sizes : [88]
+SP-score = 0.8449074074074074
+TC = 0.5306122448979592
 Now processing file (33/38) : hip.tfa
-Finish in 0.012295961380004883 seconds
+Unique sequences : 159 / 167
+Finish embedding in 0.512326717376709 secs.
+Finish in 0.006596565246582031 seconds
+Cluster Sizes : [159]
+SP-score = 0.877643504531722
+TC = 0.6547619047619048
 Now processing file (34/38) : mofe.tfa
-Finish in 0.19119691848754883 seconds
+Unique sequences : 2527 / 2567
+Finish embedding in 11.122640609741211 secs.
+Finish in 0.512448787689209 seconds
+Cluster Sizes : [496, 446, 417, 412, 295, 262, 199]
+SP-score = 0.8276742788461539
+TC = 0.6320754716981132
 Now processing file (35/38) : sti.tfa
-Finish in 0.051026105880737305 seconds
+Unique sequences : 602 / 613
+Finish embedding in 1.6578781604766846 secs.
+Finish in 0.046999454498291016 seconds
+Cluster Sizes : [309, 293]
+SP-score = 0.8071915685058897
+TC = 0.5978260869565217
 Now processing file (36/38) : ghf10.tfa
-Finish in 0.11965346336364746 seconds
+Unique sequences : 1481 / 1502
+Finish embedding in 5.156687259674072 secs.
+Finish in 0.1989762783050537 seconds
+Cluster Sizes : [483, 399, 390, 122, 87]
+SP-score = 0.9224806201550387
+TC = 0.7956656346749226
 Now processing file (37/38) : Ald_Xan_dh_2.tfa
-Finish in 0.18842363357543945 seconds
+Unique sequences : 2541 / 2589
+Finish embedding in 4.134108066558838 secs.
+Finish in 0.5989141464233398 seconds
+Cluster Sizes : [475, 448, 415, 390, 350, 255, 197, 11]
+SP-score = 0.5696582801351859
+TC = 0.12860576923076922
 Now processing file (38/38) : cah.tfa
-Finish in 0.10117411613464355 seconds
+Unique sequences : 1333 / 1379
+Finish embedding in 3.8513193130493164 secs.
+Finish in 0.17252683639526367 seconds
+Cluster Sizes : [374, 362, 309, 288]
+SP-score = 0.8760794473229706
+TC = 0.7084870848708487
 ========== Before Training ==========
 Guide Tree Evaluation : 
 Category		SP		TC
-small		0.8643294871613052		0.6534976248072123
+small		0.847364659557433		0.627972921019928
+Total Execution Time : 343.9738585948944 (s)
 ===================================

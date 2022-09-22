@@ -14,6 +14,7 @@ from subprocess import PIPE
 from scipy.stats import pearsonr, spearmanr
 from gmm import GMM_Batch
 from kmeans_pytorch import kmeans
+import logging
 BIG_DIST = 1000000000
 
 def calculate_corr(ground, predicted):
@@ -27,7 +28,7 @@ def runcmd(command):
     if ret.returncode == 0:
         return ret.stdout
     else:
-        print(f"Error : {ret.stderr}")
+        logging.error(f"Error : {ret.stderr}")
         return ret.stderr
 
 def read_data(seq_path : Path, step=3):
@@ -170,7 +171,7 @@ def UPGMA(distmat, seqID, tree_dir):
     with open(tree_dir, 'w') as f:
         while True:
             if (Lindex[root] != -1 and Lindex[root] >= root) or (Rindex[root] != -1 and Rindex[root] >= root):
-                print('Loop Found !!')
+                logging.error('Loop Found !!')
             
             visited[root] = 1
             if root < leafNode:
@@ -180,7 +181,7 @@ def UPGMA(distmat, seqID, tree_dir):
                 elif Rindex[parent_idx] == root:
                     f.write(f"{seqID[root]}:{Rlength[parent_idx]}\n")
                 else:
-                    print("ERR !!")
+                    logging.error("ERR !!")
                 root = parent_idx
             elif visited[int(Lindex[root])] == 0:
                 f.write('(\n')
@@ -199,7 +200,7 @@ def UPGMA(distmat, seqID, tree_dir):
                     elif Rindex[parent_idx] == root:
                         f.write(f"):{Rlength[parent_idx]}\n")
                     else:
-                        print("ERR !!")
+                        logging.error("ERR !!")
                     root = parent_idx
         f.write(';')
 
@@ -296,7 +297,7 @@ def BisectingKmeans(seqs, min_cluster_size=500):
             'embedding' : center
         })
         clusters.append(cluster_seqs)
-    print(f'Finish in {time.time() - start_time} seconds')
+    logging.info(f'Finish K-means in {time.time() - start_time} seconds')
     return centers, clusters
 
 def identical_seqs_to_subtree(identical_seqs):
@@ -315,11 +316,13 @@ def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir):
     ## Use MAFFT to build guide tree in sub-clusters
     tree_files = []
     for i, cluster in enumerate(tqdm(clusters, desc="Construct Subtrees:")):
+        name_mapping = {}
         fasta_path = fasta_dir / f"{tree_path.stem}-{i}.fa"
         with open(fasta_path, 'w') as fa:
             if len(cluster) == 0:
-                print('Error : Empty Subcluster !!')
+                logging.error('Error : Empty Subcluster !!')
             for seq in cluster:
+                name_mapping[seq['name'].replace('.', '_').replace('|', '_')] = seq['name']
                 fa.write(f">{seq['name']}\n")
                 fa.write(f"{seq['seq']}\n")
         
@@ -340,10 +343,14 @@ def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir):
                 underscore = line.find('_')
                 if underscore != -1:
                     line = line[underscore+1:]
-                    seq_name = line.replace('\n', '')
+                seq_name = line.replace('\n', '')
+                if seq_name in name_mapping:
+                    seq_name = name_mapping[seq_name]
                     if id2cluster[seq_name] is not None:
                         lines[-1] = lines[-1].replace('\n', '')
                         line = identical_seqs_to_subtree(id2cluster[seq_name])
+                    else:
+                        line = seq_name + '\n'
                 if isinstance(line, str):
                     lines.append(line)
                 else:
@@ -422,7 +429,7 @@ def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir):
     with open(tree_path, 'w') as f:
         while True:
             if (Lindex[root] != -1 and Lindex[root] >= root) or (Rindex[root] != -1 and Rindex[root] >= root):
-                print('Loop Found !!')
+                logging.error('Loop Found !!')
             
             visited[root] = 1
             if root < leafNode:
@@ -444,7 +451,7 @@ def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir):
                             # line = line.replace(";", f":1.0")
                         f.write(line)
                 else:
-                    print("ERR !!")
+                    logging.error("Tree Construction Error !!")
                 root = parent_idx
             elif visited[int(Lindex[root])] == 0:
                 f.write('(')
@@ -463,6 +470,6 @@ def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir):
                     elif Rindex[parent_idx] == root:
                         f.write(f"):{Rlength[parent_idx]}")
                     else:
-                        print("ERR !!")
+                        logging.error("Tree Construction Error !!")
                     root = parent_idx
         f.write(';')

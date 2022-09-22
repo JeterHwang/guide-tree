@@ -17,6 +17,8 @@ from esm.esm import pretrained
 from model import SkipLSTM
 from dataset import SCOPePairsDataset, LSTMDataset, SSADataset
 from Bio import SeqIO
+import logging
+import datetime
 from utils import (
     L2_distance, 
     SSA_score_slow, 
@@ -68,10 +70,21 @@ def eval_prog(args):
         fasta_dir = Path("../../data/homfam/medium")
     elif args.eval_dataset == 'homfam-large':
         fasta_dir = Path("../../data/homfam/large")
+    elif args.eval_dataset == 'exthomfam-small':
+        fasta_dir = Path("../../data/extHomFam-v3/small")
+    elif args.eval_dataset == 'exthomfam-medium':
+        fasta_dir = Path("../../data/extHomFam-v3/medium")
+    elif args.eval_dataset == 'exthomfam-huge':
+        fasta_dir = Path("../../data/extHomFam-v3/huge")
+    elif args.eval_dataset == 'exthomfam-large':
+        fasta_dir = Path("../../data/extHomFam-v3/large")
+    elif args.eval_dataset == 'exthomfam-xlarge':
+        fasta_dir = Path("../../data/extHomFam-v3/xlarge")
     else:
         raise NotImplementedError
     for i, fastaFile in enumerate(tqdm(list(fasta_dir.glob('**/*.tfa')), desc="Eval Guide Tree")):
-        print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
+        # print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
+        logging.info(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
         raw_seqs = list(SeqIO.parse(fastaFile, 'fasta'))
         ## Alignment
         if args.align_prog == "clustalo":
@@ -85,7 +98,7 @@ def eval_prog(args):
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
             pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-            ret = runcmd(f"./mafft --anysymbol --thread 8 {fastaFile.absolute().resolve()}").decode().split('\n')
+            ret = runcmd(f"./mafft --anysymbol --thread 16 {fastaFile.absolute().resolve()}").decode().split('\n')
             with open(pfa_path, 'w') as f:
                 for line in ret:
                     f.write(line + '\n')
@@ -94,7 +107,7 @@ def eval_prog(args):
                 raise NotImplementedError
             pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
             if args.align_prog == "famsa":
-                runcmd(f"famsa -gt upgma -t 8 {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
+                runcmd(f"famsa -gt upgma -t 16 {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
             else:
                 runcmd(f"t_coffee -reg -thread 0 -child_thread 0 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree mbed -method mafftginsi_msa -outfile {pfa_path.absolute().resolve()}")
         ## Calculate Score
@@ -116,11 +129,18 @@ def eval_prog(args):
                     if seq_name in seq_in_ref:
                         f.write(f">{seq_name}\n")
                         f.write(f"{seq_data}\n")
-            raw_scores = runcmd(f"java -jar {args.fastSP_path.absolute().resolve()} -r {rfa_path.absolute().resolve()} -e {rfa_pfa_path.absolute().resolve()}").decode().split()
-            SP = float(raw_scores[raw_scores.index('SP-Score') + 1])
-            TC = float(raw_scores[raw_scores.index('TC') + 1])
-        print(f"SP-score = {SP}")
-        print(f"TC = {TC}")
+            if args.eval_dataset in ["homfam-small", "homfam-medium", "homfam-large"]:
+                raw_scores = runcmd(f"java -jar {args.fastSP_path.absolute().resolve()} -r {rfa_path.absolute().resolve()} -e {rfa_pfa_path.absolute().resolve()}").decode().split()
+                SP = float(raw_scores[raw_scores.index('SP-Score') + 1])
+                TC = float(raw_scores[raw_scores.index('TC') + 1])
+            else:
+                raw_scores = runcmd(f"qscore -test {rfa_pfa_path.absolute().resolve()} -ref {rfa_path.absolute().resolve()}").decode().replace('\n', '').split(';')                
+                SP = float(raw_scores[2][2:])
+                TC = float(raw_scores[3][3:])
+        # print(f"SP-score = {SP}")
+        # print(f"TC = {TC}")
+        logging.info(f"SP-score = {SP}")
+        logging.info(f"TC = {TC}")
         # Collect Score
         category = fastaFile.parents[0].name
         if category not in result:
@@ -150,14 +170,25 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
         fasta_dir = Path("../../data/homfam/medium")
     elif args.eval_dataset == 'homfam-large':
         fasta_dir = Path("../../data/homfam/large")
+    elif args.eval_dataset == 'exthomfam-small':
+        fasta_dir = Path("../../data/extHomFam-v3/small")
+    elif args.eval_dataset == 'exthomfam-medium':
+        fasta_dir = Path("../../data/extHomFam-v3/medium")
+    elif args.eval_dataset == 'exthomfam-huge':
+        fasta_dir = Path("../../data/extHomFam-v3/huge")
+    elif args.eval_dataset == 'exthomfam-large':
+        fasta_dir = Path("../../data/extHomFam-v3/large")
+    elif args.eval_dataset == 'exthomfam-xlarge':
+        fasta_dir = Path("../../data/extHomFam-v3/xlarge")
     else:
         raise NotImplementedError
 
     for i, fastaFile in enumerate(tqdm(list(fasta_dir.glob('**/*.tfa')), desc="Eval Guide Tree")):
-        print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
+        # print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
+        logging.info(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
         ## Read sequences
         raw_seqs = list(SeqIO.parse(fastaFile, 'fasta'))
-        seqs = []
+        seqs, avg_len = [], 0
         for idx, seq in enumerate(raw_seqs):
             seqs.append({
                 'num' : idx + 1,
@@ -165,6 +196,10 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
                 'seq' : str(seq.seq),
                 'embedding' : None,
             })
+            avg_len += len(str(seq.seq))
+        avg_len /= len(raw_seqs)
+        # print(f"Average Sequence Length : {avg_len}")
+        logging.info(f"Average Sequence Length : {avg_len}")
         ##
         sorted_seqs = sorted(seqs, key=lambda seq : len(seq['seq']), reverse=True)
         queue, id2cluster = [], {}
@@ -181,8 +216,8 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             else:
                 id2cluster[uniq[0]['name']] = None
         unique_sorted_seqs.sort(key=lambda seq : seq['num'])
-        print(f"Unique sequences : {len(unique_sorted_seqs)} / {len(seqs)}")
-    
+        # print(f"Unique sequences : {len(unique_sorted_seqs)} / {len(seqs)}")
+        logging.info(f"Unique sequences : {len(unique_sorted_seqs)} / {len(seqs)}")
         
         ## Create Dataset / Dataloader
         if esm_alphabet is not None:
@@ -209,10 +244,12 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
         embeddings = torch.cat(embeddings, dim=0)
         for idx, emb in enumerate(embeddings):
             unique_sorted_seqs[idx]['embedding'] = emb
-        print(f"Finish embedding in {time.time() - start_time} secs.")
+        # print(f"Finish embedding in {time.time() - start_time} secs.")
+        logging.info(f"Finish embedding in {time.time() - start_time} secs.")
         
         centers, clusters = BisectingKmeans(unique_sorted_seqs)
-        print(f"Cluster Sizes : {[len(cl) for cl in clusters]}")
+        # print(f"Cluster Sizes : {[len(cl) for cl in clusters]}")
+        logging.info(f"Cluster Sizes : {[len(cl) for cl in clusters]}")
         if len(centers) > 1:
             center_embeddings = torch.stack([cen['embedding'] for cen in centers], dim=0)
             ## Create Distance Matrix
@@ -281,8 +318,10 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
                 SP = float(raw_scores[2][2:])
                 TC = float(raw_scores[3][3:])
 
-        print(f"SP-score = {SP}")
-        print(f"TC = {TC}")
+        # print(f"SP-score = {SP}")
+        # print(f"TC = {TC}")
+        logging.info(f"SP-score = {SP}")
+        logging.info(f"TC = {TC}")
         # Collect Score
         category = fastaFile.parents[0].name
         if category not in result:
@@ -532,16 +571,16 @@ def main(args):
     #     eval_loader, 
     #     args
     # )
-    print(f"========== Before Training ==========")
+    logging.info(f"========== Before Training ==========")
     # print(f"Evaluation Loss : {eval_loss}")
     # print(f"Evaluation Spearman Correlation : {eval_spearman}")
     # print(f"Evaluation Pearson Correlation : {eval_pearson}")
-    print(f"Guide Tree Evaluation : ")
-    print(f"Category\t\tSP\t\tTC")
+    logging.info(f"Guide Tree Evaluation : ")
+    logging.info(f"Category\t\tSP\t\tTC")
     for key, value in result.items():
-        print(f"{key}\t\t{value['SP']}\t\t{value['TC']}")
-    print(f"Total Execution Time : {time.time() - tot_start_time} (s)")
-    print(f"===================================")
+        logging.info(f"{key}\t\t{value['SP']}\t\t{value['TC']}")
+    logging.info(f"Total Execution Time : {time.time() - tot_start_time} (s)")
+    logging.info(f"===================================")
     
     # for epoch in range(args.num_epoch):
     #     train_loss, train_spearman, train_pearson = train(
@@ -651,7 +690,12 @@ def parse_args() -> Namespace:
         help="Directory to save the model file.",
         default="./fasta",
     )
-
+    parser.add_argument(
+        "--log_dir",
+        type=Path,
+        help="Path to logs",
+        default='./logs'
+    )
     # optimizer
     parser.add_argument("--lr", type=float, default=2e-5)
     parser.add_argument("--gamma", type=float, default=0.3106358771725278)
@@ -679,20 +723,36 @@ def parse_args() -> Namespace:
     parser.add_argument("--newick2mafft_path", type=Path, default="./newick2mafft.rb")
     parser.add_argument("--fastSP_path", type=Path, default="./FastSP/FastSP.jar")
     parser.add_argument("--align_prog", type=str, default='clustalo', choices=["clustalo", "mafft", "famsa", "t_coffee"])
-    parser.add_argument("--eval_dataset", type=str, default="bb3_release", choices=["bb3_release", "homfam-small", "homfam-medium", "homfam-large"])
+    parser.add_argument("--eval_dataset", type=str, default="bb3_release", choices=[
+        "bb3_release", 
+        "homfam-small", "homfam-medium", "homfam-large", 
+        "exthomfam-small", "exthomfam-medium", "exthomfam-large", "exthomfam-huge", "exthomfam-xlarge"
+    ])
     parser.add_argument("--no_tree", action='store_true')
     args = parser.parse_args()
     return args
 
 
 if __name__ == "__main__":
-    sys.stdout = open('./logging.txt', "w")
+    # sys.stdout = open('./logging.txt', "w")
     args = parse_args()
     args.ckpt_dir.mkdir(parents=True, exist_ok=True)
     args.plot_dir.mkdir(parents=True, exist_ok=True)
     args.tree_dir.mkdir(parents=True, exist_ok=True)
     args.msf_dir.mkdir(parents=True, exist_ok=True)
     args.fasta_dir.mkdir(parents=True, exist_ok=True)
+    args.log_dir.mkdir(parents=True, exist_ok=True)
     os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
     os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
+    if args.no_tree:
+        log_filename = args.log_dir / datetime.datetime.now().strftime(f"{args.align_prog}_{args.eval_dataset}_%Y-%m-%d_%H_%M_%S.log")
+    else:
+        log_filename = args.log_dir / datetime.datetime.now().strftime(f"mix_{args.align_prog}_{args.eval_dataset}_%Y-%m-%d_%H_%M_%S.log")        
+    logging.basicConfig(
+        level=logging.INFO, 
+        filename=log_filename, 
+        filemode='w',
+	    format='[%(asctime)s %(levelname)-8s] %(message)s',
+	    datefmt='%Y%m%d %H:%M:%S',
+	)
     main(args)
