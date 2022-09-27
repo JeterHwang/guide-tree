@@ -1,0 +1,4 @@
+numba
+scipy
+Bio
+sklearn

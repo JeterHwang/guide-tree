@@ -182,7 +182,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
         fasta_dir = Path("../../data/extHomFam-v3/xlarge")
     else:
         raise NotImplementedError
-
+    model = model.cuda()
     for i, fastaFile in enumerate(tqdm(list(fasta_dir.glob('**/*.tfa')), desc="Eval Guide Tree")):
         # print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
         logging.info(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
@@ -226,7 +226,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             dataset = LSTMDataset([seq['seq'] for seq in unique_sorted_seqs])
         eval_loader = torch.utils.data.DataLoader(
             dataset,
-            batch_size=20,
+            batch_size=32,
             collate_fn=dataset.collate_fn,
             pin_memory=True,
             # batch_sampler=dataset.batch_sampler(args.toks_per_batch_eval),
@@ -525,7 +525,7 @@ def main(args):
         repr_layer,
         hidden_dim,
         args.output_dim
-    ).cuda()
+    )
     # mse_criterion = torch.nn.MSELoss()
     # if args.no_decay_keys:
     #     keys = args.no_decay_keys.split('#')

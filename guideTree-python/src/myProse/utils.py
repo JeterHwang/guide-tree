@@ -1,4 +1,3 @@
-from importlib.resources import path
 import json
 import os
 from typing import Mapping
@@ -204,7 +203,7 @@ def UPGMA(distmat, seqID, tree_dir):
                     root = parent_idx
         f.write(';')
 
-def BisectingKmeans(seqs, min_cluster_size=500):
+def BisectingKmeans(seqs, min_cluster_size=1000):
     device = torch.cuda.current_device()
     start_time = time.time()
     # Exclude identical sequences
@@ -225,42 +224,42 @@ def BisectingKmeans(seqs, min_cluster_size=500):
         for seq in clusterPoints:
             x.append(seq['embedding'])
         x = torch.stack(x, dim=0)
-        loss, cluster_ids, cluster_centers = [], [], []
-        delta_max, duration, cluster_num = 0, 0, 2
-        with torch.no_grad():
-            for n in range(1, max(3, int(3 * np.log10(len(clusterPoints)) - 6))):
-                cluster_ids_cand, cluster_centers_cand, MSEloss = kmeans(
-                    X = x,
-                    num_clusters = n,
-                    distance = 'euclidean',
-                    device = device,
-                    tqdm_flag=False,
-                )
-                cluster_ids.append(cluster_ids_cand)
-                cluster_centers.append(cluster_centers_cand)
-                loss.append(MSEloss)
-                if n >= 3:
-                    delta = (loss[-1] - loss[-2]) - (loss[-2] - loss[-3])
-                    if delta > delta_max:
-                        delta_max = delta
-                        duration = 0
-                        cluster_num = n - 1
-                    else:
-                        duration += 1
-                if duration >= 3:
-                    break
+        # loss, cluster_ids, cluster_centers = [], [], []
+        # delta_max, duration, cluster_num = 0, 0, 2
+        # with torch.no_grad():
+        #     for n in range(1, max(3, int(3 * np.log10(len(clusterPoints)) - 6))):
+        #         cluster_ids_cand, cluster_centers_cand, MSEloss = kmeans(
+        #             X = x,
+        #             num_clusters = n,
+        #             distance = 'euclidean',
+        #             device = device,
+        #             tqdm_flag=False,
+        #         )
+        #         cluster_ids.append(cluster_ids_cand)
+        #         cluster_centers.append(cluster_centers_cand)
+        #         loss.append(MSEloss)
+        #         if n >= 3:
+        #             delta = (loss[-1] - loss[-2]) - (loss[-2] - loss[-3])
+        #             if delta > delta_max:
+        #                 delta_max = delta
+        #                 duration = 0
+        #                 cluster_num = n - 1
+        #             else:
+        #                 duration += 1
+        #         if duration >= 3:
+        #             break
         # print(f"{len(clusterPoints)} -> {cluster_num}")
-        cluster_ids = cluster_ids[cluster_num - 1]
-        cluster_centers = cluster_centers[cluster_num - 1]
+        # cluster_ids = cluster_ids[cluster_num - 1]
+        # cluster_centers = cluster_centers[cluster_num - 1]
         # print(f"{len(clusterPoints)}")
-        # cluster_num = 2
-        # cluster_ids, cluster_centers, _ = kmeans(
-        #     X = x,
-        #     num_clusters = cluster_num,
-        #     distance = 'euclidean',
-        #     device = device,
-        #     tqdm_flag=False,
-        # )
+        cluster_num = 2
+        cluster_ids, cluster_centers, _ = kmeans(
+            X = x,
+            num_clusters = cluster_num,
+            distance = 'euclidean',
+            device = device,
+            tqdm_flag=False,
+        )
         
         newCluster = [[] for _ in range(cluster_num)]
         assert len(cluster_ids) == len(clusterPoints)
@@ -335,7 +334,7 @@ def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir):
             continue
         
         sub_tree_path = fasta_dir / f"{fasta_path.name}.tree"
-        runcmd(f"./mafft --globalpair --anysymbol --thread 16 --treeout {fasta_path.absolute().resolve()}")
+        runcmd(f"./mafft --globalpair --large --anysymbol --thread 16 --treeout {fasta_path.absolute().resolve()}")
         # runcmd(f"famsa -gt upgma -t 8 -gt_export {fasta_path.absolute().resolve()} {sub_tree_path.absolute().resolve()}")
         lines = []
         with open(sub_tree_path, 'r') as tree:
