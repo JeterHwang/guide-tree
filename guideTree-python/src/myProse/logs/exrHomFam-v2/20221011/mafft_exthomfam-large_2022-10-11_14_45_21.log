@@ -1,0 +1,188 @@
+[20221011 14:45:21 INFO    ] lstm.weight_ih_l0
+[20221011 14:45:21 INFO    ] lstm.weight_hh_l0
+[20221011 14:45:21 INFO    ] lstm.bias_ih_l0
+[20221011 14:45:21 INFO    ] lstm.bias_hh_l0
+[20221011 14:45:21 INFO    ] lstm.weight_ih_l0_reverse
+[20221011 14:45:21 INFO    ] lstm.weight_hh_l0_reverse
+[20221011 14:45:21 INFO    ] lstm.bias_ih_l0_reverse
+[20221011 14:45:21 INFO    ] lstm.bias_hh_l0_reverse
+[20221011 14:45:21 INFO    ] lstm.weight_ih_l1
+[20221011 14:45:21 INFO    ] lstm.weight_hh_l1
+[20221011 14:45:21 INFO    ] lstm.bias_ih_l1
+[20221011 14:45:21 INFO    ] lstm.bias_hh_l1
+[20221011 14:45:21 INFO    ] lstm.weight_ih_l1_reverse
+[20221011 14:45:21 INFO    ] lstm.weight_hh_l1_reverse
+[20221011 14:45:21 INFO    ] lstm.bias_ih_l1_reverse
+[20221011 14:45:21 INFO    ] lstm.bias_hh_l1_reverse
+[20221011 14:45:21 INFO    ] lstm.weight_ih_l2
+[20221011 14:45:21 INFO    ] lstm.weight_hh_l2
+[20221011 14:45:21 INFO    ] lstm.bias_ih_l2
+[20221011 14:45:21 INFO    ] lstm.bias_hh_l2
+[20221011 14:45:21 INFO    ] lstm.weight_ih_l2_reverse
+[20221011 14:45:21 INFO    ] lstm.weight_hh_l2_reverse
+[20221011 14:45:21 INFO    ] lstm.bias_ih_l2_reverse
+[20221011 14:45:21 INFO    ] lstm.bias_hh_l2_reverse
+[20221011 14:45:21 INFO    ] Now processing file (1/83) : ACPS.tfa
+[20221011 14:52:27 INFO    ] SP-score = 0.3519736842105263
+[20221011 14:52:27 INFO    ] TC = 0.18181818181818182
+[20221011 14:52:27 INFO    ] Now processing file (2/83) : Adenylsucc_synt.tfa
+[20221011 15:00:53 INFO    ] SP-score = 0.9355852317360566
+[20221011 15:00:53 INFO    ] TC = 0.9020979020979021
+[20221011 15:00:53 INFO    ] Now processing file (3/83) : ARM.tfa
+[20221011 15:03:02 INFO    ] SP-score = 0.07846410684474124
+[20221011 15:03:02 INFO    ] TC = 0.0
+[20221011 15:03:02 INFO    ] Now processing file (4/83) : asp.tfa
+[20221011 15:16:06 INFO    ] SP-score = 0.7266945741426502
+[20221011 15:16:06 INFO    ] TC = 0.3609625668449198
+[20221011 15:16:06 INFO    ] Now processing file (5/83) : Asp_Glu_race_D.tfa
+[20221011 15:32:48 INFO    ] SP-score = 0.15057283142389524
+[20221011 15:32:48 INFO    ] TC = 0.0
+[20221011 15:32:48 INFO    ] Now processing file (6/83) : Bac_DNA_binding.tfa
+[20221011 15:37:44 INFO    ] SP-score = 0.9635627530364372
+[20221011 15:37:44 INFO    ] TC = 0.9263157894736842
+[20221011 15:37:44 INFO    ] Now processing file (7/83) : cat.tfa
+[20221011 15:47:14 INFO    ] SP-score = 0.8593208593208593
+[20221011 15:47:14 INFO    ] TC = 0.7746478873239436
+[20221011 15:47:14 INFO    ] Now processing file (8/83) : Bacterial_PQQ.tfa
+[20221011 15:53:35 INFO    ] SP-score = 0.33636363636363636
+[20221011 15:53:35 INFO    ] TC = 0.08333333333333333
+[20221011 15:53:35 INFO    ] Now processing file (9/83) : cat3.tfa
+[20221011 16:15:39 INFO    ] SP-score = 0.6551459293394777
+[20221011 16:15:39 INFO    ] TC = 0.37037037037037035
+[20221011 16:15:39 INFO    ] Now processing file (10/83) : cbp.tfa
+[20221011 16:18:02 INFO    ] SP-score = 0.3408148328860698
+[20221011 16:18:02 INFO    ] TC = 0.04712041884816754
+[20221011 16:18:02 INFO    ] Now processing file (11/83) : ccH.tfa
+[20221011 16:30:38 INFO    ] SP-score = 0.7346938775510204
+[20221011 16:30:38 INFO    ] TC = 0.5932203389830508
+[20221011 16:30:38 INFO    ] Now processing file (12/83) : CH.tfa
+[20221011 16:34:31 INFO    ] SP-score = 0.5592948717948718
+[20221011 16:34:31 INFO    ] TC = 0.3620689655172414
+[20221011 16:34:31 INFO    ] Now processing file (13/83) : citrate_synt.tfa
+[20221011 16:51:29 INFO    ] SP-score = 0.725925925925926
+[20221011 16:51:29 INFO    ] TC = 0.5863874345549738
+[20221011 16:51:29 INFO    ] Now processing file (14/83) : COX3.tfa
+[20221011 17:03:10 INFO    ] SP-score = 0.6972624798711755
+[20221011 17:03:10 INFO    ] TC = 0.5593869731800766
+[20221011 17:03:10 INFO    ] Now processing file (15/83) : cpa.tfa
+[20221011 17:15:09 INFO    ] SP-score = 0.8931931377974544
+[20221011 17:15:09 INFO    ] TC = 0.7864077669902912
+[20221011 17:15:09 INFO    ] Now processing file (16/83) : csp.tfa
+[20221011 17:22:58 INFO    ] SP-score = 0.9595959595959596
+[20221011 17:22:58 INFO    ] TC = 0.9393939393939394
+[20221011 17:22:58 INFO    ] Now processing file (17/83) : CUB.tfa
+[20221011 17:30:26 INFO    ] SP-score = 0.9447852760736196
+[20221011 17:30:26 INFO    ] TC = 0.9272727272727272
+[20221011 17:30:26 INFO    ] Now processing file (18/83) : Cu_nir.tfa
+[20221011 17:37:50 INFO    ] SP-score = 1.0
+[20221011 17:37:50 INFO    ] TC = 1.0
+[20221011 17:37:50 INFO    ] Now processing file (19/83) : cyclin.tfa
+[20221011 17:44:14 INFO    ] SP-score = 0.08563134978229318
+[20221011 17:44:14 INFO    ] TC = 0.0
+[20221011 17:44:14 INFO    ] Now processing file (20/83) : cyclo.tfa
+[20221011 18:10:01 INFO    ] SP-score = 0.794732441471572
+[20221011 18:10:01 INFO    ] TC = 0.582010582010582
+[20221011 18:10:01 INFO    ] Now processing file (21/83) : DAHP_synth_1.tfa
+[20221011 18:21:32 INFO    ] SP-score = 0.5619174434087882
+[20221011 18:21:32 INFO    ] TC = 0.34686346863468637
+[20221011 18:21:32 INFO    ] Now processing file (22/83) : DHH.tfa
+[20221011 18:30:10 INFO    ] SP-score = 0.9854545454545455
+[20221011 18:30:10 INFO    ] TC = 0.978494623655914
+[20221011 18:30:10 INFO    ] Now processing file (23/83) : DHOdehase.tfa
+[20221011 18:47:21 INFO    ] SP-score = 0.5918717801946194
+[20221011 18:47:21 INFO    ] TC = 0.37770897832817335
+[20221011 18:47:21 INFO    ] Now processing file (24/83) : DNA_pol3_beta.tfa
+[20221011 19:06:06 INFO    ] SP-score = 0.5029940119760479
+[20221011 19:06:06 INFO    ] TC = 0.3360655737704918
+[20221011 19:06:06 INFO    ] Now processing file (25/83) : DUF170.tfa
+[20221011 19:11:46 INFO    ] SP-score = 0.5421052631578948
+[20221011 19:11:46 INFO    ] TC = 0.4696969696969697
+[20221011 19:11:46 INFO    ] Now processing file (26/83) : dutpase.tfa
+[20221011 19:15:32 INFO    ] SP-score = 0.72
+[20221011 19:15:32 INFO    ] TC = 0.6083333333333333
+[20221011 19:15:32 INFO    ] Now processing file (27/83) : EF_TS.tfa
+[20221011 19:20:43 INFO    ] SP-score = 0.41025641025641024
+[20221011 19:20:43 INFO    ] TC = 0.40425531914893614
+[20221011 19:20:43 INFO    ] Now processing file (28/83) : egf.tfa
+[20221011 19:33:33 INFO    ] SP-score = 0.6375916634504053
+[20221011 19:33:33 INFO    ] TC = 0.25
+[20221011 19:33:33 INFO    ] Now processing file (29/83) : EFTU_C.tfa
+[20221011 19:37:26 INFO    ] SP-score = 0.992831541218638
+[20221011 19:37:26 INFO    ] TC = 0.989247311827957
+[20221011 19:37:26 INFO    ] Now processing file (30/83) : EGF_Lam.tfa
+[20221011 19:46:19 INFO    ] SP-score = 0.6068965517241379
+[20221011 19:46:19 INFO    ] TC = 0.43859649122807015
+[20221011 19:46:19 INFO    ] Now processing file (31/83) : FAD-oxidase_C.tfa
+[20221011 20:16:55 INFO    ] SP-score = 0.08333333333333333
+[20221011 20:16:55 INFO    ] TC = 0.02097902097902098
+[20221011 20:16:55 INFO    ] Now processing file (32/83) : Fapy_DNA_glyco.tfa
+[20221011 20:20:22 INFO    ] SP-score = 0.9183135704874835
+[20221011 20:20:22 INFO    ] TC = 0.8233082706766918
+[20221011 20:20:22 INFO    ] Now processing file (33/83) : ferritin.tfa
+[20221011 20:28:52 INFO    ] SP-score = 1.0
+[20221011 20:28:52 INFO    ] TC = 1.0
+[20221011 20:28:52 INFO    ] Now processing file (34/83) : fkbp.tfa
+[20221011 23:21:01 INFO    ] SP-score = 0.8123076923076923
+[20221011 23:21:01 INFO    ] TC = 0.6637168141592921
+[20221011 23:21:01 INFO    ] Now processing file (35/83) : flav.tfa
+[20221011 23:28:07 INFO    ] SP-score = 0.6813529149977748
+[20221011 23:28:07 INFO    ] TC = 0.30857142857142855
+[20221011 23:28:07 INFO    ] Now processing file (36/83) : GAL4.tfa
+[20221011 23:38:33 INFO    ] SP-score = 0.8543689320388349
+[20221011 23:38:33 INFO    ] TC = 0.7837837837837838
+[20221011 23:38:33 INFO    ] Now processing file (37/83) : ghf18.tfa
+[20221012 00:01:38 INFO    ] SP-score = 0.22208436724565755
+[20221012 00:01:38 INFO    ] TC = 0.06441717791411043
+[20221012 00:01:38 INFO    ] Now processing file (38/83) : ghf5.tfa
+[20221012 00:17:10 INFO    ] SP-score = 0.41967132695609516
+[20221012 00:17:10 INFO    ] TC = 0.15681233933161953
+[20221012 00:17:10 INFO    ] Now processing file (39/83) : Glyco_hydro_18.tfa
+[20221012 00:40:08 INFO    ] SP-score = 0.6734117647058824
+[20221012 00:40:08 INFO    ] TC = 0.4855072463768116
+[20221012 00:40:08 INFO    ] Now processing file (40/83) : Glyco_hydro_18_D1.tfa
+[20221012 01:03:19 INFO    ] SP-score = 0.7391555812608445
+[20221012 01:03:19 INFO    ] TC = 0.5411764705882353
+[20221012 01:03:19 INFO    ] Now processing file (41/83) : Glyco_hydro_18_D2.tfa
+[20221012 01:26:13 INFO    ] SP-score = 0.44871794871794873
+[20221012 01:26:13 INFO    ] TC = 0.2
+[20221012 01:26:13 INFO    ] Now processing file (42/83) : Glyco_hydro_2.tfa
+[20221012 01:32:57 INFO    ] SP-score = 0.10989010989010989
+[20221012 01:32:57 INFO    ] TC = 0.061946902654867256
+[20221012 01:32:57 INFO    ] Now processing file (43/83) : hom.tfa
+[20221012 01:36:14 INFO    ] SP-score = 0.8441725692208628
+[20221012 01:36:14 INFO    ] TC = 0.4782608695652174
+[20221012 01:36:14 INFO    ] Now processing file (44/83) : igps.tfa
+[20221012 01:52:31 INFO    ] SP-score = 0.2926391382405745
+[20221012 01:52:31 INFO    ] TC = 0.03902439024390244
+[20221012 01:52:31 INFO    ] Now processing file (45/83) : KAS.tfa
+[20221012 01:57:29 INFO    ] SP-score = 0.24439320897086564
+[20221012 01:57:29 INFO    ] TC = 0.0
+[20221012 01:57:29 INFO    ] Now processing file (46/83) : KISc.tfa
+[20221012 02:16:46 INFO    ] SP-score = 0.7995606809445359
+[20221012 02:16:46 INFO    ] TC = 0.6626506024096386
+[20221012 02:16:46 INFO    ] Now processing file (47/83) : laminin_G.tfa
+[20221012 02:20:52 INFO    ] SP-score = 0.4555785123966942
+[20221012 02:20:52 INFO    ] TC = 0.2923076923076923
+[20221012 02:20:52 INFO    ] Now processing file (48/83) : LDLa.tfa
+[20221012 02:28:04 INFO    ] SP-score = 0.9035087719298246
+[20221012 02:28:04 INFO    ] TC = 0.7906976744186046
+[20221012 02:28:04 INFO    ] Now processing file (49/83) : ligase-CoA.tfa
+[20221012 02:31:43 INFO    ] SP-score = 0.5371287128712872
+[20221012 02:31:43 INFO    ] TC = 0.273972602739726
+[20221012 02:31:43 INFO    ] Now processing file (50/83) : LIM.tfa
+[20221012 02:34:35 INFO    ] SP-score = 0.8661290322580645
+[20221012 02:34:35 INFO    ] TC = 0.6585365853658537
+[20221012 02:34:35 INFO    ] Now processing file (51/83) : LMWPc.tfa
+[20221012 02:48:35 INFO    ] SP-score = 0.9700214132762313
+[20221012 02:48:35 INFO    ] TC = 0.9490445859872612
+[20221012 02:48:35 INFO    ] Now processing file (52/83) : Lum_binding.tfa
+[20221012 02:53:48 INFO    ] SP-score = 0.7978910369068541
+[20221012 02:53:48 INFO    ] TC = 0.7272727272727273
+[20221012 02:53:48 INFO    ] Now processing file (53/83) : Methyltransf_1.tfa
+[20221012 03:06:30 INFO    ] SP-score = 0.5357917570498916
+[20221012 03:06:30 INFO    ] TC = 0.3508771929824561
+[20221012 03:06:30 INFO    ] Now processing file (54/83) : MM_CoA_mutase.tfa
+[20221012 03:17:12 INFO    ] SP-score = 0.783375314861461
+[20221012 03:17:12 INFO    ] TC = 0.6013986013986014
+[20221012 03:17:12 INFO    ] Now processing file (55/83) : MoCF_biosynth.tfa
+[20221012 03:20:56 ERROR   ] Error : b'inputfile = orig\n99836 x 292 - 29 p\nnthread = 16\nnthreadpair = 16\nnthreadtb = 16\nppenalty_ex = 0\nstacksize: 8192 kb->19499 kb\nrescale = 1\nGap Penalty = -1.53, +0.00, +0.00\n\n\n\nMaking a distance matrix ..\n\nThere are 800 ambiguous characters.\n\r    1 / 99836 (thread    0)\r  101 / 99836 (thread    6)\r  201 / 99836 (thread    6)\r  301 / 99836 (thread    8)\r  401 / 99836 (thread    4)\r  501 / 99836 (thread   12)\r  601 / 99836 (thread    4)\r  701 / 99836 (thread   11)\r  801 / 99836 (thread    1)\r  901 / 99836 (thread    1)\r 1001 / 99836 (thread    5)\r 1101 / 99836 (thread    9)\r 1201 / 99836 (thread    8)\r 1301 / 99836 (thread    7)\r 1401 / 99836 (thread    5)\r 1501 / 99836 (thread   15)\r 1601 / 99836 (thread   15)\r 1701 / 99836 (thread    6)\r 1801 / 99836 (thread   13)\r 1901 / 99836 (thread    0)\r 2001 / 99836 (thread    5)\r 2101 / 99836 (thread    5)\r 2201 / 99836 (thread   12)\r 2301 / 99836 (thread   11)\r 2401 / 99836 (thread    7)\r 2501 / 99836 (thread    7)\r 2601 / 99836 (thread   13)\r 2701 / 99836 (thread   13)\r 2801 / 99836 (thread   13)\r 2901 / 99836 (thread   13)\r 3001 / 99836 (thread   12)\r 3101 / 99836 (thread    4)\r 3201 / 99836 (thread   15)\r 3301 / 99836 (thread    6)\r 3401 / 99836 (thread    4)\r 3501 / 99836 (thread    4)\r 3601 / 99836 (thread    9)\r 3701 / 99836 (thread    9)\r 3801 / 99836 (thread   12)\r 3901 / 99836 (thread    2)\r 4001 / 99836 (thread   14)\r 4101 / 99836 (thread    1)\r 4201 / 99836 (thread    0)\r 4301 / 99836 (thread    0)\r 4401 / 99836 (thread    6)\r 4501 / 99836 (thread    7)\r 4601 / 99836 (thread   15)\r 4701 / 99836 (thread   12)\r 4801 / 99836 (thread    3)\r 4901 / 99836 (thread   15)\r 5001 / 99836 (thread    3)\r 5101 / 99836 (thread    9)\r 5201 / 99836 (thread   15)\r 5301 / 99836 (thread   13)\r 5401 / 99836 (thread    7)\r 5501 / 99836 (thread    0)\r 5601 / 99836 (thread    0)\r 5701 / 99836 (thread   14)\r 5801 / 99836 (thread    2)\r 5901 / 99836 (thread    7)\r 6001 / 99836 (thread    5)\r 6101 / 99836 (thread    5)\r 6201 / 99836 (thread    7)\r 6301 / 99836 (thread    9)\r 6401 / 99836 (thread    1)\r 6501 / 99836 (thread   15)\r 6601 / 99836 (thread    0)\r 6701 / 99836 (thread    8)\r 6801 / 99836 (thread    7)\r 6901 / 99836 (thread   10)\r 7001 / 99836 (thread    0)\r 7101 / 99836 (thread   11)\r 7201 / 99836 (thread   15)\r 7301 / 99836 (thread   11)\r 7401 / 99836 (thread    5)\r 7501 / 99836 (thread    8)\r 7601 / 99836 (thread    1)\r 7701 / 99836 (thread   10)\r 7801 / 99836 (thread    5)\r 7901 / 99836 (thread    7)\r 8001 / 99836 (thread    6)\r 8101 / 99836 (thread   10)\r 8201 / 99836 (thread   11)\r 8301 / 99836 (thread   13)\r 8401 / 99836 (thread   10)\r 8501 / 99836 (thread    2)\r 8601 / 99836 (thread    9)\r 8701 / 99836 (thread    3)\r 8801 / 99836 (thread    3)\r 8901 / 99836 (thread    7)\r 9001 / 99836 (thread   12)\r 9101 / 99836 (thread   15)\r 9201 / 99836 (thread    1)\r 9301 / 99836 (thread    3)\r 9401 / 99836 (thread    3)\r 9501 / 99836 (thread    8)\r 9601 / 99836 (thread    5)\r 9701 / 99836 (thread   15)\r 9801 / 99836 (thread    8)\r 9901 / 99836 (thread    7)\r 10001 / 99836 (thread    2)\r 10101 / 99836 (thread    5)\r 10201 / 99836 (thread   10)\r 10301 / 99836 (thread    6)\r 10401 / 99836 (thread   11)\r 10501 / 99836 (thread    1)\r 10601 / 99836 (thread    0)\r 10701 / 99836 (thread    5)\r 10801 / 99836 (thread    1)\r 10901 / 99836 (thread    9)\r 11001 / 99836 (thread    2)\r 11101 / 99836 (thread   12)\r 11201 / 99836 (thread   11)\r 11301 / 99836 (thread   11)\r 11401 / 99836 (thread    5)\r 11501 / 99836 (thread   10)\r 11601 / 99836 (thread    0)\r 11701 / 99836 (thread    1)\r 11801 / 99836 (thread    4)\r 11901 / 99836 (thread    9)\r 12001 / 99836 (thread    9)\r 12101 / 99836 (thread    2)\r 12201 / 99836 (thread   11)\r 12301 / 99836 (thread    7)\r 12401 / 99836 (thread   12)\r 12501 / 99836 (thread    4)\r 12601 / 99836 (thread    1)\r 12701 / 99836 (thread    1)\r 12801 / 99836 (thread   11)\r 12901 / 99836 (thread   14)\r 13001 / 99836 (thread   14)\r 13101 / 99836 (thread    6)\r 13201 / 99836 (thread    6)\r 13301 / 99836 (thread    2)\r 13401 / 99836 (thread    3)\r 13501 / 99836 (thread   13)\r 13601 / 99836 (thread    7)\r 13701 / 99836 (thread   14)\r 13801 / 99836 (thread   12)\r 13901 / 99836 (thread    5)\r 14001 / 99836 (thread   10)\r 14101 / 99836 (thread   14)\r 14201 / 99836 (thread    3)\r 14301 / 99836 (thread    0)\r 14401 / 99836 (thread   10)\r 14501 / 99836 (thread   10)\r 14601 / 99836 (thread    3)\r 14701 / 99836 (thread    3)\r 14801 / 99836 (thread   10)\r 14901 / 99836 (thread   10)\r 15001 / 99836 (thread    7)\r 15101 / 99836 (thread   12)\r 15201 / 99836 (thread    7)\r 15301 / 99836 (thread    9)\r 15401 / 99836 (thread    5)\r 15501 / 99836 (thread    3)\r 15601 / 99836 (thread    6)\r 15701 / 99836 (thread   11)\r 15801 / 99836 (thread   10)\r 15901 / 99836 (thread    7)\r 16001 / 99836 (thread    4)\r 16101 / 99836 (thread    8)\r 16201 / 99836 (thread   10)\r 16301 / 99836 (thread    6)\r 16401 / 99836 (thread    0)\r 16501 / 99836 (thread    1)\r 16601 / 99836 (thread    3)\r 16701 / 99836 (thread    7)\r 16801 / 99836 (thread   13)\r 16901 / 99836 (thread   10)\r 17001 / 99836 (thread   10)\r 17101 / 99836 (thread    7)\r 17201 / 99836 (thread    1)\r 17301 / 99836 (thread    2)\r 17401 / 99836 (thread    2)\r 17501 / 99836 (thread   12)\r 17601 / 99836 (thread    9)\r 17701 / 99836 (thread    5)\r 17801 / 99836 (thread    9)\r 17901 / 99836 (thread    5)\r 18001 / 99836 (thread    4)\r 18101 / 99836 (thread    9)\r 18201 / 99836 (thread    5)\r 18301 / 99836 (thread   14)\r 18401 / 99836 (thread    0)\r 18501 / 99836 (thread    9)\r 18601 / 99836 (thread    6)\r 18701 / 99836 (thread    2)\r 18801 / 99836 (thread   12)\r 18901 / 99836 (thread    1)\r 19001 / 99836 (thread    3)\r 19101 / 99836 (thread    3)\r 19201 / 99836 (thread    2)\r 19301 / 99836 (thread   13)\r 19401 / 99836 (thread    7)\r 19501 / 99836 (thread    3)\r 19601 / 99836 (thread    6)\r 19701 / 99836 (thread    7)\r 19801 / 99836 (thread    7)\r 19901 / 99836 (thread    6)\r 20001 / 99836 (thread    7)\r 20101 / 99836 (thread   10)\r 20201 / 99836 (thread    3)\r 20301 / 99836 (thread   11)\r 20401 / 99836 (thread    0)\r 20501 / 99836 (thread   13)\r 20601 / 99836 (thread    5)\r 20701 / 99836 (thread    4)\r 20801 / 99836 (thread   10)\r 20901 / 99836 (thread   14)\r 21001 / 99836 (thread   12)\r 21101 / 99836 (thread   13)\r 21201 / 99836 (thread    8)\r 21301 / 99836 (thread    3)\r 21401 / 99836 (thread    0)\r 21501 / 99836 (thread    3)\r 21601 / 99836 (thread    3)\r 21701 / 99836 (thread    2)\r 21801 / 99836 (thread   10)\r 21901 / 99836 (thread   10)\r 22001 / 99836 (thread   15)\r 22101 / 99836 (thread    1)\r 22201 / 99836 (thread   11)\r 22301 / 99836 (thread   11)\r 22401 / 99836 (thread   14)\r 22501 / 99836 (thread    2)\r 22601 / 99836 (thread   15)\r 22701 / 99836 (thread   14)\r 22801 / 99836 (thread    9)\r 22901 / 99836 (thread    9)\r 23001 / 99836 (thread   11)\r 23101 / 99836 (thread    8)\r 23201 / 99836 (thread    4)\r 23301 / 99836 (thread    4)\r 23401 / 99836 (thread    5)\r 23501 / 99836 (thread    8)\r 23601 / 99836 (thread    5)\r 23701 / 99836 (thread    4)\r 23801 / 99836 (thread    6)\r 23901 / 99836 (thread    5)\r 24001 / 99836 (thread   12)\r 24101 / 99836 (thread    4)\r 24201 / 99836 (thread    5)\r 24301 / 99836 (thread   11)\r 24401 / 99836 (thread   13)\r 24501 / 99836 (thread    9)\r 24601 / 99836 (thread   11)\r 24701 / 99836 (thread   11)\r 24801 / 99836 (thread   15)\r 24901 / 99836 (thread    1)\r 25001 / 99836 (thread    9)\r 25101 / 99836 (thread    8)\r 25201 / 99836 (thread    6)\r 25301 / 99836 (thread    4)\r 25401 / 99836 (thread   11)\r 25501 / 99836 (thread    1)\r 25601 / 99836 (thread   15)\r 25701 / 99836 (thread    6)\r 25801 / 99836 (thread    9)\r 25901 / 99836 (thread    9)\r 26001 / 99836 (thread    7)\r 26101 / 99836 (thread   12)\r 26201 / 99836 (thread   15)\r 26301 / 99836 (thread    2)\r 26401 / 99836 (thread   15)\r 26501 / 99836 (thread   14)\r 26601 / 99836 (thread    5)\r 26701 / 99836 (thread    4)\r 26801 / 99836 (thread   11)\r 26901 / 99836 (thread    5)\r 27001 / 99836 (thread   11)\r 27101 / 99836 (thread   12)\r 27201 / 99836 (thread    5)\r 27301 / 99836 (thread    6)\r 27401 / 99836 (thread    9)\r 27501 / 99836 (thread    9)\r 27601 / 99836 (thread    7)\r 27701 / 99836 (thread    7)\r 27801 / 99836 (thread    7)\r 27901 / 99836 (thread    7)\r 28001 / 99836 (thread    9)\r 28101 / 99836 (thread    2)\r 28201 / 99836 (thread    7)\r 28301 / 99836 (thread    2)\r 28401 / 99836 (thread    7)\r 28501 / 99836 (thread   10)\r 28601 / 99836 (thread   10)\r 28701 / 99836 (thread    3)\r 28801 / 99836 (thread    8)\r 28901 / 99836 (thread   15)\r 29001 / 99836 (thread    8)\r 29101 / 99836 (thread   13)\r 29201 / 99836 (thread    6)\r 29301 / 99836 (thread    6)\r 29401 / 99836 (thread    4)\r 29501 / 99836 (thread    0)\r 29601 / 99836 (thread   14)\r 29701 / 99836 (thread    5)\r 29801 / 99836 (thread   15)\r 29901 / 99836 (thread    5)\r 30001 / 99836 (thread   10)\r 30101 / 99836 (thread    9)\r 30201 / 99836 (thread    2)\r 30301 / 99836 (thread    4)\r 30401 / 99836 (thread    7)\r 30501 / 99836 (thread    5)\r 30601 / 99836 (thread    8)\r 30701 / 99836 (thread    5)\r 30801 / 99836 (thread    9)\r 30901 / 99836 (thread    4)\r 31001 / 99836 (thread    4)\r 31101 / 99836 (thread    6)\r 31201 / 99836 (thread   13)\r 31301 / 99836 (thread   10)\r 31401 / 99836 (thread    3)\r 31501 / 99836 (thread   13)\r 31601 / 99836 (thread   11)\r 31701 / 99836 (thread    8)\r 31801 / 99836 (thread    5)\r 31901 / 99836 (thread    1)\r 32001 / 99836 (thread    0)\r 32101 / 99836 (thread   14)\r 32201 / 99836 (thread    0)\r 32301 / 99836 (thread    3)\r 32401 / 99836 (thread   10)\r 32501 / 99836 (thread    7)\r 32601 / 99836 (thread    0)\r 32701 / 99836 (thread    9)\r 32801 / 99836 (thread    0)\r 32901 / 99836 (thread    1)\r 33001 / 99836 (thread    9)\r 33101 / 99836 (thread    9)\r 33201 / 99836 (thread    2)\r 33301 / 99836 (thread    3)\r 33401 / 99836 (thread   10)\r 33501 / 99836 (thread    2)\r 33601 / 99836 (thread   12)\r 33701 / 99836 (thread   15)\r 33801 / 99836 (thread   12)\r 33901 / 99836 (thread    1)\r 34001 / 99836 (thread    4)\r 34101 / 99836 (thread   11)\r 34201 / 99836 (thread    4)\r 34301 / 99836 (thread   11)\r 34401 / 99836 (thread    0)\r 34501 / 99836 (thread    0)\r 34601 / 99836 (thread   12)\r 34701 / 99836 (thread    7)\r 34801 / 99836 (thread    9)\r 34901 / 99836 (thread   14)\r 35001 / 99836 (thread    3)\r 35101 / 99836 (thread    9)\r 35201 / 99836 (thread    9)\r 35301 / 99836 (thread    7)\r 35401 / 99836 (thread    4)\r 35501 / 99836 (thread    8)\r 35601 / 99836 (thread   14)\r 35701 / 99836 (thread   14)\r 35801 / 99836 (thread   14)\r 35901 / 99836 (thread    7)\r 36001 / 99836 (thread    7)\r 36101 / 99836 (thread    4)\r 36201 / 99836 (thread    2)\r 36301 / 99836 (thread    0)\r 36401 / 99836 (thread    7)\r 36501 / 99836 (thread    4)\r 36601 / 99836 (thread   13)\r 36701 / 99836 (thread   13)\r 36801 / 99836 (thread   12)\r 36901 / 99836 (thread    2)\r 37001 / 99836 (thread    4)\r 37101 / 99836 (thread   15)\r 37201 / 99836 (thread   12)\r 37301 / 99836 (thread   13)\r 37401 / 99836 (thread   11)\r 37501 / 99836 (thread    9)\r 37601 / 99836 (thread    9)\r 37701 / 99836 (thread    1)\r 37801 / 99836 (thread    9)\r 37901 / 99836 (thread   12)\r 38001 / 99836 (thread    7)\r 38101 / 99836 (thread    2)\r 38201 / 99836 (thread   12)\r 38301 / 99836 (thread    2)\r 38401 / 99836 (thread   10)\r 38501 / 99836 (thread   13)\r 38601 / 99836 (thread    2)\r 38701 / 99836 (thread    1)\r 38801 / 99836 (thread   15)\r 38901 / 99836 (thread   15)\r 39001 / 99836 (thread   14)\r 39101 / 99836 (thread   15)\r 39201 / 99836 (thread   13)\r 39301 / 99836 (thread    1)\r 39401 / 99836 (thread    3)\r 39501 / 99836 (thread    6)\r 39601 / 99836 (thread   11)\r 39701 / 99836 (thread    0)\r 39801 / 99836 (thread    7)\r 39901 / 99836 (thread    7)\r 40001 / 99836 (thread   15)\r 40101 / 99836 (thread    6)\r 40201 / 99836 (thread    0)\r 40301 / 99836 (thread   12)\r 40401 / 99836 (thread   15)\r 40501 / 99836 (thread   10)\r 40601 / 99836 (thread    6)\r 40701 / 99836 (thread   11)\r 40801 / 99836 (thread    1)\r 40901 / 99836 (thread   12)\r 41001 / 99836 (thread    2)\r 41101 / 99836 (thread   14)\r 41201 / 99836 (thread   14)\r 41301 / 99836 (thread    5)\r 41401 / 99836 (thread    1)\r 41501 / 99836 (thread    1)\r 41601 / 99836 (thread    8)\r 41701 / 99836 (thread    3)\r 41801 / 99836 (thread   14)\r 41901 / 99836 (thread    7)\r 42001 / 99836 (thread    0)\r 42101 / 99836 (thread    4)\r 42201 / 99836 (thread   11)\r 42301 / 99836 (thread   13)\r 42401 / 99836 (thread    8)\r 42501 / 99836 (thread    1)\r 42601 / 99836 (thread    8)\r 42701 / 99836 (thread    8)\r 42801 / 99836 (thread    2)\r 42901 / 99836 (thread    2)\r 43001 / 99836 (thread   15)\r 43101 / 99836 (thread   15)\r 43201 / 99836 (thread   12)\r 43301 / 99836 (thread    2)\r 43401 / 99836 (thread   12)\r 43501 / 99836 (thread    7)\r 43601 / 99836 (thread    7)\r 43701 / 99836 (thread    4)\r 43801 / 99836 (thread    3)\r 43901 / 99836 (thread    8)\r 44001 / 99836 (thread    2)\r 44101 / 99836 (thread    2)\r 44201 / 99836 (thread    4)\r 44301 / 99836 (thread   14)\r 44401 / 99836 (thread    6)\r 44501 / 99836 (thread    3)\r 44601 / 99836 (thread   14)\r 44701 / 99836 (thread    7)\r 44801 / 99836 (thread   14)\r 44901 / 99836 (thread    7)\r 45001 / 99836 (thread   10)\r 45101 / 99836 (thread    0)\r 45201 / 99836 (thread    3)\r 45301 / 99836 (thread    9)\r 45401 / 99836 (thread    1)\r 45501 / 99836 (thread   14)\r 45601 / 99836 (thread   14)\r 45701 / 99836 (thread   12)\r 45801 / 99836 (thread   15)\r 45901 / 99836 (thread    5)\r 46001 / 99836 (thread   15)\r 46101 / 99836 (thread   14)\r 46201 / 99836 (thread    6)\r 46301 / 99836 (thread    4)\r 46401 / 99836 (thread    1)\r 46501 / 99836 (thread   10)\r 46601 / 99836 (thread   10)\r 46701 / 99836 (thread   12)\r 46801 / 99836 (thread   13)\r 46901 / 99836 (thread   13)\r 47001 / 99836 (thread    4)\r 47101 / 99836 (thread   10)\r 47201 / 99836 (thread   10)\r 47301 / 99836 (thread   11)\r 47401 / 99836 (thread    9)\r 47501 / 99836 (thread    7)\r 47601 / 99836 (thread   12)\r 47701 / 99836 (thread    5)\r 47801 / 99836 (thread   10)\r 47901 / 99836 (thread    7)\r 48001 / 99836 (thread    0)\r 48101 / 99836 (thread   11)\r 48201 / 99836 (thread    4)\r 48301 / 99836 (thread   12)\r 48401 / 99836 (thread   15)\r 48501 / 99836 (thread    7)\r 48601 / 99836 (thread   15)\r 48701 / 99836 (thread    1)\r 48801 / 99836 (thread    7)\r 48901 / 99836 (thread   15)\r 49001 / 99836 (thread   15)\r 49101 / 99836 (thread    9)\r 49201 / 99836 (thread    3)\r 49301 / 99836 (thread    9)\r 49401 / 99836 (thread    7)\r 49501 / 99836 (thread    9)\r 49601 / 99836 (thread    1)\r 49701 / 99836 (thread    4)\r 49801 / 99836 (thread   11)\r 49901 / 99836 (thread    2)\r 50001 / 99836 (thread    7)\r 50101 / 99836 (thread   15)\r 50201 / 99836 (thread   12)\r 50301 / 99836 (thread   13)\r 50401 / 99836 (thread    7)\r 50501 / 99836 (thread    7)\r 50601 / 99836 (thread   10)\r 50701 / 99836 (thread    3)\r 50801 / 99836 (thread    2)\r 50901 / 99836 (thread   15)\r 51001 / 99836 (thread    9)\r 51101 / 99836 (thread   15)\r 51201 / 99836 (thread    0)\r 51301 / 99836 (thread    7)\r 51401 / 99836 (thread    4)\r 51501 / 99836 (thread   12)\r 51601 / 99836 (thread    2)\r 51701 / 99836 (thread   14)\r 51801 / 99836 (thread    2)\r 51901 / 99836 (thread    1)\r 52001 / 99836 (thread    6)\r 52101 / 99836 (thread   14)\r 52201 / 99836 (thread    4)\r 52301 / 99836 (thread    2)\r 52401 / 99836 (thread    8)\r 52501 / 99836 (thread    8)\r 52601 / 99836 (thread    7)\r 52701 / 99836 (thread    7)\r 52801 / 99836 (thread    9)\r 52901 / 99836 (thread    5)\r 53001 / 99836 (thread    9)\r 53101 / 99836 (thread    8)\r 53201 / 99836 (thread    8)\r 53301 / 99836 (thread   15)\r 53401 / 99836 (thread    9)\r 53501 / 99836 (thread    5)\r 53601 / 99836 (thread   11)\r 53701 / 99836 (thread    5)\r 53801 / 99836 (thread    8)\r 53901 / 99836 (thread    8)\r 54001 / 99836 (thread    1)\r 54101 / 99836 (thread    9)\r 54201 / 99836 (thread    5)\r 54301 / 99836 (thread   11)\r 54401 / 99836 (thread   15)\r 54501 / 99836 (thread   15)\r 54601 / 99836 (thread    3)\r 54701 / 99836 (thread   15)\r 54801 / 99836 (thread    7)\r 54901 / 99836 (thread    3)\r 55001 / 99836 (thread    0)\r 55101 / 99836 (thread   13)\r 55201 / 99836 (thread    2)\r 55301 / 99836 (thread    6)\r 55401 / 99836 (thread   10)\r 55501 / 99836 (thread    2)\r 55601 / 99836 (thread    2)\r 55701 / 99836 (thread    7)\r 55801 / 99836 (thread   12)\r 55901 / 99836 (thread   11)\r 56001 / 99836 (thread    1)\r 56101 / 99836 (thread    3)\r 56201 / 99836 (thread   15)\r 56301 / 99836 (thread    7)\r 56401 / 99836 (thread   10)\r 56501 / 99836 (thread   14)\r 56601 / 99836 (thread   13)\r 56701 / 99836 (thread   14)\r 56801 / 99836 (thread    0)\r 56901 / 99836 (thread   12)\r 57001 / 99836 (thread    0)\r 57101 / 99836 (thread    0)\r 57201 / 99836 (thread   15)\r 57301 / 99836 (thread    0)\r 57401 / 99836 (thread    7)\r 57501 / 99836 (thread   13)\r 57601 / 99836 (thread    4)\r 57701 / 99836 (thread    4)\r 57801 / 99836 (thread    6)\r 57901 / 99836 (thread    7)\r 58001 / 99836 (thread   10)\r 58101 / 99836 (thread    3)\r 58201 / 99836 (thread    9)\r 58301 / 99836 (thread    0)\r 58401 / 99836 (thread    1)\r 58501 / 99836 (thread    4)\r 58601 / 99836 (thread    4)\r 58701 / 99836 (thread   11)\r 58801 / 99836 (thread    3)\r 58901 / 99836 (thread    8)\r 59001 / 99836 (thread   10)\r 59101 / 99836 (thread    9)\r 59201 / 99836 (thread    9)\r 59301 / 99836 (thread    8)\r 59401 / 99836 (thread    8)\r 59501 / 99836 (thread   11)\r 59601 / 99836 (thread   14)\r 59701 / 99836 (thread    7)\r 59801 / 99836 (thread    9)\r 59901 / 99836 (thread   15)\r 60001 / 99836 (thread    1)\r 60101 / 99836 (thread   11)\r 60201 / 99836 (thread    6)\r 60301 / 99836 (thread   12)\r 60401 / 99836 (thread   13)\r 60501 / 99836 (thread    7)\r 60601 / 99836 (thread    8)\r 60701 / 99836 (thread   11)\r 60801 / 99836 (thread    7)\r 60901 / 99836 (thread    5)\r 61001 / 99836 (thread   13)\r 61101 / 99836 (thread   15)\r 61201 / 99836 (thread    0)\r 61301 / 99836 (thread    7)\r 61401 / 99836 (thread    0)\r 61501 / 99836 (thread    6)\r 61601 / 99836 (thread   14)\r 61701 / 99836 (thread    2)\r 61801 / 99836 (thread   11)\r 61901 / 99836 (thread    2)\r 62001 / 99836 (thread    4)\r 62101 / 99836 (thread   11)\r 62201 / 99836 (thread    8)\r 62301 / 99836 (thread    8)\r 62401 / 99836 (thread    2)\r 62501 / 99836 (thread    0)\r 62601 / 99836 (thread    5)\r 62701 / 99836 (thread   15)\r 62801 / 99836 (thread   15)\r 62901 / 99836 (thread   10)\r 63001 / 99836 (thread    5)\r 63101 / 99836 (thread    5)\r 63201 / 99836 (thread    5)\r 63301 / 99836 (thread    4)\r 63401 / 99836 (thread    6)\r 63501 / 99836 (thread    0)\r 63601 / 99836 (thread    7)\r 63701 / 99836 (thread   12)\r 63801 / 99836 (thread    5)\r 63901 / 99836 (thread    8)\r 64001 / 99836 (thread    5)\r 64101 / 99836 (thread    1)\r 64201 / 99836 (thread    7)\r 64301 / 99836 (thread   12)\r 64401 / 99836 (thread    0)\r 64501 / 99836 (thread    9)\r 64601 / 99836 (thread   14)\r 64701 / 99836 (thread    5)\r 64801 / 99836 (thread    0)\r 64901 / 99836 (thread   12)\r 65001 / 99836 (thread    1)\r 65101 / 99836 (thread    1)\r 65201 / 99836 (thread    9)\r 65301 / 99836 (thread   14)\r 65401 / 99836 (thread    6)\r 65501 / 99836 (thread    8)\r 65601 / 99836 (thread    3)\r 65701 / 99836 (thread    9)\r 65801 / 99836 (thread    7)\r 65901 / 99836 (thread    3)\r 66001 / 99836 (thread    3)\r 66101 / 99836 (thread    3)\r 66201 / 99836 (thread    0)\r 66301 / 99836 (thread    6)\r 66401 / 99836 (thread    8)\r 66501 / 99836 (thread   14)\r 66601 / 99836 (thread    4)\r 66701 / 99836 (thread    3)\r 66801 / 99836 (thread    9)\r 66901 / 99836 (thread   13)\r 67001 / 99836 (thread    6)\r 67101 / 99836 (thread    1)\r 67201 / 99836 (thread    7)\r 67301 / 99836 (thread    0)\r 67401 / 99836 (thread   14)\r 67501 / 99836 (thread    7)\r 67601 / 99836 (thread    8)\r 67701 / 99836 (thread   11)\r 67801 / 99836 (thread    4)\r 67901 / 99836 (thread    6)\r 68001 / 99836 (thread   13)\r 68101 / 99836 (thread    8)\r 68201 / 99836 (thread    2)\r 68301 / 99836 (thread    2)\r 68401 / 99836 (thread    1)\r 68501 / 99836 (thread    1)\r 68601 / 99836 (thread   11)\r 68701 / 99836 (thread    9)\r 68801 / 99836 (thread    2)\r 68901 / 99836 (thread    2)\r 69001 / 99836 (thread   13)\r 69101 / 99836 (thread   14)\r 69201 / 99836 (thread    1)\r 69301 / 99836 (thread    2)\r 69401 / 99836 (thread   14)\r 69501 / 99836 (thread    1)\r 69601 / 99836 (thread    6)./mafft: line 2756: 3511152 Killed                  "$prefix/disttbfast" -q $npickup -E $cycledisttbfast -V "-"$gopdist -s $unalignlevel $legacygapopt $mergearg -W $tuplesize $termgapopt $outnum $addarg $add2ndhalfarg -C $numthreads-$numthreadstb $memopt $weightopt $treeinopt $treeoutopt $distoutopt $seqtype $model -g $gexp -f "-"$gop -Q $spfactor -h $aof $param_fft $algopt $treealg $scoreoutarg $anchoropt -x $maxanchorseparation $oneiterationopt < infile > pre 2>> "$progressfile"\n'

@@ -1,0 +1,30 @@
+[20221005 15:57:24 INFO    ] lstm.0.weight_ih_l0
+[20221005 15:57:24 INFO    ] lstm.0.weight_hh_l0
+[20221005 15:57:24 INFO    ] lstm.0.bias_ih_l0
+[20221005 15:57:24 INFO    ] lstm.0.bias_hh_l0
+[20221005 15:57:24 INFO    ] lstm.0.weight_ih_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.0.weight_hh_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.0.bias_ih_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.0.bias_hh_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.1.weight_ih_l0
+[20221005 15:57:24 INFO    ] lstm.1.weight_hh_l0
+[20221005 15:57:24 INFO    ] lstm.1.bias_ih_l0
+[20221005 15:57:24 INFO    ] lstm.1.bias_hh_l0
+[20221005 15:57:24 INFO    ] lstm.1.weight_ih_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.1.weight_hh_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.1.bias_ih_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.1.bias_hh_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.2.weight_ih_l0
+[20221005 15:57:24 INFO    ] lstm.2.weight_hh_l0
+[20221005 15:57:24 INFO    ] lstm.2.bias_ih_l0
+[20221005 15:57:24 INFO    ] lstm.2.bias_hh_l0
+[20221005 15:57:24 INFO    ] lstm.2.weight_ih_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.2.weight_hh_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.2.bias_ih_l0_reverse
+[20221005 15:57:24 INFO    ] lstm.2.bias_hh_l0_reverse
+[20221005 15:57:24 INFO    ] proj.weight
+[20221005 15:57:24 INFO    ] proj.bias
+[20221005 15:57:24 INFO    ] Now processing file (1/32) : 279.tfa
+[20221006 01:22:33 INFO    ] SP-score = 0.418
+[20221006 01:22:33 INFO    ] TC = 0.418
+[20221006 01:22:33 INFO    ] Now processing file (2/32) : 63.tfa

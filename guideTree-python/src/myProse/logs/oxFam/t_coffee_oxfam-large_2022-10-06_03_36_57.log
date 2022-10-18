@@ -1,0 +1,39 @@
+[20221006 03:36:58 INFO    ] lstm.0.weight_ih_l0
+[20221006 03:36:58 INFO    ] lstm.0.weight_hh_l0
+[20221006 03:36:58 INFO    ] lstm.0.bias_ih_l0
+[20221006 03:36:58 INFO    ] lstm.0.bias_hh_l0
+[20221006 03:36:58 INFO    ] lstm.0.weight_ih_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.0.weight_hh_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.0.bias_ih_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.0.bias_hh_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.1.weight_ih_l0
+[20221006 03:36:58 INFO    ] lstm.1.weight_hh_l0
+[20221006 03:36:58 INFO    ] lstm.1.bias_ih_l0
+[20221006 03:36:58 INFO    ] lstm.1.bias_hh_l0
+[20221006 03:36:58 INFO    ] lstm.1.weight_ih_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.1.weight_hh_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.1.bias_ih_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.1.bias_hh_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.2.weight_ih_l0
+[20221006 03:36:58 INFO    ] lstm.2.weight_hh_l0
+[20221006 03:36:58 INFO    ] lstm.2.bias_ih_l0
+[20221006 03:36:58 INFO    ] lstm.2.bias_hh_l0
+[20221006 03:36:58 INFO    ] lstm.2.weight_ih_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.2.weight_hh_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.2.bias_ih_l0_reverse
+[20221006 03:36:58 INFO    ] lstm.2.bias_hh_l0_reverse
+[20221006 03:36:58 INFO    ] proj.weight
+[20221006 03:36:58 INFO    ] proj.bias
+[20221006 03:36:58 INFO    ] Now processing file (1/32) : 279.tfa
+[20221006 03:37:17 ERROR   ] Error : b'!Maximum N Threads --- 16\n!Compute Guide Tree --- Terminated\n\n\n*************************************************************************************************\n*                        FULL TRACE BACK PID: 323821                                    \n323828 -- ERROR: UNSPECIFIED UNSPECIFIED\n323828 -- COM: clustalo --in /var/tmp/tco/tcor06rci5n323821/69628323821_hc811 --guidetree-out /var/tmp/tco/tcor06rci5n323821/69628323821_hc812 --force>/dev/null \n323828 -- STACK: 323821 -> 323828\n*************************************************************************************************\n\n# TERMINATION STATUS: FAILURE [PROGRAM: T-COFFEE pid 323821 ppid 323795\n#CL: t_coffee -reg -thread 0 -child_thread 0 -seq /b07068/MSA/guide-tree/guideTree-python/data/oxfam/large/279.tfa -nseq 200 -tree mbed -method mafftginsi_msa -outfile /b07068/MSA/guide-tree/guideTree-python/src/myProse1/msf/279.pfa \n'
+[20221006 03:37:18 INFO    ] SP-score = 0.418
+[20221006 03:37:18 INFO    ] TC = 0.418
+[20221006 03:37:18 INFO    ] Now processing file (2/32) : 63.tfa
+[20221006 03:37:36 ERROR   ] Error : b'!Maximum N Threads --- 16\n!Compute Guide Tree --- Terminated\n\n\n*************************************************************************************************\n*                        FULL TRACE BACK PID: 323849                                    \n323856 -- ERROR: UNSPECIFIED UNSPECIFIED\n323856 -- COM: clustalo --in /var/tmp/tco/tco_v9cjt74323849/28644323849if22_1 --guidetree-out /var/tmp/tco/tco_v9cjt74323849/28644323849if22_2 --force>/dev/null \n323856 -- STACK: 323849 -> 323856\n*************************************************************************************************\n\n# TERMINATION STATUS: FAILURE [PROGRAM: T-COFFEE pid 323849 ppid 323795\n#CL: t_coffee -reg -thread 0 -child_thread 0 -seq /b07068/MSA/guide-tree/guideTree-python/data/oxfam/large/63.tfa -nseq 200 -tree mbed -method mafftginsi_msa -outfile /b07068/MSA/guide-tree/guideTree-python/src/myProse1/msf/63.pfa \n'
+[20221006 03:37:36 INFO    ] SP-score = 0.718
+[20221006 03:37:36 INFO    ] TC = 0.718
+[20221006 03:37:36 INFO    ] Now processing file (3/32) : 133.tfa
+[20221006 03:38:19 ERROR   ] Error : b'!Maximum N Threads --- 16\n!Compute Guide Tree --- \n\n*************************************************************************************************\n*                        FULL TRACE BACK PID: 323877                                    \n323884 -- ERROR: UNSPECIFIED UNSPECIFIED\n323884 -- COM: clustalo --in /var/tmp/tco/tcod2846nrr323877/66850323877mj0f21 --guidetree-out /var/tmp/tco/tcod2846nrr323877/66850323877mj0f22 --force>/dev/null \n323884 -- STACK: 323877 -> 323884\n*************************************************************************************************\n\n# TERMINATION STATUS: FAILURE [PROGRAM: T-COFFEE pid 323877 ppid 323795\n#CL: t_coffee -reg -thread 0 -child_thread 0 -seq /b07068/MSA/guide-tree/guideTree-python/data/oxfam/large/133.tfa -nseq 200 -tree mbed -method mafftginsi_msa -outfile /b07068/MSA/guide-tree/guideTree-python/src/myProse1/msf/133.pfa \n'
+[20221006 03:38:22 INFO    ] SP-score = 0.675
+[20221006 03:38:22 INFO    ] TC = 0.496
+[20221006 03:38:22 INFO    ] Now processing file (4/32) : 637.tfa

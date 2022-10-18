@@ -1,0 +1,317 @@
+[20220928 18:41:40 INFO    ] lstm.0.weight_ih_l0
+[20220928 18:41:40 INFO    ] lstm.0.weight_hh_l0
+[20220928 18:41:40 INFO    ] lstm.0.bias_ih_l0
+[20220928 18:41:40 INFO    ] lstm.0.bias_hh_l0
+[20220928 18:41:40 INFO    ] lstm.0.weight_ih_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.0.weight_hh_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.0.bias_ih_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.0.bias_hh_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.1.weight_ih_l0
+[20220928 18:41:40 INFO    ] lstm.1.weight_hh_l0
+[20220928 18:41:40 INFO    ] lstm.1.bias_ih_l0
+[20220928 18:41:40 INFO    ] lstm.1.bias_hh_l0
+[20220928 18:41:40 INFO    ] lstm.1.weight_ih_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.1.weight_hh_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.1.bias_ih_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.1.bias_hh_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.2.weight_ih_l0
+[20220928 18:41:40 INFO    ] lstm.2.weight_hh_l0
+[20220928 18:41:40 INFO    ] lstm.2.bias_ih_l0
+[20220928 18:41:40 INFO    ] lstm.2.bias_hh_l0
+[20220928 18:41:40 INFO    ] lstm.2.weight_ih_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.2.weight_hh_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.2.bias_ih_l0_reverse
+[20220928 18:41:40 INFO    ] lstm.2.bias_hh_l0_reverse
+[20220928 18:41:40 INFO    ] proj.weight
+[20220928 18:41:40 INFO    ] proj.bias
+[20220928 18:41:40 INFO    ] Now processing file (1/95) : ADF.tfa
+[20220928 18:41:58 INFO    ] SP-score = 0.772
+[20220928 18:41:58 INFO    ] TC = 0.657
+[20220928 18:41:58 INFO    ] Now processing file (2/95) : aldose.tfa
+[20220928 18:42:24 INFO    ] SP-score = 0.965
+[20220928 18:42:24 INFO    ] TC = 0.942
+[20220928 18:42:24 INFO    ] Now processing file (3/95) : alpha-amylase_C.tfa
+[20220928 18:43:54 INFO    ] SP-score = 0.427
+[20220928 18:43:54 INFO    ] TC = 0.124
+[20220928 18:43:54 INFO    ] Now processing file (4/95) : annexin.tfa
+[20220928 18:44:59 INFO    ] SP-score = 0.303
+[20220928 18:44:59 INFO    ] TC = 0.0535
+[20220928 18:44:59 INFO    ] Now processing file (5/95) : ATP-gua_Ptrans.tfa
+[20220928 18:45:25 INFO    ] SP-score = 0.908
+[20220928 18:45:25 INFO    ] TC = 0.875
+[20220928 18:45:25 INFO    ] Now processing file (6/95) : az.tfa
+[20220928 18:46:27 INFO    ] SP-score = 0.658
+[20220928 18:46:27 INFO    ] TC = 0.38
+[20220928 18:46:27 INFO    ] Now processing file (7/95) : Bac_rhodopsin.tfa
+[20220928 18:46:39 INFO    ] SP-score = 0.906
+[20220928 18:46:39 INFO    ] TC = 0.877
+[20220928 18:46:39 INFO    ] Now processing file (8/95) : Band_41_M.tfa
+[20220928 18:47:20 INFO    ] SP-score = 0.885
+[20220928 18:47:20 INFO    ] TC = 0.838
+[20220928 18:47:20 INFO    ] Now processing file (9/95) : Band_41_N.tfa
+[20220928 18:48:02 INFO    ] SP-score = 0.349
+[20220928 18:48:02 INFO    ] TC = 0.0714
+[20220928 18:48:02 INFO    ] Now processing file (10/95) : Band_41_NME.tfa
+[20220928 18:49:05 INFO    ] SP-score = 0.669
+[20220928 18:49:05 INFO    ] TC = 0.531
+[20220928 18:49:05 INFO    ] Now processing file (11/95) : B_lectin.tfa
+[20220928 18:49:34 INFO    ] SP-score = 0.494
+[20220928 18:49:34 INFO    ] TC = 0.241
+[20220928 18:49:34 INFO    ] Now processing file (12/95) : C1.tfa
+[20220928 18:49:48 INFO    ] SP-score = 0.912
+[20220928 18:49:48 INFO    ] TC = 0.875
+[20220928 18:49:48 INFO    ] Now processing file (13/95) : bromodomain.tfa
+[20220928 18:51:19 INFO    ] SP-score = 0.869
+[20220928 18:51:19 INFO    ] TC = 0.738
+[20220928 18:51:19 INFO    ] Now processing file (14/95) : cah.tfa
+[20220928 18:53:04 INFO    ] SP-score = 0.854
+[20220928 18:53:04 INFO    ] TC = 0.72
+[20220928 18:53:05 INFO    ] Now processing file (15/95) : chromo.tfa
+[20220928 18:53:41 INFO    ] SP-score = 0.588
+[20220928 18:53:41 INFO    ] TC = 0.42
+[20220928 18:53:41 INFO    ] Now processing file (16/95) : cryst.tfa
+[20220928 18:54:11 INFO    ] SP-score = 0.395
+[20220928 18:54:11 INFO    ] TC = 0.0
+[20220928 18:54:11 INFO    ] Now processing file (17/95) : Cu_amine_oxid.tfa
+[20220928 18:56:15 INFO    ] SP-score = 0.404
+[20220928 18:56:15 INFO    ] TC = 0.0306
+[20220928 18:56:15 INFO    ] Now processing file (18/95) : Cu_bind_like.tfa
+[20220928 18:56:24 INFO    ] SP-score = 0.848
+[20220928 18:56:24 INFO    ] TC = 0.781
+[20220928 18:56:24 INFO    ] Now processing file (19/95) : cys.tfa
+[20220928 19:01:04 INFO    ] SP-score = 0.737
+[20220928 19:01:04 INFO    ] TC = 0.381
+[20220928 19:01:04 INFO    ] Now processing file (20/95) : cystatin.tfa
+[20220928 19:01:14 INFO    ] SP-score = 0.742
+[20220928 19:01:14 INFO    ] TC = 0.653
+[20220928 19:01:14 INFO    ] Now processing file (21/95) : cytb.tfa
+[20220928 19:02:37 INFO    ] SP-score = 0.759
+[20220928 19:02:37 INFO    ] TC = 0.5
+[20220928 19:02:37 INFO    ] Now processing file (22/95) : DEATH.tfa
+[20220928 19:02:48 INFO    ] SP-score = 0.52
+[20220928 19:02:48 INFO    ] TC = 0.0565
+[20220928 19:02:48 INFO    ] Now processing file (23/95) : dhfr.tfa
+[20220928 19:06:01 INFO    ] SP-score = 0.83
+[20220928 19:06:01 INFO    ] TC = 0.763
+[20220928 19:06:01 INFO    ] Now processing file (24/95) : DHHA2.tfa
+[20220928 19:06:12 INFO    ] SP-score = 1.0
+[20220928 19:06:12 INFO    ] TC = 1.0
+[20220928 19:06:12 INFO    ] Now processing file (25/95) : DMRL_synthase.tfa
+[20220928 19:07:42 INFO    ] SP-score = 0.87
+[20220928 19:07:42 INFO    ] TC = 0.68
+[20220928 19:07:42 INFO    ] Now processing file (26/95) : dsrm.tfa
+[20220928 19:09:36 INFO    ] SP-score = 0.752
+[20220928 19:09:36 INFO    ] TC = 0.662
+[20220928 19:09:36 INFO    ] Now processing file (27/95) : fabp.tfa
+[20220928 19:10:31 INFO    ] SP-score = 0.881
+[20220928 19:10:31 INFO    ] TC = 0.627
+[20220928 19:10:31 INFO    ] Now processing file (28/95) : fbpase.tfa
+[20220928 19:11:01 INFO    ] SP-score = 0.969
+[20220928 19:11:01 INFO    ] TC = 0.941
+[20220928 19:11:01 INFO    ] Now processing file (29/95) : fibrinogen_C.tfa
+[20220928 19:12:14 INFO    ] SP-score = 0.78
+[20220928 19:12:14 INFO    ] TC = 0.727
+[20220928 19:12:14 INFO    ] Now processing file (30/95) : Filamin.tfa
+[20220928 19:13:26 INFO    ] SP-score = 0.755
+[20220928 19:13:26 INFO    ] TC = 0.657
+[20220928 19:13:26 INFO    ] Now processing file (31/95) : Fork_head.tfa
+[20220928 19:13:40 INFO    ] SP-score = 0.953
+[20220928 19:13:40 INFO    ] TC = 0.936
+[20220928 19:13:40 INFO    ] Now processing file (32/95) : GEL.tfa
+[20220928 19:14:30 INFO    ] SP-score = 0.537
+[20220928 19:14:30 INFO    ] TC = 0.281
+[20220928 19:14:30 INFO    ] Now processing file (33/95) : ghf10.tfa
+[20220928 19:16:01 INFO    ] SP-score = 0.878
+[20220928 19:16:01 INFO    ] TC = 0.734
+[20220928 19:16:01 INFO    ] Now processing file (34/95) : ghf34.tfa
+[20220928 19:19:23 INFO    ] SP-score = 0.861
+[20220928 19:19:23 INFO    ] TC = 0.794
+[20220928 19:19:23 INFO    ] Now processing file (35/95) : glnasn.tfa
+[20220928 19:21:52 INFO    ] SP-score = 0.988
+[20220928 19:21:52 INFO    ] TC = 0.973
+[20220928 19:21:52 INFO    ] Now processing file (36/95) : glob.tfa
+[20220928 19:22:48 INFO    ] SP-score = 0.839
+[20220928 19:22:48 INFO    ] TC = 0.206
+[20220928 19:22:48 INFO    ] Now processing file (37/95) : gpr.tfa
+[20220928 19:24:13 INFO    ] SP-score = 0.833
+[20220928 19:24:13 INFO    ] TC = 0.756
+[20220928 19:24:13 INFO    ] Now processing file (38/95) : hemopexin.tfa
+[20220928 19:24:37 INFO    ] SP-score = 0.486
+[20220928 19:24:37 INFO    ] TC = 0.234
+[20220928 19:24:37 INFO    ] Now processing file (39/95) : hexokinase.tfa
+[20220928 19:25:53 INFO    ] SP-score = 0.338
+[20220928 19:25:53 INFO    ] TC = 0.0289
+[20220928 19:25:53 INFO    ] Now processing file (40/95) : histone.tfa
+[20220928 19:28:10 INFO    ] SP-score = 0.371
+[20220928 19:28:10 INFO    ] TC = 0.205
+[20220928 19:28:10 INFO    ] Now processing file (41/95) : hla.tfa
+[20220928 19:31:08 INFO    ] SP-score = 1.0
+[20220928 19:31:08 INFO    ] TC = 1.0
+[20220928 19:31:08 INFO    ] Now processing file (42/95) : HLH.tfa
+[20220928 19:33:17 INFO    ] SP-score = 0.801
+[20220928 19:33:17 INFO    ] TC = 0.571
+[20220928 19:33:17 INFO    ] Now processing file (43/95) : HMG_box.tfa
+[20220928 19:34:13 INFO    ] SP-score = 0.877
+[20220928 19:34:13 INFO    ] TC = 0.716
+[20220928 19:34:13 INFO    ] Now processing file (44/95) : hormone_rec.tfa
+[20220928 19:35:37 INFO    ] SP-score = 0.598
+[20220928 19:35:37 INFO    ] TC = 0.313
+[20220928 19:35:37 INFO    ] Now processing file (45/95) : hpr.tfa
+[20220928 19:37:22 INFO    ] SP-score = 0.991
+[20220928 19:37:22 INFO    ] TC = 0.977
+[20220928 19:37:22 INFO    ] Now processing file (46/95) : hr.tfa
+[20220928 19:37:35 INFO    ] SP-score = 0.967
+[20220928 19:37:35 INFO    ] TC = 0.949
+[20220928 19:37:35 INFO    ] Now processing file (47/95) : il8.tfa
+[20220928 19:37:42 INFO    ] SP-score = 0.84
+[20220928 19:37:42 INFO    ] TC = 0.61
+[20220928 19:37:42 INFO    ] Now processing file (48/95) : Invasin.tfa
+[20220928 19:38:00 INFO    ] SP-score = 0.282
+[20220928 19:38:00 INFO    ] TC = 0.0825
+[20220928 19:38:00 INFO    ] Now processing file (49/95) : kazal.tfa
+[20220928 19:38:22 INFO    ] SP-score = 0.753
+[20220928 19:38:22 INFO    ] TC = 0.552
+[20220928 19:38:22 INFO    ] Now processing file (50/95) : kex.tfa
+[20220928 19:45:11 INFO    ] SP-score = 0.595
+[20220928 19:45:11 INFO    ] TC = 0.498
+[20220928 19:45:11 INFO    ] Now processing file (51/95) : kringle.tfa
+[20220928 19:45:20 INFO    ] SP-score = 0.856
+[20220928 19:45:20 INFO    ] TC = 0.697
+[20220928 19:45:20 INFO    ] Now processing file (52/95) : kunitz.tfa
+[20220928 19:45:49 INFO    ] SP-score = 0.93
+[20220928 19:45:49 INFO    ] TC = 0.717
+[20220928 19:45:49 INFO    ] Now processing file (53/95) : lamb.tfa
+[20220928 19:46:41 INFO    ] SP-score = 0.803
+[20220928 19:46:41 INFO    ] TC = 0.71
+[20220928 19:46:41 INFO    ] Now processing file (54/95) : lipase.tfa
+[20220928 19:49:09 INFO    ] SP-score = 0.432
+[20220928 19:49:09 INFO    ] TC = 0.0599
+[20220928 19:49:09 INFO    ] Now processing file (55/95) : Lipase_3.tfa
+[20220928 19:51:45 INFO    ] SP-score = 0.764
+[20220928 19:51:45 INFO    ] TC = 0.654
+[20220928 19:51:45 INFO    ] Now processing file (56/95) : lipocalin.tfa
+[20220928 19:52:40 INFO    ] SP-score = 0.582
+[20220928 19:52:40 INFO    ] TC = 0.167
+[20220928 19:52:40 INFO    ] Now processing file (57/95) : ltn.tfa
+[20220928 19:53:06 INFO    ] SP-score = 0.821
+[20220928 19:53:06 INFO    ] TC = 0.557
+[20220928 19:53:06 INFO    ] Now processing file (58/95) : MCR_alpha.tfa
+[20220928 19:53:32 INFO    ] SP-score = 0.99
+[20220928 19:53:32 INFO    ] TC = 0.986
+[20220928 19:53:32 INFO    ] Now processing file (59/95) : MCR_alpha_NC.tfa
+[20220928 19:54:05 INFO    ] SP-score = 0.497
+[20220928 19:54:05 INFO    ] TC = 0.261
+[20220928 19:54:05 INFO    ] Now processing file (60/95) : MHC_II_N.tfa
+[20220928 19:55:17 INFO    ] SP-score = 0.522
+[20220928 19:55:17 INFO    ] TC = 0.105
+[20220928 19:55:17 INFO    ] Now processing file (61/95) : mmp.tfa
+[20220928 19:56:32 INFO    ] SP-score = 0.939
+[20220928 19:56:32 INFO    ] TC = 0.852
+[20220928 19:56:32 INFO    ] Now processing file (62/95) : mofe.tfa
+[20220928 19:59:02 INFO    ] SP-score = 0.748
+[20220928 19:59:02 INFO    ] TC = 0.596
+[20220928 19:59:02 INFO    ] Now processing file (63/95) : ndk.tfa
+[20220928 20:01:29 INFO    ] SP-score = 0.975
+[20220928 20:01:29 INFO    ] TC = 0.947
+[20220928 20:01:29 INFO    ] Now processing file (64/95) : NiFeSe_Hases.tfa
+[20220928 20:03:29 INFO    ] SP-score = 0.991
+[20220928 20:03:29 INFO    ] TC = 0.985
+[20220928 20:03:29 INFO    ] Now processing file (65/95) : oxidored_q6.tfa
+[20220928 20:05:05 INFO    ] SP-score = 0.976
+[20220928 20:05:05 INFO    ] TC = 0.94
+[20220928 20:05:05 INFO    ] Now processing file (66/95) : pec_lyase.tfa
+[20220928 20:05:30 INFO    ] SP-score = 0.547
+[20220928 20:05:30 INFO    ] TC = 0.367
+[20220928 20:05:30 INFO    ] Now processing file (67/95) : pilin.tfa
+[20220928 20:06:08 INFO    ] SP-score = 0.448
+[20220928 20:06:08 INFO    ] TC = 0.302
+[20220928 20:06:08 INFO    ] Now processing file (68/95) : plantltp.tfa
+[20220928 20:06:24 INFO    ] SP-score = 0.728
+[20220928 20:06:24 INFO    ] TC = 0.407
+[20220928 20:06:24 INFO    ] Now processing file (69/95) : ppase.tfa
+[20220928 20:07:30 INFO    ] SP-score = 0.818
+[20220928 20:07:30 INFO    ] TC = 0.651
+[20220928 20:07:30 INFO    ] Now processing file (70/95) : PTB.tfa
+[20220928 20:07:48 INFO    ] SP-score = 0.786
+[20220928 20:07:48 INFO    ] TC = 0.703
+[20220928 20:07:49 INFO    ] Now processing file (71/95) : recombinase.tfa
+[20220928 20:08:26 INFO    ] SP-score = 0.767
+[20220928 20:08:26 INFO    ] TC = 0.694
+[20220928 20:08:26 INFO    ] Now processing file (72/95) : RGS.tfa
+[20220928 20:09:12 INFO    ] SP-score = 0.89
+[20220928 20:09:12 INFO    ] TC = 0.801
+[20220928 20:09:12 INFO    ] Now processing file (73/95) : rhv.tfa
+[20220928 20:11:42 INFO    ] SP-score = 0.222
+[20220928 20:11:42 INFO    ] TC = 0.0189
+[20220928 20:11:42 INFO    ] Now processing file (74/95) : Ribosomal_L1.tfa
+[20220928 20:14:00 INFO    ] SP-score = 0.755
+[20220928 20:14:00 INFO    ] TC = 0.648
+[20220928 20:14:00 INFO    ] Now processing file (75/95) : Ribosomal_L7Ae.tfa
+[20220928 20:14:34 INFO    ] SP-score = 0.695
+[20220928 20:14:34 INFO    ] TC = 0.571
+[20220928 20:14:34 INFO    ] Now processing file (76/95) : rnr.tfa
+[20220928 20:17:10 INFO    ] SP-score = 0.616
+[20220928 20:17:10 INFO    ] TC = 0.482
+[20220928 20:17:10 INFO    ] Now processing file (77/95) : RRF.tfa
+[20220928 20:18:44 INFO    ] SP-score = 0.895
+[20220928 20:18:44 INFO    ] TC = 0.796
+[20220928 20:18:44 INFO    ] Now processing file (78/95) : rub.tfa
+[20220928 20:18:58 INFO    ] SP-score = 0.992
+[20220928 20:18:58 INFO    ] TC = 0.981
+[20220928 20:18:58 INFO    ] Now processing file (79/95) : RuBisCO_large_N.tfa
+[20220928 20:21:10 INFO    ] SP-score = 0.851
+[20220928 20:21:10 INFO    ] TC = 0.641
+[20220928 20:21:10 INFO    ] Now processing file (80/95) : serpin.tfa
+[20220928 20:26:43 INFO    ] SP-score = 0.886
+[20220928 20:26:43 INFO    ] TC = 0.726
+[20220928 20:26:43 INFO    ] Now processing file (81/95) : sh2.tfa
+[20220928 20:28:07 INFO    ] SP-score = 0.695
+[20220928 20:28:07 INFO    ] TC = 0.403
+[20220928 20:28:07 INFO    ] Now processing file (82/95) : slectin.tfa
+[20220928 20:28:20 INFO    ] SP-score = 0.866
+[20220928 20:28:20 INFO    ] TC = 0.752
+[20220928 20:28:20 INFO    ] Now processing file (83/95) : Sm.tfa
+[20220928 20:29:02 INFO    ] SP-score = 0.795
+[20220928 20:29:02 INFO    ] TC = 0.675
+[20220928 20:29:02 INFO    ] Now processing file (84/95) : sodcu.tfa
+[20220928 20:29:59 INFO    ] SP-score = 0.773
+[20220928 20:29:59 INFO    ] TC = 0.639
+[20220928 20:29:59 INFO    ] Now processing file (85/95) : SRF-TF.tfa
+[20220928 20:30:12 INFO    ] SP-score = 1.0
+[20220928 20:30:12 INFO    ] TC = 1.0
+[20220928 20:30:12 INFO    ] Now processing file (86/95) : svmp.tfa
+[20220928 20:30:49 INFO    ] SP-score = 1.0
+[20220928 20:30:49 INFO    ] TC = 1.0
+[20220928 20:30:49 INFO    ] Now processing file (87/95) : TIL.tfa
+[20220928 20:31:14 INFO    ] SP-score = 0.72
+[20220928 20:31:14 INFO    ] TC = 0.538
+[20220928 20:31:14 INFO    ] Now processing file (88/95) : tln.tfa
+[20220928 20:33:21 INFO    ] SP-score = 0.88
+[20220928 20:33:21 INFO    ] TC = 0.784
+[20220928 20:33:21 INFO    ] Now processing file (89/95) : tms.tfa
+[20220928 20:37:21 INFO    ] SP-score = 0.866
+[20220928 20:37:21 INFO    ] TC = 0.698
+[20220928 20:37:21 INFO    ] Now processing file (90/95) : TRANSTHYRETIN.tfa
+[20220928 20:37:51 INFO    ] SP-score = 1.0
+[20220928 20:37:51 INFO    ] TC = 1.0
+[20220928 20:37:51 INFO    ] Now processing file (91/95) : tryp_alpha_amyl.tfa
+[20220928 20:38:07 INFO    ] SP-score = 0.706
+[20220928 20:38:07 INFO    ] TC = 0.595
+[20220928 20:38:07 INFO    ] Now processing file (92/95) : UBQ.tfa
+[20220928 20:40:19 INFO    ] SP-score = 0.982
+[20220928 20:40:19 INFO    ] TC = 0.973
+[20220928 20:40:19 INFO    ] Now processing file (93/95) : WW.tfa
+[20220928 20:40:37 INFO    ] SP-score = 0.934
+[20220928 20:40:37 INFO    ] TC = 0.761
+[20220928 20:40:37 INFO    ] Now processing file (94/95) : YgbB.tfa
+[20220928 20:41:59 INFO    ] SP-score = 0.935
+[20220928 20:41:59 INFO    ] TC = 0.904
+[20220928 20:41:59 INFO    ] Now processing file (95/95) : acid_phosphat.tfa
+[20220928 20:45:19 INFO    ] SP-score = 0.628
+[20220928 20:45:19 INFO    ] TC = 0.468
+[20220928 20:45:19 INFO    ] ========== Before Training ==========
+[20220928 20:45:19 INFO    ] Guide Tree Evaluation : 
+[20220928 20:45:19 INFO    ] Category		SP		TC
+[20220928 20:45:19 INFO    ] medium		0.7588526315789473		0.6045389473684211
+[20220928 20:45:19 INFO    ] Total Execution Time : 7418.986514091492 (s)
+[20220928 20:45:19 INFO    ] ===================================

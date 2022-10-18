@@ -31,9 +31,14 @@ def initialize(X, num_clusters):
     distanceGroup = torch.zeros(X.size(0))
     sum = 0.0
     for index in range(1, num_clusters):
+        # maxx, maxID = 0, 0
         for i in range(X.size(0)):
             distanceGroup[i] = getNearestCenter(X, i, clusterCenterGroup[:index])
+            # if distanceGroup[i] > maxx:
+            #     maxx = distanceGroup[i]
+            #     maxID = i
             sum += distanceGroup[i]
+        # clusterCenterGroup.append(maxID)
         sum *= random.random()
         for i in range(X.size(0)):
             sum -= distanceGroup[i]
@@ -53,7 +58,7 @@ def kmeans(
         num_clusters,
         distance='euclidean',
         cluster_centers=[],
-        tol=1e-4,
+        tol=1e-5,
         tqdm_flag=True,
         iter_limit=100,
         device=torch.device('cpu'),
@@ -127,9 +132,9 @@ def kmeans(
             initial_state[index] = selected.mean(dim=0)
 
         # Calculate Loss
-        one_hot = torch.zeros(X.size(0), num_clusters).to(device)
-        one_hot.scatter_(1, choice_cluster.unsqueeze(1), 1)
-        loss = torch.sum(one_hot * dis)
+        # one_hot = torch.zeros(X.size(0), num_clusters).to(device)
+        # one_hot.scatter_(1, choice_cluster.unsqueeze(1), 1)
+        # loss = torch.sum(one_hot * dis)
 
         center_shift = torch.sum(
             torch.sqrt(
@@ -151,7 +156,7 @@ def kmeans(
             break
         if iter_limit != 0 and iteration >= iter_limit:
             break
-    return choice_cluster.cpu(), initial_state.cpu(), loss
+    return choice_cluster.cpu(), initial_state.cpu()
 
 
 def kmeans_predict(

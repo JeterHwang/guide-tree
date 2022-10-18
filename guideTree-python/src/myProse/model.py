@@ -46,29 +46,14 @@ class SkipLSTM(nn.Module):
         if esm_model is not None:
             self.esm = esm_model
             self.repr_layers = num_layers
-            n = hidden_dim
         else:
-            # self.lstm = nn.LSTM(
-            #     nin,
-            #     hidden_dim,
-            #     num_layers,
-            #     batch_first=True,
-            #     bidirectional=bidirectional
-            # )
-            dim = nin
-            self.lstm = nn.ModuleList()
-            for i in range(num_layers):
-                f = nn.LSTM(
-                    dim, 
-                    hidden_dim, 
-                    1, 
-                    batch_first=True, 
-                    bidirectional=bidirectional
-                )
-                self.lstm.append(f)
-                dim = 2 * hidden_dim
-            n = 2 * hidden_dim * 3 + nin
-        self.proj = nn.Linear(n, nout)
+            self.lstm = nn.LSTM(
+                nin,
+                hidden_dim,
+                num_layers,
+                batch_first=True,
+                bidirectional=bidirectional
+            )
         
     @staticmethod
     def load_pretrained(path='prose_dlm', score_type='SSA', esm_model=None, layers=3, hidden_dim=1024, output_dim=100):
@@ -86,14 +71,14 @@ class SkipLSTM(nn.Module):
         for key, value in state_dict.items():
             if 'embedding.' in key:
                 key = key.replace('embedding.', '')
-            if 'layers' in key:
-                key = key.replace('layers', 'lstm')
             # if 'layers' in key:
-            #     layer_id = key.split('.')[1]
-            #     postfix = key.split('.')[2].split('_')
-            #     postfix[2] = postfix[2][0] + layer_id
-            #     postfix_revised = '_'.join(postfix)
-            #     key = f"lstm.{postfix_revised}"
+            #     key = key.replace('layers', 'lstm')
+            if 'layers' in key:
+                layer_id = key.split('.')[1]
+                postfix = key.split('.')[2].split('_')
+                postfix[2] = postfix[2][0] + layer_id
+                postfix_revised = '_'.join(postfix)
+                key = f"lstm.{postfix_revised}"
             if key in model_dict:
                 logging.info(key)
                 new_dict[key] = value
@@ -123,24 +108,16 @@ class SkipLSTM(nn.Module):
     def forward(self, x, length):
         if hasattr(self, 'lstm'):
             one_hot = self.to_one_hot(x)
-            # h_ = pack_padded_sequence(one_hot, length, batch_first=True, enforce_sorted=False)
-            # output, (hidden, cell) = self.lstm(h_)
-            # output_unpacked, _ = pad_packed_sequence(output, batch_first=True)
-            # hs = output_unpacked
-            hs = []
             h_ = pack_padded_sequence(one_hot, length, batch_first=True, enforce_sorted=False)
-            for f in self.lstm:
-                h, _ = f(h_)
-                h_ = h
+            # for f in self.lstm:
+            #     h, _ = f(h_)
+            #     h_ = h
+            h_, (hidden, cell) = self.lstm(h_)
             h_unpacked, _ = pad_packed_sequence(h_, batch_first=True)
-            # hs.append(h_unpacked)
-            # hs = torch.cat(hs, dim=2)
-            # hs = self.proj(hs)
             hs = h_unpacked
         else:
             results = self.esm(x, repr_layers=[self.repr_layers], return_contacts=False)
             hs = results["representations"][self.repr_layers][:,1:,:]
-            # bos = results["representations"][self.repr_layers][:,0,:]
 
         if self.score_type == 'SSA':
             hs = self.proj(hs)

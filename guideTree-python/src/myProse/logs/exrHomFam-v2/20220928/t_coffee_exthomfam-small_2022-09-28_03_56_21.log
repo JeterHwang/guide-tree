@@ -1,0 +1,27 @@
+[20220928 03:56:21 INFO    ] lstm.0.weight_ih_l0
+[20220928 03:56:21 INFO    ] lstm.0.weight_hh_l0
+[20220928 03:56:21 INFO    ] lstm.0.bias_ih_l0
+[20220928 03:56:21 INFO    ] lstm.0.bias_hh_l0
+[20220928 03:56:21 INFO    ] lstm.0.weight_ih_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.0.weight_hh_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.0.bias_ih_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.0.bias_hh_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.1.weight_ih_l0
+[20220928 03:56:21 INFO    ] lstm.1.weight_hh_l0
+[20220928 03:56:21 INFO    ] lstm.1.bias_ih_l0
+[20220928 03:56:21 INFO    ] lstm.1.bias_hh_l0
+[20220928 03:56:21 INFO    ] lstm.1.weight_ih_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.1.weight_hh_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.1.bias_ih_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.1.bias_hh_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.2.weight_ih_l0
+[20220928 03:56:21 INFO    ] lstm.2.weight_hh_l0
+[20220928 03:56:21 INFO    ] lstm.2.bias_ih_l0
+[20220928 03:56:21 INFO    ] lstm.2.bias_hh_l0
+[20220928 03:56:21 INFO    ] lstm.2.weight_ih_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.2.weight_hh_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.2.bias_ih_l0_reverse
+[20220928 03:56:21 INFO    ] lstm.2.bias_hh_l0_reverse
+[20220928 03:56:21 INFO    ] proj.weight
+[20220928 03:56:21 INFO    ] proj.bias
+[20220928 03:56:21 INFO    ] Now processing file (1/86) : ALBUMIN.tfa

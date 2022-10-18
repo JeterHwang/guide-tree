@@ -1,0 +1,209 @@
+[20221004 23:55:11 INFO    ] lstm.0.weight_ih_l0
+[20221004 23:55:11 INFO    ] lstm.0.weight_hh_l0
+[20221004 23:55:11 INFO    ] lstm.0.bias_ih_l0
+[20221004 23:55:11 INFO    ] lstm.0.bias_hh_l0
+[20221004 23:55:11 INFO    ] lstm.0.weight_ih_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.0.weight_hh_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.0.bias_ih_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.0.bias_hh_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.1.weight_ih_l0
+[20221004 23:55:11 INFO    ] lstm.1.weight_hh_l0
+[20221004 23:55:11 INFO    ] lstm.1.bias_ih_l0
+[20221004 23:55:11 INFO    ] lstm.1.bias_hh_l0
+[20221004 23:55:11 INFO    ] lstm.1.weight_ih_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.1.weight_hh_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.1.bias_ih_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.1.bias_hh_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.2.weight_ih_l0
+[20221004 23:55:11 INFO    ] lstm.2.weight_hh_l0
+[20221004 23:55:11 INFO    ] lstm.2.bias_ih_l0
+[20221004 23:55:11 INFO    ] lstm.2.bias_hh_l0
+[20221004 23:55:11 INFO    ] lstm.2.weight_ih_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.2.weight_hh_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.2.bias_ih_l0_reverse
+[20221004 23:55:11 INFO    ] lstm.2.bias_hh_l0_reverse
+[20221004 23:55:11 INFO    ] proj.weight
+[20221004 23:55:11 INFO    ] proj.bias
+[20221004 23:55:11 INFO    ] Now processing file (1/59) : 115.tfa
+[20221004 23:57:11 INFO    ] SP-score = 0.507
+[20221004 23:57:11 INFO    ] TC = 0.255
+[20221004 23:57:11 INFO    ] Now processing file (2/59) : 136.tfa
+[20221004 23:57:34 INFO    ] SP-score = 0.986
+[20221004 23:57:34 INFO    ] TC = 0.852
+[20221004 23:57:34 INFO    ] Now processing file (3/59) : 341.tfa
+[20221004 23:58:29 INFO    ] SP-score = 0.957
+[20221004 23:58:29 INFO    ] TC = 0.907
+[20221004 23:58:29 INFO    ] Now processing file (4/59) : 335.tfa
+[20221004 23:59:52 INFO    ] SP-score = 1.0
+[20221004 23:59:52 INFO    ] TC = 1.0
+[20221004 23:59:52 INFO    ] Now processing file (5/59) : 235.tfa
+[20221005 00:02:07 INFO    ] SP-score = 1.0
+[20221005 00:02:07 INFO    ] TC = 1.0
+[20221005 00:02:07 INFO    ] Now processing file (6/59) : 226.tfa
+[20221005 00:06:31 INFO    ] SP-score = 1.0
+[20221005 00:06:31 INFO    ] TC = 1.0
+[20221005 00:06:31 INFO    ] Now processing file (7/59) : 613.tfa
+[20221005 00:08:59 INFO    ] SP-score = 1.0
+[20221005 00:08:59 INFO    ] TC = 1.0
+[20221005 00:08:59 INFO    ] Now processing file (8/59) : 146.tfa
+[20221005 00:10:32 INFO    ] SP-score = 0.98
+[20221005 00:10:32 INFO    ] TC = 0.98
+[20221005 00:10:32 INFO    ] Now processing file (9/59) : 225.tfa
+[20221005 00:13:29 INFO    ] SP-score = 0.982
+[20221005 00:13:29 INFO    ] TC = 0.982
+[20221005 00:13:29 INFO    ] Now processing file (10/59) : 186.tfa
+[20221005 00:16:38 INFO    ] SP-score = 0.96
+[20221005 00:16:38 INFO    ] TC = 0.919
+[20221005 00:16:38 INFO    ] Now processing file (11/59) : 260.tfa
+[20221005 00:21:21 INFO    ] SP-score = 0.932
+[20221005 00:21:21 INFO    ] TC = 0.932
+[20221005 00:21:21 INFO    ] Now processing file (12/59) : 252.tfa
+[20221005 00:27:38 INFO    ] SP-score = 0.4
+[20221005 00:27:38 INFO    ] TC = 0.4
+[20221005 00:27:38 INFO    ] Now processing file (13/59) : 145.tfa
+[20221005 00:29:39 INFO    ] SP-score = 0.969
+[20221005 00:29:39 INFO    ] TC = 0.954
+[20221005 00:29:39 INFO    ] Now processing file (14/59) : 144.tfa
+[20221005 00:30:22 INFO    ] SP-score = 0.915
+[20221005 00:30:22 INFO    ] TC = 0.858
+[20221005 00:30:22 INFO    ] Now processing file (15/59) : 90.tfa
+[20221005 00:36:32 INFO    ] SP-score = 0.384
+[20221005 00:36:32 INFO    ] TC = 0.129
+[20221005 00:36:32 INFO    ] Now processing file (16/59) : 140.tfa
+[20221005 00:37:28 INFO    ] SP-score = 0.934
+[20221005 00:37:28 INFO    ] TC = 0.686
+[20221005 00:37:28 INFO    ] Now processing file (17/59) : 87.tfa
+[20221005 00:37:56 INFO    ] SP-score = 0.638
+[20221005 00:37:56 INFO    ] TC = 0.638
+[20221005 00:37:56 INFO    ] Now processing file (18/59) : 620.tfa
+[20221005 00:39:26 INFO    ] SP-score = 0.975
+[20221005 00:39:26 INFO    ] TC = 0.905
+[20221005 00:39:26 INFO    ] Now processing file (19/59) : 142.tfa
+[20221005 00:41:15 INFO    ] SP-score = 0.835
+[20221005 00:41:15 INFO    ] TC = 0.835
+[20221005 00:41:15 INFO    ] Now processing file (20/59) : 592.tfa
+[20221005 00:41:41 INFO    ] SP-score = 1.0
+[20221005 00:41:41 INFO    ] TC = 1.0
+[20221005 00:41:41 INFO    ] Now processing file (21/59) : 490.tfa
+[20221005 00:47:01 INFO    ] SP-score = 0.885
+[20221005 00:47:01 INFO    ] TC = 0.582
+[20221005 00:47:01 INFO    ] Now processing file (22/59) : 547.tfa
+[20221005 00:48:27 INFO    ] SP-score = 1.0
+[20221005 00:48:27 INFO    ] TC = 1.0
+[20221005 00:48:27 INFO    ] Now processing file (23/59) : 409.tfa
+[20221005 00:48:48 INFO    ] SP-score = 0.947
+[20221005 00:48:48 INFO    ] TC = 0.947
+[20221005 00:48:48 INFO    ] Now processing file (24/59) : 95.tfa
+[20221005 00:50:21 INFO    ] SP-score = 0.742
+[20221005 00:50:21 INFO    ] TC = 0.742
+[20221005 00:50:21 INFO    ] Now processing file (25/59) : 491.tfa
+[20221005 00:55:48 INFO    ] SP-score = 0.747
+[20221005 00:55:48 INFO    ] TC = 0.385
+[20221005 00:55:48 INFO    ] Now processing file (26/59) : 135.tfa
+[20221005 00:58:36 INFO    ] SP-score = 0.691
+[20221005 00:58:36 INFO    ] TC = 0.691
+[20221005 00:58:36 INFO    ] Now processing file (27/59) : 265.tfa
+[20221005 01:00:11 INFO    ] SP-score = 0.961
+[20221005 01:00:11 INFO    ] TC = 0.961
+[20221005 01:00:11 INFO    ] Now processing file (28/59) : 197.tfa
+[20221005 01:04:05 INFO    ] SP-score = 0.979
+[20221005 01:04:05 INFO    ] TC = 0.955
+[20221005 01:04:05 INFO    ] Now processing file (29/59) : 114.tfa
+[20221005 01:04:29 INFO    ] SP-score = 1.0
+[20221005 01:04:29 INFO    ] TC = 1.0
+[20221005 01:04:29 INFO    ] Now processing file (30/59) : 383.tfa
+[20221005 01:04:52 INFO    ] SP-score = 0.988
+[20221005 01:04:52 INFO    ] TC = 0.98
+[20221005 01:04:52 INFO    ] Now processing file (31/59) : 388.tfa
+[20221005 01:06:24 INFO    ] SP-score = 1.0
+[20221005 01:06:24 INFO    ] TC = 1.0
+[20221005 01:06:24 INFO    ] Now processing file (32/59) : 14.tfa
+[20221005 01:06:49 INFO    ] SP-score = 0.943
+[20221005 01:06:49 INFO    ] TC = 0.894
+[20221005 01:06:49 INFO    ] Now processing file (33/59) : 84.tfa
+[20221005 01:07:13 INFO    ] SP-score = 0.995
+[20221005 01:07:13 INFO    ] TC = 0.992
+[20221005 01:07:13 INFO    ] Now processing file (34/59) : 429.tfa
+[20221005 01:07:28 INFO    ] SP-score = 0.943
+[20221005 01:07:28 INFO    ] TC = 0.792
+[20221005 01:07:28 INFO    ] Now processing file (35/59) : 117.tfa
+[20221005 01:08:39 INFO    ] SP-score = 0.773
+[20221005 01:08:39 INFO    ] TC = 0.773
+[20221005 01:08:39 INFO    ] Now processing file (36/59) : 587.tfa
+[20221005 01:08:55 INFO    ] SP-score = 1.0
+[20221005 01:08:55 INFO    ] TC = 1.0
+[20221005 01:08:55 INFO    ] Now processing file (37/59) : 512.tfa
+[20221005 01:09:25 INFO    ] SP-score = 1.0
+[20221005 01:09:25 INFO    ] TC = 1.0
+[20221005 01:09:25 INFO    ] Now processing file (38/59) : 71.tfa
+[20221005 01:09:38 INFO    ] SP-score = 1.0
+[20221005 01:09:38 INFO    ] TC = 1.0
+[20221005 01:09:38 INFO    ] Now processing file (39/59) : 200.tfa
+[20221005 01:25:46 INFO    ] SP-score = 0.903
+[20221005 01:25:46 INFO    ] TC = 0.84
+[20221005 01:25:46 INFO    ] Now processing file (40/59) : 641.tfa
+[20221005 01:26:02 INFO    ] SP-score = 0.962
+[20221005 01:26:02 INFO    ] TC = 0.924
+[20221005 01:26:02 INFO    ] Now processing file (41/59) : 502.tfa
+[20221005 01:27:36 INFO    ] SP-score = 0.924
+[20221005 01:27:36 INFO    ] TC = 0.886
+[20221005 01:27:36 INFO    ] Now processing file (42/59) : 139.tfa
+[20221005 01:29:47 INFO    ] SP-score = 0.821
+[20221005 01:29:47 INFO    ] TC = 0.487
+[20221005 01:29:47 INFO    ] Now processing file (43/59) : 60.tfa
+[20221005 01:30:38 INFO    ] SP-score = 0.771
+[20221005 01:30:38 INFO    ] TC = 0.667
+[20221005 01:30:38 INFO    ] Now processing file (44/59) : 351.tfa
+[20221005 01:31:41 INFO    ] SP-score = 0.872
+[20221005 01:31:41 INFO    ] TC = 0.771
+[20221005 01:31:41 INFO    ] Now processing file (45/59) : 259.tfa
+[20221005 01:35:11 INFO    ] SP-score = 0.991
+[20221005 01:35:11 INFO    ] TC = 0.991
+[20221005 01:35:11 INFO    ] Now processing file (46/59) : 264.tfa
+[20221005 01:36:18 INFO    ] SP-score = 0.986
+[20221005 01:36:18 INFO    ] TC = 0.986
+[20221005 01:36:18 INFO    ] Now processing file (47/59) : 452.tfa
+[20221005 01:37:43 INFO    ] SP-score = 0.653
+[20221005 01:37:43 INFO    ] TC = 0.653
+[20221005 01:37:43 INFO    ] Now processing file (48/59) : 451.tfa
+[20221005 01:38:13 INFO    ] SP-score = 0.938
+[20221005 01:38:13 INFO    ] TC = 0.859
+[20221005 01:38:13 INFO    ] Now processing file (49/59) : 6.tfa
+[20221005 01:39:23 INFO    ] SP-score = 0.98
+[20221005 01:39:23 INFO    ] TC = 0.98
+[20221005 01:39:23 INFO    ] Now processing file (50/59) : 332.tfa
+[20221005 01:41:30 INFO    ] SP-score = 0.96
+[20221005 01:41:30 INFO    ] TC = 0.94
+[20221005 01:41:30 INFO    ] Now processing file (51/59) : 147.tfa
+[20221005 01:43:12 INFO    ] SP-score = 0.924
+[20221005 01:43:12 INFO    ] TC = 0.924
+[20221005 01:43:12 INFO    ] Now processing file (52/59) : 561.tfa
+[20221005 01:43:44 INFO    ] SP-score = 1.0
+[20221005 01:43:44 INFO    ] TC = 1.0
+[20221005 01:43:44 INFO    ] Now processing file (53/59) : 134.tfa
+[20221005 01:44:29 INFO    ] SP-score = 0.925
+[20221005 01:44:29 INFO    ] TC = 0.756
+[20221005 01:44:29 INFO    ] Now processing file (54/59) : 222.tfa
+[20221005 04:42:03 INFO    ] SP-score = 0.864
+[20221005 04:42:03 INFO    ] TC = 0.864
+[20221005 04:42:03 INFO    ] Now processing file (55/59) : 94.tfa
+[20221005 04:53:58 INFO    ] SP-score = 0.915
+[20221005 04:53:58 INFO    ] TC = 0.873
+[20221005 04:53:58 INFO    ] Now processing file (56/59) : 104.tfa
+[20221005 04:55:29 INFO    ] SP-score = 0.962
+[20221005 04:55:29 INFO    ] TC = 0.82
+[20221005 04:55:29 INFO    ] Now processing file (57/59) : 138.tfa
+[20221005 05:24:07 INFO    ] SP-score = 0.942
+[20221005 05:24:07 INFO    ] TC = 0.854
+[20221005 05:24:07 INFO    ] Now processing file (58/59) : 722.tfa
+[20221005 05:36:27 INFO    ] SP-score = 0.933
+[20221005 05:36:27 INFO    ] TC = 0.933
+[20221005 05:36:27 INFO    ] Now processing file (59/59) : 100.tfa
+[20221005 05:43:45 INFO    ] SP-score = 0.776
+[20221005 05:43:45 INFO    ] TC = 0.776
+[20221005 05:43:45 INFO    ] ========== Before Training ==========
+[20221005 05:43:45 INFO    ] Guide Tree Evaluation : 
+[20221005 05:43:45 INFO    ] Category		SP		TC
+[20221005 05:43:45 INFO    ] medium		0.897457627118644		0.8425423728813558
+[20221005 05:43:45 INFO    ] Total Execution Time : 20914.2661049366 (s)
+[20221005 05:43:45 INFO    ] ===================================

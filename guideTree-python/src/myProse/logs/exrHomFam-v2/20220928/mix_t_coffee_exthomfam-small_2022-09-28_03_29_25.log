@@ -1,0 +1,32 @@
+[20220928 03:29:25 INFO    ] lstm.0.weight_ih_l0
+[20220928 03:29:25 INFO    ] lstm.0.weight_hh_l0
+[20220928 03:29:25 INFO    ] lstm.0.bias_ih_l0
+[20220928 03:29:25 INFO    ] lstm.0.bias_hh_l0
+[20220928 03:29:25 INFO    ] lstm.0.weight_ih_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.0.weight_hh_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.0.bias_ih_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.0.bias_hh_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.1.weight_ih_l0
+[20220928 03:29:25 INFO    ] lstm.1.weight_hh_l0
+[20220928 03:29:25 INFO    ] lstm.1.bias_ih_l0
+[20220928 03:29:25 INFO    ] lstm.1.bias_hh_l0
+[20220928 03:29:25 INFO    ] lstm.1.weight_ih_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.1.weight_hh_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.1.bias_ih_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.1.bias_hh_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.2.weight_ih_l0
+[20220928 03:29:25 INFO    ] lstm.2.weight_hh_l0
+[20220928 03:29:25 INFO    ] lstm.2.bias_ih_l0
+[20220928 03:29:25 INFO    ] lstm.2.bias_hh_l0
+[20220928 03:29:25 INFO    ] lstm.2.weight_ih_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.2.weight_hh_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.2.bias_ih_l0_reverse
+[20220928 03:29:25 INFO    ] lstm.2.bias_hh_l0_reverse
+[20220928 03:29:25 INFO    ] proj.weight
+[20220928 03:29:25 INFO    ] proj.bias
+[20220928 03:29:28 INFO    ] Now processing file (1/86) : ALBUMIN.tfa
+[20220928 03:29:28 INFO    ] Average Sequence Length : 162.42902108907774
+[20220928 03:29:28 INFO    ] Unique sequences : 3177 / 3177
+[20220928 03:29:32 INFO    ] Finish embedding in 4.832736015319824 secs.
+[20220928 03:29:33 INFO    ] Finish K-means in 0.48410987854003906 seconds
+[20220928 03:29:33 INFO    ] Cluster Sizes : [381, 371, 312, 285, 283, 279, 269, 255, 245, 175, 160, 84, 74, 4]

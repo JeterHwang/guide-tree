@@ -19,6 +19,7 @@ from dataset import SCOPePairsDataset, LSTMDataset, SSADataset
 from Bio import SeqIO
 import logging
 import datetime
+from pandas import *
 from utils import (
     L2_distance, 
     SSA_score_slow, 
@@ -80,37 +81,60 @@ def eval_prog(args):
         fasta_dir = Path("../../data/extHomFam-v3/large")
     elif args.eval_dataset == 'exthomfam-xlarge':
         fasta_dir = Path("../../data/extHomFam-v3/xlarge")
+    elif args.eval_dataset == 'oxfam-small':
+        fasta_dir = Path("../../data/oxfam/small")
+    elif args.eval_dataset == 'oxfam-medium':
+        fasta_dir = Path("../../data/oxfam/medium")
+    elif args.eval_dataset == 'oxfam-large':
+        fasta_dir = Path("../../data/oxfam/large")
+    elif args.eval_dataset == 'ContTest-small':
+        fasta_dir = Path("../../data/ContTest/data/small")
+    elif args.eval_dataset == 'ContTest-medium':
+        fasta_dir = Path("../../data/ContTest/data/medium")
+    elif args.eval_dataset == 'ContTest-large':
+        fasta_dir = Path("../../data/ContTest/data/large")
     else:
         raise NotImplementedError
-    for i, fastaFile in enumerate(tqdm(list(fasta_dir.glob('**/*.tfa')), desc="Eval Guide Tree")):
+    if 'ContTest' in args.eval_dataset:
+        fasta_files = []
+        for path in fasta_dir.iterdir():
+            if path.is_dir() and "PF" in path.stem:
+                prefix = path.stem.split('_')[0]
+                fasta_files.append(path / f"{prefix}_unaligned.fasta")
+    else:
+        fasta_files = list(fasta_dir.glob('**/*.tfa'))
+    for i, fastaFile in enumerate(tqdm(fasta_files, desc="Eval Guide Tree")):
         # print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
-        logging.info(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
+        logging.info(f"Now processing file ({i + 1}/{len(fasta_files)}) : {fastaFile.name}")
         raw_seqs = list(SeqIO.parse(fastaFile, 'fasta'))
         ## Alignment
         if args.align_prog == "clustalo":
             if args.eval_dataset == 'bb3_release':
                 msf_path = args.msf_dir / f"{fastaFile.stem}.msf"
-                runcmd(f"./clustalo --outfmt=msf --in {fastaFile.absolute().resolve()} --out {msf_path.absolute().resolve()} --force")
+                runcmd(f"./clustalo --threads=8 --outfmt=msf --in {fastaFile.absolute().resolve()} --out {msf_path.absolute().resolve()} --force")
             else:
-                pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-                runcmd(f"./clustalo --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --force")
+                pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_clustalo.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
+                runcmd(f"./clustalo --threads=8 --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --force")
         elif args.align_prog == "mafft":
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
-            pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-            ret = runcmd(f"./mafft --anysymbol --thread 16 {fastaFile.absolute().resolve()}").decode().split('\n')
+            pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_mafft.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
+            ret = runcmd(f"./mafft --large --anysymbol --thread 8 {fastaFile.absolute().resolve()}").decode().split('\n')
             with open(pfa_path, 'w') as f:
                 for line in ret:
                     f.write(line + '\n')
         else:
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
-            pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
             if args.align_prog == "famsa":
-                runcmd(f"famsa -gt upgma -t 16 {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
+                pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_famsa.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
+                runcmd(f"famsa -keep-duplicates -gt upgma -t 8 {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
             else:
-                runcmd(f"t_coffee -reg -thread 0 -child_thread 0 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree mbed -method mafftginsi_msa -outfile {pfa_path.absolute().resolve()}")
+                pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_tcoffee.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
+                runcmd(f"t_coffee -reg -thread 8 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree mbed -method mafftginsi_msa -outfile {pfa_path.absolute().resolve()}")
         ## Calculate Score
+        if 'ContTest' in args.eval_dataset:
+            continue
         if args.eval_dataset == 'bb3_release':
             xml_path = fastaFile.parents[0] / f"{fastaFile.stem}.xml"
             output = runcmd(f"bali_score {xml_path} {msf_path}").decode("utf-8").split('\n')[10]
@@ -129,14 +153,9 @@ def eval_prog(args):
                     if seq_name in seq_in_ref:
                         f.write(f">{seq_name}\n")
                         f.write(f"{seq_data}\n")
-            if args.eval_dataset in ["homfam-small", "homfam-medium", "homfam-large"]:
-                raw_scores = runcmd(f"java -jar {args.fastSP_path.absolute().resolve()} -r {rfa_path.absolute().resolve()} -e {rfa_pfa_path.absolute().resolve()}").decode().split()
-                SP = float(raw_scores[raw_scores.index('SP-Score') + 1])
-                TC = float(raw_scores[raw_scores.index('TC') + 1])
-            else:
-                raw_scores = runcmd(f"qscore -test {rfa_pfa_path.absolute().resolve()} -ref {rfa_path.absolute().resolve()}").decode().replace('\n', '').split(';')                
-                SP = float(raw_scores[2][2:])
-                TC = float(raw_scores[3][3:])
+            raw_scores = runcmd(f"java -jar {args.fastSP_path.absolute().resolve()} -r {rfa_path.absolute().resolve()} -e {rfa_pfa_path.absolute().resolve()}").decode().split()
+            SP = float(raw_scores[raw_scores.index('SP-Score') + 1])
+            TC = float(raw_scores[raw_scores.index('TC') + 1])
         # print(f"SP-score = {SP}")
         # print(f"TC = {TC}")
         logging.info(f"SP-score = {SP}")
@@ -153,11 +172,27 @@ def eval_prog(args):
             result[category]['TC'].append(TC)
     
     final_result = {}
-    for cat, value in result.items():
+    if 'ContTest' in args.eval_dataset:
+        # runcmd(f"cd {fasta_dir.absolute().resolve()}")
+        # runcmd(f"runbenchmark -a {args.align_prog}")
+        # csv = read_csv(f"results/results_{args.align_prog}_psicov.csv")
+        # PFAM_ID = csv['PFAM_ID'].tolist()
+        # PROTEIN_ID = csv[' PROTEIN_ID'].tolist()
+        # SCORE = csv[' SCORE'].tolist()
+        # total_score = 0
+        # for pfam, prot, score in zip(PFAM_ID, PROTEIN_ID, SCORE):
+        #     logging.info(f"{pfam}\t\t{prot}\t\t{score}")
+        #     total_score += float(score)
+        cat = fasta_dir.stem
         final_result[cat] = {
-            "SP" : sum(value['SP']) / len(value['SP']),
-            "TC" : sum(value['TC']) / len(value['TC']),
+            "SCORE" : 0
         }
+    else:
+        for cat, value in result.items():
+            final_result[cat] = {
+                "SP" : sum(value['SP']) / len(value['SP']),
+                "TC" : sum(value['TC']) / len(value['TC']),
+            }
     return final_result
 
 def eval_Kmeans(epoch, model, esm_alphabet, args):
@@ -180,10 +215,30 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
         fasta_dir = Path("../../data/extHomFam-v3/large")
     elif args.eval_dataset == 'exthomfam-xlarge':
         fasta_dir = Path("../../data/extHomFam-v3/xlarge")
+    elif args.eval_dataset == 'oxfam-small':
+        fasta_dir = Path("../../data/oxfam/small")
+    elif args.eval_dataset == 'oxfam-medium':
+        fasta_dir = Path("../../data/oxfam/medium")
+    elif args.eval_dataset == 'oxfam-large':
+        fasta_dir = Path("../../data/oxfam/large")
+    elif args.eval_dataset == 'ContTest-small':
+        fasta_dir = Path("../../data/ContTest/data/small")
+    elif args.eval_dataset == 'ContTest-medium':
+        fasta_dir = Path("../../data/ContTest/data/medium")
+    elif args.eval_dataset == 'ContTest-large':
+        fasta_dir = Path("../../data/ContTest/data/large")
     else:
         raise NotImplementedError
     model = model.cuda()
-    for i, fastaFile in enumerate(tqdm(list(fasta_dir.glob('**/*.tfa')), desc="Eval Guide Tree")):
+    if 'ContTest' in args.eval_dataset:
+        fasta_files = []
+        for path in fasta_dir.iterdir():
+            if path.is_dir() and "PF" in path.stem:
+                prefix = path.stem.split('_')[0]
+                fasta_files.append(path / f"{prefix}_unaligned.fasta")
+    else:
+        fasta_files = list(fasta_dir.glob('**/*.tfa'))
+    for i, fastaFile in enumerate(tqdm(fasta_files, desc="Eval Guide Tree")):
         # print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
         logging.info(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
         ## Read sequences
@@ -226,7 +281,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             dataset = LSTMDataset([seq['seq'] for seq in unique_sorted_seqs])
         eval_loader = torch.utils.data.DataLoader(
             dataset,
-            batch_size=32,
+            batch_size=64,
             collate_fn=dataset.collate_fn,
             pin_memory=True,
             # batch_sampler=dataset.batch_sampler(args.toks_per_batch_eval),
@@ -259,38 +314,42 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             dist_matrix = None
         ## UPGMA / Output Guide Tree
         tree_path = args.tree_dir / f"{fastaFile.stem}.dnd"
-        UPGMA_Kmeans(dist_matrix, clusters, id2cluster, tree_path, args.fasta_dir)
+        UPGMA_Kmeans(dist_matrix, clusters, id2cluster, tree_path, args.fasta_dir, args.dist_type)
         ## Alignment
         if args.align_prog == "clustalo":
             if args.eval_dataset == 'bb3_release':
                 msf_path = args.msf_dir / f"{fastaFile.stem}.msf"
-                runcmd(f"./clustalo --outfmt=msf --in {fastaFile.absolute().resolve()} --out {msf_path.absolute().resolve()} --guidetree-in {tree_path.absolute().resolve()} --force")
+                runcmd(f"./clustalo --threads=8 --outfmt=msf --in {fastaFile.absolute().resolve()} --out {msf_path.absolute().resolve()} --guidetree-in {tree_path.absolute().resolve()} --force")
             else:
-                pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
-                runcmd(f"./clustalo --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --guidetree-in {tree_path.absolute().resolve()} --force")
+                pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_clustaloNN.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
+                runcmd(f"./clustalo --threads=8 --in {fastaFile.absolute().resolve()} --out {pfa_path.absolute().resolve()} --guidetree-in {tree_path.absolute().resolve()} --force")
         elif args.align_prog == "mafft":
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
             mafft_path = args.tree_dir / f"{fastaFile.stem}_mafft.dnd"
-            pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
+            pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_mafftNN.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
             ret = runcmd(f"./newick2mafft.rb {tree_path.absolute().resolve()}").decode().split('\n')
             with open(mafft_path, 'w') as f:
                 for line in ret:
                     f.write(line + '\n')
-            ret = runcmd(f"./mafft --anysymbol --thread 16 --treein {mafft_path.absolute().resolve()} {fastaFile.absolute().resolve()}").decode().split('\n')
+            ret = runcmd(f"./mafft --anysymbol --thread 8 --treein {mafft_path.absolute().resolve()} {fastaFile.absolute().resolve()}").decode().split('\n')
             with open(pfa_path, 'w') as f:
                 for line in ret:
                     f.write(line + '\n')
         else:
             if args.eval_dataset == 'bb3_release':
                 raise NotImplementedError
-            pfa_path = args.msf_dir / f"{fastaFile.stem}.pfa"
+            
             if args.align_prog == "famsa":
-                runcmd(f"famsa -keep-duplicates -t 16 -gt import {tree_path.absolute().resolve()} {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
+                pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_famsaNN.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
+                runcmd(f"famsa -keep-duplicates -t 8 -gt import {tree_path.absolute().resolve()} {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
             else:
-                runcmd(f"t_coffee -reg -thread 0 -child_thread 0 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree {tree_path.absolute().resolve()} -method mafftgins1_msa -outfile {pfa_path.absolute().resolve()}")
+                pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_tcoffeeNN.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
+                runcmd(f"t_coffee -reg -thread 8 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree {tree_path.absolute().resolve()} -method mafftgins1_msa -outfile {pfa_path.absolute().resolve()}")
 
         ## Calculate Score
+        if 'ContTest' in args.eval_dataset:
+            continue
         if args.eval_dataset == 'bb3_release':
             xml_path = fastaFile.parents[0] / f"{fastaFile.stem}.xml"
             output = runcmd(f"bali_score {xml_path} {msf_path}").decode("utf-8").split('\n')[10]
@@ -309,15 +368,9 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
                     if seq_name in seq_in_ref:
                         f.write(f">{seq_name}\n")
                         f.write(f"{seq_data}\n")
-            if args.eval_dataset in ["homfam-small", "homfam-medium", "homfam-large"]:
-                raw_scores = runcmd(f"java -jar {args.fastSP_path.absolute().resolve()} -r {rfa_path.absolute().resolve()} -e {rfa_pfa_path.absolute().resolve()}").decode().split()
-                SP = float(raw_scores[raw_scores.index('SP-Score') + 1])
-                TC = float(raw_scores[raw_scores.index('TC') + 1])
-            else:
-                raw_scores = runcmd(f"qscore -test {rfa_pfa_path.absolute().resolve()} -ref {rfa_path.absolute().resolve()}").decode().replace('\n', '').split(';')                
-                SP = float(raw_scores[2][2:])
-                TC = float(raw_scores[3][3:])
-
+            raw_scores = runcmd(f"java -jar {args.fastSP_path.absolute().resolve()} -r {rfa_path.absolute().resolve()} -e {rfa_pfa_path.absolute().resolve()}").decode().split()
+            SP = float(raw_scores[raw_scores.index('SP-Score') + 1])
+            TC = float(raw_scores[raw_scores.index('TC') + 1])
         # print(f"SP-score = {SP}")
         # print(f"TC = {TC}")
         logging.info(f"SP-score = {SP}")
@@ -334,11 +387,27 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             result[category]['TC'].append(TC)
     
     final_result = {}
-    for cat, value in result.items():
+    if 'ContTest' in args.eval_dataset:
+        # runcmd(f"cd {fasta_dir.absolute().resolve()}")
+        # runcmd(f"runbenchmark -a {args.align_prog}")
+        # csv = read_csv(f"results/results_{args.align_prog}_psicov.csv")
+        # PFAM_ID = csv['PFAM_ID'].tolist()
+        # PROTEIN_ID = csv[' PROTEIN_ID'].tolist()
+        # SCORE = csv[' SCORE'].tolist()
+        # total_score = 0
+        # for pfam, prot, score in zip(PFAM_ID, PROTEIN_ID, SCORE):
+        #     logging.info(f"{pfam}\t\t{prot}\t\t{score}")
+        #     total_score += float(score)
+        cat = fasta_dir.stem
         final_result[cat] = {
-            "SP" : sum(value['SP']) / len(value['SP']),
-            "TC" : sum(value['TC']) / len(value['TC']),
+            "SCORE" : 0
         }
+    else:
+        for cat, value in result.items():
+            final_result[cat] = {
+                "SP" : sum(value['SP']) / len(value['SP']),
+                "TC" : sum(value['TC']) / len(value['TC']),
+            }
     return final_result
 
 def eval_guideTree_bb3_release(epoch, model, esm_alphabet, args):
@@ -576,9 +645,14 @@ def main(args):
     # print(f"Evaluation Spearman Correlation : {eval_spearman}")
     # print(f"Evaluation Pearson Correlation : {eval_pearson}")
     logging.info(f"Guide Tree Evaluation : ")
-    logging.info(f"Category\t\tSP\t\tTC")
-    for key, value in result.items():
-        logging.info(f"{key}\t\t{value['SP']}\t\t{value['TC']}")
+    if "ContTest" in args.eval_dataset:
+        logging.info(f"Category\t\tSCORE")
+        for key, value in result.items():
+            logging.info(f"{key}\t\t{value['SCORE']}")
+    else:
+        logging.info(f"Category\t\tSP\t\tTC")
+        for key, value in result.items():
+            logging.info(f"{key}\t\t{value['SP']}\t\t{value['TC']}")
     logging.info(f"Total Execution Time : {time.time() - tot_start_time} (s)")
     logging.info(f"===================================")
     
@@ -722,11 +796,15 @@ def parse_args() -> Namespace:
     parser.add_argument("--toks_per_batch_eval", type=int, default=16384)
     parser.add_argument("--newick2mafft_path", type=Path, default="./newick2mafft.rb")
     parser.add_argument("--fastSP_path", type=Path, default="./FastSP/FastSP.jar")
-    parser.add_argument("--align_prog", type=str, default='clustalo', choices=["clustalo", "mafft", "famsa", "t_coffee"])
+    parser.add_argument("--align_prog", type=str, default='clustalo', choices=["clustalo", "mafft", "famsa", "tcoffee"])
+    ## WARNING : Do not use LCS if sequences are not unique !!
+    parser.add_argument("--dist_type", type=str, default="NW", choices=["NW", "SW", "LCS"])
     parser.add_argument("--eval_dataset", type=str, default="bb3_release", choices=[
         "bb3_release", 
         "homfam-small", "homfam-medium", "homfam-large", 
-        "exthomfam-small", "exthomfam-medium", "exthomfam-large", "exthomfam-huge", "exthomfam-xlarge"
+        "oxfam-small", "oxfam-medium", "oxfam-large", 
+        "exthomfam-small", "exthomfam-medium", "exthomfam-large", "exthomfam-huge", "exthomfam-xlarge",
+        "ContTest-small", "ContTest-medium", "ContTest-large", 
     ])
     parser.add_argument("--no_tree", action='store_true')
     args = parser.parse_args()

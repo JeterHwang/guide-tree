@@ -1,6 +1,7 @@
 import json
 import os
 from typing import Mapping
+from weakref import finalize
 from tqdm import tqdm
 from pathlib import Path
 from Bio import SeqIO
@@ -203,7 +204,7 @@ def UPGMA(distmat, seqID, tree_dir):
                     root = parent_idx
         f.write(';')
 
-def BisectingKmeans(seqs, min_cluster_size=1000):
+def BisectingKmeans(seqs, min_cluster_size=500):
     device = torch.cuda.current_device()
     start_time = time.time()
     # Exclude identical sequences
@@ -224,36 +225,9 @@ def BisectingKmeans(seqs, min_cluster_size=1000):
         for seq in clusterPoints:
             x.append(seq['embedding'])
         x = torch.stack(x, dim=0)
-        # loss, cluster_ids, cluster_centers = [], [], []
-        # delta_max, duration, cluster_num = 0, 0, 2
-        # with torch.no_grad():
-        #     for n in range(1, max(3, int(3 * np.log10(len(clusterPoints)) - 6))):
-        #         cluster_ids_cand, cluster_centers_cand, MSEloss = kmeans(
-        #             X = x,
-        #             num_clusters = n,
-        #             distance = 'euclidean',
-        #             device = device,
-        #             tqdm_flag=False,
-        #         )
-        #         cluster_ids.append(cluster_ids_cand)
-        #         cluster_centers.append(cluster_centers_cand)
-        #         loss.append(MSEloss)
-        #         if n >= 3:
-        #             delta = (loss[-1] - loss[-2]) - (loss[-2] - loss[-3])
-        #             if delta > delta_max:
-        #                 delta_max = delta
-        #                 duration = 0
-        #                 cluster_num = n - 1
-        #             else:
-        #                 duration += 1
-        #         if duration >= 3:
-        #             break
-        # print(f"{len(clusterPoints)} -> {cluster_num}")
-        # cluster_ids = cluster_ids[cluster_num - 1]
-        # cluster_centers = cluster_centers[cluster_num - 1]
-        # print(f"{len(clusterPoints)}")
+        
         cluster_num = 2
-        cluster_ids, cluster_centers, _ = kmeans(
+        cluster_ids, cluster_centers = kmeans(
             X = x,
             num_clusters = cluster_num,
             distance = 'euclidean',
@@ -281,9 +255,46 @@ def BisectingKmeans(seqs, min_cluster_size=1000):
                 })
         final_cluster = sorted(final_cluster, key=lambda x : len(x['seqs']), reverse=True)
     
-    final_cluster = final_cluster + additional_cluster    
-    final_cluster.sort(key=lambda x : len(x['seqs']), reverse=True)
+    final_cluster = final_cluster + additional_cluster
+    # if len(final_cluster) > 1:
+    #     clusterPoints = copy.deepcopy(seqs)
+    #     cluster_num = len(final_cluster)
+    #     centers = torch.stack([cluster['center'] for cluster in final_cluster])
+    #     x = torch.stack([point['embedding'] for point in clusterPoints])
+    #     cluster_ids, cluster_centers = kmeans(
+    #         X = x,
+    #         num_clusters = len(final_cluster),
+    #         cluster_centers = centers,
+    #         distance = 'euclidean',
+    #         device = device,
+    #         tqdm_flag=False,
+    #     )
+    #     newCluster = [[] for _ in range(cluster_num)]
+    #     assert len(cluster_ids) == len(clusterPoints)
+        
+    #     for clusterID, seq in zip(cluster_ids, clusterPoints):
+    #         newCluster[clusterID].append(seq)
+    #     final_cluster = []
+    #     for center, seq in zip(cluster_centers, newCluster):
+    #         if len(seq) == 0:
+    #             continue
+    #         final_cluster.append({
+    #             'center' : center,
+    #             'seqs' : seq
+    #         })  
 
+    final_cluster.sort(key=lambda x : len(x['seqs']), reverse=True)
+    
+    # Calculate Loss
+    loss = 0
+    for cluster in final_cluster:
+        cent, sqs = cluster['center'], cluster['seqs']
+        if cent is None:
+            continue
+        for seq in sqs:
+            loss += torch.sum(torch.abs(cent - seq['embedding']))
+    logging.info(f'Average K-means++ Loss : {loss / len(seqs)} !!')
+    
     centers, clusters = [], []
     for clusterID, ele in enumerate(final_cluster):
         center = ele['center']
@@ -311,7 +322,7 @@ def identical_seqs_to_subtree(identical_seqs):
             lines.append(f":0.00000,")
     return lines
 
-def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir):
+def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir, dist_type="NW"):
     ## Use MAFFT to build guide tree in sub-clusters
     tree_files = []
     for i, cluster in enumerate(tqdm(clusters, desc="Construct Subtrees:")):
@@ -334,22 +345,29 @@ def UPGMA_Kmeans(distmat, clusters, id2cluster, tree_path, fasta_dir):
             continue
         
         sub_tree_path = fasta_dir / f"{fasta_path.name}.tree"
-        runcmd(f"./mafft --globalpair --large --anysymbol --thread 16 --treeout {fasta_path.absolute().resolve()}")
-        # runcmd(f"famsa -gt upgma -t 8 -gt_export {fasta_path.absolute().resolve()} {sub_tree_path.absolute().resolve()}")
+        if dist_type == "NW":
+            runcmd(f"./mafft --globalpair --anysymbol --thread 16 --treeout {fasta_path.absolute().resolve()}")
+        elif dist_type == "SW":
+            runcmd(f"./mafft --localpair --anysymbol --thread 16 --treeout {fasta_path.absolute().resolve()}")
+        elif dist_type == "LCS":
+            runcmd(f"famsa -gt upgma -t 8 -gt_export {fasta_path.absolute().resolve()} {sub_tree_path.absolute().resolve()}")
+        else:
+            raise NotImplementedError
         lines = []
         with open(sub_tree_path, 'r') as tree:
             for line in tree:
-                underscore = line.find('_')
-                if underscore != -1:
-                    line = line[underscore+1:]
-                seq_name = line.replace('\n', '')
-                if seq_name in name_mapping:
-                    seq_name = name_mapping[seq_name]
-                    if id2cluster[seq_name] is not None:
-                        lines[-1] = lines[-1].replace('\n', '')
-                        line = identical_seqs_to_subtree(id2cluster[seq_name])
-                    else:
-                        line = seq_name + '\n'
+                if dist_type in ['NW', 'SW']:
+                    underscore = line.find('_')
+                    if underscore != -1:
+                        line = line[underscore+1:]
+                    seq_name = line.replace('\n', '')
+                    if seq_name in name_mapping:
+                        seq_name = name_mapping[seq_name]
+                        if id2cluster[seq_name] is not None:
+                            lines[-1] = lines[-1].replace('\n', '')
+                            line = identical_seqs_to_subtree(id2cluster[seq_name])
+                        else:
+                            line = seq_name + '\n'
                 if isinstance(line, str):
                     lines.append(line)
                 else:

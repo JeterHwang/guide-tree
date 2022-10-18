@@ -1,0 +1,336 @@
+[20221002 02:57:09 INFO    ] lstm.0.weight_ih_l0
+[20221002 02:57:09 INFO    ] lstm.0.weight_hh_l0
+[20221002 02:57:09 INFO    ] lstm.0.bias_ih_l0
+[20221002 02:57:09 INFO    ] lstm.0.bias_hh_l0
+[20221002 02:57:09 INFO    ] lstm.0.weight_ih_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.0.weight_hh_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.0.bias_ih_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.0.bias_hh_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.1.weight_ih_l0
+[20221002 02:57:09 INFO    ] lstm.1.weight_hh_l0
+[20221002 02:57:09 INFO    ] lstm.1.bias_ih_l0
+[20221002 02:57:09 INFO    ] lstm.1.bias_hh_l0
+[20221002 02:57:09 INFO    ] lstm.1.weight_ih_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.1.weight_hh_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.1.bias_ih_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.1.bias_hh_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.2.weight_ih_l0
+[20221002 02:57:09 INFO    ] lstm.2.weight_hh_l0
+[20221002 02:57:09 INFO    ] lstm.2.bias_ih_l0
+[20221002 02:57:09 INFO    ] lstm.2.bias_hh_l0
+[20221002 02:57:09 INFO    ] lstm.2.weight_ih_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.2.weight_hh_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.2.bias_ih_l0_reverse
+[20221002 02:57:09 INFO    ] lstm.2.bias_hh_l0_reverse
+[20221002 02:57:09 INFO    ] proj.weight
+[20221002 02:57:09 INFO    ] proj.bias
+[20221002 02:57:11 INFO    ] Now processing file (1/38) : rnasemam.tfa
+[20221002 02:57:11 INFO    ] Average Sequence Length : 120.07228915662651
+[20221002 02:57:11 INFO    ] Unique sequences : 493 / 498
+[20221002 02:57:12 INFO    ] Finish embedding in 0.7906057834625244 secs.
+[20221002 02:57:12 INFO    ] Finish K-means in 0.023027658462524414 seconds
+[20221002 02:57:12 INFO    ] Cluster Sizes : [493]
+[20221002 02:57:14 INFO    ] SP-score = 0.9032835820895523
+[20221002 02:57:14 INFO    ] TC = 0.6492537313432836
+[20221002 02:57:14 INFO    ] Now processing file (2/38) : cyt3.tfa
+[20221002 02:57:14 INFO    ] Average Sequence Length : 92.30649350649351
+[20221002 02:57:14 INFO    ] Unique sequences : 377 / 385
+[20221002 02:57:15 INFO    ] Finish embedding in 0.672781229019165 secs.
+[20221002 02:57:15 INFO    ] Finish K-means in 0.017585039138793945 seconds
+[20221002 02:57:15 INFO    ] Cluster Sizes : [377]
+[20221002 02:57:16 INFO    ] SP-score = 0.8036769533814839
+[20221002 02:57:16 INFO    ] TC = 0.5508474576271186
+[20221002 02:57:16 INFO    ] Now processing file (3/38) : toxin.tfa
+[20221002 02:57:16 INFO    ] Average Sequence Length : 62.311023622047244
+[20221002 02:57:16 INFO    ] Unique sequences : 501 / 508
+[20221002 02:57:17 INFO    ] Finish embedding in 0.618403434753418 secs.
+[20221002 02:57:17 INFO    ] Finish K-means in 0.023102283477783203 seconds
+[20221002 02:57:17 INFO    ] Cluster Sizes : [501]
+[20221002 02:57:18 INFO    ] SP-score = 0.8855739494269601
+[20221002 02:57:18 INFO    ] TC = 0.4935064935064935
+[20221002 02:57:18 INFO    ] Now processing file (4/38) : Stap_Strp_toxin.tfa
+[20221002 02:57:18 INFO    ] Average Sequence Length : 87.3921875
+[20221002 02:57:18 INFO    ] Unique sequences : 491 / 640
+[20221002 02:57:19 INFO    ] Finish embedding in 0.7544369697570801 secs.
+[20221002 02:57:19 INFO    ] Finish K-means in 0.020025968551635742 seconds
+[20221002 02:57:19 INFO    ] Cluster Sizes : [491]
+[20221002 02:57:20 INFO    ] SP-score = 0.759510420112471
+[20221002 02:57:20 INFO    ] TC = 0.37448559670781895
+[20221002 02:57:20 INFO    ] Now processing file (5/38) : sodcu.tfa
+[20221002 02:57:20 INFO    ] Average Sequence Length : 141.3223748773307
+[20221002 02:57:20 INFO    ] Unique sequences : 1977 / 2038
+[20221002 02:57:22 INFO    ] Finish embedding in 2.072011947631836 secs.
+[20221002 02:57:23 INFO    ] Finish K-means in 0.22533488273620605 seconds
+[20221002 02:57:23 INFO    ] Cluster Sizes : [469, 438, 344, 291, 223, 212]
+[20221002 02:57:29 INFO    ] SP-score = 0.8952569169960475
+[20221002 02:57:29 INFO    ] TC = 0.7650602409638554
+[20221002 02:57:29 INFO    ] Now processing file (6/38) : TNF.tfa
+[20221002 02:57:29 INFO    ] Average Sequence Length : 119.90287769784173
+[20221002 02:57:29 INFO    ] Unique sequences : 531 / 556
+[20221002 02:57:30 INFO    ] Finish embedding in 0.8258700370788574 secs.
+[20221002 02:57:30 INFO    ] Finish K-means in 0.02203845977783203 seconds
+[20221002 02:57:30 INFO    ] Cluster Sizes : [531]
+[20221002 02:57:33 INFO    ] SP-score = 0.8402877697841726
+[20221002 02:57:33 INFO    ] TC = 0.6369426751592356
+[20221002 02:57:33 INFO    ] Now processing file (7/38) : tgfb.tfa
+[20221002 02:57:33 INFO    ] Average Sequence Length : 95.46450809464508
+[20221002 02:57:33 INFO    ] Unique sequences : 1540 / 1606
+[20221002 02:57:35 INFO    ] Finish embedding in 1.3167123794555664 secs.
+[20221002 02:57:35 INFO    ] Finish K-means in 0.20288324356079102 seconds
+[20221002 02:57:35 INFO    ] Cluster Sizes : [509, 410, 236, 209, 146, 30]
+[20221002 02:57:38 INFO    ] SP-score = 0.8649789029535865
+[20221002 02:57:38 INFO    ] TC = 0.47863247863247865
+[20221002 02:57:38 INFO    ] Now processing file (8/38) : slectin.tfa
+[20221002 02:57:38 INFO    ] Average Sequence Length : 133.05150214592274
+[20221002 02:57:38 INFO    ] Unique sequences : 910 / 932
+[20221002 02:57:40 INFO    ] Finish embedding in 1.2947821617126465 secs.
+[20221002 02:57:40 INFO    ] Finish K-means in 0.09437942504882812 seconds
+[20221002 02:57:40 INFO    ] Cluster Sizes : [462, 242, 206]
+[20221002 02:57:43 INFO    ] SP-score = 0.9690641918020109
+[20221002 02:57:43 INFO    ] TC = 0.9343065693430657
+[20221002 02:57:43 INFO    ] Now processing file (9/38) : ghf5.tfa
+[20221002 02:57:43 INFO    ] Average Sequence Length : 260.46595509753405
+[20221002 02:57:43 INFO    ] Unique sequences : 2649 / 2717
+[20221002 02:57:48 INFO    ] Finish embedding in 4.8466644287109375 secs.
+[20221002 02:57:48 INFO    ] Finish K-means in 0.44873714447021484 seconds
+[20221002 02:57:48 INFO    ] Cluster Sizes : [536, 450, 400, 289, 288, 286, 231, 169]
+[20221002 02:58:19 INFO    ] SP-score = 0.543046357615894
+[20221002 02:58:19 INFO    ] TC = 0.29562982005141386
+[20221002 02:58:19 INFO    ] Now processing file (10/38) : az.tfa
+[20221002 02:58:19 INFO    ] Average Sequence Length : 100.41620626151013
+[20221002 02:58:19 INFO    ] Unique sequences : 1064 / 1086
+[20221002 02:58:20 INFO    ] Finish embedding in 1.1561393737792969 secs.
+[20221002 02:58:20 INFO    ] Finish K-means in 0.08730006217956543 seconds
+[20221002 02:58:20 INFO    ] Cluster Sizes : [437, 318, 309]
+[20221002 02:58:23 INFO    ] SP-score = 0.7278288257802535
+[20221002 02:58:23 INFO    ] TC = 0.358695652173913
+[20221002 02:58:23 INFO    ] Now processing file (11/38) : il8.tfa
+[20221002 02:58:23 INFO    ] Average Sequence Length : 63.762348555452
+[20221002 02:58:23 INFO    ] Unique sequences : 1057 / 1073
+[20221002 02:58:23 INFO    ] Finish embedding in 0.8422431945800781 secs.
+[20221002 02:58:24 INFO    ] Finish K-means in 0.11283063888549805 seconds
+[20221002 02:58:24 INFO    ] Cluster Sizes : [456, 285, 159, 157]
+[20221002 02:58:25 INFO    ] SP-score = 0.8095507205425262
+[20221002 02:58:25 INFO    ] TC = 0.4935064935064935
+[20221002 02:58:25 INFO    ] Now processing file (12/38) : kringle.tfa
+[20221002 02:58:25 INFO    ] Average Sequence Length : 75.91384051329057
+[20221002 02:58:25 INFO    ] Unique sequences : 1075 / 1091
+[20221002 02:58:26 INFO    ] Finish embedding in 0.9386942386627197 secs.
+[20221002 02:58:27 INFO    ] Finish K-means in 0.11255240440368652 seconds
+[20221002 02:58:27 INFO    ] Cluster Sizes : [438, 381, 210, 46]
+[20221002 02:58:29 INFO    ] SP-score = 0.9182948490230906
+[20221002 02:58:29 INFO    ] TC = 0.7078651685393258
+[20221002 02:58:29 INFO    ] Now processing file (13/38) : ChtBD.tfa
+[20221002 02:58:29 INFO    ] Average Sequence Length : 38.27131782945737
+[20221002 02:58:29 INFO    ] Unique sequences : 732 / 774
+[20221002 02:58:30 INFO    ] Finish embedding in 0.6084811687469482 secs.
+[20221002 02:58:30 INFO    ] Finish K-means in 0.05578780174255371 seconds
+[20221002 02:58:30 INFO    ] Cluster Sizes : [503, 229]
+[20221002 02:58:31 INFO    ] SP-score = 0.9927536231884058
+[20221002 02:58:31 INFO    ] TC = 0.9534883720930233
+[20221002 02:58:31 INFO    ] Now processing file (14/38) : kunitz.tfa
+[20221002 02:58:31 INFO    ] Average Sequence Length : 53.75198587819947
+[20221002 02:58:31 INFO    ] Unique sequences : 2256 / 2266
+[20221002 02:58:32 INFO    ] Finish embedding in 1.1933624744415283 secs.
+[20221002 02:58:32 INFO    ] Finish K-means in 0.2966129779815674 seconds
+[20221002 02:58:32 INFO    ] Cluster Sizes : [597, 560, 520, 387, 179, 13]
+[20221002 02:58:36 INFO    ] SP-score = 0.9465346534653465
+[20221002 02:58:36 INFO    ] TC = 0.7166666666666667
+[20221002 02:58:36 INFO    ] Now processing file (15/38) : ghf11.tfa
+[20221002 02:58:36 INFO    ] Average Sequence Length : 167.75815738963533
+[20221002 02:58:36 INFO    ] Unique sequences : 512 / 521
+[20221002 02:58:37 INFO    ] Finish embedding in 0.9442667961120605 secs.
+[20221002 02:58:37 INFO    ] Finish K-means in 0.0209963321685791 seconds
+[20221002 02:58:37 INFO    ] Cluster Sizes : [512]
+[20221002 02:58:40 INFO    ] SP-score = 0.9276905829596412
+[20221002 02:58:40 INFO    ] TC = 0.7916666666666666
+[20221002 02:58:40 INFO    ] Now processing file (16/38) : ghf22.tfa
+[20221002 02:58:40 INFO    ] Average Sequence Length : 107.5671052631579
+[20221002 02:58:40 INFO    ] Unique sequences : 710 / 760
+[20221002 02:58:41 INFO    ] Finish embedding in 0.9052560329437256 secs.
+[20221002 02:58:41 INFO    ] Finish K-means in 0.07857656478881836 seconds
+[20221002 02:58:41 INFO    ] Cluster Sizes : [542, 101, 67]
+[20221002 02:58:43 INFO    ] SP-score = 0.9652311821398073
+[20221002 02:58:43 INFO    ] TC = 0.8538461538461538
+[20221002 02:58:43 INFO    ] Now processing file (17/38) : profilin.tfa
+[20221002 02:58:43 INFO    ] Average Sequence Length : 123.37117903930131
+[20221002 02:58:43 INFO    ] Unique sequences : 672 / 687
+[20221002 02:58:44 INFO    ] Finish embedding in 0.9470078945159912 secs.
+[20221002 02:58:45 INFO    ] Finish K-means in 0.06165885925292969 seconds
+[20221002 02:58:45 INFO    ] Cluster Sizes : [407, 265]
+[20221002 02:58:47 INFO    ] SP-score = 0.932956381260097
+[20221002 02:58:47 INFO    ] TC = 0.84375
+[20221002 02:58:47 INFO    ] Now processing file (18/38) : DMRL_synthase.tfa
+[20221002 02:58:47 INFO    ] Average Sequence Length : 140.59028108623153
+[20221002 02:58:47 INFO    ] Unique sequences : 2038 / 2099
+[20221002 02:58:49 INFO    ] Finish embedding in 2.023756742477417 secs.
+[20221002 02:58:49 INFO    ] Finish K-means in 0.2953190803527832 seconds
+[20221002 02:58:49 INFO    ] Cluster Sizes : [566, 451, 449, 325, 163, 42, 42]
+[20221002 02:58:57 INFO    ] SP-score = 0.936518771331058
+[20221002 02:58:57 INFO    ] TC = 0.757396449704142
+[20221002 02:58:57 INFO    ] Now processing file (19/38) : ricin.tfa
+[20221002 02:58:57 INFO    ] Average Sequence Length : 198.70816599732262
+[20221002 02:58:57 INFO    ] Unique sequences : 684 / 747
+[20221002 02:58:58 INFO    ] Finish embedding in 1.236274003982544 secs.
+[20221002 02:58:58 INFO    ] Finish K-means in 0.0492091178894043 seconds
+[20221002 02:58:58 INFO    ] Cluster Sizes : [511, 173]
+[20221002 02:59:04 INFO    ] SP-score = 0.9071540265832682
+[20221002 02:59:04 INFO    ] TC = 0.7326007326007326
+[20221002 02:59:04 INFO    ] Now processing file (20/38) : mmp.tfa
+[20221002 02:59:04 INFO    ] Average Sequence Length : 157.92992291520673
+[20221002 02:59:04 INFO    ] Unique sequences : 1350 / 1427
+[20221002 02:59:06 INFO    ] Finish embedding in 2.215195655822754 secs.
+[20221002 02:59:06 INFO    ] Finish K-means in 0.12383246421813965 seconds
+[20221002 02:59:06 INFO    ] Cluster Sizes : [599, 532, 219]
+[20221002 02:59:14 INFO    ] SP-score = 0.9810844892812106
+[20221002 02:59:14 INFO    ] TC = 0.9289940828402367
+[20221002 02:59:14 INFO    ] Now processing file (21/38) : phoslip.tfa
+[20221002 02:59:14 INFO    ] Average Sequence Length : 113.32980972515857
+[20221002 02:59:14 INFO    ] Unique sequences : 933 / 946
+[20221002 02:59:15 INFO    ] Finish embedding in 1.0386731624603271 secs.
+[20221002 02:59:15 INFO    ] Finish K-means in 0.10808849334716797 seconds
+[20221002 02:59:15 INFO    ] Cluster Sizes : [422, 404, 82, 25]
+[20221002 02:59:18 INFO    ] SP-score = 0.9423130463834289
+[20221002 02:59:18 INFO    ] TC = 0.6764705882352942
+[20221002 02:59:18 INFO    ] Now processing file (22/38) : ins.tfa
+[20221002 02:59:18 INFO    ] Average Sequence Length : 65.28247162673392
+[20221002 02:59:18 INFO    ] Unique sequences : 733 / 793
+[20221002 02:59:19 INFO    ] Finish embedding in 0.8937497138977051 secs.
+[20221002 02:59:19 INFO    ] Finish K-means in 0.07507538795471191 seconds
+[20221002 02:59:19 INFO    ] Cluster Sizes : [512, 221]
+[20221002 02:59:20 INFO    ] SP-score = 0.9292649098474342
+[20221002 02:59:20 INFO    ] TC = 0.7536231884057971
+[20221002 02:59:20 INFO    ] Now processing file (23/38) : rub.tfa
+[20221002 02:59:20 INFO    ] Average Sequence Length : 46.1574912891986
+[20221002 02:59:20 INFO    ] Unique sequences : 1429 / 1435
+[20221002 02:59:21 INFO    ] Finish embedding in 0.8645939826965332 secs.
+[20221002 02:59:21 INFO    ] Finish K-means in 0.17232966423034668 seconds
+[20221002 02:59:21 INFO    ] Cluster Sizes : [433, 429, 325, 140, 102]
+[20221002 02:59:23 INFO    ] SP-score = 0.9836734693877551
+[20221002 02:59:23 INFO    ] TC = 0.9259259259259259
+[20221002 02:59:23 INFO    ] Now processing file (24/38) : KAS.tfa
+[20221002 02:59:23 INFO    ] Average Sequence Length : 174.5280193236715
+[20221002 02:59:23 INFO    ] Unique sequences : 1876 / 2070
+[20221002 02:59:26 INFO    ] Finish embedding in 2.643655300140381 secs.
+[20221002 02:59:26 INFO    ] Finish K-means in 0.28496575355529785 seconds
+[20221002 02:59:26 INFO    ] Cluster Sizes : [509, 401, 335, 284, 244, 103]
+[20221002 02:59:35 INFO    ] SP-score = 0.7501571997484804
+[20221002 02:59:35 INFO    ] TC = 0.5125
+[20221002 02:59:35 INFO    ] Now processing file (25/38) : DEATH.tfa
+[20221002 02:59:35 INFO    ] Average Sequence Length : 80.56889264581572
+[20221002 02:59:35 INFO    ] Unique sequences : 1158 / 1183
+[20221002 02:59:36 INFO    ] Finish embedding in 1.0245895385742188 secs.
+[20221002 02:59:36 INFO    ] Finish K-means in 0.09775257110595703 seconds
+[20221002 02:59:36 INFO    ] Cluster Sizes : [534, 317, 307]
+[20221002 02:59:39 INFO    ] SP-score = 0.7639686684073107
+[20221002 02:59:39 INFO    ] TC = 0.3790322580645161
+[20221002 02:59:39 INFO    ] Now processing file (26/38) : Sulfotransfer.tfa
+[20221002 02:59:39 INFO    ] Average Sequence Length : 235.79831257533147
+[20221002 02:59:39 INFO    ] Unique sequences : 2439 / 2489
+[20221002 02:59:44 INFO    ] Finish embedding in 4.114779233932495 secs.
+[20221002 02:59:44 INFO    ] Finish K-means in 0.2701447010040283 seconds
+[20221002 02:59:44 INFO    ] Cluster Sizes : [599, 510, 506, 363, 267, 194]
+[20221002 03:00:10 INFO    ] SP-score = 0.6037578288100208
+[20221002 03:00:10 INFO    ] TC = 0.27364864864864863
+[20221002 03:00:10 INFO    ] Now processing file (27/38) : ltn.tfa
+[20221002 03:00:10 INFO    ] Average Sequence Length : 204.14794007490636
+[20221002 03:00:10 INFO    ] Unique sequences : 1037 / 1068
+[20221002 03:00:12 INFO    ] Finish embedding in 1.761852741241455 secs.
+[20221002 03:00:12 INFO    ] Finish K-means in 0.06788444519042969 seconds
+[20221002 03:00:12 INFO    ] Cluster Sizes : [578, 459]
+[20221002 03:00:21 INFO    ] SP-score = 0.9134157944814463
+[20221002 03:00:21 INFO    ] TC = 0.6640316205533597
+[20221002 03:00:21 INFO    ] Now processing file (28/38) : GEL.tfa
+[20221002 03:00:21 INFO    ] Average Sequence Length : 78.11571753986333
+[20221002 03:00:21 INFO    ] Unique sequences : 2171 / 2195
+[20221002 03:00:23 INFO    ] Finish embedding in 1.504089117050171 secs.
+[20221002 03:00:23 INFO    ] Finish K-means in 0.2366807460784912 seconds
+[20221002 03:00:23 INFO    ] Cluster Sizes : [595, 533, 458, 398, 187]
+[20221002 03:00:28 INFO    ] SP-score = 0.6407960199004975
+[20221002 03:00:28 INFO    ] TC = 0.3904109589041096
+[20221002 03:00:28 INFO    ] Now processing file (29/38) : phc.tfa
+[20221002 03:00:28 INFO    ] Average Sequence Length : 98.47108555968887
+[20221002 03:00:28 INFO    ] Unique sequences : 2751 / 2957
+[20221002 03:00:30 INFO    ] Finish embedding in 2.534167766571045 secs.
+[20221002 03:00:30 INFO    ] Finish K-means in 0.3234550952911377 seconds
+[20221002 03:00:30 INFO    ] Cluster Sizes : [589, 520, 469, 466, 298, 222, 187]
+[20221002 03:00:37 INFO    ] SP-score = 0.9572101790763431
+[20221002 03:00:37 INFO    ] TC = 0.8491620111731844
+[20221002 03:00:37 INFO    ] Now processing file (30/38) : scorptoxin.tfa
+[20221002 03:00:37 INFO    ] Average Sequence Length : 53.256198347107436
+[20221002 03:00:37 INFO    ] Unique sequences : 363 / 363
+[20221002 03:00:38 INFO    ] Finish embedding in 0.5770537853240967 secs.
+[20221002 03:00:38 INFO    ] Finish K-means in 0.017276287078857422 seconds
+[20221002 03:00:38 INFO    ] Cluster Sizes : [363]
+[20221002 03:00:38 INFO    ] SP-score = 0.9287410926365796
+[20221002 03:00:38 INFO    ] TC = 0.726027397260274
+[20221002 03:00:38 INFO    ] Now processing file (31/38) : tms.tfa
+[20221002 03:00:38 INFO    ] Average Sequence Length : 264.24504249291783
+[20221002 03:00:38 INFO    ] Unique sequences : 2028 / 2118
+[20221002 03:00:42 INFO    ] Finish embedding in 3.6078007221221924 secs.
+[20221002 03:00:42 INFO    ] Finish K-means in 0.3261539936065674 seconds
+[20221002 03:00:42 INFO    ] Cluster Sizes : [350, 340, 335, 274, 268, 245, 104, 95, 17]
+[20221002 03:00:57 INFO    ] SP-score = 0.9302949061662198
+[20221002 03:00:57 INFO    ] TC = 0.8105263157894737
+[20221002 03:00:57 INFO    ] Now processing file (32/38) : seatoxin.tfa
+[20221002 03:00:57 INFO    ] Average Sequence Length : 43.634408602150536
+[20221002 03:00:57 INFO    ] Unique sequences : 88 / 93
+[20221002 03:00:58 INFO    ] Finish embedding in 0.45334601402282715 secs.
+[20221002 03:00:58 INFO    ] Finish K-means in 0.0037965774536132812 seconds
+[20221002 03:00:58 INFO    ] Cluster Sizes : [88]
+[20221002 03:00:59 INFO    ] SP-score = 0.8449074074074074
+[20221002 03:00:59 INFO    ] TC = 0.5306122448979592
+[20221002 03:00:59 INFO    ] Now processing file (33/38) : hip.tfa
+[20221002 03:00:59 INFO    ] Average Sequence Length : 66.20958083832335
+[20221002 03:00:59 INFO    ] Unique sequences : 159 / 167
+[20221002 03:00:59 INFO    ] Finish embedding in 0.4722249507904053 secs.
+[20221002 03:00:59 INFO    ] Finish K-means in 0.00683903694152832 seconds
+[20221002 03:00:59 INFO    ] Cluster Sizes : [159]
+[20221002 03:01:00 INFO    ] SP-score = 0.877643504531722
+[20221002 03:01:00 INFO    ] TC = 0.6547619047619048
+[20221002 03:01:00 INFO    ] Now processing file (34/38) : mofe.tfa
+[20221002 03:01:00 INFO    ] Average Sequence Length : 353.07440592130894
+[20221002 03:01:00 INFO    ] Unique sequences : 2527 / 2567
+[20221002 03:01:06 INFO    ] Finish embedding in 5.952952861785889 secs.
+[20221002 03:01:06 INFO    ] Finish K-means in 0.30435991287231445 seconds
+[20221002 03:01:06 INFO    ] Cluster Sizes : [510, 482, 478, 454, 375, 228]
+[20221002 03:01:56 INFO    ] SP-score = 0.8341346153846154
+[20221002 03:01:56 INFO    ] TC = 0.6509433962264151
+[20221002 03:01:56 INFO    ] Now processing file (35/38) : sti.tfa
+[20221002 03:01:56 INFO    ] Average Sequence Length : 165.38336052202283
+[20221002 03:01:56 INFO    ] Unique sequences : 602 / 613
+[20221002 03:01:57 INFO    ] Finish embedding in 1.0518333911895752 secs.
+[20221002 03:01:57 INFO    ] Finish K-means in 0.05305337905883789 seconds
+[20221002 03:01:57 INFO    ] Cluster Sizes : [309, 293]
+[20221002 03:02:00 INFO    ] SP-score = 0.8071915685058897
+[20221002 03:02:00 INFO    ] TC = 0.5978260869565217
+[20221002 03:02:00 INFO    ] Now processing file (36/38) : ghf10.tfa
+[20221002 03:02:00 INFO    ] Average Sequence Length : 220.34021304926765
+[20221002 03:02:00 INFO    ] Unique sequences : 1481 / 1502
+[20221002 03:02:03 INFO    ] Finish embedding in 2.735105276107788 secs.
+[20221002 03:02:03 INFO    ] Finish K-means in 0.1773223876953125 seconds
+[20221002 03:02:03 INFO    ] Cluster Sizes : [527, 474, 399, 81]
+[20221002 03:02:18 INFO    ] SP-score = 0.9184361307718234
+[20221002 03:02:18 INFO    ] TC = 0.7863777089783281
+[20221002 03:02:18 INFO    ] Now processing file (37/38) : Ald_Xan_dh_2.tfa
+[20221002 03:02:18 INFO    ] Average Sequence Length : 109.30397837002704
+[20221002 03:02:18 INFO    ] Unique sequences : 2541 / 2589
+[20221002 03:02:21 INFO    ] Finish embedding in 2.6784138679504395 secs.
+[20221002 03:02:21 INFO    ] Finish K-means in 0.3853006362915039 seconds
+[20221002 03:02:21 INFO    ] Cluster Sizes : [536, 531, 415, 354, 281, 247, 171, 6]
+[20221002 03:02:29 INFO    ] SP-score = 0.825009387908374
+[20221002 03:02:29 INFO    ] TC = 0.6225961538461539
+[20221002 03:02:29 INFO    ] Now processing file (38/38) : cah.tfa
+[20221002 03:02:29 INFO    ] Average Sequence Length : 212.7055837563452
+[20221002 03:02:29 INFO    ] Unique sequences : 1333 / 1379
+[20221002 03:02:31 INFO    ] Finish embedding in 2.145280361175537 secs.
+[20221002 03:02:31 INFO    ] Finish K-means in 0.15093755722045898 seconds
+[20221002 03:02:31 INFO    ] Cluster Sizes : [370, 337, 306, 281, 39]
+[20221002 03:02:39 INFO    ] SP-score = 0.8847150259067358
+[20221002 03:02:39 INFO    ] TC = 0.7195571955719557
+[20221002 03:02:39 INFO    ] ========== Before Training ==========
+[20221002 03:02:39 INFO    ] Guide Tree Evaluation : 
+[20221002 03:02:39 INFO    ] Category		SP		TC
+[20221002 03:02:39 INFO    ] small		0.8643659974994466		0.6537151343729458
+[20221002 03:02:39 INFO    ] Total Execution Time : 330.6662151813507 (s)
+[20221002 03:02:39 INFO    ] ===================================

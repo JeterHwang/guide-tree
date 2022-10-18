@@ -2,6 +2,7 @@ import subprocess
 from subprocess import PIPE
 from pathlib import Path
 from tqdm import tqdm
+from Bio import SeqIO
 from argparse import ArgumentParser, Namespace
 
 def runcmd(command):
@@ -32,12 +33,25 @@ def parse_arg():
 
 if __name__ == "__main__":
     args = parse_arg()
-    for i, content in enumerate(tqdm(list(args.data_dir.glob('**/*')), desc="Eval Guide Tree")):
-        if content.is_file() and content.parent.stem != 'ref':
-            tfa_dir = args.target_dir / content.parent.stem
-            tfa_dir.mkdir(parents=True, exist_ok=True)
-            tfa_path = tfa_dir / f"{content.stem}.tfa"
-            runcmd(f"cp {content.absolute().resolve()} {tfa_path.absolute().resolve()}")
-            ref_path = content.parent.parent / "ref" / content.stem
-            rfa_path = tfa_dir / f"{content.stem}.rfa"
-            runcmd(f"cp {ref_path.absolute().resolve()} {rfa_path.absolute().resolve()}")
+    for i, dir in enumerate(tqdm(args.data_dir.iterdir(), desc="Eval Guide Tree")):
+        if dir.is_dir() and "PF" in dir.stem:
+            pfamID = dir.stem.split('_')[0]
+            seqs = list(SeqIO.parse(dir / f"{pfamID}_unaligned.fasta", 'fasta'))
+            if len(seqs) < 3000:
+                cat = 'small'
+            elif len(seqs) <= 10000:
+                cat = 'medium'
+            else:
+                cat = 'large'
+            target_dir = args.data_dir / cat 
+            target_dir.mkdir(parents=True, exist_ok=True)
+            for fastaFile in dir.glob("*.fasta"):
+                if pfamID not in fastaFile.stem:
+                    protID = fastaFile.stem
+            for cmFile in dir.glob("*.cm"):
+                unknown = cmFile.stem
+            runcmd(f"cp -r {dir.absolute().resolve()} {target_dir.absolute().resolve()}/")
+            with open(target_dir / 'datasets.txt', 'a') as f:
+                f.write(f"{pfamID}  {protID}  {unknown}\n")
+
+

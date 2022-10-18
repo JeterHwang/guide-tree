@@ -4,6 +4,11 @@ apt -y install wget vim
 apt -y install gawk bison
 apt -y install ruby-full default-jdk
 apt -y install golang-go
+apt -y install r-base
+apt -y install r-cran-rocr
+apt -y install libboost-all-dev
+apt -y install libblas-dev liblapack-dev
+apt -y install gfortran
 
 cd /usr/local
 wget http://ftp.gnu.org/gnu/glibc/glibc-2.29.tar.gz

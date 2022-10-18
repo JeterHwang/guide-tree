@@ -26,23 +26,25 @@ def initialize(X, num_clusters):
     :param num_clusters: (int) number of clusters
     :return: (np.array) initial state
     """
-    clusterCenterGroup = [random.randint(0, num_clusters - 1)]
-    distanceGroup = np.zeros(X.shape[0])
+    clusterCenterGroup = [random.randint(0, X.size(0) - 1)]
+    distanceGroup = torch.zeros(X.size(0))
     sum = 0.0
     for index in range(1, num_clusters):
-        for i in range(X.shape[0]):
+        for i in range(X.size(0)):
             distanceGroup[i] = getNearestCenter(X, i, clusterCenterGroup[:index])
             sum += distanceGroup[i]
         sum *= random.random()
-        for i in range(X.shape[0]):
+        for i in range(X.size(0)):
             sum -= distanceGroup[i]
             if sum < 0 and not i in clusterCenterGroup:
                 clusterCenterGroup.append(i)
                 break
-    indices = np.array(clusterCenterGroup)
+    if len(clusterCenterGroup) < num_clusters:
+        indices = np.random.choice(X.size(0), num_clusters, replace=False)
+    else:
+        indices = np.array(clusterCenterGroup)
     initial_state = X[indices]
     return initial_state
-
 
 def kmeans(
         X,
