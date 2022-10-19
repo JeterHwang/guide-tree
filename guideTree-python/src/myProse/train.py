@@ -4,7 +4,7 @@ import random
 import re
 import numpy as np
 import math
-import itertools
+import gc
 from argparse import ArgumentParser, Namespace
 from pathlib import Path
 from typing import Dict
@@ -131,7 +131,7 @@ def eval_prog(args):
                 runcmd(f"famsa -keep-duplicates -gt upgma -t 8 {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
             else:
                 pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_tcoffee.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
-                runcmd(f"t_coffee -reg -thread 8 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree mbed -method mafftginsi_msa -outfile {pfa_path.absolute().resolve()}")
+                runcmd(f"t_coffee -reg -thread 8 -child_thread 8 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree mbed -method mafftginsi_msa -outfile {pfa_path.absolute().resolve()}")
         ## Calculate Score
         if 'ContTest' in args.eval_dataset:
             continue
@@ -240,10 +240,10 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
         fasta_files = list(fasta_dir.glob('**/*.tfa'))
     for i, fastaFile in enumerate(tqdm(fasta_files, desc="Eval Guide Tree")):
         # print(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
-        logging.info(f"Now processing file ({i + 1}/{len(list(fasta_dir.glob('**/*.tfa')))}) : {fastaFile.name}")
+        logging.info(f"Now processing file ({i + 1}/{len(fasta_files)}) : {fastaFile.name}")
         ## Read sequences
         raw_seqs = list(SeqIO.parse(fastaFile, 'fasta'))
-        seqs, avg_len = [], 0
+        seqs, avg_len, num_seqs = [], 0, len(raw_seqs)
         for idx, seq in enumerate(raw_seqs):
             seqs.append({
                 'num' : idx + 1,
@@ -257,6 +257,11 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
         logging.info(f"Average Sequence Length : {avg_len}")
         ##
         sorted_seqs = sorted(seqs, key=lambda seq : len(seq['seq']), reverse=True)
+        #### Release Memory ####
+        del(raw_seqs)
+        del(seqs)
+        gc.collect()
+        ########################
         queue, id2cluster = [], {}
         for i, seq in enumerate(sorted_seqs):
             if i > 0 and sorted_seqs[i]['seq'] == sorted_seqs[i-1]['seq']:
@@ -272,7 +277,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
                 id2cluster[uniq[0]['name']] = None
         unique_sorted_seqs.sort(key=lambda seq : seq['num'])
         # print(f"Unique sequences : {len(unique_sorted_seqs)} / {len(seqs)}")
-        logging.info(f"Unique sequences : {len(unique_sorted_seqs)} / {len(seqs)}")
+        logging.info(f"Unique sequences : {len(unique_sorted_seqs)} / {num_seqs}")
         
         ## Create Dataset / Dataloader
         if esm_alphabet is not None:
@@ -281,7 +286,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             dataset = LSTMDataset([seq['seq'] for seq in unique_sorted_seqs])
         eval_loader = torch.utils.data.DataLoader(
             dataset,
-            batch_size=64,
+            batch_size=256,
             collate_fn=dataset.collate_fn,
             pin_memory=True,
             # batch_sampler=dataset.batch_sampler(args.toks_per_batch_eval),
@@ -311,10 +316,21 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
             dist_matrix = torch.cdist(center_embeddings, center_embeddings, 2).fill_diagonal_(1000000000).cpu().numpy() / 50
             # dist_matrix = L2_distance(center_embeddings) / 50
         else:
+            center_embeddings = None
             dist_matrix = None
         ## UPGMA / Output Guide Tree
         tree_path = args.tree_dir / f"{fastaFile.stem}.dnd"
         UPGMA_Kmeans(dist_matrix, clusters, id2cluster, tree_path, args.fasta_dir, args.dist_type)
+        ####### Release Memory ######
+        del embeddings              #
+        del center_embeddings       #
+        del unique_sorted_seqs      #
+        del queue                   #
+        del clusters                #
+        del centers                 #
+        del id2cluster              #
+        gc.collect()                #
+        #############################
         ## Alignment
         if args.align_prog == "clustalo":
             if args.eval_dataset == 'bb3_release':
@@ -345,7 +361,7 @@ def eval_Kmeans(epoch, model, esm_alphabet, args):
                 runcmd(f"famsa -keep-duplicates -t 8 -gt import {tree_path.absolute().resolve()} {fastaFile.absolute().resolve()} {pfa_path.absolute().resolve()}")
             else:
                 pfa_path = fastaFile.parent / f"{fastaFile.stem.split('_')[0]}_tcoffeeNN.fasta" if 'ContTest' in args.eval_dataset else args.msf_dir / f"{fastaFile.stem}.pfa"
-                runcmd(f"t_coffee -reg -thread 8 -seq {fastaFile.absolute().resolve()} -nseq {min(200, len(raw_seqs) // 10)} -tree {tree_path.absolute().resolve()} -method mafftgins1_msa -outfile {pfa_path.absolute().resolve()}")
+                runcmd(f"t_coffee -reg -thread 8 -child_thread 8 -seq {fastaFile.absolute().resolve()} -nseq {min(200, num_seqs // 10)} -tree {tree_path.absolute().resolve()} -method mafftgins1_msa -outfile {pfa_path.absolute().resolve()}")
 
         ## Calculate Score
         if 'ContTest' in args.eval_dataset:

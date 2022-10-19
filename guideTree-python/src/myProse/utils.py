@@ -256,32 +256,32 @@ def BisectingKmeans(seqs, min_cluster_size=500):
         final_cluster = sorted(final_cluster, key=lambda x : len(x['seqs']), reverse=True)
     
     final_cluster = final_cluster + additional_cluster
-    # if len(final_cluster) > 1:
-    #     clusterPoints = copy.deepcopy(seqs)
-    #     cluster_num = len(final_cluster)
-    #     centers = torch.stack([cluster['center'] for cluster in final_cluster])
-    #     x = torch.stack([point['embedding'] for point in clusterPoints])
-    #     cluster_ids, cluster_centers = kmeans(
-    #         X = x,
-    #         num_clusters = len(final_cluster),
-    #         cluster_centers = centers,
-    #         distance = 'euclidean',
-    #         device = device,
-    #         tqdm_flag=False,
-    #     )
-    #     newCluster = [[] for _ in range(cluster_num)]
-    #     assert len(cluster_ids) == len(clusterPoints)
+    if len(final_cluster) > 1:
+        clusterPoints = copy.deepcopy(seqs)
+        cluster_num = len(final_cluster)
+        centers = torch.stack([cluster['center'] for cluster in final_cluster])
+        x = torch.stack([point['embedding'] for point in clusterPoints])
+        cluster_ids, cluster_centers = kmeans(
+            X = x,
+            num_clusters = len(final_cluster),
+            cluster_centers = centers,
+            distance = 'euclidean',
+            device = device,
+            tqdm_flag=False,
+        )
+        newCluster = [[] for _ in range(cluster_num)]
+        assert len(cluster_ids) == len(clusterPoints)
         
-    #     for clusterID, seq in zip(cluster_ids, clusterPoints):
-    #         newCluster[clusterID].append(seq)
-    #     final_cluster = []
-    #     for center, seq in zip(cluster_centers, newCluster):
-    #         if len(seq) == 0:
-    #             continue
-    #         final_cluster.append({
-    #             'center' : center,
-    #             'seqs' : seq
-    #         })  
+        for clusterID, seq in zip(cluster_ids, clusterPoints):
+            newCluster[clusterID].append(seq)
+        final_cluster = []
+        for center, seq in zip(cluster_centers, newCluster):
+            if len(seq) == 0:
+                continue
+            final_cluster.append({
+                'center' : center,
+                'seqs' : seq
+            })  
 
     final_cluster.sort(key=lambda x : len(x['seqs']), reverse=True)
     
