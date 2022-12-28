@@ -1,7 +1,11 @@
 ---
 tags: MSA
 ---
-# guide-tree
+# LE TRECO 
+LE TRECO: an Lstm-based Embedding method for the TREe COnstruction step in Multiple Sequence Alignment
+
+[![hackmd-github-sync-badge](https://hackmd.io/FwTMcWdHRXiOHj05m2wE-w/badge)](https://hackmd.io/FwTMcWdHRXiOHj05m2wE-w)
+
 ## TODO
 - ~~Output guide tree file~~
 - Short Term
@@ -13,10 +17,10 @@ tags: MSA
     - ~~Replace fast UPGMA with quadtree UPGMA~~
     - ~~Know how TC, SP works~~
     - ~~***Write script get score on Homfam/small***~~
-    - Add K-means to prose-mt
+    - ~~Add K-means to prose-mt~~
     - Do test on homfam/medium,large
-- Long Term
     - Replace K-means with kd-tree K-means
+- Long Term
     - Transfer learning on NW-score either by adding CNN after Bi-LSTM embedding layer or by adding a decoder layer after Bi-LSTM and use UniRef dataset to finetune the model
 
 ## Useful Commands
@@ -106,6 +110,20 @@ or edit ***score.sh*** and execute multiple scoring bash files
 - 2022/3/22
     - Transformer weights must store in on-chip DRAM, even when choosing the smallest model(41MB), so choose the bigger one may be better
     - Can use docker on workstation
+
+## Study
+### Siamese Network
+<a style="color:red">Recommended Reading : </a>
+https://iter01.com/581069.html
+![](https://i.imgur.com/ZW3MBAr.png)
+
+
+### Triplet Network
+:::info
+輸入是三個，一個正例 + 兩個負例，或者一個負例 + 兩個正例，訓練的目的是讓相同類別間的距離儘可能的小，讓不同類別間的距離儘可能的大。Triplet 在cifar，mnist的資料集上，效果都是很不錯的，超過了Siamese Network。
+:::
+![](https://i.imgur.com/eNXgmDW.png)
+
 
 ## Debug
 1. libc.so.6 Remove
